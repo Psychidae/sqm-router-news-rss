@@ -576,6 +576,8 @@ def infer_github_pages_url() -> str:
     if "/" not in repository:
         return ""
     owner, repo = repository.split("/", 1)
+    owner = owner.lower()
+    repo = repo.lower()
     if repo == f"{owner}.github.io":
         return f"https://{owner}.github.io/"
     return f"https://{owner}.github.io/{repo}/"
