@@ -138,7 +138,9 @@ def parse_feed(xml_bytes: bytes, source_name: str, source_url: str) -> list[News
     root = ET.fromstring(xml_bytes)
     root_name = local_name(root.tag).lower()
     if root_name == "rss":
-        channel = first_child(root, ["channel"]) or root
+        channel = first_child(root, ["channel"])
+        if channel is None:
+            channel = root
         entries = children(channel, "item")
         return [parse_rss_item(entry, source_name, source_url) for entry in entries]
     if root_name == "feed":
@@ -591,8 +593,13 @@ def apply_runtime_feed_defaults(config: dict[str, Any]) -> None:
         inferred = infer_github_pages_url()
         if inferred:
             feed["site_url"] = inferred
-    if not feed.get("feed_url") and feed.get("site_url"):
-        feed["feed_url"] = absolutize_url(str(feed["site_url"]), "feed.xml")
+    if feed.get("site_url"):
+        feed_path = str(feed.get("feed_path", "feed.xml"))
+        api_path = str(feed.get("api_path", "api/latest.json"))
+        if not feed.get("feed_url"):
+            feed["feed_url"] = absolutize_url(str(feed["site_url"]), feed_path)
+        if not feed.get("api_url"):
+            feed["api_url"] = absolutize_url(str(feed["site_url"]), api_path)
 
 
 def load_state(path: Path | None) -> dict[str, Any]:
@@ -727,7 +734,9 @@ def load_existing_rss_first_seen_dates(path: Path | None) -> dict[str, dt.dateti
     except (ET.ParseError, OSError):
         return {}
 
-    channel = first_child(root, ["channel"]) or root
+    channel = first_child(root, ["channel"])
+    if channel is None:
+        channel = root
     dates: dict[str, dt.datetime] = {}
     for entry in children(channel, "item"):
         item_id = clean_text(element_text(first_child(entry, ["guid", "id"])))

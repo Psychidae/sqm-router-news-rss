@@ -1,0 +1,122 @@
+{
+  "title": "ネットワーク性能・障害ニュース",
+  "description": "遅延、パケットロス、DNS、BGP、CDN、ISP、IPv6、ブロードバンド、通信障害などネットワーク性能・インフラ関連ニュースを集約します。",
+  "generated_at": "2026-05-01T23:03:10.742066Z",
+  "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
+  "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
+  "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
+  "count": 10,
+  "errors": [],
+  "items": [
+    {
+      "id": "48bce2e96b870ca5a3bc8140",
+      "title": "1977-2026: Computing, the Internet and Artificial Intelligence - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFloTVM0RjFTV19ndjE3OXBZRmY3V0NpNVVhdU50UXdWel9mQVlpRXJBVG15LVBqb3RRR2VvWU42Mk9faFZEQmZqWWxleDBPaXAzaldSSmd5WWlYSjlfUXl6MHNqdUdUTl9FNDlQcFZUVDN0bV9zQ2oyMVRqdE9mb1lYazd1X1dua2M1RmpHSkRwOUY1MXM4?oc=5",
+      "summary": "1977-2026: Computing, the Internet and Artificial Intelligence Broadband Breakfast",
+      "published_at": "2026-05-01T19:09:09Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "1c2e46dcb0cce3cb4a747cd1",
+      "title": "Rethinking Broadband With AI and Automation - Fierce Network",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWjZQMEFmcjVrRjZjT3FpUFNrMVdyV1NFSFFuQUxKMENVYzQtbUJlQWhNM3UwRzNscUxZSlh1NnJPSE43a1Y0TGlqdnZkTlY3NURUeUFSbFJHeXBZdlczTU52QU1CclczWGFvN05CUDM0RnhEUEZHNW5lbGlBSUJpT19Sc1pTQQ?oc=5",
+      "summary": "Rethinking Broadband With AI and Automation Fierce Network",
+      "published_at": "2026-05-01T17:18:22Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "3ad5bd8d0b777a4fea1a655f",
+      "title": "T-Mobile, Wren House plan joint venture to acquire i3 Broadband - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3czX0lBcmJyanoyTExwblN5bm9vdDNwX3JJQVM0aGtIa3ZrLW1jOVptbngzYU0zTGV5cXNPZ2JfeHRvc3ByZU4yY2JVSFlOYWtyckdqYWd3VDd5djMtTUYwYTM5REY3UnBoQUhtZjN6OTZsUGFaYU5KZDdiWENxakdGcm1valVLTUlSN3FoSDhxdWZ4bGMxLWFUeEVWUVZpVTY5Y2QzRGQ?oc=5",
+      "summary": "T-Mobile, Wren House plan joint venture to acquire i3 Broadband Jacksonville Journal-Courier",
+      "published_at": "2026-05-01T17:18:05Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "fb4e92f77f9810b7a1cf1ae9",
+      "title": "How CDNs Use Edge Caching and Global PoPs for Lower Latency and Smoother Streaming - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc3V0Wkg5NWpNU29SeFB4SHBLQU5aZ0ZLc0Q3WUVZUDZldkM5bHA1cjl4bjJlN0l4eU1sN0xUZjg3czJoNXNXSVMzd0ZaanZ2U1pIWWlTWk1hX3R5cTdoMm5LeGhzOTVJZnI3VlE1X2tzaVNreXZ0YlBnV29HSFZlUmpqaVhrc0ZLY0YyUWpBVEoxLVdtWWxUTnpqREUyYVF2M1htM09lUVJSUFhxcGVIZVZkX0hzQ3VmeDFxaFRCTXFNZmM?oc=5",
+      "summary": "How CDNs Use Edge Caching and Global PoPs for Lower Latency and Smoother Streaming Tech Times",
+      "published_at": "2026-05-01T17:05:11Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "02e7769d0ad6de89bbabfcaa",
+      "title": "Cable One Keeps Leaking Broadband Subs Under New CEO Holanda - Broadband Breakfast",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNak5aZXF1RHV4VkVPOTdLc3NsNjFRVkctVTY4d210N3pmUWRZU195NUZvWTBZTFZCN3ZvXzZIWUxzSnJjS2hHZnN5UGk1YUwwTldJWmFUbmJlT2VKWVpPUTVHOTVHT09fN2Q4eWd5MVlxODJteHVtTnhVY2NId0RYN1YzMXM2ZDdvVUFwMVktdFp0Y1RXeW93?oc=5",
+      "summary": "Cable One Keeps Leaking Broadband Subs Under New CEO Holanda Broadband Breakfast",
+      "published_at": "2026-05-01T12:53:25Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "332f4173d004fcde55cd43d1",
+      "title": "One NZ fixes issue causing widespread internet outage - 1News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkxzQ3RRLVJQd0V4TV91OU5oeXliLTRrM3N3RU5vWExoQkVvUEF6VHozTGFyallDRG9JSU01eU1xUUZsOFZpSzJlWld5MmJCSFNmWnVSVlZrbWRPYUtZNEFhVlR1MHNhQmlvMWdXbGJvSVliQ1lYVkxvYTgxNnpFZ2N5QmxOdjd4NDE0UEpuOGZXMFk?oc=5",
+      "summary": "One NZ fixes issue causing widespread internet outage 1News",
+      "published_at": "2026-05-01T09:46:14Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "e40f66c48242e2af0911cb3a",
+      "title": "Mobile and broadband outages resolved, software bug blamed - NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT0daZTY1UkpkWUp6aHJ5UXF4aVZHYkg5ZEZqbHpyWWZqdDdHbXFaSW5RX1hfTVJ3ZjlYVGJqSnNZdEtvVHlSUm5wejBfNW1pSG8weDNOcVNfUm5peW1oY0RCeDVmWkpwcWlQeE82VFMtek9FTzFwT2FZbFlYRGNGTm15NHZlTDZCZXVVcWl5aW41TjJtVmktVW03ekViaUE1czZhLS1pblduV1pEQURva3lKSFJxNFZxMnZWN3hLRG11emxIcFd4Rk1OMXAwZ2RhOEE?oc=5",
+      "summary": "Mobile and broadband outages resolved, software bug blamed NZ Herald",
+      "published_at": "2026-05-01T04:39:11Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "9c0caeef903e7070960d511f",
+      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
+      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
+      "published_at": "2026-05-01T02:23:55Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "56e5f9c1182cd64907b04a6d",
+      "title": "Kinetic Teams Up with YouTube TV to Expand Fiber Broadband Value Offerings - The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUJJd3gycTRTa0phQzBTZng5blAxN2lxS0xlR0FCak0xYklucHQzWmRqdUgzZUl3TE12dF9hN2FkS2V6dXVXYVJwNXVKZy1pY0o4b1VidVNuM21TdkxTUHBhLXZ2VHVlLVVTVE1LMmtjN0h6ekhyUnpsR3I0S3FINWNIaTZYMTBlR1JyMnFPTk1pU3JobWtGaFhoRUtqTVp6NFZJNDdOUk00X1hXR2cwNUpHaS1Wa0pJRVlpREJ2cFFuR0tGYVhfTFRWNlJOQTgz?oc=5",
+      "summary": "Kinetic Teams Up with YouTube TV to Expand Fiber Broadband Value Offerings The Fast Mode",
+      "published_at": "2026-05-01T00:59:33Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "ff813759446797beac8b9f71",
+      "title": "The CFO’s Blind Spot: Network Performance as an Unmeasured Financial Risk - Telecom Ramblings",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXl1UWNoTzZUbmhDSXE0TjYyZ2xmQ25Dc2FLckRBbkVDWVFQcWh3d1h0ZU90VlhzTmp6Q2ZreHR3b0MzTFhCVEozeWh2dTJIYnBQaGpCcGI2dGJGaldsNXlaLWlGMjd0SDRPN01zbk5QTFFDMnlmNmVBeDZtN3Rpd3FQc0ZQMlJOWjhWakhlbFdTd2VfNGxJSGNvRWI1dHJ6TnBPN2dUQ2kybzRoSjdaREFuYw?oc=5",
+      "summary": "The CFO’s Blind Spot: Network Performance as an Unmeasured Financial Risk Telecom Ramblings",
+      "published_at": "2026-05-01T07:14:45Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    }
+  ]
+}

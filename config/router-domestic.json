@@ -1,0 +1,106 @@
+{
+  "app": {
+    "title": "国内ルーター市場ニュース",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 336,
+    "max_items": 8,
+    "summary_chars": 180,
+    "state_path": ".state/router_domestic_sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "router-network-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "Router News"
+  },
+  "feed": {
+    "title": "国内ルーター市場ニュース",
+    "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
+    "language": "ja",
+    "site_url": "",
+    "feed_path": "feeds/router-domestic.xml",
+    "api_path": "api/router-domestic.json",
+    "item_date_mode": "first_seen",
+    "preserve_existing_on_error": true
+  },
+  "filters": {
+    "required_any": [
+      "Wi-Fiルーター",
+      "Wi-Fi ルーター",
+      "無線LANルーター",
+      "ホームルーター",
+      "ゲーミングルーター",
+      "メッシュWi-Fi",
+      "Wi-Fi 7",
+      "IPoE",
+      "10GbE",
+      "ルーター"
+    ],
+    "exclude_any": [
+      "株価",
+      "株式",
+      "決算",
+      "nasdaq",
+      "cnc",
+      "木工",
+      "トリマー"
+    ],
+    "score_terms": [
+      "Wi-Fiルーター",
+      "無線LANルーター",
+      "ホームルーター",
+      "ゲーミングルーター",
+      "メッシュWi-Fi",
+      "Wi-Fi 7",
+      "IPoE",
+      "10GbE",
+      "新製品",
+      "発売",
+      "レビュー",
+      "価格",
+      "バッファロー",
+      "NEC",
+      "ASUS",
+      "TP-Link",
+      "NETGEAR"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News JP: router products",
+      "type": "google_news",
+      "info_type": "国内ルーター市場",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(\"Wi-Fiルーター\" OR \"Wi-Fi ルーター\" OR \"無線LANルーター\" OR \"ホームルーター\" OR \"ゲーミングルーター\" OR \"メッシュWi-Fi\") (発売 OR 発表 OR 新製品 OR レビュー OR 価格 OR 国内 OR 日本)"
+    },
+    {
+      "name": "Google News JP: router vendors",
+      "type": "google_news",
+      "info_type": "国内ルーター市場",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(バッファロー OR NEC OR ASUS OR TP-Link OR NETGEAR OR エレコム) (ルーター OR Wi-Fi OR 無線LAN OR メッシュWi-Fi OR ホームルーター)"
+    },
+    {
+      "name": "Brave News JP: router products",
+      "type": "brave_search",
+      "search_type": "news",
+      "info_type": "国内ルーター市場",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "jp",
+      "search_lang": "ja",
+      "freshness": "pw",
+      "query": "(\"Wi-Fiルーター\" OR \"無線LANルーター\" OR \"ホームルーター\" OR \"ゲーミングルーター\" OR \"メッシュWi-Fi\" OR \"Wi-Fi 7\") (発売 OR 発表 OR レビュー OR 価格 OR 製品)",
+      "limit": 10
+    }
+  ]
+}

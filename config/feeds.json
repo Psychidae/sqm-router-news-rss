@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "Router / Network News Feeds",
+    "description": "Slackチャンネル別に購読できるルーター・ネットワーク関連ニュースRSSです。",
+    "timezone": "Asia/Tokyo"
+  },
+  "feeds": [
+    {
+      "id": "sqm-domestic",
+      "title": "SQMルーター国内マーケット",
+      "channel_hint": "#sqm-router-news",
+      "config": "config/japan-market.json",
+      "rss_output": "docs/feed.xml",
+      "json_output": "docs/api/latest.json"
+    },
+    {
+      "id": "router-domestic",
+      "title": "国内ルーター市場ニュース",
+      "channel_hint": "#router-domestic",
+      "config": "config/router-domestic.json",
+      "rss_output": "docs/feeds/router-domestic.xml",
+      "json_output": "docs/api/router-domestic.json"
+    },
+    {
+      "id": "router-global",
+      "title": "海外ルーターニュース",
+      "channel_hint": "#router-global",
+      "config": "config/router-global.json",
+      "rss_output": "docs/feeds/router-global.xml",
+      "json_output": "docs/api/router-global.json"
+    },
+    {
+      "id": "network-security",
+      "title": "ネットワークセキュリティ",
+      "channel_hint": "#network-security",
+      "config": "config/network-security.json",
+      "rss_output": "docs/feeds/network-security.xml",
+      "json_output": "docs/api/network-security.json"
+    },
+    {
+      "id": "network-performance",
+      "title": "ネットワーク性能・障害",
+      "channel_hint": "#network-performance",
+      "config": "config/network-performance.json",
+      "rss_output": "docs/feeds/network-performance.xml",
+      "json_output": "docs/api/network-performance.json"
+    }
+  ]
+}

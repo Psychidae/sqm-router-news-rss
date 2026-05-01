@@ -1,0 +1,104 @@
+{
+  "app": {
+    "title": "ネットワーク性能・障害ニュース",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 168,
+    "max_items": 10,
+    "summary_chars": 220,
+    "state_path": ".state/network_performance_sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "router-network-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "Network News"
+  },
+  "feed": {
+    "title": "ネットワーク性能・障害ニュース",
+    "description": "遅延、パケットロス、DNS、BGP、CDN、ISP、IPv6、ブロードバンド、通信障害などネットワーク性能・インフラ関連ニュースを集約します。",
+    "language": "ja",
+    "site_url": "",
+    "feed_path": "feeds/network-performance.xml",
+    "api_path": "api/network-performance.json",
+    "item_date_mode": "first_seen",
+    "preserve_existing_on_error": true
+  },
+  "filters": {
+    "required_any": [
+      "latency",
+      "packet loss",
+      "DNS outage",
+      "BGP",
+      "CDN outage",
+      "internet outage",
+      "network performance",
+      "broadband",
+      "IPv6",
+      "通信障害",
+      "遅延",
+      "パケットロス",
+      "DNS",
+      "CDN",
+      "ブロードバンド"
+    ],
+    "exclude_any": [
+      "stock price",
+      "earnings call",
+      "求人",
+      "採用"
+    ],
+    "score_terms": [
+      "latency",
+      "packet loss",
+      "DNS",
+      "BGP",
+      "CDN",
+      "internet outage",
+      "network performance",
+      "broadband",
+      "IPv6",
+      "通信障害",
+      "遅延",
+      "パケットロス",
+      "ブロードバンド"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News Global: network performance",
+      "type": "google_news",
+      "info_type": "性能・障害",
+      "enabled": true,
+      "hl": "en",
+      "gl": "US",
+      "ceid": "US:en",
+      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR BGP OR \"CDN outage\" OR \"internet outage\" OR \"network performance\" OR broadband OR IPv6) (network OR internet OR ISP OR routing)"
+    },
+    {
+      "name": "Google News JP: network outage",
+      "type": "google_news",
+      "info_type": "性能・障害",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(通信障害 OR 遅延 OR パケットロス OR DNS OR CDN OR BGP OR IPv6 OR ブロードバンド) (ネットワーク OR インターネット OR 回線 OR ISP)"
+    },
+    {
+      "name": "Brave News Global: network performance",
+      "type": "brave_search",
+      "search_type": "news",
+      "info_type": "性能・障害",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "us",
+      "search_lang": "en",
+      "freshness": "pw",
+      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR BGP OR \"CDN outage\" OR \"internet outage\" OR broadband OR IPv6) (network OR internet OR ISP OR routing)",
+      "limit": 10
+    }
+  ]
+}

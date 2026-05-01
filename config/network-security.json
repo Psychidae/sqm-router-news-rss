@@ -1,0 +1,99 @@
+{
+  "app": {
+    "title": "ネットワークセキュリティニュース",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 168,
+    "max_items": 10,
+    "summary_chars": 220,
+    "state_path": ".state/network_security_sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "router-network-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "Network Security News"
+  },
+  "feed": {
+    "title": "ネットワークセキュリティニュース",
+    "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
+    "language": "ja",
+    "site_url": "",
+    "feed_path": "feeds/network-security.xml",
+    "api_path": "api/network-security.json",
+    "item_date_mode": "first_seen",
+    "preserve_existing_on_error": true
+  },
+  "filters": {
+    "required_any": [
+      "router vulnerability",
+      "router flaw",
+      "Wi-Fi vulnerability",
+      "firmware vulnerability",
+      "VPN vulnerability",
+      "firewall vulnerability",
+      "CVE",
+      "security advisory",
+      "zero-day",
+      "exploit",
+      "脆弱性",
+      "セキュリティ"
+    ],
+    "exclude_any": [
+      "stock price",
+      "earnings call",
+      "wood router",
+      "cnc router"
+    ],
+    "score_terms": [
+      "CVE",
+      "vulnerability",
+      "security advisory",
+      "zero-day",
+      "exploit",
+      "router",
+      "firewall",
+      "VPN",
+      "Wi-Fi",
+      "脆弱性",
+      "セキュリティ"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News Global: router security",
+      "type": "google_news",
+      "info_type": "セキュリティ",
+      "enabled": true,
+      "hl": "en",
+      "gl": "US",
+      "ceid": "US:en",
+      "query": "(\"router vulnerability\" OR \"router flaw\" OR \"Wi-Fi vulnerability\" OR \"firmware vulnerability\" OR \"VPN vulnerability\" OR \"firewall vulnerability\" OR \"CVE\") (router OR Wi-Fi OR VPN OR firewall OR gateway)"
+    },
+    {
+      "name": "Google News JP: network security",
+      "type": "google_news",
+      "info_type": "セキュリティ",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(ルーター OR Wi-Fi OR VPN OR ファイアウォール OR ネットワーク機器) (脆弱性 OR CVE OR セキュリティ OR ゼロデイ OR 攻撃)"
+    },
+    {
+      "name": "Brave News Global: network security",
+      "type": "brave_search",
+      "search_type": "news",
+      "info_type": "セキュリティ",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "us",
+      "search_lang": "en",
+      "freshness": "pw",
+      "query": "(\"router vulnerability\" OR \"Wi-Fi vulnerability\" OR \"VPN vulnerability\" OR \"firewall vulnerability\" OR \"security advisory\") (CVE OR exploit OR patch)",
+      "limit": 10
+    }
+  ]
+}

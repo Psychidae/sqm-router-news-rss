@@ -1,0 +1,98 @@
+{
+  "app": {
+    "title": "海外ルーターニュース",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 336,
+    "max_items": 10,
+    "summary_chars": 200,
+    "state_path": ".state/router_global_sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "router-network-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "Router News"
+  },
+  "feed": {
+    "title": "海外ルーターニュース",
+    "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
+    "language": "ja",
+    "site_url": "",
+    "feed_path": "feeds/router-global.xml",
+    "api_path": "api/router-global.json",
+    "item_date_mode": "first_seen",
+    "preserve_existing_on_error": true
+  },
+  "filters": {
+    "required_any": [
+      "router",
+      "Wi-Fi router",
+      "mesh router",
+      "gaming router",
+      "OpenWrt",
+      "router firmware",
+      "home networking",
+      "Wi-Fi 7"
+    ],
+    "exclude_any": [
+      "wood router",
+      "cnc router",
+      "router bit",
+      "plunge router",
+      "trim router",
+      "stock price",
+      "earnings call"
+    ],
+    "score_terms": [
+      "router",
+      "Wi-Fi router",
+      "mesh router",
+      "gaming router",
+      "OpenWrt",
+      "router firmware",
+      "Wi-Fi 7",
+      "home networking",
+      "review",
+      "launch",
+      "release"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News US: router products",
+      "type": "google_news",
+      "info_type": "海外ルーターニュース",
+      "enabled": true,
+      "hl": "en",
+      "gl": "US",
+      "ceid": "US:en",
+      "query": "(\"Wi-Fi router\" OR \"mesh router\" OR \"gaming router\" OR \"OpenWrt\" OR \"router firmware\") (launch OR release OR review OR security OR update)"
+    },
+    {
+      "name": "Google News Global: home networking",
+      "type": "google_news",
+      "info_type": "海外ルーターニュース",
+      "enabled": true,
+      "hl": "en",
+      "gl": "US",
+      "ceid": "US:en",
+      "query": "(\"home networking\" OR \"Wi-Fi 7\" OR \"mesh Wi-Fi\") (router OR gateway OR firmware OR review)"
+    },
+    {
+      "name": "Brave News Global: router products",
+      "type": "brave_search",
+      "search_type": "news",
+      "info_type": "海外ルーターニュース",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "us",
+      "search_lang": "en",
+      "freshness": "pw",
+      "query": "(\"Wi-Fi router\" OR \"mesh router\" OR \"gaming router\" OR \"OpenWrt\" OR \"router firmware\") (launch OR release OR review OR update)",
+      "limit": 10
+    }
+  ]
+}

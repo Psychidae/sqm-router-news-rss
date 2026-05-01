@@ -1,0 +1,45 @@
+{
+  "title": "ネットワークセキュリティニュース",
+  "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
+  "generated_at": "2026-05-01T23:03:09.840849Z",
+  "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
+  "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
+  "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
+  "count": 3,
+  "errors": [],
+  "items": [
+    {
+      "id": "13561746a4e8868bae7971cd",
+      "title": "ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRkVjaUZxaGZLY0wyOW1KTUhNajlZSGFJS0V0R21JN2s1RE9kekVQMU1lbWpKQjFIRnBlQkNHQVIyeXhqR3hHUmlKTldEeHJYYk0wMk45LWtOUC1pbXF6NllnaEZudVBMN3cyQy0yV3ZldkQweEVoZDlyaw?oc=5",
+      "summary": "ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に ニコニコニュース",
+      "published_at": "2026-05-01T05:03:18Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
+      "id": "35a44c20783ebb32056a477a",
+      "title": "脆弱性情報や設定項目を手軽に取得 的確な回答は適切な事前準備から - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Vb1lZQk5JVTJuLWJvbmJETDJ0VGhJdFlIQnZhdnlNWWg2ZE5XbUd5STJlS210akw0Y3lqeHBoS2FsUnVQcG1KeFZaVGRFZmo0RFpla1N0OHB5WWtjdzRaSU53aFU4Y1luYjNjdlBDR0ljM1U?oc=5",
+      "summary": "脆弱性情報や設定項目を手軽に取得 的確な回答は適切な事前準備から 日経クロステック",
+      "published_at": "2026-04-30T22:01:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "c7e9cfc6a2ce5de2aed1d940",
+      "title": "IPA、ゴールデンウィークに向けたセキュリティ対策を呼びかけ 企業・組織では「ネットワーク貫通型攻撃」に注意を - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVkhBemlIelJIZWtzOFZSQjNPc1VrdXRxek5PbkhuMFBPM0EwSEh0bk1ORmZuZmtqaXVsSmVaQ3hHR3QyLWZxRDI0cTdETl93S0hheDBIVGJ0aVRnZU13Tkt6S0paX2NPS0dF?oc=5",
+      "summary": "IPA、ゴールデンウィークに向けたセキュリティ対策を呼びかけ 企業・組織では「ネットワーク貫通型攻撃」に注意を INTERNET Watch",
+      "published_at": "2026-04-27T21:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    }
+  ]
+}

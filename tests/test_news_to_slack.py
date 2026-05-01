@@ -290,6 +290,32 @@ class NewsToSlackTests(unittest.TestCase):
         self.assertEqual(config["feed"]["site_url"], "https://octo.github.io/sqm-feed/")
         self.assertEqual(config["feed"]["feed_url"], "https://octo.github.io/sqm-feed/feed.xml")
 
+    def test_github_pages_url_inference_uses_feed_paths(self):
+        old_repo = os.environ.get("GITHUB_REPOSITORY")
+        old_pages = os.environ.get("PAGES_SITE_URL")
+        try:
+            os.environ.pop("PAGES_SITE_URL", None)
+            os.environ["GITHUB_REPOSITORY"] = "octo/sqm-feed"
+            config = {
+                "feed": {
+                    "site_url": "",
+                    "feed_path": "feeds/router-domestic.xml",
+                    "api_path": "api/router-domestic.json",
+                }
+            }
+            news_to_slack.apply_runtime_feed_defaults(config)
+        finally:
+            if old_repo is None:
+                os.environ.pop("GITHUB_REPOSITORY", None)
+            else:
+                os.environ["GITHUB_REPOSITORY"] = old_repo
+            if old_pages is None:
+                os.environ.pop("PAGES_SITE_URL", None)
+            else:
+                os.environ["PAGES_SITE_URL"] = old_pages
+        self.assertEqual(config["feed"]["feed_url"], "https://octo.github.io/sqm-feed/feeds/router-domestic.xml")
+        self.assertEqual(config["feed"]["api_url"], "https://octo.github.io/sqm-feed/api/router-domestic.json")
+
     def test_build_json_payload(self):
         item = news_to_slack.NewsItem(
             title="SQM issue",

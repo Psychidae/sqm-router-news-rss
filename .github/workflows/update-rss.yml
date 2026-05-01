@@ -1,4 +1,4 @@
-name: Update SQM router RSS feed
+name: Update router and network RSS feeds
 
 on:
   schedule:
@@ -22,18 +22,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate RSS feed
+      - name: Generate RSS feeds
         env:
           GITHUB_TOKEN: ${{ github.token }}
           BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
-        run: >
-          python src/news_to_slack.py
-          --config config/japan-market.json
-          --rss-output docs/feed.xml
-          --json-output docs/api/latest.json
-          --index-output docs/index.html
+        run: python src/generate_all_feeds.py --manifest config/feeds.json --index-output docs/index.html
 
-      - name: Commit updated feed
+      - name: Commit updated feeds
         run: |
           if [ -z "$(git status --porcelain docs)" ]; then
             echo "No feed changes."
@@ -41,6 +36,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml docs/api/latest.json docs/index.html
+          git add docs
           git commit -m "chore: update published feeds"
           git push

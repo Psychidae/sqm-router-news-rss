@@ -21,6 +21,8 @@
     "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、バッファブロート、低遅延ルーター関連のニュース・Web記事を集約したRSSフィードです。",
     "language": "ja",
     "site_url": "",
+    "feed_path": "feed.xml",
+    "api_path": "api/latest.json",
     "item_date_mode": "first_seen",
     "preserve_existing_on_error": true
   },

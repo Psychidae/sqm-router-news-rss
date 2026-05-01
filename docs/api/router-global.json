@@ -1,0 +1,122 @@
+{
+  "title": "海外ルーターニュース",
+  "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
+  "generated_at": "2026-05-01T23:03:09.443060Z",
+  "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
+  "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
+  "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
+  "count": 10,
+  "errors": [],
+  "items": [
+    {
+      "id": "5501a1771b20ea16d69eb1b7",
+      "title": "Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU9EX29yeWtNT2hYWUs0ZUVMN1N6UV9oZGUtbEM5WlhtMzh1aTRHMHFubWlmTVJSVmRpUjJnZEpyRl9YTTVFNlByV2Fmc1JCUFhqWnZlRFJnUE0wZHJudXN2U0dQY0ZndGtMckpHZGFqX2xMVlhYdk9JSVRYMUFRbG9GaTYzcl9TUmRUT3dVWkFITUZ3c09zdnc2ZjhwSUxPWnpPLWtR?oc=5",
+      "summary": "Xiaomi releases Wi-Fi 7 mesh router system internationally Notebookcheck",
+      "published_at": "2026-04-30T13:22:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
+    },
+    {
+      "id": "ac5cc269e06ea4ddc86d4255",
+      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
+      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
+      "published_at": "2026-04-25T18:00:29Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "6126e4fed1e19c92565c7171",
+      "title": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech",
+      "published_at": "2026-04-21T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "26e9fdb7505e9266d0e2d7e5",
+      "title": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oaFVmY0IyQXVIM3ZTZjJON09tOHVKazJnUGs0QUpkamhKN2dOZDFrbFdvdmxhSjJJZHNjU09qVkVscVloUEFIblRmbDhqLWpvQzlRYjdCZFE?oc=5",
+      "summary": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point Dong Knows Tech",
+      "published_at": "2026-04-29T18:38:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "590190f9c6ffdc9aa441912a",
+      "title": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
+      "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
+      "published_at": "2026-04-28T11:02:47Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "6a33ea2a7a6146847a4ef7d5",
+      "title": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5",
+      "summary": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag",
+      "published_at": "2026-04-28T21:20:20Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "a440b1456ea4d28086f93893",
+      "title": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours - mirror.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbThzbTRjWUE0SkhTNjNmd2ZWblU2UWtGbllDZDJ1aEZxUGczRWlWcWc4OFNDNTBUd0dIeWlWdlA3N3AzeFZPYU1ENDJ4U2EtM0lBYURLczFwdTd2eFpUXzMxTkJEbWZxZ2ZEUy1OTGUzNWdtNDAxatIBfkFVX3lxTFBOMG5BUzRNa2ZMR2plUks0OVk3Skxoa1RLbVNYX0JWVmoyOVp3MDhKWkpWNHVUenZGelJYWTlrYkhzTEptRU5USjdJT1RRcTBLS0lUUkJWLUt6V3YwcFRjM0lCNlRTVjcwOHVhMXBFcTBtZ3B1TEM5ZWItNmdaUQ?oc=5",
+      "summary": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours mirror.co.uk",
+      "published_at": "2026-04-27T09:08:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "4a68625d54935509fab00ea4",
+      "title": "Portable Wi-Fi Router for Travel: Top Picks With VPNs - Cybernews",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eUV3dnJISGo1aERnM183eHd3V3poZUdDZEJLbEN2NEtYQmpLZ0lXUGdTVWtOb3lYQTgxOS1xbnkzd0ZSNC1LMG43QW80eGdpb3hKUmQyT29FbHc?oc=5",
+      "summary": "Portable Wi-Fi Router for Travel: Top Picks With VPNs Cybernews",
+      "published_at": "2026-04-21T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 10
+    },
+    {
+      "id": "e140af00164c0f099ebf130d",
+      "title": "OpenWrt 23.05 Authenticated Remote Code Execution (RCE) Vulnerability: Risk Analysis, Impact, and Mitigation (CVE-2025-62526) - Rescana",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3Atd1otU0dta1pjVWR5NHI2a1BXVGJVSlVPVnpzYVR0WkxBcm8ySW12LThqcS1qcG54bk5YRXJCeHU3MFpTWnlPb2p5dVI5WjNWWGdYMko3LWNsR1R0U2NZMUhIdHF6TGhELWJTQzQzangwNEItSjd1MDdMN202UzBocnVrNXJ2Q0FGWWVGeklZd0tvUDdGWmxPeWlRYmpiMmRVLVV6REZ2UjZ5bUE?oc=5",
+      "summary": "OpenWrt 23.05 Authenticated Remote Code Execution (RCE) Vulnerability: Risk Analysis, Impact, and Mitigation (CVE-2025-62526) Rescana",
+      "published_at": "2026-04-30T17:06:30Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "65439269129d5c1ac9589ca7",
+      "title": "You Should Replace Your Starlink Router - Here's Why - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxbW9ocVAtVEpwUFh4OHFkY0hrZVpaa1dFOWJkbEZpdm1MX0lYX2dXNjR5SmZTR3A2b2ROR1hYNTFxdEVHekh2ODlBSjFGWm4zN1BsNGl2VXJyeXl0Y1VZN0MyQThUOFoy?oc=5",
+      "summary": "You Should Replace Your Starlink Router - Here's Why bgr.com",
+      "published_at": "2026-04-29T16:17:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    }
+  ]
+}
