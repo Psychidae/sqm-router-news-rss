@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、ISP、IPv6、ブロードバンド、通信障害などネットワーク性能・インフラ関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 May 2026 23:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 23:06:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 1977-2026: Computing, the Internet and Artificial Intelligence - Broadband Breakfast</title>
@@ -120,6 +120,20 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Virgin Media O2 UK Broadband Users Fall by 5.6k as Full Fibre Build Stalls UPDATE - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzQwUmQ3cmFfcHBncmpObmpIenlQYTJGT3l1aTV1YjJSTm84YmdDd3BTLWNjbDhRbjFSRWxpUVJyYnBnMmcwTjVhazhyMUFnMG9PWVg5UHNIYnZkUnl1N0pDckZWdDBvSlJsblk3Ti1JSE1GRzBmVUp2VkZaUUF5WTVxV2ozV0N1ZmpQWk9sbkFrVzdnRF9yOGNYTlNUd0NDaTFocVA2QUVtMXlsY2VWUVAxSXZod1N5dkJLS1N5MEVtdVk?oc=5</link>
+      <guid isPermaLink="false">94114b2eac4fe5a9d09fc0c9</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 16:29
+Virgin Media O2 UK Broadband Users Fall by 5.6k as Full Fibre Build Stalls UPDATE ISPreview UK</description>
+      <pubDate>Fri, 01 May 2026 23:06:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-01T23:06:28.356824Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T07:29:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Internet outage: One New Zealand Chief Executive explains widespread signal loss - Newstalk ZB</title>
       <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnVnczhFQUMzeXJ4ZmlKWElseDVmRjVfWEpPRmNtZG9icWdGRkhVLWlsUzBXc3luSmtJdmdkbU82UUhtdnFkQVZNWkZJYVdTYUx5VTZ3RUhkRW9SNlRCb0dnOGZCVFRxTWRJZzk4TTNkQmhWVnNlZ1BBWUw2ajZDNkp5UnFkUXY4anpfVlpXMEZBT0xZWk5yaER6VFFXejBrZXJ6RkI5UThicGs2eTdlSGpLcEthV2t6bGtZZERUY2ZHZXdENXhiVE9tNjF3OEFxX2IzSVBsLWY2blk3amZPLWpRT1c4S2Vx?oc=5</link>
       <guid isPermaLink="false">7e03503f0d02d903dd177c47</guid>
@@ -130,20 +144,6 @@ Internet outage: One New Zealand Chief Executive explains widespread signal loss
       <pubDate>Fri, 01 May 2026 23:04:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-01T23:04:04.471710Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-01T06:04:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Mobile and broadband outages resolved, software bug blamed - NZ Herald</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT0daZTY1UkpkWUp6aHJ5UXF4aVZHYkg5ZEZqbHpyWWZqdDdHbXFaSW5RX1hfTVJ3ZjlYVGJqSnNZdEtvVHlSUm5wejBfNW1pSG8weDNOcVNfUm5peW1oY0RCeDVmWkpwcWlQeE82VFMtek9FTzFwT2FZbFlYRGNGTm15NHZlTDZCZXVVcWl5aW41TjJtVmktVW03ekViaUE1czZhLS1pblduV1pEQURva3lKSFJxNFZxMnZWN3hLRG11emxIcFd4Rk1OMXAwZ2RhOEE?oc=5</link>
-      <guid isPermaLink="false">e40f66c48242e2af0911cb3a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 13:39
-Mobile and broadband outages resolved, software bug blamed NZ Herald</description>
-      <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T04:39:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
