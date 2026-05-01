@@ -27,6 +27,8 @@ except ImportError:  # pragma: no cover - Python 3.8 fallback
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
 DEFAULT_CONFIG = "config/japan-market.json"
+SQM_NS = "https://psychidae.github.io/sqm-router-news-rss/ns"
+ET.register_namespace("sqm", SQM_NS)
 
 
 @dataclasses.dataclass(frozen=True)
@@ -715,7 +717,44 @@ def item_description(item: NewsItem, max_chars: int) -> str:
     return "\n".join(parts)
 
 
-def build_rss_feed(items: list[NewsItem], config: dict[str, Any]) -> bytes:
+def load_existing_rss_first_seen_dates(path: Path | None) -> dict[str, dt.datetime]:
+    if path is None or not path.exists():
+        return {}
+    try:
+        root = ET.parse(path).getroot()
+    except (ET.ParseError, OSError):
+        return {}
+
+    channel = first_child(root, ["channel"]) or root
+    dates: dict[str, dt.datetime] = {}
+    for entry in children(channel, "item"):
+        item_id = clean_text(element_text(first_child(entry, ["guid", "id"])))
+        first_seen = parse_datetime(element_text(first_child(entry, ["firstSeenDate", "firstSeen"])))
+        if item_id and first_seen is not None:
+            dates[item_id] = first_seen
+    return dates
+
+
+def resolve_rss_item_dates(
+    items: list[NewsItem],
+    config: dict[str, Any],
+    existing_first_seen_dates: dict[str, dt.datetime],
+    now: dt.datetime,
+) -> dict[str, dt.datetime]:
+    feed_config = config.get("feed", {})
+    if feed_config.get("item_date_mode") != "first_seen":
+        return {}
+    return {
+        item.item_id: existing_first_seen_dates.get(item.item_id, now)
+        for item in items
+    }
+
+
+def build_rss_feed(
+    items: list[NewsItem],
+    config: dict[str, Any],
+    rss_item_dates: dict[str, dt.datetime] | None = None,
+) -> bytes:
     app = config.get("app", {})
     feed_config = config.get("feed", {})
     title = feed_config.get("title", app.get("title", "SQMルーター最新情報"))
@@ -727,6 +766,10 @@ def build_rss_feed(items: list[NewsItem], config: dict[str, Any]) -> bytes:
     feed_url = feed_config.get("feed_url", absolutize_url(site_url, "feed.xml") if site_url else "")
     language = feed_config.get("language", "ja")
     summary_chars = int(app.get("summary_chars", 180))
+    generated_at = dt.datetime.now(dt.timezone.utc)
+    if rss_item_dates is None and feed_config.get("item_date_mode") == "first_seen":
+        rss_item_dates = {item.item_id: generated_at for item in items}
+    rss_item_dates = rss_item_dates or {}
 
     rss = ET.Element("rss", {"version": "2.0"})
     channel = ET.SubElement(rss, "channel")
@@ -745,7 +788,12 @@ def build_rss_feed(items: list[NewsItem], config: dict[str, Any]) -> bytes:
         guid = ET.SubElement(entry, "guid", {"isPermaLink": "false"})
         guid.text = item.item_id
         ET.SubElement(entry, "description").text = item_description(item, summary_chars)
-        ET.SubElement(entry, "pubDate").text = rfc2822(item.published)
+        rss_date = rss_item_dates.get(item.item_id)
+        ET.SubElement(entry, "pubDate").text = rfc2822(rss_date or item.published)
+        if rss_date is not None:
+            ET.SubElement(entry, f"{{{SQM_NS}}}firstSeenDate").text = iso_datetime(rss_date)
+            if item.published is not None:
+                ET.SubElement(entry, f"{{{SQM_NS}}}sourcePublishedDate").text = iso_datetime(item.published)
         ET.SubElement(entry, "source", {"url": item.source_url}).text = item.source
         ET.SubElement(entry, "category").text = item.info_type
 
@@ -753,9 +801,14 @@ def build_rss_feed(items: list[NewsItem], config: dict[str, Any]) -> bytes:
     return ET.tostring(rss, encoding="utf-8", xml_declaration=True)
 
 
-def write_rss_feed(path: Path, items: list[NewsItem], config: dict[str, Any]) -> None:
+def write_rss_feed(
+    path: Path,
+    items: list[NewsItem],
+    config: dict[str, Any],
+    rss_item_dates: dict[str, dt.datetime] | None = None,
+) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_bytes(build_rss_feed(items, config))
+    path.write_bytes(build_rss_feed(items, config, rss_item_dates))
 
 
 def iso_datetime(value: dt.datetime | None) -> str | None:
@@ -958,7 +1011,14 @@ def main(argv: list[str] | None = None) -> int:
             print(f"取得エラーがあり新規項目が0件のため、既存公開ファイルを保持しました: {kept}")
             return 0
         if rss_path is not None:
-            write_rss_feed(rss_path, items, config)
+            existing_first_seen_dates = load_existing_rss_first_seen_dates(rss_path)
+            rss_item_dates = resolve_rss_item_dates(
+                items,
+                config,
+                existing_first_seen_dates,
+                dt.datetime.now(dt.timezone.utc),
+            )
+            write_rss_feed(rss_path, items, config, rss_item_dates)
         if json_path is not None:
             write_json_api(json_path, items, config, errors)
         if args.index_output:

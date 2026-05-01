@@ -21,6 +21,7 @@
     "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報を集約したRSSフィードです。",
     "language": "ja",
     "site_url": "",
+    "item_date_mode": "first_seen",
     "preserve_existing_on_error": true
   },
   "filters": {

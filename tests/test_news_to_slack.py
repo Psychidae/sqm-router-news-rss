@@ -185,6 +185,74 @@ class NewsToSlackTests(unittest.TestCase):
         self.assertIn("<category>開発一次情報</category>", body)
         self.assertIn("<guid isPermaLink=\"false\">abc</guid>", body)
 
+    def test_build_rss_feed_can_use_first_seen_date_for_slack(self):
+        item = news_to_slack.NewsItem(
+            title="SQM issue",
+            link="https://example.com/issue",
+            summary="cake_mq regression",
+            published=dt.datetime(2026, 5, 1, tzinfo=dt.timezone.utc),
+            source="GitHub issues",
+            source_url="https://api.github.com/search/issues",
+            item_id="abc",
+            info_type="開発一次情報",
+        )
+        first_seen = dt.datetime(2026, 5, 2, 1, 2, 3, tzinfo=dt.timezone.utc)
+        body = news_to_slack.build_rss_feed(
+            [item],
+            {
+                "app": {"summary_chars": 120},
+                "feed": {
+                    "title": "Test Feed",
+                    "description": "desc",
+                    "language": "ja",
+                    "item_date_mode": "first_seen",
+                },
+            },
+            {"abc": first_seen},
+        ).decode("utf-8")
+        self.assertIn("<pubDate>Sat, 02 May 2026 01:02:03 GMT</pubDate>", body)
+        self.assertIn("<sqm:firstSeenDate>2026-05-02T01:02:03Z</sqm:firstSeenDate>", body)
+        self.assertIn("<sqm:sourcePublishedDate>2026-05-01T00:00:00Z</sqm:sourcePublishedDate>", body)
+
+    def test_resolve_rss_item_dates_uses_existing_marked_first_seen(self):
+        item = news_to_slack.NewsItem(
+            title="SQM issue",
+            link="https://example.com/issue",
+            summary="cake_mq regression",
+            published=dt.datetime(2026, 5, 1, tzinfo=dt.timezone.utc),
+            source="GitHub issues",
+            source_url="https://api.github.com/search/issues",
+            item_id="abc",
+            info_type="開発一次情報",
+        )
+        first_seen = dt.datetime(2026, 5, 2, 1, 2, 3, tzinfo=dt.timezone.utc)
+        later = dt.datetime(2026, 5, 2, 2, 0, 0, tzinfo=dt.timezone.utc)
+        dates = news_to_slack.resolve_rss_item_dates(
+            [item],
+            {"feed": {"item_date_mode": "first_seen"}},
+            {"abc": first_seen},
+            later,
+        )
+        self.assertEqual(dates["abc"], first_seen)
+
+    def test_load_existing_rss_first_seen_dates_ignores_legacy_pubdate(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "feed.xml"
+            path.write_text(
+                """<?xml version='1.0' encoding='utf-8'?>
+                <rss version="2.0">
+                  <channel>
+                    <item>
+                      <guid isPermaLink="false">abc</guid>
+                      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+                    </item>
+                  </channel>
+                </rss>
+                """,
+                encoding="utf-8",
+            )
+            self.assertEqual(news_to_slack.load_existing_rss_first_seen_dates(path), {})
+
     def test_write_index_html(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "index.html"

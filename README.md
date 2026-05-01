@@ -10,6 +10,7 @@ Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側で�
 - 国内向け設定ではGoogle News JP、Bing News JP、Brave Search JP、公式更新、GitHub開発一次情報から取得
 - SQM関連キーワードでフィルタリング
 - RSS itemのタイトルに `[開発一次情報]` などの情報種別を表示
+- Slack RSS appで新着扱いされるよう、RSS itemの日付は「このシステムが初めて見つけた日時」として保持
 - GitHub Actionsで `docs/feed.xml` と `docs/api/latest.json` を30分ごとに更新
 - GitHub PagesでRSS/JSON APIを公開し、Slack RSS appや自前サーバーから利用
 - 広域調査用に `config/sqm-router.json` も残す
@@ -101,6 +102,7 @@ https://psychidae.github.io/sqm-router-news-rss/api/latest.json
 - `filters.exclude_any`: 除外キーワード
 - `sources`: RSS/Atomと検索APIの一覧
 - `feed`: RSSのタイトル、説明、言語、公開URL
+- `feed.item_date_mode`: `first_seen` の場合、Slack通知用にRSS itemの `pubDate` を初回発見日時にする
 - `feed.preserve_existing_on_error`: 取得エラー時に空RSSで上書きしない保護
 
 GitHub Actions上では `GITHUB_REPOSITORY` からGitHub Pages URLを自動推定します。独自ドメインや別URLを使う場合は、環境変数 `PAGES_SITE_URL` か `feed.site_url` を設定してください。
