@@ -18,7 +18,7 @@
   },
   "feed": {
     "title": "ネットワーク性能・障害ニュース",
-    "description": "遅延、パケットロス、DNS、BGP、CDN、ISP、IPv6、ブロードバンド、通信障害などネットワーク性能・インフラ関連ニュースを集約します。",
+    "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
     "language": "ja",
     "site_url": "",
     "feed_path": "feeds/network-performance.xml",
@@ -35,20 +35,25 @@
       "CDN outage",
       "internet outage",
       "network performance",
-      "broadband",
       "IPv6",
       "通信障害",
       "遅延",
       "パケットロス",
       "DNS",
       "CDN",
-      "ブロードバンド"
+      "経路制御"
     ],
     "exclude_any": [
       "stock price",
       "earnings call",
       "求人",
-      "採用"
+      "採用",
+      "artificial intelligence",
+      "joint venture",
+      "acquire",
+      "subscribers",
+      "stock price",
+      "earnings"
     ],
     "score_terms": [
       "latency",
@@ -58,12 +63,12 @@
       "CDN",
       "internet outage",
       "network performance",
-      "broadband",
       "IPv6",
       "通信障害",
       "遅延",
       "パケットロス",
-      "ブロードバンド"
+      "経路制御",
+      "routing incident"
     ]
   },
   "sources": [
@@ -75,7 +80,7 @@
       "hl": "en",
       "gl": "US",
       "ceid": "US:en",
-      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR BGP OR \"CDN outage\" OR \"internet outage\" OR \"network performance\" OR broadband OR IPv6) (network OR internet OR ISP OR routing)"
+      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR \"BGP outage\" OR \"BGP routing\" OR \"CDN outage\" OR \"internet outage\" OR \"network congestion\" OR \"routing incident\" OR \"IPv6 outage\") (network OR internet OR ISP OR routing)"
     },
     {
       "name": "Google News JP: network outage",
@@ -85,7 +90,7 @@
       "hl": "ja",
       "gl": "JP",
       "ceid": "JP:ja",
-      "query": "(通信障害 OR 遅延 OR パケットロス OR DNS OR CDN OR BGP OR IPv6 OR ブロードバンド) (ネットワーク OR インターネット OR 回線 OR ISP)"
+      "query": "(通信障害 OR 遅延 OR パケットロス OR DNS障害 OR CDN障害 OR BGP OR IPv6 OR 経路障害) (ネットワーク OR インターネット OR 回線 OR ISP)"
     },
     {
       "name": "Brave News Global: network performance",
@@ -97,7 +102,7 @@
       "country": "us",
       "search_lang": "en",
       "freshness": "pw",
-      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR BGP OR \"CDN outage\" OR \"internet outage\" OR broadband OR IPv6) (network OR internet OR ISP OR routing)",
+      "query": "(latency OR \"packet loss\" OR \"DNS outage\" OR \"BGP outage\" OR \"BGP routing\" OR \"CDN outage\" OR \"internet outage\" OR \"network congestion\" OR \"routing incident\" OR \"IPv6 outage\") (network OR internet OR ISP OR routing)",
       "limit": 10
     }
   ]
