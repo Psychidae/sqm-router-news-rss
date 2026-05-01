@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、ISP、IPv6、ブロードバンド、通信障害などネットワーク性能・インフラ関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 May 2026 23:03:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 23:04:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 1977-2026: Computing, the Internet and Artificial Intelligence - Broadband Breakfast</title>
@@ -64,6 +64,20 @@ How CDNs Use Edge Caching and Global PoPs for Lower Latency and Smoother Streami
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Broadband ISP Zen Internet Hails UK Demand Surge for its Fibre Hub - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW16MEdrRV9FWGNaeE9iQzFuZHk4anJJbXJvUDhNdmxyUUoxb0pwdXk1Ry14QUtPcHhqTElUdVl5eUtTMUctaFRnRnhyRmJzanZyWG9KTUdlc29laVV4SGtCdG9qN1cxeTk0UHUxaGtpR2owOUJGcWNIMzl3TkRWT0NHRmluNEVPS2JkNWFaOEdqa1RycDFLMUxqYl91UVlFazRXZWFzZno2ZFFteG1fSGdwT0tDVFpG?oc=5</link>
+      <guid isPermaLink="false">47192053bc55e2e8667a0eaa</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 22:47
+Broadband ISP Zen Internet Hails UK Demand Surge for its Fibre Hub ISPreview UK</description>
+      <pubDate>Fri, 01 May 2026 23:04:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-01T23:04:04.471710Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T13:47:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Cable One Keeps Leaking Broadband Subs Under New CEO Holanda - Broadband Breakfast</title>
       <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNak5aZXF1RHV4VkVPOTdLc3NsNjFRVkctVTY4d210N3pmUWRZU195NUZvWTBZTFZCN3ZvXzZIWUxzSnJjS2hHZnN5UGk1YUwwTldJWmFUbmJlT2VKWVpPUTVHOTVHT09fN2Q4eWd5MVlxODJteHVtTnhVY2NId0RYN1YzMXM2ZDdvVUFwMVktdFp0Y1RXeW93?oc=5</link>
       <guid isPermaLink="false">02e7769d0ad6de89bbabfcaa</guid>
@@ -74,6 +88,20 @@ Cable One Keeps Leaking Broadband Subs Under New CEO Holanda Broadband Breakfast
       <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-01T12:53:25Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Broadband Internet Companies Fail Their Most Basic Test in Latest PTA Survey - ProPakistani</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQVnVMN2lLVXhRZVR4VkJGLTB0MWdVZTZvU2l0b1hIYno2Zks3Q19XN0VHOXdwRVNvYmphZE1pMWtTTHVZUG5QLXlRWXVPZjhoTmVrVDJsZGhTc19HUlFpNlZoYVNXQTBqbDhlX1gxUW9PSTZuN3B3Q2tTcEZpMU05Qng5UXRMZkxud2lqMjAzaXRBZjdWS2s4RkVLbGZRZk9nLXE2WmQxUWU1Ujk2MFJxdFlR0gH4AkFVX3lxTE41d2xxZTFGbUNwSG1vZG5DWGhsWHhhNnZXaWF2LUlKTkFKSUFrV1ctUzhTLXpqQzQ2dzQ2ZmFRWnlOYWIyYlVZN0hoWEZMSzQ2REZoQmFrV0NOeUNtaFFvZjBBS29qdmJNSU9QSnZEWXpzdVlkekVXYXdYcWhPMUhuTDUtdF9MLXN5MXhnT091bWlnTzFDSkV5dDFUcE00ZjktZXdrZUh4N0hrZ3M1NkVFUTE1OTdtcG5QNHJpRnF3XzMxYjhyVEt3blI3Sjh3OVloUWJfZGk1NFhhT3JxekRsTkpsU3lob1FrTEE1MGFtZ1NFdUVkekNKOHJtaU0zMXkzV3pHeVhkN2N6ZTZpUngzWmlhdHJXMktsWlMxOVRGZG4wMGc3Z0QyUWYzdEhSZ1hncDJ2N00zNGlkZnB0U2oxZHd2MjhzTlNjbVc4MWluaTRXWVJ0X0dIcWFiSm1ISEFRU05ONzV0MV9VVEtSMl9GeHJRRkVwZ2U?oc=5</link>
+      <guid isPermaLink="false">b83b70b13c6aa0ee4c769c97</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 21:47
+Broadband Internet Companies Fail Their Most Basic Test in Latest PTA Survey ProPakistani</description>
+      <pubDate>Fri, 01 May 2026 23:04:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-01T23:04:04.471710Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T12:47:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,6 +120,20 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Internet outage: One New Zealand Chief Executive explains widespread signal loss - Newstalk ZB</title>
+      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnVnczhFQUMzeXJ4ZmlKWElseDVmRjVfWEpPRmNtZG9icWdGRkhVLWlsUzBXc3luSmtJdmdkbU82UUhtdnFkQVZNWkZJYVdTYUx5VTZ3RUhkRW9SNlRCb0dnOGZCVFRxTWRJZzk4TTNkQmhWVnNlZ1BBWUw2ajZDNkp5UnFkUXY4anpfVlpXMEZBT0xZWk5yaER6VFFXejBrZXJ6RkI5UThicGs2eTdlSGpLcEthV2t6bGtZZERUY2ZHZXdENXhiVE9tNjF3OEFxX2IzSVBsLWY2blk3amZPLWpRT1c4S2Vx?oc=5</link>
+      <guid isPermaLink="false">7e03503f0d02d903dd177c47</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 15:04
+Internet outage: One New Zealand Chief Executive explains widespread signal loss Newstalk ZB</description>
+      <pubDate>Fri, 01 May 2026 23:04:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-01T23:04:04.471710Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T06:04:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Mobile and broadband outages resolved, software bug blamed - NZ Herald</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT0daZTY1UkpkWUp6aHJ5UXF4aVZHYkg5ZEZqbHpyWWZqdDdHbXFaSW5RX1hfTVJ3ZjlYVGJqSnNZdEtvVHlSUm5wejBfNW1pSG8weDNOcVNfUm5peW1oY0RCeDVmWkpwcWlQeE82VFMtek9FTzFwT2FZbFlYRGNGTm15NHZlTDZCZXVVcWl5aW41TjJtVmktVW03ekViaUE1czZhLS1pblduV1pEQURva3lKSFJxNFZxMnZWN3hLRG11emxIcFd4Rk1OMXAwZ2RhOEE?oc=5</link>
       <guid isPermaLink="false">e40f66c48242e2af0911cb3a</guid>
@@ -102,48 +144,6 @@ Mobile and broadband outages resolved, software bug blamed NZ Herald</descriptio
       <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-01T04:39:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5</link>
-      <guid isPermaLink="false">9c0caeef903e7070960d511f</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 11:23
-One NZ issue causing widespread internet outage across entire South, parts of North Island MSN</description>
-      <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T02:23:55Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Kinetic Teams Up with YouTube TV to Expand Fiber Broadband Value Offerings - The Fast Mode</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUJJd3gycTRTa0phQzBTZng5blAxN2lxS0xlR0FCak0xYklucHQzWmRqdUgzZUl3TE12dF9hN2FkS2V6dXVXYVJwNXVKZy1pY0o4b1VidVNuM21TdkxTUHBhLXZ2VHVlLVVTVE1LMmtjN0h6ekhyUnpsR3I0S3FINWNIaTZYMTBlR1JyMnFPTk1pU3JobWtGaFhoRUtqTVp6NFZJNDdOUk00X1hXR2cwNUpHaS1Wa0pJRVlpREJ2cFFuR0tGYVhfTFRWNlJOQTgz?oc=5</link>
-      <guid isPermaLink="false">56e5f9c1182cd64907b04a6d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 09:59
-Kinetic Teams Up with YouTube TV to Expand Fiber Broadband Value Offerings The Fast Mode</description>
-      <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T00:59:33Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] The CFO’s Blind Spot: Network Performance as an Unmeasured Financial Risk - Telecom Ramblings</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOOXl1UWNoTzZUbmhDSXE0TjYyZ2xmQ25Dc2FLckRBbkVDWVFQcWh3d1h0ZU90VlhzTmp6Q2ZreHR3b0MzTFhCVEozeWh2dTJIYnBQaGpCcGI2dGJGaldsNXlaLWlGMjd0SDRPN01zbk5QTFFDMnlmNmVBeDZtN3Rpd3FQc0ZQMlJOWjhWakhlbFdTd2VfNGxJSGNvRWI1dHJ6TnBPN2dUQ2kybzRoSjdaREFuYw?oc=5</link>
-      <guid isPermaLink="false">ff813759446797beac8b9f71</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 16:14
-The CFO’s Blind Spot: Network Performance as an Unmeasured Financial Risk Telecom Ramblings</description>
-      <pubDate>Fri, 01 May 2026 23:01:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-01T23:01:27.108015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T07:14:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+BGP+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+performance%22+OR+broadband+OR+IPv6%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
