@@ -1,14 +1,12 @@
 {
   "title": "SQMルーター国内マーケット最新情報",
   "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報を集約したRSSフィードです。",
-  "generated_at": "2026-05-01T15:29:18.352524Z",
+  "generated_at": "2026-05-01T15:30:58.877194Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feed.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/latest.json",
   "count": 1,
-  "errors": [
-    "Bing News JP: SQM router: not well-formed (invalid token): line 1, column 41"
-  ],
+  "errors": [],
   "items": [
     {
       "id": "8058dbe53121570819568d62",
