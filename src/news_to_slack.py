@@ -836,6 +836,7 @@ def build_index_html(config: dict[str, Any]) -> str:
 <body>
   <h1>{title}</h1>
   <p>{description}</p>
+  <p>このページ、RSS、JSON APIはGitHubログインなしで利用できます。</p>
   <p>RSS URL: <a href="feed.xml"><code>feed.xml</code></a></p>
   <p>JSON API: <a href="{api_href}"><code>api/latest.json</code></a></p>
   <p>最終生成: {updated}</p>

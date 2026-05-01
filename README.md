@@ -3,13 +3,14 @@
 SQMルーター、OpenWrt SQM、Bufferbloat、CAKE、`luci-app-sqm` などの最新情報を集め、SlackのRSS appで購読できる `feed.xml` と、サーバーから取得しやすい `api/latest.json` を生成するシステムです。
 
 Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側では公開RSS URLをRSS appに登録するだけです。
+公開URLの閲覧・API取得・Slack RSS購読にはGitHubログインもPsychidaeアカウントも不要です。
 
 ## できること
 
 - 国内向け設定ではGoogle News JP、Bing News JP、Brave Search JP、公式更新、GitHub開発一次情報から取得
 - SQM関連キーワードでフィルタリング
 - RSS itemのタイトルに `[開発一次情報]` などの情報種別を表示
-- GitHub Actionsで `docs/feed.xml` と `docs/api/latest.json` を毎日更新
+- GitHub Actionsで `docs/feed.xml` と `docs/api/latest.json` を30分ごとに更新
 - GitHub PagesでRSS/JSON APIを公開し、Slack RSS appや自前サーバーから利用
 - 広域調査用に `config/sqm-router.json` も残す
 
@@ -70,7 +71,9 @@ GET https://psychidae.github.io/sqm-router-news-rss/api/latest.json
 }
 ```
 
-任意のタイミングで最新化したい場合は、GitHub Actionsの `Update SQM router RSS feed` を手動実行します。サーバーから叩くならGitHubのworkflow dispatch APIを使います。
+通常利用では手動実行は不要です。GitHub Actionsが30分ごとにRSS/APIを更新します。
+
+管理者として任意のタイミングで最新化したい場合だけ、GitHub Actionsの `Update SQM router RSS feed` を手動実行します。サーバーから叩くならGitHubのworkflow dispatch APIを使います。この操作にはGitHubトークンが必要です。
 
 ```bash
 curl -X POST \
@@ -81,6 +84,12 @@ curl -X POST \
 ```
 
 その後、数十秒待ってから `api/latest.json` を取得します。
+
+ログイン不要で使う場合は、手動発火せずに以下の公開URLをGETしてください。
+
+```text
+https://psychidae.github.io/sqm-router-news-rss/api/latest.json
+```
 
 ## 設定
 

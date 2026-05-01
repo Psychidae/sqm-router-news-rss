@@ -2,8 +2,8 @@ name: Update SQM router RSS feed
 
 on:
   schedule:
-    # 08:00 JST. GitHub Actions cron uses UTC.
-    - cron: "0 23 * * *"
+    # Twice an hour. GitHub Actions cron uses UTC.
+    - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
