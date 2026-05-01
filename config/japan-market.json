@@ -1,0 +1,233 @@
+{
+  "app": {
+    "title": "SQMルーター国内マーケット最新情報",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 168,
+    "max_items": 8,
+    "summary_chars": 180,
+    "state_path": ".state/japan_market_sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "sqm-router-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "SQM News"
+  },
+  "feed": {
+    "title": "SQMルーター国内マーケット最新情報",
+    "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報を集約したRSSフィードです。",
+    "language": "ja",
+    "site_url": "",
+    "preserve_existing_on_error": true
+  },
+  "filters": {
+    "required_any": [
+      "SQM router",
+      "SQMルーター",
+      "SQM ルーター",
+      "OpenWrt SQM",
+      "Smart Queue Management",
+      "luci-app-sqm",
+      "sqm-scripts",
+      "bufferbloat",
+      "バッファブロート",
+      "CAKE qdisc",
+      "cake-autorate",
+      "fq_codel",
+      "fq-codel",
+      "sch_cake",
+      "active queue management",
+      "latency under load"
+    ],
+    "exclude_any": [
+      "stock price",
+      "earnings call",
+      "sqm lithium",
+      "sqm stock",
+      "sociedad química",
+      "lithium mining",
+      "リチウム",
+      "株価",
+      "株式",
+      "スクイーズ相場",
+      "Moomoo",
+      "NASDAQ",
+      "real-time action detection",
+      "circuit-aware editing"
+    ],
+    "score_terms": [
+      "SQM",
+      "OpenWrt SQM",
+      "Smart Queue Management",
+      "luci-app-sqm",
+      "sqm-scripts",
+      "bufferbloat",
+      "バッファブロート",
+      "CAKE qdisc",
+      "cake-autorate",
+      "fq_codel",
+      "fq-codel",
+      "sch_cake",
+      "ルーター",
+      "Wi-Fi",
+      "光回線",
+      "ゲーミング",
+      "低遅延",
+      "日本",
+      "国内"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News JP: SQM domestic market",
+      "type": "google_news",
+      "info_type": "国内ニュース検索",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"luci-app-sqm\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 無線LAN OR 光回線 OR ゲーミング OR 低遅延 OR QoS OR 日本 OR 国内)"
+    },
+    {
+      "name": "Google News JP: router market",
+      "type": "google_news",
+      "info_type": "国内ニュース検索",
+      "enabled": true,
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja",
+      "query": "(\"バッファブロート\" OR \"SQM ルーター\" OR \"SQMルーター\" OR \"Smart Queue Management\" OR \"OpenWrt SQM\") (ルーター OR 価格 OR レビュー OR 購入 OR 製品 OR 国内)"
+    },
+    {
+      "name": "Bing News JP: SQM router",
+      "type": "rss",
+      "info_type": "国内ニュース検索",
+      "enabled": true,
+      "url": "https://www.bing.com/news/search?q=%28%22OpenWrt%20SQM%22%20OR%20%22SQM%20%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22%20OR%20%22Smart%20Queue%20Management%22%20OR%20%22%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%96%E3%83%AD%E3%83%BC%E3%83%88%22%20OR%20%22cake-autorate%22%29%20%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%20OR%20Wi-Fi%20OR%20%E5%85%89%E5%9B%9E%E7%B7%9A%20OR%20%E5%9B%BD%E5%86%85%20OR%20%E6%97%A5%E6%9C%AC%29&format=rss&cc=jp&setlang=ja"
+    },
+    {
+      "name": "Brave News JP: full news search",
+      "type": "brave_search",
+      "search_type": "news",
+      "info_type": "国内全Webニュース検索",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "jp",
+      "search_lang": "ja",
+      "freshness": "pw",
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 光回線 OR 国内 OR 日本)",
+      "limit": 10
+    },
+    {
+      "name": "Brave Web JP: full web search",
+      "type": "brave_search",
+      "search_type": "web",
+      "info_type": "国内全Web検索",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "country": "jp",
+      "search_lang": "ja",
+      "freshness": "pw",
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"luci-app-sqm\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 光回線 OR QoS OR 低遅延 OR ゲーミング OR 日本)",
+      "limit": 10
+    },
+    {
+      "name": "OpenWrt releases",
+      "type": "rss",
+      "info_type": "公式一次情報",
+      "enabled": true,
+      "url": "https://github.com/openwrt/openwrt/releases.atom",
+      "required_any": [
+        "SQM",
+        "OpenWrt SQM",
+        "Smart Queue Management",
+        "luci-app-sqm",
+        "sqm-scripts",
+        "bufferbloat",
+        "CAKE qdisc",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake",
+        "qdisc"
+      ]
+    },
+    {
+      "name": "OpenWrt SQM Wiki",
+      "type": "rss",
+      "info_type": "公式一次情報",
+      "enabled": true,
+      "url": "https://openwrt.org/feed.php",
+      "required_any": [
+        "SQM",
+        "OpenWrt SQM",
+        "Smart Queue Management",
+        "luci-app-sqm",
+        "sqm-scripts",
+        "bufferbloat",
+        "CAKE qdisc",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake"
+      ]
+    },
+    {
+      "name": "GitHub issues: OpenWrt sqm-scripts",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:openwrt/openwrt sqm-scripts",
+      "limit": 10
+    },
+    {
+      "name": "GitHub issues: OpenWrt luci-app-sqm",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:openwrt/openwrt luci-app-sqm",
+      "limit": 10
+    },
+    {
+      "name": "GitHub issues: OpenWrt cake_mq",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:openwrt/openwrt cake_mq",
+      "limit": 10
+    },
+    {
+      "name": "GitHub issues: OpenWrt sch_cake",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:openwrt/openwrt sch_cake",
+      "limit": 10
+    },
+    {
+      "name": "GitHub issues: cake-autorate",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:lynxthecat/cake-autorate cake-autorate",
+      "limit": 10
+    },
+    {
+      "name": "GitHub issues: sqm-autorate",
+      "type": "github_search",
+      "endpoint": "issues",
+      "info_type": "開発一次情報",
+      "enabled": true,
+      "query": "repo:sqm-autorate/sqm-autorate sqm-autorate",
+      "limit": 10
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "app": {
+    "title": "SQMルーター関連ニュース",
+    "timezone": "Asia/Tokyo",
+    "lookback_hours": 168,
+    "max_items": 15,
+    "summary_chars": 220,
+    "state_path": ".state/sent_items.json",
+    "state_retention_days": 60,
+    "send_empty": false,
+    "env_file": ".env",
+    "request_timeout_seconds": 25,
+    "user_agent": "sqm-router-news-slack/0.1"
+  },
+  "slack": {
+    "webhook_env": "SLACK_WEBHOOK_URL",
+    "username": "SQM News"
+  },
+  "filters": {
+    "required_any": [
+      "SQM",
+      "Smart Queue Management",
+      "luci-app-sqm",
+      "sqm-scripts",
+      "bufferbloat",
+      "CAKE",
+      "cake-autorate",
+      "fq_codel",
+      "fq-codel",
+      "sch_cake",
+      "qdisc",
+      "active queue management",
+      "AQM",
+      "latency under load",
+      "LibreQoS",
+      "queue management"
+    ],
+    "exclude_any": [
+      "stock price",
+      "earnings call",
+      "sqm lithium",
+      "sqm stock",
+      "sociedad química",
+      "lithium mining"
+    ],
+    "score_terms": [
+      "SQM",
+      "Smart Queue Management",
+      "OpenWrt",
+      "luci-app-sqm",
+      "sqm-scripts",
+      "bufferbloat",
+      "CAKE",
+      "cake-autorate",
+      "fq_codel",
+      "fq-codel",
+      "sch_cake",
+      "qdisc",
+      "active queue management",
+      "AQM",
+      "latency under load",
+      "LibreQoS",
+      "QoS",
+      "router"
+    ]
+  },
+  "sources": [
+    {
+      "name": "Google News: SQM / OpenWrt",
+      "type": "google_news",
+      "enabled": true,
+      "query": "(\"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"luci-app-sqm\" OR \"sqm-scripts\")"
+    },
+    {
+      "name": "Google News: bufferbloat / AQM",
+      "type": "google_news",
+      "enabled": true,
+      "query": "(bufferbloat OR \"latency under load\" OR \"active queue management\" OR AQM) (router OR OpenWrt OR Wi-Fi OR broadband)"
+    },
+    {
+      "name": "Google News: CAKE / fq_codel",
+      "type": "google_news",
+      "enabled": true,
+      "query": "(\"CAKE qdisc\" OR \"sch_cake\" OR \"cake-autorate\" OR \"fq_codel\" OR \"fq-codel\") (router OR OpenWrt OR Linux OR QoS)"
+    },
+    {
+      "name": "Google News: LibreQoS / latency",
+      "type": "google_news",
+      "enabled": true,
+      "query": "(LibreQoS OR \"Smart Queue Management\" OR bufferbloat) (router OR ISP OR latency OR broadband)"
+    },
+    {
+      "name": "Google News: Japanese web",
+      "type": "google_news",
+      "enabled": true,
+      "query": "(SQM OR \"Smart Queue Management\" OR bufferbloat OR バッファブロート OR cake-autorate) (ルーター OR OpenWrt OR QoS)"
+    },
+    {
+      "name": "Bing News: SQM / OpenWrt",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://www.bing.com/news/search?q=%22OpenWrt%20SQM%22%20OR%20%22SQM%20router%22%20OR%20%22Smart%20Queue%20Management%22%20OR%20%22luci-app-sqm%22&format=rss"
+    },
+    {
+      "name": "Bing News: bufferbloat / CAKE",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://www.bing.com/news/search?q=bufferbloat%20router%20OR%20%22CAKE%20qdisc%22%20OR%20%22cake-autorate%22%20OR%20%22fq_codel%22&format=rss"
+    },
+    {
+      "name": "OpenWrt releases",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://github.com/openwrt/openwrt/releases.atom",
+      "required_any": [
+        "SQM",
+        "Smart Queue Management",
+        "luci-app-sqm",
+        "sqm-scripts",
+        "bufferbloat",
+        "CAKE",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake",
+        "qdisc",
+        "queue management"
+      ]
+    },
+    {
+      "name": "OpenWrt site feed",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://openwrt.org/feed.php",
+      "required_any": [
+        "SQM",
+        "Smart Queue Management",
+        "luci-app-sqm",
+        "sqm-scripts",
+        "bufferbloat",
+        "CAKE",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake",
+        "qdisc",
+        "queue management"
+      ]
+    },
+    {
+      "name": "OpenWrt forum latest",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://forum.openwrt.org/latest.rss",
+      "required_any": [
+        "SQM",
+        "Smart Queue Management",
+        "luci-app-sqm",
+        "sqm-scripts",
+        "bufferbloat",
+        "CAKE",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake"
+      ]
+    },
+    {
+      "name": "Bufferbloat.net",
+      "type": "rss",
+      "enabled": true,
+      "url": "https://www.bufferbloat.net/projects/index.xml",
+      "required_any": [
+        "SQM",
+        "Smart Queue Management",
+        "bufferbloat",
+        "CAKE",
+        "cake-autorate",
+        "fq_codel",
+        "fq-codel",
+        "sch_cake",
+        "LibreQoS",
+        "router"
+      ]
+    },
+    {
+      "name": "GitHub issues: luci-app-sqm",
+      "type": "github_search",
+      "endpoint": "issues",
+      "enabled": true,
+      "query": "luci-app-sqm",
+      "limit": 20
+    },
+    {
+      "name": "GitHub issues: sqm-scripts",
+      "type": "github_search",
+      "endpoint": "issues",
+      "enabled": true,
+      "query": "sqm-scripts",
+      "limit": 20
+    },
+    {
+      "name": "GitHub issues: cake-autorate",
+      "type": "github_search",
+      "endpoint": "issues",
+      "enabled": true,
+      "query": "cake-autorate",
+      "limit": 20
+    },
+    {
+      "name": "GitHub repositories: cake-autorate",
+      "type": "github_search",
+      "endpoint": "repositories",
+      "enabled": true,
+      "query": "cake-autorate",
+      "sort": "updated",
+      "limit": 10
+    },
+    {
+      "name": "GitHub repositories: LibreQoS",
+      "type": "github_search",
+      "endpoint": "repositories",
+      "enabled": true,
+      "query": "LibreQoS",
+      "sort": "updated",
+      "limit": 10
+    },
+    {
+      "name": "Hacker News: bufferbloat",
+      "type": "hackernews_search",
+      "enabled": true,
+      "query": "bufferbloat",
+      "limit": 20
+    },
+    {
+      "name": "Hacker News: OpenWrt SQM",
+      "type": "hackernews_search",
+      "enabled": true,
+      "query": "OpenWrt SQM",
+      "limit": 20
+    },
+    {
+      "name": "Hacker News: Smart Queue Management",
+      "type": "hackernews_search",
+      "enabled": true,
+      "query": "Smart Queue Management",
+      "limit": 20
+    },
+    {
+      "name": "Hacker News: cake-autorate",
+      "type": "hackernews_search",
+      "enabled": true,
+      "query": "cake-autorate",
+      "limit": 20
+    },
+    {
+      "name": "Reddit: OpenWrt SQM",
+      "type": "reddit_search",
+      "enabled": true,
+      "query": "\"OpenWrt SQM\" OR \"luci-app-sqm\"",
+      "limit": 25
+    },
+    {
+      "name": "Reddit: bufferbloat router",
+      "type": "reddit_search",
+      "enabled": true,
+      "query": "bufferbloat router",
+      "limit": 25
+    },
+    {
+      "name": "Reddit: cake-autorate",
+      "type": "reddit_search",
+      "enabled": true,
+      "query": "cake-autorate",
+      "limit": 25
+    },
+    {
+      "name": "Reddit: Smart Queue Management",
+      "type": "reddit_search",
+      "enabled": true,
+      "query": "\"Smart Queue Management\"",
+      "limit": 25
+    },
+    {
+      "name": "Brave News: full web news search",
+      "type": "brave_search",
+      "search_type": "news",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "query": "(\"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR bufferbloat OR \"CAKE qdisc\" OR \"cake-autorate\")",
+      "freshness": "pw",
+      "limit": 10
+    },
+    {
+      "name": "Brave Web: full web search",
+      "type": "brave_search",
+      "search_type": "web",
+      "enabled": true,
+      "api_key_env": "BRAVE_SEARCH_API_KEY",
+      "query": "(\"SQM router\" OR \"OpenWrt SQM\" OR \"luci-app-sqm\" OR \"cake-autorate\" OR \"latency under load\" OR bufferbloat)",
+      "freshness": "pw",
+      "limit": 10
+    }
+  ]
+}

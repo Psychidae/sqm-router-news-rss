@@ -1,0 +1,45 @@
+name: Update SQM router RSS feed
+
+on:
+  schedule:
+    # 08:00 JST. GitHub Actions cron uses UTC.
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate RSS feed
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: >
+          python src/news_to_slack.py
+          --config config/japan-market.json
+          --rss-output docs/feed.xml
+          --index-output docs/index.html
+
+      - name: Commit updated feed
+        run: |
+          if [ -z "$(git status --porcelain docs)" ]; then
+            echo "No feed changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/index.html
+          git commit -m "chore: update RSS feed"
+          git push
