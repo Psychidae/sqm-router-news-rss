@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内マーケット向けに、SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報を集約したRSSフィードです。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 01 May 2026 15:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 15:12:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feed.xml</docs>
     <item>
       <title>[開発一次情報] upload_only mode that does not require a download CAKE interface?</title>
