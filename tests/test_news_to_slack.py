@@ -193,6 +193,7 @@ class NewsToSlackTests(unittest.TestCase):
                 {"app": {"timezone": "Asia/Tokyo"}, "feed": {"title": "Test Feed"}},
             )
             self.assertIn("feed.xml", path.read_text(encoding="utf-8"))
+            self.assertIn("api/latest.json", path.read_text(encoding="utf-8"))
 
     def test_rss_channel_link_defaults_to_feed_xml(self):
         body = news_to_slack.build_rss_feed(
@@ -220,6 +221,36 @@ class NewsToSlackTests(unittest.TestCase):
                 os.environ["PAGES_SITE_URL"] = old_pages
         self.assertEqual(config["feed"]["site_url"], "https://octo.github.io/sqm-feed/")
         self.assertEqual(config["feed"]["feed_url"], "https://octo.github.io/sqm-feed/feed.xml")
+
+    def test_build_json_payload(self):
+        item = news_to_slack.NewsItem(
+            title="SQM issue",
+            link="https://example.com/issue",
+            summary="cake_mq regression",
+            published=dt.datetime(2026, 5, 1, tzinfo=dt.timezone.utc),
+            source="GitHub issues",
+            source_url="https://api.github.com/search/issues",
+            item_id="abc",
+            info_type="開発一次情報",
+            score=9,
+        )
+        payload = news_to_slack.build_json_payload(
+            [item],
+            {
+                "app": {"summary_chars": 120},
+                "feed": {
+                    "title": "Test Feed",
+                    "description": "desc",
+                    "site_url": "https://example.com/project/",
+                    "feed_url": "https://example.com/project/feed.xml",
+                },
+            },
+            [],
+        )
+        self.assertEqual(payload["count"], 1)
+        self.assertEqual(payload["api_url"], "https://example.com/project/api/latest.json")
+        self.assertEqual(payload["items"][0]["id"], "abc")
+        self.assertEqual(payload["items"][0]["info_type"], "開発一次情報")
 
 
 if __name__ == "__main__":

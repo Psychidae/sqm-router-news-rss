@@ -758,6 +758,58 @@ def write_rss_feed(path: Path, items: list[NewsItem], config: dict[str, Any]) ->
     path.write_bytes(build_rss_feed(items, config))
 
 
+def iso_datetime(value: dt.datetime | None) -> str | None:
+    if value is None:
+        return None
+    if value.tzinfo is None:
+        value = value.replace(tzinfo=dt.timezone.utc)
+    return value.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+def item_to_api_dict(item: NewsItem, summary_chars: int) -> dict[str, Any]:
+    return {
+        "id": item.item_id,
+        "title": item.title,
+        "url": item.link,
+        "summary": truncate(item.summary, summary_chars),
+        "published_at": iso_datetime(item.published),
+        "source": item.source,
+        "source_url": item.source_url,
+        "info_type": item.info_type,
+        "score": item.score,
+    }
+
+
+def build_json_payload(items: list[NewsItem], config: dict[str, Any], errors: list[str]) -> dict[str, Any]:
+    app = config.get("app", {})
+    feed_config = config.get("feed", {})
+    site_url = feed_config.get("site_url", "")
+    feed_url = feed_config.get("feed_url", absolutize_url(site_url, "feed.xml") if site_url else "")
+    api_url = feed_config.get("api_url", absolutize_url(site_url, "api/latest.json") if site_url else "api/latest.json")
+    summary_chars = int(app.get("summary_chars", 180))
+    return {
+        "title": feed_config.get("title", app.get("title", "SQMルーター最新情報")),
+        "description": feed_config.get(
+            "description",
+            "SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報",
+        ),
+        "generated_at": iso_datetime(dt.datetime.now(dt.timezone.utc)),
+        "site_url": site_url,
+        "feed_url": feed_url,
+        "api_url": api_url,
+        "count": len(items),
+        "errors": errors,
+        "items": [item_to_api_dict(item, summary_chars) for item in items],
+    }
+
+
+def write_json_api(path: Path, items: list[NewsItem], config: dict[str, Any], errors: list[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(build_json_payload(items, config, errors), handle, ensure_ascii=False, indent=2)
+        handle.write("\n")
+
+
 def build_index_html(config: dict[str, Any]) -> str:
     app = config.get("app", {})
     feed_config = config.get("feed", {})
@@ -765,6 +817,8 @@ def build_index_html(config: dict[str, Any]) -> str:
     description = html.escape(
         feed_config.get("description", "SQMルーター関連の最新情報を配信するRSSフィードです。")
     )
+    site_url = feed_config.get("site_url", "")
+    api_href = html.escape(feed_config.get("api_url", absolutize_url(site_url, "api/latest.json") if site_url else "api/latest.json"))
     updated = html.escape(display_datetime(dt.datetime.now(dt.timezone.utc), app.get("timezone", "Asia/Tokyo")))
     return f"""<!doctype html>
 <html lang="ja">
@@ -783,6 +837,7 @@ def build_index_html(config: dict[str, Any]) -> str:
   <h1>{title}</h1>
   <p>{description}</p>
   <p>RSS URL: <a href="feed.xml"><code>feed.xml</code></a></p>
+  <p>JSON API: <a href="{api_href}"><code>api/latest.json</code></a></p>
   <p>最終生成: {updated}</p>
 </body>
 </html>
@@ -863,6 +918,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     parser.add_argument("--lookback-hours", type=int, help="override app.lookback_hours")
     parser.add_argument("--limit", type=int, help="override app.max_items")
     parser.add_argument("--rss-output", help="write RSS feed to this path instead of sending to Slack")
+    parser.add_argument("--json-output", help="write JSON API payload to this path instead of sending to Slack")
     parser.add_argument("--index-output", help="write a simple HTML landing page for the RSS feed")
     return parser.parse_args(argv)
 
@@ -884,27 +940,32 @@ def main(argv: list[str] | None = None) -> int:
     load_dotenv(resolve_project_path(project_root, env_file_value))
     apply_runtime_feed_defaults(config)
 
-    publishing_rss = bool(args.rss_output)
-    items, errors, state, state_path = collect_items(config, ignore_state=args.ignore_state or publishing_rss)
+    publishing_files = bool(args.rss_output or args.json_output)
+    items, errors, state, state_path = collect_items(config, ignore_state=args.ignore_state or publishing_files)
     text = build_slack_text(items, config, errors)
 
     for error in errors:
         print(f"warning: {error}", file=sys.stderr)
 
-    if publishing_rss:
+    if publishing_files:
         rss_path = resolve_project_path(project_root, args.rss_output)
-        if rss_path is None:
-            raise RuntimeError("--rss-output is required for RSS publishing")
+        json_path = resolve_project_path(project_root, args.json_output)
         preserve_existing = bool(config.get("feed", {}).get("preserve_existing_on_error", True))
-        if preserve_existing and errors and not items and rss_path.exists():
-            print(f"取得エラーがあり新規項目が0件のため、既存RSSを保持しました: {rss_path}")
+        existing_paths = [path for path in [rss_path, json_path] if path is not None and path.exists()]
+        if preserve_existing and errors and not items and existing_paths:
+            kept = ", ".join(str(path) for path in existing_paths)
+            print(f"取得エラーがあり新規項目が0件のため、既存公開ファイルを保持しました: {kept}")
             return 0
-        write_rss_feed(rss_path, items, config)
+        if rss_path is not None:
+            write_rss_feed(rss_path, items, config)
+        if json_path is not None:
+            write_json_api(json_path, items, config, errors)
         if args.index_output:
             index_path = resolve_project_path(project_root, args.index_output)
             if index_path is not None:
                 write_index_html(index_path, config)
-        print(f"RSSフィードを生成しました: {rss_path} ({len(items)} 件)")
+        outputs = ", ".join(str(path) for path in [rss_path, json_path] if path is not None)
+        print(f"公開ファイルを生成しました: {outputs} ({len(items)} 件)")
         return 0
 
     send_empty = bool(app.get("send_empty", False))

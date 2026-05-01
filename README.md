@@ -1,6 +1,6 @@
-# SQMルーター国内マーケットRSS
+# SQMルーター国内マーケットRSS/API
 
-SQMルーター、OpenWrt SQM、Bufferbloat、CAKE、`luci-app-sqm` などの最新情報を集め、SlackのRSS appで購読できる `feed.xml` を生成するシステムです。
+SQMルーター、OpenWrt SQM、Bufferbloat、CAKE、`luci-app-sqm` などの最新情報を集め、SlackのRSS appで購読できる `feed.xml` と、サーバーから取得しやすい `api/latest.json` を生成するシステムです。
 
 Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側では公開RSS URLをRSS appに登録するだけです。
 
@@ -9,8 +9,8 @@ Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側で�
 - 国内向け設定ではGoogle News JP、Bing News JP、Brave Search JP、公式更新、GitHub開発一次情報から取得
 - SQM関連キーワードでフィルタリング
 - RSS itemのタイトルに `[開発一次情報]` などの情報種別を表示
-- GitHub Actionsで `docs/feed.xml` を毎日更新
-- GitHub PagesでRSSを公開し、Slack RSS appに登録
+- GitHub Actionsで `docs/feed.xml` と `docs/api/latest.json` を毎日更新
+- GitHub PagesでRSS/JSON APIを公開し、Slack RSS appや自前サーバーから利用
 - 広域調査用に `config/sqm-router.json` も残す
 
 ## 最短セットアップ
@@ -31,23 +31,63 @@ https://psychidae.github.io/sqm-router-news-rss/feed.xml
 
 Slack公式手順: [Add RSS feeds to Slack](https://slack.com/hc/en-us/articles/218688467-Add-RSS-feeds-to-Slack)
 
-## ローカルでRSSを生成
+## ローカルでRSS/APIを生成
 
 ```bash
 python3 src/news_to_slack.py \
   --config config/japan-market.json \
   --rss-output docs/feed.xml \
+  --json-output docs/api/latest.json \
   --index-output docs/index.html
 ```
 
-生成後、ブラウザやRSSリーダーで `docs/feed.xml` を確認できます。
+生成後、ブラウザやRSSリーダーで `docs/feed.xml`、サーバーから `docs/api/latest.json` を確認できます。
+
+## 公開API
+
+```text
+GET https://psychidae.github.io/sqm-router-news-rss/api/latest.json
+```
+
+レスポンス例:
+
+```json
+{
+  "title": "SQMルーター国内マーケット最新情報",
+  "generated_at": "2026-05-02T00:00:00Z",
+  "count": 1,
+  "items": [
+    {
+      "id": "8058dbe53121570819568d62",
+      "title": "upload_only mode that does not require a download CAKE interface?",
+      "url": "https://github.com/lynxthecat/cake-autorate/issues/360",
+      "published_at": "2026-04-24T18:14:00Z",
+      "source": "GitHub issues: cake-autorate / lynxthecat/cake-autorate",
+      "info_type": "開発一次情報",
+      "score": 7
+    }
+  ]
+}
+```
+
+任意のタイミングで最新化したい場合は、GitHub Actionsの `Update SQM router RSS feed` を手動実行します。サーバーから叩くならGitHubのworkflow dispatch APIを使います。
+
+```bash
+curl -X POST \
+  -H "Authorization: Bearer <GITHUB_TOKEN>" \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/Psychidae/sqm-router-news-rss/actions/workflows/update-rss.yml/dispatches \
+  -d '{"ref":"main"}'
+```
+
+その後、数十秒待ってから `api/latest.json` を取得します。
 
 ## 設定
 
 通常運用の設定は `config/japan-market.json` です。海外コミュニティやRedditまで広く見る場合は `config/sqm-router.json` を使います。
 
 - `app.lookback_hours`: 何時間以内の記事を対象にするか
-- `app.max_items`: RSSに載せる最大件数
+- `app.max_items`: RSS/APIに載せる最大件数
 - `filters.required_any`: どれかを含む記事・Issueだけ通すキーワード
 - `filters.exclude_any`: 除外キーワード
 - `sources`: RSS/Atomと検索APIの一覧
@@ -59,6 +99,7 @@ GitHub Actions上では `GITHUB_REPOSITORY` からGitHub Pages URLを自動推�
 公開ページ:
 
 - RSS: [https://psychidae.github.io/sqm-router-news-rss/feed.xml](https://psychidae.github.io/sqm-router-news-rss/feed.xml)
+- JSON API: [https://psychidae.github.io/sqm-router-news-rss/api/latest.json](https://psychidae.github.io/sqm-router-news-rss/api/latest.json)
 - 案内ページ: [https://psychidae.github.io/sqm-router-news-rss/](https://psychidae.github.io/sqm-router-news-rss/)
 
 ## 情報種別
@@ -93,5 +134,5 @@ RSS itemのタイトルには情報種別が入ります。
 ```bash
 python3 -m unittest discover -s tests
 python3 -m json.tool config/japan-market.json >/dev/null
-python3 src/news_to_slack.py --config config/japan-market.json --rss-output docs/feed.xml --index-output docs/index.html
+python3 src/news_to_slack.py --config config/japan-market.json --rss-output docs/feed.xml --json-output docs/api/latest.json --index-output docs/index.html
 ```
