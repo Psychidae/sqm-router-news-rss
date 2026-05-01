@@ -707,11 +707,13 @@ def absolutize_url(base_url: str, value: str) -> str:
     return urllib.parse.urljoin(base_url.rstrip("/") + "/", value.lstrip("/"))
 
 
-def item_description(item: NewsItem, max_chars: int) -> str:
+def item_description(item: NewsItem, max_chars: int, timezone_name: str = "Asia/Tokyo") -> str:
     parts = [
         f"種別: {item.info_type}",
         f"ソース: {item.source}",
     ]
+    if item.published is not None:
+        parts.append(f"元記事日付: {display_datetime(item.published, timezone_name)}")
     if item.summary:
         parts.append(truncate(item.summary, max_chars))
     return "\n".join(parts)
@@ -766,6 +768,7 @@ def build_rss_feed(
     feed_url = feed_config.get("feed_url", absolutize_url(site_url, "feed.xml") if site_url else "")
     language = feed_config.get("language", "ja")
     summary_chars = int(app.get("summary_chars", 180))
+    timezone_name = app.get("timezone", "Asia/Tokyo")
     generated_at = dt.datetime.now(dt.timezone.utc)
     if rss_item_dates is None and feed_config.get("item_date_mode") == "first_seen":
         rss_item_dates = {item.item_id: generated_at for item in items}
@@ -787,7 +790,7 @@ def build_rss_feed(
         ET.SubElement(entry, "link").text = item.link or item.source_url
         guid = ET.SubElement(entry, "guid", {"isPermaLink": "false"})
         guid.text = item.item_id
-        ET.SubElement(entry, "description").text = item_description(item, summary_chars)
+        ET.SubElement(entry, "description").text = item_description(item, summary_chars, timezone_name)
         rss_date = rss_item_dates.get(item.item_id)
         ET.SubElement(entry, "pubDate").text = rfc2822(rss_date or item.published)
         if rss_date is not None:

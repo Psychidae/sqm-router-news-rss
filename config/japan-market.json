@@ -2,8 +2,8 @@
   "app": {
     "title": "SQMルーター国内マーケット最新情報",
     "timezone": "Asia/Tokyo",
-    "lookback_hours": 168,
-    "max_items": 8,
+    "lookback_hours": 2160,
+    "max_items": 5,
     "summary_chars": 180,
     "state_path": ".state/japan_market_sent_items.json",
     "state_retention_days": 60,
@@ -18,7 +18,7 @@
   },
   "feed": {
     "title": "SQMルーター国内マーケット最新情報",
-    "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、bufferbloat、CAKE関連の最新情報を集約したRSSフィードです。",
+    "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、バッファブロート、低遅延ルーター関連のニュース・Web記事を集約したRSSフィードです。",
     "language": "ja",
     "site_url": "",
     "item_date_mode": "first_seen",
@@ -36,7 +36,6 @@
       "bufferbloat",
       "バッファブロート",
       "CAKE qdisc",
-      "cake-autorate",
       "fq_codel",
       "fq-codel",
       "sch_cake",
@@ -68,7 +67,6 @@
       "bufferbloat",
       "バッファブロート",
       "CAKE qdisc",
-      "cake-autorate",
       "fq_codel",
       "fq-codel",
       "sch_cake",
@@ -77,6 +75,9 @@
       "光回線",
       "ゲーミング",
       "低遅延",
+      "製品",
+      "価格",
+      "レビュー",
       "日本",
       "国内"
     ]
@@ -90,7 +91,7 @@
       "hl": "ja",
       "gl": "JP",
       "ceid": "JP:ja",
-      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"luci-app-sqm\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 無線LAN OR 光回線 OR ゲーミング OR 低遅延 OR QoS OR 日本 OR 国内)"
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"luci-app-sqm\") (ルーター OR Wi-Fi OR 無線LAN OR 光回線 OR ゲーミング OR 低遅延 OR QoS OR 日本 OR 国内 OR 製品 OR レビュー)"
     },
     {
       "name": "Google News JP: router market",
@@ -100,7 +101,7 @@
       "hl": "ja",
       "gl": "JP",
       "ceid": "JP:ja",
-      "query": "(\"バッファブロート\" OR \"SQM ルーター\" OR \"SQMルーター\" OR \"Smart Queue Management\" OR \"OpenWrt SQM\") (ルーター OR 価格 OR レビュー OR 購入 OR 製品 OR 国内)"
+      "query": "\"バッファブロート\" (ルーター OR Wi-Fi OR 光回線 OR オンラインゲーム OR ビデオ通話 OR 低遅延 OR 国内 OR 日本)"
     },
     {
       "name": "Bing News JP: SQM router",
@@ -118,8 +119,8 @@
       "api_key_env": "BRAVE_SEARCH_API_KEY",
       "country": "jp",
       "search_lang": "ja",
-      "freshness": "pw",
-      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 光回線 OR 国内 OR 日本)",
+      "freshness": "pm",
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"bufferbloat\" OR \"バッファブロート\") (ルーター OR Wi-Fi OR 光回線 OR 国内 OR 日本 OR 製品 OR レビュー)",
       "limit": 10
     },
     {
@@ -131,15 +132,15 @@
       "api_key_env": "BRAVE_SEARCH_API_KEY",
       "country": "jp",
       "search_lang": "ja",
-      "freshness": "pw",
-      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"luci-app-sqm\" OR \"bufferbloat\" OR \"バッファブロート\" OR \"cake-autorate\") (ルーター OR Wi-Fi OR 光回線 OR QoS OR 低遅延 OR ゲーミング OR 日本)",
+      "freshness": "pm",
+      "query": "(\"SQM ルーター\" OR \"SQMルーター\" OR \"SQM router\" OR \"OpenWrt SQM\" OR \"luci-app-sqm\" OR \"bufferbloat\" OR \"バッファブロート\") (ルーター OR Wi-Fi OR 光回線 OR QoS OR 低遅延 OR ゲーミング OR 日本 OR 製品 OR レビュー)",
       "limit": 10
     },
     {
       "name": "OpenWrt releases",
       "type": "rss",
       "info_type": "公式一次情報",
-      "enabled": true,
+      "enabled": false,
       "url": "https://github.com/openwrt/openwrt/releases.atom",
       "required_any": [
         "SQM",
@@ -160,7 +161,7 @@
       "name": "OpenWrt SQM Wiki",
       "type": "rss",
       "info_type": "公式一次情報",
-      "enabled": true,
+      "enabled": false,
       "url": "https://openwrt.org/feed.php",
       "required_any": [
         "SQM",
@@ -181,7 +182,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:openwrt/openwrt sqm-scripts",
       "limit": 10
     },
@@ -190,7 +191,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:openwrt/openwrt luci-app-sqm",
       "limit": 10
     },
@@ -199,7 +200,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:openwrt/openwrt cake_mq",
       "limit": 10
     },
@@ -208,7 +209,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:openwrt/openwrt sch_cake",
       "limit": 10
     },
@@ -217,7 +218,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:lynxthecat/cake-autorate cake-autorate",
       "limit": 10
     },
@@ -226,7 +227,7 @@
       "type": "github_search",
       "endpoint": "issues",
       "info_type": "開発一次情報",
-      "enabled": true,
+      "enabled": false,
       "query": "repo:sqm-autorate/sqm-autorate sqm-autorate",
       "limit": 10
     }

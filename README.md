@@ -7,7 +7,7 @@ Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側で�
 
 ## できること
 
-- 国内向け設定ではGoogle News JP、Bing News JP、Brave Search JP、公式更新、GitHub開発一次情報から取得
+- 国内向け設定ではGoogle News JPとBrave Search JPから、国内ニュース・国内Web記事を中心に取得
 - SQM関連キーワードでフィルタリング
 - RSS itemのタイトルに `[開発一次情報]` などの情報種別を表示
 - Slack RSS appで新着扱いされるよう、RSS itemの日付は「このシステムが初めて見つけた日時」として保持
@@ -60,13 +60,13 @@ GET https://psychidae.github.io/sqm-router-news-rss/api/latest.json
   "count": 1,
   "items": [
     {
-      "id": "8058dbe53121570819568d62",
-      "title": "upload_only mode that does not require a download CAKE interface?",
-      "url": "https://github.com/lynxthecat/cake-autorate/issues/360",
-      "published_at": "2026-04-24T18:14:00Z",
-      "source": "GitHub issues: cake-autorate / lynxthecat/cake-autorate",
-      "info_type": "開発一次情報",
-      "score": 7
+      "id": "6420ac1eec1812c4c79fd9ba",
+      "title": "オンラインゲームやビデオ通話の遅延発生につながる「バッファブロート」が自分の使っているネットワークで発生するか否か測定できるウェブサイト...",
+      "url": "https://news.google.com/rss/articles/...",
+      "published_at": "2026-02-11T08:00:00Z",
+      "source": "Google News JP: router market",
+      "info_type": "国内ニュース検索",
+      "score": 5
     }
   ]
 }
@@ -118,15 +118,15 @@ GitHub Actions上では `GITHUB_REPOSITORY` からGitHub Pages URLを自動推�
 RSS itemのタイトルには情報種別が入ります。
 
 ```text
-[開発一次情報] SQM CAKE MQ cake_mq: Speed / Bandwidth is very low...
-[国内ニュース検索] Google News JP: SQM domestic market...
+[国内ニュース検索] オンラインゲームやビデオ通話の遅延発生につながる「バッファブロート」...
+[国内全Web検索] OpenWrt カスタムルーターガイド...
 ```
 
 | 表示 | 意味 | 主なソース |
 |---|---|---|
-| 公式一次情報 | プロジェクト公式の更新・リリース・公式サイト | OpenWrt releases, OpenWrt site |
-| 開発一次情報 | Issue/PRなど開発現場の一次情報 | GitHub Search |
-| 国内ニュース検索 | 国内ニュース媒体や日本語記事の検索結果 | Google News JP, Bing News JP |
+| 公式一次情報 | プロジェクト公式の更新・リリース・公式サイト | 広域設定のみ |
+| 開発一次情報 | Issue/PRなど開発現場の一次情報 | 広域設定のみ |
+| 国内ニュース検索 | 国内ニュース媒体や日本語記事の検索結果 | Google News JP |
 | 国内全Webニュース検索 | Braveの国内ニュース検索結果 | Brave News JP |
 | 国内全Web検索 | Braveの国内Web検索結果 | Brave Web JP |
 | 技術コミュニティ | 技術者コミュニティでの話題 | Hacker News（広域設定のみ） |
