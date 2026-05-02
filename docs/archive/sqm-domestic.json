@@ -1,15 +1,12 @@
 {
-  "title": "SQMルーター国内マーケット最新情報",
-  "description": "日本国内マーケット向けに、SQMルーター、OpenWrt SQM、バッファブロート、低遅延ルーター関連のニュース・Web記事を集約したRSSフィードです。",
-  "generated_at": "2026-05-02T21:45:43.577780Z",
-  "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
-  "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feed.xml",
-  "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/latest.json",
+  "title": "SQM国内マーケット",
+  "generated_at": "2026-05-02T21:45:52.398170Z",
   "count": 1,
-  "errors": [],
   "items": [
     {
       "id": "6420ac1eec1812c4c79fd9ba",
+      "category_id": "sqm-domestic",
+      "category": "SQMルーター国内マーケット最新情報",
       "title": "オンラインゲームやビデオ通話の遅延発生につながる「バッファブロート」が自分の使っているネットワークで発生するか否か測定できるウェブサイト (2026年2月11日掲載) - ライブドアニュース",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjd1RFcW1wUE5zMXRFaWo1aU5LWjc5Tmc0TUlCVGk1N3Z4MlZ4RG9lbVU5MEoxX1AydTd2T2lUaUhrUmRkZ2lSMzkzeVNyUXg0aGVnNERjNmxicmQ1cXc?oc=5",
       "summary": "オンラインゲームやビデオ通話の遅延発生につながる「バッファブロート」が自分の使っているネットワークで発生するか否か測定できるウェブサイト (2026年2月11日掲載) ライブドアニュース",
@@ -17,7 +14,7 @@
       "source": "Google News JP: router market",
       "source_url": "https://news.google.com/rss/search?q=%22%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%96%E3%83%AD%E3%83%BC%E3%83%88%22+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E5%85%89%E5%9B%9E%E7%B7%9A+OR+%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%A0+OR+%E3%83%93%E3%83%87%E3%82%AA%E9%80%9A%E8%A9%B1+OR+%E4%BD%8E%E9%81%85%E5%BB%B6+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ニュース検索",
-      "score": 5
+      "discovery_source": "current_api_seed"
     }
   ]
 }

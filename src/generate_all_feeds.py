@@ -133,6 +133,7 @@ def write_index(path: Path, manifest: dict[str, Any], generated: list[dict[str, 
 <body>
   <h1>{title}</h1>
   <p>{description}</p>
+  <p>過去記事リスト: <a href="archive/">archive/</a></p>
   <table>
     <thead>
       <tr><th>ジャンル</th><th>Slackチャンネル例</th><th>RSS</th><th>JSON</th><th>件数</th></tr>

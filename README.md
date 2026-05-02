@@ -14,6 +14,7 @@ Slack API、Incoming Webhook、Slack Appの作成は不要です。Slack側で�
 - Slack RSS appで新着扱いされるよう、RSS itemの日付は「このシステムが初めて見つけた日時」として保持
 - GitHub Actionsで全RSS/APIを30分ごとに更新
 - GitHub PagesでRSS/JSON APIを公開し、Slack RSS appや自前サーバーから利用
+- 過去記事アーカイブをHTML/JSON/CSVで公開
 - 広域調査用に `config/sqm-router.json` も残す
 
 ## Slackチャンネル別RSS
@@ -61,6 +62,18 @@ GET https://psychidae.github.io/sqm-router-news-rss/api/router-global.json
 GET https://psychidae.github.io/sqm-router-news-rss/api/network-security.json
 GET https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json
 ```
+
+## 過去記事リスト
+
+過去記事はGitHub Pages上のリストで参照できます。
+
+```text
+https://psychidae.github.io/sqm-router-news-rss/archive/
+https://psychidae.github.io/sqm-router-news-rss/archive/archive.json
+https://psychidae.github.io/sqm-router-news-rss/archive/archive.csv
+```
+
+SlackのListを直接作成・更新する権限はこのコネクタにはないため、Slack側には上記URLを固定投稿またはCanvasで共有する運用にします。5〜10年分のバックフィルはBrave Search APIのカスタム日付範囲検索を使います。GitHub Secretsに `BRAVE_SEARCH_API_KEY` を設定したうえで、GitHub Actionsの `Build historical news archive` を手動実行してください。
 
 レスポンス例:
 
@@ -113,6 +126,7 @@ https://psychidae.github.io/sqm-router-news-rss/api/latest.json
 - `config/router-global.json`: 海外ルーターニュース
 - `config/network-security.json`: ネットワークセキュリティ
 - `config/network-performance.json`: ネットワーク性能・障害
+- `config/archive.json`: 過去記事アーカイブ用の検索条件
 - `app.lookback_hours`: 何時間以内の記事を対象にするか
 - `app.max_items`: RSS/APIに載せる最大件数
 - `filters.required_any`: どれかを含む記事・Issueだけ通すキーワード
@@ -165,7 +179,7 @@ RSS itemのタイトルには情報種別が入ります。
 必須のSlack APIキーはありません。
 
 - `GITHUB_TOKEN`: GitHub Actionsでは自動で使われます。ローカルでは未設定でも可
-- `BRAVE_SEARCH_API_KEY`: 任意。設定すると国内全Web検索/ニュース検索が有効化されます
+- `BRAVE_SEARCH_API_KEY`: 任意。設定すると全Web検索/ニュース検索と過去5〜10年分のバックフィルが有効化されます
 - `SLACK_WEBHOOK_URL`: RSS方式では不要。旧Webhook送信用機能を使う場合だけ必要
 
 ## 開発・検証
@@ -174,4 +188,5 @@ RSS itemのタイトルには情報種別が入ります。
 python3 -m unittest discover -s tests
 python3 -m json.tool config/feeds.json >/dev/null
 python3 src/generate_all_feeds.py --manifest config/feeds.json --index-output docs/index.html
+python3 src/build_archive.py --config config/archive.json --years 10 --output-dir docs/archive
 ```

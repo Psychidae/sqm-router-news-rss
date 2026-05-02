@@ -1,0 +1,127 @@
+{
+  "title": "Router / Network News Archive",
+  "description": "ルーター・ネットワーク関連ニュースの過去記事リストです。Brave Search APIキーがある場合、指定期間を年単位で検索して追記します。",
+  "timezone": "Asia/Tokyo",
+  "start_date": "2016-01-01",
+  "default_years": 10,
+  "output_dir": "docs/archive",
+  "seed_api_files": [
+    "docs/api/latest.json",
+    "docs/api/router-domestic.json",
+    "docs/api/router-global.json",
+    "docs/api/network-security.json",
+    "docs/api/network-performance.json"
+  ],
+  "categories": [
+    {
+      "id": "sqm-domestic",
+      "title": "SQM国内マーケット",
+      "country": "jp",
+      "search_lang": "ja",
+      "queries": [
+        "(\"SQM ルーター\" OR \"SQMルーター\" OR \"OpenWrt SQM\" OR \"Smart Queue Management\" OR \"バッファブロート\") (ルーター OR Wi-Fi OR 光回線 OR 低遅延 OR 国内 OR 日本)",
+        "(\"bufferbloat\" OR \"バッファブロート\" OR \"latency under load\") (ルーター OR Wi-Fi OR インターネット OR オンラインゲーム OR ビデオ通話)"
+      ],
+      "required_any": [
+        "SQM",
+        "OpenWrt SQM",
+        "Smart Queue Management",
+        "bufferbloat",
+        "バッファブロート",
+        "低遅延"
+      ]
+    },
+    {
+      "id": "router-domestic",
+      "title": "国内ルーター市場",
+      "country": "jp",
+      "search_lang": "ja",
+      "queries": [
+        "(\"Wi-Fiルーター\" OR \"Wi-Fi ルーター\" OR \"無線LANルーター\" OR \"ホームルーター\" OR \"ゲーミングルーター\" OR \"メッシュWi-Fi\") (発売 OR 発表 OR 新製品 OR レビュー OR 価格 OR 国内 OR 日本)",
+        "(バッファロー OR NEC OR ASUS OR TP-Link OR NETGEAR OR エレコム) (ルーター OR Wi-Fi OR 無線LAN OR メッシュWi-Fi OR ホームルーター)"
+      ],
+      "required_any": [
+        "Wi-Fiルーター",
+        "Wi-Fi ルーター",
+        "無線LANルーター",
+        "ホームルーター",
+        "ゲーミングルーター",
+        "メッシュWi-Fi",
+        "Wi-Fi 7",
+        "ルーター"
+      ]
+    },
+    {
+      "id": "router-global",
+      "title": "海外ルーターニュース",
+      "country": "us",
+      "search_lang": "en",
+      "queries": [
+        "(\"Wi-Fi router\" OR \"mesh router\" OR \"gaming router\" OR \"OpenWrt\" OR \"router firmware\") (launch OR release OR review OR update)",
+        "(\"home networking\" OR \"Wi-Fi 7\" OR \"mesh Wi-Fi\") (router OR gateway OR firmware OR review)"
+      ],
+      "required_any": [
+        "router",
+        "Wi-Fi router",
+        "mesh router",
+        "gaming router",
+        "OpenWrt",
+        "router firmware",
+        "home networking",
+        "Wi-Fi 7"
+      ]
+    },
+    {
+      "id": "network-security",
+      "title": "ネットワークセキュリティ",
+      "country": "us",
+      "search_lang": "en",
+      "queries": [
+        "(\"router vulnerability\" OR \"Wi-Fi vulnerability\" OR \"VPN vulnerability\" OR \"firewall vulnerability\" OR \"security advisory\") (CVE OR exploit OR patch)",
+        "(ルーター OR Wi-Fi OR VPN OR ファイアウォール OR ネットワーク機器) (脆弱性 OR CVE OR セキュリティ OR ゼロデイ OR 攻撃)"
+      ],
+      "required_any": [
+        "vulnerability",
+        "security advisory",
+        "CVE",
+        "exploit",
+        "脆弱性",
+        "セキュリティ"
+      ]
+    },
+    {
+      "id": "network-performance",
+      "title": "ネットワーク性能・障害",
+      "country": "us",
+      "search_lang": "en",
+      "queries": [
+        "(latency OR \"packet loss\" OR \"DNS outage\" OR \"BGP outage\" OR \"BGP routing\" OR \"CDN outage\" OR \"internet outage\" OR \"routing incident\" OR \"IPv6 outage\") (network OR internet OR ISP OR routing)",
+        "(通信障害 OR 遅延 OR パケットロス OR DNS障害 OR CDN障害 OR BGP OR IPv6 OR 経路障害) (ネットワーク OR インターネット OR 回線 OR ISP)"
+      ],
+      "required_any": [
+        "latency",
+        "packet loss",
+        "DNS",
+        "BGP",
+        "CDN",
+        "internet outage",
+        "通信障害",
+        "遅延",
+        "パケットロス"
+      ]
+    }
+  ],
+  "exclude_any": [
+    "stock price",
+    "earnings call",
+    "wood router",
+    "cnc router",
+    "router bit",
+    "plunge router",
+    "trim router",
+    "求人",
+    "採用",
+    "株価",
+    "株式"
+  ]
+}

@@ -1,15 +1,12 @@
 {
-  "title": "ネットワーク性能・障害ニュース",
-  "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-02T21:45:49.750321Z",
-  "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
-  "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
-  "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
+  "title": "ネットワーク性能・障害",
+  "generated_at": "2026-05-02T21:45:52.398170Z",
   "count": 10,
-  "errors": [],
   "items": [
     {
       "id": "332f4173d004fcde55cd43d1",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "One NZ fixes issue causing widespread internet outage - 1News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkxzQ3RRLVJQd0V4TV91OU5oeXliLTRrM3N3RU5vWExoQkVvUEF6VHozTGFyallDRG9JSU01eU1xUUZsOFZpSzJlWld5MmJCSFNmWnVSVlZrbWRPYUtZNEFhVlR1MHNhQmlvMWdXbGJvSVliQ1lYVkxvYTgxNnpFZ2N5QmxOdjd4NDE0UEpuOGZXMFk?oc=5",
       "summary": "One NZ fixes issue causing widespread internet outage 1News",
@@ -17,10 +14,12 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "9c0caeef903e7070960d511f",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
       "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
@@ -28,10 +27,12 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "ace2a7a733db0c140e5d6018",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - RNZ",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlNBRnlHNnpoNFdOaWphc3dfOXRLSzZzSFU4em1fQXRIWERmUVIyOXRVVWl3YWFCMTNnakNsZTdsdkk3RE5ZVExHbklvQVdYSlBJUXdITURnRzU2dnpFeGh6bnJ4cnRvTnVWYU1sal9ZTWhrNk9VSjVIUHVHeWtqbjVWUTNDNThNVk1aTl9TYjE5VFVTUnRhT05hRURtcWtNeHhwWGx3V281TEdFalJxcEUwZ3JnQzVyTm1relJSalU5NUdfOFV0bEI2OVg?oc=5",
       "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island RNZ",
@@ -39,10 +40,12 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "b065a018e1334e56b13e4958",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "One NZ issue fixed after causing internet outages across the South Island, parts of North Island - RNZ",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGY1OUM1X0htRGs3djRBZnVsNVlKXzRWOTAzblRITmltQUFneWxXcGY5czl1aGVUbFJma0lWOUhTeEpjR0RTZnh2MFp6cWU1Q2dXekE5aU92Y1R0SENyamp5Nmo3blB6c1BXTEJOZjNyR1JHMFlCaC1zWlFiOEZpRU85Nld0aERFZ1hOWE9jV3V1bkhLSGZVZW5tUWJIWkhBSzdPbGhBZGtfbkJFVDV3MWNPRXhmMjUxeGU1dFJUb09RaTZYMmxwQUFBQ3h5TFR2cVVKZA?oc=5",
       "summary": "One NZ issue fixed after causing internet outages across the South Island, parts of North Island RNZ",
@@ -50,10 +53,12 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "88892042e69b852a12a2319e",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "One NZ internet outage affects entire South Island, parts of north - The Press",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGpyWHdGNWVtQmwycTU3MmNsVzdkTUpDNFZ4Z3pqZmRxeW1ucXFOdEw3YUIyanc4V3R6c2ZKYkp2RTh2dDE2c3EybU1mM0kyLUNKR29pcWlqRDZyWURHa3BQYmdLTHM3SVR6QWI3dGJ5anBVZ0Q5Slhpbmp2MlEtWWhXRjd5aFBvWHh2Zzk5REpsWDZVV1BYemtHMld5QVJVMGE4Y3RyOExEZw?oc=5",
       "summary": "One NZ internet outage affects entire South Island, parts of north The Press",
@@ -61,21 +66,12 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "d628330de7bba39cb5258e2c",
-      "title": "Plumas County 911 text service down due to internet outage - Action News Now",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWF0X1dRRFBTZzlBUC1EbEEzSjRkWHJ4QklXRzY3U2tkcHRHS0VYeFdIRzJaNDFiSDFpRURJUFdhOUZjMF8xWk81SHZJNkVIeFU0TjZxNnpZdm8wTy10dVVKYmtqMzhoOG5VVXlET1VSd255aF90MnIxYVVsOUpFS3ZSeFllSlNFdlVoMm5kYU5hNlhLekdpRGtMUVVLNHI1MTl5TVVGbms3NndOWlR3b3NMeVIxeWRHakJnbEZ6Vm1helFwckNQd29MejNHUk5PR2RyTzdEUkRHSmM?oc=5",
-      "summary": "Plumas County 911 text service down due to internet outage Action News Now",
-      "published_at": "2026-04-29T22:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "96a75af0713bb6f6203f6e1f",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 - DXマガジン",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11Wkx3ZEROeXZQZkMyVEVUOTZDTnUxRVhoMXVWd3R3NTNMcEhyVFV0clpnNHJkR2tEM2FWTWszWXhsY0ZwNmtINFdjUS1LZw?oc=5",
       "summary": "遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 DXマガジン",
@@ -83,32 +79,25 @@
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 7
+      "discovery_source": "current_api_seed"
     },
     {
-      "id": "e18829eaab174caede6556ba",
-      "title": "Sumter County official offers update on four-hour internet outage - Villages-News.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGtLTlZlMHpKLXR6b0VBTHBDWExHT0hsVU9zT3VCZjdKRDZFcWQ3RC1jRVVQblRBcUtlSWQwZEdUMDhJZUNfdllSM2FZTWpUQTNKdVBTaElmcGxnQ3M0dmVjenpaRk5TZlVJd0pPdHFwUnlRMTNlbS12dEhZTDBLTk54TnBmZy10RTJXcXY3OFNxeFI0dVBWY3R3dzJtXzFDdWlYMjFuRXJRRG8?oc=5",
-      "summary": "Sumter County official offers update on four-hour internet outage Villages-News.com",
-      "published_at": "2026-04-29T00:59:14Z",
+      "id": "d628330de7bba39cb5258e2c",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
+      "title": "Plumas County 911 text service down due to internet outage - Action News Now",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWF0X1dRRFBTZzlBUC1EbEEzSjRkWHJ4QklXRzY3U2tkcHRHS0VYeFdIRzJaNDFiSDFpRURJUFdhOUZjMF8xWk81SHZJNkVIeFU0TjZxNnpZdm8wTy10dVVKYmtqMzhoOG5VVXlET1VSd255aF90MnIxYVVsOUpFS3ZSeFllSlNFdlVoMm5kYU5hNlhLekdpRGtMUVVLNHI1MTl5TVVGbms3NndOWlR3b3NMeVIxeWRHakJnbEZ6Vm1helFwckNQd29MejNHUk5PR2RyTzdEUkRHSmM?oc=5",
+      "summary": "Plumas County 911 text service down due to internet outage Action News Now",
+      "published_at": "2026-04-29T22:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "60720f3115828fb3ebc5cd61",
-      "title": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World - fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2dJTmtnRU1aXy1QRDhBNV9Dam9ucmFKWVhoNHVHVUw1R2o3b1hLbUYzV1lHbWxYTkN3NG5wYmZyZzlWYXRFaHJrN3ppd1dKeEFTRFduNW84QWVqVk5qdFdMcGxIbkRIcGNMRndSb2I4dndiNHh0Wm1UeVlQQmtFZFVKb1dyQQ?oc=5",
-      "summary": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World fakti.bg",
-      "published_at": "2026-04-27T06:17:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
+      "discovery_source": "current_api_seed"
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
       "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
@@ -116,7 +105,33 @@
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 6
+      "discovery_source": "current_api_seed"
+    },
+    {
+      "id": "e18829eaab174caede6556ba",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
+      "title": "Sumter County official offers update on four-hour internet outage - Villages-News.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGtLTlZlMHpKLXR6b0VBTHBDWExHT0hsVU9zT3VCZjdKRDZFcWQ3RC1jRVVQblRBcUtlSWQwZEdUMDhJZUNfdllSM2FZTWpUQTNKdVBTaElmcGxnQ3M0dmVjenpaRk5TZlVJd0pPdHFwUnlRMTNlbS12dEhZTDBLTk54TnBmZy10RTJXcXY3OFNxeFI0dVBWY3R3dzJtXzFDdWlYMjFuRXJRRG8?oc=5",
+      "summary": "Sumter County official offers update on four-hour internet outage Villages-News.com",
+      "published_at": "2026-04-29T00:59:14Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "discovery_source": "current_api_seed"
+    },
+    {
+      "id": "60720f3115828fb3ebc5cd61",
+      "category_id": "network-performance",
+      "category": "ネットワーク性能・障害ニュース",
+      "title": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World - fakti.bg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2dJTmtnRU1aXy1QRDhBNV9Dam9ucmFKWVhoNHVHVUw1R2o3b1hLbUYzV1lHbWxYTkN3NG5wYmZyZzlWYXRFaHJrN3ppd1dKeEFTRFduNW84QWVqVk5qdFdMcGxIbkRIcGNMRndSb2I4dndiNHh0Wm1UeVlQQmtFZFVKb1dyQQ?oc=5",
+      "summary": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World fakti.bg",
+      "published_at": "2026-04-27T06:17:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "discovery_source": "current_api_seed"
     }
   ]
 }

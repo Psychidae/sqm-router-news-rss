@@ -13,6 +13,12 @@ news_to_slack = importlib.util.module_from_spec(SPEC)
 sys.modules["news_to_slack"] = news_to_slack
 SPEC.loader.exec_module(news_to_slack)
 
+ARCHIVE_PATH = Path(__file__).resolve().parents[1] / "src" / "build_archive.py"
+ARCHIVE_SPEC = importlib.util.spec_from_file_location("build_archive", ARCHIVE_PATH)
+build_archive = importlib.util.module_from_spec(ARCHIVE_SPEC)
+sys.modules["build_archive"] = build_archive
+ARCHIVE_SPEC.loader.exec_module(build_archive)
+
 
 class NewsToSlackTests(unittest.TestCase):
     def test_parse_rss_item(self):
@@ -345,6 +351,30 @@ class NewsToSlackTests(unittest.TestCase):
         self.assertEqual(payload["api_url"], "https://example.com/project/api/latest.json")
         self.assertEqual(payload["items"][0]["id"], "abc")
         self.assertEqual(payload["items"][0]["info_type"], "開発一次情報")
+
+    def test_archive_year_windows(self):
+        windows = build_archive.year_windows(
+            dt.date(2024, 11, 15),
+            dt.date(2026, 2, 3),
+        )
+        self.assertEqual(
+            windows,
+            [
+                (dt.date(2024, 11, 15), dt.date(2024, 12, 31)),
+                (dt.date(2025, 1, 1), dt.date(2025, 12, 31)),
+                (dt.date(2026, 1, 1), dt.date(2026, 2, 3)),
+            ],
+        )
+
+    def test_archive_dedupe_items_prefers_published(self):
+        items = build_archive.dedupe_items(
+            [
+                {"id": "same", "title": "A", "url": "https://example.com/a", "published_at": None},
+                {"id": "same", "title": "A", "url": "https://example.com/a", "published_at": "2026-01-01T00:00:00Z"},
+            ]
+        )
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0]["published_at"], "2026-01-01T00:00:00Z")
 
 
 if __name__ == "__main__":

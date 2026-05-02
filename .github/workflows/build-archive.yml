@@ -1,0 +1,46 @@
+name: Build historical news archive
+
+on:
+  workflow_dispatch:
+    inputs:
+      years:
+        description: "How many years to backfill from today"
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+jobs:
+  build-archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build historical archive
+        env:
+          BRAVE_SEARCH_API_KEY: ${{ secrets.BRAVE_SEARCH_API_KEY }}
+        run: >
+          python src/build_archive.py
+          --config config/archive.json
+          --years "${{ github.event.inputs.years }}"
+          --output-dir docs/archive
+
+      - name: Commit archive
+        run: |
+          if [ -z "$(git status --porcelain docs/archive docs/index.html)" ]; then
+            echo "No archive changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/archive docs/index.html
+          git commit -m "chore: update historical archive"
+          git push
