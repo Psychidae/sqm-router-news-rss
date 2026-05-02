@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-02T19:59:57.661144Z",
+  "generated_at": "2026-05-02T20:59:01.244930Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 18
-    },
-    {
-      "id": "2533ab8e4220fa6c961fd82a",
-      "title": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review - MKAU Gaming",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHJiWEd0NTBkM05fVXRMSXJNdURfdEdqUHFjbF9pSTRUNFpDRHhoMld5RGNwV2ozbDlHeHRGMGdFMmN0bUFsLWlVZVJqTnNUZ21UalVFRGhqQ0lqb3hRM2tPdElGaEdvSkFaazBQd2J5T2EyZ19ONjdlNk9RTDlOV3NESWVwRkh5YjNuY2cxYWN1ZU5MSWxhNVo1alMxeVk?oc=5",
-      "summary": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming",
-      "published_at": "2026-04-29T13:18:48Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "ac5cc269e06ea4ddc86d4255",
@@ -102,6 +91,17 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
       "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
       "published_at": "2026-04-28T11:02:47Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "6d53c3fccc7275337f705576",
+      "title": "TP-Link launches new affordable Wi-Fi 7 router with AI-powered antennas & EasyMesh support - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQOFRYc0d2WngtcTdwT2ZDUmhuaFFWX1hvWWtJVGNtbFdjc2RMdWZmbmFwLVREMThweGg3Z0stWDVnZnJiOTFXbVN0c2hBU2tDNkV6aEw4YV9UNHFNeVFQOWZHRTV0YW5uQV9RWjRRem1TbHg1MmdFdkg2bk9WNmdPZUZMTG54OV9IRi1QRUdqa0NEM0tGQThybEtLMnY2a2JIU1Y5ZG5OcVZjTWJHR2NpOXMtY2VrZ0JEQWJEVjJFNFkyYmQzZzNhb2FEWUR0aHU3YXRTMF9YTDNlSFAyRV9RUkNldkZBT1NzbDA2NUNCZkMwZDNxNjZmVXV5bU1Fc2lhcHp0dmF4VmdIcEVSSFd3RlJQcXJNRnhZZTh4SE1JVFlMRlF0NEY5WktobjRKa1dxaUgyMU1WbTJfZUNzS0c4UURyTlVBM0t6WG1jQVRhaVI3VGxjaW5vZVVpVTE2UENRbm9nUm9QSlJsTzM1bmVIcVpxQ3pzVmhBX1dFSVE4WW5TS3lUZ1EwRTNKSUc2R2g0?oc=5",
+      "summary": "TP-Link launches new affordable Wi-Fi 7 router with AI-powered antennas & EasyMesh support MSN",
+      "published_at": "2026-04-26T19:35:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
