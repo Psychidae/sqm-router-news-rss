@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-02T03:49:31.029403Z",
+  "generated_at": "2026-05-02T06:19:50.837944Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -25,6 +25,17 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
       "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
       "published_at": "2026-05-01T02:23:55Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "c1854716608787e36eb45baa",
+      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - Southland App",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTVRlcXJXTmV4WVQ0ZVJqNGpPa3YwWl93eE9VNlJhTkxGci02TmZJNGZRbzk3MDJVUHJHQlM1QjI2Q0NQdXRVWTBJZVRqcHpJTFBXQmtDOFRZdE1DWDl5eWpPWEFtZE1jNlhoZ3l2VkZILWlwY0tzX1RvVnZVY2s3Q3dlanBVMXBGcFJWZkx2a2o3SmMtZVJSSjE5MldsdzZUa2J3SFNyV2NucEZZWjFNUlQzNl9Fa19XRlJuVS11V1hoUG4tQXZROWkteERxNFN5LUZXdllIeENfUHgzOXhkZ1F3?oc=5",
+      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island Southland App",
+      "published_at": "2026-04-30T23:23:58Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "a7ef8ade91e6e48b412b64cc",
-      "title": "山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbVpOcVlHenlncFRZakFyRjF0dzlpTkFzNDFhOGxVeVlSbnBfWXNVa01zWkZHR0Nza1Qta2xGOWQ2ZFk0Mko0ellOOFc?oc=5",
-      "summary": "山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 DXマガジン",
-      "published_at": "2026-04-28T11:24:54Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }

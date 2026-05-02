@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 03:49:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 06:19:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck</title>
@@ -40,13 +40,13 @@ Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Perfor
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5</link>
       <guid isPermaLink="false">6126e4fed1e19c92565c7171</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
+ソース: Google News US: router products
 元記事日付: 2026-04-21 16:00
 ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech</description>
       <pubDate>Fri, 01 May 2026 23:01:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-01T23:01:23.949719Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -106,20 +106,6 @@ BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1ktdWVmTlcyQWpCYXBDTW13d3V2V1dYUy1NdjlJTXhIWHVtRWhILXBrWC12TW9BMUdodC1vMVYtd2RVLXY5SUlXNlc3VlVWamdJZWUycHRweEFSNlVURGVMS0RFUHdqbUNLdmZzN1RBUmc1ZWM5UTMydkhhbkROT2pkX0hCX000eXdidHZTWl83ZGpMeGRfdzFQTDJPUWEwU29nXzNMR1UxeWFOSTY4YU0zclRrdjhRU2c?oc=5</link>
-      <guid isPermaLink="false">522f759db83d7124ab6c1285</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-04-21 00:03
-Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles Telecompaper</description>
-      <pubDate>Sat, 02 May 2026 03:49:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T03:49:29.007791Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-20T15:03:55Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Portable Wi-Fi Router for Travel: Top Picks With VPNs - Cybernews</title>
       <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eUV3dnJISGo1aERnM183eHd3V3poZUdDZEJLbEN2NEtYQmpLZ0lXUGdTVWtOb3lYQTgxOS1xbnkzd0ZSNC1LMG43QW80eGdpb3hKUmQyT29FbHc?oc=5</link>
       <guid isPermaLink="false">4a68625d54935509fab00ea4</guid>
@@ -145,6 +131,20 @@ You Should Replace Your Starlink Router - Here's Why bgr.com</description>
       <sqm:firstSeenDate>2026-05-01T23:01:23.949719Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T16:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - RTINGS.com</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5</link>
+      <guid isPermaLink="false">88fc21b4c5b189b1c1598b3a</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-04-21 16:00
+The 5 Best Wi-Fi Routers of 2026 RTINGS.com</description>
+      <pubDate>Sat, 02 May 2026 06:19:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T06:19:48.751311Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>

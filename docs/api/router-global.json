@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-02T03:49:29.008747Z",
+  "generated_at": "2026-05-02T06:19:48.752285Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -36,10 +36,10 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5",
       "summary": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech",
       "published_at": "2026-04-21T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 15
     },
     {
       "id": "26e9fdb7505e9266d0e2d7e5",
@@ -86,17 +86,6 @@
       "score": 11
     },
     {
-      "id": "522f759db83d7124ab6c1285",
-      "title": "Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1ktdWVmTlcyQWpCYXBDTW13d3V2V1dYUy1NdjlJTXhIWHVtRWhILXBrWC12TW9BMUdodC1vMVYtd2RVLXY5SUlXNlc3VlVWamdJZWUycHRweEFSNlVURGVMS0RFUHdqbUNLdmZzN1RBUmc1ZWM5UTMydkhhbkROT2pkX0hCX000eXdidHZTWl83ZGpMeGRfdzFQTDJPUWEwU29nXzNMR1UxeWFOSTY4YU0zclRrdjhRU2c?oc=5",
-      "summary": "Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles Telecompaper",
-      "published_at": "2026-04-20T15:03:55Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "4a68625d54935509fab00ea4",
       "title": "Portable Wi-Fi Router for Travel: Top Picks With VPNs - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eUV3dnJISGo1aERnM183eHd3V3poZUdDZEJLbEN2NEtYQmpLZ0lXUGdTVWtOb3lYQTgxOS1xbnkzd0ZSNC1LMG43QW80eGdpb3hKUmQyT29FbHc?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
+    },
+    {
+      "id": "88fc21b4c5b189b1c1598b3a",
+      "title": "The 5 Best Wi-Fi Routers of 2026 - RTINGS.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5",
+      "summary": "The 5 Best Wi-Fi Routers of 2026 RTINGS.com",
+      "published_at": "2026-04-21T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
