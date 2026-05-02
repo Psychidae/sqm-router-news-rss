@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-02T00:03:59.936680Z",
+  "generated_at": "2026-05-02T03:49:29.008747Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,6 +86,17 @@
       "score": 11
     },
     {
+      "id": "522f759db83d7124ab6c1285",
+      "title": "Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1ktdWVmTlcyQWpCYXBDTW13d3V2V1dYUy1NdjlJTXhIWHVtRWhILXBrWC12TW9BMUdodC1vMVYtd2RVLXY5SUlXNlc3VlVWamdJZWUycHRweEFSNlVURGVMS0RFUHdqbUNLdmZzN1RBUmc1ZWM5UTMydkhhbkROT2pkX0hCX000eXdidHZTWl83ZGpMeGRfdzFQTDJPUWEwU29nXzNMR1UxeWFOSTY4YU0zclRrdjhRU2c?oc=5",
+      "summary": "Orange Slovakia updates broadband offer with Wi-Fi 7 router, new FWA bundles Telecompaper",
+      "published_at": "2026-04-20T15:03:55Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "4a68625d54935509fab00ea4",
       "title": "Portable Wi-Fi Router for Travel: Top Picks With VPNs - Cybernews",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eUV3dnJISGo1aERnM183eHd3V3poZUdDZEJLbEN2NEtYQmpLZ0lXUGdTVWtOb3lYQTgxOS1xbnkzd0ZSNC1LMG43QW80eGdpb3hKUmQyT29FbHc?oc=5",
@@ -95,17 +106,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 10
-    },
-    {
-      "id": "e140af00164c0f099ebf130d",
-      "title": "OpenWrt 23.05 Authenticated Remote Code Execution (RCE) Vulnerability: Risk Analysis, Impact, and Mitigation (CVE-2025-62526) - Rescana",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3Atd1otU0dta1pjVWR5NHI2a1BXVGJVSlVPVnpzYVR0WkxBcm8ySW12LThqcS1qcG54bk5YRXJCeHU3MFpTWnlPb2p5dVI5WjNWWGdYMko3LWNsR1R0U2NZMUhIdHF6TGhELWJTQzQzangwNEItSjd1MDdMN202UzBocnVrNXJ2Q0FGWWVGeklZd0tvUDdGWmxPeWlRYmpiMmRVLVV6REZ2UjZ5bUE?oc=5",
-      "summary": "OpenWrt 23.05 Authenticated Remote Code Execution (RCE) Vulnerability: Risk Analysis, Impact, and Mitigation (CVE-2025-62526) Rescana",
-      "published_at": "2026-04-30T17:06:30Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     },
     {
       "id": "65439269129d5c1ac9589ca7",
