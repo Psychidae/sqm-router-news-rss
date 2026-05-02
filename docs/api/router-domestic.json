@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-02T06:19:47.732764Z",
+  "generated_at": "2026-05-02T08:12:41.225406Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -64,17 +64,6 @@
       "score": 15
     },
     {
-      "id": "8d275d5b4c0d096504351f10",
-      "title": "バッファローのWi-Fi 7対応モデルが首位！ 無線LANルーター人気ランキングTOP10 2026/4/20 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nb1JPZzd1WVlhZk1yRmwxbXFmM1FEQUZIbTBab1lJQnVWVGhCT3BlMGtMUEdGV083YUpteVU1ZkIzVGdIRlVYajMtbDRVcWRxbUo1VTJNRGRLVkhhRy1YRGZwaENHMmFOb1JBeXV0RQ?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが首位！ 無線LANルーター人気ランキングTOP10 2026/4/20 bcnretail.com",
-      "published_at": "2026-04-20T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
       "id": "8149e459ae0e05746955ccce",
       "title": "TP-LinkのWi-Fi 7ルーターが安い！ Amazon GWスマイルSale 最大2882＋688Mbpsの廉価モデル「Archer BE220」は8820円 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92UWYyR3hRU0JGa0luTUhHWU1oNWYzSm1KZ3lQSUY3Q2diR1YzWXhUNE9jR3RDOXhnaEQzM0o5VU1EM2x4b0ZjM05LdUxMQUNja09PeGNha1dLYU9JWGNkRWczdGVGY19XODh3YXBhVjM?oc=5",
@@ -93,6 +82,17 @@
       "published_at": "2026-04-30T07:00:28Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "940d18a3cf670f114cdbaa78",
+      "title": "バッファローのWi-Fiルーターが安い！ Amazon GWスマイルSale - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeWN3UUQxMW9NeUJIMXJlSnlXc1dvdVJlbWt2NEx6TTRMZXNHd210ZzFXa2hxcUo3NmJwQTAxRUFsanlyWGlFMmtfVFI5S3E1aXBod2d3SEptcUsxdVJ4UTVCaFp1YnR0TThZS2ZFbGg?oc=5",
+      "summary": "バッファローのWi-Fiルーターが安い！ Amazon GWスマイルSale INTERNET Watch",
+      "published_at": "2026-04-30T02:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
     }

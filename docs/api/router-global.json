@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-02T06:19:48.752285Z",
+  "generated_at": "2026-05-02T08:12:42.351652Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 15
+    },
+    {
+      "id": "7d8f832472d6aba7d0e1c2e7",
+      "title": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support - MSN",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOVWtQQkZfMzVISU8xMzRLRjlrbHNEeW8zNXZzc3c3MzJSNlEySmkzVUtwWDQ3VXQxZklISG4tME9Wdzl4YVVELWN1VThpS0hXQ1UzenhXYTVCX1Jac2xuTVlJU054elA2SnpNdWNlNmpxRWpGSUhOdWxMUnNXQkdlWG54eE1CRkFtdk5uNDI3d1hQdjZxeXlBbVJTSG5PSWdrMmRreW0xLTRYM2w1ajM5cm9mWVFkNG16VjRnY1dYQ2NSWHk2NGNFZWlKZkhRT1l5N1JndmtFYVBKTVRZRnRpMjRrd2FFcmhmLW9fbHFGNWV6NXNySlFCZXNFM2U0MVNLSzlibEQzOTg5cVRGNW9oNi1rWktDaVBiSnhYLXlCZ21mMlJFYXlQQUpMdXcyaTNCQkJ5Y1FZNkJMSlQxSVd5TG42TFlsdVZ4am1IX0d6RmJZQXhYWlJnN2NvRmxGMWVYVkhzTWV6Q0JnTkJReGk4enRNY2dqNWktMFFZSm5LdXp4Z0tz?oc=5",
+      "summary": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support MSN",
+      "published_at": "2026-04-29T22:15:58Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "26e9fdb7505e9266d0e2d7e5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "88fc21b4c5b189b1c1598b3a",
-      "title": "The 5 Best Wi-Fi Routers of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5",
-      "summary": "The 5 Best Wi-Fi Routers of 2026 RTINGS.com",
-      "published_at": "2026-04-21T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }

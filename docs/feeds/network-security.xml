@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 06:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 08:12:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5hRkVjaUZxaGZLY0wyOW1KTUhNajlZSGFJS0V0R21JN2s1RE9kekVQMU1lbWpKQjFIRnBlQkNHQVIyeXhqR3hHUmlKTldEeHJYYk0wMk45LWtOUC1pbXF6NllnaEZudVBMN3cyQy0yV3ZldkQweEVoZDlyaw?oc=5</link>
-      <guid isPermaLink="false">13561746a4e8868bae7971cd</guid>
+      <title>[セキュリティ] ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に関するケーススタディ - ドリームニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OTnU4MFVMNnMyVlZzQjM0TTYxSnVkNnBQN1UzYXFqLXVwRG5BRlU2UWlKbVdia3J6UzlhaUF0eGYxTE02NjdQeE5nQ1VVTzJPcHM0?oc=5</link>
+      <guid isPermaLink="false">d145b84231d88fff16e44434</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-05-01 14:03
-ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に ニコニコニュース</description>
-      <pubDate>Fri, 01 May 2026 23:01:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-01T23:01:25.361715Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T05:03:18Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-01 13:30
+ネットワークセキュリティファイアウォールにおけるサプライチェーン評価：パフォーマンスのベンチマークと運用ギャップ解消に関するケーススタディ ドリームニュース</description>
+      <pubDate>Sat, 02 May 2026 08:12:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T08:12:43.333388Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T04:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

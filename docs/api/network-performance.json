@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-02T06:19:50.837944Z",
+  "generated_at": "2026-05-02T08:12:44.330694Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -25,17 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
       "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
       "published_at": "2026-05-01T02:23:55Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "c1854716608787e36eb45baa",
-      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - Southland App",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTVRlcXJXTmV4WVQ0ZVJqNGpPa3YwWl93eE9VNlJhTkxGci02TmZJNGZRbzk3MDJVUHJHQlM1QjI2Q0NQdXRVWTBJZVRqcHpJTFBXQmtDOFRZdE1DWDl5eWpPWEFtZE1jNlhoZ3l2VkZILWlwY0tzX1RvVnZVY2s3Q3dlanBVMXBGcFJWZkx2a2o3SmMtZVJSSjE5MldsdzZUa2J3SFNyV2NucEZZWjFNUlQzNl9Fa19XRlJuVS11V1hoUG4tQXZROWkteERxNFN5LUZXdllIeENfUHgzOXhkZ1F3?oc=5",
-      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island Southland App",
-      "published_at": "2026-04-30T23:23:58Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -97,17 +86,6 @@
       "score": 7
     },
     {
-      "id": "3da24a7dd935aeedb1f3ab13",
-      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
-      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-04-29T08:05:49Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "e18829eaab174caede6556ba",
       "title": "Sumter County official offers update on four-hour internet outage - Villages-News.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGtLTlZlMHpKLXR6b0VBTHBDWExHT0hsVU9zT3VCZjdKRDZFcWQ3RC1jRVVQblRBcUtlSWQwZEdUMDhJZUNfdllSM2FZTWpUQTNKdVBTaElmcGxnQ3M0dmVjenpaRk5TZlVJd0pPdHFwUnlRMTNlbS12dEhZTDBLTk54TnBmZy10RTJXcXY3OFNxeFI0dVBWY3R3dzJtXzFDdWlYMjFuRXJRRG8?oc=5",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "60720f3115828fb3ebc5cd61",
+      "title": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World - fakti.bg",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2dJTmtnRU1aXy1QRDhBNV9Dam9ucmFKWVhoNHVHVUw1R2o3b1hLbUYzV1lHbWxYTkN3NG5wYmZyZzlWYXRFaHJrN3ppd1dKeEFTRFduNW84QWVqVk5qdFdMcGxIbkRIcGNMRndSb2I4dndiNHh0Wm1UeVlQQmtFZFVKb1dyQQ?oc=5",
+      "summary": "Irans Internet Outage Costs $31 Million a Day ᐉ News from Fakti.bg - World fakti.bg",
+      "published_at": "2026-04-27T06:17:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "3da24a7dd935aeedb1f3ab13",
+      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
+      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
+      "published_at": "2026-04-29T08:05:49Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     }
   ]
 }
