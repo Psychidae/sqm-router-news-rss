@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 21:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 23:02:09 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson</title>
@@ -50,17 +50,17 @@ Xiaomi releases Wi-Fi 7 mesh router system internationally Notebookcheck</descri
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5</link>
-      <guid isPermaLink="false">6126e4fed1e19c92565c7171</guid>
+      <title>[海外ルーターニュース] TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review - MKAU Gaming</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHJiWEd0NTBkM05fVXRMSXJNdURfdEdqUHFjbF9pSTRUNFpDRHhoMld5RGNwV2ozbDlHeHRGMGdFMmN0bUFsLWlVZVJqTnNUZ21UalVFRGhqQ0lqb3hRM2tPdElGaEdvSkFaazBQd2J5T2EyZ19ONjdlNk9RTDlOV3NESWVwRkh5YjNuY2cxYWN1ZU5MSWxhNVo1alMxeVk?oc=5</link>
+      <guid isPermaLink="false">2533ab8e4220fa6c961fd82a</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-04-21 16:00
-ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech</description>
-      <pubDate>Sat, 02 May 2026 21:45:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+ソース: Google News US: router products
+元記事日付: 2026-04-29 22:18
+TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming</description>
+      <pubDate>Sat, 02 May 2026 23:02:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T23:02:09.007120Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-29T13:18:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -75,6 +75,34 @@ Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Perfor
       <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-25T18:00:29Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5</link>
+      <guid isPermaLink="false">6126e4fed1e19c92565c7171</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-04-21 16:00
+ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech</description>
+      <pubDate>Sat, 02 May 2026 21:45:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5</link>
+      <guid isPermaLink="false">5254588c1bab848696199f4b</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-02 10:13
+My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything MSN</description>
+      <pubDate>Sat, 02 May 2026 23:02:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T23:02:09.007120Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-02T01:13:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -116,34 +144,6 @@ Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</d
       <pubDate>Sat, 02 May 2026 21:45:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours - The Mirror</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbThzbTRjWUE0SkhTNjNmd2ZWblU2UWtGbllDZDJ1aEZxUGczRWlWcWc4OFNDNTBUd0dIeWlWdlA3N3AzeFZPYU1ENDJ4U2EtM0lBYURLczFwdTd2eFpUXzMxTkJEbWZxZ2ZEUy1OTGUzNWdtNDAxatIBfkFVX3lxTFBOMG5BUzRNa2ZMR2plUks0OVk3Skxoa1RLbVNYX0JWVmoyOVp3MDhKWkpWNHVUenZGelJYWTlrYkhzTEptRU5USjdJT1RRcTBLS0lUUkJWLUt6V3YwcFRjM0lCNlRTVjcwOHVhMXBFcTBtZ3B1TEM5ZWItNmdaUQ?oc=5</link>
-      <guid isPermaLink="false">a440b1456ea4d28086f93893</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-27 18:08
-BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours The Mirror</description>
-      <pubDate>Sat, 02 May 2026 21:45:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-27T09:08:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Portable Wi-Fi Router for Travel: Top Picks With VPNs - Cybernews</title>
-      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3eUV3dnJISGo1aERnM183eHd3V3poZUdDZEJLbEN2NEtYQmpLZ0lXUGdTVWtOb3lYQTgxOS1xbnkzd0ZSNC1LMG43QW80eGdpb3hKUmQyT29FbHc?oc=5</link>
-      <guid isPermaLink="false">4a68625d54935509fab00ea4</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-21 16:00
-Portable Wi-Fi Router for Travel: Top Picks With VPNs Cybernews</description>
-      <pubDate>Sat, 02 May 2026 21:57:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T21:57:38.842020Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
