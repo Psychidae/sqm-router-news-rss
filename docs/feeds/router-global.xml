@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 13:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:04:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck</title>
@@ -40,12 +40,26 @@ Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Perfor
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5</link>
       <guid isPermaLink="false">6126e4fed1e19c92565c7171</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
+ソース: Google News US: router products
 元記事日付: 2026-04-21 16:00
 ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech</description>
       <pubDate>Fri, 01 May 2026 23:01:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-01T23:01:23.949719Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-21T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5</link>
+      <guid isPermaLink="false">5254588c1bab848696199f4b</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-02 10:13
+My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything MSN</description>
+      <pubDate>Sat, 02 May 2026 15:04:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-02T15:04:36.329577Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-02T01:13:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -127,20 +141,6 @@ Portable Wi-Fi Router for Travel: Top Picks With VPNs Cybernews</description>
 ソース: Google News Global: home networking
 元記事日付: 2026-04-30 13:02
 InHand Networks FWA12 5G FWA Router: Ideal Connectivity for Multi-Store Retail &amp; Hospitality Voice of Alexandria</description>
-      <pubDate>Sat, 02 May 2026 12:35:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T12:35:15.817517Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-30T04:02:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] InHand Networks FWA12 5G FWA Router: Ideal Connectivity for Multi-Store Retail &amp; Hospitality - Bluefield Daily Telegraph</title>
-      <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNUU9YejByMEpGbTRaVzhxUXhtMGlKZENNc2RiRnp0QTBlNTA1bjQtWmJpbV9ZZEhLSThUODdUUnpRTVVkd0ZBSDhyaEg4YmJNVnJfbnVFVVJSQjVoaDFuSURzZmNrTXozNDFONUxWb0s3YzhKN3VmTDN3MXV5NS1nSm9rLTZweHEzeEt4TnFsWTgxOFZEeGtFWjgwTTRoNzFIaE1OZS1oWnk0RmN2eUc4RzJvenBsZlZRZ05kaHRqVVNPc19sVEZYQ0lmWXBjaDBsY1RJOFNiWlpFc0MxV0J0NlF2a3d4Sy1ocHhWVXRJbHNiQUpCZE4yOGdpelFleWRNNUE?oc=5</link>
-      <guid isPermaLink="false">d750f9d5537a4ec8cfc3a3c0</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-04-30 13:02
-InHand Networks FWA12 5G FWA Router: Ideal Connectivity for Multi-Store Retail &amp; Hospitality Bluefield Daily Telegraph</description>
       <pubDate>Sat, 02 May 2026 12:35:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T12:35:15.817517Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-30T04:02:19Z</sqm:sourcePublishedDate>
