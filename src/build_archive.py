@@ -72,6 +72,14 @@ def item_matches(item: dict[str, Any], required: list[str], excluded: list[str])
     return news_to_slack.matches_terms(text, required)
 
 
+def configured_search_endpoints(config: dict[str, Any]) -> list[str]:
+    raw_endpoints = config.get("search_endpoints", ["web"])
+    if not isinstance(raw_endpoints, list):
+        return ["web"]
+    endpoints = [str(endpoint).strip().lower() for endpoint in raw_endpoints]
+    return [endpoint for endpoint in endpoints if endpoint in {"web", "news"}] or ["web"]
+
+
 def seed_items_from_current_apis(project_root: Path, config: dict[str, Any]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for raw_path in config.get("seed_api_files", []):
@@ -125,9 +133,14 @@ def brave_search(
     user_agent: str,
     timeout: int,
     count: int,
+    endpoint: str,
 ) -> list[dict[str, Any]]:
+    endpoint_paths = {
+        "web": "https://api.search.brave.com/res/v1/web/search",
+        "news": "https://api.search.brave.com/res/v1/news/search",
+    }
     url = news_to_slack.build_url(
-        "https://api.search.brave.com/res/v1/web/search",
+        endpoint_paths[endpoint],
         {
             "q": query,
             "count": count,
@@ -143,7 +156,10 @@ def brave_search(
         timeout=timeout,
         extra_headers={"X-Subscription-Token": api_key},
     )
-    raw_results = data.get("web", {}).get("results", [])
+    if endpoint == "news":
+        raw_results = data.get("results", [])
+    else:
+        raw_results = data.get("web", {}).get("results", [])
     items: list[dict[str, Any]] = []
     for raw in raw_results:
         title = news_to_slack.clean_text(raw.get("title"))
@@ -162,10 +178,10 @@ def brave_search(
                 "url": result_url,
                 "summary": summary,
                 "published_at": published_at,
-                "source": source or "Brave Search",
+                "source": source or f"Brave {endpoint.title()} Search",
                 "source_url": url,
                 "info_type": category.get("title", category["id"]),
-                "discovery_source": "brave_web_backfill",
+                "discovery_source": f"brave_{endpoint}_backfill",
                 "search_window": f"{start.isoformat()}..{end.isoformat()}",
                 "query": query,
             }
@@ -189,30 +205,33 @@ def collect_backfill_items(
     items: list[dict[str, Any]] = []
     errors: list[str] = []
     excluded = list(config.get("exclude_any", []))
+    endpoints = configured_search_endpoints(config)
     windows = year_windows(start, end)
     for category in config["categories"]:
         required = list(category.get("required_any", []))
         for query in category.get("queries", []):
-            for window_start, window_end in windows:
-                try:
-                    parsed = brave_search(
-                        str(query),
-                        category,
-                        window_start,
-                        window_end,
-                        api_key,
-                        user_agent,
-                        timeout,
-                        count,
-                    )
-                except Exception as exc:
-                    errors.append(f"{category['id']} {window_start.year}: {exc}")
-                    continue
-                for item in parsed:
-                    if item_matches(item, required, excluded):
-                        items.append(item)
-                if sleep_seconds > 0:
-                    time.sleep(sleep_seconds)
+            for endpoint in endpoints:
+                for window_start, window_end in windows:
+                    try:
+                        parsed = brave_search(
+                            str(query),
+                            category,
+                            window_start,
+                            window_end,
+                            api_key,
+                            user_agent,
+                            timeout,
+                            count,
+                            endpoint,
+                        )
+                    except Exception as exc:
+                        errors.append(f"{category['id']} {endpoint} {window_start.year}: {exc}")
+                        continue
+                    for item in parsed:
+                        if item_matches(item, required, excluded):
+                            items.append(item)
+                    if sleep_seconds > 0:
+                        time.sleep(sleep_seconds)
     return items, errors
 
 

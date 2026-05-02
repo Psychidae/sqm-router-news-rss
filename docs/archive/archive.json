@@ -1,7 +1,7 @@
 {
   "title": "Router / Network News Archive",
   "description": "ルーター・ネットワーク関連ニュースの過去記事リストです。Brave Search APIキーがある場合、指定期間を年単位で検索して追記します。",
-  "generated_at": "2026-05-02T21:45:52.398170Z",
+  "generated_at": "2026-05-02T21:48:41.665900Z",
   "count": 31,
   "counts": {
     "router-global": 10,

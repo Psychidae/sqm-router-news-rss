@@ -5,6 +5,10 @@
   "start_date": "2016-01-01",
   "default_years": 10,
   "output_dir": "docs/archive",
+  "search_endpoints": [
+    "web",
+    "news"
+  ],
   "seed_api_files": [
     "docs/api/latest.json",
     "docs/api/router-domestic.json",

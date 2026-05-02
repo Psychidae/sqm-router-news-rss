@@ -376,6 +376,12 @@ class NewsToSlackTests(unittest.TestCase):
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0]["published_at"], "2026-01-01T00:00:00Z")
 
+    def test_archive_configured_search_endpoints_filters_unknown_values(self):
+        endpoints = build_archive.configured_search_endpoints(
+            {"search_endpoints": ["web", "news", "images", ""]}
+        )
+        self.assertEqual(endpoints, ["web", "news"])
+
 
 if __name__ == "__main__":
     unittest.main()
