@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 02 May 2026 23:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 04:09:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -78,20 +78,6 @@ One NZ internet outage affects entire South Island, parts of north The Press</de
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 - DXマガジン</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE11Wkx3ZEROeXZQZkMyVEVUOTZDTnUxRVhoMXVWd3R3NTNMcEhyVFV0clpnNHJkR2tEM2FWTWszWXhsY0ZwNmtINFdjUS1LZw?oc=5</link>
-      <guid isPermaLink="false">96a75af0713bb6f6203f6e1f</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-05-01 07:04
-遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 DXマガジン</description>
-      <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-30T22:04:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Plumas County 911 text service down due to internet outage - Action News Now</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWF0X1dRRFBTZzlBUC1EbEEzSjRkWHJ4QklXRzY3U2tkcHRHS0VYeFdIRzJaNDFiSDFpRURJUFdhOUZjMF8xWk81SHZJNkVIeFU0TjZxNnpZdm8wTy10dVVKYmtqMzhoOG5VVXlET1VSd255aF90MnIxYVVsOUpFS3ZSeFllSlNFdlVoMm5kYU5hNlhLekdpRGtMUVVLNHI1MTl5TVVGbms3NndOWlR3b3NMeVIxeWRHakJnbEZ6Vm1helFwckNQd29MejNHUk5PR2RyTzdEUkRHSmM?oc=5</link>
       <guid isPermaLink="false">d628330de7bba39cb5258e2c</guid>
@@ -144,6 +130,20 @@ Sumter County official offers update on four-hour internet outage Villages-News.
       <pubDate>Sat, 02 May 2026 23:02:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T23:02:11.025539Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T08:05:49Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 - DXマガジン</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbVpOcVlHenlncFRZakFyRjF0dzlpTkFzNDFhOGxVeVlSbnBfWXNVa01zWkZHR0Nza1Qta2xGOWQ2ZFk0Mko0ellOOFc?oc=5</link>
+      <guid isPermaLink="false">a7ef8ade91e6e48b412b64cc</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-04-28 20:24
+山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 DXマガジン</description>
+      <pubDate>Sun, 03 May 2026 04:09:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-03T04:09:48.324801Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-28T11:24:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
