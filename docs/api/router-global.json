@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-03T21:58:49.871846Z",
+  "generated_at": "2026-05-03T23:02:29.703024Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,26 +42,70 @@
       "score": 17
     },
     {
-      "id": "6126e4fed1e19c92565c7171",
-      "title": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5",
-      "summary": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech",
-      "published_at": "2026-04-21T07:00:00Z",
+      "id": "2533ab8e4220fa6c961fd82a",
+      "title": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHJiWEd0NTBkM05fVXRMSXJNdURfdEdqUHFjbF9pSTRUNFpDRHhoMld5RGNwV2ozbDlHeHRGMGdFMmN0bUFsLWlVZVJqTnNUZ21UalVFRGhqQ0lqb3hRM2tPdElGaEdvSkFaazBQd2J5T2EyZ19ONjdlNk9RTDlOV3NESWVwRkh5YjNuY2cxYWN1ZU5MSWxhNVo1alMxeVk?oc=5",
+      "summary": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-04-29T13:18:48Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "f002b7e9246c7adde5e572fa",
+      "title": "TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPYTBzUDF4b3VUcy1TWHZ0anJkZXcyeVI1ekhFQ08xUFRJZG94Q0dhWlk4dC1qQlkzYlNueTdEWnR6b1I3eU9hTk9MQkFJVGVpY3d5clNoTUJsVkZEWktPUW84U2dXektvR0NsRk1yeHA3MnpidzVuSGUtZ2FaUkJ5ckNJUlJPWEd0V2EtR3phbHFjQTJhUUhQRlpBb0tuLWIxX09mS1h0cU9nYWJIakJIWnEydWQ4MVp1NmlzajRuQXNWRy03UVJJRlBWS0E2UEJGYU9DMTVnSG1fUHNXQ29kT0hRN085MWlpeVZLTFlaNzFsMVBiU0lLdEFab1dBMlRhZTlaZE5TQXdQM2hIUjRKdF9ZcHRZcTJUenVtcVJ6NGNCQmpST0tpNG5uNTZRQ3dialJEMUNES0F0dmlTWEdhMjZnNlhsU0NHSmJldDFwSnR3ZEFEYUJab2lzc0tXS1FSVFZQZg?oc=5",
+      "summary": "TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 MSN",
+      "published_at": "2026-04-25T20:40:31Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
     },
     {
-      "id": "ac5cc269e06ea4ddc86d4255",
-      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
-      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
-      "published_at": "2026-04-25T18:00:29Z",
+      "id": "6126e4fed1e19c92565c7171",
+      "title": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech",
+      "published_at": "2026-04-21T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 15
+    },
+    {
+      "id": "7ddf0aa3c0e1f56aa3b03367",
+      "title": "Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes - Digital Reviews Network",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEUtQW1lMzN5YlZtS0ExaU5uWGRDSVR5UmJETmFsZ29wamxtY0x0V3NUemdsaS1zcnBNd0VyZElBVnB3d3R3QXF2YzdKWnJNeEp2SFRlQnpUYmtjZ0pFY3dqc2pHaVRxcHhTQTNheG1GWmdaeDJuOWlVOWZVM2RCaWx3WGg0RS1wbGp5aDVQRjRDMV9rT1A1NXVka2pDQTBfQ0J5MXR3?oc=5",
+      "summary": "Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes Digital Reviews Network",
+      "published_at": "2026-05-03T22:47:58Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "060ce6226994739a632767c5",
+      "title": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVJFcEJoSGtjWkpzS0hXV2NOZjFVWldfdUI1RGhGNDhQNUhNSU1RbXo5NzhUTWVrMW13c2dKTjV5RzYyWGxsZHNENnRFVXFFdWg5THhFWXRBMnUwazNITl9qS0UwVEJaWU1tcmZVaElHR1FTVzRJNklfM2NOZzRTRmc0Q29xeWdOYjBNS1FPdjExbXVQMjlndURzbTJqa3o4a2lrMF85aFBVTXUzV09oeFU0MkYtcWF5U2t1Um4wRHRTUmx1VG9zMmc3MXlqNGpZ?oc=5",
+      "summary": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support MSN",
+      "published_at": "2026-05-02T13:44:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "5254588c1bab848696199f4b",
+      "title": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5",
+      "summary": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything MSN",
+      "published_at": "2026-05-02T01:13:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "23b50ffca22e89439386bf4f",
@@ -73,50 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "26e9fdb7505e9266d0e2d7e5",
-      "title": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oaFVmY0IyQXVIM3ZTZjJON09tOHVKazJnUGs0QUpkamhKN2dOZDFrbFdvdmxhSjJJZHNjU09qVkVscVloUEFIblRmbDhqLWpvQzlRYjdCZFE?oc=5",
-      "summary": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point Dong Knows Tech",
-      "published_at": "2026-04-29T18:38:28Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "590190f9c6ffdc9aa441912a",
-      "title": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
-      "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
-      "published_at": "2026-04-28T11:02:47Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "6a33ea2a7a6146847a4ef7d5",
-      "title": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5",
-      "summary": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag",
-      "published_at": "2026-04-28T21:20:20Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "a440b1456ea4d28086f93893",
-      "title": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbThzbTRjWUE0SkhTNjNmd2ZWblU2UWtGbllDZDJ1aEZxUGczRWlWcWc4OFNDNTBUd0dIeWlWdlA3N3AzeFZPYU1ENDJ4U2EtM0lBYURLczFwdTd2eFpUXzMxTkJEbWZxZ2ZEUy1OTGUzNWdtNDAxatIBfkFVX3lxTFBOMG5BUzRNa2ZMR2plUks0OVk3Skxoa1RLbVNYX0JWVmoyOVp3MDhKWkpWNHVUenZGelJYWTlrYkhzTEptRU5USjdJT1RRcTBLS0lUUkJWLUt6V3YwcFRjM0lCNlRTVjcwOHVhMXBFcTBtZ3B1TEM5ZWItNmdaUQ?oc=5",
-      "summary": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours The Mirror",
-      "published_at": "2026-04-27T09:08:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }

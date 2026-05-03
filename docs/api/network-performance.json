@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-03T21:58:52.597738Z",
+  "generated_at": "2026-05-03T23:02:32.458813Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -20,22 +20,22 @@
       "score": 8
     },
     {
-      "id": "9c0caeef903e7070960d511f",
-      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
-      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
-      "published_at": "2026-05-01T02:23:55Z",
+      "id": "5900516ebfcb2392db956c97",
+      "title": "One NZ issue causing widespread internet outage - 1News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmRwT3VicUkxMkpBbFJ6bnJnS3ZURlpwWUduQ0R6dW5qQUdKcmZlck1UMHNUYjFqNDlvSjIzRXB5YUtSdk9ZMU5qS01oYkVHRThVOG9CUldFaTN1MGZiX1U3Vm9BR3lRYlp6TlU1S3hnOXJ3RTZjMGZEM1FFNkpodEtHOTduM3VyMWZ3?oc=5",
+      "summary": "One NZ issue causing widespread internet outage 1News",
+      "published_at": "2026-05-01T04:00:09Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
     {
-      "id": "ace2a7a733db0c140e5d6018",
-      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVlNBRnlHNnpoNFdOaWphc3dfOXRLSzZzSFU4em1fQXRIWERmUVIyOXRVVWl3YWFCMTNnakNsZTdsdkk3RE5ZVExHbklvQVdYSlBJUXdITURnRzU2dnpFeGh6bnJ4cnRvTnVWYU1sal9ZTWhrNk9VSjVIUHVHeWtqbjVWUTNDNThNVk1aTl9TYjE5VFVTUnRhT05hRURtcWtNeHhwWGx3V281TEdFalJxcEUwZ3JnQzVyTm1relJSalU5NUdfOFV0bEI2OVg?oc=5",
-      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island RNZ",
-      "published_at": "2026-04-30T22:57:16Z",
+      "id": "9c0caeef903e7070960d511f",
+      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
+      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
+      "published_at": "2026-05-01T02:23:55Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -50,7 +50,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "88892042e69b852a12a2319e",
@@ -61,7 +61,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "d628330de7bba39cb5258e2c",
