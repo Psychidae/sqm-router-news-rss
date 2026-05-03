@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-03T17:06:59.959086Z",
+  "generated_at": "2026-05-03T18:01:57.348678Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 15
     },
     {
+      "id": "060ce6226994739a632767c5",
+      "title": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVJFcEJoSGtjWkpzS0hXV2NOZjFVWldfdUI1RGhGNDhQNUhNSU1RbXo5NzhUTWVrMW13c2dKTjV5RzYyWGxsZHNENnRFVXFFdWg5THhFWXRBMnUwazNITl9qS0UwVEJaWU1tcmZVaElHR1FTVzRJNklfM2NOZzRTRmc0Q29xeWdOYjBNS1FPdjExbXVQMjlndURzbTJqa3o4a2lrMF85aFBVTXUzV09oeFU0MkYtcWF5U2t1Um4wRHRTUmx1VG9zMmc3MXlqNGpZ?oc=5",
+      "summary": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support MSN",
+      "published_at": "2026-05-02T13:44:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "23b50ffca22e89439386bf4f",
       "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5",
       "summary": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag",
       "published_at": "2026-04-28T21:20:20Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "a440b1456ea4d28086f93893",
-      "title": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbThzbTRjWUE0SkhTNjNmd2ZWblU2UWtGbllDZDJ1aEZxUGczRWlWcWc4OFNDNTBUd0dIeWlWdlA3N3AzeFZPYU1ENDJ4U2EtM0lBYURLczFwdTd2eFpUXzMxTkJEbWZxZ2ZEUy1OTGUzNWdtNDAxatIBfkFVX3lxTFBOMG5BUzRNa2ZMR2plUks0OVk3Skxoa1RLbVNYX0JWVmoyOVp3MDhKWkpWNHVUenZGelJYWTlrYkhzTEptRU5USjdJT1RRcTBLS0lUUkJWLUt6V3YwcFRjM0lCNlRTVjcwOHVhMXBFcTBtZ3B1TEM5ZWItNmdaUQ?oc=5",
-      "summary": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours The Mirror",
-      "published_at": "2026-04-27T09:08:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
