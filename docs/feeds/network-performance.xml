@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 May 2026 04:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 06:38:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -18,6 +18,20 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-01T09:46:14Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxQWldreWh5NGtSYWNXZDU3cnU3R1NUenJNeEZWQlpOUjJJanZ6dVZFRl9sRU8zWWQ1V3kyblRrbEJjbWllRFctdXI0dTBjenhSTWdiREVQLTg1MEZrbko1SU5WdGN1S2wxamU3YUJGb3Y2ekRwNFJJUVhsdDhTeFY1VFlQd1VFdkJ5aE5va2FxZmxGMG5fT2twaFhteUJTQ0wxdVNfU0VHbXNLa0pheDRKaGlBVk1EQVJpcVNpZmdXSVRkdzFrYUJ1Skp0VGhHQ1NqUmF2WEIzTnBCMjBjQjQtZUp3RUNOelF3TGk4SG05SWtPbnpWTExxRU90a3RRWWFBUUhr?oc=5</link>
+      <guid isPermaLink="false">be0774fca9317d9e110af7be</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 14:32
+One NZ issue causing widespread internet outage across entire South, parts of North Island MSN</description>
+      <pubDate>Sun, 03 May 2026 06:38:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-03T06:38:45.707275Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T05:32:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -64,13 +78,13 @@ One NZ issue fixed after causing internet outages across the South Island, parts
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] One NZ internet outage affects entire South Island, parts of north - The Press</title>
+      <title>[性能・障害] One NZ internet outage affects entire South Island, parts of north - The Press: Christchurch</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGpyWHdGNWVtQmwycTU3MmNsVzdkTUpDNFZ4Z3pqZmRxeW1ucXFOdEw3YUIyanc4V3R6c2ZKYkp2RTh2dDE2c3EybU1mM0kyLUNKR29pcWlqRDZyWURHa3BQYmdLTHM3SVR6QWI3dGJ5anBVZ0Q5Slhpbmp2MlEtWWhXRjd5aFBvWHh2Zzk5REpsWDZVV1BYemtHMld5QVJVMGE4Y3RyOExEZw?oc=5</link>
       <guid isPermaLink="false">88892042e69b852a12a2319e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-05-01 07:38
-One NZ internet outage affects entire South Island, parts of north The Press</description>
+One NZ internet outage affects entire South Island, parts of north The Press: Christchurch</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-30T22:38:02Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ Sumter County official offers update on four-hour internet outage Villages-News.
       <pubDate>Sat, 02 May 2026 23:02:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T23:02:11.025539Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T08:05:49Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 - DXマガジン</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbVpOcVlHenlncFRZakFyRjF0dzlpTkFzNDFhOGxVeVlSbnBfWXNVa01zWkZHR0Nza1Qta2xGOWQ2ZFk0Mko0ellOOFc?oc=5</link>
-      <guid isPermaLink="false">a7ef8ade91e6e48b412b64cc</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-04-28 20:24
-山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 DXマガジン</description>
-      <pubDate>Sun, 03 May 2026 04:09:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-03T04:09:48.324801Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T11:24:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
