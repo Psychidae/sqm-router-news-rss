@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 May 2026 21:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 21:58:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -13,11 +13,11 @@
       <guid isPermaLink="false">332f4173d004fcde55cd43d1</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-05-01 18:46
+元記事日付: 2026-05-02 16:53
 One NZ fixes issue causing widespread internet outage 1News</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T09:46:14Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-05-02T07:53:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
