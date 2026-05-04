@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-04T16:22:21.151513Z",
+  "generated_at": "2026-05-04T18:04:53.424473Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "5501a1771b20ea16d69eb1b7",
@@ -64,6 +64,17 @@
       "score": 14
     },
     {
+      "id": "5254588c1bab848696199f4b",
+      "title": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5",
+      "summary": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything MSN",
+      "published_at": "2026-05-02T01:13:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "23b50ffca22e89439386bf4f",
       "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "a440b1456ea4d28086f93893",
-      "title": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbThzbTRjWUE0SkhTNjNmd2ZWblU2UWtGbllDZDJ1aEZxUGczRWlWcWc4OFNDNTBUd0dIeWlWdlA3N3AzeFZPYU1ENDJ4U2EtM0lBYURLczFwdTd2eFpUXzMxTkJEbWZxZ2ZEUy1OTGUzNWdtNDAxatIBfkFVX3lxTFBOMG5BUzRNa2ZMR2plUks0OVk3Skxoa1RLbVNYX0JWVmoyOVp3MDhKWkpWNHVUenZGelJYWTlrYkhzTEptRU5USjdJT1RRcTBLS0lUUkJWLUt6V3YwcFRjM0lCNlRTVjcwOHVhMXBFcTBtZ3B1TEM5ZWItNmdaUQ?oc=5",
-      "summary": "BT users offered impressive Wi-Fi router upgrade, and here's how to claim yours The Mirror",
-      "published_at": "2026-04-27T09:08:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 10
     }
   ]
 }
