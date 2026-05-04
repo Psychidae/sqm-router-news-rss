@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-03T23:02:29.703024Z",
+  "generated_at": "2026-05-04T00:01:52.461379Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,17 +86,6 @@
       "score": 14
     },
     {
-      "id": "060ce6226994739a632767c5",
-      "title": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVJFcEJoSGtjWkpzS0hXV2NOZjFVWldfdUI1RGhGNDhQNUhNSU1RbXo5NzhUTWVrMW13c2dKTjV5RzYyWGxsZHNENnRFVXFFdWg5THhFWXRBMnUwazNITl9qS0UwVEJaWU1tcmZVaElHR1FTVzRJNklfM2NOZzRTRmc0Q29xeWdOYjBNS1FPdjExbXVQMjlndURzbTJqa3o4a2lrMF85aFBVTXUzV09oeFU0MkYtcWF5U2t1Um4wRHRTUmx1VG9zMmc3MXlqNGpZ?oc=5",
-      "summary": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support MSN",
-      "published_at": "2026-05-02T13:44:18Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "5254588c1bab848696199f4b",
       "title": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN",
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "26e9fdb7505e9266d0e2d7e5",
+      "title": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oaFVmY0IyQXVIM3ZTZjJON09tOHVKazJnUGs0QUpkamhKN2dOZDFrbFdvdmxhSjJJZHNjU09qVkVscVloUEFIblRmbDhqLWpvQzlRYjdCZFE?oc=5",
+      "summary": "EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band Wi-Fi 7 Access Point Dong Knows Tech",
+      "published_at": "2026-04-29T18:38:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     }
   ]
 }
