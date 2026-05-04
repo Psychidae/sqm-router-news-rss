@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 14:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 16:22:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -46,6 +46,20 @@ One NZ issue causing widespread internet outage across entire South, parts of No
       <pubDate>Mon, 04 May 2026 07:22:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-04T07:22:41.450260Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-01T01:03:31Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] One NZ issue causing widespread internet outage across entire South, parts of North Island - Southland App</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTVRlcXJXTmV4WVQ0ZVJqNGpPa3YwWl93eE9VNlJhTkxGci02TmZJNGZRbzk3MDJVUHJHQlM1QjI2Q0NQdXRVWTBJZVRqcHpJTFBXQmtDOFRZdE1DWDl5eWpPWEFtZE1jNlhoZ3l2VkZILWlwY0tzX1RvVnZVY2s3Q3dlanBVMXBGcFJWZkx2a2o3SmMtZVJSSjE5MldsdzZUa2J3SFNyV2NucEZZWjFNUlQzNl9Fa19XRlJuVS11V1hoUG4tQXZROWkteERxNFN5LUZXdllIeENfUHgzOXhkZ1F3?oc=5</link>
+      <guid isPermaLink="false">c1854716608787e36eb45baa</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 08:23
+One NZ issue causing widespread internet outage across entire South, parts of North Island Southland App</description>
+      <pubDate>Mon, 04 May 2026 16:22:23 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-04T16:22:23.531417Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-30T23:23:58Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -130,20 +144,6 @@ Sumter County official offers update on four-hour internet outage Villages-News.
       <pubDate>Sun, 03 May 2026 21:01:09 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-03T21:01:09.359540Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-28T15:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 - DXマガジン</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE9PbVpOcVlHenlncFRZakFyRjF0dzlpTkFzNDFhOGxVeVlSbnBfWXNVa01zWkZHR0Nza1Qta2xGOWQ2ZFk0Mko0ellOOFc?oc=5</link>
-      <guid isPermaLink="false">a7ef8ade91e6e48b412b64cc</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-04-28 20:24
-山手線から徒歩5分、日本初の“AI特化型”巨大拠点が誕生へ。ドコモビジネスが都心に液冷サーバー専用データセンターを建設。超低遅延ネットワークで「フィジカルAI」を加速 DXマガジン</description>
-      <pubDate>Mon, 04 May 2026 09:59:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-04T09:59:58.145286Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T11:24:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
