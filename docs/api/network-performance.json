@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-04T09:59:58.146156Z",
+  "generated_at": "2026-05-04T12:04:25.442474Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "9c0caeef903e7070960d511f",
+      "title": "One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5",
+      "summary": "One NZ issue causing widespread internet outage across entire South, parts of North Island MSN",
+      "published_at": "2026-05-01T02:23:55Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
     },
     {
       "id": "551ef4ae2c1a6e23a83a8f51",
@@ -42,17 +53,6 @@
       "score": 7
     },
     {
-      "id": "88892042e69b852a12a2319e",
-      "title": "One NZ internet outage affects entire South Island, parts of north - The Press",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGpyWHdGNWVtQmwycTU3MmNsVzdkTUpDNFZ4Z3pqZmRxeW1ucXFOdEw3YUIyanc4V3R6c2ZKYkp2RTh2dDE2c3EybU1mM0kyLUNKR29pcWlqRDZyWURHa3BQYmdLTHM3SVR6QWI3dGJ5anBVZ0Q5Slhpbmp2MlEtWWhXRjd5aFBvWHh2Zzk5REpsWDZVV1BYemtHMld5QVJVMGE4Y3RyOExEZw?oc=5",
-      "summary": "One NZ internet outage affects entire South Island, parts of north The Press",
-      "published_at": "2026-04-30T22:38:02Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "d628330de7bba39cb5258e2c",
       "title": "Plumas County 911 text service down due to internet outage - Action News Now",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWF0X1dRRFBTZzlBUC1EbEEzSjRkWHJ4QklXRzY3U2tkcHRHS0VYeFdIRzJaNDFiSDFpRURJUFdhOUZjMF8xWk81SHZJNkVIeFU0TjZxNnpZdm8wTy10dVVKYmtqMzhoOG5VVXlET1VSd255aF90MnIxYVVsOUpFS3ZSeFllSlNFdlVoMm5kYU5hNlhLekdpRGtMUVVLNHI1MTl5TVVGbms3NndOWlR3b3NMeVIxeWRHakJnbEZ6Vm1helFwckNQd29MejNHUk5PR2RyTzdEUkRHSmM?oc=5",
@@ -69,6 +69,17 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk1MeGFXLWNxYjl5S1YyamZZR3pBQWN0Q3UyR3FqS2szVWU4akwtZ0d1em5oblBodk92RFRsUXdDbTRVaEgwcnVfV2NiVjJ5emhnNkNGSUJtQ2V5M2NQby1SY2YyUDhGTEdiOVp0Uk8yUWhkQ0RkV0trVmIzSzV1bWl3UzRFenNxTDJwS3NELTAzUENLX0JCY2RoNkkyZEFXSUtNcENUdkNtTDRQdXkyeE10MzU?oc=5",
       "summary": "[UPDATE 1:21 p.m.] Internet Outage Disrupts Garberville Area, Knocks Out Phones at Rural Health Center Redheaded Blackbelt",
       "published_at": "2026-04-29T15:37:18Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "e18829eaab174caede6556ba",
+      "title": "Sumter County official offers update on four-hour internet outage - Villages-News.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGtLTlZlMHpKLXR6b0VBTHBDWExHT0hsVU9zT3VCZjdKRDZFcWQ3RC1jRVVQblRBcUtlSWQwZEdUMDhJZUNfdllSM2FZTWpUQTNKdVBTaElmcGxnQ3M0dmVjenpaRk5TZlVJd0pPdHFwUnlRMTNlbS12dEhZTDBLTk54TnBmZy10RTJXcXY3OFNxeFI0dVBWY3R3dzJtXzFDdWlYMjFuRXJRRG8?oc=5",
+      "summary": "Sumter County official offers update on four-hour internet outage Villages-News.com",
+      "published_at": "2026-04-29T00:59:14Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 09:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 12:04:25 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -18,6 +18,20 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-02T07:53:18Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] One NZ issue causing widespread internet outage across entire South, parts of North Island - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcXM1TDVXenJjd2hGRmdiQ0V6UG1TZllzSm5zWXNuZ1VLU1gyXy1HeDluQkhLUllZM1Uzbl9XNzdpNmxTX2hQR1F6RWRwRzVuTUxZeVM1V21YZGI4RjJxUEZIOWVuQ0JaLTM1bFFQLTgxNGl1Ql9pYzJDRVJXYjFQRk84Z1ItSEVZTE5PYzQwWUd0cVVSWV9wWnUtX1ZqM1p3LWhadWQ3X3phNk1GVkQ2ZU5kTzZpd2tfTlFRT3RJVzR4RmRfYWVnaGtPQ19NY19oWmY0R2FfdG8?oc=5</link>
+      <guid isPermaLink="false">9c0caeef903e7070960d511f</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 11:23
+One NZ issue causing widespread internet outage across entire South, parts of North Island MSN</description>
+      <pubDate>Mon, 04 May 2026 12:04:25 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-04T12:04:25.441601Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T02:23:55Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,20 +64,6 @@ One NZ issue fixed after causing internet outages across the South Island, parts
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] One NZ internet outage affects entire South Island, parts of north - The Press</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGpyWHdGNWVtQmwycTU3MmNsVzdkTUpDNFZ4Z3pqZmRxeW1ucXFOdEw3YUIyanc4V3R6c2ZKYkp2RTh2dDE2c3EybU1mM0kyLUNKR29pcWlqRDZyWURHa3BQYmdLTHM3SVR6QWI3dGJ5anBVZ0Q5Slhpbmp2MlEtWWhXRjd5aFBvWHh2Zzk5REpsWDZVV1BYemtHMld5QVJVMGE4Y3RyOExEZw?oc=5</link>
-      <guid isPermaLink="false">88892042e69b852a12a2319e</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 07:38
-One NZ internet outage affects entire South Island, parts of north The Press</description>
-      <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-30T22:38:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Plumas County 911 text service down due to internet outage - Action News Now</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRWF0X1dRRFBTZzlBUC1EbEEzSjRkWHJ4QklXRzY3U2tkcHRHS0VYeFdIRzJaNDFiSDFpRURJUFdhOUZjMF8xWk81SHZJNkVIeFU0TjZxNnpZdm8wTy10dVVKYmtqMzhoOG5VVXlET1VSd255aF90MnIxYVVsOUpFS3ZSeFllSlNFdlVoMm5kYU5hNlhLekdpRGtMUVVLNHI1MTl5TVVGbms3NndOWlR3b3NMeVIxeWRHakJnbEZ6Vm1helFwckNQd29MejNHUk5PR2RyTzdEUkRHSmM?oc=5</link>
       <guid isPermaLink="false">d628330de7bba39cb5258e2c</guid>
@@ -88,6 +88,20 @@ Plumas County 911 text service down due to internet outage Action News Now</desc
       <pubDate>Sat, 02 May 2026 23:02:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T23:02:11.025539Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T15:37:18Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Sumter County official offers update on four-hour internet outage - Villages-News.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGtLTlZlMHpKLXR6b0VBTHBDWExHT0hsVU9zT3VCZjdKRDZFcWQ3RC1jRVVQblRBcUtlSWQwZEdUMDhJZUNfdllSM2FZTWpUQTNKdVBTaElmcGxnQ3M0dmVjenpaRk5TZlVJd0pPdHFwUnlRMTNlbS12dEhZTDBLTk54TnBmZy10RTJXcXY3OFNxeFI0dVBWY3R3dzJtXzFDdWlYMjFuRXJRRG8?oc=5</link>
+      <guid isPermaLink="false">e18829eaab174caede6556ba</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-04-29 09:59
+Sumter County official offers update on four-hour internet outage Villages-News.com</description>
+      <pubDate>Mon, 04 May 2026 12:04:25 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-04T12:04:25.441601Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-29T00:59:14Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
