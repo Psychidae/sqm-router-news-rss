@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 May 2026 04:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:22:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -18,20 +18,6 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-02T07:53:18Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] One NZ issue causing widespread internet outage - 1News</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmRwT3VicUkxMkpBbFJ6bnJnS3ZURlpwWUduQ0R6dW5qQUdKcmZlck1UMHNUYjFqNDlvSjIzRXB5YUtSdk9ZMU5qS01oYkVHRThVOG9CUldFaTN1MGZiX1U3Vm9BR3lRYlp6TlU1S3hnOXJ3RTZjMGZEM1FFNkpodEtHOTduM3VyMWZ3?oc=5</link>
-      <guid isPermaLink="false">5900516ebfcb2392db956c97</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-01 13:00
-One NZ issue causing widespread internet outage 1News</description>
-      <pubDate>Sun, 03 May 2026 23:02:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-03T23:02:32.457855Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T04:00:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,6 +36,20 @@ One NZ issue causing widespread internet outage across entire South, parts of No
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] One NZ issue causing widespread internet outage across entire South, parts of North Island - RNZ</title>
+      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPWFd4TUFsTzZiYjBiSm9HcGFyd2c3ZS1wSFphMVdzN1Vta0VLR21PZGQzQkpfclZvRFlTdUV2eUIwM3NWbnJwQ21ORm1DR0NnNGZyTVVxZ3pkSGd3NmtsSmplMVR2bU5aVGhNVFdrcjBjaTMxUG9nUW8xam1LYUxvSGJ1UWNqVjNJeVZTUmNZTlhNcTM5eU1falZzN1RtbFl5SEhuaE5iRFRaQTFiX2xFakhOMm9Gc2NwQVMtcE9wN05KS3RIVURyWFYzdjFpQQ?oc=5</link>
+      <guid isPermaLink="false">551ef4ae2c1a6e23a83a8f51</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 10:03
+One NZ issue causing widespread internet outage across entire South, parts of North Island RNZ</description>
+      <pubDate>Mon, 04 May 2026 07:22:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-04T07:22:41.450260Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T01:03:31Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] One NZ issue fixed after causing internet outages across the South Island, parts of North Island - RNZ</title>
       <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGY1OUM1X0htRGs3djRBZnVsNVlKXzRWOTAzblRITmltQUFneWxXcGY5czl1aGVUbFJma0lWOUhTeEpjR0RTZnh2MFp6cWU1Q2dXekE5aU92Y1R0SENyamp5Nmo3blB6c1BXTEJOZjNyR1JHMFlCaC1zWlFiOEZpRU85Nld0aERFZ1hOWE9jV3V1bkhLSGZVZW5tUWJIWkhBSzdPbGhBZGtfbkJFVDV3MWNPRXhmMjUxeGU1dFJUb09RaTZYMmxwQUFBQ3h5TFR2cVVKZA?oc=5</link>
       <guid isPermaLink="false">b065a018e1334e56b13e4958</guid>
@@ -64,13 +64,13 @@ One NZ issue fixed after causing internet outages across the South Island, parts
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] One NZ internet outage affects entire South Island, parts of north - The Press: Christchurch</title>
+      <title>[性能・障害] One NZ internet outage affects entire South Island, parts of north - The Press</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGpyWHdGNWVtQmwycTU3MmNsVzdkTUpDNFZ4Z3pqZmRxeW1ucXFOdEw3YUIyanc4V3R6c2ZKYkp2RTh2dDE2c3EybU1mM0kyLUNKR29pcWlqRDZyWURHa3BQYmdLTHM3SVR6QWI3dGJ5anBVZ0Q5Slhpbmp2MlEtWWhXRjd5aFBvWHh2Zzk5REpsWDZVV1BYemtHMld5QVJVMGE4Y3RyOExEZw?oc=5</link>
       <guid isPermaLink="false">88892042e69b852a12a2319e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-05-01 07:38
-One NZ internet outage affects entire South Island, parts of north The Press: Christchurch</description>
+One NZ internet outage affects entire South Island, parts of north The Press</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-30T22:38:02Z</sqm:sourcePublishedDate>
