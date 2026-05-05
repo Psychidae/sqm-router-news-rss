@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-04T23:33:40.792839Z",
+  "generated_at": "2026-05-05T01:18:08.071815Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,22 +31,22 @@
       "score": 17
     },
     {
-      "id": "ac5cc269e06ea4ddc86d4255",
-      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
-      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
-      "published_at": "2026-04-25T18:00:29Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 15
-    },
-    {
       "id": "6126e4fed1e19c92565c7171",
       "title": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PWXpNWkY5NFlpaTcxU3RneVJPSnduQXlHR1NPQXBjdEd0bjQ5d0x1bTdWQkswRVl5WlF1a0dHVXhRUE82MDNHOHZBODF5eEZmNmQycjZaQjIzY0ctNTdKbTVvSDhoVklMNE5jZE9UVEpxRXJuNXppb0wyd2d3UQ?oc=5",
       "summary": "ROG Rapture GT-BE19000AI Review (vs. GT-BE98 Pro): ASUS’s Best, Yet Greatly Imperfect, Wi-Fi 7 Router Dong Knows Tech",
       "published_at": "2026-04-21T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "ac5cc269e06ea4ddc86d4255",
+      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
+      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
+      "published_at": "2026-04-25T18:00:29Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -73,6 +73,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "5254588c1bab848696199f4b",
+      "title": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzhPUmdxMGdYZWFVcWRJR0ozcXcxZjdic3BuLXZNeVFlWHItbjFaNW5LV2lIQ3BJdk15WU5OemVoMHBCMFpDZTRLVzBrXzN1cE4xYll6VXdnQWx6dnBWQVZlUUd4U1JoMGREQnM0Y1VWUEY4OWtja2ZDRk9WWmJOM0trOG1QaU5EQjVPZnpkdlFNX1pFUmNWY2xLajFMUFEyZmVIdU1SM3owam8ydGVlZk5zWjRwbW5nNml0OUtwakd2Q3RYSUJpNWxTM0hfaFV4WGIxaGRyRy1xOVh4VUdNT3ZFRk9BeUF4UkZiZEVCeVpDeE5RbFRhSU1jWmFiU2I5ZURJVjRyV3J5MHo0YUhNZ09JQQ?oc=5",
+      "summary": "My ISP gave me a Wi-Fi 7 router, and my 2.5GbE wired network still beats it at everything MSN",
+      "published_at": "2026-05-02T01:13:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     },
     {
       "id": "23b50ffca22e89439386bf4f",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
       "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
       "published_at": "2026-04-28T11:02:47Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "2097e217fb967714f3993d3d",
-      "title": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support - MSN",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPVWZQMmtkUk5FOEZUVnRCMFFSUjF2aE5kc0p6VFV2UG5WRjZlWmpWcG1mRF9tRG00Q2dBSzVxR1o1N1R6enBBSkhaUzJtMk95U0p3eW5keDdZbkpNaFVreEhXTW1tXzBpSEdTTFVuWm8tOFRtazA2ZFFXV1VQTG5WRkd4b01FcGhOZERhRVFUODlYbmZHYXd2bTZCSDFsMVNPOVBpdy0yS3ZsTEN4VjFmb2x1MU9BWEE1NDNRaEpsYWVYcm9TZjJROGIzeWw4QkNEZ0NzZENLZ2s0UzhwLWhFZTRoeEluNEFBM2JmaEtaVWt5My1hWUgwUE0yOVh0UHhQcnBsU3hyWDE0bklTYWh5djJLcllodWIwelBjMUg1R2JLZlAwbzhMRnpJYmx2VFp1clA1X0Y4NUpDMDZ0S2o3T1I3RDROY1didFF0ekpxWXZxc3JKbmw1b01fQWVtQlV1My1SZDdxaEhycHlMSF8wbmxLX0lIZGtJbnhPbTRfc2hRU2xoSWg1TmFvSC0tUjNWanFlZjYya3hLZw?oc=5",
-      "summary": "ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports & mesh support MSN",
-      "published_at": "2026-04-28T00:51:55Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
