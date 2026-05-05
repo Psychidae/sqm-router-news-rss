@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-05T07:27:13.391565Z",
+  "generated_at": "2026-05-05T09:31:34.972736Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 17
-    },
-    {
-      "id": "ac5cc269e06ea4ddc86d4255",
-      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
-      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
-      "published_at": "2026-04-25T18:00:29Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 15
     },
     {
       "id": "fcb0b0561f4248084a80647d",
@@ -115,6 +104,17 @@
       "published_at": "2026-04-28T21:20:20Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "e02a1ce2612cfbbb126f810b",
+      "title": "TP-Link’s new travel router delivers Wi-Fi 7 speeds - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRDlOeUxWWXNuSUlPWTBadmpWOXFsVUItdUxyVGttTWEyTFRMSkdWT3FKalVXcnhBOVJodFVJeW5Kb3NRdEFQVWUwdUZLQUtsS2tyU3Ayem1RRndXSDJEMjRkWXFYRGtzTFZ3eXZPRlFPa1RGcGtrNldSR0VZSVZNYUk4NU90UDhGWjc0NVVPZ2tXTHJLX1BCNlY0NjJYbVJQdUtya19pY3JySDVtbDFqeDNZMFJjempfRlVGbG13VlBheW1KS0tPR1N6TEk3a1ROWWo4Um15N0FCRXBmS1NISWJWb0VkSXdnb0c5UTh0S0RqS05rRTJldkU5aUM4bUFsUGI0U3lnWHZGcXd1OWFnZk9JcGlKc2tONm5nVU1wd0VvYTVIS0hRVFMyWG8xZVBvVnRDSmlET3RrdjRyWHBRZUdwUk8xc1hxNmJQeUVnWEVaWUhmdXBzUndqeDBBeEhZ?oc=5",
+      "summary": "TP-Link’s new travel router delivers Wi-Fi 7 speeds MSN",
+      "published_at": "2026-04-27T16:47:21Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }

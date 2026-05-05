@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 07:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 09:31:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech</title>
@@ -33,20 +33,6 @@ Xiaomi releases Wi-Fi 7 mesh router system internationally Notebookcheck</descri
       <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-30T13:22:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5</link>
-      <guid isPermaLink="false">ac5cc269e06ea4ddc86d4255</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-26 03:00
-Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag</description>
-      <pubDate>Mon, 04 May 2026 23:33:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-04T23:33:40.791893Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-25T18:00:29Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -145,6 +131,20 @@ Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</d
       <sqm:firstSeenDate>2026-05-05T07:27:13.390570Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link’s new travel router delivers Wi-Fi 7 speeds - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRDlOeUxWWXNuSUlPWTBadmpWOXFsVUItdUxyVGttTWEyTFRMSkdWT3FKalVXcnhBOVJodFVJeW5Kb3NRdEFQVWUwdUZLQUtsS2tyU3Ayem1RRndXSDJEMjRkWXFYRGtzTFZ3eXZPRlFPa1RGcGtrNldSR0VZSVZNYUk4NU90UDhGWjc0NVVPZ2tXTHJLX1BCNlY0NjJYbVJQdUtya19pY3JySDVtbDFqeDNZMFJjempfRlVGbG13VlBheW1KS0tPR1N6TEk3a1ROWWo4Um15N0FCRXBmS1NISWJWb0VkSXdnb0c5UTh0S0RqS05rRTJldkU5aUM4bUFsUGI0U3lnWHZGcXd1OWFnZk9JcGlKc2tONm5nVU1wd0VvYTVIS0hRVFMyWG8xZVBvVnRDSmlET3RrdjRyWHBRZUdwUk8xc1hxNmJQeUVnWEVaWUhmdXBzUndqeDBBeEhZ?oc=5</link>
+      <guid isPermaLink="false">e02a1ce2612cfbbb126f810b</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-04-28 01:47
+TP-Link’s new travel router delivers Wi-Fi 7 speeds MSN</description>
+      <pubDate>Tue, 05 May 2026 09:31:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-05T09:31:34.971759Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-27T16:47:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
