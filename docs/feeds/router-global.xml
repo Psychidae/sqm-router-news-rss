@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 21:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 22:12:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech</title>
@@ -47,6 +47,20 @@ TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming</descri
       <sqm:firstSeenDate>2026-05-05T19:51:27.328682Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T13:18:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link RE653BE Review: A Versatile and Solid Wi-Fi 7 Extender - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBVdl9ybFNoeXJpUGlpekg4eWJlZ3o1b0xQelBWekctUkh2UGZlYV8wZkZzQkd4cHpmSXBlTWdCcXhzb0JvSmxkUldmZTBkRmFOUlRWcmhjLW1qNXRJVDRjWDRub2NYV3dreU1LNXlLaw?oc=5</link>
+      <guid isPermaLink="false">6e88e41b2aabcd1f7c3292c0</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-06 06:51
+TP-Link RE653BE Review: A Versatile and Solid Wi-Fi 7 Extender Dong Knows Tech</description>
+      <pubDate>Tue, 05 May 2026 22:12:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-05T22:12:01.468710Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-05T21:51:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -106,20 +120,6 @@ EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5</link>
-      <guid isPermaLink="false">6a33ea2a7a6146847a4ef7d5</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-29 06:20
-Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</description>
-      <pubDate>Tue, 05 May 2026 07:27:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T07:27:13.390570Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5</link>
       <guid isPermaLink="false">590190f9c6ffdc9aa441912a</guid>
@@ -134,16 +134,16 @@ Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Asus TUF BE9400 Gaming Router - PCMag Middle East</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDlOcUNHakRzSFdEdFFhZG90aWVWMzlldGYxOGdZQ2t4SXRFME41dU5heTB3NDQ0RmdJM0hQTDVjSUhpUFNuOEs4cVludDVld1dGT2FzYm5NUjNSOG01aUJsRGhjZDEtSzVLU2o1RnBCMTFWeVlQbWxPMEFMOHBrMjJ3?oc=5</link>
-      <guid isPermaLink="false">54ec7e2b1242b33ded3ce8c0</guid>
+      <title>[海外ルーターニュース] Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5</link>
+      <guid isPermaLink="false">6a33ea2a7a6146847a4ef7d5</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
-元記事日付: 2026-04-25 16:00
-Asus TUF BE9400 Gaming Router PCMag Middle East</description>
-      <pubDate>Tue, 05 May 2026 21:13:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T21:13:24.451002Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-25T07:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-04-29 06:20
+Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</description>
+      <pubDate>Tue, 05 May 2026 07:27:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-05T07:27:13.390570Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
