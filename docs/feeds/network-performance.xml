@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 14:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:21:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
@@ -50,20 +50,6 @@ Plumas County 911 text service down due to internet outage Action News Now</desc
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] [UPDATE 1:21 p.m.] Internet Outage Disrupts Garberville Area, Knocks Out Phones at Rural Health Center - Redheaded Blackbelt</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOMk1MeGFXLWNxYjl5S1YyamZZR3pBQWN0Q3UyR3FqS2szVWU4akwtZ0d1em5oblBodk92RFRsUXdDbTRVaEgwcnVfV2NiVjJ5emhnNkNGSUJtQ2V5M2NQby1SY2YyUDhGTEdiOVp0Uk8yUWhkQ0RkV0trVmIzSzV1bWl3UzRFenNxTDJwS3NELTAzUENLX0JCY2RoNkkyZEFXSUtNcENUdkNtTDRQdXkyeE10MzU?oc=5</link>
-      <guid isPermaLink="false">c0a29cfebf723ad1ebf36cb8</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-04-30 00:37
-[UPDATE 1:21 p.m.] Internet Outage Disrupts Garberville Area, Knocks Out Phones at Rural Health Center Redheaded Blackbelt</description>
-      <pubDate>Tue, 05 May 2026 12:11:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T12:11:59.624445Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-29T15:37:18Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
       <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
@@ -74,20 +60,6 @@ Plumas County 911 text service down due to internet outage Action News Now</desc
       <pubDate>Sat, 02 May 2026 23:02:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T23:02:11.025539Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T08:05:49Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年4月】 - マイベスト</title>
-      <link>https://news.google.com/rss/articles/CBMiPkFVX3lxTE1jTDF2Ykk2WDNZN0RNeV9xWVZ4dmpzOHZLN2ZhV2JuVTRuZE51Sms0ZDYyTWVDdVI5amtaY2FR?oc=5</link>
-      <guid isPermaLink="false">331eb1d6ccb795be5695f30f</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-04-29 00:00
-【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年4月】 マイベスト</description>
-      <pubDate>Sun, 03 May 2026 21:01:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-03T21:01:09.359540Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T15:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
