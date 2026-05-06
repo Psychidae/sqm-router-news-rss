@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-06T20:00:40.520560Z",
+  "generated_at": "2026-05-06T21:20:24.477483Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,15 +53,15 @@
       "score": 15
     },
     {
-      "id": "6e88e41b2aabcd1f7c3292c0",
-      "title": "TP-Link RE653BE Review: A Versatile and Solid Wi-Fi 7 Extender - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVdl9ybFNoeXJpUGlpekg4eWJlZ3o1b0xQelBWekctUkh2UGZlYV8wZkZzQkd4cHpmSXBlTWdCcXhzb0JvSmxkUldmZTBkRmFOUlRWcmhjLW1qNXRJVDRjWDRub2NYV3dreU1LNXlLaw?oc=5",
-      "summary": "TP-Link RE653BE Review: A Versatile and Solid Wi-Fi 7 Extender Dong Knows Tech",
-      "published_at": "2026-05-05T21:51:01Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "ac5cc269e06ea4ddc86d4255",
+      "title": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5",
+      "summary": "Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag",
+      "published_at": "2026-04-25T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 15
     },
     {
       "id": "7ddf0aa3c0e1f56aa3b03367",
