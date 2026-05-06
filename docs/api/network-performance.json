@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-06T11:19:10.299452Z",
+  "generated_at": "2026-05-06T13:19:28.904293Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -47,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkxzQ3RRLVJQd0V4TV91OU5oeXliLTRrM3N3RU5vWExoQkVvUEF6VHozTGFyallDRG9JSU01eU1xUUZsOFZpSzJlWld5MmJCSFNmWnVSVlZrbWRPYUtZNEFhVlR1MHNhQmlvMWdXbGJvSVliQ1lYVkxvYTgxNnpFZ2N5QmxOdjd4NDE0UEpuOGZXMFk?oc=5",
       "summary": "One NZ fixes issue causing widespread internet outage 1News",
       "published_at": "2026-05-02T07:53:18Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "b065a018e1334e56b13e4958",
-      "title": "One NZ issue fixed after causing internet outages across the South Island, parts of North Island - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGY1OUM1X0htRGs3djRBZnVsNVlKXzRWOTAzblRITmltQUFneWxXcGY5czl1aGVUbFJma0lWOUhTeEpjR0RTZnh2MFp6cWU1Q2dXekE5aU92Y1R0SENyamp5Nmo3blB6c1BXTEJOZjNyR1JHMFlCaC1zWlFiOEZpRU85Nld0aERFZ1hOWE9jV3V1bkhLSGZVZW5tUWJIWkhBSzdPbGhBZGtfbkJFVDV3MWNPRXhmMjUxeGU1dFJUb09RaTZYMmxwQUFBQ3h5TFR2cVVKZA?oc=5",
-      "summary": "One NZ issue fixed after causing internet outages across the South Island, parts of North Island RNZ",
-      "published_at": "2026-04-30T22:57:16Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
