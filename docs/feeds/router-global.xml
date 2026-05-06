@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 13:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 15:52:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za</title>
@@ -19,6 +19,20 @@ Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za</descripti
       <sqm:firstSeenDate>2026-05-06T06:44:04.181374Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-06T06:26:42Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9PdE43ZEFITnhCWFRmYWpRb3JycGx0VkF1U2pJWlh5M0N0WWlldnktTFJrSU5FR2dHQVYyV092bnlQdm91VFpaYnp5cktScVROUE1RSUl1SHlwUHZYVHV3Y1JWNS05dlNPR01HNFBodDVfRVhJVXp0WGo4V2I?oc=5</link>
+      <guid isPermaLink="false">64827a54be597cb59f31fb73</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-02 02:30
+Why Your Home Needs a Wi-Fi 7 Mesh Router System Yahoo Tech</description>
+      <pubDate>Wed, 06 May 2026 15:52:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T15:52:52.281931Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T17:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -46,6 +60,20 @@ TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming</descri
       <pubDate>Tue, 05 May 2026 19:51:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-05T19:51:27.328682Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T13:18:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5</link>
+      <guid isPermaLink="false">ac5cc269e06ea4ddc86d4255</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-04-25 16:00
+Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag</description>
+      <pubDate>Wed, 06 May 2026 15:52:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T15:52:52.281931Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-25T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -117,34 +145,6 @@ Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows
       <sqm:firstSeenDate>2026-05-06T09:10:52.275231Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-28T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5</link>
-      <guid isPermaLink="false">6a33ea2a7a6146847a4ef7d5</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-29 06:20
-Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</description>
-      <pubDate>Wed, 06 May 2026 09:10:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-06T09:10:52.275231Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Asus TUF BE9400 Gaming Router - PCMag Middle East</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDlOcUNHakRzSFdEdFFhZG90aWVWMzlldGYxOGdZQ2t4SXRFME41dU5heTB3NDQ0RmdJM0hQTDVjSUhpUFNuOEs4cVludDVld1dGT2FzYm5NUjNSOG01aUJsRGhjZDEtSzVLU2o1RnBCMTFWeVlQbWxPMEFMOHBrMjJ3?oc=5</link>
-      <guid isPermaLink="false">54ec7e2b1242b33ded3ce8c0</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-25 16:00
-Asus TUF BE9400 Gaming Router PCMag Middle East</description>
-      <pubDate>Wed, 06 May 2026 11:19:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-06T11:19:08.258758Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-25T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
