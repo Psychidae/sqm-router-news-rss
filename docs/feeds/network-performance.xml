@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 05 May 2026 23:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 00:01:21 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] What caused the .de internet outage - Goosed.ie</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBreTJvTTBUYWdHODRWMG9hWklELVdLVm1pWXlvaDBSdU9FMllVXzluV0ZhdUZGVzlVWXppZU5QM1pjUWdIWXhTZDJuNU5hYjMzWjRVal9Gcl8wcHhGWWhaYXV0Ykd4SVFqVEE?oc=5</link>
+      <guid isPermaLink="false">b1028ece51350617fee12682</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-06 07:57
+What caused the .de internet outage Goosed.ie</description>
+      <pubDate>Wed, 06 May 2026 00:01:21 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T00:01:21.885528Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-05T22:57:08Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Neural Network Cuts Inference Latency To 9.85 μs For Qubits - Quantum Zeitgeist</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFB4RUUtU05faGRJdE82NHR5aEgtVXFTMnB0cEp0T1laSUY5alVaRFFEaXB5MUNxSURTdVdyeWVIeGIwVXRHTGMtQ09hTDRQQ3lyLXlFSTJwTzkyRE5DOXEyUFBIb0d0UVZJUTNlUGlwYS1jNXk2ZjMtVw?oc=5</link>
