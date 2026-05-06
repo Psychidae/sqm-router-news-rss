@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 17:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 20:00:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] What caused the .de internet outage - Goosed.ie</title>
@@ -36,20 +36,6 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Neural Network Cuts Inference Latency To 9.85 μs For Qubits - Quantum Zeitgeist</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFB4RUUtU05faGRJdE82NHR5aEgtVXFTMnB0cEp0T1laSUY5alVaRFFEaXB5MUNxSURTdVdyeWVIeGIwVXRHTGMtQ09hTDRQQ3lyLXlFSTJwTzkyRE5DOXEyUFBIb0d0UVZJUTNlUGlwYS1jNXk2ZjMtVw?oc=5</link>
-      <guid isPermaLink="false">3e6c71d40c09e354f639f7fc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-03 22:25
-Neural Network Cuts Inference Latency To 9.85 μs For Qubits Quantum Zeitgeist</description>
-      <pubDate>Tue, 05 May 2026 23:10:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T23:10:23.945372Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-03T13:25:38Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] One NZ fixes issue causing widespread internet outage - 1News</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkxzQ3RRLVJQd0V4TV91OU5oeXliLTRrM3N3RU5vWExoQkVvUEF6VHozTGFyallDRG9JSU01eU1xUUZsOFZpSzJlWld5MmJCSFNmWnVSVlZrbWRPYUtZNEFhVlR1MHNhQmlvMWdXbGJvSVliQ1lYVkxvYTgxNnpFZ2N5QmxOdjd4NDE0UEpuOGZXMFk?oc=5</link>
       <guid isPermaLink="false">332f4173d004fcde55cd43d1</guid>
@@ -60,6 +46,20 @@ One NZ fixes issue causing widespread internet outage 1News</description>
       <pubDate>Sat, 02 May 2026 21:45:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-02T07:53:18Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] One NZ issue fixed after causing internet outages across the South Island, parts of North Island - RNZ</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWGY1OUM1X0htRGs3djRBZnVsNVlKXzRWOTAzblRITmltQUFneWxXcGY5czl1aGVUbFJma0lWOUhTeEpjR0RTZnh2MFp6cWU1Q2dXekE5aU92Y1R0SENyamp5Nmo3blB6c1BXTEJOZjNyR1JHMFlCaC1zWlFiOEZpRU85Nld0aERFZ1hOWE9jV3V1bkhLSGZVZW5tUWJIWkhBSzdPbGhBZGtfbkJFVDV3MWNPRXhmMjUxeGU1dFJUb09RaTZYMmxwQUFBQ3h5TFR2cVVKZA?oc=5</link>
+      <guid isPermaLink="false">b065a018e1334e56b13e4958</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-01 07:57
+One NZ issue fixed after causing internet outages across the South Island, parts of North Island RNZ</description>
+      <pubDate>Wed, 06 May 2026 20:00:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T20:00:42.878457Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-30T22:57:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -75,6 +75,20 @@ Plumas County 911 text service down due to internet outage Action News Now</desc
       <sqm:firstSeenDate>2026-05-02T21:45:49.749220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T22:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 - DXマガジン</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE11Wkx3ZEROeXZQZkMyVEVUOTZDTnUxRVhoMXVWd3R3NTNMcEhyVFV0clpnNHJkR2tEM2FWTWszWXhsY0ZwNmtINFdjUS1LZw?oc=5</link>
+      <guid isPermaLink="false">96a75af0713bb6f6203f6e1f</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-05-01 07:04
+遅延の常識は覆る？宇宙で進む“光ネットワーク”の正体 DXマガジン</description>
+      <pubDate>Wed, 06 May 2026 20:00:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T20:00:42.878457Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-30T22:04:41Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
