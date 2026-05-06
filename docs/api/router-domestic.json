@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-06T06:44:03.009084Z",
+  "generated_at": "2026-05-06T09:10:51.333707Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "1d70fec9c8f344ba203f4268",
-      "title": "ASUSが“怪物”ルーター「ROG Rapture」のWi-Fi 7＆NPU搭載モデルを日本で初披露 実機を見てきた：発売日と価格は後日 - ITmedia PC USER - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BRDJVODBGZEhXSE9GZ0lYZ29kMlE5NjZ5SFRvSjVjdWRodTNnZVZRQ0lxcl81UXRHWGV0bEstX3d5Q2ZSUFlNVzRCeUtTcm5UTW01OHJKQXJBUk94TTc3TjRxOHR2MUNVSHdQMTZ2VdIBaEFVX3lxTFBPSEtnQ05ITFRwQmt2bGFtV1ZRYWQ3eVlYdS1qeF9MRFctcEdMbjkzRS1XRzd1cHNCWTZDRVJXN0dubFBVNmhSaE9CSWpaMU1ISFpWSHlENG0ta0ZxSWRoeWlVUWFnUGxH?oc=5",
-      "summary": "ASUSが“怪物”ルーター「ROG Rapture」のWi-Fi 7＆NPU搭載モデルを日本で初披露 実機を見てきた：発売日と価格は後日 - ITmedia PC USER ITmedia",
-      "published_at": "2026-04-22T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 20
-    },
     {
       "id": "b2e0d9143fc4317d1fd2a42d",
       "title": "バッファローのWi-Fi 6E対応無線LANルーターや10GbE対応スイッチングハブがお得！AmazonスマイルSALE - AKIBA PC Hotline!",
@@ -91,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GM21VdXVaX0xWQkVoblZoSWlvYWh2Vkc3SmFXYjQ5SG55bVB1eUFZT3c5ZExtc2xWcGNqU29NY0l0UE1kckthZTdoUFROeVpmNUM2eExaS3B4b3p1QmJBS2dTTG9zRWU00gFoQVVfeXFMUGZ3T0swSnNfRjlHb1FPMW5KTElpUHZ5bE9xSXNKa0VvcHBLTzMzQ2NPSzBfdXBtbVdDb05ydGRKQzAxVm9YYW1ZWWlYNjE4U2EwRTJ2TmpDbmZjSlFzOEFzaGhYS0RHTHo?oc=5",
       "summary": "発火リスクを抑えたバッファローの「半固体モバイルバッテリー」が10%オフ！ nasneやWi-Fiルーターもお買い得：Amazon ゴールデンウィークスマイルSale（1/2 ページ） - ITmedia PC USER ITmedia",
       "published_at": "2026-04-30T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
+      "id": "940d18a3cf670f114cdbaa78",
+      "title": "バッファローのWi-Fiルーターが安い！ Amazon GWスマイルSale - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeWN3UUQxMW9NeUJIMXJlSnlXc1dvdVJlbWt2NEx6TTRMZXNHd210ZzFXa2hxcUo3NmJwQTAxRUFsanlyWGlFMmtfVFI5S3E1aXBod2d3SEptcUsxdVJ4UTVCaFp1YnR0TThZS2ZFbGg?oc=5",
+      "summary": "バッファローのWi-Fiルーターが安い！ Amazon GWスマイルSale INTERNET Watch",
+      "published_at": "2026-04-30T02:30:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
