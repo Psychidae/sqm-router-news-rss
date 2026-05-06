@@ -5,20 +5,20 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 04:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 06:44:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
-      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI review (vs. GT-BE98 Pro): ASUS's best, yet greatly imperfect, Wi-Fi 7 router - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUZXU0VFNWN4bVVZYzNvZTJIQ2ZQTDNBY1o3ZVpZZjBwTmtYZkRtcVhtZHZHZnlMa0tYLWdzMmlsZzJ0T3dxRVZzeXlnN2h1cS1WSHNYY1Rydl9SZzYtdnd4SmxPbVFqZEJXTEI5OU9PYU8tbkpmZFc2c1F1RHFtLTVmN1RGcm5EZFdkNkc1dlczQklxSWRSdHMzQnlPVnpxaC1mVmdYb1RvNDhKTC13MlRBLVhWZjFCaTlQcjM5Vy1JbWJfUjJlemJMTzVEcmpEWjNEeGNKNzUzSXgtcjEzUjRnZw?oc=5</link>
-      <guid isPermaLink="false">7e0cf5ee10a6b364f546323e</guid>
+      <title>[海外ルーターニュース] Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNYURaNTktNVJ1LURuMEc0LWRCOFJieUk2TEdwcERvMnViQU1oelVhUWpEeGFfNzJIaVRnZTdtZzRVMWRHZVNNLWdJWENkeXJOMWpvVUYzLWJwNVk3dEMxVnRBX0ttalZZU0haNFd5T1Qxd214MDZyS2w1d09QWFpKZ2NDRmhHVzhST1RSWXlzRDFRZnA5SUJF?oc=5</link>
+      <guid isPermaLink="false">591f68cd88417dd228d03ebc</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-06 05:41
-ROG Rapture GT-BE19000AI review (vs. GT-BE98 Pro): ASUS's best, yet greatly imperfect, Wi-Fi 7 router MSN</description>
-      <pubDate>Wed, 06 May 2026 04:02:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-06T04:02:53.199398Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-05T20:41:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+ソース: Google News US: router products
+元記事日付: 2026-05-06 15:26
+Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za</description>
+      <pubDate>Wed, 06 May 2026 06:44:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T06:44:04.181374Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-06T06:26:42Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -60,6 +60,20 @@ TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming</descri
       <pubDate>Tue, 05 May 2026 19:51:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-05T19:51:27.328682Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-29T13:18:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUEozdXFNRjNkRk5rU0RiNlBDaVZlWGNsZUp6aWVqZkMtYUUzU2QzbG9xeGVTNDhBRW9ZdUtYNVBVZ3ZwQVhaU2J5YmdQX29EVVJzeldPdTBoV0kyUVlVcTZ3SllLRFJqV040?oc=5</link>
+      <guid isPermaLink="false">ac5cc269e06ea4ddc86d4255</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-04-25 16:00
+Asus TUF BE9400 Gaming Router Review: ROG’s Chill, Cheaper Cousin Still Performs PCMag</description>
+      <pubDate>Wed, 06 May 2026 06:44:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T06:44:04.181374Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-25T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -120,30 +134,16 @@ EnGenius ECW515 Review (vs. Ubiquiti U7 In-Wall): A Handy Entry-Level Dual-Band 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5</link>
-      <guid isPermaLink="false">590190f9c6ffdc9aa441912a</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-04-28 20:02
-Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech</description>
-      <pubDate>Tue, 05 May 2026 16:21:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T16:21:03.891161Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T11:02:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5</link>
-      <guid isPermaLink="false">6a33ea2a7a6146847a4ef7d5</guid>
+      <title>[海外ルーターニュース] Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlZzenM0TFNObnF3ZmI5czVkUXBDby1tMGF4eEk1RUR1QWdoamRHM3NKSzdNcV94Uy1NUm5QdFhwUmxEMWZHNlN5czhseGhLd3pIcHotWHJGczFuX0FFSktUMzVpOEVITFBLWG9qYlFMR1d1SWt2WXlNSU01Y2Zxa28xbUptanFOYzFlZ0d2YXI4WUpmWm9MZ3NURm9FWm5pVi1ZRkxkUHAyMm8wazd1QnZuQmNmeDAzRUtraVNrTFVnclU?oc=5</link>
+      <guid isPermaLink="false">17d25102f5903606bed1bab4</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
-元記事日付: 2026-04-29 06:20
-Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</description>
-      <pubDate>Tue, 05 May 2026 07:27:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T07:27:13.390570Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
+元記事日付: 2026-04-29 19:38
+Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff MSN</description>
+      <pubDate>Wed, 06 May 2026 06:44:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-06T06:44:04.181374Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-04-29T10:38:57Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
