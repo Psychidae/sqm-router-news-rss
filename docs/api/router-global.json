@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-07T07:51:51.163807Z",
+  "generated_at": "2026-05-07T10:34:40.019038Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,6 +42,17 @@
       "score": 17
     },
     {
+      "id": "2533ab8e4220fa6c961fd82a",
+      "title": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHJiWEd0NTBkM05fVXRMSXJNdURfdEdqUHFjbF9pSTRUNFpDRHhoMld5RGNwV2ozbDlHeHRGMGdFMmN0bUFsLWlVZVJqTnNUZ21UalVFRGhqQ0lqb3hRM2tPdElGaEdvSkFaazBQd2J5T2EyZ19ONjdlNk9RTDlOV3NESWVwRkh5YjNuY2cxYWN1ZU5MSWxhNVo1alMxeVk?oc=5",
+      "summary": "TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-04-29T13:18:48Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
+    },
+    {
       "id": "026820e1fc6933b255582710",
       "title": "Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag - Gizchina.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUVZNVA5Vjh5VGJHbmJVV3VXem5CQXJURWtQYVY0SVhFT25JcXRVVU8xNmVOSXlVQUp1S2kyU1ZuOWFMMURON0stVmtLOUZBbmp5YnV2ZXZCRHZNUVBmbVRZYUZjY1ZqT0ZmT045czlOZVhwdld6MUg3dTZpUGJyWHBfU2ZlX1hMWm0zNXpKVC1yWHNneERXbTRRdWN3RUNvS0IyUUFHbHlDRmdMMzRHUVBocGdmSll0?oc=5",
@@ -51,6 +62,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
+    },
+    {
+      "id": "f4edb11a5b17eafb5e103f11",
+      "title": "Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWWVmLVo1eVF6N3BOS21VMVNIRWRrWWpTYkFrLUlyMUVteWlGNHBuVnJqTFJoYjNGZWUzQ0RhSi0xUGVkTDdJNFY4azc0RnNJMGxRM2JvNEdJX21CM0F5LXM5dkxERk9ndlNIM2diNmc4R1BjLXMwRXM2TkdnREFRSXlTTDdaWmVtYzJJcE5LTk90RUNxcHY0WV8wczFHeTJMbWEtdjJhWk5RQW9aRVBveU4tYnJYaDROa2JpUTdHZFl1bW8zcTR4elVQTWpHY3JlTFVfVXU4SWRqeVlVQlFEOTR3MlNvci1wZ2p1YUxGUTNiUTlKY05sV3VpV21uNVdONVlISFFCSTM1NFJHM2o4c2c0UjhYVmxfY094eTBPSmhEVW04cHE4WXpMdzQxRk9YS21CZUVPdlRBZVBZajhjYk00UFhPLWExNXN4UDlva3M2Nk1NTXJnTmhvUkR6QUdXWVFMdnJuWUZnZw?oc=5",
+      "summary": "Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff MSN",
+      "published_at": "2026-05-07T07:05:54Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "7ddf0aa3c0e1f56aa3b03367",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "590190f9c6ffdc9aa441912a",
-      "title": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
-      "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
-      "published_at": "2026-04-28T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "6a33ea2a7a6146847a4ef7d5",
-      "title": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5",
-      "summary": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag",
-      "published_at": "2026-04-28T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 10
     }
   ]
 }
