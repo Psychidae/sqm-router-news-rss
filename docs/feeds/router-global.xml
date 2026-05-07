@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 07 May 2026 15:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:05:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxNYURaNTktNVJ1LURuMEc0LWRCOFJieUk2TEdwcERvMnViQU1oelVhUWpEeGFfNzJIaVRnZTdtZzRVMWRHZVNNLWdJWENkeXJOMWpvVUYzLWJwNVk3dEMxVnRBX0ttalZZU0haNFd5T1Qxd214MDZyS2w1d09QWFpKZ2NDRmhHVzhST1RSWXlzRDFRZnA5SUJF?oc=5</link>
-      <guid isPermaLink="false">591f68cd88417dd228d03ebc</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-05-06 15:26
-Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za</description>
-      <pubDate>Wed, 06 May 2026 06:44:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-06T06:44:04.181374Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-06T06:26:42Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU9EX29yeWtNT2hYWUs0ZUVMN1N6UV9oZGUtbEM5WlhtMzh1aTRHMHFubWlmTVJSVmRpUjJnZEpyRl9YTTVFNlByV2Fmc1JCUFhqWnZlRFJnUE0wZHJudXN2U0dQY0ZndGtMckpHZGFqX2xMVlhYdk9JSVRYMUFRbG9GaTYzcl9TUmRUT3dVWkFITUZ3c09zdnc2ZjhwSUxPWnpPLWtR?oc=5</link>
@@ -144,6 +130,20 @@ Your old router is faster than mesh Wi-Fi if you wire it correctly Yahoo Tech</d
       <pubDate>Thu, 07 May 2026 15:17:14 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-07T15:17:14.479644Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-06T15:05:44Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5</link>
+      <guid isPermaLink="false">bf13c97dbcaa4efd6779ec88</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-04 21:17
+If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.com</description>
+      <pubDate>Thu, 07 May 2026 17:05:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-07T17:05:37.013968Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-04T12:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

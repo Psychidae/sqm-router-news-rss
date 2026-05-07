@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-07T15:17:14.480588Z",
+  "generated_at": "2026-05-07T17:05:37.014934Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "591f68cd88417dd228d03ebc",
-      "title": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYURaNTktNVJ1LURuMEc0LWRCOFJieUk2TEdwcERvMnViQU1oelVhUWpEeGFfNzJIaVRnZTdtZzRVMWRHZVNNLWdJWENkeXJOMWpvVUYzLWJwNVk3dEMxVnRBX0ttalZZU0haNFd5T1Qxd214MDZyS2w1d09QWFpKZ2NDRmhHVzhST1RSWXlzRDFRZnA5SUJF?oc=5",
-      "summary": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za",
-      "published_at": "2026-05-06T06:26:42Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 17
-    },
     {
       "id": "5501a1771b20ea16d69eb1b7",
       "title": "Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
+    },
+    {
+      "id": "bf13c97dbcaa4efd6779ec88",
+      "title": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5",
+      "summary": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.com",
+      "published_at": "2026-05-04T12:17:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
     }
   ]
 }
