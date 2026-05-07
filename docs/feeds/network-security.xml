@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 07 May 2026 10:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 12:21:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Ekubo Protocol Exploited For $1.4 Million In WBTC Via EVM Router Vulnerability - Bitcoin World</title>
@@ -19,20 +19,6 @@ Ekubo Protocol Exploited For $1.4 Million In WBTC Via EVM Router Vulnerability B
       <sqm:firstSeenDate>2026-05-06T20:00:41.630889Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-06T12:35:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「Mac」でセキュリティ強化のために有効化すべき2つの設定--手順を解説 - ZDNET Japan</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaZUViR0NtYTh5dDFKbUVlZjZzenBPNEZQT1NiOVZiRXQ1NUJvZnBQOUlJS2J1REZtdThxRElTa2t2U2hnN2w3ektPRFAyVU9BM0xn?oc=5</link>
-      <guid isPermaLink="false">175971649ffbaeb66c7996e9</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-04 07:00
-「Mac」でセキュリティ強化のために有効化すべき2つの設定--手順を解説 ZDNET Japan</description>
-      <pubDate>Sun, 03 May 2026 23:02:31 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-03T23:02:31.020142Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-03T22:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
   </channel>
