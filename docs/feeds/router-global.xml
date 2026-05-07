@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 07 May 2026 01:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:02:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za</title>
@@ -47,20 +47,6 @@ Xiaomi releases Wi-Fi 7 mesh router system internationally Notebookcheck</descri
       <sqm:firstSeenDate>2026-05-02T21:45:45.765828Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-04-30T13:22:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review - MKAU Gaming</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOdHJiWEd0NTBkM05fVXRMSXJNdURfdEdqUHFjbF9pSTRUNFpDRHhoMld5RGNwV2ozbDlHeHRGMGdFMmN0bUFsLWlVZVJqTnNUZ21UalVFRGhqQ0lqb3hRM2tPdElGaEdvSkFaazBQd2J5T2EyZ19ONjdlNk9RTDlOV3NESWVwRkh5YjNuY2cxYWN1ZU5MSWxhNVo1alMxeVk?oc=5</link>
-      <guid isPermaLink="false">2533ab8e4220fa6c961fd82a</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-04-29 22:18
-TUF Gaming BE9400 WiFi 7 Gaming Router (Hardware) – Review MKAU Gaming</description>
-      <pubDate>Tue, 05 May 2026 19:51:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-05T19:51:27.328682Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-29T13:18:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -139,12 +125,26 @@ Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows
       <guid isPermaLink="false">6a33ea2a7a6146847a4ef7d5</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
-元記事日付: 2026-04-29 06:20
+元記事日付: 2026-04-28 16:00
 Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff PCMag</description>
       <pubDate>Wed, 06 May 2026 17:51:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-06T17:51:12.124926Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-28T21:20:20Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-04-28T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Your old router is faster than mesh Wi-Fi if you wire it correctly - Yahoo Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3FoM1dVTm5KcEwtblU1dk5vZTliRG8xX0ptbVphaW9hWDd5LXZpaEdoZzJNd2pueHRfOFVZUHgwV0ZGOW11bGhnU2VCbmwxbW03S3BBY01rWlRmNDJ3SEtFRmpNblNaa3FaOVM3c083dHpicmxvLVhURDBLeDVLdFo1Vk5nVXVoMFE?oc=5</link>
+      <guid isPermaLink="false">5952942ac048cebf16dc80f0</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-07 00:05
+Your old router is faster than mesh Wi-Fi if you wire it correctly Yahoo Tech</description>
+      <pubDate>Thu, 07 May 2026 05:02:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-07T05:02:52.736002Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-06T15:05:44Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
