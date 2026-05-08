@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-08T06:20:40.558189Z",
+  "generated_at": "2026-05-08T08:12:52.664074Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 3,
+  "count": 2,
   "errors": [],
   "items": [
     {
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 12
-    },
-    {
-      "id": "c00b6eb429062965a82ccf03",
-      "title": "Android対応セキュリティソフトのおすすめ人気ランキング【スマホのウイルス対策に！2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rTzV3dldhcE9zLWJ6by1OTVk1MEJ4Unp0cFU4ZDMxLVI4LVh0UUphVWFkTERkMXZRRS1zazZB?oc=5",
-      "summary": "Android対応セキュリティソフトのおすすめ人気ランキング【スマホのウイルス対策に！2026年5月】 マイベスト",
-      "published_at": "2026-05-04T15:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     },
     {
       "id": "175971649ffbaeb66c7996e9",
