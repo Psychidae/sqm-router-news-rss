@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-08T11:44:45.523013Z",
+  "generated_at": "2026-05-08T12:59:10.097413Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -17,7 +17,18 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
+    },
+    {
+      "id": "b1028ece51350617fee12682",
+      "title": "What caused the .de internet outage - Goosed.ie",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBreTJvTTBUYWdHODRWMG9hWklELVdLVm1pWXlvaDBSdU9FMllVXzluV0ZhdUZGVzlVWXppZU5QM1pjUWdIWXhTZDJuNU5hYjMzWjRVal9Gcl8wcHhGWWhaYXV0Ykd4SVFqVEE?oc=5",
+      "summary": "What caused the .de internet outage Goosed.ie",
+      "published_at": "2026-05-05T22:57:08Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "332f4173d004fcde55cd43d1",
