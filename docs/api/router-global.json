@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-08T17:57:45.832437Z",
+  "generated_at": "2026-05-08T19:44:21.066472Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "e7cd313078a366165bbbad5b",
+      "title": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOG9PWGlNaTVtZzQwaDJMUThScEJQX1N2bEM0ZXJuNnRvMlc2TGphRWZZSHowVkZSdWY2bnJ1cEQ3MmV5b0cwcWdsNUplX2tkQ1FzV3hCSERtUlEtVEVPVnUwOElNZlZlYklfb1I0bFQ3MFJxVGdOdmxRMjlYUUViMGk5U3JzZWN6UEdnOXIyU1N2SjY0SGxaRTNCamt2blZfMF8wSkxPZXA4Zw?oc=5",
+      "summary": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget SonnyDickson",
+      "published_at": "2026-05-02T16:25:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
     {
       "id": "5501a1771b20ea16d69eb1b7",
       "title": "Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck",
@@ -97,15 +108,15 @@
       "score": 8
     },
     {
-      "id": "106a2972c57d9a84715c2f10",
-      "title": "Five Best UniFi Access Points: Ubiquiti’s Current Top Wi-Fi 7 Options for a Robust Home Network - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LVVg2THQtZDNCRFUtOV9DM3RyekNENTR1NW5kS3FVWlR0M3RlME5qbmh3amVMckNJbnB5T3BLOFpicmd2Wmt1c1Nld1VFMS1PTWdiU1RMOWltYlk?oc=5",
-      "summary": "Five Best UniFi Access Points: Ubiquiti’s Current Top Wi-Fi 7 Options for a Robust Home Network Dong Knows Tech",
-      "published_at": "2026-05-01T15:48:52Z",
+      "id": "bf13c97dbcaa4efd6779ec88",
+      "title": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5",
+      "summary": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.com",
+      "published_at": "2026-05-04T12:17:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 6
+      "score": 7
     }
   ]
 }
