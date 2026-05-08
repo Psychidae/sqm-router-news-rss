@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 08 May 2026 19:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 20:40:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOG9PWGlNaTVtZzQwaDJMUThScEJQX1N2bEM0ZXJuNnRvMlc2TGphRWZZSHowVkZSdWY2bnJ1cEQ3MmV5b0cwcWdsNUplX2tkQ1FzV3hCSERtUlEtVEVPVnUwOElNZlZlYklfb1I0bFQ3MFJxVGdOdmxRMjlYUUViMGk5U3JzZWN6UEdnOXIyU1N2SjY0SGxaRTNCamt2blZfMF8wSkxPZXA4Zw?oc=5</link>
-      <guid isPermaLink="false">e7cd313078a366165bbbad5b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-03 01:25
-Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget SonnyDickson</description>
-      <pubDate>Fri, 08 May 2026 19:44:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-08T19:44:21.065502Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-02T16:25:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU9EX29yeWtNT2hYWUs0ZUVMN1N6UV9oZGUtbEM5WlhtMzh1aTRHMHFubWlmTVJSVmRpUjJnZEpyRl9YTTVFNlByV2Fmc1JCUFhqWnZlRFJnUE0wZHJudXN2U0dQY0ZndGtMckpHZGFqX2xMVlhYdk9JSVRYMUFRbG9GaTYzcl9TUmRUT3dVWkFITUZ3c09zdnc2ZjhwSUxPWnpPLWtR?oc=5</link>
@@ -144,6 +130,20 @@ If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.c
       <pubDate>Fri, 08 May 2026 19:44:21 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-08T19:44:21.065502Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-04T12:17:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Five Best UniFi Access Points: Ubiquiti’s Current Top Wi-Fi 7 Options for a Robust Home Network - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LVVg2THQtZDNCRFUtOV9DM3RyekNENTR1NW5kS3FVWlR0M3RlME5qbmh3amVMckNJbnB5T3BLOFpicmd2Wmt1c1Nld1VFMS1PTWdiU1RMOWltYlk?oc=5</link>
+      <guid isPermaLink="false">106a2972c57d9a84715c2f10</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-02 00:48
+Five Best UniFi Access Points: Ubiquiti’s Current Top Wi-Fi 7 Options for a Robust Home Network Dong Knows Tech</description>
+      <pubDate>Fri, 08 May 2026 20:40:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-08T20:40:05.361340Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-01T15:48:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
