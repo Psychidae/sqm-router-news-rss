@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-08T21:39:23.643363Z",
+  "generated_at": "2026-05-08T22:36:25.970398Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,6 +20,17 @@
       "score": 15
     },
     {
+      "id": "0a5308a2b30c6ea63a7b8590",
+      "title": "「雪に覆われた山頂」をイメージしたWi-Fiルーター HUAWEIから一般発売 (2026年5月9日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54RkNPMndmbFJKX3VRMHBwRjFGRUtGenp3RGtVak96eUU2VTdoSTBHbHdHTFNkWWRWN0ZwMHhWV0JXM0ZLd0E0Znk5UjMxT3RfZnl5SmFJRmdiZ3JQaGc?oc=5",
+      "summary": "「雪に覆われた山頂」をイメージしたWi-Fiルーター HUAWEIから一般発売 (2026年5月9日掲載) ライブドアニュース",
+      "published_at": "2026-05-08T22:04:30Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
       "id": "24237482989542f41318ccda",
       "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FT0N4UWczRGVaenFyM2NtWmV0eVdkbkR1bHBuVHN5UHBENmN5SWlfdE9ldHJmSkVnN2lNTnBPOEFaVDhrZXdFQ1J4WkxqOW1obU1PQi1sVFF4RmJqOG9lS2MwNUM3LUNXWG03ZmpQRndkaHFoZWIxQjNGQzRkSUU?oc=5",
@@ -35,17 +46,6 @@
       "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 - bcnretail.com",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZSDczQkxDOUVhcWhoV3haQXQ5bkN2UmRabkVxNjZRVmVObzlGRUZYQ2piRlNUM0ZyUkdGZjk0NzZwMVB0UXZ1MEpJdWNjc2hTU2VsWFJHSHltanY5UTRwTS1DTkVtdGxXcjNfVTc3ekYtRl9NYndONjd3?oc=5",
       "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 bcnretail.com",
-      "published_at": "2026-05-04T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "0e0d1dbddc4b2256727c246e",
-      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHFpSDlrMnc2LV9TNGhkaV9NU19QZ3Y4RTkxWno3Y1I0cDBGVVZlbmZNSzlIZW1ETDdUdWhpTWtCVm9zdUVPMzFzb1o3dWd1MG5YOVFkeU43QzRaQ3JFZE1sLXJPOVFXeTl6eUdydk8xMFFJeFBKTzBXalh4dEpud1BKLWhUY3dSbDZPMnlB?oc=5",
-      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) Yahoo!ニュース",
       "published_at": "2026-05-04T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
