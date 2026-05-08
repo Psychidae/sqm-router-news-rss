@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-08T16:43:45.071143Z",
+  "generated_at": "2026-05-08T17:57:46.853333Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 2,
+  "count": 1,
   "errors": [],
   "items": [
-    {
-      "id": "efa2286c7a7b5f20989003fe",
-      "title": "Ekubo Protocol Exploited For $1.4 Million In WBTC Via EVM Router Vulnerability - Bitcoin World",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tSEJFT3dYVlc0YTIwV0l5VkoyRWZQa3lxQ3NEcFk0TXAyX0lSajVzQms4MFp5MElfREhGeVp1UDdOVml1SVltNVlsSVlveDlXSE5YejFMZnVxOVBick9Tc1V3OVgtT2xPX3NoYTVVU05lbUti?oc=5",
-      "summary": "Ekubo Protocol Exploited For $1.4 Million In WBTC Via EVM Router Vulnerability Bitcoin World",
-      "published_at": "2026-05-06T12:35:12Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
     {
       "id": "175971649ffbaeb66c7996e9",
       "title": "「Mac」でセキュリティ強化のために有効化すべき2つの設定--手順を解説 - ZDNET Japan",
