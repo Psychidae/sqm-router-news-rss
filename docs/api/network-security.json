@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-09T07:20:30.497023Z",
+  "generated_at": "2026-05-09T09:02:45.554630Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 1,
+  "count": 2,
   "errors": [],
   "items": [
+    {
+      "id": "b9e18a5f9b2e64f41408944b",
+      "title": "ワールドカップの旅行セキュリティ：知っておきたいポイント - ExpressVPN",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOX3hZRTlfZ0tKU3hyOV9CRVE2ZnFrS1hNT2d4SWtuaXg3Z1F5WlFoLVRfcjhqUTB5YklEZFMwckc4RDVYOFNoek5XLVhGOUc0OVk1NFI1eWl1NHZjUHZfNGFqeXduLVFxQkpFOUlFWG4zdXczWVl0MElMejhvZmttMURMUGdhbl93RjNnb1ZVajdzYWJ2ZmQzQ1RhOG90QnVUWHRBcEtHOU43Y19pTUQ3ZXQ5SHdJWHZORjRJZHF3RVIwNFIxVzd0X2pvTTNJaVpiNU1sQ1dnazVFMThFeFdoUEVWVXp6ekhWWE1jTTBscnZ5VERnTXpuV09pbThUTEFWRmhja21oenFiZUEtbEE0RWFVNlVraFNKenE4SFdNUHRSQXJneUQ4eExSdWQ3YTBub1JhOTRLanVocWtmQ0ZHVVdiRVl2QXFqRDB5SmV0VXdjWFh6?oc=5",
+      "summary": "ワールドカップの旅行セキュリティ：知っておきたいポイント ExpressVPN",
+      "published_at": "2026-05-04T13:59:07Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
     {
       "id": "175971649ffbaeb66c7996e9",
       "title": "「Mac」でセキュリティ強化のために有効化すべき2つの設定--手順を解説 - ZDNET Japan",
