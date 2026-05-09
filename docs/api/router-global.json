@@ -1,13 +1,35 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-09T04:55:36.925561Z",
+  "generated_at": "2026-05-09T07:20:28.971877Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "64827a54be597cb59f31fb73",
+      "title": "Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PdE43ZEFITnhCWFRmYWpRb3JycGx0VkF1U2pJWlh5M0N0WWlldnktTFJrSU5FR2dHQVYyV092bnlQdm91VFpaYnp5cktScVROUE1RSUl1SHlwUHZYVHV3Y1JWNS05dlNPR01HNFBodDVfRVhJVXp0WGo4V2I?oc=5",
+      "summary": "Why Your Home Needs a Wi-Fi 7 Mesh Router System Yahoo Tech",
+      "published_at": "2026-05-01T17:30:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "f002b7e9246c7adde5e572fa",
+      "title": "TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPYTBzUDF4b3VUcy1TWHZ0anJkZXcyeVI1ekhFQ08xUFRJZG94Q0dhWlk4dC1qQlkzYlNueTdEWnR6b1I3eU9hTk9MQkFJVGVpY3d5clNoTUJsVkZEWktPUW84U2dXektvR0NsRk1yeHA3MnpidzVuSGUtZ2FaUkJ5ckNJUlJPWEd0V2EtR3phbHFjQTJhUUhQRlpBb0tuLWIxX09mS1h0cU9nYWJIakJIWnEydWQ4MVp1NmlzajRuQXNWRy03UVJJRlBWS0E2UEJGYU9DMTVnSG1fUHNXQ29kT0hRN085MWlpeVZLTFlaNzFsMVBiU0lLdEFab1dBMlRhZTlaZE5TQXdQM2hIUjRKdF9ZcHRZcTJUenVtcVJ6NGNCQmpST0tpNG5uNTZRQ3dialJEMUNES0F0dmlTWEdhMjZnNlhsU0NHSmJldDFwSnR3ZEFEYUJab2lzc0tXS1FSVFZQZg?oc=5",
+      "summary": "TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 MSN",
+      "published_at": "2026-04-25T20:40:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
     {
       "id": "5501a1771b20ea16d69eb1b7",
       "title": "Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck",
@@ -86,17 +108,6 @@
       "score": 10
     },
     {
-      "id": "54ec7e2b1242b33ded3ce8c0",
-      "title": "Asus TUF BE9400 Gaming Router - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMDlOcUNHakRzSFdEdFFhZG90aWVWMzlldGYxOGdZQ2t4SXRFME41dU5heTB3NDQ0RmdJM0hQTDVjSUhpUFNuOEs4cVludDVld1dGT2FzYm5NUjNSOG01aUJsRGhjZDEtSzVLU2o1RnBCMTFWeVlQbWxPMEFMOHBrMjJ3?oc=5",
-      "summary": "Asus TUF BE9400 Gaming Router PCMag Middle East",
-      "published_at": "2026-04-25T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 10
-    },
-    {
       "id": "d96d5f3bc4d2f9bed9df650b",
       "title": "Xiaomi BE7200 Pro brings Wi-Fi 7 and five 2.5GbE ports for $122 — but only in China - gagadget.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDA3N2VJNUtTVUozWnFJbTM0TzZmWnAwSHhBUG1mbW1SWkROYjlRTjNqYkVUQjhUSkh1Slh2RUh6Rmk0ZTNfSUFzci1jNDdnWEY2V2NXVEQ5RW9seU5mYmlpTkxrZ2g0WmtGWWtabkRUOVNHd1B6N3AxX2hyTEprMjdzM2JTQVNTSzhhM0lJaGxNOXpKTk9YZXYtaDdsVE1VWllVYnc2b1lHVk9IU1ZDMtIBtgFBVV95cUxPaC1ScWVfNzF4QmplNkhHQ1MzY2JIM0Rub2VSWEpSN0o1eGxnS201bElPLS13aUlwVkVyY1h1N294LVRhekp3SE52YWpLX1JiejJTTHpONzVSNTJWaTZwSWc1cThVVTJRREFKTktEVWZxaTZlTlg0S0NVTjNPd000NG9WU1V2NGFTLWRnUTdpYWQ0dVZMQTRYblJIQUF4UXpqWk9FeWdnTnphMkhJYXB1RGVZOEw0dw?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "bf13c97dbcaa4efd6779ec88",
-      "title": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5",
-      "summary": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.com",
-      "published_at": "2026-05-04T12:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
