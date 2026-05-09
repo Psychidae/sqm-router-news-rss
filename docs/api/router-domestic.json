@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-09T20:25:11.957378Z",
+  "generated_at": "2026-05-09T21:27:57.510217Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,21 +20,10 @@
       "score": 15
     },
     {
-      "id": "cdee409cfd7867b522de8946",
-      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFcnpZNWN0SnFkUzVZd3p3Rk5aSmRtQ3ZiQ05GQUhXNXIwNXRFNmZVVFc0RERrRkhrVHJya3FYRGgxM3NSOG9TZXNHZk84M1hWSFNMM3ZwSng1VHQxa2owaUJ5Um91X1hvc0tuVXloSQ?oc=5",
-      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 bcnretail.com",
-      "published_at": "2026-05-04T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "0e0d1dbddc4b2256727c246e",
-      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHFpSDlrMnc2LV9TNGhkaV9NU19QZ3Y4RTkxWno3Y1I0cDBGVVZlbmZNSzlIZW1ETDdUdWhpTWtCVm9zdUVPMzFzb1o3dWd1MG5YOVFkeU43QzRaQ3JFZE1sLXJPOVFXeTl6eUdydk8xMFFJeFBKTzBXalh4dEpud1BKLWhUY3dSbDZPMnlB?oc=5",
-      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) Yahoo!ニュース",
+      "id": "24237482989542f41318ccda",
+      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FT0N4UWczRGVaenFyM2NtWmV0eVdkbkR1bHBuVHN5UHBENmN5SWlfdE9ldHJmSkVnN2lNTnBPOEFaVDhrZXdFQ1J4WkxqOW1obU1PQi1sVFF4RmJqOG9lS2MwNUM3LUNXWG03ZmpQRndkaHFoZWIxQjNGQzRkSUU?oc=5",
+      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） Yahoo!ニュース",
       "published_at": "2026-05-04T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,17 +53,6 @@
       "score": 10
     },
     {
-      "id": "ab365861729e6fac2c924474",
-      "title": "パイオニアの車載用Wi-Fiルーター「DCT-WR200D」、使用感はどうなの？SNSのレビューをチェックしてみた - car-moby.jp",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtS3kyRlVJdjFyaVo4NzlFQ29HRXhtNXpjMjNDNjNyZVFqWWJVTDYxVlBMYjdFMTVIeUJxMlFnb2pEaV9mRXBmdGlOMEZWNnhFUW5wanI4aWdlOUpGc2N5cGlfZFVLOW01V0ZDQVMyTlRvLWktNENlWmtoZw?oc=5",
-      "summary": "パイオニアの車載用Wi-Fiルーター「DCT-WR200D」、使用感はどうなの？SNSのレビューをチェックしてみた car-moby.jp",
-      "published_at": "2026-04-30T07:00:28Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
       "id": "940d18a3cf670f114cdbaa78",
       "title": "バッファローのWi-Fiルーターが安い！ Amazon GWスマイルSale - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeWN3UUQxMW9NeUJIMXJlSnlXc1dvdVJlbWt2NEx6TTRMZXNHd210ZzFXa2hxcUo3NmJwQTAxRUFsanlyWGlFMmtfVFI5S3E1aXBod2d3SEptcUsxdVJ4UTVCaFp1YnR0TThZS2ZFbGg?oc=5",
@@ -93,6 +71,28 @@
       "published_at": "2026-04-29T07:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "5cf32e414f08835b7f8da1a9",
+      "title": "見た目はもはや宇宙船…!? ASUSの“AI搭載”新型ゲーミングルーターの何がスゴいのかチェックしてきた（Game Spark） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42T3ZybDNiTUpDZEpPdFBSSkFqVlBmS2RxN2RHZ1RlQWdkWDJWalNuQ2pjTmkyZXB0SEp3RWFlZXlwSEFRUXJtZFhKaWRUOHAzX3dYalZPWTluaTJNdnhuVkVPelFhNk1CcGcyUkp0NkF6bmM3ZVFCTkpXajVjc0U?oc=5",
+      "summary": "見た目はもはや宇宙船…!? ASUSの“AI搭載”新型ゲーミングルーターの何がスゴいのかチェックしてきた（Game Spark） Yahoo!ニュース",
+      "published_at": "2026-04-29T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "438e5dd8c5c6f38f9c3fd4e8",
+      "title": "【本日みつけたお買い得品】ASUSのゲーミングWi-Fi 7ルーターが7,334円引き - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zbkRBX0drOF9BcUZMVko5OHhGSGQtcGNLdVRqTTVVdTJ4YjFZcmVrRUNnc3QxLUlUTTNiZmdvcnY0d3lVNWlCRjFkWlR3VG92alRWTkdtcHVkTE1kLXB6OTZVRDhuWG92aTVEUHJaYmRaaUxD?oc=5",
+      "summary": "【本日みつけたお買い得品】ASUSのゲーミングWi-Fi 7ルーターが7,334円引き PC Watch",
+      "published_at": "2026-04-28T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 10
     }
