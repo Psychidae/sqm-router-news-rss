@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-09T17:11:09.039947Z",
+  "generated_at": "2026-05-09T18:03:52.303223Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -97,6 +97,17 @@
       "score": 8
     },
     {
+      "id": "5952942ac048cebf16dc80f0",
+      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3FoM1dVTm5KcEwtblU1dk5vZTliRG8xX0ptbVphaW9hWDd5LXZpaEdoZzJNd2pueHRfOFVZUHgwV0ZGOW11bGhnU2VCbmwxbW03S3BBY01rWlRmNDJ3SEtFRmpNblNaa3FaOVM3c083dHpicmxvLVhURDBLeDVLdFo1Vk5nVXVoMFE?oc=5",
+      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly Yahoo Tech",
+      "published_at": "2026-05-06T15:05:44Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
       "id": "bf13c97dbcaa4efd6779ec88",
       "title": "If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
-    },
-    {
-      "id": "929aceddb00e82be9fe69445",
-      "title": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5",
-      "summary": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times",
-      "published_at": "2026-05-01T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }
