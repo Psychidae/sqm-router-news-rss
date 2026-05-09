@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 09 May 2026 01:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 04:55:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi5AJBVV95cUxPYTBzUDF4b3VUcy1TWHZ0anJkZXcyeVI1ekhFQ08xUFRJZG94Q0dhWlk4dC1qQlkzYlNueTdEWnR6b1I3eU9hTk9MQkFJVGVpY3d5clNoTUJsVkZEWktPUW84U2dXektvR0NsRk1yeHA3MnpidzVuSGUtZ2FaUkJ5ckNJUlJPWEd0V2EtR3phbHFjQTJhUUhQRlpBb0tuLWIxX09mS1h0cU9nYWJIakJIWnEydWQ4MVp1NmlzajRuQXNWRy03UVJJRlBWS0E2UEJGYU9DMTVnSG1fUHNXQ29kT0hRN085MWlpeVZLTFlaNzFsMVBiU0lLdEFab1dBMlRhZTlaZE5TQXdQM2hIUjRKdF9ZcHRZcTJUenVtcVJ6NGNCQmpST0tpNG5uNTZRQ3dialJEMUNES0F0dmlTWEdhMjZnNlhsU0NHSmJldDFwSnR3ZEFEYUJab2lzc0tXS1FSVFZQZg?oc=5</link>
-      <guid isPermaLink="false">f002b7e9246c7adde5e572fa</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-04-26 05:40
-TP-Link launches entry-level Wi-Fi 7 gaming router Archer GE400 MSN</description>
-      <pubDate>Fri, 08 May 2026 22:36:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-08T22:36:27.034153Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-04-25T20:40:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU9EX29yeWtNT2hYWUs0ZUVMN1N6UV9oZGUtbEM5WlhtMzh1aTRHMHFubWlmTVJSVmRpUjJnZEpyRl9YTTVFNlByV2Fmc1JCUFhqWnZlRFJnUE0wZHJudXN2U0dQY0ZndGtMckpHZGFqX2xMVlhYdk9JSVRYMUFRbG9GaTYzcl9TUmRUT3dVWkFITUZ3c09zdnc2ZjhwSUxPWnpPLWtR?oc=5</link>
@@ -144,6 +130,20 @@ Xiaomi BE7200 Pro brings Wi-Fi 7 and five 2.5GbE ports for $122 — but only in 
       <pubDate>Fri, 08 May 2026 09:51:29 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-08T09:51:29.220210Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-07T17:31:42Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] If You Have Fiber Internet, It Matters What Router You Have — Here's Why - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLS1fZHZxOEFuZGpQUmR6TjZDeHZDZmN4TzNSc1VJZlhkdlE4T0w5Wk9sLXprNmdNTUxFX3BWOXBmT09jVUUzY1k5cjhSZzZmOXgtYmRTRDdBZzRsYVNPMjRqQ0tZaXRUeGVqYldDNnFZSXZBTG1OaDZIYw?oc=5</link>
+      <guid isPermaLink="false">bf13c97dbcaa4efd6779ec88</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-04 21:17
+If You Have Fiber Internet, It Matters What Router You Have — Here's Why bgr.com</description>
+      <pubDate>Sat, 09 May 2026 04:55:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-09T04:55:36.924595Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-04T12:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
