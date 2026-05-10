@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 10 May 2026 20:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:32:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage hits Auckland suburbs - RNZ</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVFlSVpYdU1BWHd2OXVCLUw1R2lDWFp5VVVDX3ZaWDAzUUdHNEQ0V2E1eGdDamJLRUZUNG9kNHVHYWhBdlNab3J2XzdqUThvMjZZbXRuUHJxSkZoQlZzekdZMVZpLWlnM056TEdOQjFjUk1aSVVnS05jQlBEbFpYdWgwOEtYUU0?oc=5</link>
-      <guid isPermaLink="false">65daff871718ab5dae7d133e</guid>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVpOQTdPbzJaV25kZ1JkRXdGZUVoajMtY2dXbzBPWWdHWUF4cHU0Nl84bzRYTTZNVkZkTmhGbFFmaXNHUmg1dW83SXJHc28wSjFVS1RMQVBnN3JCcHhTUF9pUG5kb282WUt0dGRSSldRa2ZlMFhBeVhMZ2lNbFRtaG1ReURjdXpfLW1HY0ctWHpwUQ?oc=5</link>
+      <guid isPermaLink="false">f198daced866b7e516e0e74c</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-05-11 05:12
+元記事日付: 2026-05-11 05:10
 Internet outage hits Auckland suburbs RNZ</description>
-      <pubDate>Sun, 10 May 2026 20:26:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-10T20:26:39.435958Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-10T20:12:20Z</sqm:sourcePublishedDate>
+      <pubDate>Sun, 10 May 2026 21:32:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-10T21:32:36.809601Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-10T20:10:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -27,11 +27,11 @@ Internet outage hits Auckland suburbs RNZ</description>
       <guid isPermaLink="false">a9363280acd15fcacf60d4d3</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-05-11 03:38
+元記事日付: 2026-05-11 03:37
 At least 1000 south Auckland properties hit by 'major' internet outage NZ Herald</description>
       <pubDate>Sun, 10 May 2026 20:26:39 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-10T20:26:39.435958Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-10T18:38:05Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-05-10T18:37:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
