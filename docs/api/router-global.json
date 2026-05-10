@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-10T15:12:46.836195Z",
+  "generated_at": "2026-05-10T16:07:41.267266Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,6 +75,17 @@
       "score": 11
     },
     {
+      "id": "590190f9c6ffdc9aa441912a",
+      "title": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ydy1idmlWczJNQ3RnbnNVVmcyOGVSRHVNV0NCYkJEQUZUUWphVGxsM0Q1Qzh4MHRrWmJiVGtwaXZyRnFIRnRHMk5DU2V3ZVBTUDIyQ2tyVG4tcktKeGF5SUdsZUFJZw?oc=5",
+      "summary": "Ubiquiti U7 In-Wall (U7-IW) Review: A Solid Little Wi-Fi 7 Powerhouse Dong Knows Tech",
+      "published_at": "2026-04-28T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "6a33ea2a7a6146847a4ef7d5",
       "title": "Tech Group Urges FCC to Scrap Wi-Fi Router Ban's Software Update Cutoff - PCMag",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZUX3ZpRTVjcDNIWGJHRmVGYUZESWdwLVBRZTcyZ1FjMFppeGhJVm5BN0pkay11TlA1cE91OGg5S1duNS1pamFJVnJkcnNIVFduMXZiaFlYQ0ZzSHNnQVYzWkRiTUh6bWVNTTZVTWdNNm1GVGEzOENIRFQ4Y2NyOGNUbUV6MFQyZEhtRFg2cUNtdFNVMUw0cnhCMC0wZw?oc=5",
@@ -95,17 +106,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "eb1b4d40e3aac92caa7d4d18",
-      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNldEeWk4T1hvWmpZMWh1eGlSZ0hZY3UwRDVubjZqc2llLWJrNEFmMlpCSFFzdEp1YWpaQWlYLW9SXzVidUtBYTBBc05PODNKaTlTNEdZNFBQdVoyMlNYb29FRS1fNXZKamNzUHk2b2RGbjh3ZHZFbHpDMDI4RDd3Vi1uOHZnd0tVQlpwYnpaeVJmUmZndDlkRnVOR0FkVGprTjNSeXh4MjhkWGRoMFdzSmVEUWY4VFdSc0NnZg?oc=5",
-      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly MSN",
-      "published_at": "2026-05-07T05:30:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     },
     {
       "id": "5952942ac048cebf16dc80f0",
