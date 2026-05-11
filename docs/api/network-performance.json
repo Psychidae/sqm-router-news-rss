@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-11T17:35:44.224671Z",
+  "generated_at": "2026-05-11T19:19:07.370311Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "30ced3fe2fe99fc7d06ca705",
+      "title": "Zero Latency Deploys Red Hat AI Factory with NVIDIA for Distributed Neocloud Network - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGZxdmNjUENfdnpOLTlGdXR0MjRwZzlXdFFqUHB3Z3RObENhMXR4NU5HX3B1cG4tSV9mWTR6dU93OUN3US14QldXMzN4V0p4dTJ2U05jMHo3NkZlWUJRb0ppcWlVcGJ5dFBmbmVQWS1BQTRLNmpqN01iZ05qdURnYmdNUWczNC1WejZKOWhFbXZrWmhmb1Y2NUdfM1JrS05ORnZQNGhTb21iaVVUNlROclhILWRobDZhcU51OE1teTV4bVU4Y21UcDRWbkFGeC1iZ0Fn?oc=5",
+      "summary": "Zero Latency Deploys Red Hat AI Factory with NVIDIA for Distributed Neocloud Network marketscreener.com",
+      "published_at": "2026-05-11T16:21:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a9363280acd15fcacf60d4d3",
       "title": "Around 2500 South Auckland properties hit by 'major' internet outage - NZ Herald",
@@ -83,18 +94,7 @@
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "b1028ece51350617fee12682",
-      "title": "What caused the .de internet outage - Goosed.ie",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBreTJvTTBUYWdHODRWMG9hWklELVdLVm1pWXlvaDBSdU9FMllVXzluV0ZhdUZGVzlVWXppZU5QM1pjUWdIWXhTZDJuNU5hYjMzWjRVal9Gcl8wcHhGWWhaYXV0Ykd4SVFqVEE?oc=5",
-      "summary": "What caused the .de internet outage Goosed.ie",
-      "published_at": "2026-05-05T22:57:08Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
+      "score": 6
     }
   ]
 }

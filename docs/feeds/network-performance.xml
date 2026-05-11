@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 May 2026 17:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:19:07 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Zero Latency Deploys Red Hat AI Factory with NVIDIA for Distributed Neocloud Network - marketscreener.com</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGZxdmNjUENfdnpOLTlGdXR0MjRwZzlXdFFqUHB3Z3RObENhMXR4NU5HX3B1cG4tSV9mWTR6dU93OUN3US14QldXMzN4V0p4dTJ2U05jMHo3NkZlWUJRb0ppcWlVcGJ5dFBmbmVQWS1BQTRLNmpqN01iZ05qdURnYmdNUWczNC1WejZKOWhFbXZrWmhmb1Y2NUdfM1JrS05ORnZQNGhTb21iaVVUNlROclhILWRobDZhcU51OE1teTV4bVU4Y21UcDRWbkFGeC1iZ0Fn?oc=5</link>
+      <guid isPermaLink="false">30ced3fe2fe99fc7d06ca705</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-12 01:21
+Zero Latency Deploys Red Hat AI Factory with NVIDIA for Distributed Neocloud Network marketscreener.com</description>
+      <pubDate>Mon, 11 May 2026 19:19:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-11T19:19:07.369529Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T16:21:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Around 2500 South Auckland properties hit by 'major' internet outage - NZ Herald</title>
       <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjhnV2dCTkE0TTZNTTJJZ2Y5NUpFM3gwOG5mUnB0UVZfTU85MG5fazZXblVNRlM1VUZnaUR2dXFMbVpGeFBjUS1RNmZPeGhQd3ZnSjJpQjhwWko0Nm82NnF2M0U5a1JMTFM1dGlONFE0bjlMdjhXVVZURTc4OGpEU3NFc2tqS1YwUjNmRXBReTJPLUlacVlDdGEzODJzSWF0R2ZmemFMVVllVzVKaUFtR0xBNjdubDlEN0pwbHRUZ01Vd2dnVnZtMkJxWQ?oc=5</link>
@@ -103,20 +117,6 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <sqm:firstSeenDate>2026-05-06T09:10:54.260352Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-08T17:52:22Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] What caused the .de internet outage - Goosed.ie</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBreTJvTTBUYWdHODRWMG9hWklELVdLVm1pWXlvaDBSdU9FMllVXzluV0ZhdUZGVzlVWXppZU5QM1pjUWdIWXhTZDJuNU5hYjMzWjRVal9Gcl8wcHhGWWhaYXV0Ykd4SVFqVEE?oc=5</link>
-      <guid isPermaLink="false">b1028ece51350617fee12682</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-06 07:57
-What caused the .de internet outage Goosed.ie</description>
-      <pubDate>Mon, 11 May 2026 17:35:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-11T17:35:44.223802Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-05T22:57:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>
