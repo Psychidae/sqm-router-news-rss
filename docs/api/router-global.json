@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-10T23:34:20.515277Z",
+  "generated_at": "2026-05-11T01:29:32.819786Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
-    },
-    {
-      "id": "64827a54be597cb59f31fb73",
-      "title": "Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PdE43ZEFITnhCWFRmYWpRb3JycGx0VkF1U2pJWlh5M0N0WWlldnktTFJrSU5FR2dHQVYyV092bnlQdm91VFpaYnp5cktScVROUE1RSUl1SHlwUHZYVHV3Y1JWNS05dlNPR01HNFBodDVfRVhJVXp0WGo4V2I?oc=5",
-      "summary": "Why Your Home Needs a Wi-Fi 7 Mesh Router System Yahoo Tech",
-      "published_at": "2026-05-01T17:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "5501a1771b20ea16d69eb1b7",
@@ -51,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "026820e1fc6933b255582710",
+      "title": "Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag - Gizchina.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUVZNVA5Vjh5VGJHbmJVV3VXem5CQXJURWtQYVY0SVhFT25JcXRVVU8xNmVOSXlVQUp1S2kyU1ZuOWFMMURON0stVmtLOUZBbmp5YnV2ZXZCRHZNUVBmbVRZYUZjY1ZqT0ZmT045czlOZVhwdld6MUg3dTZpUGJyWHBfU2ZlX1hMWm0zNXpKVC1yWHNneERXbTRRdWN3RUNvS0IyUUFHbHlDRmdMMzRHUVBocGdmSll0?oc=5",
+      "summary": "Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag Gizchina.com",
+      "published_at": "2026-05-07T07:05:56Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     },
     {
       "id": "7ddf0aa3c0e1f56aa3b03367",
