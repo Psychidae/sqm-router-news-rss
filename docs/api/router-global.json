@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-11T01:29:32.819786Z",
+  "generated_at": "2026-05-11T05:43:03.185562Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,28 @@
       "score": 21
     },
     {
+      "id": "e7cd313078a366165bbbad5b",
+      "title": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOG9PWGlNaTVtZzQwaDJMUThScEJQX1N2bEM0ZXJuNnRvMlc2TGphRWZZSHowVkZSdWY2bnJ1cEQ3MmV5b0cwcWdsNUplX2tkQ1FzV3hCSERtUlEtVEVPVnUwOElNZlZlYklfb1I0bFQ3MFJxVGdOdmxRMjlYUUViMGk5U3JzZWN6UEdnOXIyU1N2SjY0SGxaRTNCamt2blZfMF8wSkxPZXA4Zw?oc=5",
+      "summary": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget SonnyDickson",
+      "published_at": "2026-05-02T16:25:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "64827a54be597cb59f31fb73",
+      "title": "Why Your Home Needs a Wi-Fi 7 Mesh Router System - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PdE43ZEFITnhCWFRmYWpRb3JycGx0VkF1U2pJWlh5M0N0WWlldnktTFJrSU5FR2dHQVYyV092bnlQdm91VFpaYnp5cktScVROUE1RSUl1SHlwUHZYVHV3Y1JWNS05dlNPR01HNFBodDVfRVhJVXp0WGo4V2I?oc=5",
+      "summary": "Why Your Home Needs a Wi-Fi 7 Mesh Router System Yahoo Tech",
+      "published_at": "2026-05-01T17:30:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
       "id": "5501a1771b20ea16d69eb1b7",
       "title": "Xiaomi releases Wi-Fi 7 mesh router system internationally - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU9EX29yeWtNT2hYWUs0ZUVMN1N6UV9oZGUtbEM5WlhtMzh1aTRHMHFubWlmTVJSVmRpUjJnZEpyRl9YTTVFNlByV2Fmc1JCUFhqWnZlRFJnUE0wZHJudXN2U0dQY0ZndGtMckpHZGFqX2xMVlhYdk9JSVRYMUFRbG9GaTYzcl9TUmRUT3dVWkFITUZ3c09zdnc2ZjhwSUxPWnpPLWtR?oc=5",
@@ -31,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "5d6e4274cfdf5de3c4134f88",
+      "title": "Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcVJ3U2w3enMwZUp3d0pLSFJBUDVJdm5Hd0h3eUZKSjl1YXByQ29UeXNiN1k4LUJZWDREQVZTNVFvVTRBOU45YmFGR3VPOW1jNW00VlVMWnFyb3RtWjVrN25IQVV5czNtT0NHeFZ0QjVmQ1VxM1BSTXlacWdIeEhKOWpFeVloWDVHZTFmelV4blF1Q2xFa3UzWUJ0eG5YOUtCZWFHOENWaGFlLUNNQXN3WDdudVlHZFlEbTMzbzhEV3VCdW56MjNEYmE4bDBWbVhSazVn?oc=5",
+      "summary": "Tech group urges FCC to scrap Wi-Fi router ban's software update cutoff MSN",
+      "published_at": "2026-05-10T09:41:48Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "e911768852d5e02b515eec0f",
       "title": "ASUS RP-BE58 Review: A Sub-Gigabit Versatile AiMesh-Ready Wi-Fi 7 Extender - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZalIxZDljNFFiTHZUTGZnWWI1aWozSjNPa2EyaWY4RmpXUnh4WDhMMG0ybXJDRG40SG92aUh6MFJGck0wN01tQmkwdU5wX3F5T2dmUw?oc=5",
@@ -40,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "026820e1fc6933b255582710",
-      "title": "Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag - Gizchina.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUVZNVA5Vjh5VGJHbmJVV3VXem5CQXJURWtQYVY0SVhFT25JcXRVVU8xNmVOSXlVQUp1S2kyU1ZuOWFMMURON0stVmtLOUZBbmp5YnV2ZXZCRHZNUVBmbVRZYUZjY1ZqT0ZmT045czlOZVhwdld6MUg3dTZpUGJyWHBfU2ZlX1hMWm0zNXpKVC1yWHNneERXbTRRdWN3RUNvS0IyUUFHbHlDRmdMMzRHUVBocGdmSll0?oc=5",
-      "summary": "Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag Gizchina.com",
-      "published_at": "2026-05-07T07:05:56Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "7ddf0aa3c0e1f56aa3b03367",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 10
-    },
-    {
-      "id": "d96d5f3bc4d2f9bed9df650b",
-      "title": "Xiaomi BE7200 Pro brings Wi-Fi 7 and five 2.5GbE ports for $122 — but only in China - gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDA3N2VJNUtTVUozWnFJbTM0TzZmWnAwSHhBUG1mbW1SWkROYjlRTjNqYkVUQjhUSkh1Slh2RUh6Rmk0ZTNfSUFzci1jNDdnWEY2V2NXVEQ5RW9seU5mYmlpTkxrZ2g0WmtGWWtabkRUOVNHd1B6N3AxX2hyTEprMjdzM2JTQVNTSzhhM0lJaGxNOXpKTk9YZXYtaDdsVE1VWllVYnc2b1lHVk9IU1ZDMtIBtgFBVV95cUxPaC1ScWVfNzF4QmplNkhHQ1MzY2JIM0Rub2VSWEpSN0o1eGxnS201bElPLS13aUlwVkVyY1h1N294LVRhekp3SE52YWpLX1JiejJTTHpONzVSNTJWaTZwSWc1cThVVTJRREFKTktEVWZxaTZlTlg0S0NVTjNPd000NG9WU1V2NGFTLWRnUTdpYWQ0dVZMQTRYblJIQUF4UXpqWk9FeWdnTnphMkhJYXB1RGVZOEw0dw?oc=5",
-      "summary": "Xiaomi BE7200 Pro brings Wi-Fi 7 and five 2.5GbE ports for $122 — but only in China gagadget.com",
-      "published_at": "2026-05-07T17:31:42Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "eb1b4d40e3aac92caa7d4d18",
-      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNldEeWk4T1hvWmpZMWh1eGlSZ0hZY3UwRDVubjZqc2llLWJrNEFmMlpCSFFzdEp1YWpaQWlYLW9SXzVidUtBYTBBc05PODNKaTlTNEdZNFBQdVoyMlNYb29FRS1fNXZKamNzUHk2b2RGbjh3ZHZFbHpDMDI4RDd3Vi1uOHZnd0tVQlpwYnpaeVJmUmZndDlkRnVOR0FkVGprTjNSeXh4MjhkWGRoMFdzSmVEUWY4VFdSc0NnZg?oc=5",
-      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly MSN",
-      "published_at": "2026-05-07T05:30:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }

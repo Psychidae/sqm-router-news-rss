@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-11T01:29:33.993519Z",
+  "generated_at": "2026-05-11T05:43:04.490184Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 1,
+  "count": 2,
   "errors": [],
   "items": [
     {
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 13
+    },
+    {
+      "id": "80f8f02f31bdae6bfca9e0ac",
+      "title": "第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWE4RmlzTVMwTmRyOUlyd2Z6MTk1dm1KazVpNGtWMHJhcHlTSHdnME1WSFJMcWlnb3NILVZZeW1VVWplc0ZTbXIzdVFBaTZTWkZZZlBVOUZsYnQxODhxbWJtbWZ5WmJrSHBOS3FOa1IyLWVyZ2N0dXc0Ym05cDMwNDFyVFMwcVpkYjNrTTJLaUpRcGU1NTBycU5zWQ?oc=5",
+      "summary": "第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-05-11T04:00:24Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     }
   ]
 }
