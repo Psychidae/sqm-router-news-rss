@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 May 2026 17:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:21:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を | チバテレ＋プラス - 千葉テレビ放送</title>
@@ -74,20 +74,6 @@ VPNとADとポート、新米セキュリティー担当者が守るべき3つ�
       <pubDate>Mon, 11 May 2026 22:17:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-11T22:17:41.894321Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T22:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWE4RmlzTVMwTmRyOUlyd2Z6MTk1dm1KazVpNGtWMHJhcHlTSHdnME1WSFJMcWlnb3NILVZZeW1VVWplc0ZTbXIzdVFBaTZTWkZZZlBVOUZsYnQxODhxbWJtbWZ5WmJrSHBOS3FOa1IyLWVyZ2N0dXc0Ym05cDMwNDFyVFMwcVpkYjNrTTJLaUpRcGU1NTBycU5zWQ?oc=5</link>
-      <guid isPermaLink="false">80f8f02f31bdae6bfca9e0ac</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-11 13:00
-第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Mon, 11 May 2026 05:43:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-11T05:43:04.489703Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T04:00:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
