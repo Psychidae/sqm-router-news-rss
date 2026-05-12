@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-12T01:23:32.983233Z",
+  "generated_at": "2026-05-12T05:24:18.254264Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "57edbb9a3dd5930bd8b85bdf",
+      "title": "Is Frontier internet down? Frontier internet outage reported - Asbury Park Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJkU2p4T1cwZ2VWSDA2cGJnRHNBdWdpNlBERXNlbkVrSUJWc2RpVGRBWmJkZmxZVklCbUx0ZmZVd18xRWdGek1ocjFHaTJBQ3BQRE4wVlc4ZTV2TUc3UlFFbmVRTGo0SnlqcVZiSG01NHRNb0tGeUs4bjdkYU1NSDB3RnpaSkU1VTJXdEl0b1ZqRG12R3R6NGpldHR1TWVvbjNadl9R?oc=5",
+      "summary": "Is Frontier internet down? Frontier internet outage reported Asbury Park Press",
+      "published_at": "2026-05-11T19:59:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a9363280acd15fcacf60d4d3",
       "title": "Around 2500 South Auckland properties hit by 'major' internet outage - NZ Herald",

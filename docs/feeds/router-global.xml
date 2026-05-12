@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 May 2026 01:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:24:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -19,6 +19,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <sqm:firstSeenDate>2026-05-10T22:28:20.136766Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-06T15:19:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhOLVI5Y2w0b1dCYmpRbDhEdV9iVjdlSHg2TlRYTkk3cGJsdWJqNGpibFk5RXBtV3VfVFBnY2dJa2FZdXhUOGRHVS00d25fS2d3VVdZWFZEOGktWURSVmpLT0RLTXFURmRRUWN1Wkt6Rkw2ZlhiZkt3VjVUdzQ2NTFyZGdINXU4WXVB?oc=5</link>
+      <guid isPermaLink="false">ca03920a128fb73b3b193b1e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</description>
+      <pubDate>Tue, 12 May 2026 05:24:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-12T05:24:16.161585Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -78,6 +92,34 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Packaging &amp; Contents Tech
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnE5VzlGdTFCam9ZckI1M25aRlUtaTMwVW9EX2dRQkx1QzJXT0tEYlIwVThfdWlQdjZQbnJ1NzczNlFVWHlDYXlmMGdyZmhOazF1OGNNVTd0eXJXeFY5cFRqTDdHZ3hWUnJmYkpSbEpHU3hUdVJYcXVSbDF6bi00Q3Vkbjc4X3hhUEdN?oc=5</link>
+      <guid isPermaLink="false">5ee62422bf1aa7f10afd0339</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis TechPowerUp</description>
+      <pubDate>Tue, 12 May 2026 05:24:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-12T05:24:16.161585Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTB2Z29ROG5Xa0UySkhFQTZCdjlQbEVlM3FKR09ncUxJYV8wZWVkMk1XZnNhVXg4cVF2SWpfLTBrQTV1cElra0xXek1RcURDcDBoeGV4d2MzR01kSzY5UC0wNEg1MFV4RlF1T0pEME1pWkNFUkY1VjNmMWEycFNzQk1OUlpFRWJTbjZGLQ?oc=5</link>
+      <guid isPermaLink="false">fd952915ec1e75ba2a57ab2f</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp</description>
+      <pubDate>Tue, 12 May 2026 05:24:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-12T05:24:16.161585Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Value &amp; Conclusion - TechPowerUp</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPNW5DRGg1VkI4RjVPejE1dlN1LVJUUzY4WkdjX2psQWFuU1JMSHJxTmhISUFqTU55Z0FiWEg2X2txVTlKbmNzdmlSU2Y1alAzdlliMW05ekx3c2FSYUlHd1ZfSmhfeV92aUJCcVkzT2VOR3BVNDd6UTFidWZhVjBSZjMtcEt4VmNCZFFyaQ?oc=5</link>
       <guid isPermaLink="false">3683ccc2e389a7bb4c1da44a</guid>
@@ -92,59 +134,17 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Value &amp; Conclusion TechPo
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS RP-BE58 Review: A Sub-Gigabit Versatile AiMesh-Ready Wi-Fi 7 Extender - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZalIxZDljNFFiTHZUTGZnWWI1aWozSjNPa2EyaWY4RmpXUnh4WDhMMG0ybXJDRG40SG92aUh6MFJGck0wN01tQmkwdU5wX3F5T2dmUw?oc=5</link>
-      <guid isPermaLink="false">e911768852d5e02b515eec0f</guid>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3YxMThGX2lBWjZtQ096YW1oa2lqTHNjQ3pIODF0VHppU0JiVDBjRXRQeGlZVW9qTF9jMlFtRHlXM21HZjdsbS01aHhNZUJCaXZZeFR0OTNYMmcwNnBnd0ZGaFhiLWRQQ21rWFNBVFVsZVQtR0J2azVMOTd5VXRKZ3llREdqUEZzOEdn?oc=5</link>
+      <guid isPermaLink="false">1ae0c7a9e5de1c1fee65d4ad</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-09 06:44
-ASUS RP-BE58 Review: A Sub-Gigabit Versatile AiMesh-Ready Wi-Fi 7 Extender Dong Knows Tech</description>
-      <pubDate>Fri, 08 May 2026 22:36:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-08T22:36:27.034153Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-08T21:44:51Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview TechPowerUp</description>
+      <pubDate>Tue, 12 May 2026 05:24:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-12T05:24:16.161585Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag - Gizchina.com</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUVZNVA5Vjh5VGJHbmJVV3VXem5CQXJURWtQYVY0SVhFT25JcXRVVU8xNmVOSXlVQUp1S2kyU1ZuOWFMMURON0stVmtLOUZBbmp5YnV2ZXZCRHZNUVBmbVRZYUZjY1ZqT0ZmT045czlOZVhwdld6MUg3dTZpUGJyWHBfU2ZlX1hMWm0zNXpKVC1yWHNneERXbTRRdWN3RUNvS0IyUUFHbHlDRmdMMzRHUVBocGdmSll0?oc=5</link>
-      <guid isPermaLink="false">026820e1fc6933b255582710</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-07 16:05
-Xiaomi BE7200 Pro: Wi-Fi 7 Router With a Vertical Design and a decent price tag Gizchina.com</description>
-      <pubDate>Mon, 11 May 2026 15:34:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-11T15:34:45.342222Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-07T07:05:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes - Digital Reviews Network</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEUtQW1lMzN5YlZtS0ExaU5uWGRDSVR5UmJETmFsZ29wamxtY0x0V3NUemdsaS1zcnBNd0VyZElBVnB3d3R3QXF2YzdKWnJNeEp2SFRlQnpUYmtjZ0pFY3dqc2pHaVRxcHhTQTNheG1GWmdaeDJuOWlVOWZVM2RCaWx3WGg0RS1wbGp5aDVQRjRDMV9rT1A1NXVka2pDQTBfQ0J5MXR3?oc=5</link>
-      <guid isPermaLink="false">7ddf0aa3c0e1f56aa3b03367</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-04 07:47
-Netgear Orbi 370 Series Review (RBE373): Reliable Wi-Fi 7 Mesh for Real Homes Digital Reviews Network</description>
-      <pubDate>Sun, 03 May 2026 23:02:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-03T23:02:29.702025Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-03T22:47:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5</link>
-      <guid isPermaLink="false">23b50ffca22e89439386bf4f</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-05-01 16:00
-The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware</description>
-      <pubDate>Tue, 12 May 2026 01:23:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-12T01:23:30.761816Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-01T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
