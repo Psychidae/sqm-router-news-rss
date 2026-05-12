@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-12T12:28:08.464006Z",
+  "generated_at": "2026-05-12T15:32:20.778123Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
-    },
-    {
-      "id": "591f68cd88417dd228d03ebc",
-      "title": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYURaNTktNVJ1LURuMEc0LWRCOFJieUk2TEdwcERvMnViQU1oelVhUWpEeGFfNzJIaVRnZTdtZzRVMWRHZVNNLWdJWENkeXJOMWpvVUYzLWJwNVk3dEMxVnRBX0ttalZZU0haNFd5T1Qxd214MDZyS2w1d09QWFpKZ2NDRmhHVzhST1RSWXlzRDFRZnA5SUJF?oc=5",
-      "summary": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za",
-      "published_at": "2026-05-06T06:26:42Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "ca03920a128fb73b3b193b1e",
@@ -86,17 +75,6 @@
       "score": 14
     },
     {
-      "id": "7990179d30699ff39ddd2a66",
-      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUVzNzFlM3BTLVNzcXVOQzI4MGJDWkpwbmd4Nnd3ZDREOFhPRHZWWkhhNThDTHI0Y3pFa0FDbVVnZTlWcWltRmRZT3JuaV83anJDaHlMVGpOTDdsWHVFa3pmY1RCcjRUUDhlU21YTWlTbXhWNi1vWFZ4SllWenh2Z0h4OFUwZnFiLTM0?oc=5",
-      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout TechPowerUp",
-      "published_at": "2026-05-11T18:19:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "3f2f496a2d5ad5750b9b8eca",
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Packaging & Contents - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHpvUm05YXJPdU41OVAxTkcxeWx1Ry1fVUpuVFlqU1pBTGMteFc4NHlIZ1cxREtESmViZVlrU0h4V3B3MTJVcUV5LXdvTkwwdmZtTUw3LTZnNHlUVEpPbTRzSmhEZHlnVzBObzZWRVNzY1R2Y0FoeHM2RE5STG5WSjRteXZDamVCOE04?oc=5",
@@ -112,6 +90,28 @@
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Performance - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTB2Z29ROG5Xa0UySkhFQTZCdjlQbEVlM3FKR09ncUxJYV8wZWVkMk1XZnNhVXg4cVF2SWpfLTBrQTV1cElra0xXek1RcURDcDBoeGV4d2MzR01kSzY5UC0wNEg1MFV4RlF1T0pEME1pWkNFUkY1VjNmMWEycFNzQk1OUlpFRWJTbjZGLQ?oc=5",
       "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Performance TechPowerUp",
+      "published_at": "2026-05-11T18:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "7990179d30699ff39ddd2a66",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUVzNzFlM3BTLVNzcXVOQzI4MGJDWkpwbmd4Nnd3ZDREOFhPRHZWWkhhNThDTHI0Y3pFa0FDbVVnZTlWcWltRmRZT3JuaV83anJDaHlMVGpOTDdsWHVFa3pmY1RCcjRUUDhlU21YTWlTbXhWNi1vWFZ4SllWenh2Z0h4OFUwZnFiLTM0?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout TechPowerUp",
+      "published_at": "2026-05-11T18:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "1ae0c7a9e5de1c1fee65d4ad",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3YxMThGX2lBWjZtQ096YW1oa2lqTHNjQ3pIODF0VHppU0JiVDBjRXRQeGlZVW9qTF9jMlFtRHlXM21HZjdsbS01aHhNZUJCaXZZeFR0OTNYMmcwNnBnd0ZGaFhiLWRQQ21rWFNBVFVsZVQtR0J2azVMOTd5VXRKZ3llREdqUEZzOEdn?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview TechPowerUp",
       "published_at": "2026-05-11T18:19:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
