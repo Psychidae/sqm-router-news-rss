@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 May 2026 19:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 21:06:20 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -19,6 +19,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <sqm:firstSeenDate>2026-05-10T22:28:20.136766Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-06T15:19:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] 8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5</link>
+      <guid isPermaLink="false">ded44b48542cf18712e82870</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-13 05:02
+8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com</description>
+      <pubDate>Tue, 12 May 2026 21:06:20 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-12T21:06:20.369791Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-12T20:02:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -129,20 +143,6 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Performance TechPowerUp</desc
 ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout TechPowerUp</description>
       <pubDate>Mon, 11 May 2026 23:39:18 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-11T23:39:18.666740Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3YxMThGX2lBWjZtQ096YW1oa2lqTHNjQ3pIODF0VHppU0JiVDBjRXRQeGlZVW9qTF9jMlFtRHlXM21HZjdsbS01aHhNZUJCaXZZeFR0OTNYMmcwNnBnd0ZGaFhiLWRQQ21rWFNBVFVsZVQtR0J2azVMOTd5VXRKZ3llREdqUEZzOEdn?oc=5</link>
-      <guid isPermaLink="false">1ae0c7a9e5de1c1fee65d4ad</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-12 03:19
-ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - BIOS Overview TechPowerUp</description>
-      <pubDate>Tue, 12 May 2026 19:21:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-12T19:21:54.510405Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
