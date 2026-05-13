@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-13T21:43:51.798203Z",
+  "generated_at": "2026-05-13T22:49:08.807476Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -13,7 +13,7 @@
       "title": "バッファロー、低温対応Wi-Fi 7アクセスポイントを2026年秋発売予定。1536台接続可能な法人向けラインアップを拡充 - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZGZXaV96R2x1VWlsM1FRbVR6U2drR0RUeUY5cU11c244akx1VWZlQ1ZMVUljaUdHVkpVb1JoSFR0blN2RW9NcENQRk1CX3diN2JEYTZVRzVuLUdfclV2ZTZ4OGRVV1BaWnhVZUtqb2VYdlRFSF9QTnBKMndfYU0?oc=5",
       "summary": "バッファロー、低温対応Wi-Fi 7アクセスポイントを2026年秋発売予定。1536台接続可能な法人向けラインアップを拡充 Yahoo!ニュース",
-      "published_at": "2026-05-12T21:03:29Z",
+      "published_at": "2026-05-12T21:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
-    },
-    {
-      "id": "b2e0d9143fc4317d1fd2a42d",
-      "title": "バッファローのWi-Fi 6E対応無線LANルーターや10GbE対応スイッチングハブがお得！AmazonスマイルSALE - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15bEFCVUhrVmhvQnMwZm9aTlJBMDV0WDR4dEdZbzVMYVctTXcwNXVGeDYwX3RKdm9RN29vdktyUDdaamNwWjlXT1VQbkw4ejFWSTk5RTVCZV9ub250RkV1bGhJeFd6T2gza1JxS0ZVd0poQQ?oc=5",
-      "summary": "バッファローのWi-Fi 6E対応無線LANルーターや10GbE対応スイッチングハブがお得！AmazonスマイルSALE AKIBA PC Hotline!",
-      "published_at": "2026-05-02T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
     },
     {
       "id": "e7477ccb883ebd04945d87d2",
@@ -90,6 +79,17 @@
       "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FT0N4UWczRGVaenFyM2NtWmV0eVdkbkR1bHBuVHN5UHBENmN5SWlfdE9ldHJmSkVnN2lNTnBPOEFaVDhrZXdFQ1J4WkxqOW1obU1PQi1sVFF4RmJqOG9lS2MwNUM3LUNXWG03ZmpQRndkaHFoZWIxQjNGQzRkSUU?oc=5",
       "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） Yahoo!ニュース",
+      "published_at": "2026-05-04T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "0e0d1dbddc4b2256727c246e",
+      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMHFpSDlrMnc2LV9TNGhkaV9NU19QZ3Y4RTkxWno3Y1I0cDBGVVZlbmZNSzlIZW1ETDdUdWhpTWtCVm9zdUVPMzFzb1o3dWd1MG5YOVFkeU43QzRaQ3JFZE1sLXJPOVFXeTl6eUdydk8xMFFJeFBKTzBXalh4dEpud1BKLWhUY3dSbDZPMnlB?oc=5",
+      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4 (BCN) Yahoo!ニュース",
       "published_at": "2026-05-04T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
