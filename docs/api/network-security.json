@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-13T08:21:51.498104Z",
+  "generated_at": "2026-05-13T11:14:42.547576Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -75,22 +75,22 @@
       "score": 12
     },
     {
-      "id": "8acf242061277c4d47c2d719",
-      "title": "VPNとADとポート、新米セキュリティー担当者が守るべき3つを教えよう（4ページ目） - 日経クロステック Active",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91ZGc1ZkFTd3Y5Q2d2aWtUSmlZbUVhSFhRZUJrcmVKQXFNWUVhOFVDSmJTRlJ1Sm1GTVBGN29LcVVsR0xTdEp5cTlhbEN5SjdtN0lFRXZWbXMwdHdwRXRqaW5zOVJXMlhCYjVDVC11VQ?oc=5",
-      "summary": "VPNとADとポート、新米セキュリティー担当者が守るべき3つを教えよう（4ページ目） 日経クロステック Active",
-      "published_at": "2026-05-10T20:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "71a60a0ef46dc1f5aa0713d8",
       "title": "米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFNsbkYzblJfbUItNVNqaHZOMFhPeUtzU1F1Y01sLUhKaXlmMnNPOG1xQWhfRkVESVU4T1pJZ0ltcUNCZ0NsekJaMW5kekJCX0NvYkdUZnU3eVhjbnVWZFFPOE5Edmd2ZWc?oc=5",
       "summary": "米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” ASCII.jp",
       "published_at": "2026-05-11T22:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "80f8f02f31bdae6bfca9e0ac",
+      "title": "第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWE4RmlzTVMwTmRyOUlyd2Z6MTk1dm1KazVpNGtWMHJhcHlTSHdnME1WSFJMcWlnb3NILVZZeW1VVWplc0ZTbXIzdVFBaTZTWkZZZlBVOUZsYnQxODhxbWJtbWZ5WmJrSHBOS3FOa1IyLWVyZ2N0dXc0Ym05cDMwNDFyVFMwcVpkYjNrTTJLaUpRcGU1NTBycU5zWQ?oc=5",
+      "summary": "第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-05-11T04:00:24Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
