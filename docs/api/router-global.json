@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-13T13:29:00.815388Z",
+  "generated_at": "2026-05-13T16:08:46.780956Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,7 +28,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 21
+      "score": 20
     },
     {
       "id": "534108aeda5158d8baa30e89",
@@ -108,10 +108,10 @@
       "score": 13
     },
     {
-      "id": "3f2f496a2d5ad5750b9b8eca",
-      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Packaging & Contents - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHpvUm05YXJPdU41OVAxTkcxeWx1Ry1fVUpuVFlqU1pBTGMteFc4NHlIZ1cxREtESmViZVlrU0h4V3B3MTJVcUV5LXdvTkwwdmZtTUw3LTZnNHlUVEpPbTRzSmhEZHlnVzBObzZWRVNzY1R2Y0FoeHM2RE5STG5WSjRteXZDamVCOE04?oc=5",
-      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Packaging & Contents TechPowerUp",
+      "id": "7990179d30699ff39ddd2a66",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUVzNzFlM3BTLVNzcXVOQzI4MGJDWkpwbmd4Nnd3ZDREOFhPRHZWWkhhNThDTHI0Y3pFa0FDbVVnZTlWcWltRmRZT3JuaV83anJDaHlMVGpOTDdsWHVFa3pmY1RCcjRUUDhlU21YTWlTbXhWNi1vWFZ4SllWenh2Z0h4OFUwZnFiLTM0?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout TechPowerUp",
       "published_at": "2026-05-11T18:19:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
