@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 16:32:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 18:22:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] RTÉ faces major internet outage this evening - Irish Examiner</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LbnRpNy11aEJOTGtWRzFWdWpTTlRISl90UFRwLTFqd0l3VU1rVUdIWnhmbU1SYURReXV3LU11N2YwOHliaFRwLXNFTTFiSFIyT1A3QmhjNHhkNXJqd19mMHVSYw?oc=5</link>
+      <guid isPermaLink="false">7c33870d3c3c0b900b9a1ebf</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-15 02:25
+RTÉ faces major internet outage this evening Irish Examiner</description>
+      <pubDate>Thu, 14 May 2026 18:22:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-14T18:22:47.426256Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-14T17:25:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network - varindia.com</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmhxM3VGc0VXd1JfOUt2QUVhUE5iZC0xUENRSHRuY1lGMmxMemtoemhDcGZGTVpUN0dZeGxBVk5rQUJzYlJZU1VkM2ZzRXEtNlIwWlVxRmpVNkxhdl9ubnZ4d2tYX21pbzBoNThpT1JYcVpmTzFEVW53UG9tNVlUSGlwbGVibEUzVURmaXM2UVB6d0ZSa1ZqakdvSU1pZ2JyY3dzN01ZanNGSXhLMmp1ekcxNUs?oc=5</link>
