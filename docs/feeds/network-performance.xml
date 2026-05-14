@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 04:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:19:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network - varindia.com</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmhxM3VGc0VXd1JfOUt2QUVhUE5iZC0xUENRSHRuY1lGMmxMemtoemhDcGZGTVpUN0dZeGxBVk5rQUJzYlJZU1VkM2ZzRXEtNlIwWlVxRmpVNkxhdl9ubnZ4d2tYX21pbzBoNThpT1JYcVpmTzFEVW53UG9tNVlUSGlwbGVibEUzVURmaXM2UVB6d0ZSa1ZqakdvSU1pZ2JyY3dzN01ZanNGSXhLMmp1ekcxNUs?oc=5</link>
+      <guid isPermaLink="false">00f7f81e3588b27248bf51fd</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-14 15:11
+Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network varindia.com</description>
+      <pubDate>Thu, 14 May 2026 07:19:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-14T07:19:45.668795Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-14T06:11:34Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Is Frontier internet down? Frontier internet outage reported - Asbury Park Press</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJkU2p4T1cwZ2VWSDA2cGJnRHNBdWdpNlBERXNlbkVrSUJWc2RpVGRBWmJkZmxZVklCbUx0ZmZVd18xRWdGek1ocjFHaTJBQ3BQRE4wVlc4ZTV2TUc3UlFFbmVRTGo0SnlqcVZiSG01NHRNb0tGeUs4bjdkYU1NSDB3RnpaSkU1VTJXdEl0b1ZqRG12R3R6NGpldHR1TWVvbjNadl9R?oc=5</link>
@@ -37,14 +51,14 @@ Around 2500 South Auckland properties hit by 'major' internet outage NZ Herald</
     </item>
     <item>
       <title>[性能・障害] Internet outage hits Auckland suburbs - RNZ</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVpOQTdPbzJaV25kZ1JkRXdGZUVoajMtY2dXbzBPWWdHWUF4cHU0Nl84bzRYTTZNVkZkTmhGbFFmaXNHUmg1dW83SXJHc28wSjFVS1RMQVBnN3JCcHhTUF9pUG5kb282WUt0dGRSSldRa2ZlMFhBeVhMZ2lNbFRtaG1ReURjdXpfLW1HY0ctWHpwUQ?oc=5</link>
-      <guid isPermaLink="false">f198daced866b7e516e0e74c</guid>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGVTRk1jLWdIWUpWQjlicW4wVDRjTEREWVBuZEZEcVkzb2JUU0FkTjhHOFVjbkxoSHY0eEdDSVQ4MjQwMjNqY1JwUHZFdnc4T3NJS0kzUHBwTGNpc3JHaGRfU3RtVE5BYzNSUksyRkdTV0RTRkZtSFNuRXR0ZmFucw?oc=5</link>
+      <guid isPermaLink="false">66ead775099956f452c7ea18</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-05-11 05:10
 Internet outage hits Auckland suburbs RNZ</description>
-      <pubDate>Thu, 14 May 2026 00:14:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-14T00:14:05.537348Z</sqm:firstSeenDate>
+      <pubDate>Thu, 14 May 2026 07:19:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-14T07:19:45.668795Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-10T20:10:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>

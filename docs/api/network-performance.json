@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-14T04:12:18.041089Z",
+  "generated_at": "2026-05-14T07:19:45.669646Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "00f7f81e3588b27248bf51fd",
+      "title": "Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network - varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmhxM3VGc0VXd1JfOUt2QUVhUE5iZC0xUENRSHRuY1lGMmxMemtoemhDcGZGTVpUN0dZeGxBVk5rQUJzYlJZU1VkM2ZzRXEtNlIwWlVxRmpVNkxhdl9ubnZ4d2tYX21pbzBoNThpT1JYcVpmTzFEVW53UG9tNVlUSGlwbGVibEUzVURmaXM2UVB6d0ZSa1ZqakdvSU1pZ2JyY3dzN01ZanNGSXhLMmp1ekcxNUs?oc=5",
+      "summary": "Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network varindia.com",
+      "published_at": "2026-05-14T06:11:34Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "57edbb9a3dd5930bd8b85bdf",
       "title": "Is Frontier internet down? Frontier internet outage reported - Asbury Park Press",
@@ -31,9 +42,9 @@
       "score": 7
     },
     {
-      "id": "f198daced866b7e516e0e74c",
+      "id": "66ead775099956f452c7ea18",
       "title": "Internet outage hits Auckland suburbs - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVpOQTdPbzJaV25kZ1JkRXdGZUVoajMtY2dXbzBPWWdHWUF4cHU0Nl84bzRYTTZNVkZkTmhGbFFmaXNHUmg1dW83SXJHc28wSjFVS1RMQVBnN3JCcHhTUF9pUG5kb282WUt0dGRSSldRa2ZlMFhBeVhMZ2lNbFRtaG1ReURjdXpfLW1HY0ctWHpwUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGVTRk1jLWdIWUpWQjlicW4wVDRjTEREWVBuZEZEcVkzb2JUU0FkTjhHOFVjbkxoSHY0eEdDSVQ4MjQwMjNqY1JwUHZFdnc4T3NJS0kzUHBwTGNpc3JHaGRfU3RtVE5BYzNSUksyRkdTV0RTRkZtSFNuRXR0ZmFucw?oc=5",
       "summary": "Internet outage hits Auckland suburbs RNZ",
       "published_at": "2026-05-10T20:10:40Z",
       "source": "Google News Global: network performance",
