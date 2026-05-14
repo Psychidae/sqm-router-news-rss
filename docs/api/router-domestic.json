@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-14T20:18:21.650936Z",
+  "generated_at": "2026-05-14T21:48:33.208644Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "5606156bd749a1fa2793ae1d",
+      "title": "混雑しない6GHz帯と、海外でも使える5Gバンドに対応。さらに有線LANでホームルーターとしても使える多機能すぎなモバイルWi-Fiルーター TP-Link M8550[Sponsored] - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Uc3ZEN0xBbXJkdE5LSTV1dmJLQ1RMVW1QN25GTEZiRWNaVXk5dkVIbU96Q0VmWTdMYXN4UndpWDdsUElUa3AzQTVzR3dpelZVeWxfZlVmUlcwQUZ0ekhUYVVBdTY1U3otNno4UzROb0FyTmRCbHI0?oc=5",
+      "summary": "混雑しない6GHz帯と、海外でも使える5Gバンドに対応。さらに有線LANでホームルーターとしても使える多機能すぎなモバイルWi-Fiルーター TP-Link M8550[Sponsored] INTERNET Watch",
+      "published_at": "2026-05-14T21:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
     {
       "id": "8614a0fee18d7c79dc5f2200",
       "title": "バッファロー、低温対応Wi-Fi 7アクセスポイントを2026年秋発売予定。1536台接続可能な法人向けラインアップを拡充 - Yahoo!ニュース",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 11
-    },
-    {
-      "id": "24237482989542f41318ccda",
-      "title": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FT0N4UWczRGVaenFyM2NtWmV0eVdkbkR1bHBuVHN5UHBENmN5SWlfdE9ldHJmSkVnN2lNTnBPOEFaVDhrZXdFQ1J4WkxqOW1obU1PQi1sVFF4RmJqOG9lS2MwNUM3LUNXWG03ZmpQRndkaHFoZWIxQjNGQzRkSUU?oc=5",
-      "summary": "バッファローが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/5/4（BCN） Yahoo!ニュース",
-      "published_at": "2026-05-04T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
     }
   ]
 }
