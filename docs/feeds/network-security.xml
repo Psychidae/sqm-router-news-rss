@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 00:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 04:12:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性への対応が行われる - マイナビニュース</title>
@@ -18,48 +18,6 @@ Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性へ�
       <pubDate>Wed, 13 May 2026 08:21:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-13T08:21:51.497192Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-13T05:13:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQTng3MlVoZzNndEpjNF9JXzYyZDhwNzhBV1BQQTIzTndfSzZrYW9DRmZfejVmWERvbWhlbklSQWhUejZWejl3c2lwWnRtUzZUdFZ4U3ZTNElRc2dFSzNRdFpmSWRMQmJCVjhMRk9pc0oxNkpSQWhfNFJRQlJCTHd4U3NuWUZ0cVd5YzdOSGpR?oc=5</link>
-      <guid isPermaLink="false">b7123007dfe00815248031f9</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 13:05
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) Yahoo!ニュース</description>
-      <pubDate>Thu, 14 May 2026 00:14:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-14T00:14:04.325956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T04:05:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVW9HOTBvSnFsdUxnWm1wYzdWSUtKQ3h6RGxxT1dta3ROQ0d0ZDBqa3R3Z1VwbDhMVmY1LVRxOFoxNWptUVNzWDE4cDQ1d1JibHppR2dnTkhJS0diLUg5WlZhLWt1UXA4RjlhRHQzMXAwX29ZTlFzTVZGN3ZBWkE?oc=5</link>
-      <guid isPermaLink="false">67584451eaaa2d32889f1633</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 13:05
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） Yahoo!ニュース</description>
-      <pubDate>Wed, 13 May 2026 05:33:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-13T05:33:28.478892Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T04:05:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を | チバテレ＋プラス - 千葉テレビ放送</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kVkxLZHM4UlQ0Zi16c1d6UXJMSDA5UjBzcHFjV1k1NWdTdzJKWjJ4QnVldWZaSnNhYkhBeHlBajFjZTQwRnlfcGhBMWtZQ1A5LU14UWpiVW9yQzVpUWRJ0gFkQVVfeXFMUFR0Q3ctdldGazQ0NE1LQjRoNE4tQjRlb0VZYTdUTmJXbG8yelV6a255bFA1V05vUmdTZWxKczAwVFRhWGQ5N25fWlEySldaa1R5ZFRPM0dRVFJqVENFOU02S1cyag?oc=5</link>
-      <guid isPermaLink="false">821ce4bc6dd0aa8ba3a3ecf1</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-12 16:42
-エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を | チバテレ＋プラス 千葉テレビ放送</description>
-      <pubDate>Thu, 14 May 2026 00:14:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-14T00:14:04.325956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-12T07:42:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -106,6 +64,20 @@ Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性へ�
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] 「GUARDIANWALL MailSuite」に深刻な脆弱性、修正パッチ適用を クラウド版は修正済み - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFB4bkhJZWZhM1ZvRk05cUp2cmM5SFhqbDhTdl9WQS01aF8zWl9fV2dvbU1LSllyRzBVOUhPRTZJQndGbzZpdU9pSmplQmhVSTR2MHNjNWpuZ0luSHMwXzlfQl9SNnhSNlJUMVVN?oc=5</link>
+      <guid isPermaLink="false">4e9f76ed3319ffc0e69fe04b</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-13 17:02
+「GUARDIANWALL MailSuite」に深刻な脆弱性、修正パッチ適用を クラウド版は修正済み INTERNET Watch</description>
+      <pubDate>Thu, 14 May 2026 04:12:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-14T04:12:16.990467Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-13T08:02:09Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] 米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFNsbkYzblJfbUItNVNqaHZOMFhPeUtzU1F1Y01sLUhKaXlmMnNPOG1xQWhfRkVESVU4T1pJZ0ltcUNCZ0NsekJaMW5kekJCX0NvYkdUZnU3eVhjbnVWZFFPOE5Edmd2ZWc?oc=5</link>
       <guid isPermaLink="false">71a60a0ef46dc1f5aa0713d8</guid>
@@ -116,20 +88,6 @@ Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性へ�
       <pubDate>Mon, 11 May 2026 22:17:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-11T22:17:41.894321Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T22:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQUWE4RmlzTVMwTmRyOUlyd2Z6MTk1dm1KazVpNGtWMHJhcHlTSHdnME1WSFJMcWlnb3NILVZZeW1VVWplc0ZTbXIzdVFBaTZTWkZZZlBVOUZsYnQxODhxbWJtbWZ5WmJrSHBOS3FOa1IyLWVyZ2N0dXc0Ym05cDMwNDFyVFMwcVpkYjNrTTJLaUpRcGU1NTBycU5zWQ?oc=5</link>
-      <guid isPermaLink="false">80f8f02f31bdae6bfca9e0ac</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-11 13:00
-第一工業、ランサムウェアによるサイバー攻撃で従業員と取引先の情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Thu, 14 May 2026 00:14:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-14T00:14:04.325956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T04:00:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
