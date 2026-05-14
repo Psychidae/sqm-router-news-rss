@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-13T22:49:09.922145Z",
+  "generated_at": "2026-05-14T00:14:03.303187Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
-    },
-    {
-      "id": "e7cd313078a366165bbbad5b",
-      "title": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOG9PWGlNaTVtZzQwaDJMUThScEJQX1N2bEM0ZXJuNnRvMlc2TGphRWZZSHowVkZSdWY2bnJ1cEQ3MmV5b0cwcWdsNUplX2tkQ1FzV3hCSERtUlEtVEVPVnUwOElNZlZlYklfb1I0bFQ3MFJxVGdOdmxRMjlYUUViMGk5U3JzZWN6UEdnOXIyU1N2SjY0SGxaRTNCamt2blZfMF8wSkxPZXA4Zw?oc=5",
-      "summary": "Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget SonnyDickson",
-      "published_at": "2026-05-02T16:25:31Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "ded44b48542cf18712e82870",
@@ -112,6 +101,17 @@
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - SSD Performance & Temperatures - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSExBWVp3UFJTSE1ONGdMMUhTTHhJZl9NeXJIam90R0NQRmxTYlFaejVTUnNucWZMZWptRE1DX0tDU0VLVlZtLVZnOUR4dzAybGRGMllyNXpiNGp5V0lEa2hFTXk1aFhJNzl4VmhzYml4U3BaOWNZRmF6LXFYNWxlS0c0czVIVFg1TXVV?oc=5",
       "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - SSD Performance & Temperatures TechPowerUp",
+      "published_at": "2026-05-11T18:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "7990179d30699ff39ddd2a66",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUVzNzFlM3BTLVNzcXVOQzI4MGJDWkpwbmd4Nnd3ZDREOFhPRHZWWkhhNThDTHI0Y3pFa0FDbVVnZTlWcWltRmRZT3JuaV83anJDaHlMVGpOTDdsWHVFa3pmY1RCcjRUUDhlU21YTWlTbXhWNi1vWFZ4SllWenh2Z0h4OFUwZnFiLTM0?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Layout TechPowerUp",
       "published_at": "2026-05-11T18:19:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
