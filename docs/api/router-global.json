@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-15T12:06:12.919137Z",
+  "generated_at": "2026-05-15T14:33:44.962307Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "2621ee32133e0a361d03541d",
+      "title": "The TP-Link Archer GE550 BE9300 Tri-Band Wi-Fi 7 Gaming Router is a worthy premium option for gamers - The AU Review",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemVrMzVBUUgzbW5Wbk5PSjNZa0phUE5JSWF0Zi14SGtyOXJmTlg3VWplNUpoX19SSnZDeGlfM1dZVVM1bVRNU1FZbmQ1ZmpHb0dNYTNEUTJRRktMVG1jOW5NR09MU0MyS0FvcDhKeXB0cW43WUVwa1Z6NDBNZGcxTVpRRnl4dWpaM0FFTFRGTVlqUzdnTUdBSW9MU1k1LUtsalVnMHZNX0xGXzZIZlE?oc=5",
+      "summary": "The TP-Link Archer GE550 BE9300 Tri-Band Wi-Fi 7 Gaming Router is a worthy premium option for gamers The AU Review",
+      "published_at": "2026-05-12T21:34:59Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 22
+    },
     {
       "id": "1d5ae5f0990f78466646df47",
       "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
@@ -29,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
-    },
-    {
-      "id": "1aa28d6de0a00cf26f9da612",
-      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUtfZ2ZBa3ZJUHE5enRETnk2TmdvVXZCWGppME5vbTVwNWo1MldYV1Z5VFdlS0xDSjIzNTZxeEhEUUFFVVZwNDI3WnRrSTU1QkNXUkVudFVWNVBwRXNyZ0UxUmtYSjV2VzNPZzZjUzhWR080Z2hueC1qZEp1ZGpRaHhSakFBTWNlLUppdk9vQ0VKRkpqWE9od1lzOURVNW9MTGY4eXB3THh3LXBEY2xfMEw0Xy1ha3JsMjlybldGM0NfdXRvWlp2ZW43MlV6SjVTbkZ2OXh0RkRWQQ?oc=5",
-      "summary": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it MSN",
-      "published_at": "2026-05-13T14:04:38Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
     },
     {
       "id": "534108aeda5158d8baa30e89",
