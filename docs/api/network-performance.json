@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-15T16:24:14.957569Z",
+  "generated_at": "2026-05-15T18:11:12.367966Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LbnRpNy11aEJOTGtWRzFWdWpTTlRISl90UFRwLTFqd0l3VU1rVUdIWnhmbU1SYURReXV3LU11N2YwOHliaFRwLXNFTTFiSFIyT1A3QmhjNHhkNXJqd19mMHVSYw?oc=5",
       "summary": "RTÉ hit by major internet outage Irish Examiner",
       "published_at": "2026-05-14T17:25:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "de28af10bdeaab3e06187e0f",
-      "title": "Iran faces 1,800-hour internet outage amid 76-day blockade - Operativ Məlumat Mərkəzi",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNieFBwMDdDOUhyQVhBM1BoQ1hYeGNpLVN6TWxDcFJJcVVZQ3BaNGd0VVg4Qk9GUXZvM0xTUWozN1k4aEcyel8tMkQ4NXdvRV9IVTRqRmtPbTg3d0dwdXpOZjN0RXBla3RHZFplb3VnOWJUV1pCMS14azFRaks4aXdZSlBqYmZFb2xncnF3aHFLWmJZMGhhTQ?oc=5",
-      "summary": "Iran faces 1,800-hour internet outage amid 76-day blockade Operativ Məlumat Mərkəzi",
-      "published_at": "2026-05-14T09:32:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -64,15 +53,37 @@
       "score": 7
     },
     {
-      "id": "f198daced866b7e516e0e74c",
+      "id": "66ead775099956f452c7ea18",
       "title": "Internet outage hits Auckland suburbs - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVpOQTdPbzJaV25kZ1JkRXdGZUVoajMtY2dXbzBPWWdHWUF4cHU0Nl84bzRYTTZNVkZkTmhGbFFmaXNHUmg1dW83SXJHc28wSjFVS1RMQVBnN3JCcHhTUF9pUG5kb282WUt0dGRSSldRa2ZlMFhBeVhMZ2lNbFRtaG1ReURjdXpfLW1HY0ctWHpwUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGVTRk1jLWdIWUpWQjlicW4wVDRjTEREWVBuZEZEcVkzb2JUU0FkTjhHOFVjbkxoSHY0eEdDSVQ4MjQwMjNqY1JwUHZFdnc4T3NJS0kzUHBwTGNpc3JHaGRfU3RtVE5BYzNSUksyRkdTV0RTRkZtSFNuRXR0ZmFucw?oc=5",
       "summary": "Internet outage hits Auckland suburbs RNZ",
       "published_at": "2026-05-10T20:10:40Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "580c31b1ed682b1012fb8f1f",
+      "title": "'Nation held hostage': Global protests planned as Iran's internet outage reaches nearly 70 days - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGU25nb2RSRm83Yl8yeXZoSEpoWkdVa1RubkRRb01nbm8ydlp2NzVENEFPVlJjU0E4dzFPSzRIZTZJUlBNVjFJcER4cVY0bGpJUE5HVGU1T0R0MlZQ?oc=5",
+      "summary": "'Nation held hostage': Global protests planned as Iran's internet outage reaches nearly 70 days The Jerusalem Post",
+      "published_at": "2026-05-09T19:47:25Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "331eb1d6ccb795be5695f30f",
+      "title": "【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年5月】 - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1jTDF2Ykk2WDNZN0RNeV9xWVZ4dmpzOHZLN2ZhV2JuVTRuZE51Sms0ZDYyTWVDdVI5amtaY2FR?oc=5",
+      "summary": "【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年5月】 マイベスト",
+      "published_at": "2026-05-12T15:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     },
     {
       "id": "a4ee1d0b5a3ed021f71fe6a9",
