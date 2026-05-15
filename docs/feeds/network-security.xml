@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 15 May 2026 00:08:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 04:15:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性への対応が行われる - マイナビニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3bTRCYmF5aEF6N1NHclhtaDBGT0l1ZDhPN3NmbGZ5N3VJOUxqaGhKOTJVLXVGOGZfQUEzUGhhT29iaUozNFJ6RERjLWhoZUJTMWJyc1RRZkFhcWh4?oc=5</link>
-      <guid isPermaLink="false">a37da52d117c2bb3aef17270</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 14:13
-Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性への対応が行われる マイナビニュース</description>
-      <pubDate>Wed, 13 May 2026 08:21:51 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-13T08:21:51.497192Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T05:13:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVW9HOTBvSnFsdUxnWm1wYzdWSUtKQ3h6RGxxT1dta3ROQ0d0ZDBqa3R3Z1VwbDhMVmY1LVRxOFoxNWptUVNzWDE4cDQ1d1JibHppR2dnTkhJS0diLUg5WlZhLWt1UXA4RjlhRHQzMXAwX29ZTlFzTVZGN3ZBWkE?oc=5</link>
@@ -87,6 +73,20 @@ Microsoft、2026年5月の月例更新 - CVEベースで 137件の脆弱性へ�
 エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を（INTERNET Watch） Yahoo!ニュース</description>
       <pubDate>Wed, 13 May 2026 05:33:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-13T05:33:28.478892Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-12T07:01:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を (INTERNET Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmtCRElPLXJaa2lObGJTWDBOXzZLOXQ3Zy1yNDNSUzJRTndrb2I2RUhnSzEzUGlzTGdBbWVGT0JyOV9XRU56d0hOSkgtVmxYVi1rV3pEY19UWjlhN05GU2x1aGhpalFiWkM0TnhsaVlpVVh3LXg3REVEUmszZmU5aElDVkVVck01ZVlYQ213?oc=5</link>
+      <guid isPermaLink="false">11b8b6977a923e064a19119f</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-12 16:01
+エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を (INTERNET Watch) Yahoo!ニュース</description>
+      <pubDate>Fri, 15 May 2026 04:15:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-15T04:15:44.320924Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-12T07:01:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
