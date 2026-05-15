@@ -1,24 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-14T23:10:58.172008Z",
+  "generated_at": "2026-05-15T00:08:38.444077Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "de28af10bdeaab3e06187e0f",
-      "title": "Iran faces 1,800-hour internet outage amid 76-day blockade - Operativ Məlumat Mərkəzi",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXNieFBwMDdDOUhyQVhBM1BoQ1hYeGNpLVN6TWxDcFJJcVVZQ3BaNGd0VVg4Qk9GUXZvM0xTUWozN1k4aEcyel8tMkQ4NXdvRV9IVTRqRmtPbTg3d0dwdXpOZjN0RXBla3RHZFplb3VnOWJUV1pCMS14azFRaks4aXdZSlBqYmZFb2xncnF3aHFLWmJZMGhhTQ?oc=5",
-      "summary": "Iran faces 1,800-hour internet outage amid 76-day blockade Operativ Məlumat Mərkəzi",
-      "published_at": "2026-05-14T18:55:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
     {
       "id": "7c33870d3c3c0b900b9a1ebf",
       "title": "RTÉ hit by major internet outage this evening - Irish Examiner",
@@ -58,6 +47,17 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjhnV2dCTkE0TTZNTTJJZ2Y5NUpFM3gwOG5mUnB0UVZfTU85MG5fazZXblVNRlM1VUZnaUR2dXFMbVpGeFBjUS1RNmZPeGhQd3ZnSjJpQjhwWko0Nm82NnF2M0U5a1JMTFM1dGlONFE0bjlMdjhXVVZURTc4OGpEU3NFc2tqS1YwUjNmRXBReTJPLUlacVlDdGEzODJzSWF0R2ZmemFMVVllVzVKaUFtR0xBNjdubDlEN0pwbHRUZ01Vd2dnVnZtMkJxWQ?oc=5",
       "summary": "Around 2500 South Auckland properties hit by 'major' internet outage NZ Herald",
       "published_at": "2026-05-11T00:10:12Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "65daff871718ab5dae7d133e",
+      "title": "Internet outage hits Auckland suburbs - RNZ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVFlSVpYdU1BWHd2OXVCLUw1R2lDWFp5VVVDX3ZaWDAzUUdHNEQ0V2E1eGdDamJLRUZUNG9kNHVHYWhBdlNab3J2XzdqUThvMjZZbXRuUHJxSkZoQlZzekdZMVZpLWlnM056TEdOQjFjUk1aSVVnS05jQlBEbFpYdWgwOEtYUU0?oc=5",
+      "summary": "Internet outage hits Auckland suburbs RNZ",
+      "published_at": "2026-05-10T20:10:40Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
