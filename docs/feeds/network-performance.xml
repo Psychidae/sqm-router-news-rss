@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 12:43:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 14:09:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] RTÉ hit by major internet outage - Irish Examiner</title>
@@ -32,6 +32,20 @@ Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud net
       <pubDate>Thu, 14 May 2026 07:19:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-14T07:19:45.668795Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-14T06:11:34Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Is Frontier internet down? Frontier internet outage reported - Asbury Park Press</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJkU2p4T1cwZ2VWSDA2cGJnRHNBdWdpNlBERXNlbkVrSUJWc2RpVGRBWmJkZmxZVklCbUx0ZmZVd18xRWdGek1ocjFHaTJBQ3BQRE4wVlc4ZTV2TUc3UlFFbmVRTGo0SnlqcVZiSG01NHRNb0tGeUs4bjdkYU1NSDB3RnpaSkU1VTJXdEl0b1ZqRG12R3R6NGpldHR1TWVvbjNadl9R?oc=5</link>
+      <guid isPermaLink="false">57edbb9a3dd5930bd8b85bdf</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-12 04:59
+Is Frontier internet down? Frontier internet outage reported Asbury Park Press</description>
+      <pubDate>Sat, 16 May 2026 14:09:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-16T14:09:02.810131Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T19:59:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
