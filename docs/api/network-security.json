@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-16T14:09:01.689519Z",
+  "generated_at": "2026-05-16T15:15:03.274499Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
-    {
-      "id": "b7123007dfe00815248031f9",
-      "title": "「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTng3MlVoZzNndEpjNF9JXzYyZDhwNzhBV1BQQTIzTndfSzZrYW9DRmZfejVmWERvbWhlbklSQWhUejZWejl3c2lwWnRtUzZUdFZ4U3ZTNElRc2dFSzNRdFpmSWRMQmJCVjhMRk9pc0oxNkpSQWhfNFJRQlJCTHd4U3NuWUZ0cVd5YzdOSGpR?oc=5",
-      "summary": "「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) Yahoo!ニュース",
-      "published_at": "2026-05-13T04:05:08Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
     {
       "id": "67584451eaaa2d32889f1633",
       "title": "「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） - Yahoo!ニュース",
@@ -64,17 +53,6 @@
       "score": 11
     },
     {
-      "id": "11b8b6977a923e064a19119f",
-      "title": "エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmtCRElPLXJaa2lObGJTWDBOXzZLOXQ3Zy1yNDNSUzJRTndrb2I2RUhnSzEzUGlzTGdBbWVGT0JyOV9XRU56d0hOSkgtVmxYVi1rV3pEY19UWjlhN05GU2x1aGhpalFiWkM0TnhsaVlpVVh3LXg3REVEUmszZmU5aElDVkVVck01ZVlYQ213?oc=5",
-      "summary": "エレコムのWi-Fiルーターなど21製品に複数の脆弱性、最新版ファームウェアへの更新を (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-05-12T07:01:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
       "id": "e0e809fd1e47e0412ce3efbe",
       "title": "エレコムWi-Fiルーターに脆弱性、最新ファームウェア更新を呼びかけ - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pM1FkMl84UW5GTzBNc29MNlExcjJzSjJRR2UzWWQxR1FIclZrSTNiLUNWb09lWVQ1eU03UVFoZEN2RVBsZEs3SzZOQkN0OGV0N1VKaA?oc=5",
@@ -113,6 +91,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZHhCMmhGYlg5Q3BOaER4c0N3bnZwNnJPb1VfTUNZZWtBc3ptdHBkeWJMalc5Y3RRSHQ2U3hTLUx1YXd4V1BzQUZBQlVqODBZZFFOUnNlck16OTdjUEZobXVxb0lQdS1OMVFjbmNzcEhrQQ?oc=5",
       "summary": "PAN-OSに深刻な脆弱性「CVE-2026-0300」発覚 root権限奪取の恐れ：悪用確認済みのため要注意 ITmedia",
       "published_at": "2026-05-12T22:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
+    {
+      "id": "71a60a0ef46dc1f5aa0713d8",
+      "title": "米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFNsbkYzblJfbUItNVNqaHZOMFhPeUtzU1F1Y01sLUhKaXlmMnNPOG1xQWhfRkVESVU4T1pJZ0ltcUNCZ0NsekJaMW5kekJCX0NvYkdUZnU3eVhjbnVWZFFPOE5Edmd2ZWc?oc=5",
+      "summary": "米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” ASCII.jp",
+      "published_at": "2026-05-11T22:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",

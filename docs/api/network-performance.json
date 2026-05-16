@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-16T14:09:02.810960Z",
+  "generated_at": "2026-05-16T15:15:04.294105Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -18,28 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "00f7f81e3588b27248bf51fd",
-      "title": "Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network - varindia.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmhxM3VGc0VXd1JfOUt2QUVhUE5iZC0xUENRSHRuY1lGMmxMemtoemhDcGZGTVpUN0dZeGxBVk5rQUJzYlJZU1VkM2ZzRXEtNlIwWlVxRmpVNkxhdl9ubnZ4d2tYX21pbzBoNThpT1JYcVpmTzFEVW53UG9tNVlUSGlwbGVibEUzVURmaXM2UVB6d0ZSa1ZqakdvSU1pZ2JyY3dzN01ZanNGSXhLMmp1ekcxNUs?oc=5",
-      "summary": "Zero Latency deploys Red Hat AI Factory with NVIDIA for distributed neocloud network varindia.com",
-      "published_at": "2026-05-14T06:11:34Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "57edbb9a3dd5930bd8b85bdf",
-      "title": "Is Frontier internet down? Frontier internet outage reported - Asbury Park Press",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJkU2p4T1cwZ2VWSDA2cGJnRHNBdWdpNlBERXNlbkVrSUJWc2RpVGRBWmJkZmxZVklCbUx0ZmZVd18xRWdGek1ocjFHaTJBQ3BQRE4wVlc4ZTV2TUc3UlFFbmVRTGo0SnlqcVZiSG01NHRNb0tGeUs4bjdkYU1NSDB3RnpaSkU1VTJXdEl0b1ZqRG12R3R6NGpldHR1TWVvbjNadl9R?oc=5",
-      "summary": "Is Frontier internet down? Frontier internet outage reported Asbury Park Press",
-      "published_at": "2026-05-11T19:59:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "a9363280acd15fcacf60d4d3",
@@ -69,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1jTDF2Ykk2WDNZN0RNeV9xWVZ4dmpzOHZLN2ZhV2JuVTRuZE51Sms0ZDYyTWVDdVI5amtaY2FR?oc=5",
       "summary": "【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年5月】 マイベスト",
       "published_at": "2026-05-12T15:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "a4ee1d0b5a3ed021f71fe6a9",
-      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
-      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
-      "published_at": "2026-05-11T03:56:57Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
