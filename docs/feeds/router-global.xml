@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 16 May 2026 05:00:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:25:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] The TP-Link Archer GE550 BE9300 Tri-Band Wi-Fi 7 Gaming Router is a worthy premium option for gamers - The AU Review</title>
@@ -64,16 +64,16 @@ I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget - SonnyDickson</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOG9PWGlNaTVtZzQwaDJMUThScEJQX1N2bEM0ZXJuNnRvMlc2TGphRWZZSHowVkZSdWY2bnJ1cEQ3MmV5b0cwcWdsNUplX2tkQ1FzV3hCSERtUlEtVEVPVnUwOElNZlZlYklfb1I0bFQ3MFJxVGdOdmxRMjlYUUViMGk5U3JzZWN6UEdnOXIyU1N2SjY0SGxaRTNCamt2blZfMF8wSkxPZXA4Zw?oc=5</link>
-      <guid isPermaLink="false">e7cd313078a366165bbbad5b</guid>
+      <title>[海外ルーターニュース] Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5</link>
+      <guid isPermaLink="false">abe2efa8923bdb5f472d8c2f</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-03 01:25
-Review: Asus RTBE58U (Go) router – Wi-Fi 7 Performance on a Wi-Fi 6 Budget SonnyDickson</description>
-      <pubDate>Sat, 16 May 2026 05:00:19 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-16T05:00:19.274610Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-02T16:25:31Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-14 08:02
+Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point Dong Knows Tech</description>
+      <pubDate>Fri, 15 May 2026 18:11:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-15T18:11:10.008012Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-13T23:02:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -89,20 +89,6 @@ Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowd
       <sqm:firstSeenDate>2026-05-15T07:33:09.412961Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-15T07:22:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5</link>
-      <guid isPermaLink="false">abe2efa8923bdb5f472d8c2f</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-14 08:02
-Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point Dong Knows Tech</description>
-      <pubDate>Fri, 15 May 2026 18:11:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-15T18:11:10.008012Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T23:02:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -143,6 +129,20 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</d
 ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp</description>
       <pubDate>Tue, 12 May 2026 01:23:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-12T01:23:30.761816Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBwWm5idHNiSndBclpOMzUzbnNiR3FSTmYxNXM5YkI0X1U3OXRBR21xVjBWOHVIdlhGUl9Id2w2TWlMeGIyRkxzNWZNRUZCTldfa09TQ1R6NTZZdXBOTkczMlhwWkZnenpwWHJuSEhpRG1iVVBZUUM5NDhCNlhnUHRtQQ?oc=5</link>
+      <guid isPermaLink="false">716630442e650c7b138caf99</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp</description>
+      <pubDate>Sat, 16 May 2026 07:25:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-16T07:25:10.949353Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
