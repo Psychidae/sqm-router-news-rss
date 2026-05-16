@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-16T16:09:35.378643Z",
+  "generated_at": "2026-05-16T17:13:20.611482Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pM1FkMl84UW5GTzBNc29MNlExcjJzSjJRR2UzWWQxR1FIclZrSTNiLUNWb09lWVQ1eU03UVFoZEN2RVBsZEs3SzZOQkN0OGV0N1VKaA?oc=5",
       "summary": "エレコムWi-Fiルーターに脆弱性、最新ファームウェア更新を呼びかけ ASCII.jp",
       "published_at": "2026-05-12T05:30:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "8acf242061277c4d47c2d719",
-      "title": "VPNとADとポート、新米セキュリティー担当者が守るべき3つを教えよう（4ページ目） - 日経クロステック Active",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91ZGc1ZkFTd3Y5Q2d2aWtUSmlZbUVhSFhRZUJrcmVKQXFNWUVhOFVDSmJTRlJ1Sm1GTVBGN29LcVVsR0xTdEp5cTlhbEN5SjdtN0lFRXZWbXMwdHdwRXRqaW5zOVJXMlhCYjVDVC11VQ?oc=5",
-      "summary": "VPNとADとポート、新米セキュリティー担当者が守るべき3つを教えよう（4ページ目） 日経クロステック Active",
-      "published_at": "2026-05-10T20:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
