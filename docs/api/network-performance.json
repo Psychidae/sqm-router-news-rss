@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-16T19:22:25.434340Z",
+  "generated_at": "2026-05-16T20:26:43.980045Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,9 +31,9 @@
       "score": 7
     },
     {
-      "id": "65daff871718ab5dae7d133e",
+      "id": "66ead775099956f452c7ea18",
       "title": "Internet outage hits Auckland suburbs - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVFlSVpYdU1BWHd2OXVCLUw1R2lDWFp5VVVDX3ZaWDAzUUdHNEQ0V2E1eGdDamJLRUZUNG9kNHVHYWhBdlNab3J2XzdqUThvMjZZbXRuUHJxSkZoQlZzekdZMVZpLWlnM056TEdOQjFjUk1aSVVnS05jQlBEbFpYdWgwOEtYUU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOGVTRk1jLWdIWUpWQjlicW4wVDRjTEREWVBuZEZEcVkzb2JUU0FkTjhHOFVjbkxoSHY0eEdDSVQ4MjQwMjNqY1JwUHZFdnc4T3NJS0kzUHBwTGNpc3JHaGRfU3RtVE5BYzNSUksyRkdTV0RTRkZtSFNuRXR0ZmFucw?oc=5",
       "summary": "Internet outage hits Auckland suburbs RNZ",
       "published_at": "2026-05-10T20:10:40Z",
       "source": "Google News Global: network performance",
