@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-16T18:05:46.700788Z",
+  "generated_at": "2026-05-16T19:22:23.401642Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 17
     },
     {
-      "id": "abe2efa8923bdb5f472d8c2f",
-      "title": "Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5",
-      "summary": "Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point Dong Knows Tech",
-      "published_at": "2026-05-13T23:02:40Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "da1209dd1e6f7411fab2dff4",
       "title": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) - CNX Software",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm90cjVWZi1LcFFFTmtGVFVPdzdNOU44U2ctMmhJcVpocWdyYXBaOTNiSEtOWnpNS1VSLXlPRUxySVh5OW44UHVzZ3NBOVRGdGJNcy1xVi04VVJjamFEcV96dFZBd0NDZnVheGl2REJJblAtaUc3Q0hkdEo0Z1AyZDdRQ25RWmllOTVFakFHU3g5dFlnRlpBelZnRnlaZkwxSy1ELTlETXNuMUJS0gG0AUFVX3lxTFBnTlJHZHl1VEthRHl4MWtaUWZVZFQ4QUR2TlVsc29kcjlXU3pVRUJsWXJUN2k4Z0ZGRHROckhhNWNyTWJUMmppbEVHMTdrdVIxYUlCa1ZDU1pCc2dqWXFNN0E1X2l4M2xMbWprZU5qY1FJcEtmQ0U4RUJEN0cwYU9MaVdqWV9OUVFYSUU2cldsRkNCLUNZd0w0dW45a3NWRXU5T3JzWS1OaG5UUTRDb2cxdW94dw?oc=5",
@@ -112,6 +101,17 @@
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBwWm5idHNiSndBclpOMzUzbnNiR3FSTmYxNXM5YkI0X1U3OXRBR21xVjBWOHVIdlhGUl9Id2w2TWlMeGIyRkxzNWZNRUZCTldfa09TQ1R6NTZZdXBOTkczMlhwWkZnenpwWHJuSEhpRG1iVVBZUUM5NDhCNlhnUHRtQQ?oc=5",
       "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp",
+      "published_at": "2026-05-11T18:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "5ee62422bf1aa7f10afd0339",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnE5VzlGdTFCam9ZckI1M25aRlUtaTMwVW9EX2dRQkx1QzJXT0tEYlIwVThfdWlQdjZQbnJ1NzczNlFVWHlDYXlmMGdyZmhOazF1OGNNVTd0eXJXeFY5cFRqTDdHZ3hWUnJmYkpSbEpHU3hUdVJYcXVSbDF6bi00Q3Vkbjc4X3hhUEdN?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis TechPowerUp",
       "published_at": "2026-05-11T18:19:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
