@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 17 May 2026 20:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 22:35:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQTng3MlVoZzNndEpjNF9JXzYyZDhwNzhBV1BQQTIzTndfSzZrYW9DRmZfejVmWERvbWhlbklSQWhUejZWejl3c2lwWnRtUzZUdFZ4U3ZTNElRc2dFSzNRdFpmSWRMQmJCVjhMRk9pc0oxNkpSQWhfNFJRQlJCTHd4U3NuWUZ0cVd5YzdOSGpR?oc=5</link>
+      <guid isPermaLink="false">b7123007dfe00815248031f9</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-13 13:05
+「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) Yahoo!ニュース</description>
+      <pubDate>Sun, 17 May 2026 22:35:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-17T22:35:04.434892Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-13T04:05:08Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVW9HOTBvSnFsdUxnWm1wYzdWSUtKQ3h6RGxxT1dta3ROQ0d0ZDBqa3R3Z1VwbDhMVmY1LVRxOFoxNWptUVNzWDE4cDQ1d1JibHppR2dnTkhJS0diLUg5WlZhLWt1UXA4RjlhRHQzMXAwX29ZTlFzTVZGN3ZBWkE?oc=5</link>
@@ -74,20 +88,6 @@
       <pubDate>Sat, 16 May 2026 19:22:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-16T19:22:24.386557Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-12T05:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Android対応セキュリティソフトのおすすめ人気ランキング【スマホのウイルス対策に！2026年5月】 - マイベスト</title>
-      <link>https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rTzV3dldhcE9zLWJ6by1OTVk1MEJ4Unp0cFU4ZDMxLVI4LVh0UUphVWFkTERkMXZRRS1zazZB?oc=5</link>
-      <guid isPermaLink="false">c00b6eb429062965a82ccf03</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-15 00:00
-Android対応セキュリティソフトのおすすめ人気ランキング【スマホのウイルス対策に！2026年5月】 マイベスト</description>
-      <pubDate>Sun, 17 May 2026 20:29:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-17T20:29:03.342737Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-14T15:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
