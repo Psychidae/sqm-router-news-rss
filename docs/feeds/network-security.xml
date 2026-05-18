@@ -5,19 +5,33 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 18 May 2026 01:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 05:56:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] 「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9Hb3p6TnQ4Z0k2RFVQUzNkWXBqRTRlMm9vUmVGRlNZU2RkUktCZVNQUGlTZ1JwRExqUXdVeXFmaFloV0syc1p6dlJUclh1d3BmMFZGeDdKNGNkbWROMFgxbzR3emxrRURuYWxmX08tUnJVM0IyZC1weC03OA?oc=5</link>
-      <guid isPermaLink="false">6806ebc5304c9cfab84c0a3a</guid>
+      <title>[セキュリティ] 「蟻の一穴」となるリモートアクセスVPNの脆弱性 ZTNA/SASEはなぜ必要か？ (1/2) - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WZndiU2JZNDRMQzY3ZXYtYzgwZTZPRmRQWFpkRWpBMGJYeDVtRk9ER0ZwRlctb2hJVGlmQ1FOUUNiRkVDR2pteXRUVmZBRldQMUxOMw?oc=5</link>
+      <guid isPermaLink="false">83507470a22d4e4d29b743d6</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-05-18 08:22
-「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ au Webポータル</description>
-      <pubDate>Sun, 17 May 2026 23:39:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-17T23:39:50.331703Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-17T23:22:28Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-18 13:00
+「蟻の一穴」となるリモートアクセスVPNの脆弱性 ZTNA/SASEはなぜ必要か？ (1/2) ASCII.jp</description>
+      <pubDate>Mon, 18 May 2026 05:56:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-18T05:56:15.170969Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T04:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1KRkhlVEF5QmtGYzUwQ3lvU08zSnJGZlFoRm96TlhZRnExVnpxamFPeWtzTlVDa3J2V1hWQmI2QlJNTUZZSU1LTlA4clVqbFd2ektxUGJ0YlB4NkVWcksxM0wzZUlxMXRZUjcxS09BMFpvSDYwdUJkbWZFVmlsMWM?oc=5</link>
+      <guid isPermaLink="false">160c3c0b4137a8196b7d8778</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-18 11:30
+Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Yahoo!ニュース</description>
+      <pubDate>Mon, 18 May 2026 05:56:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-18T05:56:15.170969Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T02:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -31,6 +45,20 @@
 「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ CNET Japan</description>
       <pubDate>Mon, 18 May 2026 01:34:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-18T01:34:32.211304Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-17T23:09:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ - au Webポータル</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9Hb3p6TnQ4Z0k2RFVQUzNkWXBqRTRlMm9vUmVGRlNZU2RkUktCZVNQUGlTZ1JwRExqUXdVeXFmaFloV0syc1p6dlJUclh1d3BmMFZGeDdKNGNkbWROMFgxbzR3emxrRURuYWxmX08tUnJVM0IyZC1weC03OA?oc=5</link>
+      <guid isPermaLink="false">6806ebc5304c9cfab84c0a3a</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-18 08:09
+「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ au Webポータル</description>
+      <pubDate>Sun, 17 May 2026 23:39:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-17T23:39:50.331703Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-17T23:09:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
@@ -116,20 +144,6 @@
       <pubDate>Thu, 14 May 2026 04:12:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-14T04:12:16.990467Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-13T08:02:09Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE05OFNsbkYzblJfbUItNVNqaHZOMFhPeUtzU1F1Y01sLUhKaXlmMnNPOG1xQWhfRkVESVU4T1pJZ0ltcUNCZ0NsekJaMW5kekJCX0NvYkdUZnU3eVhjbnVWZFFPOE5Edmd2ZWc?oc=5</link>
-      <guid isPermaLink="false">71a60a0ef46dc1f5aa0713d8</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-12 07:00
-米国、海外製ルーター禁止 中国系TP-Linkに“異常なレベルの脆弱性” ASCII.jp</description>
-      <pubDate>Sat, 16 May 2026 15:15:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-16T15:15:03.273558Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T22:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
