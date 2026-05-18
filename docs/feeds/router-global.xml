@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 18 May 2026 21:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:17:58 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -59,20 +59,6 @@ TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance ov
 I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it ZDNET</description>
       <pubDate>Wed, 13 May 2026 05:33:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-13T05:33:27.509792Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T01:03:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUtfZ2ZBa3ZJUHE5enRETnk2TmdvVXZCWGppME5vbTVwNWo1MldYV1Z5VFdlS0xDSjIzNTZxeEhEUUFFVVZwNDI3WnRrSTU1QkNXUkVudFVWNVBwRXNyZ0UxUmtYSjV2VzNPZzZjUzhWR080Z2hueC1qZEp1ZGpRaHhSakFBTWNlLUppdk9vQ0VKRkpqWE9od1lzOURVNW9MTGY4eXB3THh3LXBEY2xfMEw0Xy1ha3JsMjlybldGM0NfdXRvWlp2ZW43MlV6SjVTbkZ2OXh0RkRWQQ?oc=5</link>
-      <guid isPermaLink="false">1aa28d6de0a00cf26f9da612</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-13 10:03
-I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it MSN</description>
-      <pubDate>Mon, 18 May 2026 20:43:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-18T20:43:44.675560Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-13T01:03:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
@@ -145,6 +131,20 @@ Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowd
       <sqm:firstSeenDate>2026-05-18T19:01:35.415545Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-15T07:22:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhOLVI5Y2w0b1dCYmpRbDhEdV9iVjdlSHg2TlRYTkk3cGJsdWJqNGpibFk5RXBtV3VfVFBnY2dJa2FZdXhUOGRHVS00d25fS2d3VVdZWFZEOGktWURSVmpLT0RLTXFURmRRUWN1Wkt6Rkw2ZlhiZkt3VjVUdzQ2NTFyZGdINXU4WXVB?oc=5</link>
+      <guid isPermaLink="false">ca03920a128fb73b3b193b1e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-12 03:19
+ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</description>
+      <pubDate>Mon, 18 May 2026 23:17:58 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-18T23:17:58.022833Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
