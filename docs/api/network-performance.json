@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-18T14:07:23.619753Z",
+  "generated_at": "2026-05-18T17:10:55.154693Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "ebd0eb7058bbe7b2bc257320",
+      "title": "Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity - Charter Communications",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGs0MDZ0R3Y2U0JSNTF5RFpGTWE5NUhTay1IUmZtWWlWbldRd0VxM3dqTWdzbHVFZmh5YjFrUUZ6N1lSYTZxZGx6cTdFd2Y5TlAtR2ZfVFNaTkdyNVNKYklNN0RpQmdWWHQ4ZnRPOVdqTzBGRnhfYm85bll4eVNobXQzSElDWFhBaS13?oc=5",
+      "summary": "Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity Charter Communications",
+      "published_at": "2026-05-18T14:54:10Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a4ee1d0b5a3ed021f71fe6a9",
       "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
@@ -25,17 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LbnRpNy11aEJOTGtWRzFWdWpTTlRISl90UFRwLTFqd0l3VU1rVUdIWnhmbU1SYURReXV3LU11N2YwOHliaFRwLXNFTTFiSFIyT1A3QmhjNHhkNXJqd19mMHVSYw?oc=5",
       "summary": "RTÉ hit by major internet outage Irish Examiner",
       "published_at": "2026-05-14T17:25:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "57edbb9a3dd5930bd8b85bdf",
-      "title": "Is Frontier internet down? Frontier internet outage reported - Asbury Park Press",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEJkU2p4T1cwZ2VWSDA2cGJnRHNBdWdpNlBERXNlbkVrSUJWc2RpVGRBWmJkZmxZVklCbUx0ZmZVd18xRWdGek1ocjFHaTJBQ3BQRE4wVlc4ZTV2TUc3UlFFbmVRTGo0SnlqcVZiSG01NHRNb0tGeUs4bjdkYU1NSDB3RnpaSkU1VTJXdEl0b1ZqRG12R3R6NGpldHR1TWVvbjNadl9R?oc=5",
-      "summary": "Is Frontier internet down? Frontier internet outage reported Asbury Park Press",
-      "published_at": "2026-05-11T19:59:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

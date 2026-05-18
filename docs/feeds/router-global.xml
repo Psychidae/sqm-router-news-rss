@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 18 May 2026 14:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:10:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -64,6 +64,34 @@ I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - Gizmochina</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0h2MFFJaURDWnN4ZWZwUEIzU1NqV2ZZaFZSR3NiZjlfa2Y5aGZLcVR4ZlU5MEQ0LVkxMUp4bUI2NHZjaWYxeDFNVEpNMkEyb3F4c2l0MzE2ZHduSkR5cG5yZ2ZoLVZyQTEyLXFKMU1RTThjTDZ3U09UQk9yTnRaZGZabG10dDdVR094bFd0ZUNFbzBTYjRGQUtNMHB2TFQ1djV5alRB?oc=5</link>
+      <guid isPermaLink="false">b368b2d2cb353c17cbd693a3</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-19 01:39
+ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports Gizmochina</description>
+      <pubDate>Mon, 18 May 2026 17:10:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-18T17:10:52.889004Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T16:39:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports &amp; mesh support - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZks1TmUzZTB3MGhYNW02aGtTUlZtaGwyaEs0X09Wc0V2dktGVWNBaW1tN09uWTllWGpsVDhUVlVyN2VrOXZFSXJvRzZQbFJFbUlGZDl5c2FXaURGb2NuVDNTMGg0YWVkczRwTHVlSGtRdUNoNmhybnhkYWxOZGx4MVJFbWx6Ul90U1FmeUNaa1Etam1rTXpCem8tbnZ4cEQ0OEVPVFowcDBnV2NOWTFVaW1wZlB4dDYtWl9BWnZPblVhMnJZR2FCZkwzT2xvbUFTY0E?oc=5</link>
+      <guid isPermaLink="false">f2d47a092c8e88b9dd5e4c8f</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-16 04:00
+ZTE launches Nebula BE3600 Pro+ Wi-Fi 7 router with dual 2.5G ports &amp; mesh support MSN</description>
+      <pubDate>Mon, 18 May 2026 17:10:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-18T17:10:52.889004Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-15T19:00:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point - Dong Knows Tech</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5</link>
       <guid isPermaLink="false">abe2efa8923bdb5f472d8c2f</guid>
@@ -115,34 +143,6 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</d
 ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp</description>
       <pubDate>Sat, 16 May 2026 07:25:10 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-16T07:25:10.949353Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnE5VzlGdTFCam9ZckI1M25aRlUtaTMwVW9EX2dRQkx1QzJXT0tEYlIwVThfdWlQdjZQbnJ1NzczNlFVWHlDYXlmMGdyZmhOazF1OGNNVTd0eXJXeFY5cFRqTDdHZ3hWUnJmYkpSbEpHU3hUdVJYcXVSbDF6bi00Q3Vkbjc4X3hhUEdN?oc=5</link>
-      <guid isPermaLink="false">5ee62422bf1aa7f10afd0339</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-12 03:19
-ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Component Analysis TechPowerUp</description>
-      <pubDate>Mon, 18 May 2026 10:39:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-18T10:39:38.562139Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - SSD Performance &amp; Temperatures - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSExBWVp3UFJTSE1ONGdMMUhTTHhJZl9NeXJIam90R0NQRmxTYlFaejVTUnNucWZMZWptRE1DX0tDU0VLVlZtLVZnOUR4dzAybGRGMllyNXpiNGp5V0lEa2hFTXk1aFhJNzl4VmhzYml4U3BaOWNZRmF6LXFYNWxlS0c0czVIVFg1TXVV?oc=5</link>
-      <guid isPermaLink="false">eb7b59195a117cef8cc169b8</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-12 03:19
-ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - SSD Performance &amp; Temperatures TechPowerUp</description>
-      <pubDate>Mon, 18 May 2026 10:39:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-18T10:39:38.562139Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T18:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
