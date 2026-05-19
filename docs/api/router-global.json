@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-19T01:33:18.959067Z",
+  "generated_at": "2026-05-19T05:50:09.132271Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 14
     },
     {
+      "id": "160cab4eda8e6cca94ddaae3",
+      "title": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN2ltRlpJeEQ5dWh3aE1yYWN1a3ZuTW9mZk5FczJKZS01N0cyV0pBNEZ6R2tHZ2dvWHIzWUtsYmtZVlBjS3ExVkpoMDVmVm9GbFVYS0hZUXhOLTBzSUljeFV4Z0llZ1UwYUhpRUhzMXJ5N0cwTnNzQ1VVdWE2R3AzcXQ5WXlCVmFyckE?oc=5",
+      "summary": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 AOL.com",
+      "published_at": "2026-05-17T17:21:44Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "23b50ffca22e89439386bf4f",
       "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
@@ -104,17 +115,6 @@
       "published_at": "2026-05-15T07:22:59Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "ca03920a128fb73b3b193b1e",
-      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhOLVI5Y2w0b1dCYmpRbDhEdV9iVjdlSHg2TlRYTkk3cGJsdWJqNGpibFk5RXBtV3VfVFBnY2dJa2FZdXhUOGRHVS00d25fS2d3VVdZWFZEOGktWURSVmpLT0RLTXFURmRRUWN1Wkt6Rkw2ZlhiZkt3VjVUdzQ2NTFyZGdINXU4WXVB?oc=5",
-      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp",
-      "published_at": "2026-05-11T18:19:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }

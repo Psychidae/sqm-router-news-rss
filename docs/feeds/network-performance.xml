@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 May 2026 01:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 05:50:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity - Charter Communications</title>
@@ -22,17 +22,31 @@ Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connec
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
-      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <title>[性能・障害] スペクトラムが超低遅延インターネットを開始、高速リアルタイム接続を実現 - Moomoo</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjFaOS1XcjE4WGhsLWlkZlAxU2gtVWxTQWxEMkdlRUl5ZnR4STBtay1HZS0wV1VmY1lWQ0M1c1k5aHBlb0JNa2JzZnEzV1ZSQUZyaWxoUGZ5REJRRU80dThWbm5ESXo2NFhmaFBJbG56S21reHoyajV2UW1KSnJ4OVI2TlVxTGtwc1hxcHg5YlE3eS1tLVJ1cjBIVG9ydWd0eGFIdDFDRU5RdUxCaFdQdGJ0bkdmQTlv?oc=5</link>
+      <guid isPermaLink="false">95fa64cd04b21c81ca952b8d</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-05-16 14:32
-KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
-      <pubDate>Sun, 17 May 2026 12:38:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-17T12:38:38.926410Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-16T05:32:53Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-18 23:30
+スペクトラムが超低遅延インターネットを開始、高速リアルタイム接続を実現 Moomoo</description>
+      <pubDate>Tue, 19 May 2026 05:50:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-19T05:50:11.143753Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T14:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Could there ever be a worldwide internet outage? - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNV09BMXBqbnRzX2xieGZFX3NKbkhnQjNUbFBzQXRnSGE4eDkzQkxtQXZvQmIyR2FiNzg2YTBuRmp4UUJ6dmtIdWxDX3lJN3B5RklSdU52b19ScGhieVdXQ2x1ZHBYeVIxLXlKXzFTNWNjMTFPNXBCY0l0Qmc4MlY1U0F1WldLQk5zRjB0TlJGWnRPX2o3TGppUEUySU52ejRDNWhFLXNwWXBQOXZmUm5FeEdDNEllRzQ?oc=5</link>
+      <guid isPermaLink="false">b119df6431085eb07e9bb045</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-18 14:41
+Could there ever be a worldwide internet outage? MSN</description>
+      <pubDate>Tue, 19 May 2026 05:50:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-19T05:50:11.143753Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T05:41:03Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -47,6 +61,20 @@ RTÉ hit by major internet outage Irish Examiner</description>
       <sqm:firstSeenDate>2026-05-14T18:22:47.426256Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-14T17:25:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-05-16 14:32
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Sun, 17 May 2026 12:38:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-17T12:38:38.926410Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-16T05:32:53Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
