@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-19T21:59:28.402571Z",
+  "generated_at": "2026-05-19T23:20:58.620702Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -69,8 +69,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
       "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware",
       "published_at": "2026-05-16T00:47:27Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
@@ -84,17 +84,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "da1209dd1e6f7411fab2dff4",
-      "title": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) - CNX Software",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm90cjVWZi1LcFFFTmtGVFVPdzdNOU44U2ctMmhJcVpocWdyYXBaOTNiSEtOWnpNS1VSLXlPRUxySVh5OW44UHVzZ3NBOVRGdGJNcy1xVi04VVJjamFEcV96dFZBd0NDZnVheGl2REJJblAtaUc3Q0hkdEo0Z1AyZDdRQ25RWmllOTVFakFHU3g5dFlnRlpBelZnRnlaZkwxSy1ELTlETXNuMUJS0gG0AUFVX3lxTFBnTlJHZHl1VEthRHl4MWtaUWZVZFQ4QUR2TlVsc29kcjlXU3pVRUJsWXJUN2k4Z0ZGRHROckhhNWNyTWJUMmppbEVHMTdrdVIxYUlCa1ZDU1pCc2dqWXFNN0E1X2l4M2xMbWprZU5qY1FJcEtmQ0U4RUJEN0cwYU9MaVdqWV9OUVFYSUU2cldsRkNCLUNZd0w0dW45a3NWRXU5T3JzWS1OaG5UUTRDb2cxdW94dw?oc=5",
-      "summary": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) CNX Software",
-      "published_at": "2026-05-15T07:22:59Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     },
     {
       "id": "ded44b48542cf18712e82870",
@@ -112,6 +101,17 @@
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmx6UmpWRlJUYncwZTk4NXNmZEZ6RkRTekw5dlMtZXJSQVVRN0hhSEY2YzREa2lvbjdhMHVTS2stU19NRGFzZFdoT3dZNnRCMjZ6bGJTT3BScmJhYm93YkpRYkVtQ1dGdHFSSWVaX29RbmZFRFVsMTlKa29KaU5DWGVNd2Jfa2ZQWWlmQg?oc=5",
       "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp",
+      "published_at": "2026-05-11T18:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "716630442e650c7b138caf99",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBwWm5idHNiSndBclpOMzUzbnNiR3FSTmYxNXM5YkI0X1U3OXRBR21xVjBWOHVIdlhGUl9Id2w2TWlMeGIyRkxzNWZNRUZCTldfa09TQ1R6NTZZdXBOTkczMlhwWkZnenpwWHJuSEhpRG1iVVBZUUM5NDhCNlhnUHRtQQ?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp",
       "published_at": "2026-05-11T18:19:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
