@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-19T16:40:00.238517Z",
+  "generated_at": "2026-05-19T18:25:52.605882Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 17
     },
     {
-      "id": "591f68cd88417dd228d03ebc",
-      "title": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router - nag.co.za",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYURaNTktNVJ1LURuMEc0LWRCOFJieUk2TEdwcERvMnViQU1oelVhUWpEeGFfNzJIaVRnZTdtZzRVMWRHZVNNLWdJWENkeXJOMWpvVUYzLWJwNVk3dEMxVnRBX0ttalZZU0haNFd5T1Qxd214MDZyS2w1d09QWFpKZ2NDRmhHVzhST1RSWXlzRDFRZnA5SUJF?oc=5",
-      "summary": "Asus ROG Rapture GT-BE98 Review: The Ultimate Gaming Router nag.co.za",
-      "published_at": "2026-05-06T06:26:42Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 15
-    },
-    {
       "id": "b368b2d2cb353c17cbd693a3",
       "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - Gizmochina",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0h2MFFJaURDWnN4ZWZwUEIzU1NqV2ZZaFZSR3NiZjlfa2Y5aGZLcVR4ZlU5MEQ0LVkxMUp4bUI2NHZjaWYxeDFNVEpNMkEyb3F4c2l0MzE2ZHduSkR5cG5yZ2ZoLVZyQTEyLXFKMU1RTThjTDZ3U09UQk9yTnRaZGZabG10dDdVR094bFd0ZUNFbzBTYjRGQUtNMHB2TFQ1djV5alRB?oc=5",
@@ -106,6 +95,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "da1209dd1e6f7411fab2dff4",
+      "title": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) - CNX Software",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm90cjVWZi1LcFFFTmtGVFVPdzdNOU44U2ctMmhJcVpocWdyYXBaOTNiSEtOWnpNS1VSLXlPRUxySVh5OW44UHVzZ3NBOVRGdGJNcy1xVi04VVJjamFEcV96dFZBd0NDZnVheGl2REJJblAtaUc3Q0hkdEo0Z1AyZDdRQ25RWmllOTVFakFHU3g5dFlnRlpBelZnRnlaZkwxSy1ELTlETXNuMUJS0gG0AUFVX3lxTFBnTlJHZHl1VEthRHl4MWtaUWZVZFQ4QUR2TlVsc29kcjlXU3pVRUJsWXJUN2k4Z0ZGRHROckhhNWNyTWJUMmppbEVHMTdrdVIxYUlCa1ZDU1pCc2dqWXFNN0E1X2l4M2xMbWprZU5qY1FJcEtmQ0U4RUJEN0cwYU9MaVdqWV9OUVFYSUU2cldsRkNCLUNZd0w0dW45a3NWRXU5T3JzWS1OaG5UUTRDb2cxdW94dw?oc=5",
+      "summary": "Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) CNX Software",
+      "published_at": "2026-05-15T07:22:59Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     },
     {
       "id": "ca03920a128fb73b3b193b1e",
