@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-19T18:25:53.879116Z",
+  "generated_at": "2026-05-19T20:19:05.721507Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -31,9 +31,9 @@
       "score": 12
     },
     {
-      "id": "93295faf195746b2e304c5a1",
+      "id": "def9c75984671d3dae61b06f",
       "title": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2dycEw3OERSNk5hUWNaS3g2SXFGUzJkMU1laUV6UHpPdzBxeEJ2d2Y2SWE5Nm9zeW53R2lHQXVMLW5LbWNmMS11bFBreV9WM3ZvUTdER1VwRGN1bXV1MzhzYnY1VnZKaGFxZm1Ba1p3c24tWmhfb1lUVXdwRVlrTmlyOUo0N1Jw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1JCQ2JMcG8yRG45NDFnWi1Hbzl2cWV6a0RwcjRfUUJjUVVxUG9QMnJFVlRvb0xMakRqaVBNN2NtTDlNX2ppOEZqWTlqeGl3UTNBTDRLR290Y1B5aDZST3JSdFpza0ZhQm5vM1JuZmxQVVBESFVSUDZFWEFkbFV2bThqR1ZpMUQwNGhYU1hB?oc=5",
       "summary": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Yahoo!ニュース",
       "published_at": "2026-05-18T02:30:00Z",
       "source": "Google News JP: network security",

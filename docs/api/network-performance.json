@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-19T18:25:55.049871Z",
+  "generated_at": "2026-05-19T20:19:06.723707Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "8eb4b08b9bd60d2c97699efe",
+      "title": "RTÉ hit by major internet outage - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkNzQVNqVE9jakxyYmpITmdZZTFQSjVFRDQ2R2VBbDdDSTIxNDRidmR0UGdmWnB2ZU1kZVFid2dweXFCVkdERUlYbkNNazJ3aUlEa2FlU2thcDROOTlqeGczazFnNjE0SXAxV3RWR2l4cVdILUhGV2hLYlRHaVktR3FsRlNuOGVKWEIzaEtzeklBU0U?oc=5",
+      "summary": "RTÉ hit by major internet outage MSN",
+      "published_at": "2026-05-19T08:25:25Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "ebd0eb7058bbe7b2bc257320",
       "title": "Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity - Charter Communications",
