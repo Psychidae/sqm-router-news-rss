@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-20T05:50:33.370482Z",
+  "generated_at": "2026-05-20T09:53:20.342799Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "6369b25dda99b5769b090361",
+      "title": "4月24日（金）本日発売！Wi-Fi 7＆IPv6対応無線LANルーター『HUAWEI WiFi BE3』で超高速通信を - 日刊工業新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Nakt0TkhrMm9zRUFRSkFWdmFaSEEyODFlVkVEbDJIaVk3Wi1na0JXY2ROU05XZFdzcHYwZUN2eXRfUUlfVThDekhWNlNpY2x4UDlDMUF2RW0?oc=5",
+      "summary": "4月24日（金）本日発売！Wi-Fi 7＆IPv6対応無線LANルーター『HUAWEI WiFi BE3』で超高速通信を 日刊工業新聞",
+      "published_at": "2026-05-12T01:00:24Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
       "id": "899972cdb3c1dd6c98c026d0",
       "title": "バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFRqRlhib2RYX3A1RXkwel9RN0RYMWV1OHhZTFo4NE5PdUtwUW5palhER2RZU09PMksxNmM3U0pURnU0RzNwS2FwU2NNVnYwSm1STWtWV0Q4cWhSWDh3RjU4N2ZfUkJXSXpWbFc3OVpzMnlpcE9kOHExMFpValNMazB5RC1VZ25mWmtz0gGQAUFVX3lxTE9KTTZOcTdUMEdTTjR0WHF4RmdIdzRnMENfMU4wRmNhSVR4SzZiQWZMdFJjbkgxMl9DNkQ2MXB0SE1LV3draEEwNG9CY0FfdFFlR3RZLWRtNDdYVGtXM3NGLXJlTXRDZ1dsdjZpV3lzN3E5bHZUbnlxbzJfY0E0bjVCRGVKNDZQSkM3NjQ0Wk1UMw?oc=5",
@@ -72,7 +83,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "7f523ee312336e9f4ba6975a",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0V3E0SThlRTFrN1ZsZ3J0TU5KYUpTempjZm9KTlkwX0FLd09MT2dUeXQzc3gxX04zNWtRMHF1SmdRVE1jRUF5VHFoMW03Mks0Rk1yNGpiTmFoYzBBb2hjSDI5aTBGOGw3OHdNaU9JU2djSGc?oc=5",
       "summary": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 ニコニコニュース",
       "published_at": "2026-05-18T03:00:47Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "af63673afb29fa3b6d832924",
-      "title": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFVGZVRUhRVm5KbFhIWEliMkJOY0FUcDUyd1g2Ty0xSlZmWGRCa1Bmai1ZRE1qWFFJb2RaXzNQQ1oycGtRX2Q1dzhWaGVTOFBoMVVBWUFsZUhVZ19GTDJneFRtbC1DdDNIQXlDa1BnbEs3U0dIR0hvRUR3?oc=5",
-      "summary": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 bcnretail.com",
-      "published_at": "2026-05-18T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

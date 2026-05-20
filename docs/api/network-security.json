@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-20T05:50:35.470714Z",
+  "generated_at": "2026-05-20T09:53:22.951767Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 7,
   "errors": [],
   "items": [
-    {
-      "id": "938d5ddabeedb22e5e8b0547",
-      "title": "「Android 16」に新たな脆弱性か VPNを迂回してIP アドレスを漏えいさせる恐れ - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNWDEwbXBqUFJkVGtuNW9xZ29YdHpqTjduVENhRkoyeExGVkhUYU4tcXNhOVY2QVJsR0xpeGtmXzZzWkpJbUlHZlRvYUZzbHpVdlJxMDZKVk04Um5OOGNrNTY4RWMwMkJBLXc4Q1h6SGJSM3o2cHhfZmVBeEhrRUpDQ0hyV2NScDhwSHg1M0o2aEY2NFpWb3lmclowNy1TZkNMa2ZtbUdpcmhDckVBTG04a0NfWUVSOHNlZnJKY0p6VEdPZlNnVE9mZlBlTnl2djZ5NWFFZTczdEdGTzR0VjhaVUpYV0RQMjBDRnl5YXZrZnpYUnFFVGVBc0tOcS1LWDFrNWVfMk9IYllOYWFYUWE0X3hJeFFITG1aRkJOQWlhV0RXUVYwNlFoYV9tN0Y0cHJOZWhlRTVFZ0ZGTkJtcF84bjhvS25FbU5lMGV0MS1TTEppaG1BdzRuZFA2Zk9ZZjFYT3JLNjJMNEZJdkxHaXlONnJ0UDZmMk5iWW0xN2p2al9fVURvTHdDSXFVR2RMV3FtcnMwb25BQV96XzFYSUNKbFVEOEFMbHpLdFBSLXdUeTZscG1oZHVZQg?oc=5",
-      "summary": "「Android 16」に新たな脆弱性か VPNを迂回してIP アドレスを漏えいさせる恐れ MSN",
-      "published_at": "2026-05-18T08:36:18Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
     {
       "id": "83507470a22d4e4d29b743d6",
       "title": "「蟻の一穴」となるリモートアクセスVPNの脆弱性 ZTNA/SASEはなぜ必要か？ (1/2) - ASCII.jp",
@@ -35,6 +24,17 @@
       "title": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Forbes JAPAN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SYm5HZHR6MHYzZnptNjBERkpmMUkwUm12Szloem14eXNkclhkMnQ3cVlxb0drZkZZUExiNllKMDZSSC01X3JzX21BTGNHdlB2dkw0WVBXSWI?oc=5",
       "summary": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Forbes JAPAN",
+      "published_at": "2026-05-18T02:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
+      "id": "def9c75984671d3dae61b06f",
+      "title": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1JCQ2JMcG8yRG45NDFnWi1Hbzl2cWV6a0RwcjRfUUJjUVVxUG9QMnJFVlRvb0xMakRqaVBNN2NtTDlNX2ppOEZqWTlqeGl3UTNBTDRLR290Y1B5aDZST3JSdFpza0ZhQm5vM1JuZmxQVVBESFVSUDZFWEFkbFV2bThqR1ZpMUQwNGhYU1hB?oc=5",
+      "summary": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Yahoo!ニュース",
       "published_at": "2026-05-18T02:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -72,7 +72,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "fd56007623d4c623690fb0fe",
