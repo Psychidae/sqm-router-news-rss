@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-20T22:42:48.378724Z",
+  "generated_at": "2026-05-20T23:53:01.959254Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -64,10 +64,21 @@
       "score": 13
     },
     {
-      "id": "10fef84c6bcf7b2bf1067edb",
-      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FNTNpeXRmRG00S2tRS0NyVjBmb0djdnNpM3BlcE50c29ZajFqSnRUZUFqSUhvN0VTUkFBaWl1Rk9XeWd2UUFBZDc0WkpfcHpUTENqZjJWeFVkZlRFSXJINTU5bnlFTURtbHd3Tk5NTmFONnhzZENMeWFvTWNFa1E?oc=5",
-      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開（BCN） Yahoo!ニュース",
+      "id": "a2614eed7fdbad0d5ba38a1c",
+      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81amR6dEw5ZDluOG5TWjBuU3VMMGk1VlNOdEUzODFfZEtjZENCMU55TUI4aWJIZ3FUamoyTXFoT0ZLWTNiNnN0Szl2WTdubGJpdWg3ODFaUEt5U0ZwWDRPamFkNFBsUWpiOVE?oc=5",
+      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 bcnretail.com",
+      "published_at": "2026-05-19T06:05:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "aaeb0dd4d9e7ad5822c84774",
+      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 (2026年5月19日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12ejF2M0hVN1U3MEdrb1B0TFR2LXdxdWRiTVNLUUc2UkZFZ25zSFdrZW5qekxxSTI3MGJqZFNXX0ZwVFFnOWtBT3MtZXAwMU5UUXM4N2xOZ1hpYVVhaWc?oc=5",
+      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 (2026年5月19日掲載) ライブドアニュース",
       "published_at": "2026-05-19T06:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55UnVWWUhWZDVrWl9ZS0pHcy1yNncwcGVrNmFqT1oxdkRnS3N6em85aS1ReFlFSmpxQXY1R1p1SHRYNk5RUGtTc0FIZVZQOFM4U1k2T0dWd3UtQkZuanFCc3oxNVJfbHZLWXNlX25TUQ?oc=5",
       "summary": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 bcnretail.com",
       "published_at": "2026-05-18T03:05:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "7f523ee312336e9f4ba6975a",
-      "title": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0V3E0SThlRTFrN1ZsZ3J0TU5KYUpTempjZm9KTlkwX0FLd09MT2dUeXQzc3gxX04zNWtRMHF1SmdRVE1jRUF5VHFoMW03Mks0Rk1yNGpiTmFoYzBBb2hjSDI5aTBGOGw3OHdNaU9JU2djSGc?oc=5",
-      "summary": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 ニコニコニュース",
-      "published_at": "2026-05-18T03:00:47Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
