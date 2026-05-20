@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 09:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 12:38:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] ASUS、Wi-Fi 7対応でデュアル10Gポートを搭載した無線LANルーター「RT-BE18000」の販路を拡大 - kakaku.com</title>
@@ -64,29 +64,15 @@ ASUSの新Wi-Fi 7ルーター「RT-BE18000」発売拡大 最大18Gbps対応 ASC
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] 4月24日（金）本日発売！Wi-Fi 7＆IPv6対応無線LANルーター『HUAWEI WiFi BE3』で超高速通信を - 日刊工業新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Nakt0TkhrMm9zRUFRSkFWdmFaSEEyODFlVkVEbDJIaVk3Wi1na0JXY2ROU05XZFdzcHYwZUN2eXRfUUlfVThDekhWNlNpY2x4UDlDMUF2RW0?oc=5</link>
-      <guid isPermaLink="false">6369b25dda99b5769b090361</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router products
-元記事日付: 2026-05-12 10:00
-4月24日（金）本日発売！Wi-Fi 7＆IPv6対応無線LANルーター『HUAWEI WiFi BE3』で超高速通信を 日刊工業新聞</description>
-      <pubDate>Wed, 20 May 2026 09:53:20 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-20T09:53:20.336751Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-12T01:00:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFRqRlhib2RYX3A1RXkwel9RN0RYMWV1OHhZTFo4NE5PdUtwUW5palhER2RZU09PMksxNmM3U0pURnU0RzNwS2FwU2NNVnYwSm1STWtWV0Q4cWhSWDh3RjU4N2ZfUkJXSXpWbFc3OVpzMnlpcE9kOHExMFpValNMazB5RC1VZ25mWmtz0gGQAUFVX3lxTE9KTTZOcTdUMEdTTjR0WHF4RmdIdzRnMENfMU4wRmNhSVR4SzZiQWZMdFJjbkgxMl9DNkQ2MXB0SE1LV3draEEwNG9CY0FfdFFlR3RZLWRtNDdYVGtXM3NGLXJlTXRDZ1dsdjZpV3lzN3E5bHZUbnlxbzJfY0E0bjVCRGVKNDZQSkM3NjQ0Wk1UMw?oc=5</link>
-      <guid isPermaLink="false">899972cdb3c1dd6c98c026d0</guid>
+      <title>[国内ルーター市場] バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RUlIZ1pzbGR5c1FNWGlONnZsTTVWZ1lBemYtb0Z6cVV3MW4ya3lrTkJsLUI5MG85WkpILW9MUkFZbXRrcHoxV0VpdnV1cjFMUmlrb1lDdmtMbS1nYVNyS1JmRHhLYWxZOGpHZUs5NF8?oc=5</link>
+      <guid isPermaLink="false">1d3bbab756cd2e50d820da97</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
 元記事日付: 2026-05-20 12:55
-バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale ｄメニューニュース</description>
-      <pubDate>Wed, 20 May 2026 05:50:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-20T05:50:33.366612Z</sqm:firstSeenDate>
+バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale INTERNET Watch</description>
+      <pubDate>Wed, 20 May 2026 12:38:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-20T12:38:22.216961Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-20T03:55:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
@@ -102,6 +88,20 @@ ASUSの新Wi-Fi 7ルーター「RT-BE18000」発売拡大 最大18Gbps対応 ASC
       <pubDate>Tue, 19 May 2026 10:05:18 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-19T10:05:18.223656Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-19T06:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 - bcnretail.com</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE55UnVWWUhWZDVrWl9ZS0pHcy1yNncwcGVrNmFqT1oxdkRnS3N6em85aS1ReFlFSmpxQXY1R1p1SHRYNk5RUGtTc0FIZVZQOFM4U1k2T0dWd3UtQkZuanFCc3oxNVJfbHZLWXNlX25TUQ?oc=5</link>
+      <guid isPermaLink="false">2cb891592035679745730765</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-05-18 12:05
+Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/5/18 bcnretail.com</description>
+      <pubDate>Wed, 20 May 2026 12:38:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-20T12:38:22.216961Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T03:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
