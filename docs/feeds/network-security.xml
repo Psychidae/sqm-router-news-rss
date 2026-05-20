@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 May 2026 01:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 05:50:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 「Android 16」に新たな脆弱性か VPNを迂回してIP アドレスを漏えいさせる恐れ - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMiuANBVV95cUxNWDEwbXBqUFJkVGtuNW9xZ29YdHpqTjduVENhRkoyeExGVkhUYU4tcXNhOVY2QVJsR0xpeGtmXzZzWkpJbUlHZlRvYUZzbHpVdlJxMDZKVk04Um5OOGNrNTY4RWMwMkJBLXc4Q1h6SGJSM3o2cHhfZmVBeEhrRUpDQ0hyV2NScDhwSHg1M0o2aEY2NFpWb3lmclowNy1TZkNMa2ZtbUdpcmhDckVBTG04a0NfWUVSOHNlZnJKY0p6VEdPZlNnVE9mZlBlTnl2djZ5NWFFZTczdEdGTzR0VjhaVUpYV0RQMjBDRnl5YXZrZnpYUnFFVGVBc0tOcS1LWDFrNWVfMk9IYllOYWFYUWE0X3hJeFFITG1aRkJOQWlhV0RXUVYwNlFoYV9tN0Y0cHJOZWhlRTVFZ0ZGTkJtcF84bjhvS25FbU5lMGV0MS1TTEppaG1BdzRuZFA2Zk9ZZjFYT3JLNjJMNEZJdkxHaXlONnJ0UDZmMk5iWW0xN2p2al9fVURvTHdDSXFVR2RMV3FtcnMwb25BQV96XzFYSUNKbFVEOEFMbHpLdFBSLXdUeTZscG1oZHVZQg?oc=5</link>
+      <guid isPermaLink="false">938d5ddabeedb22e5e8b0547</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-18 17:36
+「Android 16」に新たな脆弱性か VPNを迂回してIP アドレスを漏えいさせる恐れ MSN</description>
+      <pubDate>Wed, 20 May 2026 05:50:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-20T05:50:35.469880Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-18T08:36:18Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 「蟻の一穴」となるリモートアクセスVPNの脆弱性 ZTNA/SASEはなぜ必要か？ (1/2) - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WZndiU2JZNDRMQzY3ZXYtYzgwZTZPRmRQWFpkRWpBMGJYeDVtRk9ER0ZwRlctb2hJVGlmQ1FOUUNiRkVDR2pteXRUVmZBRldQMUxOMw?oc=5</link>
@@ -36,20 +50,6 @@ Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Forbes JAPAN</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QZWh5MjluWnF2MXpoZXVyYi10NTRrSTJzcC1nTDZBclpYOEZwcDJVekNQLUlWVzk3UkU4cWNuZE5aN0g1b0x4dEZfcTVqaDFvMm1hN3RUOFBiU2V1RnkweA?oc=5</link>
-      <guid isPermaLink="false">3dbb8aea763c5681723b75d5</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-18 11:30
-Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Forbes JAPAN</description>
-      <pubDate>Tue, 19 May 2026 23:20:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-19T23:20:59.672180Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-18T02:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] 「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ - CNET Japan</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jZVNZdVl4a0dHV3VvYXFsNG1XdmJLTVI3TjBJbkxoUG1aNzk4NmgxaG9TNkVCcUZZZzRjb0ZFV21iUVBxWmp2UEFCbVF5R1A1Z3c?oc=5</link>
       <guid isPermaLink="false">298d620e68b4f9fab39af32d</guid>
@@ -60,62 +60,6 @@ Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは�
       <pubDate>Mon, 18 May 2026 01:34:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-18T01:34:32.211304Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-17T23:09:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkh4RlVfTWRVVDQ3UzR3a0tKUy1qU2pJTTBDTUl1M3FEUmZxaFh2bU1TQy1oLUM5NXhBVFd0SEY0UC0wT2JHSDRSeV80R081OWN1TXp3dWZTWVoxQU5yYWlxOUVJV1lQcHJSZmhiMVBNWkFfRWFOemtXQ2twT2JRM0lqN0RUaHNnRnhNVlhR?oc=5</link>
-      <guid isPermaLink="false">181acc0c63c28b97f0e6bf57</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-18 08:09
-「Android 16」に新たな脆弱性か VPNを迂回してIPアドレスを漏えいさせる恐れ Yahoo!ニュース</description>
-      <pubDate>Tue, 19 May 2026 23:20:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-19T23:20:59.672180Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-17T23:09:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQTng3MlVoZzNndEpjNF9JXzYyZDhwNzhBV1BQQTIzTndfSzZrYW9DRmZfejVmWERvbWhlbklSQWhUejZWejl3c2lwWnRtUzZUdFZ4U3ZTNElRc2dFSzNRdFpmSWRMQmJCVjhMRk9pc0oxNkpSQWhfNFJRQlJCTHd4U3NuWUZ0cVd5YzdOSGpR?oc=5</link>
-      <guid isPermaLink="false">b7123007dfe00815248031f9</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 13:05
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 (＠IT) Yahoo!ニュース</description>
-      <pubDate>Tue, 19 May 2026 23:20:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-19T23:20:59.672180Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T04:05:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAyVW9HOTBvSnFsdUxnWm1wYzdWSUtKQ3h6RGxxT1dta3ROQ0d0ZDBqa3R3Z1VwbDhMVmY1LVRxOFoxNWptUVNzWDE4cDQ1d1JibHppR2dnTkhJS0diLUg5WlZhLWt1UXA4RjlhRHQzMXAwX29ZTlFzTVZGN3ZBWkE?oc=5</link>
-      <guid isPermaLink="false">67584451eaaa2d32889f1633</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 13:05
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策（＠IT） Yahoo!ニュース</description>
-      <pubDate>Tue, 19 May 2026 10:05:20 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-19T10:05:20.375956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T04:05:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1ZdnVZZy1lSkxPcC1FVlV6MjJPS1JfS1FpdTBtcGVSYW56a3BjS3d2UjZkdmlVMWcwYXVueUY5S09peUNRVXFESHVQUGJ3SkM2Unczb1BqeWxtY2d6OFdWUW93a3RKcWItbUhuMHdDMURlZw?oc=5</link>
-      <guid isPermaLink="false">c36ca20d834ec9250ef425cf</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-13 13:00
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 ITmedia</description>
-      <pubDate>Fri, 15 May 2026 00:08:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-15T00:08:37.403301Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-13T04:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -144,6 +88,20 @@ Cloudbase Sensor、ネットワーク機器の脆弱性検出機能を提供開�
       <pubDate>Tue, 19 May 2026 10:05:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-19T10:05:20.375956Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-19T06:30:27Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Cloudbase Sensor、ネットワーク機器の脆弱性検出機能を提供開始 (2026年5月19日掲載) - ライブドアニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWG5yYjgwQUFVdjlNdWdlWkFKbFhZbGxUeE5TRXZtZHVJWnBaWFdrZ2FXN0I4dXI4bWw1WXJpS1dEUXBLdzZMdFFkcko5em1kZ2VsXzZtemE4X3M3Y3BocWxB?oc=5</link>
+      <guid isPermaLink="false">fd56007623d4c623690fb0fe</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-19 10:10
+Cloudbase Sensor、ネットワーク機器の脆弱性検出機能を提供開始 (2026年5月19日掲載) ライブドアニュース</description>
+      <pubDate>Wed, 20 May 2026 05:50:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-20T05:50:35.469880Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-19T01:10:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
