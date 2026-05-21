@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-21T15:50:31.059093Z",
+  "generated_at": "2026-05-21T18:13:24.735698Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,22 +53,22 @@
       "score": 14
     },
     {
-      "id": "fda98857133ff5c052196322",
-      "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
-      "summary": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro",
-      "published_at": "2026-05-20T07:00:00Z",
+      "id": "e2322bbf06dfd279e994fe4a",
+      "title": "MSI Roamii BE Pro Wi-Fi 7 Mesh System Review - Affordable price, good mid-range performance - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDg3YlJ2dnFzeTloNWltRFpWTEtTMEJMVHJPalcwSHBzVmlCVHd2em9ScGQzZGdJaERBcU5EUkJudEpaYnNULVhoSC16Y1ZjMjZXSGlCZWRXY3BER3ZJX1dMTGNtS1FUZm8zelRqRGpfYWpVcVRIVG9mTDJMaW51b1QzdFN6Y0djMURFRHJQLVY1aDFkV3Rqa0NzMzgwTUcwbC12eEZOZHRhd0Q5TkNINE13dWs4QzdpMjhtMXR0Mi1rdjA4bklpMnJiVlk?oc=5",
+      "summary": "MSI Roamii BE Pro Wi-Fi 7 Mesh System Review - Affordable price, good mid-range performance TweakTown",
+      "published_at": "2026-05-20T14:24:07Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
     },
     {
-      "id": "39e628d97256357c9a9daab1",
+      "id": "4523554fd7aca030a8812e2f",
       "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXpzWC0zdjlYVVdTbFIxUWdBaXFJeVEwajR6X2ZvUlJ3VGcyUHZkc3NMQTVkSVBmMjV1OVUzWlBuNUV0QUlvam1QM2x1bzQ0RjhwSEM3X0x6NVY3MVlaMkRSRG5ieHdnMEllX3pGREx4dndsNVdTNFZSMllWODFzQ0gtNGl4MGtXaGUybWFfenZwQkpONmRpOUNrSDk3WkhORl9nTDlEV1FPSllZVEdIUFpTYlFfajc0TkFXMmtLakU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM0lzeEc4QWtpRFV1dU5sZ1ZVR3pvTmc5eGpJeC1UYS0zeHNEX2N1ZHRjVGxwZmljcWREcDUwWHNSWGRxcUhjdXVYczlKNUtJZ1Z4VGVvRWUyYWtxT1MwRmxUUGNBQWlSUmVpZUZUOHk4MTM3LWlXS1JUMHdibGI0RFp5SGVCNDRzTVRydXhQeTFRbFBpNWwyallEZ3ZLak12dmlEMmJ1THFEVkJqU1lvZ2pZYVF0SXlHdUM5RjhDYzhiNkhaeFRFcDRFYmU2NVYyYVVZZTlUNEhMVEswREhKaXBpVnFjR1k?oc=5",
       "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
-      "published_at": "2026-05-19T05:50:36Z",
+      "published_at": "2026-05-19T09:52:24Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -83,7 +83,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "23b50ffca22e89439386bf4f",
