@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-21T20:09:06.764218Z",
+  "generated_at": "2026-05-21T21:47:03.444881Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,15 +64,15 @@
       "score": 13
     },
     {
-      "id": "b368b2d2cb353c17cbd693a3",
-      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0h2MFFJaURDWnN4ZWZwUEIzU1NqV2ZZaFZSR3NiZjlfa2Y5aGZLcVR4ZlU5MEQ0LVkxMUp4bUI2NHZjaWYxeDFNVEpNMkEyb3F4c2l0MzE2ZHduSkR5cG5yZ2ZoLVZyQTEyLXFKMU1RTThjTDZ3U09UQk9yTnRaZGZabG10dDdVR094bFd0ZUNFbzBTYjRGQUtNMHB2TFQ1djV5alRB?oc=5",
-      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports Gizmochina",
-      "published_at": "2026-05-18T16:39:36Z",
+      "id": "74f8fa750bd2f540e6accd7a",
+      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPeEVObzB1bkkzWmUyZU9GUy02dDc3dHd5RFhEVWoxSm0tcm15a3NxcHFxVzZKbmNCZXJMbDJRUlRtcWhBRGQ0OURaVFBkZ2xJRXB5RzZ0aUR1eFJocUUwMHVfTGotNUlZdDhwSUkxeUZNSVUxNi15em1rTU5jUVVHMWcxU2Q3aVJqYVhWN1ZUcVJLUk9fRGRhczBuTmtkZmNHU05VS3M2QXA4MVZwTmRYOExlc3VETjBNZVhlUDVFUHE3dHV6b09BZHFsRFJ3Q1FWaUJtVkkxaXFLeUhLY21PUXA3UFVITVVvR05Vek5GX0xoYmw4dDZBN0dXcXk5VnhZc0ZYdXJFb3VMWFdFLVd6Uk5mcWtVd3YxQ040WkozYjVMT0pORnhRbkNKS2FfU0RFS3FVYUJSbU0xTFlsNzNVZUxwQ2NzcERJLVlxb1F0Wm9QeUNYRnRCdzNUT24wXzI3UGo1eGctSUFyOVNHM3d5WmM3WFRURHpvdFBiNA?oc=5",
+      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
+      "published_at": "2026-05-19T10:30:59Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
     },
     {
       "id": "23b50ffca22e89439386bf4f",
