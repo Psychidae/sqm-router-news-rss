@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 08:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:52:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com</title>
@@ -60,6 +60,20 @@ TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room ser
       <pubDate>Wed, 20 May 2026 09:53:21 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-20T09:53:21.644093Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-20T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM0lzeEc4QWtpRFV1dU5sZ1ZVR3pvTmc5eGpJeC1UYS0zeHNEX2N1ZHRjVGxwZmljcWREcDUwWHNSWGRxcUhjdXVYczlKNUtJZ1Z4VGVvRWUyYWtxT1MwRmxUUGNBQWlSUmVpZUZUOHk4MTM3LWlXS1JUMHdibGI0RFp5SGVCNDRzTVRydXhQeTFRbFBpNWwyallEZ3ZLak12dmlEMmJ1THFEVkJqU1lvZ2pZYVF0SXlHdUM5RjhDYzhiNkhaeFRFcDRFYmU2NVYyYVVZZTlUNEhMVEswREhKaXBpVnFjR1k?oc=5</link>
+      <guid isPermaLink="false">4523554fd7aca030a8812e2f</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-19 18:52
+ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN</description>
+      <pubDate>Thu, 21 May 2026 11:52:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-21T11:52:38.210864Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-19T09:52:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -129,20 +143,6 @@ Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Acces
 ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp</description>
       <pubDate>Wed, 20 May 2026 16:18:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-20T16:18:11.187992Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhOLVI5Y2w0b1dCYmpRbDhEdV9iVjdlSHg2TlRYTkk3cGJsdWJqNGpibFk5RXBtV3VfVFBnY2dJa2FZdXhUOGRHVS00d25fS2d3VVdZWFZEOGktWURSVmpLT0RLTXFURmRRUWN1Wkt6Rkw2ZlhiZkt3VjVUdzQ2NTFyZGdINXU4WXVB?oc=5</link>
-      <guid isPermaLink="false">ca03920a128fb73b3b193b1e</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-11 16:00
-ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</description>
-      <pubDate>Wed, 20 May 2026 23:53:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-20T23:53:03.292882Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
