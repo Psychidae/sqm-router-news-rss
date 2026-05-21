@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 18:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:09:09 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Vodafone Germany rolls out Latency Booster on cable network - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkxISV9mcjY0T1RnckdxeWdUa0JNdnJtdnk0Njl0ZHVFVXgteXRHbVdkNExoZ2d1ZVUxRGlkcF9ONFhaLWt0OHp6cU9RdGx3a1A3Wkh3V3VhRS1oeU55YmY2UlYyaFdObmwwcW1VdjdudHRhNTdqYXRHMFRVWGNPOGZsLVpBQUlzcmVLLVdJRldjUWU1WmMwbTJubkNCUzVwbXpsWg?oc=5</link>
-      <guid isPermaLink="false">900c2ffa14e49c99fde01535</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-20 17:47
-Vodafone Germany rolls out Latency Booster on cable network Telecompaper</description>
-      <pubDate>Wed, 20 May 2026 09:53:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-20T09:53:24.202295Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-20T08:47:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity - Charter Communications</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGs0MDZ0R3Y2U0JSNTF5RFpGTWE5NUhTay1IUmZtWWlWbldRd0VxM3dqTWdzbHVFZmh5YjFrUUZ6N1lSYTZxZGx6cTdFd2Y5TlAtR2ZfVFNaTkdyNVNKYklNN0RpQmdWWHQ4ZnRPOVdqTzBGRnhfYm85bll4eVNobXQzSElDWFhBaS13?oc=5</link>

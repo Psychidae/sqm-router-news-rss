@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 18:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:09:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com</title>
@@ -78,20 +78,6 @@ MSI Roamii BE Pro Wi-Fi 7 Mesh System Review - Affordable price, good mid-range 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxOM0lzeEc4QWtpRFV1dU5sZ1ZVR3pvTmc5eGpJeC1UYS0zeHNEX2N1ZHRjVGxwZmljcWREcDUwWHNSWGRxcUhjdXVYczlKNUtJZ1Z4VGVvRWUyYWtxT1MwRmxUUGNBQWlSUmVpZUZUOHk4MTM3LWlXS1JUMHdibGI0RFp5SGVCNDRzTVRydXhQeTFRbFBpNWwyallEZ3ZLak12dmlEMmJ1THFEVkJqU1lvZ2pZYVF0SXlHdUM5RjhDYzhiNkhaeFRFcDRFYmU2NVYyYVVZZTlUNEhMVEswREhKaXBpVnFjR1k?oc=5</link>
-      <guid isPermaLink="false">4523554fd7aca030a8812e2f</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-19 18:52
-ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN</description>
-      <pubDate>Thu, 21 May 2026 18:13:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-21T18:13:24.734730Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-19T09:52:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - Gizmochina</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0h2MFFJaURDWnN4ZWZwUEIzU1NqV2ZZaFZSR3NiZjlfa2Y5aGZLcVR4ZlU5MEQ0LVkxMUp4bUI2NHZjaWYxeDFNVEpNMkEyb3F4c2l0MzE2ZHduSkR5cG5yZ2ZoLVZyQTEyLXFKMU1RTThjTDZ3U09UQk9yTnRaZGZabG10dDdVR094bFd0ZUNFbzBTYjRGQUtNMHB2TFQ1djV5alRB?oc=5</link>
       <guid isPermaLink="false">b368b2d2cb353c17cbd693a3</guid>
@@ -144,6 +130,20 @@ Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Acces
       <pubDate>Sun, 17 May 2026 08:00:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-17T08:00:12.122356Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-13T23:02:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] 8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5</link>
+      <guid isPermaLink="false">ded44b48542cf18712e82870</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-13 05:02
+8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com</description>
+      <pubDate>Thu, 21 May 2026 20:09:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-21T20:09:06.763257Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-12T20:02:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
