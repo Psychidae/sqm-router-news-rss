@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-21T11:52:37.138232Z",
+  "generated_at": "2026-05-21T15:50:29.932072Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -64,6 +64,28 @@
       "score": 15
     },
     {
+      "id": "c2633fbbf755e15805305375",
+      "title": "最大18GbpsのトライバンドWi-Fi 7対応ルーター「RT-BE18000」がASUSから - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxM2szTE1RQW5xb3liZzBISWU3TkpxQ09NWUYtWm5OaXhPdE9iNTFGZ3ZDenJTWkxXYk9iVEpDS2hKcWlXNjY1TGhlMjJsdk9SbnpfaXNoMk84SVZyQlhzeUJSZ09HVUx5NG00Q2MyLVZ0UQ?oc=5",
+      "summary": "最大18GbpsのトライバンドWi-Fi 7対応ルーター「RT-BE18000」がASUSから AKIBA PC Hotline!",
+      "published_at": "2026-05-21T15:15:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "c2f8d8a55578f08967a49a59",
+      "title": "ASUS、最上位マザーボード「ROG CROSSHAIR X870E GLACIAL」発表 10G LAN×2・Wi-Fi 7対応 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZlFhU245clB3NkRIdnBTckJVT2cxQmF3ZkJQWHBycEwwWTBvQ21JRUxucTU5dGMyRnA1VDN6WHB5ZmlWQ3RqOUhLTTBuVm9zd3pObXlzb21pSXRMOGFWZUVTU1RLekRlbHBzSFVJV2xJcUNLenBHTlZobw?oc=5",
+      "summary": "ASUS、最上位マザーボード「ROG CROSSHAIR X870E GLACIAL」発表 10G LAN×2・Wi-Fi 7対応 ニコニコニュース",
+      "published_at": "2026-05-21T02:42:11Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
       "id": "b6c605afa68ce3eeb1e405f4",
       "title": "ASUS、最上位マザーボード「ROG CROSSHAIR X870E GLACIAL」発表 10G LAN×2・Wi-Fi 7対応 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INVBveWFoSmFFQmlVdEViNjAwQzhObm9FdWl3N0xtcU5zXzhFVExCSG1VcC1wUEdoMXR0TGVqZ0FfVVZQdmw0S3JWLXlLX0ZSZXZHUA?oc=5",
@@ -73,28 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 13
-    },
-    {
-      "id": "1d3bbab756cd2e50d820da97",
-      "title": "バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RUlIZ1pzbGR5c1FNWGlONnZsTTVWZ1lBemYtb0Z6cVV3MW4ya3lrTkJsLUI5MG85WkpILW9MUkFZbXRrcHoxV0VpdnV1cjFMUmlrb1lDdmtMbS1nYVNyS1JmRHhLYWxZOGpHZUs5NF8?oc=5",
-      "summary": "バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale INTERNET Watch",
-      "published_at": "2026-05-20T03:55:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "a2614eed7fdbad0d5ba38a1c",
-      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81amR6dEw5ZDluOG5TWjBuU3VMMGk1VlNOdEUzODFfZEtjZENCMU55TUI4aWJIZ3FUamoyTXFoT0ZLWTNiNnN0Szl2WTdubGJpdWg3ODFaUEt5U0ZwWDRPamFkNFBsUWpiOVE?oc=5",
-      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 bcnretail.com",
-      "published_at": "2026-05-19T06:05:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
     }
   ]
 }
