@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-21T04:42:15.218856Z",
+  "generated_at": "2026-05-21T08:19:28.095905Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "1aeb9eb062992f252cf6c64b",
+      "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5",
+      "summary": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com",
+      "published_at": "2026-05-17T08:11:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
     {
       "id": "27dba55ab3250ade2adc20a7",
       "title": "TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity - Tom's Hardware",
@@ -39,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "b368b2d2cb353c17cbd693a3",
@@ -101,17 +112,6 @@
       "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUhOLVI5Y2w0b1dCYmpRbDhEdV9iVjdlSHg2TlRYTkk3cGJsdWJqNGpibFk5RXBtV3VfVFBnY2dJa2FZdXhUOGRHVS00d25fS2d3VVdZWFZEOGktWURSVmpLT0RLTXFURmRRUWN1Wkt6Rkw2ZlhiZkt3VjVUdzQ2NTFyZGdINXU4WXVB?oc=5",
       "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp",
-      "published_at": "2026-05-11T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "716630442e650c7b138caf99",
-      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBwWm5idHNiSndBclpOMzUzbnNiR3FSTmYxNXM5YkI0X1U3OXRBR21xVjBWOHVIdlhGUl9Id2w2TWlMeGIyRkxzNWZNRUZCTldfa09TQ1R6NTZZdXBOTkczMlhwWkZnenpwWHJuSEhpRG1iVVBZUUM5NDhCNlhnUHRtQQ?oc=5",
-      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp",
       "published_at": "2026-05-11T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
