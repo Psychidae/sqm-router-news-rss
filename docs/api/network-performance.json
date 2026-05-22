@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-21T22:52:40.570235Z",
+  "generated_at": "2026-05-22T00:14:36.219672Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,17 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGs0MDZ0R3Y2U0JSNTF5RFpGTWE5NUhTay1IUmZtWWlWbldRd0VxM3dqTWdzbHVFZmh5YjFrUUZ6N1lSYTZxZGx6cTdFd2Y5TlAtR2ZfVFNaTkdyNVNKYklNN0RpQmdWWHQ4ZnRPOVdqTzBGRnhfYm85bll4eVNobXQzSElDWFhBaS13?oc=5",
       "summary": "Spectrum Launches Ultra-Low Latency Internet, Delivering Faster Real-Time Connectivity Charter Communications",
       "published_at": "2026-05-18T14:54:49Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "b119df6431085eb07e9bb045",
+      "title": "Could there ever be a worldwide internet outage? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV09BMXBqbnRzX2xieGZFX3NKbkhnQjNUbFBzQXRnSGE4eDkzQkxtQXZvQmIyR2FiNzg2YTBuRmp4UUJ6dmtIdWxDX3lJN3B5RklSdU52b19ScGhieVdXQ2x1ZHBYeVIxLXlKXzFTNWNjMTFPNXBCY0l0Qmc4MlY1U0F1WldLQk5zRjB0TlJGWnRPX2o3TGppUEUySU52ejRDNWhFLXNwWXBQOXZmUm5FeEdDNEllRzQ?oc=5",
+      "summary": "Could there ever be a worldwide internet outage? MSN",
+      "published_at": "2026-05-18T05:41:03Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

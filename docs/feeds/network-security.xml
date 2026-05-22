@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 21 May 2026 22:52:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 00:14:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Attackers exploit SonicWall VPN vulnerability to bypass MFA | brief | SC Media - SC Media</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTBaYm9BWXNMNEo1UGZscFMxWURfZEFQYVA1aEJJOFd4TmVKQUl2TGtMN181blFZbHpVY0x6Z1g4MXZrRnBVT3U1RVhDTDBaY1FfdElsck55QjBaUzZUM3lDSXdBLXd1a2dwenNnSFJ6WjhDZ3BhWENWSWo1dnJnbWFLanBKanBzOWU4WjNQbGhLUDQ?oc=5</link>
+      <guid isPermaLink="false">32685aa08f06df28e43bb9b1</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-05-22 02:13
+Attackers exploit SonicWall VPN vulnerability to bypass MFA | brief | SC Media SC Media</description>
+      <pubDate>Fri, 22 May 2026 00:14:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-22T00:14:34.982718Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-21T17:13:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 「蟻の一穴」となるリモートアクセスVPNの脆弱性 ZTNA/SASEはなぜ必要か？ (1/2) - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WZndiU2JZNDRMQzY3ZXYtYzgwZTZPRmRQWFpkRWpBMGJYeDVtRk9ER0ZwRlctb2hJVGlmQ1FOUUNiRkVDR2pteXRUVmZBRldQMUxOMw?oc=5</link>
