@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-22T21:34:05.610723Z",
+  "generated_at": "2026-05-22T22:40:04.916493Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 15
     },
     {
-      "id": "8a2a0521a843e8f19afe8f9c",
-      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNkZBSEd3dlZGblY4NkQ3ZDJZMEtwem9oTm5HeU5KdW5KSHI1SFVLRUpkSFd6V2hURkg0OG96RmZMQ0d0eHNrYkZVN1pfYnBNOElBOEJ6TTNmU2tINm5wNjlKV01PaldqTmdOdW01MURXQlVIcmZZM3FOalVWSDY1OTZVLUtJMXY0SFJxdmpRTVJVNFJYMHpLa0QxcEp3UWl5RlNGWWs2Nmw3cGFfdjNyTkFOZjE4RjJ5MFp2WWtkRXFVR3V2eEpjZEctVjhsckhrd2ptaXJpZ1NsR3ZWN2YxVEs5Z29ydURGWGota1JzMkpxZU0?oc=5",
-      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
-      "published_at": "2026-05-22T14:59:58Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5",
       "summary": "Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point Dong Knows Tech",
       "published_at": "2026-05-13T23:02:40Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "ded44b48542cf18712e82870",
+      "title": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5",
+      "summary": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com",
+      "published_at": "2026-05-12T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
