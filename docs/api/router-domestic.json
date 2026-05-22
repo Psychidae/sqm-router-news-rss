@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-22T13:38:10.202201Z",
+  "generated_at": "2026-05-22T16:04:26.268059Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,17 +42,6 @@
       "score": 15
     },
     {
-      "id": "7b5474415bc43b0deae82ceb",
-      "title": "バッファロー、低温対応Wi-Fi 7アクセスポイントを2026年秋発売予定。1536台接続可能な法人向けラインアップを拡充 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VcWVkdU9mdGdzWjZLZGxRWFNKaEduMFJ6TnZtOE50QzJpWWxJT3c2TUxiNkUyeWVoZjdUeEE3RTBQcVJqNlBvR2VtRExGZUVzWDh0cm1NaEt5M1k5b3BCcjNPTWlDTlZqU0NR?oc=5",
-      "summary": "バッファロー、低温対応Wi-Fi 7アクセスポイントを2026年秋発売予定。1536台接続可能な法人向けラインアップを拡充 INTERNET Watch",
-      "published_at": "2026-05-13T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
       "id": "431753cfc03812f6bf4acd9e",
       "title": "最大18GbpsのトライバンドWi-Fi 7対応ルーター「RT-BE18000」がASUSから | チバテレ＋プラス - 千葉テレビ放送",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GVlpSV2FVNUc3aFlITFJDVlNFY3ZSLVVFX01kOTJPOWFEWE94Zk84Nm42Z0NscFgtRTNVMUduUzViRV8waTcteWFiX3FuS3RCOUtwZzdWMndYYmg1WHI00gFkQVVfeXFMT1J4UEkxS1UyQ05ZLTlfVGc4TkZVWmVBR1ozVW42bVQzelRqZHVTOUNDR3lTSkJxcDBBdFBCLUZETGc2WjRqM1dxRk1xc19IcEppZTlaQ0RKVUVHejB0RENQMld5OQ?oc=5",
@@ -61,7 +50,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "c2633fbbf755e15805305375",
@@ -72,7 +61,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "b6c605afa68ce3eeb1e405f4",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "a2614eed7fdbad0d5ba38a1c",
+      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81amR6dEw5ZDluOG5TWjBuU3VMMGk1VlNOdEUzODFfZEtjZENCMU55TUI4aWJIZ3FUamoyTXFoT0ZLWTNiNnN0Szl2WTdubGJpdWg3ODFaUEt5U0ZwWDRPamFkNFBsUWpiOVE?oc=5",
+      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開 bcnretail.com",
+      "published_at": "2026-05-19T06:05:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     }
   ]
 }
