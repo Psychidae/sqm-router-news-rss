@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-22T00:14:33.504699Z",
+  "generated_at": "2026-05-22T04:35:25.239293Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,15 +9,15 @@
   "errors": [],
   "items": [
     {
-      "id": "1aeb9eb062992f252cf6c64b",
-      "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5",
-      "summary": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com",
-      "published_at": "2026-05-17T08:11:45Z",
+      "id": "a9e981200e01e6729aecd34a",
+      "title": "TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWUyXzZfZFl3WklvYzhiQ1hUbi05V3VxSXJQQkN0NDhPR016dUdwVGZ3WmdPandlanRoYU1nZm9WQzdlM3prdHNkTWl1NnZvSG5EV3N2Q29vZ1JleW5ZWlBZZW9hRVlIclozTmJXUi13M2tkQmx2cWRreVVZMjZSSEdlZmcyUmdtZXllQnBMZw?oc=5",
+      "summary": "TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features GadgetGuy",
+      "published_at": "2026-05-22T03:11:43Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 19
     },
     {
       "id": "27dba55ab3250ade2adc20a7",
@@ -42,6 +42,17 @@
       "score": 16
     },
     {
+      "id": "d8672de80dba1a8db7172b2d",
+      "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
+      "summary": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar",
+      "published_at": "2026-05-22T00:31:29Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "f0a21905b77cf1dafb2276c9",
       "title": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5",
@@ -62,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "8a2a0521a843e8f19afe8f9c",
-      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNkZBSEd3dlZGblY4NkQ3ZDJZMEtwem9oTm5HeU5KdW5KSHI1SFVLRUpkSFd6V2hURkg0OG96RmZMQ0d0eHNrYkZVN1pfYnBNOElBOEJ6TTNmU2tINm5wNjlKV01PaldqTmdOdW01MURXQlVIcmZZM3FOalVWSDY1OTZVLUtJMXY0SFJxdmpRTVJVNFJYMHpLa0QxcEp3UWl5RlNGWWs2Nmw3cGFfdjNyTkFOZjE4RjJ5MFp2WWtkRXFVR3V2eEpjZEctVjhsckhrd2ptaXJpZ1NsR3ZWN2YxVEs5Z29ydURGWGota1JzMkpxZU0?oc=5",
-      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
-      "published_at": "2026-05-18T19:40:07Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "23b50ffca22e89439386bf4f",
@@ -112,7 +112,7 @@
       "title": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5",
       "summary": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com",
-      "published_at": "2026-05-12T20:02:00Z",
+      "published_at": "2026-05-12T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
