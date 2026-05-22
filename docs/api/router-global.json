@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-22T22:40:04.916493Z",
+  "generated_at": "2026-05-22T23:45:04.686576Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
-    },
-    {
-      "id": "1aeb9eb062992f252cf6c64b",
-      "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5",
-      "summary": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com",
-      "published_at": "2026-05-17T08:11:45Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 17
     },
     {
       "id": "27dba55ab3250ade2adc20a7",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5",
       "summary": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com",
       "published_at": "2026-05-12T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "1b409b4a01719ff9ac9567d7",
+      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmx6UmpWRlJUYncwZTk4NXNmZEZ6RkRTekw5dlMtZXJSQVVRN0hhSEY2YzREa2lvbjdhMHVTS2stU19NRGFzZFdoT3dZNnRCMjZ6bGJTT3BScmJhYm93YkpRYkVtQ1dGdHFSSWVaX29RbmZFRFVsMTlKa29KaU5DWGVNd2Jfa2ZQWWlmQg?oc=5",
+      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp",
+      "published_at": "2026-05-11T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
