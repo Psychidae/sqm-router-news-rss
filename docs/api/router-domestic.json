@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-23T16:39:30.080404Z",
+  "generated_at": "2026-05-23T18:41:32.185730Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "d5390044cbe6f56af0a7bd78",
-      "title": "ASUS製のWi-Fi 7ルーターがセール、ゲーミングルーターが2万7818円から！ 10Gbps WAN/LAN対応の「RT-BE92U」は3万2545円 | チバテレ＋プラス - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsbHNZN3RiSGdtUzFWVWZ1Y0wxTGJKY3A3ZmpIQkJTTjVjblhjbFk4alZzSWlkTTFzc3lZbVVOTlUxVXg0WER4ZkFvUDRpRFNPa1loeGhIUHo4dWtFQlBvd3RqWF_SAWRBVV95cUxQbGxzWTd0YkhnbVMxVlVmdWNMMUxiSmNwN2ZqSEJCU041Y25YY2xZOGpWc0lpZE0xc3N5WW1VTk5VMVV4NFhEeGZBb1A0aURTT2tZaHhoSFB6OHVrRUJQb3d0alhf?oc=5",
-      "summary": "ASUS製のWi-Fi 7ルーターがセール、ゲーミングルーターが2万7818円から！ 10Gbps WAN/LAN対応の「RT-BE92U」は3万2545円 | チバテレ＋プラス 千葉テレビ放送",
-      "published_at": "2026-05-21T02:12:30Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
     {
       "id": "b5cf9af93f9060ad46cbfebf",
       "title": "ASUS製のWi-Fi 7ルーターがセール、ゲーミングルーターが2万7818円から！ - INTERNET Watch",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "10fef84c6bcf7b2bf1067edb",
+      "title": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FNTNpeXRmRG00S2tRS0NyVjBmb0djdnNpM3BlcE50c29ZajFqSnRUZUFqSUhvN0VTUkFBaWl1Rk9XeWd2UUFBZDc0WkpfcHpUTENqZjJWeFVkZlRFSXJINTU5bnlFTURtbHd3Tk5NTmFONnhzZENMeWFvTWNFa1E?oc=5",
+      "summary": "最大18Gbpsの高速無線、次世代Wi-Fi 7ルーター「ASUS RT-BE18000」全国展開（BCN） Yahoo!ニュース",
+      "published_at": "2026-05-20T11:20:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     }
   ]
 }
