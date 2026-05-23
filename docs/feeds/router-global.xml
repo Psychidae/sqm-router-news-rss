@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 May 2026 15:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 16:39:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy</title>
@@ -54,13 +54,13 @@ TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance ov
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFKZU14ekdVSmdOQWhPVDZJR0JDRkl6RzZSRU9qdHViMkc4R3RsWDEwWF9VcHloWFUzZjNUSXlTcG9yd19tdkxESFlockNLZHp2YWJfMEMwRF81NHNZVkJPS01PeGRtdEpVeVRYS3NuODBwOFNUWHhSV2JqTDZqV2w5bi1jdDdsYm5fZ0E1YWFsRGdmMGZhR2Nn?oc=5</link>
       <guid isPermaLink="false">534108aeda5158d8baa30e89</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
+ソース: Google News Global: home networking
 元記事日付: 2026-05-12 16:00
 I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it ZDNET</description>
       <pubDate>Wed, 13 May 2026 05:33:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-13T05:33:27.509792Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-12T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -75,6 +75,20 @@ MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</
       <sqm:firstSeenDate>2026-05-22T04:35:25.238243Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-22T00:32:33Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] How To Update Your Wi-Fi Router's Firmware And Why You Might Want To - Yahoo</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlM2MHR6U0dMdmpNR1lhWXVtMHFHa2lmdGxiWlhicU9rSTU5UWhnVnRmNTVTbVZ1QlVfajYwd1pMaWdQeU5URDZLNnFFRkhHTWxNVnN0QVJxU2xKY1lISDhaSmdSM3ZJalM0bVZhZHpfUTRMSnI0MExWT1pvTU9iVENZQkgtSzVfQVBadA?oc=5</link>
+      <guid isPermaLink="false">8c0001fa3b555932f278401a</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-05-22 19:35
+How To Update Your Wi-Fi Router's Firmware And Why You Might Want To Yahoo</description>
+      <pubDate>Sat, 23 May 2026 16:39:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-23T16:39:31.135389Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-22T10:35:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -129,20 +143,6 @@ ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp</des
 ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Board Software TechPowerUp</description>
       <pubDate>Sat, 23 May 2026 14:13:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-23T14:13:31.871845Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-11T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVBwWm5idHNiSndBclpOMzUzbnNiR3FSTmYxNXM5YkI0X1U3OXRBR21xVjBWOHVIdlhGUl9Id2w2TWlMeGIyRkxzNWZNRUZCTldfa09TQ1R6NTZZdXBOTkczMlhwWkZnenpwWHJuSEhpRG1iVVBZUUM5NDhCNlhnUHRtQQ?oc=5</link>
-      <guid isPermaLink="false">716630442e650c7b138caf99</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-11 16:00
-ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review TechPowerUp</description>
-      <pubDate>Sat, 23 May 2026 15:19:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-23T15:19:03.103347Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-11T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
