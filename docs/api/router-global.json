@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-23T07:57:04.355285Z",
+  "generated_at": "2026-05-23T10:03:42.291253Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "8c0001fa3b555932f278401a",
+      "title": "How To Update Your Wi-Fi Router's Firmware And Why You Might Want To - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlM2MHR6U0dMdmpNR1lhWXVtMHFHa2lmdGxiWlhicU9rSTU5UWhnVnRmNTVTbVZ1QlVfajYwd1pMaWdQeU5URDZLNnFFRkhHTWxNVnN0QVJxU2xKY1lISDhaSmdSM3ZJalM0bVZhZHpfUTRMSnI0MExWT1pvTU9iVENZQkgtSzVfQVBadA?oc=5",
+      "summary": "How To Update Your Wi-Fi Router's Firmware And Why You Might Want To Yahoo",
+      "published_at": "2026-05-22T10:35:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
@@ -64,11 +75,11 @@
       "score": 13
     },
     {
-      "id": "f0a21905b77cf1dafb2276c9",
-      "title": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5",
-      "summary": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router TechPowerUp",
-      "published_at": "2026-05-21T12:10:14Z",
+      "id": "0c8d2f8764c1c60826fdc3bc",
+      "title": "I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWtyTFM3OWxsRmRKUm0xS2VkY0hTc3poZi1kSUdadGFsajRFc2UwNzg2c1dNd3VoYVRSWlpsVDVKQ2w0ZkVybFlKLTlmNXNSLUZpZTNmYzZ1QnBtXzVKOERMMVE4UHZabkNCckhDZ3ZoT0NiX1VMMXVOenBSZDBIVVl3VkVzV3NrS3NORnlJZDBWeTBBRWlDeGJFaENRWVVtdTdiTTBhSGV2cVFuendwbEUzTDhPbXcwNGF3XzlzRU1YVHg4ajh4MTdOYVZPR09WZ0dyUTdNUm1YdU5TRGs2NGRJZw?oc=5",
+      "summary": "I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked How-To Geek",
+      "published_at": "2026-05-21T16:00:17Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5",
       "summary": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 bgr.com",
       "published_at": "2026-05-12T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "1b409b4a01719ff9ac9567d7",
-      "title": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORmx6UmpWRlJUYncwZTk4NXNmZEZ6RkRTekw5dlMtZXJSQVVRN0hhSEY2YzREa2lvbjdhMHVTS2stU19NRGFzZFdoT3dZNnRCMjZ6bGJTT3BScmJhYm93YkpRYkVtQ1dGdHFSSWVaX29RbmZFRFVsMTlKa29KaU5DWGVNd2Jfa2ZQWWlmQg?oc=5",
-      "summary": "ASUS ROG Strix X870E-A Gaming Wi-Fi 7 Neo Review - Overclocking TechPowerUp",
-      "published_at": "2026-05-11T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
