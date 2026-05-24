@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 May 2026 21:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 22:08:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy</title>
@@ -33,34 +33,6 @@ TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance ov
       <sqm:firstSeenDate>2026-05-15T12:06:12.918152Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-15T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it - ZDNET</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFKZU14ekdVSmdOQWhPVDZJR0JDRkl6RzZSRU9qdHViMkc4R3RsWDEwWF9VcHloWFUzZjNUSXlTcG9yd19tdkxESFlockNLZHp2YWJfMEMwRF81NHNZVkJPS01PeGRtdEpVeVRYS3NuODBwOFNUWHhSV2JqTDZqV2w5bi1jdDdsYm5fZ0E1YWFsRGdmMGZhR2Nn?oc=5</link>
-      <guid isPermaLink="false">534108aeda5158d8baa30e89</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-12 16:00
-I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it ZDNET</description>
-      <pubDate>Wed, 13 May 2026 05:33:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-13T05:33:27.509792Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-12T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] How To Update Your Wi-Fi Router's Firmware And Why You Might Want To - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlM2MHR6U0dMdmpNR1lhWXVtMHFHa2lmdGxiWlhicU9rSTU5UWhnVnRmNTVTbVZ1QlVfajYwd1pMaWdQeU5URDZLNnFFRkhHTWxNVnN0QVJxU2xKY1lISDhaSmdSM3ZJalM0bVZhZHpfUTRMSnI0MExWT1pvTU9iVENZQkgtSzVfQVBadA?oc=5</link>
-      <guid isPermaLink="false">8c0001fa3b555932f278401a</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-05-22 19:35
-How To Update Your Wi-Fi Router's Firmware And Why You Might Want To Yahoo</description>
-      <pubDate>Sun, 24 May 2026 21:10:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-24T21:10:13.604268Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-22T10:35:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -145,6 +117,34 @@ Your router isn’t just for Wi-Fi—here’s everything else it can do How-To G
       <sqm:firstSeenDate>2026-05-24T19:52:00.722434Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-23T17:30:17Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5</link>
+      <guid isPermaLink="false">c84fa1e2300765c1cdb9b4a5</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-16 01:47
+Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral</description>
+      <pubDate>Sun, 24 May 2026 22:08:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-24T22:08:47.837613Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-15T16:47:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5</link>
+      <guid isPermaLink="false">929aceddb00e82be9fe69445</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-05-13 16:00
+The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times</description>
+      <pubDate>Sun, 24 May 2026 22:08:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-24T22:08:47.837613Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-13T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
