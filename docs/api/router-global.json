@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-24T18:46:31.814766Z",
+  "generated_at": "2026-05-24T19:52:00.723454Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 18
-    },
-    {
-      "id": "1aeb9eb062992f252cf6c64b",
-      "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5",
-      "summary": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com",
-      "published_at": "2026-05-17T08:11:45Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "27dba55ab3250ade2adc20a7",
@@ -51,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
-    },
-    {
-      "id": "c22af42204a24fd6ae22c966",
-      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZVh6ZEpsSWJBU3pVN1NiRlZLbmhuU21uNXJMWHhvUlQzUC1hMXQxWV9uWWw5QmExeVF1WVpCRm5wZm1iRW9obmg0SnBXa2l1czZ1REgxV0RJOUJ3ZDg2V2s3OGlBaDNFU0Vxa0RDTElPcEl6bldjZXdUQlMtZXdWdXhUREdyNEtETVRBT0dST2Uxd1Z6VGJNaVE5WThSZUxjQ0xOMEJ6clJoQUJ4UVdZajU0QUp4Ul9rSWUzRW16M0lyY3o2S19HM0ZkUFJvakVfNXBkWlplNTl4aW1pUlJIZ1ltOHIzWjcyWXhZNnliNWx2OW9aTU1zTHpEbzRZdFoyLXdMS1Boa2NxMXhJZTh6TGlOUTFOekVXeGFKeTlWTk9XWmhBbjRfeVpZR1Y0T09uTzFnX2tKSW5qVVE3R1c3bUdfRzJ1cDJ1dEd0Qzh1ZlJLcFh4clFzN0JJa0NfUQ?oc=5",
-      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
-      "published_at": "2026-05-21T14:06:30Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "23b50ffca22e89439386bf4f",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "4a9339774224abdfb46388ef",
+      "title": "Your router isn’t just for Wi-Fi—here’s everything else it can do - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU1NMEc3N1VEdHlmRTVUUVB6b2k1WW1wN0pZd2F3dkNTaXpQaXl5eW82QllfUzhaeUcySXpZd1ItbWFEQ0J5N3JDZ3d2NFgtdTVUSDRsdTFKZGZOUXh6bVQ5Vmg4Qm95bUoxTzNGUU13RVlENUt6QmxRd3hRdU5RRkFxZ0poN1E4NFQyXzZrSkpxdw?oc=5",
+      "summary": "Your router isn’t just for Wi-Fi—here’s everything else it can do How-To Geek",
+      "published_at": "2026-05-23T17:30:17Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "c84fa1e2300765c1cdb9b4a5",
+      "title": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5",
+      "summary": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral",
+      "published_at": "2026-05-15T16:47:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
