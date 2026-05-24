@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-24T15:20:34.843540Z",
+  "generated_at": "2026-05-24T16:41:37.418171Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -24,17 +24,6 @@
       "title": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Forbes JAPAN",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SYm5HZHR6MHYzZnptNjBERkpmMUkwUm12Szloem14eXNkclhkMnQ3cVlxb0drZkZZUExiNllKMDZSSC01X3JzX21BTGNHdlB2dkw0WVBXSWI?oc=5",
       "summary": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Forbes JAPAN",
-      "published_at": "2026-05-18T02:30:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "93295faf195746b2e304c5a1",
-      "title": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2dycEw3OERSNk5hUWNaS3g2SXFGUzJkMU1laUV6UHpPdzBxeEJ2d2Y2SWE5Nm9zeW53R2lHQXVMLW5LbWNmMS11bFBreV9WM3ZvUTdER1VwRGN1bXV1MzhzYnY1VnZKaGFxZm1Ba1p3c24tWmhfb1lUVXdwRVlrTmlyOUo0N1Jw?oc=5",
-      "summary": "Android 16でVPN保護をすり抜ける脆弱性が発覚──グーグルは「修正しない」と回答 Yahoo!ニュース",
       "published_at": "2026-05-18T02:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -62,17 +51,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
-    },
-    {
-      "id": "c8bcec5f4f004483f0eba706",
-      "title": "iOS対応セキュリティソフトのおすすめ人気ランキング【2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBVdFR3Z2U5ZV96R2lUTTg5QWU1UmxTSGlPQk02eGxfeVVGSnZZalNyYjBaWDZLNnNsTVFDNEdB?oc=5",
-      "summary": "iOS対応セキュリティソフトのおすすめ人気ランキング【2026年5月】 マイベスト",
-      "published_at": "2026-05-20T15:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     },
     {
       "id": "445ea0d070207b0134ab01ff",
