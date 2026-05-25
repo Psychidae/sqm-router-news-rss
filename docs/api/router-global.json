@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-25T12:44:00.261685Z",
+  "generated_at": "2026-05-25T15:41:16.547750Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,11 +42,44 @@
       "score": 16
     },
     {
+      "id": "cb385b8991583add29208c66",
+      "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1VSeDIwSlRoOHg1MUJZUmp3Nnl2aGtYS0NLTFg0X3NsdTBIc0lHM05PdGczbUxaa1VNZmM4WGNmRGI1SjdkTm8wNVNtUU9ncm1OOXQ4M3paV0s2eU16Q3FxdEdZZkJ5X3B3WkxhNkVvR1YxcTB3WlhxTDlVVFo4NnYxVXY?oc=5",
+      "summary": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it Yahoo Tech",
+      "published_at": "2026-05-12T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
       "summary": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar",
       "published_at": "2026-05-22T00:29:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "f0a21905b77cf1dafb2276c9",
+      "title": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5",
+      "summary": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router TechPowerUp",
+      "published_at": "2026-05-21T12:10:14Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "fda98857133ff5c052196322",
+      "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
+      "summary": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro",
+      "published_at": "2026-05-20T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -64,6 +97,17 @@
       "score": 11
     },
     {
+      "id": "abe2efa8923bdb5f472d8c2f",
+      "title": "Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ySVByZUdXdnl1N3dsY05VYnVyck0zYXpEN3hQTWFlb044c0twTnMwWFZJOVNSU2JzSXkzNFcxel9wN0Q1M0NqaVZfOUJLSy1Zejh2WVZXbF9KZXEySmJCZ0dhN05JNWc5SjdZ?oc=5",
+      "summary": "Ubiquiti UniFi U7 Pro XG Wall Review: A Well-Performing Wall-Mount Wi-Fi 7 Access Point Dong Knows Tech",
+      "published_at": "2026-05-13T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "ded44b48542cf18712e82870",
       "title": "8 Reasons You Should (And Shouldn't) Upgrade Your Router To Wi-Fi 7 - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbGhRS1R3T3hnV21VWG9peTZ6b1ZYRzYzUFlsMnkxdHNSeXhZVVhtUnJRQzA1eC15VUZLRlhfUXlQZ2MyQlRUbGppSG16b25tYjZ1SXJaMEhQZV9xYlQ5VXd1UjRJZjNsNjd2RVR2RDdsNEV6RTZHLUx4RjJ2Z3M?oc=5",
@@ -73,50 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "21f634302dc721ec7f31cffc",
-      "title": "4 Disadvantages Of Wi-Fi 7 Routers You Should Know About - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uVmhwRTBhbVFHQVprMjJmbHdTSnNIanVycVdUaDJYc2VlaDl1bXJUd2JQcHZfYms4a3QwTFNWamlNb2kydXhweHA3WG5iUzh6dTI0enFqbUJ0cmsySjVpQndtVkZaczlhOGJURTNSclItMjk5dkJVRQ?oc=5",
-      "summary": "4 Disadvantages Of Wi-Fi 7 Routers You Should Know About bgr.com",
-      "published_at": "2026-05-25T10:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
-    },
-    {
-      "id": "45dc41a9e79072923cc0cc90",
-      "title": "Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJZaEhMZ2lZd1l4MGhPZURvOHhXclEzUjVMdElqT281bGJBWnktVHFlRmN3SDdzX0FNS0VJRkxnX1B3NGlVWWhTUjUtLXdnZXFzY3dHMGJrQzdiX2ZxNHJoS0VvS0Zld1ZXVlRvbDZxNmVhX2tGdm5vWl8zdFRuVG5jNmlCNWZ0ck9QazE4VHpoRXBIb1dWaHRNaUhVaGtoM0VnSkVyeS1IRjh3Tk9wNWYzbXRvczMzVUFaTGRMOC13N2RWOFRhUDJ1ZkJsRGVST0pqdA?oc=5",
-      "summary": "Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only PC Guide",
-      "published_at": "2026-05-25T01:19:53Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
-    },
-    {
-      "id": "4a9339774224abdfb46388ef",
-      "title": "Your router isn’t just for Wi-Fi—here’s everything else it can do - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU1NMEc3N1VEdHlmRTVUUVB6b2k1WW1wN0pZd2F3dkNTaXpQaXl5eW82QllfUzhaeUcySXpZd1ItbWFEQ0J5N3JDZ3d2NFgtdTVUSDRsdTFKZGZOUXh6bVQ5Vmg4Qm95bUoxTzNGUU13RVlENUt6QmxRd3hRdU5RRkFxZ0poN1E4NFQyXzZrSkpxdw?oc=5",
-      "summary": "Your router isn’t just for Wi-Fi—here’s everything else it can do How-To Geek",
-      "published_at": "2026-05-23T17:30:17Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "c84fa1e2300765c1cdb9b4a5",
-      "title": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5",
-      "summary": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral",
-      "published_at": "2026-05-15T16:47:24Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }
