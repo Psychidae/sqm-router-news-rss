@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-25T15:41:17.853282Z",
+  "generated_at": "2026-05-25T17:22:03.512601Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -31,9 +31,9 @@
       "score": 8
     },
     {
-      "id": "5fe3a1166b7a56637931ce28",
+      "id": "80d3f57b129ad4b4633cd6de",
       "title": "NECのモバイルルーターに脆弱性 アップデートの確認を - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uX3hSdGtvazhaa3NsRnBkZXY3Sld0Mnp3azVaeHNUM1laTHIxVkw0WEJjOXdjSEJtSk00aGZoSFZ4NFRtaE5YaHBkR19ZSVJXV0M3dVpnVlExUVM0dVU5ZldSV0puUUlfRG15bWZ4T09OZzU3c3N3bFhuaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIR0k2TXRVbVJhenlPNTVKVGNQSjA0dUpJSXpGbjZWckhuck1hblVEd25BMnpHWllRcWxVcG10andtVkpPLVdpOWNpcmpKdFdKc3ZKVmtHaHpmUDAxaG9hclZoYWJmYllSUHFxZzdHMGE5N1o4c29NV3FmWQ?oc=5",
       "summary": "NECのモバイルルーターに脆弱性 アップデートの確認を ニコニコニュース",
       "published_at": "2026-05-25T04:12:03Z",
       "source": "Google News JP: network security",
@@ -42,10 +42,10 @@
       "score": 8
     },
     {
-      "id": "3c42cb4fb09568806241abc3",
-      "title": "NECのモバイルルーターに脆弱性 アップデートの確認を（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGVTY1VOdUJUSWNORGdyUlBlNDhSRHdhSFdldnlSQi1pZG9TMVFieWl6Y3pIVncwSnVtVFFqMUNwVWczQzI5bjEyaGlZazNLVzczc1FhQlFBWXhOQjNfQ1JucG5tdjJJanpoWlRidUo1U2VtSGFMcW5QZS1BR1pTem1wSWRnQnBoOGJzbWN3?oc=5",
-      "summary": "NECのモバイルルーターに脆弱性 アップデートの確認を（アスキー） Yahoo!ニュース",
+      "id": "00e5b4c5f801144e3b36f247",
+      "title": "NECのモバイルルーターに脆弱性 アップデートの確認を - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBILUJGT0tGQkt3bUlveEtxU1FkdlFrZ0Y2QUtQc0tLclFBU2dHWlQ0Zl9GWXU3NXR1Q0pXUG9sMWJTc2JIWlVXQXpCM1p0WUc3eDZJSA?oc=5",
+      "summary": "NECのモバイルルーターに脆弱性 アップデートの確認を ASCII.jp",
       "published_at": "2026-05-25T04:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SdWFJbGltQ3RqV1YwemxuUDBqdkFzVDdFeks1OEtwN0Y1UlJIVXRlMHRheGlsS3NNZjRNY3hISnlvcGgtSnhtN0Zva3BRdkJqck1vUQ?oc=5",
       "summary": "ネットワークとセキュリティの統合に強み 通信事業者系ZTNA/SASEサービス3選 ASCII.jp",
       "published_at": "2026-05-22T02:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "2c0b4756d26a21b34e96bf89",
-      "title": "Fortinet, Palo Alto, Cisco ～ 国産CNAPP「Cloudbase」がネットワーク機器の脆弱性可視化機能リリース - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XT0twMlBPbXVYM0dPNi1RNmoxUjYyUDZsbHJhdnRpNG9adVhtaVc5WGlHMjVxb2ZNTG82cnNYRFNFN1hta1JMYnRqWGFFb1JJdGJRbm5UbFRjWmNIVm5pSndvWmtvbkROUUkwbw?oc=5",
-      "summary": "Fortinet, Palo Alto, Cisco ～ 国産CNAPP「Cloudbase」がネットワーク機器の脆弱性可視化機能リリース ScanNetSecurity",
-      "published_at": "2026-05-19T23:00:07Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
