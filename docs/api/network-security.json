@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-05-25T21:50:22.488137Z",
+  "generated_at": "2026-05-25T23:20:52.123574Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -42,10 +42,10 @@
       "score": 8
     },
     {
-      "id": "00e5b4c5f801144e3b36f247",
-      "title": "NECのモバイルルーターに脆弱性 アップデートの確認を - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBILUJGT0tGQkt3bUlveEtxU1FkdlFrZ0Y2QUtQc0tLclFBU2dHWlQ0Zl9GWXU3NXR1Q0pXUG9sMWJTc2JIWlVXQXpCM1p0WUc3eDZJSA?oc=5",
-      "summary": "NECのモバイルルーターに脆弱性 アップデートの確認を ASCII.jp",
+      "id": "11f275b61aecd94283d6cb81",
+      "title": "NECのモバイルルーターに脆弱性 アップデートの確認を - 週刊アスキー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndDJtbnBJNnNMNEVuVndRdFNZeXRjX1BtbEZGNldCOHNYNWtCclNiWlRsZXRRc0lXbU5fWWE1T0NfVGZXUlFtRzNuMTR5UXl3cG9HUng1NEFQMktyaGc?oc=5",
+      "summary": "NECのモバイルルーターに脆弱性 アップデートの確認を 週刊アスキー",
       "published_at": "2026-05-25T04:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
