@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 25 May 2026 20:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 21:50:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン</title>
@@ -60,20 +60,6 @@ Court hearing for Kiwi detained by ICE delayed after internet outage Stuff</desc
       <pubDate>Fri, 22 May 2026 23:45:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-22T23:45:07.189082Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-21T23:40:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Spectrum launches ultra-low latency internet in select markets - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdFdaY3VTdTB0WmVMWDVmUGVjZW9nMHczNGp6c2xQMEhGRVlOUVIyY3pub3ZNR25HbFdNZ3ZGU3VzU3NBWFZMWXc0Q3E5WmJWNjhOU1ptLS1ua0pIZ0tkbTRzUExZVkNhcDloQVBmaWxWMWJlZFl2TWtNM0pRV3kxeWE2VWRTYllSYzI1SjYtcWZ6cWZubXp1bzBRUEZtRVlnU0hMMTg1Zlo?oc=5</link>
-      <guid isPermaLink="false">dff23284ed1374878951fa4f</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-20 01:01
-Spectrum launches ultra-low latency internet in select markets Telecompaper</description>
-      <pubDate>Mon, 25 May 2026 19:06:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-25T19:06:33.084482Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-19T16:01:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
