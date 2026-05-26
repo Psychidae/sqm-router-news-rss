@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 01:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:49:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5</link>
-      <guid isPermaLink="false">1aeb9eb062992f252cf6c64b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-17 17:11
-ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com</description>
-      <pubDate>Mon, 25 May 2026 19:06:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-25T19:06:30.981434Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-17T08:11:45Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE770 Wi-Fi 7 router review: Prioritizing wireless performance over wired connectivity - Tom's Hardware</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQX2pKYTNiZmhMZlB4UVp6YW5uc2g2V05hLTcyeFlXVkZpWjVsSzZaUGhVTnJlWF9ncGNmcGlLQ21uNTJWeVExRU1maXJOUEh3NUI0UTFvaVBsQzVpbWtfV2RPZmVvWDJWbEFXVjVhdVZFbFlTVjlqUHdBeVd1TkN5eHJpbWxKdEpFbkNFZTlmSFRPLU1r?oc=5</link>
@@ -55,11 +41,11 @@ I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so
       <guid isPermaLink="false">d8672de80dba1a8db7172b2d</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-22 09:29
+元記事日付: 2026-05-22 09:32
 MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</description>
       <pubDate>Sun, 24 May 2026 23:13:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-24T23:13:05.761801Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-22T00:29:45Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-05-22T00:32:33Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -89,6 +75,20 @@ The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from bu
       <sqm:firstSeenDate>2026-05-25T23:20:51.108159Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-12T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) - CNX Software</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm90cjVWZi1LcFFFTmtGVFVPdzdNOU44U2ctMmhJcVpocWdyYXBaOTNiSEtOWnpNS1VSLXlPRUxySVh5OW44UHVzZ3NBOVRGdGJNcy1xVi04VVJjamFEcV96dFZBd0NDZnVheGl2REJJblAtaUc3Q0hkdEo0Z1AyZDdRQ25RWmllOTVFakFHU3g5dFlnRlpBelZnRnlaZkwxSy1ELTlETXNuMUJS0gG0AUFVX3lxTFBnTlJHZHl1VEthRHl4MWtaUWZVZFQ4QUR2TlVsc29kcjlXU3pVRUJsWXJUN2k4Z0ZGRHROckhhNWNyTWJUMmppbEVHMTdrdVIxYUlCa1ZDU1pCc2dqWXFNN0E1X2l4M2xMbWprZU5qY1FJcEtmQ0U4RUJEN0cwYU9MaVdqWV9OUVFYSUU2cldsRkNCLUNZd0w0dW45a3NWRXU5T3JzWS1OaG5UUTRDb2cxdW94dw?oc=5</link>
+      <guid isPermaLink="false">da1209dd1e6f7411fab2dff4</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-05-15 16:22
+Start9 RISC-V Router features SpacemiT K1 SoC, runs StartWRT OpenWrt fork (Crowdfunding) CNX Software</description>
+      <pubDate>Tue, 26 May 2026 05:49:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-26T05:49:37.996193Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-15T07:22:59Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
