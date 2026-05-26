@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-25T23:20:50.058257Z",
+  "generated_at": "2026-05-26T01:29:07.944548Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -86,11 +86,11 @@
       "score": 15
     },
     {
-      "id": "1de9270ed2bfcd8df5012844",
-      "title": "ASUSの新Wi-Fi 7ルーター「RT-BE18000」発売拡大 最大18Gbps対応 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YYl9USmpsNGY2OGY5emtXZU5xVnRoeFM0QjU1eGxhRldGQ2paVElrd0M5TDlSMlZrd0xmRXh2T1Z3Ymx5c1F6bEtfbGloSzBFdWw0cw?oc=5",
-      "summary": "ASUSの新Wi-Fi 7ルーター「RT-BE18000」発売拡大 最大18Gbps対応 ASCII.jp",
-      "published_at": "2026-05-15T07:00:00Z",
+      "id": "51fc2db5d3933903701acb95",
+      "title": "バッファロー、法人向けWi-Fi 7アクセスポイント低温対応モデルなど2機種を今秋発売 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USjJrMnVVT3VPaVp4c3dyUkI1czZUZnVodTIyR1ZBbzBaUFRYS2dEdGJQTnlNVWx2MVRPN1AxWkFDWmtXdHgtakFHeVY3TEJGU05DRU94OEg4MzhwR0Z6YW5UdExiUU0?oc=5",
+      "summary": "バッファロー、法人向けWi-Fi 7アクセスポイント低温対応モデルなど2機種を今秋発売 ケータイ Watch",
+      "published_at": "2026-05-12T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
