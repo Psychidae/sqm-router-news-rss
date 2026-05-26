@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-26T13:39:23.696551Z",
+  "generated_at": "2026-05-26T17:00:04.961219Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "c0c10714aaba2170008a25c1",
-      "title": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDBpNm9iRHRfY2pHejhUYk02cDZtbGl6SExoNjVKZTNGUGFWbl9lZnU4NFBULWZreGNjZFc2MjgwR0ZpaU1tRXY0eGxDeEk3YUs3Q0ZIbDBqSjlFMDNrWERGUzY4OEt0LVRnR2J2a3JKOHpqZ1JrTzBrX1NNNlJMeUFaY3ZWX2d1WnlTVWNBMGxvVXNpZ0hLZXRn?oc=5",
-      "summary": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming",
-      "published_at": "2026-05-26T13:18:20Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
-    },
     {
       "id": "a9e981200e01e6729aecd34a",
       "title": "TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy",
@@ -53,6 +42,17 @@
       "score": 16
     },
     {
+      "id": "8a2a0521a843e8f19afe8f9c",
+      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNkZBSEd3dlZGblY4NkQ3ZDJZMEtwem9oTm5HeU5KdW5KSHI1SFVLRUpkSFd6V2hURkg0OG96RmZMQ0d0eHNrYkZVN1pfYnBNOElBOEJ6TTNmU2tINm5wNjlKV01PaldqTmdOdW01MURXQlVIcmZZM3FOalVWSDY1OTZVLUtJMXY0SFJxdmpRTVJVNFJYMHpLa0QxcEp3UWl5RlNGWWs2Nmw3cGFfdjNyTkFOZjE4RjJ5MFp2WWtkRXFVR3V2eEpjZEctVjhsckhrd2ptaXJpZ1NsR3ZWN2YxVEs5Z29ydURGWGota1JzMkpxZU0?oc=5",
+      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
+      "published_at": "2026-05-22T14:59:58Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
@@ -64,15 +64,15 @@
       "score": 12
     },
     {
-      "id": "23b50ffca22e89439386bf4f",
-      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
-      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware",
-      "published_at": "2026-05-15T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "fda98857133ff5c052196322",
+      "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
+      "summary": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro",
+      "published_at": "2026-05-20T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 12
     },
     {
       "id": "21f634302dc721ec7f31cffc",
@@ -108,15 +108,15 @@
       "score": 8
     },
     {
-      "id": "0cce7670507fe455a0b4b451",
-      "title": "The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcHJTQVJuNWQzX2hEMlcxN0g0clQ1MG5LSmR6aDgxcEcySTNrSElWNHhNb05lSHF5bmdHOEFMdUZZbkt2cHJxMlNtX2FhWHA2R2xiaC1vbVpYRE1yQ1JqME94aw?oc=5",
-      "summary": "The 5 Best Wi-Fi Routers For Large Homes of 2026 RTINGS.com",
-      "published_at": "2026-05-22T07:00:00Z",
+      "id": "4a9339774224abdfb46388ef",
+      "title": "Your router isn’t just for Wi-Fi—here’s everything else it can do - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRU1NMEc3N1VEdHlmRTVUUVB6b2k1WW1wN0pZd2F3dkNTaXpQaXl5eW82QllfUzhaeUcySXpZd1ItbWFEQ0J5N3JDZ3d2NFgtdTVUSDRsdTFKZGZOUXh6bVQ5Vmg4Qm95bUoxTzNGUU13RVlENUt6QmxRd3hRdU5RRkFxZ0poN1E4NFQyXzZrSkpxdw?oc=5",
+      "summary": "Your router isn’t just for Wi-Fi—here’s everything else it can do How-To Geek",
+      "published_at": "2026-05-23T17:30:17Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 8
     }
   ]
 }
