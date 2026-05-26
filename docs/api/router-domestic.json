@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-05-26T05:49:36.745565Z",
+  "generated_at": "2026-05-26T10:17:12.148991Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -16,28 +16,6 @@
       "published_at": "2026-05-25T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
-    {
-      "id": "ef3ea124e25614d75d0f188d",
-      "title": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16em14bkctc0kzVWdubkpOb05oSnd0UjBfa0UzMUJmb2x2U1RjLUxmeHZXci1BaEZNM2FtajU4a2ItbmUzQ1NobS1QOXZiUQ?oc=5",
-      "summary": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 マイベスト",
-      "published_at": "2026-05-25T01:38:20Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
-    {
-      "id": "0c0221b30d730ebd84ef15f4",
-      "title": "バッファロー BUFFALO Wi-Fiルーター WSR-5400AX6P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RTFVGcklwd204akRQWmpwRFhqUlloLUc2T1FOX0MtVUJSUExtRW1mNkhISDM3SmVYZl9XaW5HNHJ5S3VpY1p6UkljN3o?oc=5",
-      "summary": "バッファロー BUFFALO Wi-Fiルーター WSR-5400AX6P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 マイベスト",
-      "published_at": "2026-05-25T01:38:16Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
     },
@@ -58,8 +36,8 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VbDQwck9FLWZpcUliMnVBNDVEV2F1VnFPUmxKNzlZbHkxd1lRMEgxX3l4dHM1dTJmTWN4U2Z0UGVaQU1WVzZEa1FvcVhGbzljUWlFUkxlZHJWb2NmYTAtYTlXQXN0bnppZkE?oc=5",
       "summary": "ASUS、Wi-Fi 7対応でデュアル10Gポートを搭載した無線LANルーター「RT-BE18000」の販路を拡大 kakaku.com",
       "published_at": "2026-05-18T03:23:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
     },
@@ -91,6 +69,28 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5INVBveWFoSmFFQmlVdEViNjAwQzhObm9FdWl3N0xtcU5zXzhFVExCSG1VcC1wUEdoMXR0TGVqZ0FfVVZQdmw0S3JWLXlLX0ZSZXZHUA?oc=5",
       "summary": "ASUS、最上位マザーボード「ROG CROSSHAIR X870E GLACIAL」発表 10G LAN×2・Wi-Fi 7対応 ASCII.jp",
       "published_at": "2026-05-21T02:15:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
+      "id": "1d3bbab756cd2e50d820da97",
+      "title": "バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2RUlIZ1pzbGR5c1FNWGlONnZsTTVWZ1lBemYtb0Z6cVV3MW4ya3lrTkJsLUI5MG85WkpILW9MUkFZbXRrcHoxV0VpdnV1cjFMUmlrb1lDdmtMbS1nYVNyS1JmRHhLYWxZOGpHZUs5NF8?oc=5",
+      "summary": "バッファローのWi-Fiルーターが安い！ Amazon 暮らし応援 初夏のお買い得Sale INTERNET Watch",
+      "published_at": "2026-05-20T03:55:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
+      "id": "6a684fd1892de4eba489611e",
+      "title": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年5月】 - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBxZ0FVNzhpbDZCbTZMY1c4M2gyaWRuS2hKX1VEdW1VenNxYlpGbXdGN2F5ZkpmSkxkaGg4b0Z3?oc=5",
+      "summary": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年5月】 マイベスト",
+      "published_at": "2026-05-19T15:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
