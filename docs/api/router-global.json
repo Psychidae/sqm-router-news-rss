@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-27T21:11:01.573574Z",
+  "generated_at": "2026-05-27T22:50:18.213104Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "e0c136c4425fe963f9dca806",
+      "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - inkl",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFIwcUM3R0ZBYWNqSkhRRUJLOEVRVGs4RVRrX2hnb0I1TDBsMVVTZEtJbTF1c1NiM1ZWa3FaQlp3YVk2NlU2eWtFZGxJR1YxOW5aYy1hQUZUN2hIZzVXa2RNTlJreTBZTXRhZnE4RFBScnhwTkhGS2ZpcUZCR05QbTRsYlkzT3dSZENYLVIyOUdOdDhtRUxZ?oc=5",
+      "summary": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 inkl",
+      "published_at": "2026-05-22T08:30:41Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "0cce7670507fe455a0b4b451",
-      "title": "The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcHJTQVJuNWQzX2hEMlcxN0g0clQ1MG5LSmR6aDgxcEcySTNrSElWNHhNb05lSHF5bmdHOEFMdUZZbkt2cHJxMlNtX2FhWHA2R2xiaC1vbVpYRE1yQ1JqME94aw?oc=5",
-      "summary": "The 5 Best Wi-Fi Routers For Large Homes of 2026 RTINGS.com",
-      "published_at": "2026-05-22T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
