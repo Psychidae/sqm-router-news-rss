@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 26 May 2026 22:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:17:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
@@ -78,20 +78,6 @@ MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5</link>
-      <guid isPermaLink="false">fda98857133ff5c052196322</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-20 16:00
-TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro</description>
-      <pubDate>Tue, 26 May 2026 21:18:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-26T21:18:27.275159Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-20T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5</link>
       <guid isPermaLink="false">23b50ffca22e89439386bf4f</guid>
@@ -144,6 +130,20 @@ Why your mesh routers are secretly slowing down your internet How-To Geek</descr
       <pubDate>Mon, 25 May 2026 23:20:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-25T23:20:51.108159Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-24T15:00:18Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcHJTQVJuNWQzX2hEMlcxN0g0clQ1MG5LSmR6aDgxcEcySTNrSElWNHhNb05lSHF5bmdHOEFMdUZZbkt2cHJxMlNtX2FhWHA2R2xiaC1vbVpYRE1yQ1JqME94aw?oc=5</link>
+      <guid isPermaLink="false">0cce7670507fe455a0b4b451</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-22 16:00
+The 5 Best Wi-Fi Routers For Large Homes of 2026 RTINGS.com</description>
+      <pubDate>Wed, 27 May 2026 00:17:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-27T00:17:06.432140Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-22T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
