@@ -1,19 +1,19 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-27T12:30:49.392069Z",
+  "generated_at": "2026-05-27T16:27:08.856456Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 4,
   "errors": [],
   "items": [
     {
-      "id": "8ad5cbfe702d89a18e96181b",
-      "title": "Weekend internet outage to affect parts of Centre Wellington later this year (CLARIFICATION) - Guelph News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTE9Hamh5anVobmhXZFZFaXlTeEt4bE5mSFhPV2VzMkxYSi1fQXh4X2xRMjl1cTZOUWw5VUlsZnVuTXg5TUlmVEFNQ29jOTQ4RE45RVo2MFlPMjhNQ2NoTzN2dzVXdjJ2T0dhVllybHg3cXQzYlFXckJ6eGFlR2JQYmVRTUt0cHpUdFZ3WlJuejFGaU5BajlYc3NIdVRBbXJhWjFfWHRUODMyRlBBZHprVVEyT1Z0SXFSY0ZOUnpNRXFLQQ?oc=5",
-      "summary": "Weekend internet outage to affect parts of Centre Wellington later this year (CLARIFICATION) Guelph News",
-      "published_at": "2026-05-27T02:03:45Z",
+      "id": "d47f3c76190ed862549794af",
+      "title": "Weekend internet outage to affect parts of Centre Wellington later this year (CLARIFICATION) - EloraFergusToday.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1YzYUIxZXdmUUh1ODc1ellvMDFRZmI3TERlVjFyY2dwbVo4WkRULXczcjJhX1FiX0pvU1lxbkZCTUhqdTZtTFhIcngzU3JnMjhxM1lxaG9tcXNyaUxfMVp2WV9tU3BnaHVJemgxaTBBTHAwZGtYOF9BQ2t3RmFkajB6SUZjS1JxMEwweURNbUhBUFN2cjEtckVvQ3BvRFZJRTZDbVkxOVNVMDcyeEFFZ19WdW96NEpOTzV2ZS1qbw?oc=5",
+      "summary": "Weekend internet outage to affect parts of Centre Wellington later this year (CLARIFICATION) EloraFergusToday.com",
+      "published_at": "2026-05-26T23:50:50Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -42,17 +42,6 @@
       "score": 7
     },
     {
-      "id": "33819a2b091933984b8d1658",
-      "title": "【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EdjIyNm9YQzlMeTVJUmk4ZGZIb3JMN193bW0wT1RjZ2w1MzV2U1hpZ0h1ZHVOcm80RW5vZTVn?oc=5",
-      "summary": "【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 マイベスト",
-      "published_at": "2026-05-24T15:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "134d54e467c7bcc9789951f0",
       "title": "Spectrum Launches Ultra-Low Latency Internet - TVTechnology",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGtXdC1GWTFIVDgzNVNySWNFZjNJSEthY0g3WEtkNzZNcTVXYzZnSWltM0VnU0VURjItM0lLdi1YSEZUM3hyS0xWb1BZeGE5TWxIUU80VTczQzg0Q3ZPMlo1MnAwT1lHUC1zUGJaY3ZNX1hVQlZjU09POUlKeDMwazRoQTktT0ctTlE?oc=5",
@@ -62,17 +51,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "331eb1d6ccb795be5695f30f",
-      "title": "【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1jTDF2Ykk2WDNZN0RNeV9xWVZ4dmpzOHZLN2ZhV2JuVTRuZE51Sms0ZDYyTWVDdVI5amtaY2FR?oc=5",
-      "summary": "【徹底比較】 IPv6対応の光回線・プロバイダのおすすめ人気ランキング【2026年5月】 マイベスト",
-      "published_at": "2026-05-20T15:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }
