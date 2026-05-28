@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 12:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 16:32:39 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy</title>
@@ -78,20 +78,6 @@ Huawei launching new Wi-Fi router alongside Nova 16 on June 1 Huawei Central</de
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked - How-To Geek</title>
-      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWtyTFM3OWxsRmRKUm0xS2VkY0hTc3poZi1kSUdadGFsajRFc2UwNzg2c1dNd3VoYVRSWlpsVDVKQ2w0ZkVybFlKLTlmNXNSLUZpZTNmYzZ1QnBtXzVKOERMMVE4UHZabkNCckhDZ3ZoT0NiX1VMMXVOenBSZDBIVVl3VkVzV3NrS3NORnlJZDBWeTBBRWlDeGJFaENRWVVtdTdiTTBhSGV2cVFuendwbEUzTDhPbXcwNGF3XzlzRU1YVHg4ajh4MTdOYVZPR09WZ0dyUTdNUm1YdU5TRGs2NGRJZw?oc=5</link>
-      <guid isPermaLink="false">0c8d2f8764c1c60826fdc3bc</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-22 01:00
-I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked How-To Geek</description>
-      <pubDate>Thu, 28 May 2026 12:04:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T12:04:21.320267Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-21T16:00:17Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5</link>
       <guid isPermaLink="false">23b50ffca22e89439386bf4f</guid>
@@ -144,6 +130,20 @@ Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day d
       <pubDate>Wed, 27 May 2026 21:11:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-27T21:11:01.572624Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T01:19:53Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5</link>
+      <guid isPermaLink="false">c84fa1e2300765c1cdb9b4a5</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-16 01:47
+Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral</description>
+      <pubDate>Thu, 28 May 2026 16:32:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-28T16:32:39.004747Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-15T16:47:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

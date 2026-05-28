@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-28T12:04:21.321226Z",
+  "generated_at": "2026-05-28T16:32:39.005731Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,17 +64,6 @@
       "score": 12
     },
     {
-      "id": "0c8d2f8764c1c60826fdc3bc",
-      "title": "I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWtyTFM3OWxsRmRKUm0xS2VkY0hTc3poZi1kSUdadGFsajRFc2UwNzg2c1dNd3VoYVRSWlpsVDVKQ2w0ZkVybFlKLTlmNXNSLUZpZTNmYzZ1QnBtXzVKOERMMVE4UHZabkNCckhDZ3ZoT0NiX1VMMXVOenBSZDBIVVl3VkVzV3NrS3NORnlJZDBWeTBBRWlDeGJFaENRWVVtdTdiTTBhSGV2cVFuendwbEUzTDhPbXcwNGF3XzlzRU1YVHg4ajh4MTdOYVZPR09WZ0dyUTdNUm1YdU5TRGs2NGRJZw?oc=5",
-      "summary": "I tested aluminum foil, metal bowls, and antenna extenders on my Wi-Fi router—only one actually worked How-To Geek",
-      "published_at": "2026-05-21T16:00:17Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "23b50ffca22e89439386bf4f",
       "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
+    },
+    {
+      "id": "c84fa1e2300765c1cdb9b4a5",
+      "title": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5",
+      "summary": "Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral",
+      "published_at": "2026-05-15T16:47:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
