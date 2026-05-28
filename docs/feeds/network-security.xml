@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 27 May 2026 22:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 00:12:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を | チバテレ＋プラス - 千葉テレビ放送</title>
+      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TUi1KYmxudWlHZHBCb0VrYmdEMmlJRE9rOUdocFhOZzY0Z3c0R0JpYlVaMTJwRFZuZ0Zsdmo0dWFnWDFKME1kemNzUE0tdmlfM0gxSjFQX1A1eHNyV1FMcWVvbmTSAWRBVV95cUxPU1ItSmJsbnVpR2RwQm9Fa2JnRDJpSURPazlHaHBYTmc2NGd3NEdCaWJVWjEycERWbmdGbHZqNHVhZ1gxSjBNZHpjc1BNLXZpXzNIMUoxUF9QNXhzcldRTHFlb25k?oc=5</link>
+      <guid isPermaLink="false">78122141f82b4ec34815ad6e</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-25 14:12
+AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を | チバテレ＋プラス 千葉テレビ放送</description>
+      <pubDate>Thu, 28 May 2026 00:12:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-28T00:12:59.509392Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-25T05:12:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBuQklwWDBscER4U2RwSFR1MzdQVEw3TVpGV05iV0ZBeU5TUTR0a2hwT3ZsWWVaWE1EdDhyQ0huUUZIX3lPT3JPU3U0RkxxT3ZKZTRzYmI3WlBfQVZNeWJFXzI5ZFliZ2JqbkdN?oc=5</link>
@@ -32,6 +46,20 @@ AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファ�
       <pubDate>Wed, 27 May 2026 21:11:02 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-27T21:11:02.537282Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T05:06:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを | チバテレ＋プラス - 千葉テレビ放送</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OTUtUUGpHLTZGb29OZzE3LUYxVHMyV1hvXzhkaDRscUtaeUdMeG52ZTNNcDl6Y29YSEJEYVVGQVY2ZVhRMnNsTkVBeV9sUHJROUczR1UtY0wyLV9GM09V0gFkQVVfeXFMUEU3LUhISmRfcTJCcGtaNmxiSUZ4Y3pucVp6TndMck15b2xPZlltaVRXS25ETllUWmtaanAxSnl2WGVtZ3ZmU0tCSm9FVG9BeXM2SjFhVEg2OElqOHotazFEZEdGXw?oc=5</link>
+      <guid isPermaLink="false">b54c8fbd04e89a5fd01919d5</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-26 13:57
+NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを | チバテレ＋プラス 千葉テレビ放送</description>
+      <pubDate>Thu, 28 May 2026 00:12:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-28T00:12:59.509392Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-26T04:57:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -74,6 +102,20 @@ NEC「Aterm」シリーズに脆弱性 アップデートを推奨 週刊アス�
       <pubDate>Mon, 25 May 2026 12:44:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-25T12:44:01.160545Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T06:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NECのモバイルルーターに脆弱性 アップデートの確認を - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBIR0k2TXRVbVJhenlPNTVKVGNQSjA0dUpJSXpGbjZWckhuck1hblVEd25BMnpHWllRcWxVcG10andtVkpPLVdpOWNpcmpKdFdKc3ZKVmtHaHpmUDAxaG9hclZoYWJmYllSUHFxZzdHMGE5N1o4c29NV3FmWQ?oc=5</link>
+      <guid isPermaLink="false">80d3f57b129ad4b4633cd6de</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-25 13:12
+NECのモバイルルーターに脆弱性 アップデートの確認を ニコニコニュース</description>
+      <pubDate>Thu, 28 May 2026 00:12:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-28T00:12:59.509392Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-25T04:12:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
