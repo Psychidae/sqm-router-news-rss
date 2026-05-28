@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-05-28T08:30:59.704191Z",
+  "generated_at": "2026-05-28T12:04:23.425323Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -31,17 +31,6 @@
       "score": 8
     },
     {
-      "id": "09d333fc3426481fb561ee19",
-      "title": "発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5",
-      "summary": "発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 DXマガジン",
-      "published_at": "2026-05-25T09:44:33Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "edf831b74355dcdab09f45e9",
       "title": "'We're going to lose customers': Bridgetown Legion stung by internet outage - CBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUpPelpWOTZKMVF3eFVDbFdITGxZMldPaWFKa1FZUmp4RFp3NGVONDl1YUZ1N09IYlBKV3pDenp4TlZEYzZ2dU5BZDVZVUxGc2kxSzUxbzNWcTlwNDExVUlSQ3RQbUFZVnNYbDdoNkRxMnVnQ2RpWldZNW9FMTZ0LVZ4OW5HM2h5Y1ZIRWZB?oc=5",
@@ -64,11 +53,11 @@
       "score": 7
     },
     {
-      "id": "33819a2b091933984b8d1658",
-      "title": "【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EdjIyNm9YQzlMeTVJUmk4ZGZIb3JMN193bW0wT1RjZ2w1MzV2U1hpZ0h1ZHVOcm80RW5vZTVn?oc=5",
-      "summary": "【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 マイベスト",
-      "published_at": "2026-05-24T15:00:00Z",
+      "id": "09d333fc3426481fb561ee19",
+      "title": "発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5",
+      "summary": "発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 DXマガジン",
+      "published_at": "2026-05-25T09:44:33Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

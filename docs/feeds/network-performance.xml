@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 28 May 2026 08:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:04:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Comcast: Unexpected Internet Outage - Salem, MA (.gov)</title>
@@ -33,20 +33,6 @@ Weekend internet outage to affect parts of Centre Wellington later this year (CL
       <sqm:firstSeenDate>2026-05-27T16:27:08.855751Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-26T23:50:50Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5</link>
-      <guid isPermaLink="false">09d333fc3426481fb561ee19</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-05-25 18:44
-発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 DXマガジン</description>
-      <pubDate>Mon, 25 May 2026 12:44:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-25T12:44:02.230005Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T09:44:33Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -78,16 +64,16 @@ Spectrum Launches Ultra-Low Latency Internet TVTechnology</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 - マイベスト</title>
-      <link>https://news.google.com/rss/articles/CBMiPkFVX3lxTE9EdjIyNm9YQzlMeTVJUmk4ZGZIb3JMN193bW0wT1RjZ2w1MzV2U1hpZ0h1ZHVOcm80RW5vZTVn?oc=5</link>
-      <guid isPermaLink="false">33819a2b091933984b8d1658</guid>
+      <title>[性能・障害] 発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5</link>
+      <guid isPermaLink="false">09d333fc3426481fb561ee19</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-05-25 00:00
-【徹底比較】IPv6対応ルーターのおすすめ人気ランキング【2026年5月】 マイベスト</description>
-      <pubDate>Thu, 28 May 2026 08:30:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T08:30:59.703418Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-24T15:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-25 18:44
+発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 DXマガジン</description>
+      <pubDate>Mon, 25 May 2026 12:44:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-25T12:44:02.230005Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-25T09:44:33Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
