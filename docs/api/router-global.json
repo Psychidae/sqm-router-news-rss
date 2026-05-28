@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-28T04:38:25.402518Z",
+  "generated_at": "2026-05-28T08:30:57.679862Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -50,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "9777e2c68df1edc8f373f844",
@@ -64,15 +64,15 @@
       "score": 12
     },
     {
-      "id": "fda98857133ff5c052196322",
-      "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
-      "summary": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro",
-      "published_at": "2026-05-20T07:00:00Z",
+      "id": "d8672de80dba1a8db7172b2d",
+      "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
+      "summary": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar",
+      "published_at": "2026-05-22T00:32:33Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 12
     },
     {
       "id": "23b50ffca22e89439386bf4f",
