@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-29T21:17:16.417303Z",
+  "generated_at": "2026-05-29T22:58:34.236717Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -69,6 +69,17 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uVmhwRTBhbVFHQVprMjJmbHdTSnNIanVycVdUaDJYc2VlaDl1bXJUd2JQcHZfYms4a3QwTFNWamlNb2kydXhweHA3WG5iUzh6dTI0enFqbUJ0cmsySjVpQndtVkZaczlhOGJURTNSclItMjk5dkJVRQ?oc=5",
       "summary": "4 Disadvantages Of Wi-Fi 7 Routers You Should Know About bgr.com",
       "published_at": "2026-05-25T10:17:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "45dc41a9e79072923cc0cc90",
+      "title": "Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJZaEhMZ2lZd1l4MGhPZURvOHhXclEzUjVMdElqT281bGJBWnktVHFlRmN3SDdzX0FNS0VJRkxnX1B3NGlVWWhTUjUtLXdnZXFzY3dHMGJrQzdiX2ZxNHJoS0VvS0Zld1ZXVlRvbDZxNmVhX2tGdm5vWl8zdFRuVG5jNmlCNWZ0ck9QazE4VHpoRXBIb1dWaHRNaUhVaGtoM0VnSkVyeS1IRjh3Tk9wNWYzbXRvczMzVUFaTGRMOC13N2RWOFRhUDJ1ZkJsRGVST0pqdA?oc=5",
+      "summary": "Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only PC Guide",
+      "published_at": "2026-05-25T01:19:53Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

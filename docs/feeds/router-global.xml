@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 21:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 22:58:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
@@ -88,6 +88,20 @@ Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top Mod
       <pubDate>Wed, 27 May 2026 21:11:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-27T21:11:01.572624Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T10:17:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only - PC Guide</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFJZaEhMZ2lZd1l4MGhPZURvOHhXclEzUjVMdElqT281bGJBWnktVHFlRmN3SDdzX0FNS0VJRkxnX1B3NGlVWWhTUjUtLXdnZXFzY3dHMGJrQzdiX2ZxNHJoS0VvS0Zld1ZXVlRvbDZxNmVhX2tGdm5vWl8zdFRuVG5jNmlCNWZ0ck9QazE4VHpoRXBIb1dWaHRNaUhVaGtoM0VnSkVyeS1IRjh3Tk9wNWYzbXRvczMzVUFaTGRMOC13N2RWOFRhUDJ1ZkJsRGVST0pqdA?oc=5</link>
+      <guid isPermaLink="false">45dc41a9e79072923cc0cc90</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-25 10:19
+Tri Band WiFi 7 router deal drops price by nearly a third in this Memorial Day deal for a limited time only PC Guide</description>
+      <pubDate>Fri, 29 May 2026 22:58:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T22:58:34.236028Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-25T01:19:53Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
