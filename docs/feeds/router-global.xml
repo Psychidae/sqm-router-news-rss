@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 12:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 16:28:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
@@ -22,13 +22,27 @@ ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming</descriptio
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com</title>
+      <title>[海外ルーターニュース] TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWUyXzZfZFl3WklvYzhiQ1hUbi05V3VxSXJQQkN0NDhPR016dUdwVGZ3WmdPandlanRoYU1nZm9WQzdlM3prdHNkTWl1NnZvSG5EV3N2Q29vZ1JleW5ZWlBZZW9hRVlIclozTmJXUi13M2tkQmx2cWRreVVZMjZSSEdlZmcyUmdtZXllQnBMZw?oc=5</link>
+      <guid isPermaLink="false">a9e981200e01e6729aecd34a</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-22 12:11
+TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features GadgetGuy</description>
+      <pubDate>Fri, 29 May 2026 16:28:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T16:28:37.325965Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-22T03:11:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - Gagadget.com</title>
       <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5</link>
       <guid isPermaLink="false">1aeb9eb062992f252cf6c64b</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-05-17 17:11
-ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China gagadget.com</description>
+ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China Gagadget.com</description>
       <pubDate>Thu, 28 May 2026 04:38:25 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-28T04:38:25.401563Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-17T08:11:45Z</sqm:sourcePublishedDate>
@@ -64,30 +78,16 @@ Huawei launching new Wi-Fi router alongside Nova 16 on June 1 Huawei Central</de
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZCWVhVd2JBMXg1b3RwT1BDSGptU2xlUnpldVhObUtTQTdZQ1ViOHl2VEJ2Vk1qMC1RcS11QUs3N2hqakJCcGZ3ZURqd2pOYUZ1dFNwSk9fVHZIRUVabG4wNjFOYVI4bWhGMmlNeUxxYmtvSUtLOVdQMGdZQ1laOV9GRFIweXhxbGFNVXpqYTlGX1ljMk1sQkN5NjlNMGI2Y3hMUXBCU1hka3VWLXh1bkYzcTc?oc=5</link>
-      <guid isPermaLink="false">9097a803bd30f3aa7b04b6dd</guid>
+      <title>[海外ルーターニュース] TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5</link>
+      <guid isPermaLink="false">fda98857133ff5c052196322</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-23 22:10
-ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN</description>
-      <pubDate>Fri, 29 May 2026 12:26:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-29T12:26:33.488286Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-23T13:10:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5</link>
-      <guid isPermaLink="false">d8672de80dba1a8db7172b2d</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-22 09:32
-MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</description>
-      <pubDate>Thu, 28 May 2026 19:19:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T19:19:38.164870Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-22T00:32:33Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-20 16:00
+TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro</description>
+      <pubDate>Fri, 29 May 2026 16:28:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T16:28:37.325965Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-20T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -134,16 +134,16 @@ Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top Mod
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption - SDxCentral</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNemtvNXRxV0ZrX0U3Z2NrbkF4WnVzMFN3MmlKc0lOVVBZYUZkVjBrTl9BSWxIYVZnSno2SnhIZE9yV1ZwSWxqSF9oczExQUpMeDBCNUJlbmpZV3NPb3lKU21fc0dSWVFESjdldmlydG03UDQzOUZRa2RzODNkVUp4RFJ0TkE0ajBPY05kMlJ2dGhmQjRMS0N3R0ZRUm9RWlgw?oc=5</link>
-      <guid isPermaLink="false">c84fa1e2300765c1cdb9b4a5</guid>
+      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcHJTQVJuNWQzX2hEMlcxN0g0clQ1MG5LSmR6aDgxcEcySTNrSElWNHhNb05lSHF5bmdHOEFMdUZZbkt2cHJxMlNtX2FhWHA2R2xiaC1vbVpYRE1yQ1JqME94aw?oc=5</link>
+      <guid isPermaLink="false">0cce7670507fe455a0b4b451</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-16 01:47
-Adtran expands gateway lineup to accelerate broad Wi-Fi 7 adoption SDxCentral</description>
-      <pubDate>Thu, 28 May 2026 21:34:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T21:34:12.012897Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-15T16:47:24Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-22 16:00
+The 5 Best Wi-Fi Routers For Large Homes of 2026 RTINGS.com</description>
+      <pubDate>Fri, 29 May 2026 16:28:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T16:28:37.325965Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-22T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

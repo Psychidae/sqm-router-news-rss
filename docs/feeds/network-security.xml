@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 12:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 16:28:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を - INTERNET Watch</title>
@@ -18,20 +18,6 @@ AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファ�
       <pubDate>Mon, 25 May 2026 12:44:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-25T12:44:01.160545Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T05:06:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を (INTERNET Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHREaXRIekhlTzhMdWRzZDcxWmw5RnFYeExjSThia0hsd0ZVaEFoakw1VGM3RFVXbkgtd014ZFBBVVBPamFlTjI1bVY3dTRlYTdsTFo4Uk9sOUo0SVM5RWNHMU9HMG1NcE52c2JkeW1fX2JZSGRtRFBmR0dOSmVHNlZGaEVDLWFBS2xYUVdB?oc=5</link>
-      <guid isPermaLink="false">d31e25f37eeeb21a35144b16</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-25 14:06
-AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を (INTERNET Watch) Yahoo!ニュース</description>
-      <pubDate>Fri, 29 May 2026 08:51:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-29T08:51:03.580102Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T05:06:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -60,6 +46,34 @@ NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルータ�
       <pubDate>Tue, 26 May 2026 17:00:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-26T17:00:06.308891Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-26T04:47:15Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlNqOEd1b0lPMnJmTkcwLWVIUXF1cmNzRjV3Yk5tMnplVTBIYmx5LU9sZTRIS0U5eGEtdW1pOU1MOElvXzh2VFFlWmFvVEZ1WDVMLU4wSThnSE5EOXNqSFZzcUlkNnpua0JCVkxIR1dHei14T2QzVEwtWWNnT0NPd2t4VU9FV3NTTnNvYkJR?oc=5</link>
+      <guid isPermaLink="false">805ea0a96a7857fa3471b952</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-26 13:47
+NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを Yahoo!ニュース</description>
+      <pubDate>Fri, 29 May 2026 16:28:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T16:28:38.389946Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-26T04:47:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NEC「Aterm」シリーズに脆弱性 アップデートを推奨 - 週刊アスキー</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ca2dmbmRKRE82Uk1nay1BUGt5MnVPN1hiNFhfaDdHbUU5RE16WUQ4UHR3emxEZ2tOR1VuUXJPVXpfcnBfQmlEYUxMNEVwZ29OR2ktMi1rTDBOVi1aZEE?oc=5</link>
+      <guid isPermaLink="false">933f122712366b0e734f542b</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-25 15:00
+NEC「Aterm」シリーズに脆弱性 アップデートを推奨 週刊アスキー</description>
+      <pubDate>Fri, 29 May 2026 16:28:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T16:28:38.389946Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-25T06:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
