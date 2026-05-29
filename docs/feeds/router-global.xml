@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 00:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:59:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com</title>
@@ -60,20 +60,6 @@ MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</
       <pubDate>Thu, 28 May 2026 19:19:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-28T19:19:38.164870Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-22T00:32:33Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5</link>
-      <guid isPermaLink="false">f0a21905b77cf1dafb2276c9</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-21 21:10
-GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router TechPowerUp</description>
-      <pubDate>Thu, 28 May 2026 21:34:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T21:34:12.012897Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-21T12:10:14Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

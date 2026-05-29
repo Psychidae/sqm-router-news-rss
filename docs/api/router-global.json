@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-29T00:19:46.535887Z",
+  "generated_at": "2026-05-29T04:59:43.536916Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -50,17 +50,6 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "f0a21905b77cf1dafb2276c9",
-      "title": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5",
-      "summary": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router TechPowerUp",
-      "published_at": "2026-05-21T12:10:14Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
       "score": 11
     },
     {
@@ -83,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "21f634302dc721ec7f31cffc",

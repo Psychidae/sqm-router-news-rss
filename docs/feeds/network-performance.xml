@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 29 May 2026 00:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 04:59:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Comcast: Unexpected Internet Outage - Salem, MA (.gov)</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iYkNHRmxrSElVdGtQTHBHTDZobDNqbkJWSHVJOEt2c2lhVGMzWkpPdzl0Y0tROS1IUkJUUGNISlFvR3ZiaWJSVzNBMjd0clpJZTZOYnNTNEhfWTZh?oc=5</link>
-      <guid isPermaLink="false">689561b83229ec5490cfdd4d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-05-28 00:19
-Comcast: Unexpected Internet Outage Salem, MA (.gov)</description>
-      <pubDate>Thu, 28 May 2026 21:34:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-28T21:34:14.240781Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-27T15:19:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] Weekend internet outage to affect parts of Centre Wellington later this year (CLARIFICATION) - EloraFergusToday.com</title>
       <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQR1YzYUIxZXdmUUh1ODc1ellvMDFRZmI3TERlVjFyY2dwbVo4WkRULXczcjJhX1FiX0pvU1lxbkZCTUhqdTZtTFhIcngzU3JnMjhxM1lxaG9tcXNyaUxfMVp2WV9tU3BnaHVJemgxaTBBTHAwZGtYOF9BQ2t3RmFkajB6SUZjS1JxMEwweURNbUhBUFN2cjEtckVvQ3BvRFZJRTZDbVkxOVNVMDcyeEFFZ19WdW96NEpOTzV2ZS1qbw?oc=5</link>
@@ -32,6 +18,20 @@ Weekend internet outage to affect parts of Centre Wellington later this year (CL
       <pubDate>Wed, 27 May 2026 16:27:08 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-27T16:27:08.855751Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-26T23:50:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 'We're going to lose customers': Bridgetown Legion stung by internet outage - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUpPelpWOTZKMVF3eFVDbFdITGxZMldPaWFKa1FZUmp4RFp3NGVONDl1YUZ1N09IYlBKV3pDenp4TlZEYzZ2dU5BZDVZVUxGc2kxSzUxbzNWcTlwNDExVUlSQ3RQbUFZVnNYbDdoNkRxMnVnQ2RpWldZNW9FMTZ0LVZ4OW5HM2h5Y1ZIRWZB?oc=5</link>
+      <guid isPermaLink="false">edf831b74355dcdab09f45e9</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-25 01:43
+'We're going to lose customers': Bridgetown Legion stung by internet outage CBC</description>
+      <pubDate>Fri, 29 May 2026 04:59:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-29T04:59:45.802787Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-24T16:43:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
