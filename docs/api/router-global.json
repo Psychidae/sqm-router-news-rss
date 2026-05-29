@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-29T08:51:02.590345Z",
+  "generated_at": "2026-05-29T12:26:33.489250Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 6,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "c0c10714aaba2170008a25c1",
+      "title": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDBpNm9iRHRfY2pHejhUYk02cDZtbGl6SExoNjVKZTNGUGFWbl9lZnU4NFBULWZreGNjZFc2MjgwR0ZpaU1tRXY0eGxDeEk3YUs3Q0ZIbDBqSjlFMDNrWERGUzY4OEt0LVRnR2J2a3JKOHpqZ1JrTzBrX1NNNlJMeUFaY3ZWX2d1WnlTVWNBMGxvVXNpZ0hLZXRn?oc=5",
+      "summary": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-05-26T13:18:20Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
     {
       "id": "1aeb9eb062992f252cf6c64b",
       "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - gagadget.com",
@@ -18,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "802e4c0a7bdd93dbdd647016",
+      "title": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
+      "summary": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro",
+      "published_at": "2026-05-27T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "9777e2c68df1edc8f373f844",
@@ -31,6 +53,17 @@
       "score": 12
     },
     {
+      "id": "9097a803bd30f3aa7b04b6dd",
+      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZCWVhVd2JBMXg1b3RwT1BDSGptU2xlUnpldVhObUtTQTdZQ1ViOHl2VEJ2Vk1qMC1RcS11QUs3N2hqakJCcGZ3ZURqd2pOYUZ1dFNwSk9fVHZIRUVabG4wNjFOYVI4bWhGMmlNeUxxYmtvSUtLOVdQMGdZQ1laOV9GRFIweXhxbGFNVXpqYTlGX1ljMk1sQkN5NjlNMGI2Y3hMUXBCU1hka3VWLXh1bkYzcTc?oc=5",
+      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
+      "published_at": "2026-05-23T13:10:58Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "d8672de80dba1a8db7172b2d",
       "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
@@ -40,6 +73,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "de5f5074ad6c7c1efa216cdc",
+      "title": "How to get your router setup ready for June’s sports madness - HardwareZone",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2FEYjktMGJHc0JXRHVxck16cG52MERHbEtBci12aW9pbmEyeGtZa2hDUzNPb25EQ0tsUVNLdzQ1RmY1eTgxSDFvZjNQTTJ6Zkx4SndXMjJVcjZxbDBVZDJuZHF6cVl0ZGdoNkpNdFc1UWR2RkhaYjB1NVE1YlR4b3RyTmNBVmpFa013M1l0bDNUeWYwVzNBQnpSZm0?oc=5",
+      "summary": "How to get your router setup ready for June’s sports madness HardwareZone",
+      "published_at": "2026-05-29T02:51:35Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     },
     {
       "id": "8d0911c616fc8068baafc119",
