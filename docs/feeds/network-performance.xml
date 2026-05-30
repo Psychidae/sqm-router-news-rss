@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 12:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 14:05:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Comcast: Unexpected Internet Outage - Salem, MA (.gov)</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LT3ZPM1ZpWFFzbUMwQ01WOUZKb0lXbzFWOXRiaFowb1RTcFp2UkpDXzlFV1BrN1NhSjFpLTZkQjdta0hmWUVjaVRERzdtZmJqQVBtTEhvTnFBMjFyMGVj?oc=5</link>
+      <guid isPermaLink="false">ed1ffd2d33289fa79ba15db1</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-28 06:06
+Comcast: Unexpected Internet Outage Salem, MA (.gov)</description>
+      <pubDate>Sat, 30 May 2026 14:05:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-30T14:05:01.949624Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-27T21:06:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] 'We're going to lose customers': Bridgetown Legion stung by internet outage - CBC</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUpPelpWOTZKMVF3eFVDbFdITGxZMldPaWFKa1FZUmp4RFp3NGVONDl1YUZ1N09IYlBKV3pDenp4TlZEYzZ2dU5BZDVZVUxGc2kxSzUxbzNWcTlwNDExVUlSQ3RQbUFZVnNYbDdoNkRxMnVnQ2RpWldZNW9FMTZ0LVZ4OW5HM2h5Y1ZIRWZB?oc=5</link>
