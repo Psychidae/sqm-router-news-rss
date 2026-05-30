@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 11:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 12:15:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
@@ -22,6 +22,34 @@ ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming</descriptio
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - Gagadget.com</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEpSUFBIbWpmTDJXX1NnS0laR3doT0p3TDYtQzZ4V1J5TDZOTkhUSlByQXFHajZ5NHZHUjV1RmxTY2RwOXJHclJsN3BhRjIxVmF5RFR5RnpJZDlRbmFJdG9sLVFNUGJILWlrbWZheEVYOWlyWFdvWnAwc1hfSTA2b3B2NzNVSkI5SEJQMkVEZHhtRUo4Q2UzZGs1SEZfdG41d1R4WFVpV0RxclY2Rk1RWXNzeUtCT0tuUGfSAb8BQVVfeXFMTTh4M0VTRXZQRzNnRVZEN2FYTXJFdndLMUpJekhNYzdEMm1mWFVsVW0wejVISGg3a3ZGUlhCQkZ2a2cyVmNtQlFRaVpVb1VPZ3VGVjQtSVdaWnhGRDNPeHBHT2NKTWd4X0ZJNlVwTjBwZVB1LUMxdW8xRkZnalpJeklyeFc2dnA5ZHNseDlWYTFJelNKR1pTajRRS09odExkeHhhM05UNTBkdDdUTGVhdGZDV2JJM2ZDQTgtWEgzbUk?oc=5</link>
+      <guid isPermaLink="false">1aeb9eb062992f252cf6c64b</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-17 17:11
+ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China Gagadget.com</description>
+      <pubDate>Sat, 30 May 2026 12:15:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-30T12:15:06.348944Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-17T08:11:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5</link>
+      <guid isPermaLink="false">802e4c0a7bdd93dbdd647016</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-27 16:00
+Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro</description>
+      <pubDate>Sat, 30 May 2026 12:15:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-30T12:15:06.348944Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-27T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Huawei launching new Wi-Fi router alongside Nova 16 on June 1 - Huawei Central</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUGJ0OFVNZno1TEU3RjJtbXVORkxwd3NjbUVRMDRSMGNjYnNHYVIwclpvWlpVejRyYldYZk1NU19TaDcxZWJzRUl6d3BVa1hmTlkxUDIxQktLSU1YZzYtTldpMXBHUjk3eURfNjg5TFFZV3ZyVy1ZUnlzb9IBgAFBVV95cUxQZ2RYd0pzNUFBaEQ5My0xV3hkRE0wa0ViaDdZZTVSUVJoR012WWs1LUZzUk5OVDJjOXVSVVlUN09DM09ZdnB2ZkJXclNiVU5KTURtUWxuMTBqNUQzc0U3LWNfaGlFc2hsQmVJVGtNTldWbnJkZ1czTkJWVlNYaG9FWg?oc=5</link>
       <guid isPermaLink="false">9777e2c68df1edc8f373f844</guid>
@@ -33,20 +61,6 @@ Huawei launching new Wi-Fi router alongside Nova 16 on June 1 Huawei Central</de
       <sqm:firstSeenDate>2026-05-30T04:38:53.973100Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-27T03:28:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ2dPTF9uaTJ4U1EzWXZjQ2FoZTBMOW1HMUU1MFUyMURGWU1BY0xUYWhUSmNYMFNpeWp4QUtzMlBidVBEZ01rTzhJVV85VHc0cWFJSG8yTnBXYTQ5ZnlIX2FUYzRReGM2YU5kTGxIckpFOHdXN3J1SXhrd3c5UEJ2VEYwSEY0Z1ExUnh3V2FPUURlekJkckpvbkxrbTQtS2gwUXlEM1NUd1NKQzJTUFphLVlhd0hkeUhtc3ZkNUpkNFQ?oc=5</link>
-      <guid isPermaLink="false">ce70011a1bda50ab6a33809b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-19 03:59
-ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN</description>
-      <pubDate>Sat, 30 May 2026 11:05:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-30T11:05:09.471620Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-18T18:59:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -75,6 +89,20 @@ How to get your router setup ready for June’s sports madness HardwareZone</des
       <sqm:firstSeenDate>2026-05-29T12:26:33.488286Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-29T02:45:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5</link>
+      <guid isPermaLink="false">929aceddb00e82be9fe69445</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-05-29 05:09
+The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times</description>
+      <pubDate>Sat, 30 May 2026 12:15:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-30T12:15:06.348944Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-28T20:09:09Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
