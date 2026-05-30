@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 May 2026 14:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 15:34:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を - INTERNET Watch</title>
@@ -18,20 +18,6 @@ AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファ�
       <pubDate>Mon, 25 May 2026 12:44:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-25T12:44:01.160545Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-25T05:06:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を (INTERNET Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWHREaXRIekhlTzhMdWRzZDcxWmw5RnFYeExjSThia0hsd0ZVaEFoakw1VGM3RFVXbkgtd014ZFBBVVBPamFlTjI1bVY3dTRlYTdsTFo4Uk9sOUo0SVM5RWNHMU9HMG1NcE52c2JkeW1fX2JZSGRtRFBmR0dOSmVHNlZGaEVDLWFBS2xYUVdB?oc=5</link>
-      <guid isPermaLink="false">d31e25f37eeeb21a35144b16</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-25 14:06
-AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を (INTERNET Watch) Yahoo!ニュース</description>
-      <pubDate>Sat, 30 May 2026 14:05:00 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-30T14:05:00.768568Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T05:06:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
