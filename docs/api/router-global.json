@@ -1,13 +1,35 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-30T00:17:10.569367Z",
+  "generated_at": "2026-05-30T04:38:53.974124Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 7,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "c0c10714aaba2170008a25c1",
+      "title": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDBpNm9iRHRfY2pHejhUYk02cDZtbGl6SExoNjVKZTNGUGFWbl9lZnU4NFBULWZreGNjZFc2MjgwR0ZpaU1tRXY0eGxDeEk3YUs3Q0ZIbDBqSjlFMDNrWERGUzY4OEt0LVRnR2J2a3JKOHpqZ1JrTzBrX1NNNlJMeUFaY3ZWX2d1WnlTVWNBMGxvVXNpZ0hLZXRn?oc=5",
+      "summary": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-05-26T13:18:20Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "a9e981200e01e6729aecd34a",
+      "title": "TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWUyXzZfZFl3WklvYzhiQ1hUbi05V3VxSXJQQkN0NDhPR016dUdwVGZ3WmdPandlanRoYU1nZm9WQzdlM3prdHNkTWl1NnZvSG5EV3N2Q29vZ1JleW5ZWlBZZW9hRVlIclozTmJXUi13M2tkQmx2cWRreVVZMjZSSEdlZmcyUmdtZXllQnBMZw?oc=5",
+      "summary": "TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features GadgetGuy",
+      "published_at": "2026-05-22T03:11:43Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
     {
       "id": "1aeb9eb062992f252cf6c64b",
       "title": "ASUS ROG Magic Box Pro Max: Wi-Fi 7 gaming router with dual 10G ports launches in China - Gagadget.com",
@@ -31,6 +53,17 @@
       "score": 13
     },
     {
+      "id": "9777e2c68df1edc8f373f844",
+      "title": "Huawei launching new Wi-Fi router alongside Nova 16 on June 1 - Huawei Central",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUGJ0OFVNZno1TEU3RjJtbXVORkxwd3NjbUVRMDRSMGNjYnNHYVIwclpvWlpVejRyYldYZk1NU19TaDcxZWJzRUl6d3BVa1hmTlkxUDIxQktLSU1YZzYtTldpMXBHUjk3eURfNjg5TFFZV3ZyVy1ZUnlzb9IBgAFBVV95cUxQZ2RYd0pzNUFBaEQ5My0xV3hkRE0wa0ViaDdZZTVSUVJoR012WWs1LUZzUk5OVDJjOXVSVVlUN09DM09ZdnB2ZkJXclNiVU5KTURtUWxuMTBqNUQzc0U3LWNfaGlFc2hsQmVJVGtNTldWbnJkZ1czTkJWVlNYaG9FWg?oc=5",
+      "summary": "Huawei launching new Wi-Fi router alongside Nova 16 on June 1 Huawei Central",
+      "published_at": "2026-05-27T03:28:49Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "fda98857133ff5c052196322",
       "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
@@ -42,6 +75,17 @@
       "score": 11
     },
     {
+      "id": "e4defe62ce57845152b641ed",
+      "title": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications - newswire.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTFNY0RuWFpFb3VTYzd6N2xoMGI0VUpTUmRUai1GTzJNQjNvT014WEkwU3dXbENSV285QUhydmtGbk15NVBtWlZNUFVleUtuWWd1NGNRc2hfV0E1OGFsVjF2OXV6TUlqOGh2OEtKNndvLWRBLU9DZmpzbW5rcms5bHRxVTRKdFhSbjB3cDJJMS10WExkdm9jZnBBUm1XanQw?oc=5",
+      "summary": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications newswire.com",
+      "published_at": "2026-05-30T04:01:43Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "de5f5074ad6c7c1efa216cdc",
       "title": "How to get your router setup ready for June’s sports madness - HardwareZone",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2FEYjktMGJHc0JXRHVxck16cG52MERHbEtBci12aW9pbmEyeGtZa2hDUzNPb25EQ0tsUVNLdzQ1RmY1eTgxSDFvZjNQTTJ6Zkx4SndXMjJVcjZxbDBVZDJuZHF6cVl0ZGdoNkpNdFc1UWR2RkhaYjB1NVE1YlR4b3RyTmNBVmpFa013M1l0bDNUeWYwVzNBQnpSZm0?oc=5",
@@ -50,7 +94,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "8d0911c616fc8068baafc119",
@@ -73,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
-    },
-    {
-      "id": "0cce7670507fe455a0b4b451",
-      "title": "The 5 Best Wi-Fi Routers For Large Homes of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IcHJTQVJuNWQzX2hEMlcxN0g0clQ1MG5LSmR6aDgxcEcySTNrSElWNHhNb05lSHF5bmdHOEFMdUZZbkt2cHJxMlNtX2FhWHA2R2xiaC1vbVpYRE1yQ1JqME94aw?oc=5",
-      "summary": "The 5 Best Wi-Fi Routers For Large Homes of 2026 RTINGS.com",
-      "published_at": "2026-05-22T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }
