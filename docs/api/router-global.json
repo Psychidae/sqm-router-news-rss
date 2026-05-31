@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-05-31T15:38:54.739605Z",
+  "generated_at": "2026-05-31T16:44:45.529675Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -65,9 +65,9 @@
     },
     {
       "id": "e4defe62ce57845152b641ed",
-      "title": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications - Newswire.com",
+      "title": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications - newswire.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTFNY0RuWFpFb3VTYzd6N2xoMGI0VUpTUmRUai1GTzJNQjNvT014WEkwU3dXbENSV285QUhydmtGbk15NVBtWlZNUFVleUtuWWd1NGNRc2hfV0E1OGFsVjF2OXV6TUlqOGh2OEtKNndvLWRBLU9DZmpzbW5rcms5bHRxVTRKdFhSbjB3cDJJMS10WExkdm9jZnBBUm1XanQw?oc=5",
-      "summary": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications Newswire.com",
+      "summary": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications newswire.com",
       "published_at": "2026-05-30T04:01:43Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -104,6 +104,17 @@
       "published_at": "2026-05-27T23:02:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "21f634302dc721ec7f31cffc",
+      "title": "4 Disadvantages Of Wi-Fi 7 Routers You Should Know About - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uVmhwRTBhbVFHQVprMjJmbHdTSnNIanVycVdUaDJYc2VlaDl1bXJUd2JQcHZfYms4a3QwTFNWamlNb2kydXhweHA3WG5iUzh6dTI0enFqbUJ0cmsySjVpQndtVkZaczlhOGJURTNSclItMjk5dkJVRQ?oc=5",
+      "summary": "4 Disadvantages Of Wi-Fi 7 Routers You Should Know About bgr.com",
+      "published_at": "2026-05-25T10:17:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
     }
