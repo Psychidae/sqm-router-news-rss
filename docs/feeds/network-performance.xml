@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 31 May 2026 21:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 22:39:17 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Comcast: Unexpected Internet Outage - Salem, MA (.gov)</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LT3ZPM1ZpWFFzbUMwQ01WOUZKb0lXbzFWOXRiaFowb1RTcFp2UkpDXzlFV1BrN1NhSjFpLTZkQjdta0hmWUVjaVRERzdtZmJqQVBtTEhvTnFBMjFyMGVj?oc=5</link>
+      <guid isPermaLink="false">ed1ffd2d33289fa79ba15db1</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-05-28 06:06
+Comcast: Unexpected Internet Outage Salem, MA (.gov)</description>
+      <pubDate>Sun, 31 May 2026 22:39:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-05-31T22:39:17.452103Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-27T21:06:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] 発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン</title>
       <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5</link>
