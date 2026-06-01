@@ -1,11 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:sqm="https://psychidae.github.io/sqm-router-news-rss/ns" version="2.0">
   <channel>
     <title>ネットワークセキュリティニュース</title>
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 19:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 22:16:24 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE8tcmcyS2lrV00wSEJIUFU1VDVkOVJhVE5hM3dYRlZvR1ZVdzdpVHRVWWwtcEV3NmdXXzZsVWNVN3FYRzlwMWtWcGFfamlsenBMZXpTZ0Zkd09JeUxjX19ZWGhIS21QS0x6bGxkLXZVLUFRZHZsOFE?oc=5</link>
+      <guid isPermaLink="false">d2760455c8c4edba949b3f72</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 06:55
+AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる INTERNET Watch</description>
+      <pubDate>Mon, 01 Jun 2026 22:16:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T22:16:24.117196Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T21:55:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hzQ00wNVYzQnZieVJ6LVRwa2w4R2lzeHZBelRfRkJzbkxjTmg3d21WdmpmQ0FhVzVhdS1YTE5neDlLWEd3WGZZQUdPV0MtR2pfSkIwaWhFM3VwY3FDNzN0RjFGaFZSLUpleTdsX01vTHBIT1JMcEpialFibHdMUS1ob0lsQ1RpUEc1RkJENmFGMXhyN1FqMHFZTk9TWmhRZU9fUTZ5N1A?oc=5</link>
+      <guid isPermaLink="false">8e994aca0769174b34ce29e5</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-01 10:00
+Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 合同会社ロケットボーイズ</description>
+      <pubDate>Mon, 01 Jun 2026 22:16:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T22:16:24.117196Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T01:00:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZEkwTXNZeHBhRU50bjN3ZjFvSzNZYmY5T0h4amQ5OEhPWHNxT2RpckoxSzFuVEdtQ3JucnEyQ1IwNGpIZnEydUFkWlVJYjVVal9OQlBiLTZmSXB4S1pxZ1plbXZVMFI1Nl96RHlpTmxjSm9HM2pjUWdHZW45ZEU?oc=5</link>
+      <guid isPermaLink="false">1a2477ea2120e5fc3e1ce602</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-05-26 13:47
+NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを Yahoo!ニュース</description>
+      <pubDate>Mon, 01 Jun 2026 22:16:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T22:16:24.117196Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-26T04:47:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
   </channel>
 </rss>
