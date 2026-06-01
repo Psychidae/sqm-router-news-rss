@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-01T13:17:06.536290Z",
+  "generated_at": "2026-06-01T19:00:07.223254Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "914a1426a42c235e7615a0d5",
-      "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (2026年6月1日掲載) - news.livedoor.com",
+      "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (2026年6月1日掲載) - ライブドアニュース",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfOFhwYVRqcDRUd3pCdWoyeEpQTVRNNGRBYW8tX2FHSXBXc1E3YnhBS3N0d2tCRlhzNVRjNVBfdDVPaW1HRTZudlJnLUxOa1ZoNnZQUDRhTjBxM3h4Z2c?oc=5",
-      "summary": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (2026年6月1日掲載) news.livedoor.com",
+      "summary": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (2026年6月1日掲載) ライブドアニュース",
       "published_at": "2026-06-01T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,17 +64,6 @@
       "score": 15
     },
     {
-      "id": "1a1ccc9664da92823b8acb56",
-      "title": "TP-Link が 2026 年 10 月発売予定の Wi-Fi 8 ルーター Archer 8 を発表 — しかし FCC の承認が大きな障壁に - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN01GR05BZUpPWThQSjNaNVpjckZ0aElNTlZYTFZCRHRHRFQ5NFpQU2dCQ21GMlZHWjExY01MQkZoVUJDb0ZPemZMeE8tSFdiT25NNDdWYmxFeHktOXowcDJzN3hKb2pFMkxqT1paMFJmX0JNMDk0MUJpVGpjNXFjeTZORFExOW85Z3AyVXBFMERqak5BOXVvdG1ub1hVVk15a2p1eDRB?oc=5",
-      "summary": "TP-Link が 2026 年 10 月発売予定の Wi-Fi 8 ルーター Archer 8 を発表 — しかし FCC の承認が大きな障壁に finance.biggo.jp",
-      "published_at": "2026-05-29T22:22:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
       "id": "5689b159782ccc239585e137",
       "title": "ASUSのWi-FiルーターがAmazonでセール - ケータイ Watch",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTVVwYk1PLVZHQUQwOHBobkVsUDRocDdUdC1RQ051S21MbExJZXg5ZzNNYjBZVzNfTVpOUGZtR0lLMElNM0tiT3M5bjhlaGp6VUJMT2dwdVdpcGl6c0tyVWZpRktJempFRlRzbGtR?oc=5",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 11
+    },
+    {
+      "id": "6a684fd1892de4eba489611e",
+      "title": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年5月】 - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBxZ0FVNzhpbDZCbTZMY1c4M2gyaWRuS2hKX1VEdW1VenNxYlpGbXdGN2F5ZkpmSkxkaGg4b0Z3?oc=5",
+      "summary": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年5月】 マイベスト",
+      "published_at": "2026-05-25T15:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
     }
   ]
 }
