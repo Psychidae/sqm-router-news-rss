@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 07:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:17:08 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
@@ -22,6 +22,20 @@ ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming</descriptio
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0stbGFtLWllWXlUNEhnU2EwcFIyRGJFaXhqem1XekxGVXhhZ0l6ZjJTbjF2b09tOE1jd0NITkpGYjF4RmhrTTVDV1pQNkttU2ZsVzFMUXVKSHZTUmt4Z0M0WkloYmxtVFFnaW1QZjVNZkl3RUoxd0hkZmZua19XWGFxLWx1YnVQZTFMaXlpRlFETy1JWkxhY01pYmRmeWx2UGxfa1FuWmNuelRqcW1mTDIza2VxSGFxdFprMjR6amx4YlU5Nmc?oc=5</link>
+      <guid isPermaLink="false">c7f854a87c40c0649331d496</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-01 16:44
+Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers ISPreview UK</description>
+      <pubDate>Mon, 01 Jun 2026 13:17:08 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T13:17:08.067261Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T07:44:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5</link>
       <guid isPermaLink="false">349437ebe69f8556db89343c</guid>
@@ -32,20 +46,6 @@ GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes<
       <pubDate>Sun, 31 May 2026 10:34:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-05-31T10:34:49.107742Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-31T10:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5</link>
-      <guid isPermaLink="false">802e4c0a7bdd93dbdd647016</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-27 16:00
-Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro</description>
-      <pubDate>Mon, 01 Jun 2026 07:21:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-01T07:21:36.756121Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-27T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -92,16 +92,16 @@ LGU+ switches in-house network to Wi-Fi 7 to strengthen smart office 디지털�
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications - Newswire.com</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTFNY0RuWFpFb3VTYzd6N2xoMGI0VUpTUmRUai1GTzJNQjNvT014WEkwU3dXbENSV285QUhydmtGbk15NVBtWlZNUFVleUtuWWd1NGNRc2hfV0E1OGFsVjF2OXV6TUlqOGh2OEtKNndvLWRBLU9DZmpzbW5rcms5bHRxVTRKdFhSbjB3cDJJMS10WExkdm9jZnBBUm1XanQw?oc=5</link>
-      <guid isPermaLink="false">e4defe62ce57845152b641ed</guid>
+      <title>[海外ルーターニュース] How to get your router setup ready for June’s sports madness - HardwareZone</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2FEYjktMGJHc0JXRHVxck16cG52MERHbEtBci12aW9pbmEyeGtZa2hDUzNPb25EQ0tsUVNLdzQ1RmY1eTgxSDFvZjNQTTJ6Zkx4SndXMjJVcjZxbDBVZDJuZHF6cVl0ZGdoNkpNdFc1UWR2RkhaYjB1NVE1YlR4b3RyTmNBVmpFa013M1l0bDNUeWYwVzNBQnpSZm0?oc=5</link>
+      <guid isPermaLink="false">de5f5074ad6c7c1efa216cdc</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-30 13:01
-InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications Newswire.com</description>
-      <pubDate>Sat, 30 May 2026 04:38:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-30T04:38:53.973100Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-30T04:01:43Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-29 11:52
+How to get your router setup ready for June’s sports madness HardwareZone</description>
+      <pubDate>Mon, 01 Jun 2026 13:17:08 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T13:17:08.067261Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-29T02:52:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-01T07:21:36.757123Z",
+  "generated_at": "2026-06-01T13:17:08.068025Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,17 @@
       "score": 16
     },
     {
+      "id": "c7f854a87c40c0649331d496",
+      "title": "Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0stbGFtLWllWXlUNEhnU2EwcFIyRGJFaXhqem1XekxGVXhhZ0l6ZjJTbjF2b09tOE1jd0NITkpGYjF4RmhrTTVDV1pQNkttU2ZsVzFMUXVKSHZTUmt4Z0M0WkloYmxtVFFnaW1QZjVNZkl3RUoxd0hkZmZua19XWGFxLWx1YnVQZTFMaXlpRlFETy1JWkxhY01pYmRmeWx2UGxfa1FuWmNuelRqcW1mTDIza2VxSGFxdFprMjR6amx4YlU5Nmc?oc=5",
+      "summary": "Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers ISPreview UK",
+      "published_at": "2026-06-01T07:44:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "349437ebe69f8556db89343c",
       "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
@@ -28,18 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "802e4c0a7bdd93dbdd647016",
-      "title": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
-      "summary": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro",
-      "published_at": "2026-05-27T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
     },
     {
       "id": "9777e2c68df1edc8f373f844",
@@ -75,15 +75,15 @@
       "score": 8
     },
     {
-      "id": "e4defe62ce57845152b641ed",
-      "title": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications - Newswire.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTFNY0RuWFpFb3VTYzd6N2xoMGI0VUpTUmRUai1GTzJNQjNvT014WEkwU3dXbENSV285QUhydmtGbk15NVBtWlZNUFVleUtuWWd1NGNRc2hfV0E1OGFsVjF2OXV6TUlqOGh2OEtKNndvLWRBLU9DZmpzbW5rcms5bHRxVTRKdFhSbjB3cDJJMS10WExkdm9jZnBBUm1XanQw?oc=5",
-      "summary": "InHand Networks’ CR602 5G Router Achieves Major North American Carrier Certifications Newswire.com",
-      "published_at": "2026-05-30T04:01:43Z",
+      "id": "de5f5074ad6c7c1efa216cdc",
+      "title": "How to get your router setup ready for June’s sports madness - HardwareZone",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2FEYjktMGJHc0JXRHVxck16cG52MERHbEtBci12aW9pbmEyeGtZa2hDUzNPb25EQ0tsUVNLdzQ1RmY1eTgxSDFvZjNQTTJ6Zkx4SndXMjJVcjZxbDBVZDJuZHF6cVl0ZGdoNkpNdFc1UWR2RkhaYjB1NVE1YlR4b3RyTmNBVmpFa013M1l0bDNUeWYwVzNBQnpSZm0?oc=5",
+      "summary": "How to get your router setup ready for June’s sports madness HardwareZone",
+      "published_at": "2026-05-29T02:52:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 7
     },
     {
       "id": "929aceddb00e82be9fe69445",
