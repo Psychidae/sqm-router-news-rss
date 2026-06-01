@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 01 Jun 2026 02:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 07:21:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBuQklwWDBscER4U2RwSFR1MzdQVEw3TVpGV05iV0ZBeU5TUTR0a2hwT3ZsWWVaWE1EdDhyQ0huUUZIX3lPT3JPU3U0RkxxT3ZKZTRzYmI3WlBfQVZNeWJFXzI5ZFliZ2JqbkdN?oc=5</link>
-      <guid isPermaLink="false">84d8a9597f26bf19f1236dd9</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-25 14:06
-AtermシリーズのWi-Fiルーターの一部に脆弱性、対策済みファームウェアへの更新を INTERNET Watch</description>
-      <pubDate>Mon, 25 May 2026 12:44:01 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-25T12:44:01.160545Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T05:06:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 - 合同会社ロケットボーイズ</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hzQ00wNVYzQnZieVJ6LVRwa2w4R2lzeHZBelRfRkJzbkxjTmg3d21WdmpmQ0FhVzVhdS1YTE5neDlLWEd3WGZZQUdPV0MtR2pfSkIwaWhFM3VwY3FDNzN0RjFGaFZSLUpleTdsX01vTHBIT1JMcEpialFibHdMUS1ob0lsQ1RpUEc1RkJENmFGMXhyN1FqMHFZTk9TWmhRZU9fUTZ5N1A?oc=5</link>
@@ -60,34 +46,6 @@ NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルータ�
       <pubDate>Mon, 01 Jun 2026 02:00:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-01T02:00:03.041651Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-26T04:47:15Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] NEC「Aterm」シリーズに脆弱性 アップデートを推奨（アスキー） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE92dHdNeXVfQ3JrSk41Z0ZXYjlaRUxsbTZ2cVFMMGd5dmdhTzNCb2lWeFBtQ0VyRUdDa1BYUUxpUDZDMms3aXpRTkRCV205aWJKVV9aVzBWQ184WGVjd2JLbUIxckhXTnM5aktqR19HNzhhM3AzczlTS3ZJMExwUHc?oc=5</link>
-      <guid isPermaLink="false">e20e476f938e9383b15c6beb</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-25 15:00
-NEC「Aterm」シリーズに脆弱性 アップデートを推奨（アスキー） Yahoo!ニュース</description>
-      <pubDate>Sat, 30 May 2026 04:38:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-30T04:38:54.986879Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T06:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] NECのモバイルルーターに脆弱性 アップデートの確認を - 週刊アスキー</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndDJtbnBJNnNMNEVuVndRdFNZeXRjX1BtbEZGNldCOHNYNWtCclNiWlRsZXRRc0lXbU5fWWE1T0NfVGZXUlFtRzNuMTR5UXl3cG9HUng1NEFQMktyaGc?oc=5</link>
-      <guid isPermaLink="false">11f275b61aecd94283d6cb81</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-25 13:00
-NECのモバイルルーターに脆弱性 アップデートの確認を 週刊アスキー</description>
-      <pubDate>Sun, 31 May 2026 14:09:31 GMT</pubDate>
-      <sqm:firstSeenDate>2026-05-31T14:09:31.551330Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-25T04:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

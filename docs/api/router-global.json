@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-01T02:00:02.008036Z",
+  "generated_at": "2026-06-01T07:21:36.757123Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -31,6 +31,17 @@
       "score": 14
     },
     {
+      "id": "802e4c0a7bdd93dbdd647016",
+      "title": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
+      "summary": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro",
+      "published_at": "2026-05-27T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "9777e2c68df1edc8f373f844",
       "title": "Huawei launching new Wi-Fi router alongside Nova 16 on June 1 - Huawei Central",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUGJ0OFVNZno1TEU3RjJtbXVORkxwd3NjbUVRMDRSMGNjYnNHYVIwclpvWlpVejRyYldYZk1NU19TaDcxZWJzRUl6d3BVa1hmTlkxUDIxQktLSU1YZzYtTldpMXBHUjk3eURfNjg5TFFZV3ZyVy1ZUnlzb9IBgAFBVV95cUxQZ2RYd0pzNUFBaEQ5My0xV3hkRE0wa0ViaDdZZTVSUVJoR012WWs1LUZzUk5OVDJjOXVSVVlUN09DM09ZdnB2ZkJXclNiVU5KTURtUWxuMTBqNUQzc0U3LWNfaGlFc2hsQmVJVGtNTldWbnJkZ1czTkJWVlNYaG9FWg?oc=5",
@@ -50,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "2dcc6a3e46e29ae3c27f2414",
