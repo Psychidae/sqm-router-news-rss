@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-01T22:16:23.058291Z",
+  "generated_at": "2026-06-01T23:44:17.280778Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,28 @@
       "score": 16
     },
     {
+      "id": "6c0f7a3d5cceb72b68f0c043",
+      "title": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - Gizmochina",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFZ2YUJCVElxMWo2SFVpTXZZZWNuT2djZGxrTGhaZWVTdk5hSGRFTm96SnJXdjd1NE1SOE14ckllaHd3X0VpTDlicDMzcHFEal9LdWRpd2MwbEd5ZWpSWVRsOXNXN3RoNlZBSXBBNVc1anhhSlY4Nk40OGotRUp1SnljdDFWTWJpSm1DRUhUcDh1SnM?oc=5",
+      "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway Gizmochina",
+      "published_at": "2026-06-01T15:21:23Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "6c3e11eb3298e9a1e4878a5c",
+      "title": "Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fa3d1amhpS0JINUx0VmRiQVJhVlpUbHBEUVM0Z3RRbUp2dURLeGt4Q21UdmE1QmcxdlIxcTAwc3VFVDhNUlhWVWVMWGw2SjQyNEs5Njh6am5NSVg2REw1YUpRS2h2SmU0WE8yLVY1X3pkck5tTkl30gF8QVVfeXFMTk9NMXk5bHUxMzU0WFkyRkI0MVJ1SzdUZi13M1pUaTZqNW1kTGFUdEpORC0zNk42bnBqbXhEM1g2bnJUZnpncDJlZGFxd1NLbHM4M1p6eUY2M0RyekR4bkItV1RyQUhhaGNRV0FXU0E3M2ZWZmh5M2NVSzlMYg?oc=5",
+      "summary": "Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology Huawei Central",
+      "published_at": "2026-06-01T12:16:04Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "c7f854a87c40c0649331d496",
       "title": "Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers - ISPreview UK",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0stbGFtLWllWXlUNEhnU2EwcFIyRGJFaXhqem1XekxGVXhhZ0l6ZjJTbjF2b09tOE1jd0NITkpGYjF4RmhrTTVDV1pQNkttU2ZsVzFMUXVKSHZTUmt4Z0M0WkloYmxtVFFnaW1QZjVNZkl3RUoxd0hkZmZua19XWGFxLWx1YnVQZTFMaXlpRlFETy1JWkxhY01pYmRmeWx2UGxfa1FuWmNuelRqcW1mTDIza2VxSGFxdFprMjR6amx4YlU5Nmc?oc=5",
@@ -29,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
+    },
+    {
+      "id": "7f8d2c0dc545aa02565b6064",
+      "title": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5",
+      "summary": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com",
+      "published_at": "2026-05-31T22:54:21Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "349437ebe69f8556db89343c",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "2dcc6a3e46e29ae3c27f2414",
-      "title": "LGU+ switches in-house network to Wi-Fi 7 to strengthen smart office - 디지털투데이",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnhDUlphcW1rUkltUEg4Nml1V3hxM2o1al9SQldILVRPQVNhb2UyZG84Tk5IeDU1RmNNOXg0Tmh5TnBoM2NWWW5oX3RrLWw3UW5BcENJTnZaT1JoOHlGLURnaGoyRktHOWdacnZXVUJub3lmVjgwQzNZcDlMeC1HNG1lUENzY0JUdHBzVHdQazNadWh3N3VNQkhjMVJkejdBTWJUNGxNLVloemllZGRoNFVR?oc=5",
-      "summary": "LGU+ switches in-house network to Wi-Fi 7 to strengthen smart office 디지털투데이",
-      "published_at": "2026-05-31T00:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "de5f5074ad6c7c1efa216cdc",
-      "title": "How to get your router setup ready for June’s sports madness - HardwareZone",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2FEYjktMGJHc0JXRHVxck16cG52MERHbEtBci12aW9pbmEyeGtZa2hDUzNPb25EQ0tsUVNLdzQ1RmY1eTgxSDFvZjNQTTJ6Zkx4SndXMjJVcjZxbDBVZDJuZHF6cVl0ZGdoNkpNdFc1UWR2RkhaYjB1NVE1YlR4b3RyTmNBVmpFa013M1l0bDNUeWYwVzNBQnpSZm0?oc=5",
-      "summary": "How to get your router setup ready for June’s sports madness HardwareZone",
-      "published_at": "2026-05-29T02:52:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "929aceddb00e82be9fe69445",
-      "title": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5",
-      "summary": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times",
-      "published_at": "2026-05-28T20:09:09Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
