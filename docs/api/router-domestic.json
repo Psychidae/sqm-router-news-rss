@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-02T15:45:45.731867Z",
+  "generated_at": "2026-06-02T19:04:04.380555Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -57,6 +57,17 @@
       "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IUVl1ZkJRT1NsNzZPajRzRGNiQUdJcmNBVUdWV0R2dFNnSldjdTVDdGx4YzlJeDVkTHBlTUcyR0FZYTdLRHo2ZEFoY0Q0RThSRFlkbzZTUmpxd1UzOTliMkprN2JCTDdWMU84S0FZQlRINE1pSXBQSmhmVE5yTTA?oc=5",
       "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25（BCN） Yahoo!ニュース",
+      "published_at": "2026-05-25T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "b9bd41b9eec378a5bb44f9a6",
+      "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tQUhtS2xUakJxNTFScHBQNGFLb0RmWVR5empsUFd5OHdFbEY5VEgyOXBZNHZ1bW9UYnFMSTEwYU1UWEpkUnVWQU5KRDIwekt0WldGV3d2dkc2SmstY2kxSzZGMEI3eHRoNXJmQjNPU01QV25FTDdOb1dB?oc=5",
+      "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 bcnretail.com",
       "published_at": "2026-05-25T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,37 +75,26 @@
       "score": 15
     },
     {
-      "id": "b5cf9af93f9060ad46cbfebf",
-      "title": "ASUS製のWi-Fi 7ルーターがセール、ゲーミングルーターが2万7818円から！ - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5meW5pQkQ3cnMyeFVVVGNiQUkwX0V2NDdTVy1ZRlFnZ3VrN3IxLUk3ZXJtSEJhdW50WWd2TTFFdUxuNWNPMUxFWVdEZjBDYWhQNVdsLWVlZDJ0UVBtRzl5VGpFUFZ2ajhDTUVncGhuYVk?oc=5",
-      "summary": "ASUS製のWi-Fi 7ルーターがセール、ゲーミングルーターが2万7818円から！ INTERNET Watch",
-      "published_at": "2026-05-21T07:00:00Z",
+      "id": "b6e4756da342701121666150",
+      "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3VwSG42SGZKQVBZbDZ6cjZtZW9yeE01SFdGYXZ3ekNrQmlQaDZBbExuU1prMm1wZ0Ywd1VfTG1GZU4ycUktc1VodndFdC1UOGZGYWR3aGVfT29Dc2ZSWEpaRU5KbXM0eW8yc09wNy1pSlpMN3BEMEZsU3BmbE8zRTd6ZU0zYllmX2ZEMUZB?oc=5",
+      "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN) Yahoo!ニュース",
+      "published_at": "2026-05-25T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
     },
     {
-      "id": "3ab5ef05a0477be31a0dc2a2",
-      "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUlJlYzJyX000Y0w0d25sUFA2dVNwV3psNlpVUV82M0psUTFSbE0tLUNzcG9GYm9sRU4yVERoeGtKQjAzdU5VMnNBdmpQWERReUpwOXozMzRzcUNOc1pr0gFkQVVfeXFMUG1ET1pQcW52bXdERDhFN1dfdW5na3VYczlRdkRmZm54NkxWcVNTOWZZU05HWUd4X1BNS0VNcEhfQ29QSEIteF9RRGExRWw2aG1INmpnS1FZcjRGOWZ6VDRqZDhsWQ?oc=5",
-      "summary": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス 千葉テレビ放送",
-      "published_at": "2026-06-02T03:58:35Z",
+      "id": "ef3ea124e25614d75d0f188d",
+      "title": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16em14bkctc0kzVWdubkpOb05oSnd0UjBfa0UzMUJmb2x2U1RjLUxmeHZXci1BaEZNM2FtajU4a2ItbmUzQ1NobS1QOXZiUQ?oc=5",
+      "summary": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 マイベスト",
+      "published_at": "2026-05-25T01:38:20Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "e002b69a15f3d93287bbb30b",
-      "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XbFR4cE9FYzNwakdQZGxyTTI2T0lpUXg3WThkaElyWTZqTFFlYXhTNWpTTUltZkJtQ3F3bnFBd3BxNmVzM00yYXo4RGROd0hqZXRWeEV6YXZoV0lGUUNQUUJnNHNpeHh3UzFsS1JXcnZDOHNfLW5hNzlrQkxPOTA?oc=5",
-      "summary": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-06-02T03:50:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 15
     }
   ]
 }

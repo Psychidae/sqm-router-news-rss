@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 15:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:04:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - PR TIMES</title>
@@ -19,20 +19,6 @@
       <sqm:firstSeenDate>2026-06-02T11:41:52.693182Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T04:09:27Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage hits One customers across island - Royal Gazette | Bermuda</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnIxVS1aT2dpaW1UYVJSdnhGVFZ3d0tvLUwxUms5enNkSVNNOTB6VVl6ejZoN0hKMTFRdXd5OGY2aEIxUUJpMGJmOVVNcl9vT1VORm12ZzQxVU1IczlNWnMzdGI5ZGNmZEhmWnhEbWRWUnpKaVhlRTJ6WmlFTk9oSUM1dHRGcm4wQzdGTlNLZGVmUzUyVjJMeXZUNFlYT0RORGZCVUJvNkhUa3Bf?oc=5</link>
-      <guid isPermaLink="false">e68f2200243533870827a871</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-01 21:22
-Internet outage hits One customers across island Royal Gazette | Bermuda</description>
-      <pubDate>Mon, 01 Jun 2026 19:00:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-01T19:00:11.515401Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-01T12:22:38Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>
