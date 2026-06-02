@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-02T11:41:50.728384Z",
+  "generated_at": "2026-06-02T15:45:47.340845Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,6 +31,17 @@
       "score": 14
     },
     {
+      "id": "7f8d2c0dc545aa02565b6064",
+      "title": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5",
+      "summary": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com",
+      "published_at": "2026-06-01T17:31:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "6c3e11eb3298e9a1e4878a5c",
       "title": "Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fa3d1amhpS0JINUx0VmRiQVJhVlpUbHBEUVM0Z3RRbUp2dURLeGt4Q21UdmE1QmcxdlIxcTAwc3VFVDhNUlhWVWVMWGw2SjQyNEs5Njh6am5NSVg2REw1YUpRS2h2SmU0WE8yLVY1X3pkck5tTkl30gF8QVVfeXFMTk9NMXk5bHUxMzU0WFkyRkI0MVJ1SzdUZi13M1pUaTZqNW1kTGFUdEpORC0zNk42bnBqbXhEM1g2bnJUZnpncDJlZGFxd1NLbHM4M1p6eUY2M0RyekR4bkItV1RyQUhhaGNRV0FXU0E3M2ZWZmh5M2NVSzlMYg?oc=5",
@@ -39,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "c7f854a87c40c0649331d496",
@@ -47,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV0stbGFtLWllWXlUNEhnU2EwcFIyRGJFaXhqem1XekxGVXhhZ0l6ZjJTbjF2b09tOE1jd0NITkpGYjF4RmhrTTVDV1pQNkttU2ZsVzFMUXVKSHZTUmt4Z0M0WkloYmxtVFFnaW1QZjVNZkl3RUoxd0hkZmZua19XWGFxLWx1YnVQZTFMaXlpRlFETy1JWkxhY01pYmRmeWx2UGxfa1FuWmNuelRqcW1mTDIza2VxSGFxdFprMjR6amx4YlU5Nmc?oc=5",
       "summary": "Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers ISPreview UK",
       "published_at": "2026-06-01T07:44:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "7f8d2c0dc545aa02565b6064",
-      "title": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5",
-      "summary": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com",
-      "published_at": "2026-05-31T22:54:21Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -86,22 +86,22 @@
       "score": 11
     },
     {
-      "id": "d8672de80dba1a8db7172b2d",
-      "title": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5",
-      "summary": "MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar",
-      "published_at": "2026-05-21T07:00:00Z",
+      "id": "fda98857133ff5c052196322",
+      "title": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5",
+      "summary": "TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro",
+      "published_at": "2026-05-20T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
     {
-      "id": "35bd867a315090675127d8ea",
-      "title": "Huawei 11 та антенна ва Wi-Fi 7+ билан жиҳозланган Роутер Х1 Pro Гаминг Эдитионни тақдим этди - Zamin.uz",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0ctYlN2VUw2bEJYcGlOVTNmZlFnMUg0MVhqV05xb0JiUHpxbFNzR193MnFac2lfVjhKZXJsNUtuUmNreHpMYVVDVDdpcEJYZVF0NE04OHNrRW1xLVljWEhhSWVST0xRTkdiLTlwanJTX1NLY1BIZ3BOR3dDV2daUG8zdlFMTThSeEwtNzJ5NTYxb1NVWXVmQWZKZTNJR0gybWp6bHE1R3dJX1pDRzFUS2dYSU13Z1lBZlE?oc=5",
-      "summary": "Huawei 11 та антенна ва Wi-Fi 7+ билан жиҳозланган Роутер Х1 Pro Гаминг Эдитионни тақдим этди Zamin.uz",
-      "published_at": "2026-06-01T17:53:30Z",
+      "id": "ef341273d10c3c94cb0dc726",
+      "title": "Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQamFyb04zSm5YRWpHclRlU0JFTzJRUnJsbVlENGNVek5aNzliazFzRGxadWZlY3gxRmhTejRQUW4zNHNjTXNfTUtZTXRia3l0UnlYdTMyTDFPZkFaTlk0Z0N6MmVZaF91T01QMTdmZW82TTZrQ25lUElxOVI5aFZldzdQMzJVTlhSSzhWbDdCT3IwQnUt?oc=5",
+      "summary": "Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 9to5Toys",
+      "published_at": "2026-06-02T11:44:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

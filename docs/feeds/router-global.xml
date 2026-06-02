@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 11:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 15:45:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't) - ZDNET</title>
@@ -32,6 +32,20 @@ FRITZ!Box 7630 is here: Compact Wi-Fi 7 router brings high-speed DSL to the mode
       <pubDate>Tue, 02 Jun 2026 06:55:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-02T06:55:15.368927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T01:46:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5</link>
+      <guid isPermaLink="false">7f8d2c0dc545aa02565b6064</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-02 02:31
+Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com</description>
+      <pubDate>Mon, 01 Jun 2026 23:44:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-01T23:44:17.279800Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T17:31:28Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -64,20 +78,6 @@ Altnet ISP Lightning Fibre Launch Wi-Fi 7 Routers for UK Broadband Customers ISP
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5</link>
-      <guid isPermaLink="false">7f8d2c0dc545aa02565b6064</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-01 07:54
-Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com</description>
-      <pubDate>Mon, 01 Jun 2026 23:44:17 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-01T23:44:17.279800Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-31T22:54:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5</link>
       <guid isPermaLink="false">349437ebe69f8556db89343c</guid>
@@ -106,30 +106,30 @@ Huawei launching new Wi-Fi router alongside Nova 16 on June 1 Huawei Central</de
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlpoS2pCMHFlU2dTZkx1eFdpakpTVXdXQTlUSWFuRjdHdHFEM3dVRm9BNm1Cbmo2dkhYMEF4dVhuUWNtdkRuX0RrdlJUTzltSlowZTVRZEYwM2d6M1BqSzhDZjg4S0VpY2oxN0FyTDY4eHRwZ2JSZzZhTE5CZHBEd2Vxa2RtOG44YlBoX20wdDN3M2R3Nm1YRVlnNTdzUU5ieGpJ?oc=5</link>
-      <guid isPermaLink="false">d8672de80dba1a8db7172b2d</guid>
+      <title>[海外ルーターニュース] TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services - IT Pro</title>
+      <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeHZzUGZpSlNMeEZaaWpOVlkteXIzRVBkbjNvek5BX01DNENYTlpuWm41UkxwcS1NYUFtbDlsNlI2cHJSY3V3dkFGUDVoaTN0ZWwtUnN4VVQtZW90SkxGbWlQUzkyaUJmeDNJZDBrLTkyYTctUjJEbXYxVzBuWkxfN0g5Tms2Rm9SZlNvY1R4OWRSejRuTFF5T095ZV9HTXlqZGx6OVBNUzBjTlBZdDZTREEtU2dTcUlEWDc0QnVHZU8?oc=5</link>
+      <guid isPermaLink="false">fda98857133ff5c052196322</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-05-21 16:00
-MSI Roamii BE Pro Wi-Fi mesh system review: affordable, fast Wi-Fi 7 TechRadar</description>
-      <pubDate>Tue, 02 Jun 2026 11:41:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-02T11:41:50.727375Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-21T07:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-20 16:00
+TP-Link Omada EAP775-Wall review: A great choice for delivering Wi-Fi 7 room services IT Pro</description>
+      <pubDate>Tue, 02 Jun 2026 15:45:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-02T15:45:47.339878Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-20T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Huawei 11 та антенна ва Wi-Fi 7+ билан жиҳозланган Роутер Х1 Pro Гаминг Эдитионни тақдим этди - Zamin.uz</title>
-      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0ctYlN2VUw2bEJYcGlOVTNmZlFnMUg0MVhqV05xb0JiUHpxbFNzR193MnFac2lfVjhKZXJsNUtuUmNreHpMYVVDVDdpcEJYZVF0NE04OHNrRW1xLVljWEhhSWVST0xRTkdiLTlwanJTX1NLY1BIZ3BOR3dDV2daUG8zdlFMTThSeEwtNzJ5NTYxb1NVWXVmQWZKZTNJR0gybWp6bHE1R3dJX1pDRzFUS2dYSU13Z1lBZlE?oc=5</link>
-      <guid isPermaLink="false">35bd867a315090675127d8ea</guid>
+      <title>[海外ルーターニュース] Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 - 9to5Toys</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQamFyb04zSm5YRWpHclRlU0JFTzJRUnJsbVlENGNVek5aNzliazFzRGxadWZlY3gxRmhTejRQUW4zNHNjTXNfTUtZTXRia3l0UnlYdTMyTDFPZkFaTlk0Z0N6MmVZaF91T01QMTdmZW82TTZrQ25lUElxOVI5aFZldzdQMzJVTlhSSzhWbDdCT3IwQnUt?oc=5</link>
+      <guid isPermaLink="false">ef341273d10c3c94cb0dc726</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-02 02:53
-Huawei 11 та антенна ва Wi-Fi 7+ билан жиҳозланган Роутер Х1 Pro Гаминг Эдитионни тақдим этди Zamin.uz</description>
-      <pubDate>Tue, 02 Jun 2026 11:41:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-02T11:41:50.727375Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-01T17:53:30Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-02 20:44
+Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 9to5Toys</description>
+      <pubDate>Tue, 02 Jun 2026 15:45:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-02T15:45:47.339878Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T11:44:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
