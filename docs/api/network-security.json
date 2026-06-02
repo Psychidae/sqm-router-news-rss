@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-02T02:03:09.795784Z",
+  "generated_at": "2026-06-02T06:55:16.449423Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 3,
+  "count": 6,
   "errors": [],
   "items": [
+    {
+      "id": "3ab5ef05a0477be31a0dc2a2",
+      "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUlJlYzJyX000Y0w0d25sUFA2dVNwV3psNlpVUV82M0psUTFSbE0tLUNzcG9GYm9sRU4yVERoeGtKQjAzdU5VMnNBdmpQWERReUpwOXozMzRzcUNOc1pr0gFkQVVfeXFMUG1ET1pQcW52bXdERDhFN1dfdW5na3VYczlRdkRmZm54NkxWcVNTOWZZU05HWUd4X1BNS0VNcEhfQ29QSEIteF9RRGExRWw2aG1INmpnS1FZcjRGOWZ6VDRqZDhsWQ?oc=5",
+      "summary": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス 千葉テレビ放送",
+      "published_at": "2026-06-02T03:58:35Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "e002b69a15f3d93287bbb30b",
+      "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XbFR4cE9FYzNwakdQZGxyTTI2T0lpUXg3WThkaElyWTZqTFFlYXhTNWpTTUltZkJtQ3F3bnFBd3BxNmVzM00yYXo4RGROd0hqZXRWeEV6YXZoV0lGUUNQUUJnNHNpeHh3UzFsS1JXcnZDOHNfLW5hNzlrQkxPOTA?oc=5",
+      "summary": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-06-02T03:50:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "d2760455c8c4edba949b3f72",
       "title": "AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる - INTERNET Watch",
@@ -18,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 13
+    },
+    {
+      "id": "886ea73341cbe44ba18e82ea",
+      "title": "TP-Link製ルーターに脆弱性 アップデート推奨 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU3RiMl93bi1YV1hiVlliQTZ3UGpOZ0hNcXV6dWR2ajh1bHFGNFZBd0RGTDZNTkRVXzFEUm9mam1VTUhPeFRTeUVlLTE1cmw5ckwxbQ?oc=5",
+      "summary": "TP-Link製ルーターに脆弱性 アップデート推奨 ASCII.jp",
+      "published_at": "2026-06-02T03:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     },
     {
       "id": "8e994aca0769174b34ce29e5",
@@ -31,11 +64,11 @@
       "score": 7
     },
     {
-      "id": "eed4dffa340bcd1a854b7e17",
-      "title": "NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSYXhHRW9XZlhocHRna1FVRTB3aWFYbkV0RXY3Z0g0ZEV5bjR4WHJma0ZCT2g1RjhFWDk2ODFsenktN1NUR1hnd25IQVpuSm1DeTZUUnVSVEhCR1RtSVdJQTJRdnVLbG1wclk0?oc=5",
-      "summary": "NTTドコモが販売する「CM51FD」など、Atermの5Gモバイルルーター2製品に脆弱性。最新のファームウェアにアップデートを INTERNET Watch",
-      "published_at": "2026-05-26T04:47:15Z",
+      "id": "74bab118ad288906d995aa62",
+      "title": "KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkFuaGdvUHBKZTM4WVRGRGkzVHIweXdZMU9yVFNoSUlra09jX09NZmZpWk82QVI5eVJyenFSMFZ4R1JTQzZuaV9jSmE4WUIxdTY5c21ES0FFNGFfSkQtMzZ0eHZXeXc4Rzc3OXRzblNGd0VvM2RfN1hUSDhGUTctN1pmSjE4SlpQR21fVHBteE9iOTFVMGtLREVoVHNhQ1dtOTRJU2xOcERXSFNOMXpsNg?oc=5",
+      "summary": "KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 合同会社ロケットボーイズ",
+      "published_at": "2026-05-29T01:00:50Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
