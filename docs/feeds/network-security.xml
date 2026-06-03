@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Jun 2026 15:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:57:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] TP-Link Router Vulnerability Enables Arbitrary Command Execution - cyberpress.org</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nU25jdURZWUcwUnNLdHE3WFJIZ1FPc2pTcXNlSDhUX25IR2Rra0ZkTXlIWklKX3Q4RU1FOUNqMDBJSDhkREZiRkJpbGFuWUZYTkdfNW9FdUhVQ2dYbVBQN1p3?oc=5</link>
-      <guid isPermaLink="false">5ec2b1fb6d865ce9d17f3b1f</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-02 14:42
-TP-Link Router Vulnerability Enables Arbitrary Command Execution cyberpress.org</description>
-      <pubDate>Wed, 03 Jun 2026 15:02:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-03T15:02:22.461315Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T05:42:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTnM0WU5JZk02cGszcXRrSFRjeFdFamdlOTVPU0Z1RzFRWGdhcS1sd0YxQkxscUFNc0w5UlFHWVZPbU9UU0U0ajhMb1dTal9wNGZUVDNiT095dFh2alRMOEQyMDFxc2FiU2Qw?oc=5</link>
