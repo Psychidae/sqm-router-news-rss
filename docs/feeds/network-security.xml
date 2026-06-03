@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 02 Jun 2026 22:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス - 千葉テレビ放送</title>
@@ -78,6 +78,20 @@ NETGEARがネットワークセキュリティ分野に参入 - Exiumセキュ�
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5</link>
+      <guid isPermaLink="false">fb20cc3a0d5e0fc807d1b337</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 18:02
+TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース</description>
+      <pubDate>Wed, 03 Jun 2026 00:00:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-03T00:00:53.846867Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T09:02:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを - ケータイ Watch</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQVlJZVg1el9HRDhnV3VYQnFtSVFVNzMyQklIMnBsRW1hd0hRXzdSRkhFOXpFbTRSb0JYY0czdXNlWHZrMkRLM2VUdk16Ry14SVJ0aFpOWjA2bGstdndiZm9teW1ZcTg?oc=5</link>
       <guid isPermaLink="false">7367c5ce7bd340ac1ce74c69</guid>
@@ -130,20 +144,6 @@ Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257�
       <pubDate>Tue, 02 Jun 2026 19:04:08 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-02T19:04:08.830802Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-01T01:00:43Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxONkFuaGdvUHBKZTM4WVRGRGkzVHIweXdZMU9yVFNoSUlra09jX09NZmZpWk82QVI5eVJyenFSMFZ4R1JTQzZuaV9jSmE4WUIxdTY5c21ES0FFNGFfSkQtMzZ0eHZXeXc4Rzc3OXRzblNGd0VvM2RfN1hUSDhGUTctN1pmSjE4SlpQR21fVHBteE9iOTFVMGtLREVoVHNhQ1dtOTRJU2xOcERXSFNOMXpsNg?oc=5</link>
-      <guid isPermaLink="false">74bab118ad288906d995aa62</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-05-29 10:00
-KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 合同会社ロケットボーイズ</description>
-      <pubDate>Tue, 02 Jun 2026 19:04:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-02T19:04:08.830802Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-29T01:00:50Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
