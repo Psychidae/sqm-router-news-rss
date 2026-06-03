@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 03 Jun 2026 22:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:59:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] TP-Link Router Vulnerability Enables Arbitrary Command Execution - cyberpress.org</title>
@@ -102,20 +102,6 @@ TP-Link製ルーターに脆弱性 アップデート推奨 ASCII.jp</descriptio
       <pubDate>Wed, 03 Jun 2026 15:02:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-03T15:02:22.461315Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T03:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hzQ00wNVYzQnZieVJ6LVRwa2w4R2lzeHZBelRfRkJzbkxjTmg3d21WdmpmQ0FhVzVhdS1YTE5neDlLWEd3WGZZQUdPV0MtR2pfSkIwaWhFM3VwY3FDNzN0RjFGaFZSLUpleTdsX01vTHBIT1JMcEpialFibHdMUS1ob0lsQ1RpUEc1RkJENmFGMXhyN1FqMHFZTk9TWmhRZU9fUTZ5N1A?oc=5</link>
-      <guid isPermaLink="false">8e994aca0769174b34ce29e5</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-01 10:00
-Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 合同会社ロケットボーイズ</description>
-      <pubDate>Tue, 02 Jun 2026 19:04:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-02T19:04:08.830802Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-01T01:00:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

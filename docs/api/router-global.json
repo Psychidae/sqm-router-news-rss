@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-03T22:04:22.927142Z",
+  "generated_at": "2026-06-03T23:58:59.592432Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,6 +75,17 @@
       "score": 13
     },
     {
+      "id": "ce5cc903e1e480f2e4819947",
+      "title": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBzd25sSXJVamljSXJETnhhVVhCOHJ2akgzdXJhT2tiWEFKcnQ0OVhJMDFtZnhKd25EMjcwM21NYko5OUw4SnBVMVR2MzNQUjJXeEF6TDFCOTFzY05yZ3NSV1dmSVBDdzBFSmtER29WMzI1cTBHcV9zUS1jRkRLal84blRDdlFUUG5hNXNXUS1GeHNBclVOMWwzbWNFUUFKbnNuM2lYX3R1YUpoUkJiemNnbmZjS3c2dUhyUjF3N21fSUk3M2loeDdwZnU3RXpIcjNaRw?oc=5",
+      "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN",
+      "published_at": "2026-06-01T15:23:23Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "6c3e11eb3298e9a1e4878a5c",
       "title": "Huawei Q7 Power Wired Router launched with Wi-Fi 7+ technology - Huawei Central",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fa3d1amhpS0JINUx0VmRiQVJhVlpUbHBEUVM0Z3RRbUp2dURLeGt4Q21UdmE1QmcxdlIxcTAwc3VFVDhNUlhWVWVMWGw2SjQyNEs5Njh6am5NSVg2REw1YUpRS2h2SmU0WE8yLVY1X3pkck5tTkl30gF8QVVfeXFMTk9NMXk5bHUxMzU0WFkyRkI0MVJ1SzdUZi13M1pUaTZqNW1kTGFUdEpORC0zNk42bnBqbXhEM1g2bnJUZnpncDJlZGFxd1NLbHM4M1p6eUY2M0RyekR4bkItV1RyQUhhaGNRV0FXU0E3M2ZWZmh5M2NVSzlMYg?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
       "summary": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro",
       "published_at": "2026-05-27T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "f0a21905b77cf1dafb2276c9",
-      "title": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2U1WEdXWXJyUG1pa3VCLWdjUjJkZ012aTNGZUY1eHNuSkJUZ3hMZzl0R0htU1dQMEp6aFRYX1pwdm0wNTdveTlOQ3ZQYktBMGoxM2JCVTBuQXozVVZOblNRcmMzb2hMMTV2ZXFZWEZmLUVKZExGWnRnbE0xZGZhYVVHS3oxWmVqOU5kaG0wR1RqVnBET3hFLUF30gGfAUFVX3lxTE9RVFpxUEtHQ2lfeEhsa25yM0hodWdhUGJLZW9fTkgtMGlsQk5GcTNMbnd4eERIM3kzN054cEFhaHU0VThjSHJjT0cwak9KQzQyRWVMT2J3MlhmSjVPbHdqeWNidlQxbVpDc2NqX0xjZW1La0RmcjBGdDNwWTBwZEhmQlJqZHFrOVd1SUhWeElQV3N3V2VNekJKVHlESVhXQQ?oc=5",
-      "summary": "GL.iNet Launches Slate 7 Pro Tri-band Wi-Fi 7 Travel Router TechPowerUp",
-      "published_at": "2026-05-21T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
