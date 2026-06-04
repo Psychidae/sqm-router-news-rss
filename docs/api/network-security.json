@@ -1,21 +1,21 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-03T23:59:00.869934Z",
+  "generated_at": "2026-06-04T05:03:19.460756Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
     {
-      "id": "5ec2b1fb6d865ce9d17f3b1f",
-      "title": "TP-Link Router Vulnerability Enables Arbitrary Command Execution - cyberpress.org",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nU25jdURZWUcwUnNLdHE3WFJIZ1FPc2pTcXNlSDhUX25IR2Rra0ZkTXlIWklKX3Q4RU1FOUNqMDBJSDhkREZiRkJpbGFuWUZYTkdfNW9FdUhVQ2dYbVBQN1p3?oc=5",
-      "summary": "TP-Link Router Vulnerability Enables Arbitrary Command Execution cyberpress.org",
-      "published_at": "2026-06-02T05:42:21Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "3ab5ef05a0477be31a0dc2a2",
+      "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZUlJlYzJyX000Y0w0d25sUFA2dVNwV3psNlpVUV82M0psUTFSbE0tLUNzcG9GYm9sRU4yVERoeGtKQjAzdU5VMnNBdmpQWERReUpwOXozMzRzcUNOc1pr0gFkQVVfeXFMUG1ET1pQcW52bXdERDhFN1dfdW5na3VYczlRdkRmZm54NkxWcVNTOWZZU05HWUd4X1BNS0VNcEhfQ29QSEIteF9RRGExRWw2aG1INmpnS1FZcjRGOWZ6VDRqZDhsWQ?oc=5",
+      "summary": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス 千葉テレビ放送株式会社",
+      "published_at": "2026-06-02T03:58:35Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 12
     },
@@ -53,6 +53,17 @@
       "score": 12
     },
     {
+      "id": "03bae69c5cde6a2b91bd5889",
+      "title": "NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9idjNCTTVyVkJCR2VvMm5zSUdWU3VtMk9iTjQzbld2Mlgwem5qWC1qUzNrczR0V01vR1VCb3VDS3VMV2RVeS1fekQwRmljUVBvVmpCQnE4d0RhZzB6R2RoV0pBa2VqaFd5NFZF?oc=5",
+      "summary": "NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 時事ドットコム",
+      "published_at": "2026-06-04T03:45:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
       "id": "5adde387169f764d2d9dade6",
       "title": "NETGEARがネットワークセキュリティ分野に参入 - ExiumセキュリティライセンスをInterop Tokyo 2026で発表 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12MHdjWHBHNHRGc3dDYVlXbTFTWWRVVGdmN2VzdXZkWnNaVnRmd2Jfc2U0dG1OYWQxY1VJbXRSMjB2ci12MXRtWEs3N0Z6S2YyRmtTcHkwVHF3Y04zR0J3TVE5YWJrQTZpeno0Zll0WXRJRFp2Y0RxREJnRQ?oc=5",
@@ -86,11 +97,11 @@
       "score": 7
     },
     {
-      "id": "74bab118ad288906d995aa62",
-      "title": "KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkFuaGdvUHBKZTM4WVRGRGkzVHIweXdZMU9yVFNoSUlra09jX09NZmZpWk82QVI5eVJyenFSMFZ4R1JTQzZuaV9jSmE4WUIxdTY5c21ES0FFNGFfSkQtMzZ0eHZXeXc4Rzc3OXRzblNGd0VvM2RfN1hUSDhGUTctN1pmSjE4SlpQR21fVHBteE9iOTFVMGtLREVoVHNhQ1dtOTRJU2xOcERXSFNOMXpsNg?oc=5",
-      "summary": "KubernetesのFaaSフレームワーク「Fission」ルーターに深刻な脆弱性 CVE-2026-46614 合同会社ロケットボーイズ",
-      "published_at": "2026-05-29T01:00:50Z",
+      "id": "8e994aca0769174b34ce29e5",
+      "title": "Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hzQ00wNVYzQnZieVJ6LVRwa2w4R2lzeHZBelRfRkJzbkxjTmg3d21WdmpmQ0FhVzVhdS1YTE5neDlLWEd3WGZZQUdPV0MtR2pfSkIwaWhFM3VwY3FDNzN0RjFGaFZSLUpleTdsX01vTHBIT1JMcEpialFibHdMUS1ob0lsQ1RpUEc1RkJENmFGMXhyN1FqMHFZTk9TWmhRZU9fUTZ5N1A?oc=5",
+      "summary": "Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 合同会社ロケットボーイズ",
+      "published_at": "2026-06-01T01:00:43Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
