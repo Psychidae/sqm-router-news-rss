@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-04T22:10:49.471738Z",
+  "generated_at": "2026-06-04T23:35:14.664351Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "8b0cf7c6f006896d02960bb6",
+      "title": "TP-Link Router Vulnerability Allows Attackers to Execute Arbitrary System Commands - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84Mk84aG1oNURTRTA1dE0tWHRESWNlcXBQNmxtS1ZxMU5xaHpQQzVzZFNmNllVaWdDOHpoeEIyRTZuYWo4MzJPcDdhcnVMR2w1Z1VQZVZkeV92cmxHTFFwUTF5eGlEakJmemFr0gFwQVVfeXFMTlN2Y0RCNUxvYXhhMXJZZkZPbWQyQm1LaEQ2MnlVbUJoZ3VvT3M2SGJhekNLQXB5eVJiR3BqNml1cXRiSUJKMkdrZzlJYU9MbjZLeDhTNmlzNkdOM3I2MHVjMjV1N3RwR244cE9PcEx4UA?oc=5",
+      "summary": "TP-Link Router Vulnerability Allows Attackers to Execute Arbitrary System Commands CyberSecurityNews",
+      "published_at": "2026-06-02T12:19:05Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
     {
       "id": "3ab5ef05a0477be31a0dc2a2",
       "title": "TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを | チバテレ＋プラス - 千葉テレビ放送株式会社",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
-    },
-    {
-      "id": "8e994aca0769174b34ce29e5",
-      "title": "Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV1hzQ00wNVYzQnZieVJ6LVRwa2w4R2lzeHZBelRfRkJzbkxjTmg3d21WdmpmQ0FhVzVhdS1YTE5neDlLWEd3WGZZQUdPV0MtR2pfSkIwaWhFM3VwY3FDNzN0RjFGaFZSLUpleTdsX01vTHBIT1JMcEpialFibHdMUS1ob0lsQ1RpUEc1RkJENmFGMXhyN1FqMHFZTk9TWmhRZU9fUTZ5N1A?oc=5",
-      "summary": "Palo Alto Networks PAN-OSのGlobalProtect 認証回避 脆弱性 CVE-2026-0257がサイバー攻撃に確認 合同会社ロケットボーイズ",
-      "published_at": "2026-06-01T01:00:43Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     }
   ]
 }

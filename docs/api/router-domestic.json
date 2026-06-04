@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-04T22:10:45.607037Z",
+  "generated_at": "2026-06-04T23:35:12.320665Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -75,26 +75,26 @@
       "score": 15
     },
     {
-      "id": "b6e4756da342701121666150",
-      "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3VwSG42SGZKQVBZbDZ6cjZtZW9yeE01SFdGYXZ3ekNrQmlQaDZBbExuU1prMm1wZ0Ywd1VfTG1GZU4ycUktc1VodndFdC1UOGZGYWR3aGVfT29Dc2ZSWEpaRU5KbXM0eW8yc09wNy1pSlpMN3BEMEZsU3BmbE8zRTd6ZU0zYllmX2ZEMUZB?oc=5",
-      "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN) Yahoo!ニュース",
-      "published_at": "2026-05-25T03:00:00Z",
+      "id": "7e18f1d81edea866009fb00f",
+      "title": "ASUS、Ryzen AIやWi-Fi 7を搭載した液晶一体型PC「ASUS V600 AiO」 - kakaku.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10eUtlVFRSMW9sUDhtY1FuaklkWlU3TnlZRkVzSWRkbW9menJlUnpCV1NzTWJMMk1fQzBpcEhqd3hiN3BjRUdVV05YZVA0dGhiaTFMZ2k1WDIxQXV2THZPN0JUU1gzVzZkNWc?oc=5",
+      "summary": "ASUS、Ryzen AIやWi-Fi 7を搭載した液晶一体型PC「ASUS V600 AiO」 kakaku.com",
+      "published_at": "2026-06-03T09:39:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 15
+      "score": 12
     },
     {
-      "id": "e981a7e48d12b9452efe8753",
-      "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN＋R) - newspicks.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kTTBiejkxalNrank0T2dUUk5aaXBFR0xJaHJBRkFoNGNXSGVzeEoyTldmTDlXOFNrb1psRUoyQmNYdjVjMGpKcF8wbU92N2c0TEtiTG5PbGo?oc=5",
-      "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 (BCN＋R) newspicks.com",
-      "published_at": "2026-05-25T03:00:00Z",
+      "id": "262db90460498cd9b4a20d06",
+      "title": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xRFlLMXJKZ0xGN2VaV2Y1TG9ISnZ2WGQ2cTRoMEZxaUtsQ2g0SlZzYkJsRTRuUzd4WWUzMVhwMFI5Tk9TS3d4a0kwVERiRkp3YlFRQQ?oc=5",
+      "summary": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 ASCII.jp",
+      "published_at": "2026-06-03T05:05:08Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 15
+      "score": 12
     }
   ]
 }
