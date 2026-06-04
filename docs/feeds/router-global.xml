@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jun 2026 12:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:45:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
+    <item>
+      <title>[海外ルーターニュース] Asus RT-AC66U B1 Dual-Band Gigabit Wi-Fi Router Review - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPRGU0cGtVZjVaZVZkV2JxaDU5OV9oZHdKZTc1T1FjVWtoUDlwNG00bHZSTHQyV3BwR2hEZ1BNc2xYSTh4aUR3djVvWjEySlB2OE04Z3hOWDByWk1nTWJZdkd6VDJRSjl1cFV1MjRzczBMcFhRSVpTVXBnTE12WVlpQWU0TQ?oc=5</link>
+      <guid isPermaLink="false">6c0378e5116fa92c04bd6902</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-06-02 16:00
+Asus RT-AC66U B1 Dual-Band Gigabit Wi-Fi Router Review PCMag</description>
+      <pubDate>Thu, 04 Jun 2026 15:45:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-04T15:45:35.776673Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
     <item>
       <title>[海外ルーターニュース] Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't) - ZDNET</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFKZU14ekdVSmdOQWhPVDZJR0JDRkl6RzZSRU9qdHViMkc4R3RsWDEwWF9VcHloWFUzZjNUSXlTcG9yd19tdkxESFlockNLZHp2YWJfMEMwRF81NHNZVkJPS01PeGRtdEpVeVRYS3NuODBwOFNUWHhSV2JqTDZqV2w5bi1jdDdsYm5fZ0E1YWFsRGdmMGZhR2Nn?oc=5</link>
@@ -19,6 +33,20 @@ Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got bet
       <sqm:firstSeenDate>2026-06-02T06:55:15.368927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T02:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features - GadgetGuy</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWUyXzZfZFl3WklvYzhiQ1hUbi05V3VxSXJQQkN0NDhPR016dUdwVGZ3WmdPandlanRoYU1nZm9WQzdlM3prdHNkTWl1NnZvSG5EV3N2Q29vZ1JleW5ZWlBZZW9hRVlIclozTmJXUi13M2tkQmx2cWRreVVZMjZSSEdlZmcyUmdtZXllQnBMZw?oc=5</link>
+      <guid isPermaLink="false">a9e981200e01e6729aecd34a</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-05-22 12:11
+TP-Link Archer GE550 review: A stylish Wi-Fi 7 router loaded with gaming features GadgetGuy</description>
+      <pubDate>Thu, 04 Jun 2026 15:45:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-04T15:45:35.776673Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-22T03:11:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -46,6 +74,34 @@ Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router And
       <pubDate>Tue, 02 Jun 2026 22:03:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-02T22:03:04.139167Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T13:41:27Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] FRITZ!Box 7630 is here: Compact Wi-Fi 7 router brings high-speed DSL to the modern home network - Basic Tutorials</title>
+      <link>https://news.google.com/rss/articles/CBMixgFBVV95cUxQVHo1TDVJMHI4cjY1Zk5lVWYxaTQ5d0s1S1Vfbk0xbHFZZFRmRU5vbmttT3hlSG03ZU5pWGU0TmtKMUhMZ0dzbmdkVlZBV1lNaExIWlc1eHNZUkFPalFHa0pMRXJCYkhubS12dFRNRjM1WmdBWkdvNTZaUTdqcGN1SjRqZ3IxUlpISll1YU1yRWU0Qm15MGY5czM4VjRNVmM2dW5oS01WUmVTNmNxODJwU3NtVGJHdzlhRXQ2NFBBd2Itc1YweHc?oc=5</link>
+      <guid isPermaLink="false">914558d8b36619cfdd0375c9</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-02 10:46
+FRITZ!Box 7630 is here: Compact Wi-Fi 7 router brings high-speed DSL to the modern home network Basic Tutorials</description>
+      <pubDate>Thu, 04 Jun 2026 15:45:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-04T15:45:35.776673Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T01:46:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBzd25sSXJVamljSXJETnhhVVhCOHJ2akgzdXJhT2tiWEFKcnQ0OVhJMDFtZnhKd25EMjcwM21NYko5OUw4SnBVMVR2MzNQUjJXeEF6TDFCOTFzY05yZ3NSV1dmSVBDdzBFSmtER29WMzI1cTBHcV9zUS1jRkRLal84blRDdlFUUG5hNXNXUS1GeHNBclVOMWwzbWNFUUFKbnNuM2lYX3R1YUpoUkJiemNnbmZjS3c2dUhyUjF3N21fSUk3M2loeDdwZnU3RXpIcjNaRw?oc=5</link>
+      <guid isPermaLink="false">ce5cc903e1e480f2e4819947</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-02 00:23
+Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN</description>
+      <pubDate>Thu, 04 Jun 2026 15:45:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-04T15:45:35.776673Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T15:23:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -78,73 +134,17 @@ GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes<
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The Best Cheap Wi-Fi Routers for 2026 - PCMag UK</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5iMFljdXU5Ty05TTc0bjlITTdOSTZDUFAyd2NMRzZVcFQ5UUhkYW5xY2k2MGVTNDBtcjNucDJFVnBDdWVRZUtaSndXTUw1T0Q2cE5NWHVWaElveUk1Tmg1bVRrbVM4WVNpZEhBYmZLN0lMUjd0NjNN?oc=5</link>
-      <guid isPermaLink="false">f3e29428a77e55c2207501c6</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-06-03 04:01
-The Best Cheap Wi-Fi Routers for 2026 PCMag UK</description>
-      <pubDate>Thu, 04 Jun 2026 05:03:18 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-04T05:03:18.418215Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T19:01:54Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 - 9to5Toys</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQamFyb04zSm5YRWpHclRlU0JFTzJRUnJsbVlENGNVek5aNzliazFzRGxadWZlY3gxRmhTejRQUW4zNHNjTXNfTUtZTXRia3l0UnlYdTMyTDFPZkFaTlk0Z0N6MmVZaF91T01QMTdmZW82TTZrQ25lUElxOVI5aFZldzdQMzJVTlhSSzhWbDdCT3IwQnUt?oc=5</link>
-      <guid isPermaLink="false">ef341273d10c3c94cb0dc726</guid>
+      <title>[海外ルーターニュース] Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5</link>
+      <guid isPermaLink="false">802e4c0a7bdd93dbdd647016</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-02 20:44
-Early Prime Day deals drop Amazon’s eero 6 and Pro 6E mesh Wi-Fi routers to lowest prices from just $50 9to5Toys</description>
-      <pubDate>Thu, 04 Jun 2026 05:03:18 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-04T05:03:18.418215Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T11:44:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-27 16:00
+Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro</description>
+      <pubDate>Thu, 04 Jun 2026 15:45:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-04T15:45:35.776673Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-27T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5</link>
-      <guid isPermaLink="false">929aceddb00e82be9fe69445</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-05-29 05:09
-The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times</description>
-      <pubDate>Thu, 04 Jun 2026 08:58:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-04T08:58:55.002849Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-28T20:09:09Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top Models - CNET</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XeXBIZTdhYmd1bVJRc3pkQUtTdEZUeVdXOUZ3d29NZGRyUUpaVW9GVnFJQ05yVm9TVGpCZGlGNzBFSDFDcUloejN3MFZsNC1CWGJ4S0NUWVl2aFo1MG8zSUlrRS1iZw?oc=5</link>
-      <guid isPermaLink="false">8d0911c616fc8068baafc119</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-28 09:37
-Best Wi-Fi 7 Routers for 2026: Future-Proof Your Home Network With These Top Models CNET</description>
-      <pubDate>Thu, 04 Jun 2026 12:16:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-04T12:16:26.897064Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-28T00:37:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Best Wi-Fi Routers for 2026: We Rank the Fastest 5th, 6th, 6E and 7th Gen Models - CNET</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yT2s0ak0yTjBfeWdyZUIza09uWGdmcG5ZSmZOUHh5RE5HOHVQZ0hJOW8xSG1uTmVBT095anduQWxhazhBbkQyYVI5TlljVWVVUFdlVEIwZDAza0RGZnFsSHc0THE?oc=5</link>
-      <guid isPermaLink="false">1e204216d005a49670bd9046</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-05-28 08:02
-Best Wi-Fi Routers for 2026: We Rank the Fastest 5th, 6th, 6E and 7th Gen Models CNET</description>
-      <pubDate>Thu, 04 Jun 2026 12:16:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-04T12:16:26.897064Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-27T23:02:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
