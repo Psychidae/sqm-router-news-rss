@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 05 Jun 2026 13:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:17:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Nation hit by internet outage amid ongoing power cuts - The Point.gm</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxONGJQaVpHTHhtbzloa3F4Z1c4MnBHOEFKNGpuZlZjQkhQaU1mVHY3endTbXNvV0g0cVRORTJ5UVhTZGl3dGI4ckNXeUV0M2ZBQ1FlYzBRS3p0eWI1RG5WYUVRTGdZUjdZSVI3RTV6dVplVElHbnRzRlhTWjBkdXJ6S2RUM2hFNFpEajhBRUNXbmdXUFg4M2JOc2xpX3M5QQ?oc=5</link>
+      <guid isPermaLink="false">3d6fbbae115a3dc7c9de3c57</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-05 22:14
+Nation hit by internet outage amid ongoing power cuts The Point.gm</description>
+      <pubDate>Fri, 05 Jun 2026 16:17:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-05T16:17:34.078776Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-05T13:14:51Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] SEI Fiber provides update on widespread internet outage - The 812</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxONS1NVnhFUG1VRWliSG56bVZ3NGwtXzN2Rko0cWRmNHVjVURLVUVNRlNJV0h6Q2FHM1QySkdXNUUwYklETHZOSUVMY0dWUTJVb3ppMzVBU3U0ME1EcWFsTWkwRlpfMy1fY1htbkl2ZGxuNWVzYWdLOTFPWF9IckIxZUNRTTl1MjVYUzBQRw?oc=5</link>
