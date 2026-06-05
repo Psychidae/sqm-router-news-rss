@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-04T23:35:14.664351Z",
+  "generated_at": "2026-06-05T01:52:22.805664Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "0abc05b91b7f81b57bf7d7ba",
+      "title": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LNkd4OHpQcUY3MjFka2xUMFRKT1lvNWFUejdtZUJKQVBXNG5XMFd4M0RuYjlpWWF5R0huSU9Jc25vU1JCZC14aVFnZ0kzWHp3QjlvUzVVd1BQRGEzVFMxRzREQVp0M0dRb3c?oc=5",
+      "summary": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 PR TIMES",
+      "published_at": "2026-06-05T00:00:01Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "8b0cf7c6f006896d02960bb6",
       "title": "TP-Link Router Vulnerability Allows Attackers to Execute Arbitrary System Commands - CyberSecurityNews",
@@ -86,10 +97,21 @@
       "score": 7
     },
     {
-      "id": "886ea73341cbe44ba18e82ea",
-      "title": "TP-Link製ルーターに脆弱性 アップデート推奨 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uU3RiMl93bi1YV1hiVlliQTZ3UGpOZ0hNcXV6dWR2ajh1bHFGNFZBd0RGTDZNTkRVXzFEUm9mam1VTUhPeFRTeUVlLTE1cmw5ckwxbQ?oc=5",
-      "summary": "TP-Link製ルーターに脆弱性 アップデート推奨 ASCII.jp",
+      "id": "fb20cc3a0d5e0fc807d1b337",
+      "title": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5",
+      "summary": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース",
+      "published_at": "2026-06-02T09:02:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "2d392ed76de9cdadd4af4f32",
+      "title": "TP-Link製ルーターに脆弱性 アップデート推奨 - 週刊アスキー",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TNjlfbGFreXdVajQzS1pFSFNPTThrZHRhVm0xNDdVMUE5ckI4VWRpUnFBeHNrcUQ4bE42YUhjSklhRWlXVWw4ZUJYQXRNNmN2RWdqRDVuVVJKUmdUY1E?oc=5",
+      "summary": "TP-Link製ルーターに脆弱性 アップデート推奨 週刊アスキー",
       "published_at": "2026-06-02T03:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
