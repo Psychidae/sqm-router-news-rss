@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 01:32:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 05:39:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
+      <guid isPermaLink="false">3113f16fb48d080b704cb9e9</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-06 01:16
+Campuswide internet outage to take place early Tuesday Case Western Reserve University</description>
+      <pubDate>Sat, 06 Jun 2026 05:39:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-05T16:16:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Nation hit by internet outage amid ongoing power cuts - The Point.gm</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxONGJQaVpHTHhtbzloa3F4Z1c4MnBHOEFKNGpuZlZjQkhQaU1mVHY3endTbXNvV0g0cVRORTJ5UVhTZGl3dGI4ckNXeUV0M2ZBQ1FlYzBRS3p0eWI1RG5WYUVRTGdZUjdZSVI3RTV6dVplVElHbnRzRlhTWjBkdXJ6S2RUM2hFNFpEajhBRUNXbmdXUFg4M2JOc2xpX3M5QQ?oc=5</link>
@@ -18,20 +32,6 @@ Nation hit by internet outage amid ongoing power cuts The Point.gm</description>
       <pubDate>Fri, 05 Jun 2026 16:17:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-05T16:17:34.078776Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-05T13:14:51Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Fiber internet outage impacting REMC customers - The 812</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOczFvWklCTHlMY0ZiVVFiU3BzRjI0V2FHYmNlVWNFMzF3aGlXSmlWSUJXN2FfaXZkY1A1bXIwYmVxeVV0WlpPZUp0NENuNTRfMVhEMmVnQ19UYXJmSTBJbmdVYlVTY2N4bnVrci1uQkVabW01ZWVWc0ptYlVybHF3S1JRVzk?oc=5</link>
-      <guid isPermaLink="false">60d428a0c5866ea9c3d85931</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-04 01:39
-Fiber internet outage impacting REMC customers The 812</description>
-      <pubDate>Wed, 03 Jun 2026 23:59:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-03T23:59:02.041365Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-03T16:39:55Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
