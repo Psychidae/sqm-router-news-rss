@@ -1,11 +1,151 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:sqm="https://psychidae.github.io/sqm-router-news-rss/ns" version="2.0">
   <channel>
     <title>ネットワークセキュリティニュース</title>
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 06 Jun 2026 14:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 15:39:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5LNkd4OHpQcUY3MjFka2xUMFRKT1lvNWFUejdtZUJKQVBXNG5XMFd4M0RuYjlpWWF5R0huSU9Jc25vU1JCZC14aVFnZ0kzWHp3QjlvUzVVd1BQRGEzVFMxRzREQVp0M0dRb3c?oc=5</link>
+      <guid isPermaLink="false">0abc05b91b7f81b57bf7d7ba</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-05 09:00
+『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 PR TIMES</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-05T00:00:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTnM0WU5JZk02cGszcXRrSFRjeFdFamdlOTVPU0Z1RzFRWGdhcS1sd0YxQkxscUFNc0w5UlFHWVZPbU9UU0U0ajhMb1dTal9wNGZUVDNiT095dFh2alRMOEQyMDFxc2FiU2Qw?oc=5</link>
+      <guid isPermaLink="false">fc9c38a5d052457183f532ee</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 12:50
+TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを INTERNET Watch</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T03:50:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを (INTERNET Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmpPejZnWFZDRVZSbXhUNDE3dGFoQS1MVUJ2RGtnNTJhUFQ3QWx0LWNDS3JOV0NIU2l1UnRSNXpVR2htVy1yZ0JuYXhLWW5tT2hJY0tlWndwMnZsT0VuRThEUWJEQXUxQVBxSTByYzJpenc1WnNDVVFjSGpycDl2VGlIX3NnSlJjNWhzYzR3?oc=5</link>
+      <guid isPermaLink="false">990ec76a6bec8a915630baec</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 12:50
+TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを (INTERNET Watch) Yahoo!ニュース</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T03:50:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE8tcmcyS2lrV00wSEJIUFU1VDVkOVJhVE5hM3dYRlZvR1ZVdzdpVHRVWWwtcEV3NmdXXzZsVWNVN3FYRzlwMWtWcGFfamlsenBMZXpTZ0Zkd09JeUxjX19ZWGhIS21QS0x6bGxkLXZVLUFRZHZsOFE?oc=5</link>
+      <guid isPermaLink="false">d2760455c8c4edba949b3f72</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 06:55
+AtermシリーズのWi-Fiルーターの一部に脆弱性、対象機種および対策済みファームウェアについての記事に注目が集まる INTERNET Watch</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-01T21:55:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフィグ分析、対処件数を絞り込み - IT Leaders</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGNktOSzROUi1JMUFldWQxWDh4LU4tVnU3TDZZMC03TkhxTUJDRmhFekpTTDRoN2d5RGhpTEduc0hqZFY5Z0IzR0lpWjZNcGExS2R3?oc=5</link>
+      <guid isPermaLink="false">a38c5e43ed8382d78e32e2f7</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-05 15:17
+NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフィグ分析、対処件数を絞り込み IT Leaders</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-05T06:17:59Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBQdUZMb1BmRFhiUTVENUlXcGFGbjBHaVI0S2M0ZUlqdTJEUDBtaVdmSktwWFd0cldZajJaQkFSYVVncUZaZXhsN0FoZjFWaUI1MlRsLTRHUnVVelNGV1NXVExmMHdVa0stYlE?oc=5</link>
+      <guid isPermaLink="false">0c14e86a03c5b782a6f7f8da</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-04 11:00
+NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 PR TIMES</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-04T02:00:03Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5</link>
+      <guid isPermaLink="false">fb20cc3a0d5e0fc807d1b337</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 18:02
+TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T09:02:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを - ケータイ Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQVlJZVg1el9HRDhnV3VYQnFtSVFVNzMyQklIMnBsRW1hd0hRXzdSRkhFOXpFbTRSb0JYY0czdXNlWHZrMkRLM2VUdk16Ry14SVJ0aFpOWjA2bGstdndiZm9teW1ZcTg?oc=5</link>
+      <guid isPermaLink="false">7367c5ce7bd340ac1ce74c69</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 18:00
+TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを ケータイ Watch</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T09:00:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZHd3N0xCWEJXM25KeWZlOTZ2TWI5N2U4MU9OS0VfRU9icTRKdFlkbVV1SHRGUjd2YjBoczY4TXNqeFF2ZC11QnpjM0RQVmFCNG10UEdEcVJ3ZjFQUHVRdUJlZk9uM1NKVHNubHlVbWFlTEVDZXdGcW1WUXRPZkk?oc=5</link>
+      <guid isPermaLink="false">720bf7c2d6a1d584f8014f7d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 12:30
+TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） Yahoo!ニュース</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T03:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-Link製ルーターに脆弱性 アップデート推奨 (アスキー) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlYxazBkczBPQXZlWlRaa0p6dUU2b2lFM1dVQVRpYzhselF5cUVUVk9PaG05b0F5MENZVHJWTENrRmIzQ3RObDh0eTlNVUpJNFNLZ3p3djQwdWEwSV83X1ZvUnMzS0ExWTFJZ1BYUDFzSmlxNGxJbDVYd3hQZDVJQ043NlVhd1oxQkcwUy13?oc=5</link>
+      <guid isPermaLink="false">c4b7578e12be7116b43f1c92</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 12:30
+TP-Link製ルーターに脆弱性 アップデート推奨 (アスキー) Yahoo!ニュース</description>
+      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T03:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
   </channel>
 </rss>
