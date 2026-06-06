@@ -1,19 +1,19 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-06T19:45:41.105621Z",
+  "generated_at": "2026-06-06T20:45:54.391080Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 8,
   "errors": [],
   "items": [
     {
-      "id": "0abc05b91b7f81b57bf7d7ba",
-      "title": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LNkd4OHpQcUY3MjFka2xUMFRKT1lvNWFUejdtZUJKQVBXNG5XMFd4M0RuYjlpWWF5R0huSU9Jc25vU1JCZC14aVFnZ0kzWHp3QjlvUzVVd1BQRGEzVFMxRzREQVp0M0dRb3c?oc=5",
-      "summary": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 PR TIMES",
-      "published_at": "2026-06-05T00:00:01Z",
+      "id": "b36c2694dd01585cfca779f0",
+      "title": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xbV9vb1VwSko0V2t4NFdMa3Z2OTFKY09tRTZwTk1oVmRyNHlhVmJzclZfbFJxM1MzU1Y5Z3pjOWVHY2daakVmM0NGa0ktLUJYeDdUSGt0Wl9iWnF4RVRTN3BTRUlBSWxSWXY1ZWJtXzZ4SXdDX21XdQ?oc=5",
+      "summary": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 RBB TODAY",
+      "published_at": "2026-06-05T12:10:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -75,17 +75,6 @@
       "score": 7
     },
     {
-      "id": "fb20cc3a0d5e0fc807d1b337",
-      "title": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5",
-      "summary": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース",
-      "published_at": "2026-06-02T09:02:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
       "id": "7367c5ce7bd340ac1ce74c69",
       "title": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを - ケータイ Watch",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQVlJZVg1el9HRDhnV3VYQnFtSVFVNzMyQklIMnBsRW1hd0hRXzdSRkhFOXpFbTRSb0JYY0czdXNlWHZrMkRLM2VUdk16Ry14SVJ0aFpOWjA2bGstdndiZm9teW1ZcTg?oc=5",
@@ -101,17 +90,6 @@
       "title": "TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZHd3N0xCWEJXM25KeWZlOTZ2TWI5N2U4MU9OS0VfRU9icTRKdFlkbVV1SHRGUjd2YjBoczY4TXNqeFF2ZC11QnpjM0RQVmFCNG10UEdEcVJ3ZjFQUHVRdUJlZk9uM1NKVHNubHlVbWFlTEVDZXdGcW1WUXRPZkk?oc=5",
       "summary": "TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） Yahoo!ニュース",
-      "published_at": "2026-06-02T03:30:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "c4b7578e12be7116b43f1c92",
-      "title": "TP-Link製ルーターに脆弱性 アップデート推奨 (アスキー) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSlYxazBkczBPQXZlWlRaa0p6dUU2b2lFM1dVQVRpYzhselF5cUVUVk9PaG05b0F5MENZVHJWTENrRmIzQ3RObDh0eTlNVUpJNFNLZ3p3djQwdWEwSV83X1ZvUnMzS0ExWTFJZ1BYUDFzSmlxNGxJbDVYd3hQZDVJQ043NlVhd1oxQkcwUy13?oc=5",
-      "summary": "TP-Link製ルーターに脆弱性 アップデート推奨 (アスキー) Yahoo!ニュース",
       "published_at": "2026-06-02T03:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
