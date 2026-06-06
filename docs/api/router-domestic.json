@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-05T23:36:38.375487Z",
+  "generated_at": "2026-06-06T01:32:27.625480Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -9,13 +9,35 @@
   "errors": [],
   "items": [
     {
-      "id": "ac7aea7f1d6ec0927433c8f3",
-      "title": "無線LANルーター新製品を評価 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMmVrMlZpc1p4STg5MHRUX29EN0w5SFgwSjFLa2hpSTlIclF5eVk4b2NmX2FtcjhWdDBGcWNreE5Kd3pmenFidzVHVzhIeEp2Snk2RW9vV0xLcU9vS1ZpSlQxRmZRZkJYSV9CcVJKU2kzSFJ3ekR6ZXpNa21rTF9KVUJRNm83UGo0WDVjZm5nMEtyZGZfNzZxcWdjenpEeVdaV1RIaEMxaG1UcEhUS3Q1VUtPMU85MlZmNFFZU09XVGp4SHJncktIcDc2RjQxVXQ5alBVMlFINmhVc0djYWRfMUFWZw?oc=5",
-      "summary": "無線LANルーター新製品を評価 日経クロステック",
-      "published_at": "2026-06-03T12:26:41Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "0afc8e65f706d190f0117425",
+      "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSUQ4QkZTanRfSkJPaHh5ZDU1NkpfSFN2ZEd1S05IeHdhSlFiSjBvcWVZNEtJZUd4cmZ5a3FnWF9kOUlQZXZIQm1xbDltVVFQWlk5R0JETkdTYU1yTXB3MzNPTGREbXdURGd5bE1ZSXZGWjd1Rk8zdUU5aTZKbmJvR01ETDlPYUtiNkZ4Z3lR?oc=5",
+      "summary": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (BCN) Yahoo!ニュース",
+      "published_at": "2026-06-01T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
+    {
+      "id": "b9bd41b9eec378a5bb44f9a6",
+      "title": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tQUhtS2xUakJxNTFScHBQNGFLb0RmWVR5empsUFd5OHdFbEY5VEgyOXBZNHZ1bW9UYnFMSTEwYU1UWEpkUnVWQU5KRDIwekt0WldGV3d2dkc2SmstY2kxSzZGMEI3eHRoNXJmQjNPU01QV25FTDdOb1dB?oc=5",
+      "summary": "バッファローのWi-Fi 7が強い 無線LANルーター人気ランキングTOP10 2026/5/25 bcnretail.com",
+      "published_at": "2026-05-25T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "7e18f1d81edea866009fb00f",
+      "title": "ASUS、Ryzen AIやWi-Fi 7を搭載した液晶一体型PC「ASUS V600 AiO」 - kakaku.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10eUtlVFRSMW9sUDhtY1FuaklkWlU3TnlZRkVzSWRkbW9menJlUnpCV1NzTWJMMk1fQzBpcEhqd3hiN3BjRUdVV05YZVA0dGhiaTFMZ2k1WDIxQXV2THZPN0JUU1gzVzZkNWc?oc=5",
+      "summary": "ASUS、Ryzen AIやWi-Fi 7を搭載した液晶一体型PC「ASUS V600 AiO」 kakaku.com",
+      "published_at": "2026-06-03T09:39:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
     },
@@ -42,6 +64,17 @@
       "score": 12
     },
     {
+      "id": "bb9d38bc3284ac3156383e6b",
+      "title": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDVmeDZGU2d1Vm83bE1fb1FJS1dLQzg5SmRDVjZka1p4OGVab2lLcEViRy1qQjZQd0JXdXVmY1FKNXdEZmN4dUt5Zmt3ajVZNUpheFdIQWNFUUU2TS10ajdrTS16WHh4QWd6U2hvNGZxXy1mczRpVzFOQnk4eVpKZVVHWkdDTXltSkRuVnpn?oc=5",
+      "summary": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-06-03T00:15:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
       "id": "e9ab0b90aefb63c82903756c",
       "title": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pc0lKMFJ1OVZlUUxySHhyR2ttUDJXOVl4MGNrZEEzd0IwVGh0RGU2QVMtNkJYdW1hTDlwMzlFRE0yZTNqdzlCbXdEdHd2aFU2bGlFR3JNeVlMZzBPMGlNQmxQTEpyWURkNlFB?oc=5",
@@ -50,7 +83,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 12
+      "score": 11
     },
     {
       "id": "fc9c38a5d052457183f532ee",
@@ -62,39 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 11
-    },
-    {
-      "id": "6a684fd1892de4eba489611e",
-      "title": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年6月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBxZ0FVNzhpbDZCbTZMY1c4M2gyaWRuS2hKX1VEdW1VenNxYlpGbXdGN2F5ZkpmSkxkaGg4b0Z3?oc=5",
-      "summary": "ASUSのルーターのおすすめ人気ランキング【ゲーミングルーターを多数紹介！2026年6月】 マイベスト",
-      "published_at": "2026-06-01T15:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "ba435f525e54079e84a679b9",
-      "title": "【徹底比較】バッファローのWi-Fiルーターのおすすめ人気ランキング【最新モデルも紹介！2026年5月】 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9HYlNrZXkxTXhCanIwdnVSY2JJXzEwbjIxbEFsd3JPNnE1a0FGanNvbUpISjBqRktLem5HLQ?oc=5",
-      "summary": "【徹底比較】バッファローのWi-Fiルーターのおすすめ人気ランキング【最新モデルも紹介！2026年5月】 マイベスト",
-      "published_at": "2026-05-25T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
-      "id": "d31ca9c817e68a0813bcf73a",
-      "title": "Wi-Fi 7対応モデルが5カ月連続首位、26年5月に売れた無線LANルーターTOP10（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSHpRRFM5UXRkcUROZ3RrVmQ5M1Uyb0l1UUpYbU9hOHlOVHJSQlJHaEE4cW5Xa1FUeDNVZk9fa25CeER2WWZTYWpJVWhvVzJZcFZvaEJyeHZjbWFOTERpUmkwbGNLTUVvd25Qc2xRLUM3ZkoxNFdoX2NIbEFSZ3c?oc=5",
-      "summary": "Wi-Fi 7対応モデルが5カ月連続首位、26年5月に売れた無線LANルーターTOP10（BCN） Yahoo!ニュース",
-      "published_at": "2026-06-04T09:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 7
     }
   ]
 }

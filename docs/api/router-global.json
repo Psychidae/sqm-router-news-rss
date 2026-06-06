@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-05T23:36:39.575037Z",
+  "generated_at": "2026-06-06T01:32:28.696531Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,11 +64,22 @@
       "score": 12
     },
     {
-      "id": "7f8d2c0dc545aa02565b6064",
-      "title": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It - Gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdGZOY0kyeVBrYVRTRXRMbEVvckNSMG9ZQTlvYXV4MXBCVzk2bTBYZEJnbjNzLUY5QlRTUFF3VUI4SXlUaDV0SWg1dElFREdDN24tamRsaGJCVWVlbHVMWC1QMV96bVBldmVsNE9BcnlMV05keDk3MjItdXBUQ3VEUEs2UUZuWnV2ZU1ONGJtR0Y0VUcwYzVpRk5ZSHRQRWxOa3ZodWhnVHNCd9IBrwFBVV95cUxOZ1VTdm1lWldJTTFsX3VuNlZLZktrcmxJN0syMkhqMTBjUlVyWmNiVFBpeko2LXBUSHlhbXdEdGFMNTRpVlVvWFdHRUk3Ui12M0dabkw5Vy1OVWpoX2cydTVMNDRIbVg2a1pTYzlOQXc3YXlWV1dxcW52TFZ2dndDOV9Rdnl4QzBGSnZtb1d4aFZidkwxNVpYMExwYTVFZlRiLXFSTFVyOGFjOTFLY3Mw?oc=5",
-      "summary": "Huawei's Wi-Fi 7 Router Hides 11 Antennas in a Cylinder — But You Can't Buy It Gagadget.com",
-      "published_at": "2026-06-01T17:31:28Z",
+      "id": "8bba92afda62296eb55151ef",
+      "title": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0pJZE1XbVZVdC1fWnB6aDJwRmlYQUdJSDhRMGcxamd0d3JCdktQUEE0LUg1ZTltMWQ3dlV4dV9mOUN2LVBXZHNCVzhkYm41TDdsOTZGMWRWeER2WkhsWWl3aWYwZU5QZkJFZVdRbkFFX2J0TmttU25aR2VVRE9RZmpacW1uRkR0UHRUZkpDdWpGeUgxZUVEUU91SU5mV3NlZWFfaE85ckFXdk1tVGs3aUNiVEJOTGM1MDhubmZnUlYtWTBvUkRDSTl4NTBkaU5yM21GRlFUaXpwX05FTS1j?oc=5",
+      "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN",
+      "published_at": "2026-06-01T21:29:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "ce5cc903e1e480f2e4819947",
+      "title": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVXBzd25sSXJVamljSXJETnhhVVhCOHJ2akgzdXJhT2tiWEFKcnQ0OVhJMDFtZnhKd25EMjcwM21NYko5OUw4SnBVMVR2MzNQUjJXeEF6TDFCOTFzY05yZ3NSV1dmSVBDdzBFSmtER29WMzI1cTBHcV9zUS1jRkRLal84blRDdlFUUG5hNXNXUS1GeHNBclVOMWwzbWNFUUFKbnNuM2lYX3R1YUpoUkJiemNnbmZjS3c2dUhyUjF3N21fSUk3M2loeDdwZnU3RXpIcjNaRw?oc=5",
+      "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN",
+      "published_at": "2026-06-01T15:23:23Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -97,26 +108,15 @@
       "score": 12
     },
     {
-      "id": "b99ff37ec6e73c2116ae71a9",
-      "title": "4 Underrated Router Brands That Can Compete With Netgear - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
-      "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
-      "published_at": "2026-06-05T21:17:00Z",
+      "id": "802e4c0a7bdd93dbdd647016",
+      "title": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
+      "summary": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs IT Pro",
+      "published_at": "2026-05-27T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
-    },
-    {
-      "id": "e9a2f4bdf053ef70e4c2e54b",
-      "title": "Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWjRTNDVfZWd5MERtdVhJRDJCRkNZUGR4OWZuQWtrUVpqeDlyei1aTTlRWjBaMjVtUGNuWm04NDB4WnhIdUl2SmNuSWR0XzlzdHE0RG02aGlTbmdX?oc=5",
-      "summary": "Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five Dong Knows Tech",
-      "published_at": "2026-06-03T17:21:18Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 11
     }
   ]
 }
