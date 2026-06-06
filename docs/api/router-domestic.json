@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-06T08:10:17.190354Z",
+  "generated_at": "2026-06-06T10:20:04.732414Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -53,17 +53,6 @@
       "score": 15
     },
     {
-      "id": "ef3ea124e25614d75d0f188d",
-      "title": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 - マイベスト",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16em14bkctc0kzVWdubkpOb05oSnd0UjBfa0UzMUJmb2x2U1RjLUxmeHZXci1BaEZNM2FtajU4a2ItbmUzQ1NobS1QOXZiUQ?oc=5",
-      "summary": "バッファロー BUFFALO AirStation WSR-3000AX4P-BKを検証レビュー！Wi-Fiルーターの選び方も紹介 マイベスト",
-      "published_at": "2026-05-25T01:38:20Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
       "id": "ac7aea7f1d6ec0927433c8f3",
       "title": "無線LANルーター新製品を評価 - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMmVrMlZpc1p4STg5MHRUX29EN0w5SFgwSjFLa2hpSTlIclF5eVk4b2NmX2FtcjhWdDBGcWNreE5Kd3pmenFidzVHVzhIeEp2Snk2RW9vV0xLcU9vS1ZpSlQxRmZRZkJYSV9CcVJKU2kzSFJ3ekR6ZXpNa21rTF9KVUJRNm83UGo0WDVjZm5nMEtyZGZfNzZxcWdjenpEeVdaV1RIaEMxaG1UcEhUS3Q1VUtPMU85MlZmNFFZU09XVGp4SHJncktIcDc2RjQxVXQ5alBVMlFINmhVc0djYWRfMUFWZw?oc=5",
@@ -83,7 +72,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 12
+      "score": 11
     },
     {
       "id": "309a20b4172662402ef61555",
@@ -91,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44bWk1X0NzZnlHQnpKZHJMOGtFdXprSHBZMF9PUFNiV1VWZ2ptOTNJVWxaX0pPYWpHbkR0Y0RvOFByak9kb3p4RW5oT0UwQWl3ZWpRZw?oc=5",
       "summary": "バッファローが「Interop Tokyo 2026」に出展。大規模ネットワーク構築を支えるWi-Fi 7対応アクセスポイントやファイルサーバー・バックアップストレージにおすすめのNASをご紹介 ASCII.jp",
       "published_at": "2026-06-03T05:17:34Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
+      "id": "048f7fc342fe9e52a26b1426",
+      "title": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kdVdTUW5IbEpLWnNVZTB6ODZ1OVc2UWFHQnRrUUVFaW1qVHdvQ1c4d2JqNkZzUUIxYTFnSDRKcGlmOEFJYkRNQzJULWM1YWRQelprNlpJdEpndVREb0EyNWNpUXduaGNRbVE?oc=5",
+      "summary": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 PR TIMES",
+      "published_at": "2026-06-03T03:00:02Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
