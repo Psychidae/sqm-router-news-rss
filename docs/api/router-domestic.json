@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-07T21:48:49.900941Z",
+  "generated_at": "2026-06-07T23:18:23.561417Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -64,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "ac7aea7f1d6ec0927433c8f3",
+      "title": "無線LANルーター新製品を評価 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMmVrMlZpc1p4STg5MHRUX29EN0w5SFgwSjFLa2hpSTlIclF5eVk4b2NmX2FtcjhWdDBGcWNreE5Kd3pmenFidzVHVzhIeEp2Snk2RW9vV0xLcU9vS1ZpSlQxRmZRZkJYSV9CcVJKU2kzSFJ3ekR6ZXpNa21rTF9KVUJRNm83UGo0WDVjZm5nMEtyZGZfNzZxcWdjenpEeVdaV1RIaEMxaG1UcEhUS3Q1VUtPMU85MlZmNFFZU09XVGp4SHJncktIcDc2RjQxVXQ5alBVMlFINmhVc0djYWRfMUFWZw?oc=5",
+      "summary": "無線LANルーター新製品を評価 日経クロステック",
+      "published_at": "2026-06-03T12:26:41Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
       "id": "309a20b4172662402ef61555",
       "title": "バッファローが「Interop Tokyo 2026」に出展。大規模ネットワーク構築を支えるWi-Fi 7対応アクセスポイントやファイルサーバー・バックアップストレージにおすすめのNASをご紹介 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44bWk1X0NzZnlHQnpKZHJMOGtFdXprSHBZMF9PUFNiV1VWZ2ptOTNJVWxaX0pPYWpHbkR0Y0RvOFByak9kb3p4RW5oT0UwQWl3ZWpRZw?oc=5",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xRFlLMXJKZ0xGN2VaV2Y1TG9ISnZ2WGQ2cTRoMEZxaUtsQ2g0SlZzYkJsRTRuUzd4WWUzMVhwMFI5Tk9TS3d4a0kwVERiRkp3YlFRQQ?oc=5",
       "summary": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 ASCII.jp",
       "published_at": "2026-06-03T05:05:08Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "bb9d38bc3284ac3156383e6b",
-      "title": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDVmeDZGU2d1Vm83bE1fb1FJS1dLQzg5SmRDVjZka1p4OGVab2lLcEViRy1qQjZQd0JXdXVmY1FKNXdEZmN4dUt5Zmt3ajVZNUpheFdIQWNFUUU2TS10ajdrTS16WHh4QWd6U2hvNGZxXy1mczRpVzFOQnk4eVpKZVVHWkdDTXltSkRuVnpn?oc=5",
-      "summary": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-06-03T00:15:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
