@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 07 Jun 2026 09:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 12:01:09 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - PR TIMES</title>
@@ -36,20 +36,6 @@ TP-Link Router Vulnerability Allows Attackers to Execute Arbitrary System Comman
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] TP-Link Router Vulnerability Enables Arbitrary Command Execution - cyberpress.org</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nU25jdURZWUcwUnNLdHE3WFJIZ1FPc2pTcXNlSDhUX25IR2Rra0ZkTXlIWklKX3Q4RU1FOUNqMDBJSDhkREZiRkJpbGFuWUZYTkdfNW9FdUhVQ2dYbVBQN1p3?oc=5</link>
-      <guid isPermaLink="false">5ec2b1fb6d865ce9d17f3b1f</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-02 14:42
-TP-Link Router Vulnerability Enables Arbitrary Command Execution cyberpress.org</description>
-      <pubDate>Sun, 07 Jun 2026 06:41:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-07T06:41:27.063660Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T05:42:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTnM0WU5JZk02cGszcXRrSFRjeFdFamdlOTVPU0Z1RzFRWGdhcS1sd0YxQkxscUFNc0w5UlFHWVZPbU9UU0U0ajhMb1dTal9wNGZUVDNiT095dFh2alRMOEQyMDFxc2FiU2Qw?oc=5</link>
       <guid isPermaLink="false">fc9c38a5d052457183f532ee</guid>
@@ -57,20 +43,6 @@ TP-Link Router Vulnerability Enables Arbitrary Command Execution cyberpress.org<
 ソース: Google News JP: network security
 元記事日付: 2026-06-02 12:50
 TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを INTERNET Watch</description>
-      <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T03:50:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを (INTERNET Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPRmpPejZnWFZDRVZSbXhUNDE3dGFoQS1MVUJ2RGtnNTJhUFQ3QWx0LWNDS3JOV0NIU2l1UnRSNXpVR2htVy1yZ0JuYXhLWW5tT2hJY0tlWndwMnZsT0VuRThEUWJEQXUxQVBxSTByYzJpenc1WnNDVVFjSGpycDl2VGlIX3NnSlJjNWhzYzR3?oc=5</link>
-      <guid isPermaLink="false">990ec76a6bec8a915630baec</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-02 12:50
-TP-LinkのWi-Fiルーター「Archer BE450（BE7200）」に脆弱性、最新ファームウェアへのアップデートを (INTERNET Watch) Yahoo!ニュース</description>
       <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T03:50:00Z</sqm:sourcePublishedDate>
@@ -120,20 +92,6 @@ NEC、「NEC サプライチェーンセキュリティマネジメント forネ
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5</link>
-      <guid isPermaLink="false">fb20cc3a0d5e0fc807d1b337</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-02 18:02
-TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース</description>
-      <pubDate>Sat, 06 Jun 2026 22:44:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-06T22:44:07.850714Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T09:02:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを - ケータイ Watch</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQVlJZVg1el9HRDhnV3VYQnFtSVFVNzMyQklIMnBsRW1hd0hRXzdSRkhFOXpFbTRSb0JYY0czdXNlWHZrMkRLM2VUdk16Ry14SVJ0aFpOWjA2bGstdndiZm9teW1ZcTg?oc=5</link>
       <guid isPermaLink="false">7367c5ce7bd340ac1ce74c69</guid>
@@ -144,6 +102,20 @@ TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファー�
       <pubDate>Sat, 06 Jun 2026 15:39:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-06T15:39:05.370107Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T09:00:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZHd3N0xCWEJXM25KeWZlOTZ2TWI5N2U4MU9OS0VfRU9icTRKdFlkbVV1SHRGUjd2YjBoczY4TXNqeFF2ZC11QnpjM0RQVmFCNG10UEdEcVJ3ZjFQUHVRdUJlZk9uM1NKVHNubHlVbWFlTEVDZXdGcW1WUXRPZkk?oc=5</link>
+      <guid isPermaLink="false">720bf7c2d6a1d584f8014f7d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-02 12:30
+TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） Yahoo!ニュース</description>
+      <pubDate>Sun, 07 Jun 2026 12:01:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-07T12:01:09.850913Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-02T03:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
