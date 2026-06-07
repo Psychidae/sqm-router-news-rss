@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-07T12:01:07.836228Z",
+  "generated_at": "2026-06-07T14:18:51.100924Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "6ecdfac5c146c6d6c0130cce",
+      "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xTmd6RVZRUkFsNlV2eVdTWkRlYzBBQlIwa29vbEVjcEJRaEhuOHhIcWhncUdUTFBxZS1tRGZyYndnQlp4VTRoUHFnbmFOcjRmNmVZMmpYWUV4VVVfQkVITVRlc0xGbGpZNTNkYmRqUFZZUjNkbGwyMVdR?oc=5",
+      "summary": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 bcnretail.com",
+      "published_at": "2026-06-01T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
     {
       "id": "0afc8e65f706d190f0117425",
       "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 (BCN) - Yahoo!ニュース",
@@ -47,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xRFlLMXJKZ0xGN2VaV2Y1TG9ISnZ2WGQ2cTRoMEZxaUtsQ2g0SlZzYkJsRTRuUzd4WWUzMVhwMFI5Tk9TS3d4a0kwVERiRkp3YlFRQQ?oc=5",
       "summary": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 ASCII.jp",
       "published_at": "2026-06-03T05:05:08Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "3a0898878387e5395a2c35e6",
-      "title": "バッファローが「Interop Tokyo 2026」に出展。大規模ネットワーク構築を支えるWi-Fi 7対応アクセスポイントやファイルサーバー・バックアップストレージにおすすめのNASをご紹介 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdnY2Q050aXBVUUFwZFJLNlZCaW96cnZoeEZhcHFyWFRxa2tEdW9aV0xSX3NTSTgxN2hUVlBUX1d3QUx2ODdlTjRJc0t4b1UwamdJT1RiNkh5VGNfSUptYXFsa1pFckFkTVE?oc=5",
-      "summary": "バッファローが「Interop Tokyo 2026」に出展。大規模ネットワーク構築を支えるWi-Fi 7対応アクセスポイントやファイルサーバー・バックアップストレージにおすすめのNASをご紹介 PR TIMES",
-      "published_at": "2026-06-03T01:04:16Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
