@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-07T14:18:53.580081Z",
+  "generated_at": "2026-06-07T15:57:21.953792Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -75,6 +75,17 @@
       "score": 11
     },
     {
+      "id": "c62078219fb2ebd713da5118",
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWEwN3d6VmpPTFEzR1d6WGJOV05jTXotaTZoWElTRjk3alNoS0JJUlFLMVVsYl8zN0RNT1NLTEZ2VXk0aEx6U1Z0OE9xaGhRSEFJamw1OFFGYXkzTFJkcF9BLVFzUFc4ckdEUUEwQ1dnTDdiVUt0T1VLRWF1TDBoSzBSbnh4Sm5WMGVEWkRQMHVtb3dKNHpGeXMtbU81Uk1hbjNXdU5yZVlVQ3pDcnkya9IBtgFBVV95cUxNYm52QS1kMVNHaFY5VzdOU0JjU3RrUF9ZaTEtOTBSU2tqRmxYV0dVRlc0cm5fZVVwX3RVUm56bjlvUExiQURxUU9hbzVzWUUxUGlTVEVnWW9UV0JzY3hLYjRSMnQyOFhsTEtYNnZlOXhzMmcwTnVQUmY1akkyRTBxejVIbzJ5VHN5WmNKS3NOYUpIdUlqUlZTM04wQk5Wcjl1QmpFRWhra2lXMzkzXzdGdHhoRG5GUQ?oc=5",
+      "summary": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware BleepingComputer",
+      "published_at": "2026-06-07T14:17:46Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
       "id": "a38c5e43ed8382d78e32e2f7",
       "title": "NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフィグ分析、対処件数を絞り込み - IT Leaders",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGNktOSzROUi1JMUFldWQxWDh4LU4tVnU3TDZZMC03TkhxTUJDRmhFekpTTDRoN2d5RGhpTEduc0hqZFY5Z0IzR0lpWjZNcGExS2R3?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wQVlJZVg1el9HRDhnV3VYQnFtSVFVNzMyQklIMnBsRW1hd0hRXzdSRkhFOXpFbTRSb0JYY0czdXNlWHZrMkRLM2VUdk16Ry14SVJ0aFpOWjA2bGstdndiZm9teW1ZcTg?oc=5",
       "summary": "TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを ケータイ Watch",
       "published_at": "2026-06-02T09:00:21Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "720bf7c2d6a1d584f8014f7d",
-      "title": "TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZHd3N0xCWEJXM25KeWZlOTZ2TWI5N2U4MU9OS0VfRU9icTRKdFlkbVV1SHRGUjd2YjBoczY4TXNqeFF2ZC11QnpjM0RQVmFCNG10UEdEcVJ3ZjFQUHVRdUJlZk9uM1NKVHNubHlVbWFlTEVDZXdGcW1WUXRPZkk?oc=5",
-      "summary": "TP-Link製ルーターに脆弱性 アップデート推奨（アスキー） Yahoo!ニュース",
-      "published_at": "2026-06-02T03:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
