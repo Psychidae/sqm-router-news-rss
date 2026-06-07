@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-06T23:43:29.537320Z",
+  "generated_at": "2026-06-07T01:54:28.615899Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 5,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -25,17 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGJQaVpHTHhtbzloa3F4Z1c4MnBHOEFKNGpuZlZjQkhQaU1mVHY3endTbXNvV0g0cVRORTJ5UVhTZGl3dGI4ckNXeUV0M2ZBQ1FlYzBRS3p0eWI1RG5WYUVRTGdZUjdZSVI3RTV6dVplVElHbnRzRlhTWjBkdXJ6S2RUM2hFNFpEajhBRUNXbmdXUFg4M2JOc2xpX3M5QQ?oc=5",
       "summary": "Nation hit by internet outage amid ongoing power cuts The Point.gm",
       "published_at": "2026-06-05T13:14:51Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "e48fa1a45bc09bbd058b1897",
-      "title": "SEI Fiber provides update on widespread internet outage - The 812",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONS1NVnhFUG1VRWliSG56bVZ3NGwtXzN2Rko0cWRmNHVjVURLVUVNRlNJV0h6Q2FHM1QySkdXNUUwYklETHZOSUVMY0dWUTJVb3ppMzVBU3U0ME1EcWFsTWkwRlpfMy1fY1htbkl2ZGxuNWVzYWdLOTFPWF9IckIxZUNRTTl1MjVYUzBQRw?oc=5",
-      "summary": "SEI Fiber provides update on widespread internet outage The 812",
-      "published_at": "2026-06-04T13:56:42Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
