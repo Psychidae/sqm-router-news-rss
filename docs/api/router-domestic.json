@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-07T20:36:41.737673Z",
+  "generated_at": "2026-06-07T21:48:49.900941Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "a7d9e69bd51e019ba4842433",
+      "title": "初公開！ 名古屋市内の住宅で行われるバッファローの「Wi-Fi 5 vs Wi-Fi 7」ルーター比較テストに密着！【イニシャルB】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVUNHTFBwZlE0UlQyR2xoV2ZpbmdzdGh6aDRtWDFUYWhkYjBIbTR1RUgxLXlBMlAwLXVJWGNkYk9rcU5UUHBPMURCSkJ4c29jSFloVWhUSUVIUWtGY19JMmpLMjRRNHUwTzZFTVcyODQ0TjVQTVdkZA?oc=5",
+      "summary": "初公開！ 名古屋市内の住宅で行われるバッファローの「Wi-Fi 5 vs Wi-Fi 7」ルーター比較テストに密着！【イニシャルB】 INTERNET Watch",
+      "published_at": "2026-06-07T21:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
       "id": "309a20b4172662402ef61555",
       "title": "バッファローが「Interop Tokyo 2026」に出展。大規模ネットワーク構築を支えるWi-Fi 7対応アクセスポイントやファイルサーバー・バックアップストレージにおすすめのNASをご紹介 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44bWk1X0NzZnlHQnpKZHJMOGtFdXprSHBZMF9PUFNiV1VWZ2ptOTNJVWxaX0pPYWpHbkR0Y0RvOFByak9kb3p4RW5oT0UwQWl3ZWpRZw?oc=5",
@@ -69,17 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xRFlLMXJKZ0xGN2VaV2Y1TG9ISnZ2WGQ2cTRoMEZxaUtsQ2g0SlZzYkJsRTRuUzd4WWUzMVhwMFI5Tk9TS3d4a0kwVERiRkp3YlFRQQ?oc=5",
       "summary": "INTERNET/LAN 10Gbps対応ポートとWi-Fi 7で動画視聴からオンライン会議、ゲームまで快適に！法人販売限定Wi-Fi 7 10ギガビットルーターを新発売 ASCII.jp",
       "published_at": "2026-06-03T05:05:08Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "e9ab0b90aefb63c82903756c",
-      "title": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pc0lKMFJ1OVZlUUxySHhyR2ttUDJXOVl4MGNrZEEzd0IwVGh0RGU2QVMtNkJYdW1hTDlwMzlFRE0yZTNqdzlCbXdEdHd2aFU2bGlFR3JNeVlMZzBPMGlNQmxQTEpyWURkNlFB?oc=5",
-      "summary": "エレコム、WAN/LAN 10Gbps対応のWi-Fi 7トライバンドルーター「WRC-BE100XS-BH」発売 INTERNET Watch",
-      "published_at": "2026-06-03T00:15:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
