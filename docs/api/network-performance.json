@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-08T12:07:17.747130Z",
+  "generated_at": "2026-06-08T16:20:27.309361Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -28,7 +28,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "3d6fbbae115a3dc7c9de3c57",
@@ -36,17 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONGJQaVpHTHhtbzloa3F4Z1c4MnBHOEFKNGpuZlZjQkhQaU1mVHY3endTbXNvV0g0cVRORTJ5UVhTZGl3dGI4ckNXeUV0M2ZBQ1FlYzBRS3p0eWI1RG5WYUVRTGdZUjdZSVI3RTV6dVplVElHbnRzRlhTWjBkdXJ6S2RUM2hFNFpEajhBRUNXbmdXUFg4M2JOc2xpX3M5QQ?oc=5",
       "summary": "Nation hit by internet outage amid ongoing power cuts The Point.gm",
       "published_at": "2026-06-05T13:14:51Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "e68f2200243533870827a871",
-      "title": "Internet outage hits One customers across island - Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnIxVS1aT2dpaW1UYVJSdnhGVFZ3d0tvLUwxUms5enNkSVNNOTB6VVl6ejZoN0hKMTFRdXd5OGY2aEIxUUJpMGJmOVVNcl9vT1VORm12ZzQxVU1IczlNWnMzdGI5ZGNmZEhmWnhEbWRWUnpKaVhlRTJ6WmlFTk9oSUM1dHRGcm4wQzdGTlNLZGVmUzUyVjJMeXZUNFlYT0RORGZCVUJvNkhUa3Bf?oc=5",
-      "summary": "Internet outage hits One customers across island Royal Gazette | Bermuda",
-      "published_at": "2026-06-01T12:22:38Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

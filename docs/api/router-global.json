@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-08T12:07:15.555235Z",
+  "generated_at": "2026-06-08T16:20:24.900024Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,7 +28,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "534108aeda5158d8baa30e89",
@@ -86,6 +86,17 @@
       "score": 12
     },
     {
+      "id": "3f844d8c77a11e9c48f06b14",
+      "title": "Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1U5eXpwS05NRzl3TVZoeElYYXktRXZqRnRXTlY4MWdOS3laOEU0dllVcU95LUQ5UnZOQ1lDc2Z3aUJVdVZDZ29JQ2FmcERpMnJIdHQ2dm5VVGwzZmFGQkVESEZ2Y3Yway0zZ2JYSjF0cjh0bGxJZnNMZ19vWXFnS1pjY2hWSFJ5cnMw?oc=5",
+      "summary": "Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router Android Authority",
+      "published_at": "2026-06-02T13:46:34Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "802e4c0a7bdd93dbdd647016",
       "title": "Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for SMBs - IT Pro",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnBab2JoODdDbHFCTlJzb2pMWTJTUHY3dE9QR2RhZENDYnVWSk9RRXBwMlg4dVhrWDcyZ3hDcWVmbEtjSDVjVmJ6OUhTdlZNOVRrU29IT0xtb2RCeVNibVE3N3YxYVY2NVVHNVduR0lOZVFxLUdlSUtWRXRCTjI0VFptU3QzcUVGTWw3NmJoTkVaNXRkT3hTM0QyOVA3Um5fWks2dEdpcmhiTkdCOENXZjJpYnpSQXJYaUdjc3ByQQ?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 10
-    },
-    {
-      "id": "b99ff37ec6e73c2116ae71a9",
-      "title": "4 Underrated Router Brands That Can Compete With Netgear - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
-      "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
-      "published_at": "2026-06-05T21:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }
