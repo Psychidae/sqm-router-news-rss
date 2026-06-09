@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 16:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:59:07 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - The Globe and Mail</title>
@@ -36,13 +36,13 @@ WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation Linked
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - RBB TODAY</title>
+      <title>[セキュリティ] 「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - rbbtoday.com</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBsQWJGSmNpZEg2VzRTT1dJSjhRa3BwWnZSNkFRRmZkeVNicUhfLXd2VWdqVG5fVXQ5aWxZOXpWanhrM09sWGRJUWcwemdQWVNwMlQwMVpXc3p3OHhLaDd3QjAwVkVfVmxYeW5zcnRZOG5qUklwWUs0TQ?oc=5</link>
       <guid isPermaLink="false">463b8c3e8e255ec5331af4ff</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-06-09 10:45
-「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 RBB TODAY</description>
+「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 rbbtoday.com</description>
       <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T01:45:56Z</sqm:sourcePublishedDate>
