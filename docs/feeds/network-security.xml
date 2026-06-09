@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 21:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:47:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability - Zamin.uz</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkJPamlQaG5ZZVQ3UWlxZnN1UFZnbFJIWkZsVWZaZ3pWNkFDUWMtSzRjME1ETXl6WFN4RTRzZGFIaXFyejRTR2RpTFJYc2pXbFFwVm0tMFluTmpnR2NYRjdSakJPcnZvdHJKaWJTbVVUZEpNN1JLTGxFUGZyaWlHZ3BBVXI1SFFtNklBNXhQZGd0VGFsUUpfY3VTY2xWU3lJcmNiczN5Y2EwUEhlLVRHUg?oc=5</link>
+      <guid isPermaLink="false">591c97906bad9f62b10bc361</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-06-10 02:57
+CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability Zamin.uz</description>
+      <pubDate>Tue, 09 Jun 2026 22:47:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-09T22:47:30.112954Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T17:57:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - The Globe and Mail</title>
       <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHVfMDVkZG1hVXB0ZV9EaTNlSkl6TEFxZkk3QnRlMmc0cUdQNHBfbHkxTEN1Mnlxc1c0WFRmUnFkdXp4UzYtNTY2dHFqbkpDZUhsZ0tyWG1yd2RfZDI3NW9nenRJVzEtODhQXzQ1ekhvMGh2NGZEYlNTNVlvQjdhMFZtaWhPcl9uM3BybmhEQVlSSHZwVnV6cHZaank4ZS1lUVFkT005NmdkNXd0Y2xMeEktLUN1WXYyNFQtOUZqZHg1UkFJVUxsQk5vRDdHUW1GalhWeE1peW5ZbTJkMnFkU2hB?oc=5</link>
@@ -22,16 +36,16 @@ Check Point Discloses VPN Vulnerability and Issues Software Fix The Globe and Ma
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - rbbtoday.com</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBsQWJGSmNpZEg2VzRTT1dJSjhRa3BwWnZSNkFRRmZkeVNicUhfLXd2VWdqVG5fVXQ5aWxZOXpWanhrM09sWGRJUWcwemdQWVNwMlQwMVpXc3p3OHhLaDd3QjAwVkVfVmxYeW5zcnRZOG5qUklwWUs0TQ?oc=5</link>
-      <guid isPermaLink="false">463b8c3e8e255ec5331af4ff</guid>
+      <title>[セキュリティ] 「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9HOFlnWU16Rk5FblVqV29OczdnOXQwdENZOHZUNnUtbDdCOE5xOVFLNzBiMnljV2FZQTJhU1lyeFlmNFJucW4ycEJEOGl1bzZBeWQ2X2lsX0NPN2V4ZThmSFMwSS14TVl2c3c?oc=5</link>
+      <guid isPermaLink="false">5e07189a10a213d23e5d8677</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-06-09 10:45
-「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 rbbtoday.com</description>
-      <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T01:45:56Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-09 09:30
+「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 PR TIMES</description>
+      <pubDate>Tue, 09 Jun 2026 22:47:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-09T22:47:30.112954Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T00:30:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -130,20 +144,6 @@ NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフ
       <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-05T06:17:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBQdUZMb1BmRFhiUTVENUlXcGFGbjBHaVI0S2M0ZUlqdTJEUDBtaVdmSktwWFd0cldZajJaQkFSYVVncUZaZXhsN0FoZjFWaUI1MlRsLTRHUnVVelNGV1NXVExmMHdVa0stYlE?oc=5</link>
-      <guid isPermaLink="false">0c14e86a03c5b782a6f7f8da</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-04 11:00
-NEC、「NEC サプライチェーンセキュリティマネジメント forネットワーク」に機器ごとの構成・設定管理を考慮した新機能を追加 PR TIMES</description>
-      <pubDate>Tue, 09 Jun 2026 14:03:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T14:03:50.870222Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-04T02:00:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
