@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:43:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
@@ -19,6 +19,20 @@ Campuswide internet outage to take place early Tuesday Case Western Reserve Univ
       <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T01:03:44Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] KT、W杯応援の群衆による通信障害をインテリジェントネットワークで防止へ - finance.biggo.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qWjdOTW1kU3NWeFJNa1FidmQyT3hxR3ZLdzc3WEY2d1U0ODQ0TE5LQWVMTlBrNTlpUnVoVkF6OW1mX1BXaVZtUlMwbmpILUc3UThWQXVjcXNBOUc2M1lB?oc=5</link>
+      <guid isPermaLink="false">7b759f7e232d62715ef03e1f</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-09 11:36
+KT、W杯応援の群衆による通信障害をインテリジェントネットワークで防止へ finance.biggo.jp</description>
+      <pubDate>Tue, 09 Jun 2026 11:43:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-09T11:43:47.922683Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T02:36:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -64,20 +78,6 @@ Internet outage halts domicile services The Express Tribune</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5</link>
-      <guid isPermaLink="false">42be1aea483acd7ebc78f606</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-07 19:59
-ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞</description>
-      <pubDate>Tue, 09 Jun 2026 08:20:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T08:20:13.851059Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-07T10:59:25Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Nation hit by internet outage amid ongoing power cuts - The Point.gm</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxONGJQaVpHTHhtbzloa3F4Z1c4MnBHOEFKNGpuZlZjQkhQaU1mVHY3endTbXNvV0g0cVRORTJ5UVhTZGl3dGI4ckNXeUV0M2ZBQ1FlYzBRS3p0eWI1RG5WYUVRTGdZUjdZSVI3RTV6dVplVElHbnRzRlhTWjBkdXJ6S2RUM2hFNFpEajhBRUNXbmdXUFg4M2JOc2xpX3M5QQ?oc=5</link>
       <guid isPermaLink="false">3d6fbbae115a3dc7c9de3c57</guid>
@@ -88,20 +88,6 @@ Nation hit by internet outage amid ongoing power cuts The Point.gm</description>
       <pubDate>Fri, 05 Jun 2026 16:17:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-05T16:17:34.078776Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-05T13:14:51Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] SEI Fiber provides update on widespread internet outage - The 812</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxONS1NVnhFUG1VRWliSG56bVZ3NGwtXzN2Rko0cWRmNHVjVURLVUVNRlNJV0h6Q2FHM1QySkdXNUUwYklETHZOSUVMY0dWUTJVb3ppMzVBU3U0ME1EcWFsTWkwRlpfMy1fY1htbkl2ZGxuNWVzYWdLOTFPWF9IckIxZUNRTTl1MjVYUzBQRw?oc=5</link>
-      <guid isPermaLink="false">e48fa1a45bc09bbd058b1897</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-04 22:56
-SEI Fiber provides update on widespread internet outage The 812</description>
-      <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-04T13:56:42Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

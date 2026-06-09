@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 08:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 11:43:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn</title>
@@ -18,20 +18,6 @@ WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation Linked
       <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T19:00:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - TipRanks</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1dnRjdDOFVYNm13Nmd2NzFkd0tLejVvNXJncHNtblJlOFdEUnRjbGxsR2N4Z0xxeEM1eHItdzBncVkyQzhZYjFVbFJOMmVQdnItcXlaSjZWMGIyODhCWGlrdW5QQVlkTHAzano2M2Nqa1RNQW0xV2VwLUhLRkU1Y0FHSUtyWWtVTWFkZnpVdDlvOFBOMS1YenBtOEttRFY3QWNWSkFJdnBEaGRSVXg1WHA0SXBEUQ?oc=5</link>
-      <guid isPermaLink="false">1e591d8517fe4ba5fade5d3d</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-08 22:32
-Check Point Discloses VPN Vulnerability and Issues Software Fix TipRanks</description>
-      <pubDate>Tue, 09 Jun 2026 04:35:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T04:35:03.933610Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T13:32:46Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -78,13 +64,13 @@ Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) H
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Security Advisory – Action Required – Active Exploitation of Check Point VPN Authentication Bypass (CVE-20 ... - Check Point Blog</title>
+      <title>[セキュリティ] Patch Critical Check Point VPN Vulnerability (CVE-2026-50751)- Check Point Blog - Check Point Blog</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjJxdndMVDZGamZIcjNBTVZhUzBYQmRTOWdKYlRGQVZNSnB2U3lkbmhaTFZ4anlTR3p2VFM2ejJ1Zm01YnNQS1lqRV95MFBrREs4Mkl6alBzSXF1bmRYVURtZ0RtRExzRkFPZzVTX3F5Ym01WnJXX2xmZ0VXNE9ZNzdrVlFaZ21DeGZlRU9tQWpZZmJ4Y3paTlFrSzBsREk1M1BBUzRBT0RtN1I5SWU4LWtNa0lnY2Y2LWh3UVBkQkRQY1NianFB0gHMAUFVX3lxTE45blE1MFhFc0YwWmYxQ0QyNS1PMHhCX0lDeGFhaVRWSlh3UERJYnNWWm8td043R09UZ1BmTmRoaGJCVXVDaGlZcGF3bFJSczhJanliSGljclpLM2RUQzJ5aWhfZENCWE1iUmJBanpNSENSR2JSd2tnQW9Mc2NMaVdiMkdyeEJJa19salFsZXZtdXN0U3Q3QnFFaE4wZjQzRkN3UmVubFZLR2hMZ0NZcDNHcjNtS2ZXZUh5MUtsRW81Z3FvOWdFUWlSWUtOeA?oc=5</link>
       <guid isPermaLink="false">148a4217f2c709e89b22b01b</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-06-08 12:35
-Security Advisory – Action Required – Active Exploitation of Check Point VPN Authentication Bypass (CVE-20 ... Check Point Blog</description>
+Patch Critical Check Point VPN Vulnerability (CVE-2026-50751)- Check Point Blog Check Point Blog</description>
       <pubDate>Mon, 08 Jun 2026 12:07:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-08T12:07:16.541418Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T03:35:06Z</sqm:sourcePublishedDate>
@@ -130,20 +116,6 @@ NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフ
       <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-05T06:17:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVJzaFpiRXEzWk8zOGM4VFFmYXUzeVlCbFROUlpTWG9vLWJsXy1OT2M0OElwZFNMa09xSDY2LWJUNm13U0ZWRHI0NkxfYzNJUUR4ZlhxQlktMkx1NFlwUlZJTS1QTko5S0lkZTNBOF9yWG5LWkswUnJvSGRZeXJiX3E0S0NGT2NZR19MSzZn?oc=5</link>
-      <guid isPermaLink="false">fb20cc3a0d5e0fc807d1b337</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-02 18:02
-TP-Link製ルーター「Archer BE450／BE7200」に脆弱性、最新ファームウェアにアップデートを (ケータイ Watch) Yahoo!ニュース</description>
-      <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T09:02:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
