@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-09T04:35:03.068136Z",
+  "generated_at": "2026-06-09T08:20:11.523652Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -36,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFKZU14ekdVSmdOQWhPVDZJR0JDRkl6RzZSRU9qdHViMkc4R3RsWDEwWF9VcHloWFUzZjNUSXlTcG9yd19tdkxESFlockNLZHp2YWJfMEMwRF81NHNZVkJPS01PeGRtdEpVeVRYS3NuODBwOFNUWHhSV2JqTDZqV2w5bi1jdDdsYm5fZ0E1YWFsRGdmMGZhR2Nn?oc=5",
       "summary": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't) ZDNET",
       "published_at": "2026-06-02T02:30:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
+    },
+    {
+      "id": "c0c10714aaba2170008a25c1",
+      "title": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDBpNm9iRHRfY2pHejhUYk02cDZtbGl6SExoNjVKZTNGUGFWbl9lZnU4NFBULWZreGNjZFc2MjgwR0ZpaU1tRXY0eGxDeEk3YUs3Q0ZIbDBqSjlFMDNrWERGUzY4OEt0LVRnR2J2a3JKOHpqZ1JrTzBrX1NNNlJMeUFaY3ZWX2d1WnlTVWNBMGxvVXNpZ0hLZXRn?oc=5",
+      "summary": "ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-05-26T13:18:20Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "b99ff37ec6e73c2116ae71a9",
-      "title": "4 Underrated Router Brands That Can Compete With Netgear - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
-      "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
-      "published_at": "2026-06-05T21:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }

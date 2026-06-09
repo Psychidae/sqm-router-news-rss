@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2026 04:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 08:20:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -46,6 +46,20 @@ Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got bet
       <pubDate>Tue, 02 Jun 2026 06:55:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-02T06:55:15.368927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-02T02:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ROG Strix GS-BE7200X Gaming Router (Hardware) – Review - MKAU Gaming</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDBpNm9iRHRfY2pHejhUYk02cDZtbGl6SExoNjVKZTNGUGFWbl9lZnU4NFBULWZreGNjZFc2MjgwR0ZpaU1tRXY0eGxDeEk3YUs3Q0ZIbDBqSjlFMDNrWERGUzY4OEt0LVRnR2J2a3JKOHpqZ1JrTzBrX1NNNlJMeUFaY3ZWX2d1WnlTVWNBMGxvVXNpZ0hLZXRn?oc=5</link>
+      <guid isPermaLink="false">c0c10714aaba2170008a25c1</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-05-26 22:18
+ROG Strix GS-BE7200X Gaming Router (Hardware) – Review MKAU Gaming</description>
+      <pubDate>Tue, 09 Jun 2026 08:20:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-09T08:20:11.522786Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-26T13:18:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -130,20 +144,6 @@ Zyxel NWA240BE review: A high-performance Wi-Fi 7 access point priced right for 
       <pubDate>Tue, 09 Jun 2026 04:35:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T04:35:03.067284Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-27T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] 4 Underrated Router Brands That Can Compete With Netgear - bgr.com</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5</link>
-      <guid isPermaLink="false">b99ff37ec6e73c2116ae71a9</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-06 06:17
-4 Underrated Router Brands That Can Compete With Netgear bgr.com</description>
-      <pubDate>Mon, 08 Jun 2026 21:16:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-08T21:16:50.766963Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-05T21:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
