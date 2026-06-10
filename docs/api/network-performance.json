@@ -1,13 +1,35 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-10T10:21:55.623313Z",
+  "generated_at": "2026-06-10T14:00:35.482897Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "54221420271567250fb8a0d4",
+      "title": "Internet Outage Statistics 2026: Frequency, Cost and Causes - SQ Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQlRreURIVTFsSXpyRVotbng5c0dsWFMyUlVhTjJtQTRETHVZajYwTVV0NjR1U3NVYWZETG5zc2dHc1ZhMjFUVURDZ3l3QTlHemdPVEh0Rk8zWXhqNGpDUGJ3?oc=5",
+      "summary": "Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine",
+      "published_at": "2026-06-10T05:40:33Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "42be1aea483acd7ebc78f606",
+      "title": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5",
+      "summary": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞",
+      "published_at": "2026-06-10T09:20:43Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "228bbcd80694d9706b3b23aa",
       "title": "Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK",
@@ -69,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSEZELXptMWdxZmNsaU53MFkzaHZRTFY1aGluT1cwNXRpQ29XT3I3NzBYYVlYZTUta2ljWjRMXzc3ZU1pcFFwa2pwWUtRWmRkakxoOQ?oc=5",
       "summary": "なぜAIには「光」が必要なのか？ NVIDIAが解説するスケールアップネットワークの低遅延・省電力化戦略 (1/3) ASCII.jp",
       "published_at": "2026-06-08T03:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "42be1aea483acd7ebc78f606",
-      "title": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5",
-      "summary": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞",
-      "published_at": "2026-06-07T10:59:25Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
