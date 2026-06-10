@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-10T17:33:19.900181Z",
+  "generated_at": "2026-06-10T19:56:40.073078Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5",
       "summary": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in",
       "published_at": "2026-06-10T12:47:16Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 14
-    },
-    {
-      "id": "591c97906bad9f62b10bc361",
-      "title": "CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability - Zamin.uz",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkJPamlQaG5ZZVQ3UWlxZnN1UFZnbFJIWkZsVWZaZ3pWNkFDUWMtSzRjME1ETXl6WFN4RTRzZGFIaXFyejRTR2RpTFJYc2pXbFFwVm0tMFluTmpnR2NYRjdSakJPcnZvdHJKaWJTbVVUZEpNN1JLTGxFUGZyaWlHZ3BBVXI1SFFtNklBNXhQZGd0VGFsUUpfY3VTY2xWU3lJcmNiczN5Y2EwUEhlLVRHUg?oc=5",
-      "summary": "CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability Zamin.uz",
-      "published_at": "2026-06-09T17:57:43Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
@@ -86,11 +75,11 @@
       "score": 13
     },
     {
-      "id": "463b8c3e8e255ec5331af4ff",
-      "title": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsQWJGSmNpZEg2VzRTT1dJSjhRa3BwWnZSNkFRRmZkeVNicUhfLXd2VWdqVG5fVXQ5aWxZOXpWanhrM09sWGRJUWcwemdQWVNwMlQwMVpXc3p3OHhLaDd3QjAwVkVfVmxYeW5zcnRZOG5qUklwWUs0TQ?oc=5",
-      "summary": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 RBB TODAY",
-      "published_at": "2026-06-09T01:45:56Z",
+      "id": "5e07189a10a213d23e5d8677",
+      "title": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HOFlnWU16Rk5FblVqV29OczdnOXQwdENZOHZUNnUtbDdCOE5xOVFLNzBiMnljV2FZQTJhU1lyeFlmNFJucW4ycEJEOGl1bzZBeWQ2X2lsX0NPN2V4ZThmSFMwSS14TVl2c3c?oc=5",
+      "summary": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 PR TIMES",
+      "published_at": "2026-06-09T00:30:09Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -115,6 +104,17 @@
       "published_at": "2026-06-07T14:17:46Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
+    {
+      "id": "a38c5e43ed8382d78e32e2f7",
+      "title": "NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフィグ分析、対処件数を絞り込み - IT Leaders",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGNktOSzROUi1JMUFldWQxWDh4LU4tVnU3TDZZMC03TkhxTUJDRmhFekpTTDRoN2d5RGhpTEduc0hqZFY5Z0IzR0lpWjZNcGExS2R3?oc=5",
+      "summary": "NEC、ネットワーク機器の脆弱性管理に新版、生成AIがコンフィグ分析、対処件数を絞り込み IT Leaders",
+      "published_at": "2026-06-05T06:17:59Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 6
     }
