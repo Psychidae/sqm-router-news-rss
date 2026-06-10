@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 06:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:21:54 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability - Zamin.uz</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkJPamlQaG5ZZVQ3UWlxZnN1UFZnbFJIWkZsVWZaZ3pWNkFDUWMtSzRjME1ETXl6WFN4RTRzZGFIaXFyejRTR2RpTFJYc2pXbFFwVm0tMFluTmpnR2NYRjdSakJPcnZvdHJKaWJTbVVUZEpNN1JLTGxFUGZyaWlHZ3BBVXI1SFFtNklBNXhQZGd0VGFsUUpfY3VTY2xWU3lJcmNiczN5Y2EwUEhlLVRHUg?oc=5</link>
-      <guid isPermaLink="false">591c97906bad9f62b10bc361</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-10 02:57
-CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability Zamin.uz</description>
-      <pubDate>Tue, 09 Jun 2026 22:47:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T22:47:30.112954Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T17:57:43Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - The Globe and Mail</title>
       <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTHVfMDVkZG1hVXB0ZV9EaTNlSkl6TEFxZkk3QnRlMmc0cUdQNHBfbHkxTEN1Mnlxc1c0WFRmUnFkdXp4UzYtNTY2dHFqbkpDZUhsZ0tyWG1yd2RfZDI3NW9nenRJVzEtODhQXzQ1ekhvMGh2NGZEYlNTNVlvQjdhMFZtaWhPcl9uM3BybmhEQVlSSHZwVnV6cHZaank4ZS1lUVFkT005NmdkNXd0Y2xMeEktLUN1WXYyNFQtOUZqZHg1UkFJVUxsQk5vRDdHUW1GalhWeE1peW5ZbTJkMnFkU2hB?oc=5</link>

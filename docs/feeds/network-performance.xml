@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 06:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 10:21:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5</link>
+      <guid isPermaLink="false">228bbcd80694d9706b3b23aa</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-09 15:34
+Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview UK</description>
+      <pubDate>Wed, 10 Jun 2026 10:21:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-10T10:21:55.622327Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T06:34:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
@@ -27,12 +41,26 @@ Campuswide internet outage to take place early Tuesday Case Western Reserve Univ
       <guid isPermaLink="false">4d7afd55a5ee89c39f1a9716</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-06-08 05:29
+元記事日付: 2026-06-08 05:57
 Internet outage halts domicile services The Express Tribune</description>
       <pubDate>Sun, 07 Jun 2026 20:36:46 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-07T20:36:46.110095Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-07T20:29:43Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-06-07T20:57:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-09 14:32
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T05:32:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -60,20 +88,6 @@ KT、W杯応援の群衆による通信障害をインテリジェントネッ�
       <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T03:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-08 07:19
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-07T22:19:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

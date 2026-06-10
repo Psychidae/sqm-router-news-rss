@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-10T06:05:54.581452Z",
+  "generated_at": "2026-06-10T10:21:53.534233Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,17 +75,6 @@
       "score": 14
     },
     {
-      "id": "202f962eeb5b917d1b2f0fe7",
-      "title": "Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link rate - CNX Software",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUdJNWZuWWtWV2xVc0RUODdHNjJaSl8ydHNzSFFUbjhSN0JTdFM1TF9mYV9nSlBqb3NvbGVGc2M1ZTMwSDBpTU45S3V2N0RCOUcyRmtTWDNwOWVnZG16c1kyei1BLWJfd1UxbXU5bktLWE9mRW94d3RGN01qTUVGaWEya1BiWlNCdUh4aTNYRURSYTd5a3FTUzJWZ1k2X1pCSGNTZ21JM2tHdUNTMm9JVzM2elBhdU1VT3VJ0gHDAUFVX3lxTE1xbU5uLVNSWFNLSHRwTDJNMU8tVUtETXM3WnVMT21OakMyN241Y1liT0xNbnduMlhDWE5vQmdSYU1CUXdsSzNNeXVRZEJndHNOWkZiODYwLXpuMmN3VDN3aElSSVpSRzhtR3YxNlhaNnAzd3A4a3VyTE5YaFZtNFlCeF92OXhkQTlSN1FPLW1wN2k1NV9XbE5rZ2FmTHBqMkMwem5HMU9kbVh6cWhsOFRvTXNwS1h6SU93ek5CN3JfOUljZw?oc=5",
-      "summary": "Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link rate CNX Software",
-      "published_at": "2026-06-08T10:51:07Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "7bbad609a61a79b52f3fdde4",
       "title": "Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific - Singapore Business Review",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjdjLXM1S2VUc2dXZG9WM2RFcFhiSVpJS0ZHQ1h0Yy1FMWN4WFNrcHZUcVJqWG1YNUw3VFkweGs2MXhfZjhGNE5lc3MyRzN2VnJ0QzlSNnJSNlBqcTRYYU9GcWgyODc5dlN6UWVXS1pTaXItdS00amJoclZLWmFMMFN4Nm1qWFRMck9uUkFDWXY?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "44da0303196d262b903f408f",
+      "title": "Amazon drops pre-Prime Day discounts on TP-Link Wi-Fi 7 routers - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZWp2bEVjd2VZWFBKeFRqaVJmZjg3NEk2ZEN1RWcxVHJkTE53aUFZOWJRQVY5SmNTa1FjV2g0SE9EbWU1eGg1LU8yREpWMDZpMFhIQy1nZUlQOFZDYUM0MnZSZ2tCQXI2LVlIRUNmYmVlVWphTnQ5aU54eS1Mb01pUDI4cXU1aUl6Nkc1WThJeHNIZXVfX1ZYMk1sUDFLTHdsaEg1OGxzWEVjOXc1U3JMdURtSU1Kc0Z6ZGdHWlZEblZvWHp6aWR4NEFPdC1zR2ZrdWFfWWdYMXpsWW5vQWNpajIzVFQ4Q1NHYVAzVVJXOWNBSzAyV0VST2ZDSlR1QV9DbDZURG9IQ0dIa0JY?oc=5",
+      "summary": "Amazon drops pre-Prime Day discounts on TP-Link Wi-Fi 7 routers TechRadar",
+      "published_at": "2026-06-09T15:42:50Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }
