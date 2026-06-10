@@ -1,13 +1,35 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-10T01:29:25.902227Z",
+  "generated_at": "2026-06-10T06:05:53.236156Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "8ca9614fe082252f102c1278",
+      "title": "ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nbEZSV2V0RlJtVjJfS1RISUdqWFRCWnN6NWtjNWdlVDdsdlctMFBHcWYyQmdQSl95dzFHUnZpVFU4cW01cTB3QjRRNkljOUg3aHB4R0J5cTBlN2RiOHFhZWZWMA?oc=5",
+      "summary": "ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 4Gamer.net",
+      "published_at": "2026-06-10T05:12:27Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 23
+    },
+    {
+      "id": "70e06aca2075f37fd2f4c769",
+      "title": "ASUS、AIコア搭載のWi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」を発売 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xM05rZFZ3eHdlZWtCTENqOGo2cXlUaG92ZjZZMWo4UFhYRmt0LW1oM29qLVFpM21QbXdvaHVJeDVhU1JFZ2lWSU04enY0dWdvdi10Tg?oc=5",
+      "summary": "ASUS、AIコア搭載のWi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」を発売 ASCII.jp",
+      "published_at": "2026-06-10T03:45:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
     {
       "id": "d86d945ba0e49ccc6770da2e",
       "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 - bcnretail.com",
@@ -73,28 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
-    },
-    {
-      "id": "b3c3d14709df80db2a664e18",
-      "title": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mbVJjakdJb1l6N25XU0dOUjdubmo4eUhaNXVtNzEzeTY3d1hrbnNRcE5NWFNsUzd4ZnFzdmFRdl9QMk1ZY193ZXRwblFib195STAwcXVITElvU0F3NFd1NThHLV9kX0k0dXd3MHNPdw?oc=5",
-      "summary": "バッファローがWi-Fi 7もWi-Fi 6も売れてる 無線LANルーター人気ランキングTOP10 2026/6/1 bcnretail.com",
-      "published_at": "2026-06-01T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "a7d9e69bd51e019ba4842433",
-      "title": "初公開！ 名古屋市内の住宅で行われるバッファローの「Wi-Fi 5 vs Wi-Fi 7」ルーター比較テストに密着！【イニシャルB】 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RVUNHTFBwZlE0UlQyR2xoV2ZpbmdzdGh6aDRtWDFUYWhkYjBIbTR1RUgxLXlBMlAwLXVJWGNkYk9rcU5UUHBPMURCSkJ4c29jSFloVWhUSUVIUWtGY19JMmpLMjRRNHUwTzZFTVcyODQ0TjVQTVdkZA?oc=5",
-      "summary": "初公開！ 名古屋市内の住宅で行われるバッファローの「Wi-Fi 5 vs Wi-Fi 7」ルーター比較テストに密着！【イニシャルB】 INTERNET Watch",
-      "published_at": "2026-06-07T21:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
     }
   ]
 }
