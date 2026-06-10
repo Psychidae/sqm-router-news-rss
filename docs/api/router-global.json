@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-10T19:56:39.008279Z",
+  "generated_at": "2026-06-10T22:19:33.506862Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
+    },
+    {
+      "id": "beeb04565eb0a30555a945e6",
+      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-06-07T12:41:32Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
     },
     {
       "id": "534108aeda5158d8baa30e89",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
       "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
       "published_at": "2026-06-05T21:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "b1c6db919b36fe75dcfe86c8",
-      "title": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHlwLWRoQXNQYnJQR0xNZHExVzBCZlpCRU1GVzZOVGNNWUl6SlQzQ0d6V3RVN2drdUQyMkxhdC0tVTZfSDJQdVk4dFl6QUJBNW9zQm9vZjhJM1VfbEVqMG45alkxZFRJVzB3V2FuX1RzQmo3NW1YR1UzTFNoUW9pZ1dQV0dpd2lMNFAxRVowbXpUdw?oc=5",
-      "summary": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever PCMag",
-      "published_at": "2026-06-05T21:14:08Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
