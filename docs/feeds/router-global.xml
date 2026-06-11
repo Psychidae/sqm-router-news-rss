@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 00:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:57:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -19,6 +19,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <sqm:firstSeenDate>2026-06-10T06:05:54.580521Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-04T17:07:36Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5</link>
+      <guid isPermaLink="false">beeb04565eb0a30555a945e6</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-06-07 21:41
+ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming</description>
+      <pubDate>Thu, 11 Jun 2026 04:57:23 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-11T04:57:23.965440Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-07T12:41:32Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -88,20 +102,6 @@ Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific Singapore Busi
       <pubDate>Mon, 08 Jun 2026 07:01:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-08T07:01:51.782346Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T03:51:05Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router - Android Authority</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1U5eXpwS05NRzl3TVZoeElYYXktRXZqRnRXTlY4MWdOS3laOEU0dllVcU95LUQ5UnZOQ1lDc2Z3aUJVdVZDZ29JQ2FmcERpMnJIdHQ2dm5VVGwzZmFGQkVESEZ2Y3Yway0zZ2JYSjF0cjh0bGxJZnNMZ19vWXFnS1pjY2hWSFJ5cnMw?oc=5</link>
-      <guid isPermaLink="false">3f844d8c77a11e9c48f06b14</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-02 16:00
-Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router Android Authority</description>
-      <pubDate>Thu, 11 Jun 2026 00:02:51 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T00:02:51.514262Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-02T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
