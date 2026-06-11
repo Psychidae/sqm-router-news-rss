@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 09:19:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] How modern software minimises latency for asset monitoring - South West Londoner</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxOMnFzTTV2dzVuQ2VYd3FwajlpR2dhMWl3MjF2cG05SnRubUxuR2Y3SHl3V0p3SmQybHI0bjg1Y2hCVjRER1o0dDQxRWtzM04wN3RxbnR2SURQUGdFcjhLTjR4V2tGUkYySnRNbUNTZ2IxNGhydTY4VHdmMjNycEl3M2Q1OG16X1RjdTZLWWFEclRFMmJBalhaZGtoVUJBcE9uQ0VVRUZ4ZkJPQUc3VGEyWGdOaHhYQUc4cG5QNEVJdw?oc=5</link>
+      <guid isPermaLink="false">22e291b4c683e150a8119562</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-11 17:55
+How modern software minimises latency for asset monitoring South West Londoner</description>
+      <pubDate>Thu, 11 Jun 2026 09:19:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-11T09:19:28.632671Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T08:55:05Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Internet Outage Statistics 2026: Frequency, Cost and Causes - SQ Magazine</title>
       <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQlRreURIVTFsSXpyRVotbng5c0dsWFMyUlVhTjJtQTRETHVZajYwTVV0NjR1U3NVYWZETG5zc2dHc1ZhMjFUVURDZ3l3QTlHemdPVEh0Rk8zWXhqNGpDUGJ3?oc=5</link>
@@ -37,14 +51,14 @@ Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine</descrip
     </item>
     <item>
       <title>[性能・障害] SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE80U2NyTnFvRGxybHdNMHJpVU1lMFRGa2lfTTBJVTBoZUFYWllhSWNJQmdkLVhmc2V2WGotNlZhd2dheTFlT3pCR3RsQlRsZVBEUGc2QW1lNTl0czNCRjg0ZzFyVkltOEtiTTU5OXBVbUZVNHJURDFOWVpFOA?oc=5</link>
-      <guid isPermaLink="false">868c3f73ce7c4756406d502b</guid>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XRURNN2tDX2docXZpOWNtel9rZzc0QjhjS1k2YUExV082WTBGZnVDYy14NDRkZjlSZ1FtN0NnRWVLd19xT3BuSmZVWkdxNVE0U3B0NA?oc=5</link>
+      <guid isPermaLink="false">162ab6673ad2323ad774b688</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-06-11 12:15
 SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 ニコニコニュース</description>
-      <pubDate>Thu, 11 Jun 2026 04:57:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T04:57:26.520449Z</sqm:firstSeenDate>
+      <pubDate>Thu, 11 Jun 2026 09:19:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-11T09:19:28.632671Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T03:15:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
@@ -131,20 +145,6 @@ Internet outage halts domicile services The Express Tribune</description>
       <sqm:firstSeenDate>2026-06-07T20:36:46.110095Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-07T20:57:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] なぜAIには「光」が必要なのか？ NVIDIAが解説するスケールアップネットワークの低遅延・省電力化戦略 (1/3) - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwSEZELXptMWdxZmNsaU53MFkzaHZRTFY1aGluT1cwNXRpQ29XT3I3NzBYYVlYZTUta2ljWjRMXzc3ZU1pcFFwa2pwWUtRWmRkakxoOQ?oc=5</link>
-      <guid isPermaLink="false">b5a252d051ff3bb16f329def</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-08 12:00
-なぜAIには「光」が必要なのか？ NVIDIAが解説するスケールアップネットワークの低遅延・省電力化戦略 (1/3) ASCII.jp</description>
-      <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T03:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>

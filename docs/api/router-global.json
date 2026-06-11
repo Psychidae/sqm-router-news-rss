@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-11T04:57:23.966386Z",
+  "generated_at": "2026-06-11T09:19:26.522374Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "23b50ffca22e89439386bf4f",
+      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware",
+      "published_at": "2026-06-09T17:35:21Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "518a8d7c10398b4205463b67",
       "title": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZLbVl5czNhQVdLQ0xYdUVNYmZsU0x5Yl95ZElNVEplZE5YVTcxUmlKV2NVbTJ2UTlkcks2Yi1VcjJ4a0RTYlF1ODZGaE1CaDBKcU42OEVmczFCVU5Hai1uX2RhcE5qVHltUHgtR2F4NURnWFctTElkcVRkUVY1WmFIemt3S2pCd214RzcyQzRVSEZPNE95cDBieHZPUXR6N0JWUWtOM0lMdlN2ek96dUFneDVZSTJMLVhOTVhvOFRydFNpdHk2UGU2V28zaUF0RGdfVTgwVQ?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "b99ff37ec6e73c2116ae71a9",
-      "title": "4 Underrated Router Brands That Can Compete With Netgear - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
-      "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
-      "published_at": "2026-06-05T21:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
