@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-11T13:03:31.335884Z",
+  "generated_at": "2026-06-11T17:01:05.169571Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "29bd0ed0393ffe63228c2277",
+      "title": "Internet Outage Impacts Widespread Area - WCBC Radio",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9OMTVSZmdZWEFBTWFFMVY2VmVsT1Q5Q0ZWZlFPUDB2OUJVMzZsbmZMeVB3TzNSRFdqbUZGbUpKSVVfSHhhOE5pQWJiSnk3QTZ4d1prQm85OHpnT2VRbjNUR1h1anZIVmVhUHo5by1KX3JUQmxYRWhIU09DZw?oc=5",
+      "summary": "Internet Outage Impacts Widespread Area WCBC Radio",
+      "published_at": "2026-06-11T13:08:36Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "22e291b4c683e150a8119562",
       "title": "How modern software minimises latency for asset monitoring - South West Londoner",
@@ -20,6 +31,39 @@
       "score": 9
     },
     {
+      "id": "02812a1e834d5f56fa1797fa",
+      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUS1PdG51c01BX2dsNFM0bDlDVnUxa09sRVBNZDItUjU5V1drYUpRWFdvMmVFMlRPczgzTHVWRm5wdXlOV0hCM3hpTWlvcmZGR3ZYY3ZHeXBKcDNFZHJmbTRnbmNGZ3F3WmZBTDVoRXZ6bW5FWVE?oc=5",
+      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ニコニコニュース",
+      "published_at": "2026-06-11T13:18:23Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "f803fd20ddc237c1b46fde21",
+      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNXd6RGNlQVdNVDZSb2MwejVOQWZWa3lYVE9NbWZpMG9CYVhzdXdkUHJwUDVnQWoyMWVfaTBERU52NTJGRGJFTk15MkxSd2dzZTczdk8tWG84S0tLdGFwY0ZRa2R6U1BL?oc=5",
+      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） 毎日新聞",
+      "published_at": "2026-06-11T06:21:26Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "162ab6673ad2323ad774b688",
+      "title": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XRURNN2tDX2docXZpOWNtel9rZzc0QjhjS1k2YUExV082WTBGZnVDYy14NDRkZjlSZ1FtN0NnRWVLd19xT3BuSmZVWkdxNVE0U3B0NA?oc=5",
+      "summary": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 ニコニコニュース",
+      "published_at": "2026-06-11T03:15:43Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
       "id": "54221420271567250fb8a0d4",
       "title": "Internet Outage Statistics 2026: Frequency, Cost and Causes - SQ Magazine",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQlRreURIVTFsSXpyRVotbng5c0dsWFMyUlVhTjJtQTRETHVZajYwTVV0NjR1U3NVYWZETG5zc2dHc1ZhMjFUVURDZ3l3QTlHemdPVEh0Rk8zWXhqNGpDUGJ3?oc=5",
@@ -27,17 +71,6 @@
       "published_at": "2026-06-10T13:57:56Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "f124da9f3b230cf2ea09eddf",
-      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN® 」を導入 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16OE9nekRtd2ItS19EYkNNZFh5QWwtYV9vMEtlWHcyVExLZGFfLUNwblFLVm55V2hfSkVRVjNLRnRWY1Z5Nzh2ODIxamFtN28wanptRXp4bmRUcG12Y01VOEw0MnIyNWM1TFE?oc=5",
-      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN® 」を導入 PR TIMES",
-      "published_at": "2026-06-11T04:33:55Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -64,6 +97,17 @@
       "score": 8
     },
     {
+      "id": "42be1aea483acd7ebc78f606",
+      "title": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5",
+      "summary": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞",
+      "published_at": "2026-06-10T09:20:43Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
       "id": "3da24a7dd935aeedb1f3ab13",
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
@@ -71,28 +115,6 @@
       "published_at": "2026-06-09T16:22:23Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "7b759f7e232d62715ef03e1f",
-      "title": "KT、W杯応援の群衆による通信障害をインテリジェントネットワークで防止へ - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qWjdOTW1kU3NWeFJNa1FidmQyT3hxR3ZLdzc3WEY2d1U0ODQ0TE5LQWVMTlBrNTlpUnVoVkF6OW1mX1BXaVZtUlMwbmpILUc3UThWQXVjcXNBOUc2M1lB?oc=5",
-      "summary": "KT、W杯応援の群衆による通信障害をインテリジェントネットワークで防止へ finance.biggo.jp",
-      "published_at": "2026-06-09T02:36:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "4d7afd55a5ee89c39f1a9716",
-      "title": "Internet outage halts domicile services - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlQ1djBkSjYxUDdXOU5lVld4YlZPRktsd21sNU1MMjlxOE5UZmhMclo5aWcwb3NYcHR0aUk0WURycjkyQnJTQTZoZjVzLXItdVRROFowalo5R2x6YU5NLUhsMDdDTVVaTzhCblRtZFZTZi1XaWRjZk5HZEtUUVNtblZn0gGKAUFVX3lxTE1QcWt5aFFzTUx0dDlaY2w0OEFOdlVRTlptakIxVXdmNE9kcURfM3BVVU8xMHJpTlBfRUptUGNPd2U0SHdCZ1E2Y2tGd1lZZ2xXaUF2MVdYa240cnlCZXQ0UnZfSEd5SFdjTHJkUDZHWFYtUTdGcDdtNnFoanZVNDV0UVJzUllhUl9PZw?oc=5",
-      "summary": "Internet outage halts domicile services The Express Tribune",
-      "published_at": "2026-06-07T20:57:47Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     }
