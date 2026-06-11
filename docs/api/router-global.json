@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-11T21:49:51.860050Z",
+  "generated_at": "2026-06-11T23:52:01.786801Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "68157c1f9a7cd3767aaf065e",
+      "title": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWVzSjFWc0dtdmNib3Z4LVZnWkoyWWJwM3V5R0x3R2VHci0zd1NCQjdzZXBVWHQ5cndMV2h4UGtOVU5aWGZCZVo0YTc5c1pINjB3bmhaSEpwdHM3cWJUQXhNbW9GNU5aZExndkRFQ1J5RlpWTEhTTWNqVl8zUzZGQzBZLVB5bmhBaE0zSHhGWWs1UTdWS0NuYWlLaGxZOTNKU1Bidm5weTVnclZMc1U0UVJabmo?oc=5",
+      "summary": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers Digital Reviews Network",
+      "published_at": "2026-06-11T22:50:34Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 23
+    },
     {
       "id": "1d5ae5f0990f78466646df47",
       "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
@@ -40,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 15
+    },
+    {
+      "id": "d954bc1c0b75196a3727e415",
+      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRTRtRl9ncHJQaUU0SDU3WHRWYzRqN2U3RUJOU1dIbkxmVHZrazFuM2lRUDBUa3hOdTZLejBQaC1tTFlHRTNPOHlOWDdaQjRZblRaWEZxdVdpNEppZkthYk1mR2tZNU9LaDZLQkdhRGdHTjJra2tmbkNxazlMWVpCMFZjZ09uVzR3dE54YUVUWjc1MXdwWl9NVHNtNDZ1VDhtUEs5Sy1IOVpOdllnWEZVUzBVRVloRENjaV9rREhjZldhYlRVUXF6N1RoYXg2Y1E2SDFRenZ3SENNc2NwUXRlczFyYjVSWXQzT1gwQ1RqalJSLXg1bU9oZTlRMThFZWpyZHFnOUY4RDNETnJaaHR0U0dNTzhQbl9hTWZmUGI4NXFKbjgtTWMtTlFQVXhBRjF6WWRjNE9jM3BiUnpXTHRVVkpxRG1VWTZoeUVWLXpVRHdfQzRjT1E?oc=5",
+      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
+      "published_at": "2026-06-11T20:58:13Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "cc2cc40ac8944a40be9cfae0",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "349437ebe69f8556db89343c",
-      "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
-      "summary": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes",
-      "published_at": "2026-05-31T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "44da0303196d262b903f408f",
-      "title": "Amazon drops pre-Prime Day discounts on TP-Link Wi-Fi 7 routers - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZWp2bEVjd2VZWFBKeFRqaVJmZjg3NEk2ZEN1RWcxVHJkTE53aUFZOWJRQVY5SmNTa1FjV2g0SE9EbWU1eGg1LU8yREpWMDZpMFhIQy1nZUlQOFZDYUM0MnZSZ2tCQXI2LVlIRUNmYmVlVWphTnQ5aU54eS1Mb01pUDI4cXU1aUl6Nkc1WThJeHNIZXVfX1ZYMk1sUDFLTHdsaEg1OGxzWEVjOXc1U3JMdURtSU1Kc0Z6ZGdHWlZEblZvWHp6aWR4NEFPdC1zR2ZrdWFfWWdYMXpsWW5vQWNpajIzVFQ4Q1NHYVAzVVJXOWNBSzAyV0VST2ZDSlR1QV9DbDZURG9IQ0dIa0JY?oc=5",
-      "summary": "Amazon drops pre-Prime Day discounts on TP-Link Wi-Fi 7 routers TechRadar",
-      "published_at": "2026-06-09T15:42:50Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }
