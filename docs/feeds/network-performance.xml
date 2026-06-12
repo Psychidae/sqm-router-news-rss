@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 05:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:09:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet Outage Impacts Widespread Area - WCBC Radio</title>
@@ -18,20 +18,6 @@ Internet Outage Impacts Widespread Area WCBC Radio</description>
       <pubDate>Thu, 11 Jun 2026 17:01:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-11T17:01:05.168686Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T13:08:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] How next-generation software layouts minimise market latency for asset monitoring - South West Londoner</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxOMnFzTTV2dzVuQ2VYd3FwajlpR2dhMWl3MjF2cG05SnRubUxuR2Y3SHl3V0p3SmQybHI0bjg1Y2hCVjRER1o0dDQxRWtzM04wN3RxbnR2SURQUGdFcjhLTjR4V2tGUkYySnRNbUNTZ2IxNGhydTY4VHdmMjNycEl3M2Q1OG16X1RjdTZLWWFEclRFMmJBalhaZGtoVUJBcE9uQ0VVRUZ4ZkJPQUc3VGEyWGdOaHhYQUc4cG5QNEVJdw?oc=5</link>
-      <guid isPermaLink="false">22e291b4c683e150a8119562</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-11 17:55
-How next-generation software layouts minimise market latency for asset monitoring South West Londoner</description>
-      <pubDate>Thu, 11 Jun 2026 09:19:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T09:19:28.632671Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T08:55:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,17 +36,17 @@ How next-generation software layouts minimise market latency for asset monitorin
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNXd6RGNlQVdNVDZSb2MwejVOQWZWa3lYVE9NbWZpMG9CYVhzdXdkUHJwUDVnQWoyMWVfaTBERU52NTJGRGJFTk15MkxSd2dzZTczdk8tWG84S0tLdGFwY0ZRa2R6U1BL?oc=5</link>
-      <guid isPermaLink="false">f803fd20ddc237c1b46fde21</guid>
+      <title>[性能・障害] How next-generation software layouts minimise market latency for asset monitoring - South West Londoner</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxOMnFzTTV2dzVuQ2VYd3FwajlpR2dhMWl3MjF2cG05SnRubUxuR2Y3SHl3V0p3SmQybHI0bjg1Y2hCVjRER1o0dDQxRWtzM04wN3RxbnR2SURQUGdFcjhLTjR4V2tGUkYySnRNbUNTZ2IxNGhydTY4VHdmMjNycEl3M2Q1OG16X1RjdTZLWWFEclRFMmJBalhaZGtoVUJBcE9uQ0VVRUZ4ZkJPQUc3VGEyWGdOaHhYQUc4cG5QNEVJdw?oc=5</link>
+      <guid isPermaLink="false">22e291b4c683e150a8119562</guid>
       <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-11 15:21
-『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） 毎日新聞</description>
-      <pubDate>Thu, 11 Jun 2026 17:01:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T17:01:05.168686Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T06:21:26Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+ソース: Google News Global: network performance
+元記事日付: 2026-06-11 17:55
+How next-generation software layouts minimise market latency for asset monitoring South West Londoner</description>
+      <pubDate>Thu, 11 Jun 2026 09:19:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-11T09:19:28.632671Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T08:55:05Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -78,17 +64,17 @@ Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine</descrip
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5</link>
-      <guid isPermaLink="false">228bbcd80694d9706b3b23aa</guid>
+      <title>[性能・障害] 『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE52LUN4TkVrZl8yeGt6bW5peWs0TFp6M0dlekxOTkZudV9ubXJFQTFxWlZ6Q2RBYWgwb1hLSzlBaDZLNlFXUEVWSnJ4cFlTYW9NLTNfOQ?oc=5</link>
+      <guid isPermaLink="false">81c5d5e25e7527ec47674d99</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-09 15:34
-Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview UK</description>
-      <pubDate>Wed, 10 Jun 2026 10:21:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-10T10:21:55.622327Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T06:34:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-06-11 15:59
+『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ASCII.jp</description>
+      <pubDate>Fri, 12 Jun 2026 09:09:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T09:09:59.545599Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T06:59:10Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -102,20 +88,6 @@ SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機�
       <pubDate>Thu, 11 Jun 2026 21:49:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-11T21:49:54.420185Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T01:00:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5</link>
-      <guid isPermaLink="false">42be1aea483acd7ebc78f606</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-10 18:20
-ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞</description>
-      <pubDate>Thu, 11 Jun 2026 23:52:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T23:52:03.649471Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-10T09:20:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -134,6 +106,20 @@ SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機�
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5</link>
+      <guid isPermaLink="false">228bbcd80694d9706b3b23aa</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-09 15:34
+Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview UK</description>
+      <pubDate>Wed, 10 Jun 2026 10:21:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-10T10:21:55.622327Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T06:34:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
       <guid isPermaLink="false">3113f16fb48d080b704cb9e9</guid>
@@ -144,6 +130,20 @@ Campuswide internet outage to take place early Tuesday Case Western Reserve Univ
       <pubDate>Sat, 06 Jun 2026 05:39:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T01:03:44Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet outage halts domicile services - The Express Tribune</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlQ1djBkSjYxUDdXOU5lVld4YlZPRktsd21sNU1MMjlxOE5UZmhMclo5aWcwb3NYcHR0aUk0WURycjkyQnJTQTZoZjVzLXItdVRROFowalo5R2x6YU5NLUhsMDdDTVVaTzhCblRtZFZTZi1XaWRjZk5HZEtUUVNtblZn0gGKAUFVX3lxTE1QcWt5aFFzTUx0dDlaY2w0OEFOdlVRTlptakIxVXdmNE9kcURfM3BVVU8xMHJpTlBfRUptUGNPd2U0SHdCZ1E2Y2tGd1lZZ2xXaUF2MVdYa240cnlCZXQ0UnZfSEd5SFdjTHJkUDZHWFYtUTdGcDdtNnFoanZVNDV0UVJzUllhUl9PZw?oc=5</link>
+      <guid isPermaLink="false">4d7afd55a5ee89c39f1a9716</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-08 05:57
+Internet outage halts domicile services The Express Tribune</description>
+      <pubDate>Fri, 12 Jun 2026 09:09:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T09:09:59.545599Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-07T20:57:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

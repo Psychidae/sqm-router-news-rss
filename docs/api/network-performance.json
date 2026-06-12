@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-12T05:00:31.077100Z",
+  "generated_at": "2026-06-12T09:09:59.546544Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -20,17 +20,6 @@
       "score": 9
     },
     {
-      "id": "22e291b4c683e150a8119562",
-      "title": "How next-generation software layouts minimise market latency for asset monitoring - South West Londoner",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxOMnFzTTV2dzVuQ2VYd3FwajlpR2dhMWl3MjF2cG05SnRubUxuR2Y3SHl3V0p3SmQybHI0bjg1Y2hCVjRER1o0dDQxRWtzM04wN3RxbnR2SURQUGdFcjhLTjR4V2tGUkYySnRNbUNTZ2IxNGhydTY4VHdmMjNycEl3M2Q1OG16X1RjdTZLWWFEclRFMmJBalhaZGtoVUJBcE9uQ0VVRUZ4ZkJPQUc3VGEyWGdOaHhYQUc4cG5QNEVJdw?oc=5",
-      "summary": "How next-generation software layouts minimise market latency for asset monitoring South West Londoner",
-      "published_at": "2026-06-11T08:55:05Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
       "id": "6e4486fe2e595b15f612aab4",
       "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - Mantan Web",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmhDSzJOMFNOZllseDlKU01FMTZHRG9TY05JU3UwWFVQbjQ0d3dBeVJIaEpGRzBhTzRwcGluSGMzSk1fWUZxNkdpMS04N0drWGxfNl9xT1cwdFhOLW5kQTd6MnF5R3BTOUJkM09fNzdVcjFnWDA2bkxnWTIwcUtqdkNha29FU0Vt?oc=5",
@@ -42,13 +31,13 @@
       "score": 8
     },
     {
-      "id": "f803fd20ddc237c1b46fde21",
-      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） - 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNXd6RGNlQVdNVDZSb2MwejVOQWZWa3lYVE9NbWZpMG9CYVhzdXdkUHJwUDVnQWoyMWVfaTBERU52NTJGRGJFTk15MkxSd2dzZTczdk8tWG84S0tLdGFwY0ZRa2R6U1BL?oc=5",
-      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） 毎日新聞",
-      "published_at": "2026-06-11T06:21:26Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "22e291b4c683e150a8119562",
+      "title": "How next-generation software layouts minimise market latency for asset monitoring - South West Londoner",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGxOMnFzTTV2dzVuQ2VYd3FwajlpR2dhMWl3MjF2cG05SnRubUxuR2Y3SHl3V0p3SmQybHI0bjg1Y2hCVjRER1o0dDQxRWtzM04wN3RxbnR2SURQUGdFcjhLTjR4V2tGUkYySnRNbUNTZ2IxNGhydTY4VHdmMjNycEl3M2Q1OG16X1RjdTZLWWFEclRFMmJBalhaZGtoVUJBcE9uQ0VVRUZ4ZkJPQUc3VGEyWGdOaHhYQUc4cG5QNEVJdw?oc=5",
+      "summary": "How next-generation software layouts minimise market latency for asset monitoring South West Londoner",
+      "published_at": "2026-06-11T08:55:05Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -64,15 +53,15 @@
       "score": 8
     },
     {
-      "id": "228bbcd80694d9706b3b23aa",
-      "title": "Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5",
-      "summary": "Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview UK",
-      "published_at": "2026-06-09T06:34:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "81c5d5e25e7527ec47674d99",
+      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52LUN4TkVrZl8yeGt6bW5peWs0TFp6M0dlekxOTkZudV9ubXJFQTFxWlZ6Q2RBYWgwb1hLSzlBaDZLNlFXUEVWSnJ4cFlTYW9NLTNfOQ?oc=5",
+      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ASCII.jp",
+      "published_at": "2026-06-11T06:59:10Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "914b246103d273d0571094dc",
@@ -80,17 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5",
       "summary": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES",
       "published_at": "2026-06-11T01:00:02Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "42be1aea483acd7ebc78f606",
-      "title": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 - 日刊工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fOWZfZUJFUHBlQ0pRLW8wRnUyYjA1TzY1SnJhNTBFZE9RV0xaTExkNTVHSjlpU2ZqZGZ1NnRFb0ZNQWtyWkwxUkhTQ2RQZ3BUV2pCUFFMZW8?oc=5",
-      "summary": "ネットワーク運用と空間デザインを刷新する高速・低遅延で安定性の高いWi-Fi 7対応モデル ヤマハ 無線LANアクセスポイント『WLX333』『WLX232』 日刊工業新聞",
-      "published_at": "2026-06-10T09:20:43Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -108,11 +86,33 @@
       "score": 7
     },
     {
+      "id": "228bbcd80694d9706b3b23aa",
+      "title": "Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5",
+      "summary": "Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview UK",
+      "published_at": "2026-06-09T06:34:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
       "id": "3113f16fb48d080b704cb9e9",
       "title": "Campuswide internet outage to take place early Tuesday - Case Western Reserve University",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5",
       "summary": "Campuswide internet outage to take place early Tuesday Case Western Reserve University",
       "published_at": "2026-06-09T01:03:44Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "4d7afd55a5ee89c39f1a9716",
+      "title": "Internet outage halts domicile services - The Express Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlQ1djBkSjYxUDdXOU5lVld4YlZPRktsd21sNU1MMjlxOE5UZmhMclo5aWcwb3NYcHR0aUk0WURycjkyQnJTQTZoZjVzLXItdVRROFowalo5R2x6YU5NLUhsMDdDTVVaTzhCblRtZFZTZi1XaWRjZk5HZEtUUVNtblZn0gGKAUFVX3lxTE1QcWt5aFFzTUx0dDlaY2w0OEFOdlVRTlptakIxVXdmNE9kcURfM3BVVU8xMHJpTlBfRUptUGNPd2U0SHdCZ1E2Y2tGd1lZZ2xXaUF2MVdYa240cnlCZXQ0UnZfSEd5SFdjTHJkUDZHWFYtUTdGcDdtNnFoanZVNDV0UVJzUllhUl9PZw?oc=5",
+      "summary": "Internet outage halts domicile services The Express Tribune",
+      "published_at": "2026-06-07T20:57:47Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
