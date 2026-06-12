@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 23:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:00:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
@@ -61,20 +61,6 @@ Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got bet
       <sqm:firstSeenDate>2026-06-02T06:55:15.368927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-01T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRTRtRl9ncHJQaUU0SDU3WHRWYzRqN2U3RUJOU1dIbkxmVHZrazFuM2lRUDBUa3hOdTZLejBQaC1tTFlHRTNPOHlOWDdaQjRZblRaWEZxdVdpNEppZkthYk1mR2tZNU9LaDZLQkdhRGdHTjJra2tmbkNxazlMWVpCMFZjZ09uVzR3dE54YUVUWjc1MXdwWl9NVHNtNDZ1VDhtUEs5Sy1IOVpOdllnWEZVUzBVRVloRENjaV9rREhjZldhYlRVUXF6N1RoYXg2Y1E2SDFRenZ3SENNc2NwUXRlczFyYjVSWXQzT1gwQ1RqalJSLXg1bU9oZTlRMThFZWpyZHFnOUY4RDNETnJaaHR0U0dNTzhQbl9hTWZmUGI4NXFKbjgtTWMtTlFQVXhBRjF6WWRjNE9jM3BiUnpXTHRVVkpxRG1VWTZoeUVWLXpVRHdfQzRjT1E?oc=5</link>
-      <guid isPermaLink="false">d954bc1c0b75196a3727e415</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-12 05:58
-ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN</description>
-      <pubDate>Thu, 11 Jun 2026 23:52:01 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T23:52:01.785910Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T20:58:13Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -134,16 +120,30 @@ Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, Sm
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific - Singapore Business Review</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjdjLXM1S2VUc2dXZG9WM2RFcFhiSVpJS0ZHQ1h0Yy1FMWN4WFNrcHZUcVJqWG1YNUw3VFkweGs2MXhfZjhGNE5lc3MyRzN2VnJ0QzlSNnJSNlBqcTRYYU9GcWgyODc5dlN6UWVXS1pTaXItdS00amJoclZLWmFMMFN4Nm1qWFRMck9uUkFDWXY?oc=5</link>
-      <guid isPermaLink="false">7bbad609a61a79b52f3fdde4</guid>
+      <title>[海外ルーターニュース] GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes</title>
+      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5</link>
+      <guid isPermaLink="false">349437ebe69f8556db89343c</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-08 12:51
-Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific Singapore Business Review</description>
-      <pubDate>Mon, 08 Jun 2026 07:01:51 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-08T07:01:51.782346Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T03:51:05Z</sqm:sourcePublishedDate>
+元記事日付: 2026-05-31 16:00
+GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes</description>
+      <pubDate>Fri, 12 Jun 2026 05:00:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T05:00:28.476874Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-05-31T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Best Wi-Fi 7 Routers: 2026's Top Five - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZVJGbzEyWm5PTkVTZkFtTVhEZnJHMmRCN1hPcEhKdk96MTJEMmNmdzdGUkczbXFZXzEyVXNWTVlOOS1OMzNpbVlJcXVUQXhBSWlMb1Nn?oc=5</link>
+      <guid isPermaLink="false">58a1ba817b88c3fb11335b49</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-10 01:56
+Best Wi-Fi 7 Routers: 2026's Top Five Dong Knows Tech</description>
+      <pubDate>Fri, 12 Jun 2026 05:00:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T05:00:28.476874Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T16:56:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

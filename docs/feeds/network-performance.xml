@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 11 Jun 2026 23:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:00:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet Outage Impacts Widespread Area - WCBC Radio</title>
@@ -36,16 +36,16 @@ How next-generation software layouts minimise market latency for asset monitorin
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUS1PdG51c01BX2dsNFM0bDlDVnUxa09sRVBNZDItUjU5V1drYUpRWFdvMmVFMlRPczgzTHVWRm5wdXlOV0hCM3hpTWlvcmZGR3ZYY3ZHeXBKcDNFZHJmbTRnbmNGZ3F3WmZBTDVoRXZ6bW5FWVE?oc=5</link>
-      <guid isPermaLink="false">02812a1e834d5f56fa1797fa</guid>
+      <title>[性能・障害] 『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - Mantan Web</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmhDSzJOMFNOZllseDlKU01FMTZHRG9TY05JU3UwWFVQbjQ0d3dBeVJIaEpGRzBhTzRwcGluSGMzSk1fWUZxNkdpMS04N0drWGxfNl9xT1cwdFhOLW5kQTd6MnF5R3BTOUJkM09fNzdVcjFnWDA2bkxnWTIwcUtqdkNha29FU0Vt?oc=5</link>
+      <guid isPermaLink="false">6e4486fe2e595b15f612aab4</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-06-11 22:18
-『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ニコニコニュース</description>
-      <pubDate>Thu, 11 Jun 2026 17:01:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T17:01:05.168686Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T13:18:23Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-12 08:38
+『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 Mantan Web</description>
+      <pubDate>Fri, 12 Jun 2026 05:00:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T05:00:31.076134Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T23:38:41Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -60,20 +60,6 @@ How next-generation software layouts minimise market latency for asset monitorin
       <pubDate>Thu, 11 Jun 2026 17:01:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-11T17:01:05.168686Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T06:21:26Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5</link>
-      <guid isPermaLink="false">914b246103d273d0571094dc</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-11 10:00
-SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES</description>
-      <pubDate>Thu, 11 Jun 2026 21:49:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-11T21:49:54.420185Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T01:00:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -106,17 +92,17 @@ Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
-      <guid isPermaLink="false">3113f16fb48d080b704cb9e9</guid>
+      <title>[性能・障害] SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5</link>
+      <guid isPermaLink="false">914b246103d273d0571094dc</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-09 10:03
-Campuswide internet outage to take place early Tuesday Case Western Reserve University</description>
-      <pubDate>Sat, 06 Jun 2026 05:39:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T01:03:44Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-06-11 10:00
+SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES</description>
+      <pubDate>Thu, 11 Jun 2026 21:49:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-11T21:49:54.420185Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T01:00:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -145,6 +131,20 @@ Campuswide internet outage to take place early Tuesday Case Western Reserve Univ
       <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T16:22:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
+      <guid isPermaLink="false">3113f16fb48d080b704cb9e9</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-09 10:03
+Campuswide internet outage to take place early Tuesday Case Western Reserve University</description>
+      <pubDate>Sat, 06 Jun 2026 05:39:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T01:03:44Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>

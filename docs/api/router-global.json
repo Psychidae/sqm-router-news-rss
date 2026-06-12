@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-11T23:52:01.786801Z",
+  "generated_at": "2026-06-12T05:00:28.477839Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 15
     },
     {
-      "id": "d954bc1c0b75196a3727e415",
-      "title": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRTRtRl9ncHJQaUU0SDU3WHRWYzRqN2U3RUJOU1dIbkxmVHZrazFuM2lRUDBUa3hOdTZLejBQaC1tTFlHRTNPOHlOWDdaQjRZblRaWEZxdVdpNEppZkthYk1mR2tZNU9LaDZLQkdhRGdHTjJra2tmbkNxazlMWVpCMFZjZ09uVzR3dE54YUVUWjc1MXdwWl9NVHNtNDZ1VDhtUEs5Sy1IOVpOdllnWEZVUzBVRVloRENjaV9rREhjZldhYlRVUXF6N1RoYXg2Y1E2SDFRenZ3SENNc2NwUXRlczFyYjVSWXQzT1gwQ1RqalJSLXg1bU9oZTlRMThFZWpyZHFnOUY4RDNETnJaaHR0U0dNTzhQbl9hTWZmUGI4NXFKbjgtTWMtTlFQVXhBRjF6WWRjNE9jM3BiUnpXTHRVVkpxRG1VWTZoeUVWLXpVRHdfQzRjT1E?oc=5",
-      "summary": "ZTE launches new 5G mobile router with Wi-Fi 7 and dual 2.5G ports MSN",
-      "published_at": "2026-06-11T20:58:13Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "cc2cc40ac8944a40be9cfae0",
       "title": "Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Max, and Outdoor models from $235 (All-time low) - 9to5Toys",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnZCZEFLa3RuS0Zfem0tRXdhQlRIS3B0b0NtYkh1ZDdJV2syeWlwZU5ZQ0NRUWQwRkxLU3d6LTAxWHhzYU5raFNabks3cUROVjBkVHRSX3k0b3FaZnkxdUhFUW5zXzBOc0pkejRQdV9OR2l1MVpvRTJvcXh5MEN5ckZhZmpnNUNLNWZzX1VlY2JJcTY5WW9vVWNwR05KMVR4Ql94WnpPQnVEZ1M2YkE?oc=5",
@@ -108,15 +97,26 @@
       "score": 13
     },
     {
-      "id": "7bbad609a61a79b52f3fdde4",
-      "title": "Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific - Singapore Business Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjdjLXM1S2VUc2dXZG9WM2RFcFhiSVpJS0ZHQ1h0Yy1FMWN4WFNrcHZUcVJqWG1YNUw3VFkweGs2MXhfZjhGNE5lc3MyRzN2VnJ0QzlSNnJSNlBqcTRYYU9GcWgyODc5dlN6UWVXS1pTaXItdS00amJoclZLWmFMMFN4Nm1qWFRMck9uUkFDWXY?oc=5",
-      "summary": "Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific Singapore Business Review",
-      "published_at": "2026-06-08T03:51:05Z",
+      "id": "349437ebe69f8556db89343c",
+      "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
+      "summary": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes",
+      "published_at": "2026-05-31T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
+    },
+    {
+      "id": "58a1ba817b88c3fb11335b49",
+      "title": "Best Wi-Fi 7 Routers: 2026's Top Five - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZVJGbzEyWm5PTkVTZkFtTVhEZnJHMmRCN1hPcEhKdk96MTJEMmNmdzdGUkczbXFZXzEyVXNWTVlOOS1OMzNpbVlJcXVUQXhBSWlMb1Nn?oc=5",
+      "summary": "Best Wi-Fi 7 Routers: 2026's Top Five Dong Knows Tech",
+      "published_at": "2026-06-09T16:56:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
     }
   ]
 }

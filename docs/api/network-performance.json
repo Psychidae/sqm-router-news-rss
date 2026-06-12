@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-11T23:52:03.650392Z",
+  "generated_at": "2026-06-12T05:00:31.077100Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,11 +31,11 @@
       "score": 9
     },
     {
-      "id": "02812a1e834d5f56fa1797fa",
-      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUS1PdG51c01BX2dsNFM0bDlDVnUxa09sRVBNZDItUjU5V1drYUpRWFdvMmVFMlRPczgzTHVWRm5wdXlOV0hCM3hpTWlvcmZGR3ZYY3ZHeXBKcDNFZHJmbTRnbmNGZ3F3WmZBTDVoRXZ6bW5FWVE?oc=5",
-      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ニコニコニュース",
-      "published_at": "2026-06-11T13:18:23Z",
+      "id": "6e4486fe2e595b15f612aab4",
+      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - Mantan Web",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNmhDSzJOMFNOZllseDlKU01FMTZHRG9TY05JU3UwWFVQbjQ0d3dBeVJIaEpGRzBhTzRwcGluSGMzSk1fWUZxNkdpMS04N0drWGxfNl9xT1cwdFhOLW5kQTd6MnF5R3BTOUJkM09fNzdVcjFnWDA2bkxnWTIwcUtqdkNha29FU0Vt?oc=5",
+      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 Mantan Web",
+      "published_at": "2026-06-11T23:38:41Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -47,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RNXd6RGNlQVdNVDZSb2MwejVOQWZWa3lYVE9NbWZpMG9CYVhzdXdkUHJwUDVnQWoyMWVfaTBERU52NTJGRGJFTk15MkxSd2dzZTczdk8tWG84S0tLdGFwY0ZRa2R6U1BL?oc=5",
       "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入（PR TIMES） 毎日新聞",
       "published_at": "2026-06-11T06:21:26Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "914b246103d273d0571094dc",
-      "title": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5",
-      "summary": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES",
-      "published_at": "2026-06-11T01:00:02Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -86,15 +75,15 @@
       "score": 8
     },
     {
-      "id": "3113f16fb48d080b704cb9e9",
-      "title": "Campuswide internet outage to take place early Tuesday - Case Western Reserve University",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5",
-      "summary": "Campuswide internet outage to take place early Tuesday Case Western Reserve University",
-      "published_at": "2026-06-09T01:03:44Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "914b246103d273d0571094dc",
+      "title": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5",
+      "summary": "SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES",
+      "published_at": "2026-06-11T01:00:02Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "42be1aea483acd7ebc78f606",
@@ -115,6 +104,17 @@
       "published_at": "2026-06-09T16:22:23Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "3113f16fb48d080b704cb9e9",
+      "title": "Campuswide internet outage to take place early Tuesday - Case Western Reserve University",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5",
+      "summary": "Campuswide internet outage to take place early Tuesday Case Western Reserve University",
+      "published_at": "2026-06-09T01:03:44Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     }
