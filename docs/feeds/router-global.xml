@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 15:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:18:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
@@ -120,20 +120,6 @@ Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, Sm
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific - Singapore Business Review</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOcjdjLXM1S2VUc2dXZG9WM2RFcFhiSVpJS0ZHQ1h0Yy1FMWN4WFNrcHZUcVJqWG1YNUw3VFkweGs2MXhfZjhGNE5lc3MyRzN2VnJ0QzlSNnJSNlBqcTRYYU9GcWgyODc5dlN6UWVXS1pTaXItdS00amJoclZLWmFMMFN4Nm1qWFRMck9uUkFDWXY?oc=5</link>
-      <guid isPermaLink="false">7bbad609a61a79b52f3fdde4</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-08 12:51
-Wi-Fi 7 penetration hits 25% in Singapore, outpacing Asia-Pacific Singapore Business Review</description>
-      <pubDate>Fri, 12 Jun 2026 12:29:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-12T12:29:11.653040Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T03:51:05Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5</link>
       <guid isPermaLink="false">349437ebe69f8556db89343c</guid>
@@ -144,6 +130,20 @@ GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes<
       <pubDate>Fri, 12 Jun 2026 05:00:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-12T05:00:28.476874Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-05-31T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Best Wi-Fi 7 Routers: 2026's Top Five - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtZVJGbzEyWm5PTkVTZkFtTVhEZnJHMmRCN1hPcEhKdk96MTJEMmNmdzdGUkczbXFZXzEyVXNWTVlOOS1OMzNpbVlJcXVUQXhBSWlMb1Nn?oc=5</link>
+      <guid isPermaLink="false">58a1ba817b88c3fb11335b49</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-10 01:56
+Best Wi-Fi 7 Routers: 2026's Top Five Dong Knows Tech</description>
+      <pubDate>Fri, 12 Jun 2026 18:18:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-12T18:18:51.935498Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T16:56:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
