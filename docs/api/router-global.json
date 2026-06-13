@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-13T15:07:51.491908Z",
+  "generated_at": "2026-06-13T16:44:15.617927Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,6 +86,17 @@
       "score": 12
     },
     {
+      "id": "3f844d8c77a11e9c48f06b14",
+      "title": "Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX1U5eXpwS05NRzl3TVZoeElYYXktRXZqRnRXTlY4MWdOS3laOEU0dllVcU95LUQ5UnZOQ1lDc2Z3aUJVdVZDZ29JQ2FmcERpMnJIdHQ2dm5VVGwzZmFGQkVESEZ2Y3Yway0zZ2JYSjF0cjh0bGxJZnNMZ19vWXFnS1pjY2hWSFJ5cnMw?oc=5",
+      "summary": "Prime Day buildup triggers a record low price on the Eero Pro 6E mesh router Android Authority",
+      "published_at": "2026-06-02T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "349437ebe69f8556db89343c",
       "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
@@ -95,17 +106,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "adddb413b6d31f7adaae8e4b",
-      "title": "The 5 Best Long-Range Wi-Fi Routers of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Lbmg1OWlZOERkUTBnVjNnUU1JbFNIc2tibGQtcndfc3BISnh6UjlDeGtzTGxuY2FDajF3TFc5eHdjUzZqZkFOa0Rmc1diYTRJRGZ0M2x1RTlUX3EyNUpiMTlWbw?oc=5",
-      "summary": "The 5 Best Long-Range Wi-Fi Routers of 2026 RTINGS.com",
-      "published_at": "2026-06-11T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     },
     {
       "id": "58a1ba817b88c3fb11335b49",

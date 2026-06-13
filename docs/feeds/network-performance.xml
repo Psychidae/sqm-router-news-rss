@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 15:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:44:17 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] SLED Investigating ‘Internet Outage’ in Spartanburg County - FITSNews</title>
@@ -18,6 +18,34 @@ SLED Investigating ‘Internet Outage’ in Spartanburg County FITSNews</descrip
       <pubDate>Sat, 13 Jun 2026 00:06:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-13T00:06:15.857576Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-12T20:33:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] SpaceXのスーパーコンピューターがつまずく：チップ混在とネットワーク遅延で「Colossus 1」の全計算能力を外部貸出し - finance.biggo.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUYnowUGJfVWJGX2RjaVB5aHpaZE9qY3hpUjFFNGIwVzRkVi1rZE1aNkMyUWJIazdlcjV6Tm5najNLcFBNVzdZcmNHQ2kzZ0pMMDlkeGxBLTlGUWZVU3pj?oc=5</link>
+      <guid isPermaLink="false">d414a9e2c52cee0387315272</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-13 18:05
+SpaceXのスーパーコンピューターがつまずく：チップ混在とネットワーク遅延で「Colossus 1」の全計算能力を外部貸出し finance.biggo.jp</description>
+      <pubDate>Sat, 13 Jun 2026 16:44:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-13T16:44:17.308584Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-13T09:05:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Spectrum Outage Hits Coastal Bend in Internet Outage - El-Balad.com</title>
+      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BdnBkUnlaZU5vdmhEeXkwNmtmR3I4V1JLZEdLYWhnZ01tUy16MEtLWEFPOTVCQ2UwdndCa2VEYWdDVjZBQTBiaA?oc=5</link>
+      <guid isPermaLink="false">8270989e2da3eb20e7feac9e</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-12 23:46
+Spectrum Outage Hits Coastal Bend in Internet Outage El-Balad.com</description>
+      <pubDate>Sat, 13 Jun 2026 16:44:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-13T16:44:17.308584Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-12T14:46:07Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,20 +120,6 @@ SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Internet Outage Statistics 2026: Frequency, Cost and Causes - SQ Magazine</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQlRreURIVTFsSXpyRVotbng5c0dsWFMyUlVhTjJtQTRETHVZajYwTVV0NjR1U3NVYWZETG5zc2dHc1ZhMjFUVURDZ3l3QTlHemdPVEh0Rk8zWXhqNGpDUGJ3?oc=5</link>
-      <guid isPermaLink="false">54221420271567250fb8a0d4</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-10 22:57
-Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine</description>
-      <pubDate>Fri, 12 Jun 2026 22:45:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-12T22:45:39.505022Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-10T13:57:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature - ISPreview UK</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOcGxENV9IbHAzZUtHRWZPdzAxNV9zNXNEYXFVQS13RUNWNE05dTdoQ0RXSnNMLXIzZF9uRC1TWWVvV2N3LVNKaXRBTm1UdTRqQXhkYkExOGJkRlkxdl9qRFp6bW9RTGpobXA1VHdIQzlEaXpoUmE5SldJUmdockU5bVdtRkFxLUlPcU5XWmVDaWEzV25QTGlJVnVvZjRSZnQtMWJTQTBnNERkaXJiOS13Zy1iMDJGTWpybWRHZFh3?oc=5</link>
       <guid isPermaLink="false">228bbcd80694d9706b3b23aa</guid>
@@ -120,31 +134,17 @@ Sky UK Cuts Live TV Sport Streaming Latency with New Real Time Feature ISPreview
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Campuswide internet outage to take place early Tuesday - Case Western Reserve University</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9WSkh4ajFNVkZNcVpUQjNVX1Z4ZTROZ0J3clIxRFFKOE5iOFA4SjZyYVZEYk5NUHRxTGdfSVY5MmVEeHRNLVFWQUxweElLUlpUWmF4YVl0WUJ0UWhGNDl5elcxT3IxcERUQkZlTFJzMk0zSW1LQjRya0kxVnM4QQ?oc=5</link>
-      <guid isPermaLink="false">3113f16fb48d080b704cb9e9</guid>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-08 16:00
-Campuswide internet outage to take place early Tuesday Case Western Reserve University</description>
-      <pubDate>Sat, 06 Jun 2026 05:39:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-06T05:39:43.794006Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage halts domicile services - The Express Tribune</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPSlQ1djBkSjYxUDdXOU5lVld4YlZPRktsd21sNU1MMjlxOE5UZmhMclo5aWcwb3NYcHR0aUk0WURycjkyQnJTQTZoZjVzLXItdVRROFowalo5R2x6YU5NLUhsMDdDTVVaTzhCblRtZFZTZi1XaWRjZk5HZEtUUVNtblZn0gGKAUFVX3lxTE1QcWt5aFFzTUx0dDlaY2w0OEFOdlVRTlptakIxVXdmNE9kcURfM3BVVU8xMHJpTlBfRUptUGNPd2U0SHdCZ1E2Y2tGd1lZZ2xXaUF2MVdYa240cnlCZXQ0UnZfSEd5SFdjTHJkUDZHWFYtUTdGcDdtNnFoanZVNDV0UVJzUllhUl9PZw?oc=5</link>
-      <guid isPermaLink="false">4d7afd55a5ee89c39f1a9716</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-08 05:57
-Internet outage halts domicile services The Express Tribune</description>
-      <pubDate>Fri, 12 Jun 2026 22:45:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-12T22:45:39.505022Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-07T20:57:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-06-09 22:45
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Sat, 13 Jun 2026 16:44:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-13T16:44:17.308584Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T13:45:52Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 15:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:44:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch</title>
@@ -32,20 +32,6 @@ CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</de
       <pubDate>Wed, 10 Jun 2026 14:00:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-10T14:00:34.153721Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-10T12:47:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability - Zamin.uz</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkJPamlQaG5ZZVQ3UWlxZnN1UFZnbFJIWkZsVWZaZ3pWNkFDUWMtSzRjME1ETXl6WFN4RTRzZGFIaXFyejRTR2RpTFJYc2pXbFFwVm0tMFluTmpnR2NYRjdSakJPcnZvdHJKaWJTbVVUZEpNN1JLTGxFUGZyaWlHZ3BBVXI1SFFtNklBNXhQZGd0VGFsUUpfY3VTY2xWU3lJcmNiczN5Y2EwUEhlLVRHUg?oc=5</link>
-      <guid isPermaLink="false">591c97906bad9f62b10bc361</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-10 02:57
-CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability Zamin.uz</description>
-      <pubDate>Sat, 13 Jun 2026 15:07:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-13T15:07:52.394997Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T17:57:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
