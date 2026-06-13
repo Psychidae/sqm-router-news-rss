@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 19:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 21:37:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] SLED Investigating ‘Internet Outage’ in Spartanburg County - FITSNews</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjU2UTNvZDdyS2E5NGp4SkYyZUdRRUhYWXk3RkNkMWFiejlYdGtSSVh6eFU3eXJlMW93dXYzSUpQNEFEMFNaUm5pMzRhblBfMG9taDhuSm00d1dNNzc0YndmRGs5aTZuNnJTODllcWxUYmVIOVQ0NUhKTWxqbWd6dmRZRGtkdXlSMjBsekloZF9iQVJCVjZXOA?oc=5</link>
-      <guid isPermaLink="false">02efe0540cf1f7430c31c5cd</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-13 05:33
-SLED Investigating ‘Internet Outage’ in Spartanburg County FITSNews</description>
-      <pubDate>Sat, 13 Jun 2026 00:06:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-13T00:06:15.857576Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-12T20:33:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] SpaceXのスーパーコンピューターがつまずく：チップ混在とネットワーク遅延で「Colossus 1」の全計算能力を外部貸出し - finance.biggo.jp</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUYnowUGJfVWJGX2RjaVB5aHpaZE9qY3hpUjFFNGIwVzRkVi1rZE1aNkMyUWJIazdlcjV6Tm5najNLcFBNVzdZcmNHQ2kzZ0pMMDlkeGxBLTlGUWZVU3pj?oc=5</link>
@@ -33,6 +19,20 @@ SpaceXのスーパーコンピューターがつまずく：チップ混在と�
       <sqm:firstSeenDate>2026-06-13T16:44:17.308584Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-13T09:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] SLED Investigating ‘Internet Outage’ in Spartanburg County - FITSNews</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjU2UTNvZDdyS2E5NGp4SkYyZUdRRUhYWXk3RkNkMWFiejlYdGtSSVh6eFU3eXJlMW93dXYzSUpQNEFEMFNaUm5pMzRhblBfMG9taDhuSm00d1dNNzc0YndmRGs5aTZuNnJTODllcWxUYmVIOVQ0NUhKTWxqbWd6dmRZRGtkdXlSMjBsekloZF9iQVJCVjZXOA?oc=5</link>
+      <guid isPermaLink="false">02efe0540cf1f7430c31c5cd</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-13 05:33
+SLED Investigating ‘Internet Outage’ in Spartanburg County FITSNews</description>
+      <pubDate>Sat, 13 Jun 2026 00:06:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-13T00:06:15.857576Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-12T20:33:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
