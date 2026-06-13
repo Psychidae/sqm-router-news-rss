@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-12T22:45:37.397122Z",
+  "generated_at": "2026-06-13T00:06:13.731492Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 22
     },
     {
       "id": "1d5ae5f0990f78466646df47",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
+    },
+    {
+      "id": "beeb04565eb0a30555a945e6",
+      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-06-07T12:41:32Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
     },
     {
       "id": "534108aeda5158d8baa30e89",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0pJZE1XbVZVdC1fWnB6aDJwRmlYQUdJSDhRMGcxamd0d3JCdktQUEE0LUg1ZTltMWQ3dlV4dV9mOUN2LVBXZHNCVzhkYm41TDdsOTZGMWRWeER2WkhsWWl3aWYwZU5QZkJFZVdRbkFFX2J0TmttU25aR2VVRE9RZmpacW1uRkR0UHRUZkpDdWpGeUgxZUVEUU91SU5mV3NlZWFfaE85ckFXdk1tVGs3aUNiVEJOTGM1MDhubmZnUlYtWTBvUkRDSTl4NTBkaU5yM21GRlFUaXpwX05FTS1j?oc=5",
       "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN",
       "published_at": "2026-06-01T21:29:31Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "349437ebe69f8556db89343c",
-      "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
-      "summary": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes",
-      "published_at": "2026-05-31T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

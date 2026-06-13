@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 22:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:06:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
@@ -33,6 +33,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <sqm:firstSeenDate>2026-06-12T22:45:37.396114Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-04T17:07:36Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5</link>
+      <guid isPermaLink="false">beeb04565eb0a30555a945e6</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-06-07 21:41
+ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming</description>
+      <pubDate>Sat, 13 Jun 2026 00:06:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-13T00:06:13.730505Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-07T12:41:32Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Fla
       <pubDate>Fri, 12 Jun 2026 22:45:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-12T22:45:37.396114Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-01T21:29:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5</link>
-      <guid isPermaLink="false">349437ebe69f8556db89343c</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-05-31 16:00
-GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router Forbes</description>
-      <pubDate>Fri, 12 Jun 2026 22:45:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-12T22:45:37.396114Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-05-31T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
