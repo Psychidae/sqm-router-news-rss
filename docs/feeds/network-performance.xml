@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 08:30:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] SLED Investigating ‘Internet Outage’ in Spartanburg County - FITSNews</title>
@@ -46,20 +46,6 @@ Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine</descrip
       <pubDate>Tue, 09 Jun 2026 04:35:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T04:35:05.046840Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T23:02:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] CTの位相遅延が電源不安定を引き起こす？沃虎がRC進み補償ネットワーク設計を詳解 - finance.biggo.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM2RtVmo5cnEtc0w3WVhjMVUwaGZ4b2tYbnM5cmlsbjh2eFBfWGlKa2loa2s1TVJMUDNLN2oyZ2FjMGYzcVc1QllEdXJzYkZmQ2ZzMmJ1eWxTY2VnaHlB?oc=5</link>
-      <guid isPermaLink="false">2f6becaeda57800ad895d78a</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-12 04:22
-CTの位相遅延が電源不安定を引き起こす？沃虎がRC進み補償ネットワーク設計を詳解 finance.biggo.jp</description>
-      <pubDate>Sat, 13 Jun 2026 00:06:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-13T00:06:15.857576Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T19:22:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
