@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Jun 2026 11:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 12:56:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5</link>
-      <guid isPermaLink="false">433ae74e926dce6f9387c3b4</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-10 21:47
-CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</description>
-      <pubDate>Wed, 10 Jun 2026 14:00:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-10T14:00:34.153721Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-10T12:47:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] 「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNb2JnXzFGQlkzeWZDSlRRNmxuOHNQbjFrNVVrNWFXNEpkMHViUDRLMzNrNFhFdzlnTTQ5RE1uYjBHenJ3WW1pY21kZUs0T0pxMkdMMXBFREVHR3NUMGg3TWRaTVE4YmlJ?oc=5</link>
@@ -36,16 +22,16 @@ CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</de
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability - Zamin.uz</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkJPamlQaG5ZZVQ3UWlxZnN1UFZnbFJIWkZsVWZaZ3pWNkFDUWMtSzRjME1ETXl6WFN4RTRzZGFIaXFyejRTR2RpTFJYc2pXbFFwVm0tMFluTmpnR2NYRjdSakJPcnZvdHJKaWJTbVVUZEpNN1JLTGxFUGZyaWlHZ3BBVXI1SFFtNklBNXhQZGd0VGFsUUpfY3VTY2xWU3lJcmNiczN5Y2EwUEhlLVRHUg?oc=5</link>
-      <guid isPermaLink="false">591c97906bad9f62b10bc361</guid>
+      <title>[セキュリティ] CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5</link>
+      <guid isPermaLink="false">433ae74e926dce6f9387c3b4</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-06-10 02:57
-CISA Gives US Federal Agencies Three Days to Patch VPN Vulnerability Zamin.uz</description>
-      <pubDate>Sat, 13 Jun 2026 00:06:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-13T00:06:14.767997Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T17:57:43Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-10 21:47
+CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</description>
+      <pubDate>Wed, 10 Jun 2026 14:00:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-10T14:00:34.153721Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-10T12:47:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -60,20 +46,6 @@ WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation Linked
       <pubDate>Tue, 09 Jun 2026 08:20:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T08:20:12.708044Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T19:00:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - TipRanks</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1dnRjdDOFVYNm13Nmd2NzFkd0tLejVvNXJncHNtblJlOFdEUnRjbGxsR2N4Z0xxeEM1eHItdzBncVkyQzhZYjFVbFJOMmVQdnItcXlaSjZWMGIyODhCWGlrdW5QQVlkTHAzano2M2Nqa1RNQW0xV2VwLUhLRkU1Y0FHSUtyWWtVTWFkZnpVdDlvOFBOMS1YenBtOEttRFY3QWNWSkFJdnBEaGRSVXg1WHA0SXBEUQ?oc=5</link>
-      <guid isPermaLink="false">1e591d8517fe4ba5fade5d3d</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-08 22:32
-Check Point Discloses VPN Vulnerability and Issues Software Fix TipRanks</description>
-      <pubDate>Sat, 13 Jun 2026 11:00:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-13T11:00:58.595214Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T13:32:46Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
