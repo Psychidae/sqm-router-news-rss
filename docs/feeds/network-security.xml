@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 06:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:31:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch</title>
@@ -32,6 +32,20 @@ CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</de
       <pubDate>Wed, 10 Jun 2026 14:00:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-10T14:00:34.153721Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-10T12:47:16Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhQU1FQZ2hKcVM1a0RkVW5HZDBPUjlMaWpSMEhvd3N0MGhxUmFYM3JzYVo1ZUdTejZ6MXZORWx1UjRnTVM1STNvczRlM05qc2R2SG50RjRqWjZjdWkzMHk2TXM2ZlhlelZLandscG5rUlEzdWJxUzVHLUtLQk9FRVh0bzBLbjF4NEdj?oc=5</link>
+      <guid isPermaLink="false">7448890c072f6937818277c3</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-06-09 04:00
+WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation LinkedIn</description>
+      <pubDate>Sun, 14 Jun 2026 10:31:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-14T10:31:30.792826Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-08T19:00:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -88,6 +102,20 @@ Check Point warns of zero-day flaw targeted by ransomware affiliate Cybersecurit
       <pubDate>Fri, 12 Jun 2026 05:00:29 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-12T05:00:29.723084Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T16:08:28Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] C0XMO botnet spreads via DD-WRT router flaw, kills rival malware - BleepingComputer</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWEwN3d6VmpPTFEzR1d6WGJOV05jTXotaTZoWElTRjk3alNoS0JJUlFLMVVsYl8zN0RNT1NLTEZ2VXk0aEx6U1Z0OE9xaGhRSEFJamw1OFFGYXkzTFJkcF9BLVFzUFc4ckdEUUEwQ1dnTDdiVUt0T1VLRWF1TDBoSzBSbnh4Sm5WMGVEWkRQMHVtb3dKNHpGeXMtbU81Uk1hbjNXdU5yZVlVQ3pDcnkya9IBtgFBVV95cUxNYm52QS1kMVNHaFY5VzdOU0JjU3RrUF9ZaTEtOTBSU2tqRmxYV0dVRlc0cm5fZVVwX3RVUm56bjlvUExiQURxUU9hbzVzWUUxUGlTVEVnWW9UV0JzY3hLYjRSMnQyOFhsTEtYNnZlOXhzMmcwTnVQUmY1akkyRTBxejVIbzJ5VHN5WmNKS3NOYUpIdUlqUlZTM04wQk5Wcjl1QmpFRWhra2lXMzkzXzdGdHhoRG5GUQ?oc=5</link>
+      <guid isPermaLink="false">c62078219fb2ebd713da5118</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-06-07 23:17
+C0XMO botnet spreads via DD-WRT router flaw, kills rival malware BleepingComputer</description>
+      <pubDate>Sun, 14 Jun 2026 10:31:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-14T10:31:30.792826Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-07T14:17:46Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
