@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-14T18:02:11.762453Z",
+  "generated_at": "2026-06-14T19:56:07.715856Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,28 @@
       "score": 22
     },
     {
+      "id": "1d5ae5f0990f78466646df47",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVJRZUdnbmJJUm5peTFNVmRpY09CVFBoM29ia0xCZzItZ3dVcDR6MW1uanlRWGk0SXdvcG1fY2lyeGtOVW5abzJRWUI0VEQ4aXFGdnpkNEJCYk1xS0Z4SC1ncG92OFNLYUVYT3duUHBjY09PUHBnU0tuUi1iakVRLU9xWkl1S1ZGLXFBbjBFdHNtQ211d2s5VjVvd2w4WWFvM1J4M3B6M1pxalF4ZzhGdldmZWxjLS1RNnk2eXFMZnFVa3B3OGY0?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-06-04T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 21
+    },
+    {
+      "id": "beeb04565eb0a30555a945e6",
+      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-06-07T12:41:32Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
+    },
+    {
       "id": "534108aeda5158d8baa30e89",
       "title": "Should you switch to a Wi-Fi 7 mesh router? My home testing reveals what got better (and what didn't) - ZDNET",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUFKZU14ekdVSmdOQWhPVDZJR0JDRkl6RzZSRU9qdHViMkc4R3RsWDEwWF9VcHloWFUzZjNUSXlTcG9yd19tdkxESFlockNLZHp2YWJfMEMwRF81NHNZVkJPS01PeGRtdEpVeVRYS3NuODBwOFNUWHhSV2JqTDZqV2w5bi1jdDdsYm5fZ0E1YWFsRGdmMGZhR2Nn?oc=5",
@@ -31,24 +53,13 @@
       "score": 15
     },
     {
-      "id": "cc2cc40ac8944a40be9cfae0",
-      "title": "Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Max, and Outdoor models from $235 (All-time low) - 9to5Toys",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnZCZEFLa3RuS0Zfem0tRXdhQlRIS3B0b0NtYkh1ZDdJV2syeWlwZU5ZQ0NRUWQwRkxLU3d6LTAxWHhzYU5raFNabks3cUROVjBkVHRSX3k0b3FaZnkxdUhFUW5zXzBOc0pkejRQdV9OR2l1MVpvRTJvcXh5MEN5ckZhZmpnNUNLNWZzX1VlY2JJcTY5WW9vVWNwR05KMVR4Ql94WnpPQnVEZ1M2YkE?oc=5",
-      "summary": "Early Prime Day deals now live on Amazon's eero Wi-Fi 7 mesh routers: Pro, Max, and Outdoor models from $235 (All-time low) 9to5Toys",
-      "published_at": "2026-06-10T11:36:00Z",
+      "id": "e0866156661cfd27e194172d",
+      "title": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjJia1NHQ2Frai1adUk0Qm44N2t3WVc4TU5jSUlOODJiOUZZdXluLTFEV1NYNzh6OTRFQnFIQ3M5Skk0WnI3Q2Y1Rndnd3ZtNUdsdzlkblVDWWxrRGhxVllzMDNtZzFubk5uQXRHczFHLU9pd1djQUlzMjNuUjhoRTQ5OWZLZDlsRVUwWVl3?oc=5",
+      "summary": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature How-To Geek",
+      "published_at": "2026-06-09T19:25:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "23b50ffca22e89439386bf4f",
-      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
-      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware",
-      "published_at": "2026-06-09T17:35:21Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
@@ -86,10 +97,10 @@
       "score": 7
     },
     {
-      "id": "b1c6db919b36fe75dcfe86c8",
-      "title": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHlwLWRoQXNQYnJQR0xNZHExVzBCZlpCRU1GVzZOVGNNWUl6SlQzQ0d6V3RVN2drdUQyMkxhdC0tVTZfSDJQdVk4dFl6QUJBNW9zQm9vZjhJM1VfbEVqMG45alkxZFRJVzB3V2FuX1RzQmo3NW1YR1UzTFNoUW9pZ1dQV0dpd2lMNFAxRVowbXpUdw?oc=5",
-      "summary": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever PCMag",
+      "id": "b99ff37ec6e73c2116ae71a9",
+      "title": "4 Underrated Router Brands That Can Compete With Netgear - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMSGhfbWp6RlFkX1NUOG9oVjZRTmxldUZjbmhSWDFEc2N4d1hNc1JOc1F4MmJWZmdSZTdRa0ZiWDcxZHlXUV95dktkcmk3ZEVrUXdPeEkxb25yOF9EdWc3U0NJVnBOc1p3X1M4emF4TjJERlJZWTVjVQ?oc=5",
+      "summary": "4 Underrated Router Brands That Can Compete With Netgear bgr.com",
       "published_at": "2026-06-05T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -97,24 +108,13 @@
       "score": 6
     },
     {
-      "id": "e9a2f4bdf053ef70e4c2e54b",
-      "title": "Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWjRTNDVfZWd5MERtdVhJRDJCRkNZUGR4OWZuQWtrUVpqeDlyei1aTTlRWjBaMjVtUGNuWm04NDB4WnhIdUl2SmNuSWR0XzlzdHE0RG02aGlTbmdX?oc=5",
-      "summary": "Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five Dong Knows Tech",
-      "published_at": "2026-06-03T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
-    },
-    {
-      "id": "3499fc1839211200f7dee948",
-      "title": "Best Mesh Wi-Fi Routers for 2026: Our Top Picks After Testing Range and Speed - CNET",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFYkpWc2l3bGdNWTR6M0UxaVlERzVuZ0JtbHNBaE52RkF3SU80NzJ2dzVUVFhkOGw2bkY0SzhXMVVlVVVwcEh2alhBdkxGSW1Ba0Q1R1BVLTFjTkVPOHltZGp1S3BlQTZyZ3c?oc=5",
-      "summary": "Best Mesh Wi-Fi Routers for 2026: Our Top Picks After Testing Range and Speed CNET",
-      "published_at": "2026-06-02T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "b1c6db919b36fe75dcfe86c8",
+      "title": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHlwLWRoQXNQYnJQR0xNZHExVzBCZlpCRU1GVzZOVGNNWUl6SlQzQ0d6V3RVN2drdUQyMkxhdC0tVTZfSDJQdVk4dFl6QUJBNW9zQm9vZjhJM1VfbEVqMG45alkxZFRJVzB3V2FuX1RzQmo3NW1YR1UzTFNoUW9pZ1dQV0dpd2lMNFAxRVowbXpUdw?oc=5",
+      "summary": "Give Your Network an Early Prime Day Refresh: This Amazon Router Just Dropped to Its Lowest Price Ever PCMag",
+      "published_at": "2026-06-05T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 6
     }
