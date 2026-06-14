@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-13T23:47:05.236495Z",
+  "generated_at": "2026-06-14T02:02:20.233919Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
-    },
-    {
-      "id": "beeb04565eb0a30555a945e6",
-      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
-      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
-      "published_at": "2026-06-07T12:41:32Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "534108aeda5158d8baa30e89",
@@ -86,6 +75,17 @@
       "score": 12
     },
     {
+      "id": "23b50ffca22e89439386bf4f",
+      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026 — the best of Wi-Fi 7 from budget to premium Tom's Hardware",
+      "published_at": "2026-06-09T17:35:21Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "518a8d7c10398b4205463b67",
       "title": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE - Notebookcheck",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZLbVl5czNhQVdLQ0xYdUVNYmZsU0x5Yl95ZElNVEplZE5YVTcxUmlKV2NVbTJ2UTlkcks2Yi1VcjJ4a0RTYlF1ODZGaE1CaDBKcU42OEVmczFCVU5Hai1uX2RhcE5qVHltUHgtR2F4NURnWFctTElkcVRkUVY1WmFIemt3S2pCd214RzcyQzRVSEZPNE95cDBieHZPUXR6N0JWUWtOM0lMdlN2ek96dUFneDVZSTJMLVhOTVhvOFRydFNpdHk2UGU2V28zaUF0RGdfVTgwVQ?oc=5",
@@ -97,6 +97,17 @@
       "score": 12
     },
     {
+      "id": "8bba92afda62296eb55151ef",
+      "title": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX0pJZE1XbVZVdC1fWnB6aDJwRmlYQUdJSDhRMGcxamd0d3JCdktQUEE0LUg1ZTltMWQ3dlV4dV9mOUN2LVBXZHNCVzhkYm41TDdsOTZGMWRWeER2WkhsWWl3aWYwZU5QZkJFZVdRbkFFX2J0TmttU25aR2VVRE9RZmpacW1uRkR0UHRUZkpDdWpGeUgxZUVEUU91SU5mV3NlZWFfaE85ckFXdk1tVGs3aUNiVEJOTGM1MDhubmZnUlYtWTBvUkRDSTl4NTBkaU5yM21GRlFUaXpwX05FTS1j?oc=5",
+      "summary": "Huawei Router X1 Pro Gaming Edition launched with Wi-Fi 7+ and built-in Star Flash gateway MSN",
+      "published_at": "2026-06-01T21:29:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "349437ebe69f8556db89343c",
       "title": "GL.iNet Releases The World’s First True Tri-Band Wi-Fi 7 Travel Router - Forbes",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNklZdlktblBqX19xbmFDMVZVdmNBRGJINFJPb0xfd2MwTnhNMzN4ZTg0dDdGSFZCREN4Q2thakdWRS00YWR4ZFpOSFhqenk5RDhVcy0zT2hCMHMyWndDRElTUGVVYkV3YTRBQkJxZDFqNlBrNFdNLWhzbUlvd0MzYzhWbDB3aFRRS0lqM2tPd0l5SUVmeUFYVkFZdW43aS1kYU1qLXBldWs0OWgxRTc0eVhIY2VZYzBUdkJuNC1R?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "7c09ebac7cc13cb94a457ff5",
-      "title": "The 5 Best Wi-Fi 7 Routers of 2026 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16VF9uTlBFZnFCR01KSTNmNnE2SnJUVnhrNEw2MUZxX1BwSnhxcl9hOWozRExwMm9DNExzVzFyXzlKTTNLbzdadVdManhEZGFIc1FINVJXamozcTJ3cWJn?oc=5",
-      "summary": "The 5 Best Wi-Fi 7 Routers of 2026 RTINGS.com",
-      "published_at": "2026-06-11T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }
