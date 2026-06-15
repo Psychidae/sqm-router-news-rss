@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-15T01:39:54.974936Z",
+  "generated_at": "2026-06-15T06:59:33.337727Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "433ae74e926dce6f9387c3b4",
+      "title": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5",
+      "summary": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in",
+      "published_at": "2026-06-10T12:47:16Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
     {
       "id": "7448890c072f6937818277c3",
       "title": "WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn",
@@ -42,17 +53,6 @@
       "score": 12
     },
     {
-      "id": "148a4217f2c709e89b22b01b",
-      "title": "Patch Critical Check Point VPN Vulnerability (CVE-2026-50751)- Check Point Blog - Check Point Blog",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjJxdndMVDZGamZIcjNBTVZhUzBYQmRTOWdKYlRGQVZNSnB2U3lkbmhaTFZ4anlTR3p2VFM2ejJ1Zm01YnNQS1lqRV95MFBrREs4Mkl6alBzSXF1bmRYVURtZ0RtRExzRkFPZzVTX3F5Ym01WnJXX2xmZ0VXNE9ZNzdrVlFaZ21DeGZlRU9tQWpZZmJ4Y3paTlFrSzBsREk1M1BBUzRBT0RtN1I5SWU4LWtNa0lnY2Y2LWh3UVBkQkRQY1NianFB0gHMAUFVX3lxTE45blE1MFhFc0YwWmYxQ0QyNS1PMHhCX0lDeGFhaVRWSlh3UERJYnNWWm8td043R09UZ1BmTmRoaGJCVXVDaGlZcGF3bFJSczhJanliSGljclpLM2RUQzJ5aWhfZENCWE1iUmJBanpNSENSR2JSd2tnQW9Mc2NMaVdiMkdyeEJJa19salFsZXZtdXN0U3Q3QnFFaE4wZjQzRkN3UmVubFZLR2hMZ0NZcDNHcjNtS2ZXZUh5MUtsRW81Z3FvOWdFUWlSWUtOeA?oc=5",
-      "summary": "Patch Critical Check Point VPN Vulnerability (CVE-2026-50751)- Check Point Blog Check Point Blog",
-      "published_at": "2026-06-08T03:35:06Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "1fead23c39c18fbd156ffd92",
       "title": "「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNb2JnXzFGQlkzeWZDSlRRNmxuOHNQbjFrNVVrNWFXNEpkMHViUDRLMzNrNFhFdzlnTTQ5RE1uYjBHenJ3WW1pY21kZUs0T0pxMkdMMXBFREVHR3NUMGg3TWRaTVE4YmlJ?oc=5",
@@ -73,6 +73,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
+    },
+    {
+      "id": "f2b6affb7be5237252e16bf7",
+      "title": "三菱電機のエアコンなどに脆弱性、第三者に設定変更される可能性 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55VXZrVmw3aExLOUYtV2FoYkQ4eUZCaEthQUhueFF0cU1FSjdTVGs0ejVBZ1RNYWNtV1JGQk9reER1Y3RtREdtY2gzWjYzQ0pLbjdRNGRXWGFKRXVsSWhHQVgyUFY3YTNWdVJJNlBSUFl5UEZTd1MweWZCdw?oc=5",
+      "summary": "三菱電機のエアコンなどに脆弱性、第三者に設定変更される可能性 ニコニコニュース",
+      "published_at": "2026-06-15T04:42:08Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
+      "id": "a7f87ce2b9d3a0cb7d52165c",
+      "title": "三菱電機のエアコンなどに脆弱性、第三者に設定変更される可能性 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fYUdHMVRsRVUzVng1cTRwMGs3NEZPcFVaVlJjLVhGanRWVHZNT196dVRZME83czN4M3VXMXpjVWJjR0lGMDd3RzhuYTloSDZDRmhGMw?oc=5",
+      "summary": "三菱電機のエアコンなどに脆弱性、第三者に設定変更される可能性 ASCII.jp",
+      "published_at": "2026-06-15T04:25:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     },
     {
       "id": "afeeebe9d6af1dd68cc84dfa",
