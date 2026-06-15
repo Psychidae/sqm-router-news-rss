@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-15T21:21:22.163131Z",
+  "generated_at": "2026-06-15T23:23:06.070354Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -68,17 +68,6 @@
       "title": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HOFlnWU16Rk5FblVqV29OczdnOXQwdENZOHZUNnUtbDdCOE5xOVFLNzBiMnljV2FZQTJhU1lyeFlmNFJucW4ycEJEOGl1bzZBeWQ2X2lsX0NPN2V4ZThmSFMwSS14TVl2c3c?oc=5",
       "summary": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 PR TIMES",
-      "published_at": "2026-06-09T00:30:09Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "899777ebef56e3b150936900",
-      "title": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 - 産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wbVZHNnFqRWNmcFB6UnVTNVpTZ19IbTZTZmV1bEVjX3NKWXlCVzQ0QXdGY1YweEhjZWEzV2NkVVNOdXNqWG50Qi04WUM4d1VTTDFkbnI3bjVROENHMkxiYjFCdC1YVDNNTDNfWFNESEhqaWU1dGN1Rkt5MA?oc=5",
-      "summary": "「脱VPN」と「セキュリティ強化」を両立！ Zscalerで実現するSASEの要点と導入効果を解説するオンラインセミナー開催 産経ニュース",
       "published_at": "2026-06-09T00:30:09Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
