@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-15T06:59:33.337727Z",
+  "generated_at": "2026-06-15T13:25:44.296906Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "ccea93f130e5b74124ead490",
+      "title": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5",
+      "summary": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr",
+      "published_at": "2026-06-15T09:22:00Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 14
+    },
+    {
+      "id": "493d044919bf6d15556b5166",
+      "title": "Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMC1tSWlIR2t1ajFLRWRJckZHM3ZjeWdaUWxiSEM1bko0VTRYd1hoSTJPYnRIOU1tTEhhZ09WRVpOSTJSODZTRHlyUEllUV9IcFd3Q0hwWGVQdHJXazB2T19SWGtMMXcyWkxNRG1CUjBOSHFPQ25v0gG7AUFVX3lxTE9SNGhhTFBOWWdfa2NraUh0N0w1TTRMSDlDMnpyN1E1bHNIcWI2RHI3NDlJa3phWFpPVGVQWTIwbjZzX0tqMkk1a25XM2s3cV96R2kzcTZaNFM1MC02enlLTkc2cjJMWEhpOG9RUG5sQ3Q1R3pPLVRVeFVxcjBXMjZQMTduejNFeUZ6d0hNTG5CaTliVE5wOThPQUdVOGVBdDVhUFczbXRCUVJFUFo4SnZKR1lXR0U5NWtndms?oc=5",
+      "summary": "Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild CyberSecurityNews",
+      "published_at": "2026-06-15T08:04:24Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 14
+    },
     {
       "id": "433ae74e926dce6f9387c3b4",
       "title": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in",
@@ -20,33 +42,11 @@
       "score": 12
     },
     {
-      "id": "7448890c072f6937818277c3",
-      "title": "WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhQU1FQZ2hKcVM1a0RkVW5HZDBPUjlMaWpSMEhvd3N0MGhxUmFYM3JzYVo1ZUdTejZ6MXZORWx1UjRnTVM1STNvczRlM05qc2R2SG50RjRqWjZjdWkzMHk2TXM2ZlhlelZLandscG5rUlEzdWJxUzVHLUtLQk9FRVh0bzBLbjF4NEdj?oc=5",
-      "summary": "WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation LinkedIn",
-      "published_at": "2026-06-08T19:00:08Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "1e591d8517fe4ba5fade5d3d",
       "title": "Check Point Discloses VPN Vulnerability and Issues Software Fix - TipRanks",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1dnRjdDOFVYNm13Nmd2NzFkd0tLejVvNXJncHNtblJlOFdEUnRjbGxsR2N4Z0xxeEM1eHItdzBncVkyQzhZYjFVbFJOMmVQdnItcXlaSjZWMGIyODhCWGlrdW5QQVlkTHAzano2M2Nqa1RNQW0xV2VwLUhLRkU1Y0FHSUtyWWtVTWFkZnpVdDlvOFBOMS1YenBtOEttRFY3QWNWSkFJdnBEaGRSVXg1WHA0SXBEUQ?oc=5",
       "summary": "Check Point Discloses VPN Vulnerability and Issues Software Fix TipRanks",
       "published_at": "2026-06-08T13:32:46Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "cb44726cdf3ab6189820500d",
-      "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVp2WkttdDQ4RWd5UDlKZjBteG1MLXVfdFZqQ1hlZUZ3R3lEdjJXMVdZa0gwTkF1RmZPYjF2MHBBSUEzNDZYdXRzZ20zVVNSVU0xbTg4ZVhSMEthVzRvYWttN2VJazN0RXhEV0o5M2NmQl8tSGdJQkRFN0NERnVycGlpSDhzeVdCaHhxT2lDNXA?oc=5",
-      "summary": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) Help Net Security",
-      "published_at": "2026-06-08T12:23:16Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",

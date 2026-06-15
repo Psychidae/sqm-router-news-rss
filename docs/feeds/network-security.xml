@@ -5,8 +5,36 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 06:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:25:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5</link>
+      <guid isPermaLink="false">ccea93f130e5b74124ead490</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-06-15 18:22
+Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr</description>
+      <pubDate>Mon, 15 Jun 2026 13:25:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-15T13:25:44.295956Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-15T09:22:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild - CyberSecurityNews</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMC1tSWlIR2t1ajFLRWRJckZHM3ZjeWdaUWxiSEM1bko0VTRYd1hoSTJPYnRIOU1tTEhhZ09WRVpOSTJSODZTRHlyUEllUV9IcFd3Q0hwWGVQdHJXazB2T19SWGtMMXcyWkxNRG1CUjBOSHFPQ25v0gG7AUFVX3lxTE9SNGhhTFBOWWdfa2NraUh0N0w1TTRMSDlDMnpyN1E1bHNIcWI2RHI3NDlJa3phWFpPVGVQWTIwbjZzX0tqMkk1a25XM2s3cV96R2kzcTZaNFM1MC02enlLTkc2cjJMWEhpOG9RUG5sQ3Q1R3pPLVRVeFVxcjBXMjZQMTduejNFeUZ6d0hNTG5CaTliVE5wOThPQUdVOGVBdDVhUFczbXRCUVJFUFo4SnZKR1lXR0U5NWtndms?oc=5</link>
+      <guid isPermaLink="false">493d044919bf6d15556b5166</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-06-15 17:04
+Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild CyberSecurityNews</description>
+      <pubDate>Mon, 15 Jun 2026 13:25:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-15T13:25:44.295956Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-15T08:04:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5</link>
@@ -22,20 +50,6 @@ CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</de
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation - LinkedIn</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEhQU1FQZ2hKcVM1a0RkVW5HZDBPUjlMaWpSMEhvd3N0MGhxUmFYM3JzYVo1ZUdTejZ6MXZORWx1UjRnTVM1STNvczRlM05qc2R2SG50RjRqWjZjdWkzMHk2TXM2ZlhlelZLandscG5rUlEzdWJxUzVHLUtLQk9FRVh0bzBLbjF4NEdj?oc=5</link>
-      <guid isPermaLink="false">7448890c072f6937818277c3</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-09 04:00
-WARNING: Critical Check Point VPN Vulnerability Under Active Exploitation LinkedIn</description>
-      <pubDate>Sun, 14 Jun 2026 10:31:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-14T10:31:30.792826Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T19:00:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] Check Point Discloses VPN Vulnerability and Issues Software Fix - TipRanks</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1dnRjdDOFVYNm13Nmd2NzFkd0tLejVvNXJncHNtblJlOFdEUnRjbGxsR2N4Z0xxeEM1eHItdzBncVkyQzhZYjFVbFJOMmVQdnItcXlaSjZWMGIyODhCWGlrdW5QQVlkTHAzano2M2Nqa1RNQW0xV2VwLUhLRkU1Y0FHSUtyWWtVTWFkZnpVdDlvOFBOMS1YenBtOEttRFY3QWNWSkFJdnBEaGRSVXg1WHA0SXBEUQ?oc=5</link>
       <guid isPermaLink="false">1e591d8517fe4ba5fade5d3d</guid>
@@ -46,20 +60,6 @@ Check Point Discloses VPN Vulnerability and Issues Software Fix TipRanks</descri
       <pubDate>Sun, 14 Jun 2026 22:49:39 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-14T22:49:39.044499Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-08T13:32:46Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) - Help Net Security</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOLVp2WkttdDQ4RWd5UDlKZjBteG1MLXVfdFZqQ1hlZUZ3R3lEdjJXMVdZa0gwTkF1RmZPYjF2MHBBSUEzNDZYdXRzZ20zVVNSVU0xbTg4ZVhSMEthVzRvYWttN2VJazN0RXhEV0o5M2NmQl8tSGdJQkRFN0NERnVycGlpSDhzeVdCaHhxT2lDNXA?oc=5</link>
-      <guid isPermaLink="false">cb44726cdf3ab6189820500d</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-08 21:23
-Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751) Help Net Security</description>
-      <pubDate>Mon, 08 Jun 2026 16:20:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-08T16:20:26.127057Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-08T12:23:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
