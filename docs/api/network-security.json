@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-16T21:18:04.303678Z",
+  "generated_at": "2026-06-16T23:08:57.741712Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 14
+    },
+    {
+      "id": "cc0965858ec624d34cd0b3e4",
+      "title": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqV0lKNjVYLVpsRHB6UEM0SEdUTUdaQ25JX3RUWkJ2TjkydWhlWlBXNkJWUjAxbC1uRHhNcTYxdk14OXpZZDYxWm1qdVUzR3hnNUFXVEpoMUJITXRYcVYxV0ZGZ09mWkpkOEI0?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 INTERNET Watch",
+      "published_at": "2026-06-16T23:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
     },
     {
       "id": "ed19dd87868f73325c8a26f3",
@@ -97,26 +108,15 @@
       "score": 13
     },
     {
-      "id": "433ae74e926dce6f9387c3b4",
-      "title": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5",
-      "summary": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in",
-      "published_at": "2026-06-10T12:47:16Z",
+      "id": "ccea93f130e5b74124ead490",
+      "title": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5",
+      "summary": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr",
+      "published_at": "2026-06-15T09:22:00Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "1fead23c39c18fbd156ffd92",
-      "title": "「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNb2JnXzFGQlkzeWZDSlRRNmxuOHNQbjFrNVVrNWFXNEpkMHViUDRLMzNrNFhFdzlnTTQ5RE1uYjBHenJ3WW1pY21kZUs0T0pxMkdMMXBFREVHR3NUMGg3TWRaTVE4YmlJ?oc=5",
-      "summary": "「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 クラウド Watch",
-      "published_at": "2026-06-11T21:15:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
+      "score": 13
     }
   ]
 }

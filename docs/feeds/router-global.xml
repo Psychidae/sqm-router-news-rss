@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 21:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:08:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
@@ -92,6 +92,20 @@ Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, Sm
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Which Devices Are Compatible With Wi-Fi 7 In 2026? - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE80b2E2bXJjQjYyUnMxNVNDRmE3XzY3UVZpNnE3OHNJbmkxczR5QjNHdGYxYTZKd2ZVWWxqRW9jeXdfRWRTZVp5X2ltNGNMcmdJblg2cWd0TUFyYUhRQWRScDFEemR0VGd4S3NR?oc=5</link>
+      <guid isPermaLink="false">0dea5f83bce66c3e803617e6</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-17 06:47
+Which Devices Are Compatible With Wi-Fi 7 In 2026? bgr.com</description>
+      <pubDate>Tue, 16 Jun 2026 23:08:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-16T23:08:56.723572Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-16T21:47:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Early Prime Day deal on Tri Band WiFi 7 router from TPLink takes 20% off the price - PC Guide</title>
       <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQbFlIb0tSWi1OQXhFaTA1bzJ0WnFndFZNaFZxQ0VuWnlFOVZMOWdOWlZuak9XOUxaU0pVMF9hUmR5NWk1M2dhNTdqRmtQVTJFSGFpcTl1WkpLRlF2TnB5ZkNwRE1JNmF2VGJfb19lYnVsSDBSa3RRbTl6WWR2elFSSWh6NEtWUXJ6bzhXYlJHTUxQMTNvNDNiSUtJVnBINmZULWdPUEMxaDN3eE01czMwQ3V3?oc=5</link>
       <guid isPermaLink="false">8c0f12fa2f281f5df9527f18</guid>
@@ -131,20 +145,6 @@ Best Wi-Fi 7 Routers: 2026's Top Five Dong Knows Tech</description>
       <sqm:firstSeenDate>2026-06-15T13:25:43.343459Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T16:56:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWjRTNDVfZWd5MERtdVhJRDJCRkNZUGR4OWZuQWtrUVpqeDlyei1aTTlRWjBaMjVtUGNuWm04NDB4WnhIdUl2SmNuSWR0XzlzdHE0RG02aGlTbmdX?oc=5</link>
-      <guid isPermaLink="false">e9a2f4bdf053ef70e4c2e54b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-06-03 16:00
-Best Wi-Fi 7 Mesh Systems: 2026's Battle-Tested Top Five Dong Knows Tech</description>
-      <pubDate>Tue, 16 Jun 2026 02:12:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-16T02:12:04.180621Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-03T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
