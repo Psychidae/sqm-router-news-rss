@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-16T17:48:17.998999Z",
+  "generated_at": "2026-06-16T21:18:05.580908Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -20,17 +20,6 @@
       "score": 9
     },
     {
-      "id": "42e6b4030d6cfb2a1e4e9f37",
-      "title": "SPARTANBURG COUNTY INTERNET OUTAGE - FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3dTWE5JLUJvWmpUUWNCNEd4WTRod0hQOWYxUmpxaGt2czFoRnBFQjNtSUlkV0czcFFRUC0tRy04THFmdlBRY0FrMGgtQ0ZWQS10ZHhNR204ZWQ3eXBTZ2VRMDdUWDd4Wk9NWlBINWdVcHBJWmptYzNnMnh2RFVfNmhNM05EcWM?oc=5",
-      "summary": "SPARTANBURG COUNTY INTERNET OUTAGE FOX Carolina News",
-      "published_at": "2026-06-15T20:36:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
       "id": "57add0fe752c238bf3f70fc5",
       "title": "通信障害に強いネットワークづくりは、経営課題に【A.T. カーニー】 - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9HS1U1Mmo4V3pEcHZfYzFjNVVkNy1IakJwYmNQOVJZWnZ2UU9FVnExdjhwX1VUNmZRV3NVWkNKOEVuWFpVa1JrMWwwejlfYmttcTRtaDZacGpOOU1zeUtaOFRCUUxWOFItdHVWdUNUSjBwaEt0Z2hYVFV1QQ?oc=5",
@@ -38,6 +27,17 @@
       "published_at": "2026-06-16T09:15:30Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "42e6b4030d6cfb2a1e4e9f37",
+      "title": "SPARTANBURG COUNTY INTERNET OUTAGE - FOX Carolina News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3dTWE5JLUJvWmpUUWNCNEd4WTRod0hQOWYxUmpxaGt2czFoRnBFQjNtSUlkV0czcFFRUC0tRy04THFmdlBRY0FrMGgtQ0ZWQS10ZHhNR204ZWQ3eXBTZ2VRMDdUWDd4Wk9NWlBINWdVcHBJWmptYzNnMnh2RFVfNmhNM05EcWM?oc=5",
+      "summary": "SPARTANBURG COUNTY INTERNET OUTAGE FOX Carolina News",
+      "published_at": "2026-06-15T20:36:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjU2UTNvZDdyS2E5NGp4SkYyZUdRRUhYWXk3RkNkMWFiejlYdGtSSVh6eFU3eXJlMW93dXYzSUpQNEFEMFNaUm5pMzRhblBfMG9taDhuSm00d1dNNzc0YndmRGs5aTZuNnJTODllcWxUYmVIOVQ0NUhKTWxqbWd6dmRZRGtkdXlSMjBsekloZF9iQVJCVjZXOA?oc=5",
       "summary": "SLED Investigating ‘Internet Outage’ in Spartanburg County FITSNews",
       "published_at": "2026-06-12T20:33:36Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "54221420271567250fb8a0d4",
-      "title": "Internet Outage Statistics 2026: Frequency, Cost and Causes - SQ Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQlRreURIVTFsSXpyRVotbng5c0dsWFMyUlVhTjJtQTRETHVZajYwTVV0NjR1U3NVYWZETG5zc2dHc1ZhMjFUVURDZ3l3QTlHemdPVEh0Rk8zWXhqNGpDUGJ3?oc=5",
-      "summary": "Internet Outage Statistics 2026: Frequency, Cost and Causes SQ Magazine",
-      "published_at": "2026-06-10T13:57:56Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:18:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild - CyberSecurityNews</title>
@@ -120,31 +120,31 @@ Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wil
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5</link>
-      <guid isPermaLink="false">ccea93f130e5b74124ead490</guid>
+      <title>[セキュリティ] CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5</link>
+      <guid isPermaLink="false">433ae74e926dce6f9387c3b4</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-06-15 18:22
-Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr</description>
-      <pubDate>Mon, 15 Jun 2026 13:25:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-15T13:25:44.295956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-15T09:22:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-10 21:47
+CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability The420.in</description>
+      <pubDate>Tue, 16 Jun 2026 21:18:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-16T21:18:04.302789Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-10T12:47:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Palo Alto Warns of Actively Exploited GlobalProtect VPN Vulnerability - cyberpress.org</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE1fOVNxTkZ6VlJUY3VydjNNblJyU2ZmakVhYmdzS3VUUkw4N1pqLU1wbVhkNW5DVS11dDFWTVd3TjdqaHY1dTl2VGhTenRHT1luWTI4YXVnb3hZTnljSzYtYXhPN0YxY3NGLUJ0SENB?oc=5</link>
-      <guid isPermaLink="false">00944c656b2ddf93591ed433</guid>
+      <title>[セキュリティ] 「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNb2JnXzFGQlkzeWZDSlRRNmxuOHNQbjFrNVVrNWFXNEpkMHViUDRLMzNrNFhFdzlnTTQ5RE1uYjBHenJ3WW1pY21kZUs0T0pxMkdMMXBFREVHR3NUMGg3TWRaTVE4YmlJ?oc=5</link>
+      <guid isPermaLink="false">1fead23c39c18fbd156ffd92</guid>
       <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-15 17:22
-Palo Alto Warns of Actively Exploited GlobalProtect VPN Vulnerability cyberpress.org</description>
-      <pubDate>Mon, 15 Jun 2026 18:14:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-15T18:14:33.470478Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-15T08:22:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+ソース: Google News JP: network security
+元記事日付: 2026-06-12 06:15
+「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 クラウド Watch</description>
+      <pubDate>Tue, 16 Jun 2026 21:18:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-16T21:18:04.302789Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-11T21:15:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
   </channel>
