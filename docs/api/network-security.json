@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-16T02:12:05.344394Z",
+  "generated_at": "2026-06-16T07:41:21.262349Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -42,6 +42,39 @@
       "score": 14
     },
     {
+      "id": "7f37639fa963c421e62d47e8",
+      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xQ25JRUtHZVY5NkFFbnRKX0g3WjhBS2txcEg0d3JJNy1OWlpkdjJsX25IOVhxd1oyVjhvR0NUYWdjMWh5Ynk5WnRFSW0zdmpHcG9zNTAzZl9qcFF4cGRTeXliYw?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 PC Watch",
+      "published_at": "2026-06-16T07:28:48Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "3120e2a3956213046cb6cb04",
+      "title": "バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTnFBWDE3WEllOFBqa2ZWWG5TMmZYbzEwUUhoSklXbko4TUhGdWY5U19wSEtCZTMyTWdZaUZ6ZUVTQ1NtNGZJUURDU1h5OUFPMW5nbjBpUW9xajdzNjdDdV8zRzJxdUh6NV9JSlpibnd3RmtCRlJjWWhURjg?oc=5",
+      "summary": "バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売 Excite エキサイト",
+      "published_at": "2026-06-16T04:15:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "00985e0682da156c9d86a398",
+      "title": "バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjB1RFdhWEZWS3R1YWhDRUZ6RThRMVY2Q0RtRzJOMWp3WXFnb0UyZTQ0d1RtR0dyOWtWZWZnTzNkaGI4d1dLR3pvc3lxbGlKNi02MTVhM0RINUI2Rk8xYVlnZkxPdmlvTnBLa1lITUpNWFRoa0xQT0xSUXpaWDkyRUExaEk4WUlQQW1yekF3?oc=5",
+      "summary": "バッファロー、セキュリティ評価制度「JC-STAR」★1適合のWi-Fi 6ルーターエントリーモデル「WSR-3000AX4L」発売 Yahoo!ニュース",
+      "published_at": "2026-06-16T04:10:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
       "id": "433ae74e926dce6f9387c3b4",
       "title": "CISA Issues 24-Hour Patch Alert Over Check Point VPN Vulnerability - The420.in",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0VDlsUE9hVGo0dlN4NWV4eDBjX2h0VlpnR0xtdUhqRmpjUGhEREU4UFJoM1pTaXNvM2FySS1aNDlmOFRFdTdjSnRONWpzZGJObE9xRVBrNDJkdTFjaTNMMDdCeFB1THJiNFNDcUwzUGowM1BHdHhYX1N1RHc?oc=5",
@@ -72,7 +105,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "a7f87ce2b9d3a0cb7d52165c",
@@ -82,17 +115,6 @@
       "published_at": "2026-06-15T04:25:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "afeeebe9d6af1dd68cc84dfa",
-      "title": "Check Point warns of zero-day flaw targeted by ransomware affiliate - Cybersecurity Dive",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGVmTXQ0cFZxUUNUOVA3VmlkSDhpQ0l0OWJoZmxCQXVEV0JUZV9xcWJpbDdoQ0RZeXR4X19uVlFTOUtpYjZ5eDBqV3VKb2RRd3pvVzlndEpTU1o3U2t5SHM4cHhlSldCS0dlV3FwSExTUG5QcWJ2NXliOURzbjRNc1hiMEk?oc=5",
-      "summary": "Check Point warns of zero-day flaw targeted by ransomware affiliate Cybersecurity Dive",
-      "published_at": "2026-06-09T16:08:28Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 7
     }
