@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:56:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -13,11 +13,11 @@
       <guid isPermaLink="false">1d5ae5f0990f78466646df47</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-17 11:28
+元記事日付: 2026-06-17 16:52
 Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware</description>
       <pubDate>Sun, 14 Jun 2026 19:56:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-14T19:56:07.714873Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-17T02:28:36Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-06-17T07:52:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -50,20 +50,6 @@ ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming</descri
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature - How-To Geek</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjJia1NHQ2Frai1adUk0Qm44N2t3WVc4TU5jSUlOODJiOUZZdXluLTFEV1NYNzh6OTRFQnFIQ3M5Skk0WnI3Q2Y1Rndnd3ZtNUdsdzlkblVDWWxrRGhxVllzMDNtZzFubk5uQXRHczFHLU9pd1djQUlzMjNuUjhoRTQ5OWZLZDlsRVUwWVl3?oc=5</link>
-      <guid isPermaLink="false">e0866156661cfd27e194172d</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-10 04:25
-Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature How-To Geek</description>
-      <pubDate>Mon, 15 Jun 2026 01:39:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-15T01:39:54.124388Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-09T19:25:18Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 &amp; LTE - Notebookcheck</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZLbVl5czNhQVdLQ0xYdUVNYmZsU0x5Yl95ZElNVEplZE5YVTcxUmlKV2NVbTJ2UTlkcks2Yi1VcjJ4a0RTYlF1ODZGaE1CaDBKcU42OEVmczFCVU5Hai1uX2RhcE5qVHltUHgtR2F4NURnWFctTElkcVRkUVY1WmFIemt3S2pCd214RzcyQzRVSEZPNE95cDBieHZPUXR6N0JWUWtOM0lMdlN2ek96dUFneDVZSTJMLVhOTVhvOFRydFNpdHk2UGU2V28zaUF0RGdfVTgwVQ?oc=5</link>
       <guid isPermaLink="false">518a8d7c10398b4205463b67</guid>
@@ -74,6 +60,20 @@ Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, Sm
       <pubDate>Tue, 09 Jun 2026 18:59:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-09T18:59:06.011665Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-09T17:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature - How-To Geek</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjJia1NHQ2Frai1adUk0Qm44N2t3WVc4TU5jSUlOODJiOUZZdXluLTFEV1NYNzh6OTRFQnFIQ3M5Skk0WnI3Q2Y1Rndnd3ZtNUdsdzlkblVDWWxrRGhxVllzMDNtZzFubk5uQXRHczFHLU9pd1djQUlzMjNuUjhoRTQ5OWZLZDlsRVUwWVl3?oc=5</link>
+      <guid isPermaLink="false">e0866156661cfd27e194172d</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-09 16:00
+Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature How-To Geek</description>
+      <pubDate>Mon, 15 Jun 2026 01:39:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-15T01:39:54.124388Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-09T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
