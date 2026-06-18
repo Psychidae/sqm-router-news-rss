@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-18T19:56:56.458104Z",
+  "generated_at": "2026-06-18T22:24:12.228338Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -36,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSFBKcVNqVG9vckZPeUwzNk56MjJEdHBaTjY3UktYclp3T2lVMzRmSWdheDdNOEVMYWdTcXJXay1NcFhSN1BlY3ZVRl9EQ2tXYzRjaXJDSEEyNGN4MlFBc2JqTHBQR2F3OXc?oc=5",
       "summary": "バッファロー、新セキュリティ制度「JC-STAR」★1適合のエントリーWi-Fi 6ルーター「WSR-3000AX4L」 kakaku.com",
       "published_at": "2026-06-16T08:20:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
+      "id": "d9eb952794e4f4d404b31f0f",
+      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpZjlRZUwyVjl1VHEwUFB3b1pfVkNKb05SSlMya3A3cnV5OGxhMUdRRlBVUlRObV81Z2ZQd0d5MFJhajVQR3ppWk54bWxZb1NvaGttcnpvcFY4Y1Z5YnRVM0hDSWJHSzh4UkdGTE82U1BGREU?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 Excite エキサイト",
+      "published_at": "2026-06-16T07:45:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 12
-    },
-    {
-      "id": "1fead23c39c18fbd156ffd92",
-      "title": "「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNb2JnXzFGQlkzeWZDSlRRNmxuOHNQbjFrNVVrNWFXNEpkMHViUDRLMzNrNFhFdzlnTTQ5RE1uYjBHenJ3WW1pY21kZUs0T0pxMkdMMXBFREVHR3NUMGg3TWRaTVE4YmlJ?oc=5",
-      "summary": "「VPNの限界」を悟った日本企業がゼロトラストへ急傾斜 Zscalerが示すAI時代のセキュリティ戦略と国内の急成長 クラウド Watch",
-      "published_at": "2026-06-11T21:15:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
     }
   ]
 }

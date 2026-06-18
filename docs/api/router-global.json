@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-18T19:56:55.209422Z",
+  "generated_at": "2026-06-18T22:24:11.262528Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -25,10 +25,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWVzSjFWc0dtdmNib3Z4LVZnWkoyWWJwM3V5R0x3R2VHci0zd1NCQjdzZXBVWHQ5cndMV2h4UGtOVU5aWGZCZVo0YTc5c1pINjB3bmhaSEpwdHM3cWJUQXhNbW9GNU5aZExndkRFQ1J5RlpWTEhTTWNqVl8zUzZGQzBZLVB5bmhBaE0zSHhGWWs1UTdWS0NuYWlLaGxZOTNKU1Bidm5weTVnclZMc1U0UVJabmo?oc=5",
       "summary": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers Digital Reviews Network",
       "published_at": "2026-06-11T22:50:34Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 22
+      "score": 21
     },
     {
       "id": "3f6664f5800c59b2edd31694",
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
-    },
-    {
-      "id": "518a8d7c10398b4205463b67",
-      "title": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZLbVl5czNhQVdLQ0xYdUVNYmZsU0x5Yl95ZElNVEplZE5YVTcxUmlKV2NVbTJ2UTlkcks2Yi1VcjJ4a0RTYlF1ODZGaE1CaDBKcU42OEVmczFCVU5Hai1uX2RhcE5qVHltUHgtR2F4NURnWFctTElkcVRkUVY1WmFIemt3S2pCd214RzcyQzRVSEZPNE95cDBieHZPUXR6N0JWUWtOM0lMdlN2ek96dUFneDVZSTJMLVhOTVhvOFRydFNpdHk2UGU2V28zaUF0RGdfVTgwVQ?oc=5",
-      "summary": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE Notebookcheck",
-      "published_at": "2026-06-09T17:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     },
     {
       "id": "e0866156661cfd27e194172d",
@@ -82,6 +71,17 @@
       "published_at": "2026-06-16T21:47:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "31bafc9dfa57b425ff172842",
+      "title": "The Best Wi-Fi Routers for 2026 - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJSC03X1VyUFVXTnhGaDh6YThsZWtTbUNxSFM1bVZDc0tMMFdtMkJrUXkwR00wczdjeXdIZmJ3QUdVdEhlbDhUblFHUE52ZnNuM2U4RXp4ZlBmNjlGTTZSNm1jRXNBa2dvcER0SV9GZ1VWMDNDcGVj?oc=5",
+      "summary": "The Best Wi-Fi Routers for 2026 PCMag UK",
+      "published_at": "2026-06-16T18:18:33Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
     },
