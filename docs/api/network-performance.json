@@ -1,13 +1,35 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-18T06:26:28.278884Z",
+  "generated_at": "2026-06-18T11:00:31.799563Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "acd77ed48884904864e4f570",
+      "title": "ベトナムは、次世代インターネットであるIPv6への移行において、世界をリードする国のひとつである。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQURES3VDbW04S3dVbWJ1UE83RHpJbFh0QUYwYy1GZmlaZnQzOVQ1cnVSQW56ZVN3Xzdjb2hGMVhEUzlvdGtwRWYya3R3SC1OTE5laFRTVHU0NGs2ZWFKTzFQdG1hbmZVZ1hhTkVjZEwyRUdTX2MySFhSY0VzVmlMSFh0a2JJNE1CX08zX01kNGpENng3NTNWOFRTVTFEY2FsTlV3?oc=5",
+      "summary": "ベトナムは、次世代インターネットであるIPv6への移行において、世界をリードする国のひとつである。 Vietnam.vn",
+      "published_at": "2026-06-18T10:42:33Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "9d3dd6f6354a95c13d0f1793",
+      "title": "IPv6専用規格は、現代のインターネットインフラ構築において避けられない発展である。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUnJvbTRVU3pYZUFQdkxWSk8tc2szM3JkWHViZ3VpNUYwLWpGUExpdEI3dmdSWHRPWVBTT1ZiOGtMNmRFcEFBWDcya3hubEMzQkgwc1NYTF9DQ1NERjFhTEdSeEdkUnlzYmxwN2NWNHVvWTBWMy1IT1hHTDFNWHA4YXZzYWtjanJEVDBqNmliLThRUVpreVVCeVp0NENBYWZDdzNFZGJn?oc=5",
+      "summary": "IPv6専用規格は、現代のインターネットインフラ構築において避けられない発展である。 Vietnam.vn",
+      "published_at": "2026-06-18T10:24:18Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "fe66eefcccbd7257522c8570",
       "title": "Northwest Omaha AT&T Quantum customers frustrated by 10-day internet outage - WOWT",
@@ -69,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM2RtVmo5cnEtc0w3WVhjMVUwaGZ4b2tYbnM5cmlsbjh2eFBfWGlKa2loa2s1TVJMUDNLN2oyZ2FjMGYzcVc1QllEdXJzYkZmQ2ZzMmJ1eWxTY2VnaHlB?oc=5",
       "summary": "CTの位相遅延が電源不安定を引き起こす？沃虎がRC進み補償ネットワーク設計を詳解 finance.biggo.jp",
       "published_at": "2026-06-11T18:05:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "81c5d5e25e7527ec47674d99",
-      "title": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52LUN4TkVrZl8yeGt6bW5peWs0TFp6M0dlekxOTkZudV9ubXJFQTFxWlZ6Q2RBYWgwb1hLSzlBaDZLNlFXUEVWSnJ4cFlTYW9NLTNfOQ?oc=5",
-      "summary": "『ESPORTS CAFE』に高速大容量・低遅延ネットワーク「docomo business APN Plus powered by IOWN(R) 」を導入 ASCII.jp",
-      "published_at": "2026-06-11T06:59:10Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

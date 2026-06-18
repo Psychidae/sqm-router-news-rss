@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-18T06:26:26.188228Z",
+  "generated_at": "2026-06-18T11:00:29.667584Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,26 +9,26 @@
   "errors": [],
   "items": [
     {
-      "id": "1d5ae5f0990f78466646df47",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVJRZUdnbmJJUm5peTFNVmRpY09CVFBoM29ia0xCZzItZ3dVcDR6MW1uanlRWGk0SXdvcG1fY2lyeGtOVW5abzJRWUI0VEQ4aXFGdnpkNEJCYk1xS0Z4SC1ncG92OFNLYUVYT3duUHBjY09PUHBnU0tuUi1iakVRLU9xWkl1S1ZGLXFBbjBFdHNtQ211d2s5VjVvd2w4WWFvM1J4M3B6M1pxalF4ZzhGdldmZWxjLS1RNnk2eXFMZnFVa3B3OGY0?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-16T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 23
-    },
-    {
       "id": "68157c1f9a7cd3767aaf065e",
       "title": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWVzSjFWc0dtdmNib3Z4LVZnWkoyWWJwM3V5R0x3R2VHci0zd1NCQjdzZXBVWHQ5cndMV2h4UGtOVU5aWGZCZVo0YTc5c1pINjB3bmhaSEpwdHM3cWJUQXhNbW9GNU5aZExndkRFQ1J5RlpWTEhTTWNqVl8zUzZGQzBZLVB5bmhBaE0zSHhGWWs1UTdWS0NuYWlLaGxZOTNKU1Bidm5weTVnclZMc1U0UVJabmo?oc=5",
       "summary": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers Digital Reviews Network",
       "published_at": "2026-06-11T22:50:34Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "beeb04565eb0a30555a945e6",
+      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-06-07T12:41:32Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
     },
     {
       "id": "518a8d7c10398b4205463b67",
@@ -53,15 +53,15 @@
       "score": 11
     },
     {
-      "id": "e0866156661cfd27e194172d",
-      "title": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjJia1NHQ2Frai1adUk0Qm44N2t3WVc4TU5jSUlOODJiOUZZdXluLTFEV1NYNzh6OTRFQnFIQ3M5Skk0WnI3Q2Y1Rndnd3ZtNUdsdzlkblVDWWxrRGhxVllzMDNtZzFubk5uQXRHczFHLU9pd1djQUlzMjNuUjhoRTQ5OWZLZDlsRVUwWVl3?oc=5",
-      "summary": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature How-To Geek",
-      "published_at": "2026-06-09T07:00:00Z",
+      "id": "6251e3e3cb9a67f84e5bf712",
+      "title": "Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTklPdzY2X2VIOHU5T3RpMHN5U1lrSUhPWGpDUDlMRXlYQmxTNVhtZUhGaFBHYTNSaDV6eE83dFJVWmVmeURGbmp6cXdxSS1SLTJvT2ZYTmpKMHhqWUtvbW9fcW1RemtKY1ZuVGNKbGVPb0pJRmlhM1IxbVpSbmR3ZzB1WGZZd0docmVZdTZEUzYyQQ?oc=5",
+      "summary": "Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 Telecompaper",
+      "published_at": "2026-06-18T07:40:11Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 9
     },
     {
       "id": "7f2f0206d6bb4af79e205324",
@@ -75,17 +75,6 @@
       "score": 9
     },
     {
-      "id": "d9499dd391ece7d11c07086d",
-      "title": "Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connected homes - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDFReHVCX3lpVDVnOVBjM0h0NlA3aXlnRkVmWC1MbEJVb1ZtQm5Ibi1uemxETjFVU3lwSy1UdWY0enNMUzBqRG9qUU1GR25nOTBNVXhCcy1zQVVHN2NJVjZJTXdBUU93UlhFZlkxdUVSVDZXWTluMW9meVo2clZoNWdVRmN2VEE1enRxZjRNVzhWQVA0bTR4elpVMl8wYUpFUGxjVktBdWVmZHY3WHE5QjgyNnZiVV8ybVl1S0poVGxobzlMMkE4?oc=5",
-      "summary": "Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connected homes AD HOC NEWS",
-      "published_at": "2026-06-17T03:37:11Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
       "id": "0dea5f83bce66c3e803617e6",
       "title": "Which Devices Are Compatible With Wi-Fi 7 In 2026? - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80b2E2bXJjQjYyUnMxNVNDRmE3XzY3UVZpNnE3OHNJbmkxczR5QjNHdGYxYTZKd2ZVWWxqRW9jeXdfRWRTZVp5X2ltNGNMcmdJblg2cWd0TUFyYUhRQWRScDFEemR0VGd4S3NR?oc=5",
@@ -93,6 +82,17 @@
       "published_at": "2026-06-16T21:47:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "5eea3795f001d8a373c5cf2f",
+      "title": "The Best Wi-Fi Routers We've Tested for 2026 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81UU9GdmlJZzUtbjl5VFhKWjlIWXJGTFNaUjREOElnZlpSYzEwWVdaVmQ2eGh3Y2RKMEl0QXNfQmhZTkpqNGVhZzN0WWdwNy1RTkJfNmw1NlZKM3ZXVUdKRk9VVQ?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Tested for 2026 PCMag",
+      "published_at": "2026-06-16T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
     },
@@ -116,7 +116,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 6
     }
   ]
 }
