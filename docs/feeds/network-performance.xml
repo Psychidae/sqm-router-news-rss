@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 20:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:39:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Northwest Omaha AT&amp;T Quantum customers frustrated by 10-day internet outage - WOWT</title>
@@ -102,20 +102,6 @@ CTの位相遅延が電源不安定を引き起こす？沃虎がRC進み補償�
       <pubDate>Fri, 12 Jun 2026 09:09:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-12T09:09:59.545599Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T06:59:10Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVmo3VjFqcWtzY3hFMjRybEMzNGFQRUdtdnBaZjdmVzdCcXgzMnBscUlULXdNN0gxZWxaa0dsWDVSSGRVLUtZMjJGSWtpU3hvQVBHVmJ4SUpFUlRmRlp5eWtwbFA2cF9yVXc?oc=5</link>
-      <guid isPermaLink="false">914b246103d273d0571094dc</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-11 10:00
-SonicWall、UTM Gen 8製品群において日本市場向けIPv6 IPoE接続機能を強化 PR TIMES</description>
-      <pubDate>Sun, 14 Jun 2026 14:58:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-14T14:58:12.195141Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-11T01:00:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
