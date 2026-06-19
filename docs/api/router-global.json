@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-19T05:23:47.547184Z",
+  "generated_at": "2026-06-19T10:05:01.963680Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -13,7 +13,7 @@
       "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMVJRZUdnbmJJUm5peTFNVmRpY09CVFBoM29ia0xCZzItZ3dVcDR6MW1uanlRWGk0SXdvcG1fY2lyeGtOVW5abzJRWUI0VEQ4aXFGdnpkNEJCYk1xS0Z4SC1ncG92OFNLYUVYT3duUHBjY09PUHBnU0tuUi1iakVRLU9xWkl1S1ZGLXFBbjBFdHNtQ211d2s5VjVvd2w4WWFvM1J4M3B6M1pxalF4ZzhGdldmZWxjLS1RNnk2eXFMZnFVa3B3OGY0?oc=5",
       "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-16T07:00:00Z",
+      "published_at": "2026-06-17T01:50:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 15
+    },
+    {
+      "id": "b3509e6de76d36075697556a",
+      "title": "ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros - Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMktRdEFLVVk3cG8ybzZ4MENSdGpGWVhLNDlubmpNVTlzLVFJWGR6eXMzRGkzd2dUTGt6Z3BuVml4SWRqeXNWZUd2UG5OTXYwaXd1MzUwWGZKY2FkQkRUZFo1eXJnaWZUVjJ0TldJdXEzaHU0WVVQZERFeldiclMxNk9EMWs3a0FpbzN4dlhlNC13eWNHSUtSRDJyc3dPVWQ0cDlBby14N1o?oc=5",
+      "summary": "ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros Basic Tutorials",
+      "published_at": "2026-06-19T08:03:33Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "3f6664f5800c59b2edd31694",
@@ -86,6 +97,17 @@
       "score": 11
     },
     {
+      "id": "74f41056dff4d36138051af7",
+      "title": "Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVIycm9Penk1RjJST2hEQ2kzSGFWMXFnMVVJR1BXZUJBbEtFbXRlWDQxTDh1ZkZCa0dHSW1ubkZZQ3pzOTVRc05MTUdqMkswME42QkR1U3kwckNpVHkzRklIbkxIdmtiTm5JZ0hEbElZZWtWTUJmNG1WSFNGY1N5OVdvVm92OWhIVERnQUlZQlZ0Um8?oc=5",
+      "summary": "Fritz! introduces Wi-Fi 7 Stick 6700 for EUR 65 Telecompaper",
+      "published_at": "2026-06-18T10:24:44Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "d9499dd391ece7d11c07086d",
       "title": "Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connected homes - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDFReHVCX3lpVDVnOVBjM0h0NlA3aXlnRkVmWC1MbEJVb1ZtQm5Ibi1uemxETjFVU3lwSy1UdWY0enNMUzBqRG9qUU1GR25nOTBNVXhCcy1zQVVHN2NJVjZJTXdBUU93UlhFZlkxdUVSVDZXWTluMW9meVo2clZoNWdVRmN2VEE1enRxZjRNVzhWQVA0bTR4elpVMl8wYUpFUGxjVktBdWVmZHY3WHE5QjgyNnZiVV8ybVl1S0poVGxobzlMMkE4?oc=5",
@@ -93,28 +115,6 @@
       "published_at": "2026-06-17T03:37:11Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "0dea5f83bce66c3e803617e6",
-      "title": "Which Devices Are Compatible With Wi-Fi 7 In 2026? - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80b2E2bXJjQjYyUnMxNVNDRmE3XzY3UVZpNnE3OHNJbmkxczR5QjNHdGYxYTZKd2ZVWWxqRW9jeXdfRWRTZVp5X2ltNGNMcmdJblg2cWd0TUFyYUhRQWRScDFEemR0VGd4S3NR?oc=5",
-      "summary": "Which Devices Are Compatible With Wi-Fi 7 In 2026? bgr.com",
-      "published_at": "2026-06-16T21:47:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "31bafc9dfa57b425ff172842",
-      "title": "The Best Wi-Fi Routers for 2026 - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJSC03X1VyUFVXTnhGaDh6YThsZWtTbUNxSFM1bVZDc0tMMFdtMkJrUXkwR00wczdjeXdIZmJ3QUdVdEhlbDhUblFHUE52ZnNuM2U4RXp4ZlBmNjlGTTZSNm1jRXNBa2dvcER0SV9GZ1VWMDNDcGVj?oc=5",
-      "summary": "The Best Wi-Fi Routers for 2026 PCMag UK",
-      "published_at": "2026-06-16T18:18:33Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
     }
