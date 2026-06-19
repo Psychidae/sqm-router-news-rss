@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-19T10:05:03.859014Z",
+  "generated_at": "2026-06-19T13:48:57.214304Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,14 +10,25 @@
   "items": [
     {
       "id": "4a5e5ca1877c32473b33929a",
-      "title": "Digital services restored after internet outage disrupts libraries across Ohio - wtol.com",
+      "title": "Digital services restored after internet outage disrupts libraries across Ohio - WTOL",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5",
-      "summary": "Digital services restored after internet outage disrupts libraries across Ohio wtol.com",
+      "summary": "Digital services restored after internet outage disrupts libraries across Ohio WTOL",
       "published_at": "2026-06-18T14:26:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "8b3d2fb060f39ccb8d927646",
+      "title": "IPv6専用ネットワークの導入は、国家デジタルインフラ開発の推進力となるだろう。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODQ0VjNuVFhZZUtjRUQwUDBmdjE0bjhVR29ueTRRcXYwVzAxYm9YWGVHYzk3YmRjWkFFMW1wY3E4cGRuTk1fYXNMVmdHV2I5ZUoxdnk5U2ZsSHBaNDFSQXdWYXFBTy04RUFJajhmMXN3VVZCcWItdkRuZDhtNlpFUDZzRFNIUHVwZHkwdmdkZzdlUHdO?oc=5",
+      "summary": "IPv6専用ネットワークの導入は、国家デジタルインフラ開発の推進力となるだろう。 Vietnam.vn",
+      "published_at": "2026-06-19T12:50:42Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "5347ddb6d301ff25004d6f6f",
@@ -36,6 +47,17 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTdHMDUzd1JFSFp6YzUwT2xqZFJoYTVFNjFwUXpxNW1FYTNJZTc2ZDJ2WDAzU0tZeGpET0JvVFdPN3RSbm5WTVRMQlBtSVZSY1h2T3lXOUZ3SDhqdFMtYVNWUzJOSkVFbmhXQlFRbDNyMXdqZ2dXMmNEd0VjLTB2QTdGS29XNi1SSGczSG5BQjZTa20zUnhYT3luRVlGN0VUSWtSZTY4d1lEeDNwTkFjMEpJbXhDVFl3RDQ5UW8yTm9JTFdZLTA2V1Zn?oc=5",
       "summary": "VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 Vietnam.vn",
       "published_at": "2026-06-19T07:59:05Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "5110980c2ff53dc69b20cfca",
+      "title": "IPv6専用 – 国家デジタルインフラの新たな推進力。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdzhGbEJjU3dFSUg5U1lvTnl3TmhJNmJoNHZ6TnBHUlpCalpVdkpUcG1TLUFvTXNsb3ZRbzF5eXJwVHJYVXRac0huWW1nUTlZc3NqaS1Qc2hzaHY0cE9zN3JBblRxLURjYlFwb3pjejlIRGtmV0RibFB6aTc?oc=5",
+      "summary": "IPv6専用 – 国家デジタルインフラの新たな推進力。 Vietnam.vn",
+      "published_at": "2026-06-19T06:25:26Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -91,28 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGZBc0ZIdGRrSjNUY1djM05TYUxiUzJfR2pYUW9WLXZYY3Y3eVRweV9MR3NVSmJ6ZDBmN1VjTDJfMFNkc25NQmtMOVJJUkM4RjMzbjRXV2hoN0U4bktTckIyeEZuUmxZLXM2djJheG5fbUpXUzhGcVlBOXpPWDQ5VVBLemlyQkZsQ0xSeVJ6YVFmdEJxelNsQTNPQ3VkbjdZUWc?oc=5",
       "summary": "科学技術副大臣：IPv6は未来において必然的な選択である。 Vietnam.vn",
       "published_at": "2026-06-18T13:49:32Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "913722e39b974a6607092aaf",
-      "title": "ベトナムは、IPv6への移行において世界をリードする国のひとつである。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHAyN2xEem5ZMWwtMHpmWEJQOFphSlBCNW1SOVRBVktSOEFkRzhBaEFfSjAyYUNMZ0cxNmJLZ3ZWcmZvQWZVYllKOENvRmp1MUtQRGo4b1lMUU0xQkw0Mm1kLUIyLXlFT0ZxSFZqOW51Sm1IMjNJRFpRa25mQW05ZXN6RVd6R3lTTXhRZUxUQTR2OUc1a3lxaTFB?oc=5",
-      "summary": "ベトナムは、IPv6への移行において世界をリードする国のひとつである。 Vietnam.vn",
-      "published_at": "2026-06-18T10:43:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "acd77ed48884904864e4f570",
-      "title": "ベトナムは、次世代インターネットであるIPv6への移行において、世界をリードする国のひとつである。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQURES3VDbW04S3dVbWJ1UE83RHpJbFh0QUYwYy1GZmlaZnQzOVQ1cnVSQW56ZVN3Xzdjb2hGMVhEUzlvdGtwRWYya3R3SC1OTE5laFRTVHU0NGs2ZWFKTzFQdG1hbmZVZ1hhTkVjZEwyRUdTX2MySFhSY0VzVmlMSFh0a2JJNE1CX08zX01kNGpENng3NTNWOFRTVTFEY2FsTlV3?oc=5",
-      "summary": "ベトナムは、次世代インターネットであるIPv6への移行において、世界をリードする国のひとつである。 Vietnam.vn",
-      "published_at": "2026-06-18T10:42:33Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

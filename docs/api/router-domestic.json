@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-19T10:05:00.762792Z",
+  "generated_at": "2026-06-19T13:48:54.167404Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -53,13 +53,24 @@
       "score": 20
     },
     {
-      "id": "137fbfae1e16ebb28dd46d61",
-      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdzlNRkVLcEZjUGdqNXoybDVyWmZRU2VmM3laWnE3MGJzNWFWOW52UURoT1N4eTkwdGhnZnhtZzFBZ2dQb1lhMEpBLW53TGNkRS1TbmI3OXlCb0VqZmM3UGZ0MU9vM3NTVGJReFF6NlZJOGtRRHptSm91OHZDRTg?oc=5",
-      "summary": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-06-15T02:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "a76b2cd903eb80b34fd215f3",
+      "title": "画像ギャラリー | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXRYUF9iTFRVWWhiV3E2UVdCNVRIZzFYVURDd2FiMHhNeTVsckgzaTU1cG1kZTlVYWl1TzR5SFRfRVA1RHJFcGZ0YnZLUGFQQWJyc2tTemxvLV9SYkhySzR2VW9iRHFEd1JXa3U5QWp1WnN0LVRZc1hGUXM0SFo4M3BmclJpMUk?oc=5",
+      "summary": "画像ギャラリー | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 4Gamer.net",
+      "published_at": "2026-06-10T05:12:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 20
+    },
+    {
+      "id": "ad9128b160cd697d8580b833",
+      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YZzNuNGNxSkRod0lzVU55LTBDaWpfb3E2VlU3X1J1MkRUX0ZLV2haRlRjTzB3SWRNc3FKc1FDaV9mYXl0dUphSFRGVDRKaWw1VjJhckJyMGVtVTZOWHJlLWRxdHozLUV2UTI4cWViQXMwWnJoWVJJZlRSRzI?oc=5",
+      "summary": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 Excite エキサイト",
+      "published_at": "2026-06-14T21:29:15Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
     },
@@ -75,24 +86,13 @@
       "score": 16
     },
     {
-      "id": "7347c0245d3b03433b3d279b",
-      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 Amazonでは13.6万円 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UaFBXRzdWTUJkNnRyMjV5dk8tZmpVUk1wU0lWbHlSNW5VUnNWXzVzQ3BjX2h3Q3BWM0MyV09LX1NVelh6QkZta2JGTzNXX0FYOWxzZ1R5LUJQVmRIUWV1NGw5bGJZOW9SOUZJ?oc=5",
-      "summary": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 Amazonでは13.6万円 INTERNET Watch",
-      "published_at": "2026-06-12T03:45:00Z",
+      "id": "1bf9fd9104a7ac771add052b",
+      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 Amazonでは13.6万円 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzcTdjcFVfTEZMR1dhc3dUT1J3R1kwM0p4NEQ2dFdqcHI0NnY5dnJJaGtBVVkwMUx4VHI4bktRWHFtOWlPeEFPSFpIRC1WNjVoRHNTVnRhbkZ2SEF2QWpZWEFLd09kTU9OTm9MVHBRMy0xWTU4ZHZnVGp0eWQ?oc=5",
+      "summary": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 Amazonでは13.6万円 Excite エキサイト",
+      "published_at": "2026-06-12T04:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "ffce011bc15bab5ddbec2d72",
-      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWE3Tmt2X0podlRudnlleWc3RVZuVU1GdDg1S2RUdHVFUkw2S1FQcEI4enZiLWdVU1h5TW5Pcnk2b2EwQTVjVFhzQXp5SVE2Q2R1VjB1LTlsLVJvbnNVQ3hOLUZlREhXd0JVakZBWGloOW51TXRMQ3hhd3Q3VUxoNUd3VVlSc2dDRDFlQ253?oc=5",
-      "summary": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-06-12T03:45:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
     }
