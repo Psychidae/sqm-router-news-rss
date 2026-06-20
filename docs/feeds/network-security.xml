@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 23:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:19:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) - Mishcon de Reya LLP</title>
@@ -47,20 +47,6 @@ RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクシ�
       <sqm:firstSeenDate>2026-06-19T13:48:56.193366Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-17T00:27:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5</link>
-      <guid isPermaLink="false">ccea93f130e5b74124ead490</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-06-15 18:22
-Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr</description>
-      <pubDate>Thu, 18 Jun 2026 17:46:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-18T17:46:58.414537Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-15T09:22:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -144,6 +130,20 @@ Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wil
       <pubDate>Fri, 19 Jun 2026 21:48:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-19T21:48:50.697375Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-16T07:28:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0ZrRkxVaVpkeXdKN3k2U3BaUWwzQTFYOTgxTFlmZ3ZaMWhVLTJoejB0Y21fMGU0R05lbE16eDNXWDg3dVZSTFdueEpBTS1KUWZCZUpBR0JJS3k5TmJPdFgyOXI2dmtCd3JKR19rTlJWdFNVUWFsb2FMeDVhWDR3NVdrSVZlYVFJc2FjdEtn?oc=5</link>
+      <guid isPermaLink="false">7eced7e94321393e48d2eb23</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-16 16:28
+バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) Yahoo!ニュース</description>
+      <pubDate>Sat, 20 Jun 2026 00:19:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-20T00:19:10.935553Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-16T07:28:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
