@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-20T12:58:23.429066Z",
+  "generated_at": "2026-06-20T15:12:24.164892Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,15 +31,15 @@
       "score": 20
     },
     {
-      "id": "b3509e6de76d36075697556a",
-      "title": "ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros - Basic Tutorials",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMktRdEFLVVk3cG8ybzZ4MENSdGpGWVhLNDlubmpNVTlzLVFJWGR6eXMzRGkzd2dUTGt6Z3BuVml4SWRqeXNWZUd2UG5OTXYwaXd1MzUwWGZKY2FkQkRUZFo1eXJnaWZUVjJ0TldJdXEzaHU0WVVQZERFeldiclMxNk9EMWs3a0FpbzN4dlhlNC13eWNHSUtSRDJyc3dPVWQ0cDlBby14N1o?oc=5",
-      "summary": "ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros Basic Tutorials",
-      "published_at": "2026-06-19T08:03:33Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "beeb04565eb0a30555a945e6",
+      "title": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5",
+      "summary": "ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming",
+      "published_at": "2026-06-07T12:41:32Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 15
     },
     {
       "id": "23b50ffca22e89439386bf4f",
