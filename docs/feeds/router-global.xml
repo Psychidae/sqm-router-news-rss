@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 12:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:31:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
@@ -18,20 +18,6 @@ TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers 
       <pubDate>Thu, 11 Jun 2026 23:52:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-11T23:52:01.785910Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T22:50:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review - MKAU Gaming</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQRmR2RktxeHVFMUlOT21INDNlVUZuYXhpOXFBcm1KZGtYakdlRXJtS2hNR3d5QTZsWUFmaDRXaEpXMGYtUURZMlV6aFZnUVBwa2lsSklsTzM0ei04UzlWMVhhYWRJUHM0cDJLVmp6ay1oaHdtRGJOV3hVVDZGNU8zalZJbFBKSE5SNkRDS2o5V2VDUVVJaE1SaG5zY3VvNmc?oc=5</link>
-      <guid isPermaLink="false">beeb04565eb0a30555a945e6</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-06-07 21:41
-ROG Rapture GT-BE19000AI Gaming Router (Hardware) – Review MKAU Gaming</description>
-      <pubDate>Sun, 21 Jun 2026 09:28:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T09:28:29.986716Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-07T12:41:32Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -145,6 +131,20 @@ The Best Gaming Routers for 2026 PCMag UK</description>
       <sqm:firstSeenDate>2026-06-20T18:44:12.824203Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-18T19:47:34Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connected homes - AD HOC NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxQaDFReHVCX3lpVDVnOVBjM0h0NlA3aXlnRkVmWC1MbEJVb1ZtQm5Ibi1uemxETjFVU3lwSy1UdWY0enNMUzBqRG9qUU1GR25nOTBNVXhCcy1zQVVHN2NJVjZJTXdBUU93UlhFZlkxdUVSVDZXWTluMW9meVo2clZoNWdVRmN2VEE1enRxZjRNVzhWQVA0bTR4elpVMl8wYUpFUGxjVktBdWVmZHY3WHE5QjgyNnZiVV8ybVl1S0poVGxobzlMMkE4?oc=5</link>
+      <guid isPermaLink="false">d9499dd391ece7d11c07086d</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-17 12:37
+Comcast next generation Xfinity Gateway brings faster Wi-Fi 7 to busy connected homes AD HOC NEWS</description>
+      <pubDate>Sun, 21 Jun 2026 14:31:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-21T14:31:38.808704Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-17T03:37:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
