@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-21T18:08:41.572146Z",
+  "generated_at": "2026-06-21T20:00:14.927881Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -14,8 +14,8 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKN01va0NYaEhWbFFNUEZyWjduQjRDZFVqZmxWaF9tblFQc0lBYjREOWxTNHQtbjY2NDFPb19Vc1RDejNjZ1c0a3A1dEhyVHlKWDVUSGNrZ2swQ0pQMFdMV1NyVzZ4T0hfNnc?oc=5",
       "summary": "ASUS、Wi-Fi 7や10GbEポートに対応したAIコア内蔵ゲーミングルーター「ROG Rapture GT-BE19000AI」 kakaku.com",
       "published_at": "2026-06-11T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 20
     },
@@ -25,6 +25,28 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nbEZSV2V0RlJtVjJfS1RISUdqWFRCWnN6NWtjNWdlVDdsdlctMFBHcWYyQmdQSl95dzFHUnZpVFU4cW01cTB3QjRRNkljOUg3aHB4R0J5cTBlN2RiOHFhZWZWMA?oc=5",
       "summary": "ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 4Gamer.net",
       "published_at": "2026-06-10T07:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 20
+    },
+    {
+      "id": "8f4ac795ac32894b38ce2c87",
+      "title": "画像ギャラリー No.002 | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczkyXzdDRmVXaUxWRnlNLU1WZlRabWRHZnlLSUxlRW56TWNtRlJQek1qcVJOWmcyZ2dBR2pGWFBfTzdzaENEdFFIbXZlYUQ0ODlhMXVSV0hvSHZoYVJlM3hfUzVia0QybHFwRHpEMDR0MDBqU28zMkthZU9JclV5VnZ3?oc=5",
+      "summary": "画像ギャラリー No.002 | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 4Gamer.net",
+      "published_at": "2026-06-10T06:48:02Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 20
+    },
+    {
+      "id": "a76b2cd903eb80b34fd215f3",
+      "title": "画像ギャラリー | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXRYUF9iTFRVWWhiV3E2UVdCNVRIZzFYVURDd2FiMHhNeTVsckgzaTU1cG1kZTlVYWl1TzR5SFRfRVA1RHJFcGZ0YnZLUGFQQWJyc2tTemxvLV9SYkhySzR2VW9iRHFEd1JXa3U5QWp1WnN0LVRZc1hGUXM0SFo4M3BmclJpMUk?oc=5",
+      "summary": "画像ギャラリー | ASUS，AIコア内蔵ゲーミングルーターを6月12日に発売。Wi-Fi 7で最大19Gbps通信に対応 4Gamer.net",
+      "published_at": "2026-06-10T05:12:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -42,6 +64,17 @@
       "score": 16
     },
     {
+      "id": "ad9128b160cd697d8580b833",
+      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YZzNuNGNxSkRod0lzVU55LTBDaWpfb3E2VlU3X1J1MkRUX0ZLV2haRlRjTzB3SWRNc3FKc1FDaV9mYXl0dUphSFRGVDRKaWw1VjJhckJyMGVtVTZOWHJlLWRxdHozLUV2UTI4cWViQXMwWnJoWVJJZlRSRzI?oc=5",
+      "summary": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 Excite エキサイト",
+      "published_at": "2026-06-14T21:29:15Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
+    {
       "id": "7347c0245d3b03433b3d279b",
       "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 Amazonでは13.6万円 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UaFBXRzdWTUJkNnRyMjV5dk8tZmpVUk1wU0lWbHlSNW5VUnNWXzVzQ3BjX2h3Q3BWM0MyV09LX1NVelh6QkZta2JGTzNXX0FYOWxzZ1R5LUJQVmRIUWV1NGw5bGJZOW9SOUZJ?oc=5",
@@ -53,46 +86,13 @@
       "score": 15
     },
     {
-      "id": "ffce011bc15bab5ddbec2d72",
-      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWE3Tmt2X0podlRudnlleWc3RVZuVU1GdDg1S2RUdHVFUkw2S1FQcEI4enZiLWdVU1h5TW5Pcnk2b2EwQTVjVFhzQXp5SVE2Q2R1VjB1LTlsLVJvbnNVQ3hOLUZlREhXd0JVakZBWGloOW51TXRMQ3hhd3Q3VUxoNUd3VVlSc2dDRDFlQ253?oc=5",
-      "summary": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-06-12T03:45:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "d86d945ba0e49ccc6770da2e",
-      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91anQzdGwtdHJOYXZmTDVndUp0dzlNQWFwSjFfMUM4RlNUc0UwU0V0SGpnRTNla2VDOEhScFhiSDRLVksyQnlwYkJnUGFFMTBIQnpHMVdWSTFoMUFMOEs0cEQxQkpiMmkzbTRKb2lPRjRMczRsR3F4VEZB?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 bcnretail.com",
-      "published_at": "2026-06-08T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "85a4b969cef2087ef4e9fff1",
-      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Xzk0M2lRZUNkdXZFNWdYcmZVa3BfdWZBYUxUbVBHU3hpRDJxazFBa2JSZWdaWGdmSV93RWlkSjVaQzJtQ200cjNFay1UOXk1cW03ODI5YTFlbHdnSkpzRFMwRm83enAxVkw0b2dDOA?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 bcnretail.com",
-      "published_at": "2026-06-08T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "ae5de5b36082b94533068a94",
-      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNU4yS2ZUUFJoRjZDRFFGMTFLSXhwNnUyRW5iYWpYV21Pb2tsVnpkbGp3bkN0SDFtREpGUVZ4VUNvb0Nvc19mNFFwZjZFei1CRHZNRlI3dHFENkRXUnFlaXVtVWlsOG4zNWtmUmpEeXFfNzBpTmFtYUpncWQ0TjEwdHRCV3UwdWd3bFUxa1Fn?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/6/8 (BCN) Yahoo!ニュース",
-      "published_at": "2026-06-08T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "ddf2cd46b6265dc014d0dab9",
+      "title": "ASUSがAI専用コア搭載のWi-Fi 7ゲーミングルーター発表、6月12日発売 - finance.biggo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ydXBiNkgzZXo4aklCLWdJUG5FcDV5bTdDLXFmSzZqNDZOUXFBV1dUWlJOcGlsS1BmcERBenMwR2VxZGRoTk9waVoyZTFNSWJ1aVlrQlptSVZzQ0JyQkxJ?oc=5",
+      "summary": "ASUSがAI専用コア搭載のWi-Fi 7ゲーミングルーター発表、6月12日発売 finance.biggo.jp",
+      "published_at": "2026-06-10T07:35:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
     }
