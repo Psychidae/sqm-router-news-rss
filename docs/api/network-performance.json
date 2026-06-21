@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-20T22:47:50.102174Z",
+  "generated_at": "2026-06-21T00:20:08.416905Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -16,17 +16,6 @@
       "published_at": "2026-06-20T12:19:19Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "4a5e5ca1877c32473b33929a",
-      "title": "Digital services restored after internet outage disrupts libraries across Ohio - wtol.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5",
-      "summary": "Digital services restored after internet outage disrupts libraries across Ohio wtol.com",
-      "published_at": "2026-06-18T14:26:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -108,11 +97,22 @@
       "score": 7
     },
     {
-      "id": "1116feffd6e3537eb5a60ffd",
-      "title": "Vodafone Australia、大規模な通信障害後、ネットワークを復旧 - Data Center Cafe",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdlRvVHZCUDJ0MVlMUWViaDk1SV94NWR5ZHFLajJKS1BmVlgyRnQxMmExX3VjSk9xcFFPeVl5N05KYlR3TEdraUUxNzF0Z2hha19kSE5kRkZiaC1oSEIxdzlSMmljU3o0T1RqRnQtS0RnYXktV09meDhtd2ZLNzBuNThoVHQ4LW14MHVteHUwWUp3QQ?oc=5",
-      "summary": "Vodafone Australia、大規模な通信障害後、ネットワークを復旧 Data Center Cafe",
-      "published_at": "2026-06-19T04:13:38Z",
+      "id": "cf315c1daebcea71bc702095",
+      "title": "VNNICは、ベトナムにおける次世代インターネットインフラの構築を目指し、IPv6のみへの移行を推進している。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnMyX0Rmb2dqMG1CWTdrQ04zeTFVc0c1cHFvQ0hOZFBKLVFuVU9EWFpHUEUtZktYQzJadEk5MFdiR1ZSN2dMNkpUc29VTDdsbEhwcEZRVmY0LUhKbXNtTE5fYlhOYWVGTklrR1ZmSjVXdnNKZzRWRGYwWV93S2U5eDNGZGRwWnYtcTlfbUFTbjhlcGhVMHhpZGJYT1lUVjI3Q3lsTkI0Z1FfR1VhR3dKb053?oc=5",
+      "summary": "VNNICは、ベトナムにおける次世代インターネットインフラの構築を目指し、IPv6のみへの移行を推進している。 Vietnam.vn",
+      "published_at": "2026-06-19T03:52:11Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "ef2eee5cc5d357a820f3c85d",
+      "title": "デジタルインフラの加速：政府機関の86％がIPv6に移行済み。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnhpLXdtbTVPRzVXRElfdFFhcUtKSjFnMHB4Q3hzU0FManFZcmZSSXdxZGZlSkNhNzY1VU8xOE5qRlBOUWtNM3pZbERVS3VFbDRqWE54MnkwM1BmcjYtS0tGN0JmLVJ4VVJUWTNEWU5jSDRXekt2MVloSUdYV05rOFltTTdmX25fQTI5ZA?oc=5",
+      "summary": "デジタルインフラの加速：政府機関の86％がIPv6に移行済み。 Vietnam.vn",
+      "published_at": "2026-06-18T14:14:31Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
