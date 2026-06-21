@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 20:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:40:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) - Mishcon de Reya LLP</title>
@@ -92,6 +92,20 @@ Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wil
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMioANBVV95cUxOdTI2NW92Y0lBd1pCaGpyekNhdFluSnNPZFR1ai05WU9GVG16Mm4tSVFfSVpjeVZtWDkyejhtTENzRWk4WG5lSi14emlCY09qTF8xVkF5VUx3SFF2UFA1a05NeDV4Wnp2SXdKdlFoQjh0bTZqSFRwMUFSSG5xazl6bFdqal9MWDRlZ09qcWE0bTZocnhNSHd5NlBoN2l3TUNGNWlQc1lNLUhPTldfenVlV2EwR3pRdmU4NDF6dE85Y0NLMEk2clNvT3RWQjh2ZU9hbm0tMUlMUm5WTFRKdWlpbXNaUkVnVzI0Y2F6RU5LM1AyRmZfVkl5U0l5NjhyLU5KaVBfTFcyb3F1b3pISGdnRTVLWVpxaFg3RlkyaTVOQlUwNmZRZzNaLWgyaURZTTJZRE1BcE1qZHZUa21OY2JudllyNXJmcFB6akJhRVlaRGRWOVhHcERWV0ZIemN5bzBuNkNlSFlRNk5SbnNaYU1FTWJWZ3QxZ0x4U3FKNk91VThzdG9zd0xweExlSHVNeUZUNklpX09FQ2U3R1hONXRfYQ?oc=5</link>
+      <guid isPermaLink="false">16505515e033256c4872a547</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-16 18:59
+バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 MSN</description>
+      <pubDate>Sun, 21 Jun 2026 21:40:49 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-21T21:40:49.878672Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-16T09:59:54Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] バッファロー、新セキュリティ制度「JC-STAR」★1適合のエントリーWi-Fi 6ルーター「WSR-3000AX4L」 - kakaku.com</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9SSFBKcVNqVG9vckZPeUwzNk56MjJEdHBaTjY3UktYclp3T2lVMzRmSWdheDdNOEVMYWdTcXJXay1NcFhSN1BlY3ZVRl9EQ2tXYzRjaXJDSEEyNGN4MlFBc2JqTHBQR2F3OXc?oc=5</link>
       <guid isPermaLink="false">3ce9cbba3b2e4b737356dcef</guid>
@@ -130,20 +144,6 @@ Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wil
       <pubDate>Fri, 19 Jun 2026 21:48:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-19T21:48:50.697375Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-16T07:28:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0ZrRkxVaVpkeXdKN3k2U3BaUWwzQTFYOTgxTFlmZ3ZaMWhVLTJoejB0Y21fMGU0R05lbE16eDNXWDg3dVZSTFdueEpBTS1KUWZCZUpBR0JJS3k5TmJPdFgyOXI2dmtCd3JKR19rTlJWdFNVUWFsb2FMeDVhWDR3NVdrSVZlYVFJc2FjdEtn?oc=5</link>
-      <guid isPermaLink="false">7eced7e94321393e48d2eb23</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-16 16:28
-バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) Yahoo!ニュース</description>
-      <pubDate>Sat, 20 Jun 2026 08:27:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-20T08:27:59.055364Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-16T07:28:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
