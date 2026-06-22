@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-22T00:21:05.452255Z",
+  "generated_at": "2026-06-22T06:11:27.745741Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,39 +64,6 @@
       "score": 12
     },
     {
-      "id": "e0866156661cfd27e194172d",
-      "title": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjJia1NHQ2Frai1adUk0Qm44N2t3WVc4TU5jSUlOODJiOUZZdXluLTFEV1NYNzh6OTRFQnFIQ3M5Skk0WnI3Q2Y1Rndnd3ZtNUdsdzlkblVDWWxrRGhxVllzMDNtZzFubk5uQXRHczFHLU9pd1djQUlzMjNuUjhoRTQ5OWZLZDlsRVUwWVl3?oc=5",
-      "summary": "Your new Wi-Fi 7 router is missing Wi-Fi 7's best feature How-To Geek",
-      "published_at": "2026-06-09T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "518a8d7c10398b4205463b67",
-      "title": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZEZLbVl5czNhQVdLQ0xYdUVNYmZsU0x5Yl95ZElNVEplZE5YVTcxUmlKV2NVbTJ2UTlkcks2Yi1VcjJ4a0RTYlF1ODZGaE1CaDBKcU42OEVmczFCVU5Hai1uX2RhcE5qVHltUHgtR2F4NURnWFctTElkcVRkUVY1WmFIemt3S2pCd214RzcyQzRVSEZPNE95cDBieHZPUXR6N0JWUWtOM0lMdlN2ek96dUFneDVZSTJMLVhOTVhvOFRydFNpdHk2UGU2V28zaUF0RGdfVTgwVQ?oc=5",
-      "summary": "Schenker Connect 15 (E26) review: Business laptop with a replaceable battery, SmartCard, Wi-Fi 7 & LTE Notebookcheck",
-      "published_at": "2026-06-09T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "202f962eeb5b917d1b2f0fe7",
-      "title": "Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link rate - CNX Software",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUdJNWZuWWtWV2xVc0RUODdHNjJaSl8ydHNzSFFUbjhSN0JTdFM1TF9mYV9nSlBqb3NvbGVGc2M1ZTMwSDBpTU45S3V2N0RCOUcyRmtTWDNwOWVnZG16c1kyei1BLWJfd1UxbXU5bktLWE9mRW94d3RGN01qTUVGaWEya1BiWlNCdUh4aTNYRURSYTd5a3FTUzJWZ1k2X1pCSGNTZ21JM2tHdUNTMm9JVzM2elBhdU1VT3VJ0gHDAUFVX3lxTE1xbU5uLVNSWFNLSHRwTDJNMU8tVUtETXM3WnVMT21OakMyN241Y1liT0xNbnduMlhDWE5vQmdSYU1CUXdsSzNNeXVRZEJndHNOWkZiODYwLXpuMmN3VDN3aElSSVpSRzhtR3YxNlhaNnAzd3A4a3VyTE5YaFZtNFlCeF92OXhkQTlSN1FPLW1wN2k1NV9XbE5rZ2FmTHBqMkMwem5HMU9kbVh6cWhsOFRvTXNwS1h6SU93ek5CN3JfOUljZw?oc=5",
-      "summary": "Mudi 7 (GL-E5800) 5G NR Wi-Fi 7 travel router supports up to 4.67 Gbps link rate CNX Software",
-      "published_at": "2026-06-08T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "0bd734b74f16c00df42c0e92",
       "title": "Want Perfect Wi-Fi? These Are the Mesh Routers I Recommend - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UMnVDdE05ck5BLVFCUWpSRlF4QUlKZXZMcldnU3R3akNCckY2blVfaVNuWHJienZ1TDNzUzlxMzRjcEJrVGluVHRBTGVSaW9XTkIwZmpZNlNKT1Q3LTFKYg?oc=5",
@@ -113,6 +80,39 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMZXMzQy1zcHdYaTJkNU9jelYzOVRTbU16X095bFJadDV1TnE3Z2hjYVRVMngtYjdkNVZpNWd0QUd5UVFPRDUzY0xxZzJjeldqcTQyVzE5MHF2UWU4VVJGUzFuOTd5MkViaG5nOWp5RFd1ODdDWVE?oc=5",
       "summary": "The Best Gaming Routers for 2026 PCMag UK",
       "published_at": "2026-06-18T19:47:34Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "0dea5f83bce66c3e803617e6",
+      "title": "Which Devices Are Compatible With Wi-Fi 7 In 2026? - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80b2E2bXJjQjYyUnMxNVNDRmE3XzY3UVZpNnE3OHNJbmkxczR5QjNHdGYxYTZKd2ZVWWxqRW9jeXdfRWRTZVp5X2ltNGNMcmdJblg2cWd0TUFyYUhRQWRScDFEemR0VGd4S3NR?oc=5",
+      "summary": "Which Devices Are Compatible With Wi-Fi 7 In 2026? bgr.com",
+      "published_at": "2026-06-16T21:47:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "31bafc9dfa57b425ff172842",
+      "title": "The Best Wi-Fi Routers for 2026 - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJSC03X1VyUFVXTnhGaDh6YThsZWtTbUNxSFM1bVZDc0tMMFdtMkJrUXkwR00wczdjeXdIZmJ3QUdVdEhlbDhUblFHUE52ZnNuM2U4RXp4ZlBmNjlGTTZSNm1jRXNBa2dvcER0SV9GZ1VWMDNDcGVj?oc=5",
+      "summary": "The Best Wi-Fi Routers for 2026 PCMag UK",
+      "published_at": "2026-06-16T18:18:33Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "5eea3795f001d8a373c5cf2f",
+      "title": "The Best Wi-Fi Routers We've Tested for 2026 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81UU9GdmlJZzUtbjl5VFhKWjlIWXJGTFNaUjREOElnZlpSYzEwWVdaVmQ2eGh3Y2RKMEl0QXNfQmhZTkpqNGVhZzN0WWdwNy1RTkJfNmw1NlZKM3ZXVUdKRk9VVQ?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Tested for 2026 PCMag",
+      "published_at": "2026-06-16T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
