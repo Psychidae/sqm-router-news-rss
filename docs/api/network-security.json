@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-22T20:24:37.983389Z",
+  "generated_at": "2026-06-22T22:25:02.280350Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -47,6 +47,17 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqV0lKNjVYLVpsRHB6UEM0SEdUTUdaQ25JX3RUWkJ2TjkydWhlWlBXNkJWUjAxbC1uRHhNcTYxdk14OXpZZDYxWm1qdVUzR3hnNUFXVEpoMUJITXRYcVYxV0ZGZ09mWkpkOEI0?oc=5",
       "summary": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 INTERNET Watch",
       "published_at": "2026-06-16T23:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
+    {
+      "id": "16505515e033256c4872a547",
+      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOdTI2NW92Y0lBd1pCaGpyekNhdFluSnNPZFR1ai05WU9GVG16Mm4tSVFfSVpjeVZtWDkyejhtTENzRWk4WG5lSi14emlCY09qTF8xVkF5VUx3SFF2UFA1a05NeDV4Wnp2SXdKdlFoQjh0bTZqSFRwMUFSSG5xazl6bFdqal9MWDRlZ09qcWE0bTZocnhNSHd5NlBoN2l3TUNGNWlQc1lNLUhPTldfenVlV2EwR3pRdmU4NDF6dE85Y0NLMEk2clNvT3RWQjh2ZU9hbm0tMUlMUm5WTFRKdWlpbXNaUkVnVzI0Y2F6RU5LM1AyRmZfVkl5U0l5NjhyLU5KaVBfTFcyb3F1b3pISGdnRTVLWVpxaFg3RlkyaTVOQlUwNmZRZzNaLWgyaURZTTJZRE1BcE1qZHZUa21OY2JudllyNXJmcFB6akJhRVlaRGRWOVhHcERWV0ZIemN5bzBuNkNlSFlRNk5SbnNaYU1FTWJWZ3QxZ0x4U3FKNk91VThzdG9zd0xweExlSHVNeUZUNklpX09FQ2U3R1hONXRfYQ?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 MSN",
+      "published_at": "2026-06-16T09:59:54Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
-    },
-    {
-      "id": "934a292b910777dee1f4ad08",
-      "title": "Fortinet「FortiBleed」事案、新規脆弱性ではなく「流出パスワード」で突破される - finance.biggo.jp",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYLTl2M2lhMHFKZ1BJV09laG9jOW9qTkFVc2FxcW5uLU4wSm9TTnVCU2phOWdWN1kwZHlRdGxOaG5UekJIRkFlc3VCRF84UE0yOWNpa0RNc0EyLXZKMmZQVWxqZXpxR0s0bVRDak1DZUd2cERn?oc=5",
-      "summary": "Fortinet「FortiBleed」事案、新規脆弱性ではなく「流出パスワード」で突破される finance.biggo.jp",
-      "published_at": "2026-06-20T06:55:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
     }
   ]
 }

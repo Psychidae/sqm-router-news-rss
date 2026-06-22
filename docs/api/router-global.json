@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-22T20:24:36.806380Z",
+  "generated_at": "2026-06-22T22:25:01.111462Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 24
+    },
+    {
+      "id": "c6e1e76075330fee89a50dfc",
+      "title": "TP-Link Roam 7 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
+      "summary": "TP-Link Roam 7 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
+      "published_at": "2026-06-22T21:51:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "b364af58361002d79ae72f07",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "d0746d517a68172e41cfe728",
-      "title": "5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMlE3eldXNWZ2SVdfdWU0MEV2RURnRVB2NDJKdUtZenc3cERGbS1tQUpEd3lKcXIzMzlVOUNPcXlOOTBNcUtGSDFwSWRLNDlqWWlicHpmR08wZlhVX0taQzlSTC1tQQ?oc=5",
-      "summary": "5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 bgr.com",
-      "published_at": "2026-06-22T14:47:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     }
   ]
 }
