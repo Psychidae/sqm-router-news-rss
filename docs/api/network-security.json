@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-21T22:47:10.376023Z",
+  "generated_at": "2026-06-22T00:21:06.649929Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -20,28 +20,6 @@
       "score": 17
     },
     {
-      "id": "70760688ea851368ae3a9e75",
-      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96T1d0TVMxY1VodzN4b2RyelBYU1BDQWsxaXA2ZkhSM2ZwOXNWUjhuTGd2YlB4RVhsS3F0dWF1dmltSDdIWUl6dkhrbG5IRV83a0pqeTJwZkctTlg4YXZxY3lBSFhib0FuR2NEVFh2VWEtbXNIY2JaX0NNSmZ2U3c?oc=5",
-      "summary": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） Yahoo!ニュース",
-      "published_at": "2026-06-18T23:00:03Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "ccea93f130e5b74124ead490",
-      "title": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability - SecNews.gr",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGelRVMk5Bb3I4dXlYX2RtcElmTVQzcmhFNjlubkNhLXREdmsxMjg1dXBIQXgwa3Q2Z2RBcXROOExMTmhHcnFrcER2VC1weGRNYUwxQ0JIMlN3N01NcVV6WU1CUnR2T3d3UUl3SUd0Z05MYUI5b1Z0ZjZFS3A1dw?oc=5",
-      "summary": "Palo Alto: Active exploitation of GlobalProtect VPN vulnerability SecNews.gr",
-      "published_at": "2026-06-15T09:22:00Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "2a4a3ce3282e34d51d801766",
       "title": "Palo Alto Warns of GlobalProtect VPN Vulnerability Actively Exploited in the Wild - CyberSecurityNews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EMC1tSWlIR2t1ajFLRWRJckZHM3ZjeWdaUWxiSEM1bko0VTRYd1hoSTJPYnRIOU1tTEhhZ09WRVpOSTJSODZTRHlyUEllUV9IcFd3Q0hwWGVQdHJXazB2T19SWGtMMXcyWkxNRG1CUjBOSHFPQ25v0gF8QVVfeXFMTjk5alBFNXZQSDVoclI5SDBmaVpITWJLRWZ0MVhIdmFQcmdacHQ2Y0pLak1Zdnl3eUxYbVNheS1sMHZ5MEJCU0N6QmJzb1prTUV3cjRIRjhaMFlNUHEyNHN4SUNTTGQzM0o2ZFRJSnNhT2N5cVhNUUhHTVZNTw?oc=5",
@@ -51,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 12
+    },
+    {
+      "id": "70760688ea851368ae3a9e75",
+      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96T1d0TVMxY1VodzN4b2RyelBYU1BDQWsxaXA2ZkhSM2ZwOXNWUjhuTGd2YlB4RVhsS3F0dWF1dmltSDdIWUl6dkhrbG5IRV83a0pqeTJwZkctTlg4YXZxY3lBSFhib0FuR2NEVFh2VWEtbXNIY2JaX0NNSmZ2U3c?oc=5",
+      "summary": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） Yahoo!ニュース",
+      "published_at": "2026-06-18T23:00:03Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
     },
     {
       "id": "10f98e0884e113813fd9983c",
@@ -69,6 +58,17 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqV0lKNjVYLVpsRHB6UEM0SEdUTUdaQ25JX3RUWkJ2TjkydWhlWlBXNkJWUjAxbC1uRHhNcTYxdk14OXpZZDYxWm1qdVUzR3hnNUFXVEpoMUJITXRYcVYxV0ZGZ09mWkpkOEI0?oc=5",
       "summary": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 INTERNET Watch",
       "published_at": "2026-06-16T23:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
+    {
+      "id": "16505515e033256c4872a547",
+      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOdTI2NW92Y0lBd1pCaGpyekNhdFluSnNPZFR1ai05WU9GVG16Mm4tSVFfSVpjeVZtWDkyejhtTENzRWk4WG5lSi14emlCY09qTF8xVkF5VUx3SFF2UFA1a05NeDV4Wnp2SXdKdlFoQjh0bTZqSFRwMUFSSG5xazl6bFdqal9MWDRlZ09qcWE0bTZocnhNSHd5NlBoN2l3TUNGNWlQc1lNLUhPTldfenVlV2EwR3pRdmU4NDF6dE85Y0NLMEk2clNvT3RWQjh2ZU9hbm0tMUlMUm5WTFRKdWlpbXNaUkVnVzI0Y2F6RU5LM1AyRmZfVkl5U0l5NjhyLU5KaVBfTFcyb3F1b3pISGdnRTVLWVpxaFg3RlkyaTVOQlUwNmZRZzNaLWgyaURZTTJZRE1BcE1qZHZUa21OY2JudllyNXJmcFB6akJhRVlaRGRWOVhHcERWV0ZIemN5bzBuNkNlSFlRNk5SbnNaYU1FTWJWZ3QxZ0x4U3FKNk91VThzdG9zd0xweExlSHVNeUZUNklpX09FQ2U3R1hONXRfYQ?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 MSN",
+      "published_at": "2026-06-16T09:59:54Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
