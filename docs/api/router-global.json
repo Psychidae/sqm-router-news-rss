@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-22T12:24:08.033765Z",
+  "generated_at": "2026-06-22T17:17:38.195119Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 24
+      "score": 23
     },
     {
       "id": "68157c1f9a7cd3767aaf065e",
@@ -97,6 +97,17 @@
       "score": 11
     },
     {
+      "id": "d0746d517a68172e41cfe728",
+      "title": "5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMlE3eldXNWZ2SVdfdWU0MEV2RURnRVB2NDJKdUtZenc3cERGbS1tQUpEd3lKcXIzMzlVOUNPcXlOOTBNcUtGSDFwSWRLNDlqWWlicHpmR08wZlhVX0taQzlSTC1tQQ?oc=5",
+      "summary": "5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 bgr.com",
+      "published_at": "2026-06-22T14:47:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "1af7dad9095c019bcb73ca96",
       "title": "Popular WiFi 7 router deal offers best price of the year before Prime Day - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2RiRzdnU2Izd0RXdzh5TmRhQ0p6Q2g4b2FiQ3pXMnBaUzJPNjBTLVdPdGFDU3h0Q1B4YTJHNE1iaENITElwR095dTBCWnF2cE9zaGFRWDBMM1pTS3R1V0JDN004S0tPLTRQR0h6eHlDMmU0cDBmZmY5d0ZuUzBNR1JMY3BBNTRWQmxfSjNVRmlCN0NNck5PaEJaSnl4UTBfV0hpbWwxaw?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 9
-    },
-    {
-      "id": "0bd734b74f16c00df42c0e92",
-      "title": "Want Perfect Wi-Fi? These Are the Mesh Routers I Recommend - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UMnVDdE05ck5BLVFCUWpSRlF4QUlKZXZMcldnU3R3akNCckY2blVfaVNuWHJienZ1TDNzUzlxMzRjcEJrVGluVHRBTGVSaW9XTkIwZmpZNlNKT1Q3LTFKYg?oc=5",
-      "summary": "Want Perfect Wi-Fi? These Are the Mesh Routers I Recommend WIRED",
-      "published_at": "2026-06-19T11:31:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
