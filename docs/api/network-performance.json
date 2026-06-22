@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-22T06:11:30.246869Z",
+  "generated_at": "2026-06-22T12:24:10.198679Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -53,50 +53,6 @@
       "score": 7
     },
     {
-      "id": "5347ddb6d301ff25004d6f6f",
-      "title": "ベトナムのインターネットユーザーの67%以上がIPv6経由でインターネットにアクセスしている。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2FzT3BSWG9WN1ZPR1ZqamtMcDRIQnp3VVFlN3lRMFRzSUE4bElDUW8zakNCNXdEc3hRR3MyVHB3bkticF9GdDV0bUtrcXlRYnBRYnd0Q3Q3M2F1WFRmU25mSk1kTnVkRFMxN0lJVDdSYjZSaFhTT3BuaWVGekhmbGNCQjJ4NHd0djZKazI5WQ?oc=5",
-      "summary": "ベトナムのインターネットユーザーの67%以上がIPv6経由でインターネットにアクセスしている。 Vietnam.vn",
-      "published_at": "2026-06-19T08:55:31Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "1a540e38fd1db5a423333603",
-      "title": "VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTdHMDUzd1JFSFp6YzUwT2xqZFJoYTVFNjFwUXpxNW1FYTNJZTc2ZDJ2WDAzU0tZeGpET0JvVFdPN3RSbm5WTVRMQlBtSVZSY1h2T3lXOUZ3SDhqdFMtYVNWUzJOSkVFbmhXQlFRbDNyMXdqZ2dXMmNEd0VjLTB2QTdGS29XNi1SSGczSG5BQjZTa20zUnhYT3luRVlGN0VUSWtSZTY4d1lEeDNwTkFjMEpJbXhDVFl3RDQ5UW8yTm9JTFdZLTA2V1Zn?oc=5",
-      "summary": "VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 Vietnam.vn",
-      "published_at": "2026-06-19T07:59:05Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "80f2fb96a585060c11d083d4",
-      "title": "ベトナムのインターネットユーザーの約70％がIPv6経由でインターネットにアクセスしている。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1VsTUxyal9XYkRTT0tEcUhJYWF4TjdWTWhzbWVDYWxfNnhNVVRwT0JSTFR4VTVGWXVFY01ScFpoVjR4a2Y3aGhCT2hWS2x3NXRlWFU2ZEFXcWRabHZXVmpJUENHWE95SU1HSUwyNEI1MHJZQjhfMXNZSzRiNHlOZmp4ME9UM2pZb3M5VHVhZw?oc=5",
-      "summary": "ベトナムのインターネットユーザーの約70％がIPv6経由でインターネットにアクセスしている。 Vietnam.vn",
-      "published_at": "2026-06-19T07:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "5110980c2ff53dc69b20cfca",
-      "title": "IPv6専用 – 国家デジタルインフラの新たな推進力。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdzhGbEJjU3dFSUg5U1lvTnl3TmhJNmJoNHZ6TnBHUlpCalpVdkpUcG1TLUFvTXNsb3ZRbzF5eXJwVHJYVXRac0huWW1nUTlZc3NqaS1Qc2hzaHY0cE9zN3JBblRxLURjYlFwb3pjejlIRGtmV0RibFB6aTc?oc=5",
-      "summary": "IPv6専用 – 国家デジタルインフラの新たな推進力。 Vietnam.vn",
-      "published_at": "2026-06-19T06:25:26Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "4a5e5ca1877c32473b33929a",
       "title": "Digital services restored after internet outage disrupts libraries across Ohio - WTOL",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5",
@@ -117,6 +73,50 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "fe66eefcccbd7257522c8570",
+      "title": "Northwest Omaha AT&T Quantum customers frustrated by 10-day internet outage - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmRfbDFtd0hOYTVLdjhpWmZ5XzJWRHZqdFE2bzdrckx1THdoSjRpbTRnNE5yQkd2ZnRzX1VJZkRHOV9YOTRHbGNzeVhObV9tNTROanZHc2R2NHpPQ3ZnSkxQbFFvMWdUZW5yU0loLVpueHd4dkEzdXhEd3JuTVVwNEd4ajZ0T25TenR0bjNWVkN1ZjNxOU5hNV82R2ZLZXlXZ1JIVDltYWdpWTDSAb8BQVVfeXFMTUpRLXFTSFQ4bHh0Q2JzdmhoX2t5a1N5Y1FiWDk0LXZxVlEwM0VSck1QbmVFUWNTNHBrWmdNM0h4eHFaM2RkRjdLeFJKSmFiazZOeEJNZ2VONDY5WU1laGNXbi1wZkRidUczOFlqSXdhQXRfcHRUM3VrQ0pzbkdsdEJkNVB6XzRtOFlNenZycnNfQkE0RWE2RlMyR1Q2cnpmZ1hhVVhzclFmVG1wWlVIUC16dHkzTWpHaDFKdFdYblE?oc=5",
+      "summary": "Northwest Omaha AT&T Quantum customers frustrated by 10-day internet outage WOWT",
+      "published_at": "2026-06-16T03:27:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "5347ddb6d301ff25004d6f6f",
+      "title": "ベトナムのインターネットユーザーの67%以上がIPv6経由でインターネットにアクセスしている。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2FzT3BSWG9WN1ZPR1ZqamtMcDRIQnp3VVFlN3lRMFRzSUE4bElDUW8zakNCNXdEc3hRR3MyVHB3bkticF9GdDV0bUtrcXlRYnBRYnd0Q3Q3M2F1WFRmU25mSk1kTnVkRFMxN0lJVDdSYjZSaFhTT3BuaWVGekhmbGNCQjJ4NHd0djZKazI5WQ?oc=5",
+      "summary": "ベトナムのインターネットユーザーの67%以上がIPv6経由でインターネットにアクセスしている。 Vietnam.vn",
+      "published_at": "2026-06-19T08:55:31Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "1a540e38fd1db5a423333603",
+      "title": "VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTdHMDUzd1JFSFp6YzUwT2xqZFJoYTVFNjFwUXpxNW1FYTNJZTc2ZDJ2WDAzU0tZeGpET0JvVFdPN3RSbm5WTVRMQlBtSVZSY1h2T3lXOUZ3SDhqdFMtYVNWUzJOSkVFbmhXQlFRbDNyMXdqZ2dXMmNEd0VjLTB2QTdGS29XNi1SSGczSG5BQjZTa20zUnhYT3luRVlGN0VUSWtSZTY4d1lEeDNwTkFjMEpJbXhDVFl3RDQ5UW8yTm9JTFdZLTA2V1Zn?oc=5",
+      "summary": "VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 Vietnam.vn",
+      "published_at": "2026-06-19T07:59:05Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "80f2fb96a585060c11d083d4",
+      "title": "ベトナムのインターネットユーザーの約70％がIPv6経由でインターネットにアクセスしている。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1VsTUxyal9XYkRTT0tEcUhJYWF4TjdWTWhzbWVDYWxfNnhNVVRwT0JSTFR4VTVGWXVFY01ScFpoVjR4a2Y3aGhCT2hWS2x3NXRlWFU2ZEFXcWRabHZXVmpJUENHWE95SU1HSUwyNEI1MHJZQjhfMXNZSzRiNHlOZmp4ME9UM2pZb3M5VHVhZw?oc=5",
+      "summary": "ベトナムのインターネットユーザーの約70％がIPv6経由でインターネットにアクセスしている。 Vietnam.vn",
+      "published_at": "2026-06-19T07:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     }
   ]
 }

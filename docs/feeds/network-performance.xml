@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 06:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:24:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ネットワーク事業者は、IPv6専用ネットワークを推進するための政策を提案している。 - Vietnam.vn</title>
@@ -64,6 +64,48 @@ IPv6専用ネットワークの導入は、国家デジタルインフラ開発�
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Digital services restored after internet outage disrupts libraries across Ohio - WTOL</title>
+      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5</link>
+      <guid isPermaLink="false">4a5e5ca1877c32473b33929a</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-18 23:26
+Digital services restored after internet outage disrupts libraries across Ohio WTOL</description>
+      <pubDate>Sun, 21 Jun 2026 09:28:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-21T09:28:31.991656Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-18T14:26:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Pensacola Beach internet outage: AT&amp;T working on fix - WKRG</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1FJc21LdWgwWDFadmRrcEc0Tk10SnNKUUUyYjZ0ZlpoWDB6MVpHVHQ2RnlfSzJuWVFZNGVlS1ZyNTh4NTNnSTRjNmZjN3VCdzhaTmxOMm9YRUpXZTBKOGVWV0VpRUJOcUZSUkJlMzlGdkdPdVEyYXNIUnBvS0F6ZzJaQ2dvZnVnVEIxNlJn0gGTAUFVX3lxTE54anpUR09MTUUtLVVZblp3emZkaHFLSFFqSG10VWZkSHQ3YkwtRm9XbWFWb19lalhXQXpILXlOUHR1N212ZXdoSXhUaGdJS29pdk1aZEZxODF3Y25fYU1jS3lsajNZNzM4VFo2VlhvT2NndHFOeEx0cXROc1RaaENwOEROak5rZmNhRGdPeU1GdW01dw?oc=5</link>
+      <guid isPermaLink="false">5c367c50fd42970dd4a1f809</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-18 05:09
+Pensacola Beach internet outage: AT&amp;T working on fix WKRG</description>
+      <pubDate>Mon, 22 Jun 2026 00:21:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-22T00:21:07.918184Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-17T20:09:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Northwest Omaha AT&amp;T Quantum customers frustrated by 10-day internet outage - WOWT</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmRfbDFtd0hOYTVLdjhpWmZ5XzJWRHZqdFE2bzdrckx1THdoSjRpbTRnNE5yQkd2ZnRzX1VJZkRHOV9YOTRHbGNzeVhObV9tNTROanZHc2R2NHpPQ3ZnSkxQbFFvMWdUZW5yU0loLVpueHd4dkEzdXhEd3JuTVVwNEd4ajZ0T25TenR0bjNWVkN1ZjNxOU5hNV82R2ZLZXlXZ1JIVDltYWdpWTDSAb8BQVVfeXFMTUpRLXFTSFQ4bHh0Q2JzdmhoX2t5a1N5Y1FiWDk0LXZxVlEwM0VSck1QbmVFUWNTNHBrWmdNM0h4eHFaM2RkRjdLeFJKSmFiazZOeEJNZ2VONDY5WU1laGNXbi1wZkRidUczOFlqSXdhQXRfcHRUM3VrQ0pzbkdsdEJkNVB6XzRtOFlNenZycnNfQkE0RWE2RlMyR1Q2cnpmZ1hhVVhzclFmVG1wWlVIUC16dHkzTWpHaDFKdFdYblE?oc=5</link>
+      <guid isPermaLink="false">fe66eefcccbd7257522c8570</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-16 12:27
+Northwest Omaha AT&amp;T Quantum customers frustrated by 10-day internet outage WOWT</description>
+      <pubDate>Mon, 22 Jun 2026 12:24:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-22T12:24:10.197739Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-16T03:27:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] ベトナムのインターネットユーザーの67%以上がIPv6経由でインターネットにアクセスしている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2FzT3BSWG9WN1ZPR1ZqamtMcDRIQnp3VVFlN3lRMFRzSUE4bElDUW8zakNCNXdEc3hRR3MyVHB3bkticF9GdDV0bUtrcXlRYnBRYnd0Q3Q3M2F1WFRmU25mSk1kTnVkRFMxN0lJVDdSYjZSaFhTT3BuaWVGekhmbGNCQjJ4NHd0djZKazI5WQ?oc=5</link>
       <guid isPermaLink="false">5347ddb6d301ff25004d6f6f</guid>
@@ -103,48 +145,6 @@ VNNICインターネット会議2026：IPv6専用ネットワークの導入促�
       <sqm:firstSeenDate>2026-06-22T06:11:30.245989Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-19T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] IPv6専用 – 国家デジタルインフラの新たな推進力。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1UdzhGbEJjU3dFSUg5U1lvTnl3TmhJNmJoNHZ6TnBHUlpCalpVdkpUcG1TLUFvTXNsb3ZRbzF5eXJwVHJYVXRac0huWW1nUTlZc3NqaS1Qc2hzaHY0cE9zN3JBblRxLURjYlFwb3pjejlIRGtmV0RibFB6aTc?oc=5</link>
-      <guid isPermaLink="false">5110980c2ff53dc69b20cfca</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-19 15:25
-IPv6専用 – 国家デジタルインフラの新たな推進力。 Vietnam.vn</description>
-      <pubDate>Sun, 21 Jun 2026 16:20:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T16:20:10.522648Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-19T06:25:26Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Digital services restored after internet outage disrupts libraries across Ohio - WTOL</title>
-      <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5</link>
-      <guid isPermaLink="false">4a5e5ca1877c32473b33929a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-18 23:26
-Digital services restored after internet outage disrupts libraries across Ohio WTOL</description>
-      <pubDate>Sun, 21 Jun 2026 09:28:31 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T09:28:31.991656Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-18T14:26:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Pensacola Beach internet outage: AT&amp;T working on fix - WKRG</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1FJc21LdWgwWDFadmRrcEc0Tk10SnNKUUUyYjZ0ZlpoWDB6MVpHVHQ2RnlfSzJuWVFZNGVlS1ZyNTh4NTNnSTRjNmZjN3VCdzhaTmxOMm9YRUpXZTBKOGVWV0VpRUJOcUZSUkJlMzlGdkdPdVEyYXNIUnBvS0F6ZzJaQ2dvZnVnVEIxNlJn0gGTAUFVX3lxTE54anpUR09MTUUtLVVZblp3emZkaHFLSFFqSG10VWZkSHQ3YkwtRm9XbWFWb19lalhXQXpILXlOUHR1N212ZXdoSXhUaGdJS29pdk1aZEZxODF3Y25fYU1jS3lsajNZNzM4VFo2VlhvT2NndHFOeEx0cXROc1RaaENwOEROak5rZmNhRGdPeU1GdW01dw?oc=5</link>
-      <guid isPermaLink="false">5c367c50fd42970dd4a1f809</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-18 05:09
-Pensacola Beach internet outage: AT&amp;T working on fix WKRG</description>
-      <pubDate>Mon, 22 Jun 2026 00:21:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-22T00:21:07.918184Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-17T20:09:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>
