@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 22:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:39:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) - Mishcon de Reya LLP</title>
@@ -64,20 +64,6 @@ RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクシ�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBqV0lKNjVYLVpsRHB6UEM0SEdUTUdaQ25JX3RUWkJ2TjkydWhlWlBXNkJWUjAxbC1uRHhNcTYxdk14OXpZZDYxWm1qdVUzR3hnNUFXVEpoMUJITXRYcVYxV0ZGZ09mWkpkOEI0?oc=5</link>
-      <guid isPermaLink="false">cc0965858ec624d34cd0b3e4</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-17 08:00
-バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 INTERNET Watch</description>
-      <pubDate>Sun, 21 Jun 2026 05:29:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T05:29:09.508196Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-16T23:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] 富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - ｄメニューニュース</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVGszc0pwbXUwQ0E0RG1YYVFnMTVBbFpmRmEwcF9DWWc4aEpxTU1jZElrWXZRa1BHeWRjYkNFMXJUelRVb3N1UWNxNHBUOVI3dmpiSkNMMWZ4ZzNhUmFGYm8zTFIyTW1uM0VUMEtjb2ZpRklEaTJoX0xQUWV4TUcxbVFLbEhST3RiSGRV0gGQAUFVX3lxTE15TUhGV29rSDdTZjUyR3BTX0VINVR4UUIxbWtIaWFrLXdPdHBObjBLSWpyeEtwcXlmaUNub1pyS20xdzFwdjZpWlhpZGkxRHVpbHVqOWR3X1EwUXJOTmhJVVg2Sk14STJvYUR6Mzh4S3pPQllBY1ZPWTBsdVVHSEFIc3h4OHdwWFVTaFFMbzRINA?oc=5</link>
       <guid isPermaLink="false">eefe94b7458e30b6daabaee1</guid>
@@ -88,6 +74,20 @@ RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクシ�
       <pubDate>Tue, 23 Jun 2026 22:36:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-23T22:36:26.218986Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-23T21:55:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス - 千葉テレビ放送</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE13a0tMeWtEQnZFZWlMaHBzVmd5SW52T0I4Q3NuODZFYnZlOXczWGxaZ0Rxc09jX2ZFS0tpdlVENHUxQVlNQmZPa0s4Q19qRDBjUzJ3T19fNHhkaWxpbTFR0gFkQVVfeXFMTUo3QzRTOUx2bWtsdGZpeVVyd3FyX0xmcWlxRktobHg3Ukt2Q2NNSjM5dTRGTWdGZlJMYmxDcEU1eWF1N3B5TzdVQXNIRUhjNXdSeEpMWVk5WHpoNVVDRGtjTkRnMw?oc=5</link>
+      <guid isPermaLink="false">1a163b322df432619a2d78d6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-24 06:16
+富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス 千葉テレビ放送</description>
+      <pubDate>Tue, 23 Jun 2026 23:39:49 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T23:39:49.040157Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T21:16:27Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
