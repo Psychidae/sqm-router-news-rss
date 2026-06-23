@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-23T18:29:38.077629Z",
+  "generated_at": "2026-06-23T20:54:52.568562Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "f6f22ccfd57c6266817f35b0",
-      "title": "Weeklong internet outage in World Golf Village sparks outrage, forces marital conversation - St. Johns Citizen",
+      "title": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation - St. Johns Citizen",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2puZ2pxT29CYzVXeklZekRpQXB5cktJdlJMLVQwd0hqd0FmOXN5c0xhWEx2XzVLWWRMMHB4Z0VHbzNHdTRxWi1WbTZoQ2twdFBYeWFLbVJ2dTZvU0Q0bU4wSUtSalpjay1Sa2FuQW9MajNjeTNMRXowTHl3Ym5nbktKX3gyNEpvamx5c1VzRkRlVE1KNEtjU3BRQWt3ZDFnVUcyZ2J3WHV1bHZtX3cxMGFB?oc=5",
-      "summary": "Weeklong internet outage in World Golf Village sparks outrage, forces marital conversation St. Johns Citizen",
+      "summary": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation St. Johns Citizen",
       "published_at": "2026-06-23T13:37:14Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -76,9 +76,9 @@
     },
     {
       "id": "4a5e5ca1877c32473b33929a",
-      "title": "Digital services restored after internet outage disrupts libraries across Ohio - WTOL",
+      "title": "Digital services restored after internet outage disrupts libraries across Ohio - wtol.com",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5",
-      "summary": "Digital services restored after internet outage disrupts libraries across Ohio WTOL",
+      "summary": "Digital services restored after internet outage disrupts libraries across Ohio wtol.com",
       "published_at": "2026-06-18T14:26:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
