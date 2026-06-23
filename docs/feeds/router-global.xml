@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 16:39:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:29:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -46,6 +46,20 @@ TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective W
       <pubDate>Mon, 22 Jun 2026 22:25:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-22T22:25:01.110489Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-22T21:57:59Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag UK</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxORk11TnVQTDNabk41NENWSGcwbDBaRktKMkFYcjdrQmpBSm5BXzI2dE1mZC1SblhqcHdsT2o2NE1hTG9uUy1CU0daYnJlMUFTZmRFUER5b3BldXZtYlcyRC1seDhfRWJmYl9Zd1Z3b0htcTJnUjNvdkxjUmtkVWVBTlhIcVpHMl93MjQycGotTnl5ZTc2cWROUGNzdTZlS04yWkNHQmE4UkRGUkRXZUtN?oc=5</link>
+      <guid isPermaLink="false">b364af58361002d79ae72f07</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-23 03:34
+The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag UK</description>
+      <pubDate>Tue, 23 Jun 2026 18:29:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T18:29:35.655320Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-22T18:34:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -92,20 +106,6 @@ ASUS ROG Strix GS-BE7200: WiFi 7 Gaming Router Launches for 200.95 euros Basic T
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5</link>
-      <guid isPermaLink="false">23b50ffca22e89439386bf4f</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-06-18 22:42
-The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium Tom's Hardware</description>
-      <pubDate>Tue, 23 Jun 2026 16:39:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T16:39:41.816768Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-18T13:42:42Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Link, Orbi, &amp; Google Nest models at Woot from just $50 - 9to5Toys</title>
       <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPOGFZQ2ZTbVJhd0pDc2xsejJmN1UzNjVianY4djUzYW45WVNTY25ORmlNVzF6VVhaX3pPZEJZWmtIREgyZEJtZ0RXdnBwdHBFbW5pRWNvd2dNNXpGb1ZfZHFpNTFuMmtSMzV4Mi0yVEZWaHVKd0ExdFNrUWZTaTZCOTRDLVJzZGJLNExCbVN4TmNxVWs?oc=5</link>
       <guid isPermaLink="false">3f6664f5800c59b2edd31694</guid>
@@ -120,30 +120,30 @@ Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Link, 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get big Prime Day discounts - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV1ptLWI3SS1panoxRkRSOFlfd2pWNFFCYjR1Qm5KYkNnWWozRVl4WnU3Y08tUzIteXdmMUZTWHg3V3VCLXpJWlJaeG0xWWJDTkJzVnFDeXZUUUJvY21KbEV0VUZvUWZEUG1vWmtqdjcxdlJjRUY4M3VRUEVfa2Npa1VrcXpnYzdfU1hzSWhkSFZRak41MjJOU0tWS0kxMUg0QzdXZExZaXIxRXhiZHIyVk5XMWNibmZiUVJWcDVkTnJ5QW5JVi1BbW9JcTNyOXlvRnJJNE9WTWt4SDl2Q0lGSA?oc=5</link>
-      <guid isPermaLink="false">9dfbe0468c32fcfba8b27455</guid>
+      <title>[海外ルーターニュース] 10 Of The Best Gaming Routers You Can Buy In 2026 - bgr.com</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRlM1dTlCM19WZ2NlZnFjOHNra0FLWkpqRmFpUDFKOFN4RGVMc1dXdlNfbXpNSUNKZTFxNnpzcVVfU1VnOUVjYlNIUDB6eHowanZzLXhsQ04wUFZPQ2ZGYzltRS0yeXc?oc=5</link>
+      <guid isPermaLink="false">710e24721bcf06edd8993451</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-23 20:00
-Upgrade to Wi-Fi 7 with these Prime Day savings — TP-Link Wi-Fi 7 routers get big Prime Day discounts Tom's Hardware</description>
-      <pubDate>Tue, 23 Jun 2026 11:42:42 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T11:42:42.601401Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-23T11:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-24 03:02
+10 Of The Best Gaming Routers You Can Buy In 2026 bgr.com</description>
+      <pubDate>Tue, 23 Jun 2026 18:29:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T18:29:35.655320Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T18:02:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] 5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 - bgr.com</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMlE3eldXNWZ2SVdfdWU0MEV2RURnRVB2NDJKdUtZenc3cERGbS1tQUpEd3lKcXIzMzlVOUNPcXlOOTBNcUtGSDFwSWRLNDlqWWlicHpmR08wZlhVX0taQzlSTC1tQQ?oc=5</link>
-      <guid isPermaLink="false">d0746d517a68172e41cfe728</guid>
+      <title>[海外ルーターニュース] Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE0zNnl6ZDhkQ0kxZVZhdXloOFloRkdwWmYzVVlRZWhOUWI2M0RoLWh0UXNmUWt1aFdKUzdBTlY2dG9rQ21fQWpUTzJWdkx5Y2h1SmswYWVpa3pjT052T0dFZ05kT2JZR0JUYmkwc0syQzNsNUpNTUhN?oc=5</link>
+      <guid isPermaLink="false">2992e0887fb18b17f2b20f8c</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-06-22 23:47
-5 Of The Best Wi-Fi 7 Routers You Can Buy In 2026 bgr.com</description>
-      <pubDate>Tue, 23 Jun 2026 08:19:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T08:19:15.897166Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-22T14:47:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-24 00:15
+Fix Your Wi-Fi With One of These Tempting Router Deals WIRED</description>
+      <pubDate>Tue, 23 Jun 2026 18:29:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T18:29:35.655320Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T15:15:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
