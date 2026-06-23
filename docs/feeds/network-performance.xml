@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 23:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:18:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Widespread internet outage knocks major sites and services offline (Updated) - Android Authority</title>
@@ -19,6 +19,34 @@ Widespread internet outage knocks major sites and services offline (Updated) And
       <sqm:firstSeenDate>2026-06-22T17:17:40.876369Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-22T18:01:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 多良間村でａｕ通信障害／回線断線、きょう本格復旧へ - 宮古毎日新聞社ホームページ</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5feTJlNlBNWW9IQ25LTmxlUnVsc3VuYWZ1eWNBLXJLNklrcXd0N1RvY3VUOUtxekVGWnoyWFY3S3M3VzNaeENtaWloVnV1ajhOWDVxelFlTmZ4Zm56?oc=5</link>
+      <guid isPermaLink="false">f8958702af5b1921bef218e8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-23 09:00
+多良間村でａｕ通信障害／回線断線、きょう本格復旧へ 宮古毎日新聞社ホームページ</description>
+      <pubDate>Tue, 23 Jun 2026 04:18:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T04:18:45.169998Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T00:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-22 18:03
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Tue, 23 Jun 2026 04:18:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T04:18:45.169998Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-22T09:03:31Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -78,20 +106,6 @@ Pensacola Beach internet outage: AT&amp;T working on fix WKRG</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Northwest Omaha AT&amp;T Quantum customers frustrated by 10-day internet outage - WOWT</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmRfbDFtd0hOYTVLdjhpWmZ5XzJWRHZqdFE2bzdrckx1THdoSjRpbTRnNE5yQkd2ZnRzX1VJZkRHOV9YOTRHbGNzeVhObV9tNTROanZHc2R2NHpPQ3ZnSkxQbFFvMWdUZW5yU0loLVpueHd4dkEzdXhEd3JuTVVwNEd4ajZ0T25TenR0bjNWVkN1ZjNxOU5hNV82R2ZLZXlXZ1JIVDltYWdpWTDSAb8BQVVfeXFMTUpRLXFTSFQ4bHh0Q2JzdmhoX2t5a1N5Y1FiWDk0LXZxVlEwM0VSck1QbmVFUWNTNHBrWmdNM0h4eHFaM2RkRjdLeFJKSmFiazZOeEJNZ2VONDY5WU1laGNXbi1wZkRidUczOFlqSXdhQXRfcHRUM3VrQ0pzbkdsdEJkNVB6XzRtOFlNenZycnNfQkE0RWE2RlMyR1Q2cnpmZ1hhVVhzclFmVG1wWlVIUC16dHkzTWpHaDFKdFdYblE?oc=5</link>
-      <guid isPermaLink="false">fe66eefcccbd7257522c8570</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-16 12:27
-Northwest Omaha AT&amp;T Quantum customers frustrated by 10-day internet outage WOWT</description>
-      <pubDate>Mon, 22 Jun 2026 12:24:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-22T12:24:10.197739Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-16T03:27:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] IPv6専用ネットワークは、国家デジタルインフラの発展に新たな可能性を切り開く。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV054WXpRYlBwRjZBZkdnbXBGUWVPcmU0NmpkdmFQWlFFamVuNTZ1RE9IcGRSZzZWRHl3bDBPZXpsbW52WURKdUFOcHlZOFYxa0FPLUJaRHNFU3JnRl84SGhGei1fREZQY2c1WXNqWDR0aU1LVG1UcW5RT25GcGZ6VVd5dVFpRUFRaHhB?oc=5</link>
       <guid isPermaLink="false">20b43f9081ec0a997ab1c51b</guid>
@@ -130,20 +144,6 @@ IPv6専用ネットワークの導入は、国家デジタルインフラ開発�
       <pubDate>Sat, 20 Jun 2026 00:19:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-20T00:19:12.033837Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-19T08:55:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQNTdHMDUzd1JFSFp6YzUwT2xqZFJoYTVFNjFwUXpxNW1FYTNJZTc2ZDJ2WDAzU0tZeGpET0JvVFdPN3RSbm5WTVRMQlBtSVZSY1h2T3lXOUZ3SDhqdFMtYVNWUzJOSkVFbmhXQlFRbDNyMXdqZ2dXMmNEd0VjLTB2QTdGS29XNi1SSGczSG5BQjZTa20zUnhYT3luRVlGN0VUSWtSZTY4d1lEeDNwTkFjMEpJbXhDVFl3RDQ5UW8yTm9JTFdZLTA2V1Zn?oc=5</link>
-      <guid isPermaLink="false">1a540e38fd1db5a423333603</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-19 16:59
-VNNICインターネット会議2026：IPv6専用ネットワークの導入促進、国家デジタルインフラ開発の推進。 Vietnam.vn</description>
-      <pubDate>Mon, 22 Jun 2026 06:11:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-22T06:11:30.245989Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-19T07:59:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
