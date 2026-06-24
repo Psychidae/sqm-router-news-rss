@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-23T23:39:49.041099Z",
+  "generated_at": "2026-06-24T01:30:17.106836Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 9,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -29,28 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 13
-    },
-    {
-      "id": "70760688ea851368ae3a9e75",
-      "title": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96T1d0TVMxY1VodzN4b2RyelBYU1BDQWsxaXA2ZkhSM2ZwOXNWUjhuTGd2YlB4RVhsS3F0dWF1dmltSDdIWUl6dkhrbG5IRV83a0pqeTJwZkctTlg4YXZxY3lBSFhib0FuR2NEVFh2VWEtbXNIY2JaX0NNSmZ2U3c?oc=5",
-      "summary": "RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） Yahoo!ニュース",
-      "published_at": "2026-06-18T23:00:03Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "10f98e0884e113813fd9983c",
-      "title": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGUtTHdRdmk1U2RMN2hRdmd0LUlVejVKaU96ajFzei1aYXVHcDktd3JETWZkc3F5dndVVS1uLVRRZF9LckNQSm1yQ0JkdmFPQ2pqVHBHSUtfSExfTk9GaDN6dkh5eS0xSk1nSVN6ekR0UmFNRTJob2I3N0ZCenZqRzhNcm5nak1pSThNSDRR?oc=5",
-      "summary": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 Yahoo!ニュース",
-      "published_at": "2026-06-17T00:27:40Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
     },
     {
       "id": "eefe94b7458e30b6daabaee1",

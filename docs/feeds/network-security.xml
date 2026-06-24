@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:30:17 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) - Mishcon de Reya LLP</title>
@@ -32,34 +32,6 @@ Active exploitation of Check Point VPN authentication bypass vulnerability (CVE�
       <pubDate>Tue, 23 Jun 2026 04:18:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-23T04:18:44.212207Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-23T01:48:26Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE96T1d0TVMxY1VodzN4b2RyelBYU1BDQWsxaXA2ZkhSM2ZwOXNWUjhuTGd2YlB4RVhsS3F0dWF1dmltSDdIWUl6dkhrbG5IRV83a0pqeTJwZkctTlg4YXZxY3lBSFhib0FuR2NEVFh2VWEtbXNIY2JaX0NNSmZ2U3c?oc=5</link>
-      <guid isPermaLink="false">70760688ea851368ae3a9e75</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-19 08:00
-RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） Yahoo!ニュース</description>
-      <pubDate>Tue, 23 Jun 2026 18:29:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T18:29:36.716063Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-18T23:00:03Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGUtTHdRdmk1U2RMN2hRdmd0LUlVejVKaU96ajFzei1aYXVHcDktd3JETWZkc3F5dndVVS1uLVRRZF9LckNQSm1yQ0JkdmFPQ2pqVHBHSUtfSExfTk9GaDN6dkh5eS0xSk1nSVN6ekR0UmFNRTJob2I3N0ZCenZqRzhNcm5nak1pSThNSDRR?oc=5</link>
-      <guid isPermaLink="false">10f98e0884e113813fd9983c</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-17 09:27
-バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 Yahoo!ニュース</description>
-      <pubDate>Sun, 21 Jun 2026 05:29:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T05:29:09.508196Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-17T00:27:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

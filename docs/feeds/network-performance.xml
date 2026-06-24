@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:30:18 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Major internet outage in central Auckland – fix expected tomorrow - 1News</title>
@@ -33,20 +33,6 @@ Weeklong internet outage in World Golf Village sparks frustration, forces marita
       <sqm:firstSeenDate>2026-06-23T14:05:37.663145Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-23T13:37:14Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 多良間村でａｕ通信障害／回線断線、きょう本格復旧へ - 宮古毎日新聞社ホームページ</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5feTJlNlBNWW9IQ25LTmxlUnVsc3VuYWZ1eWNBLXJLNklrcXd0N1RvY3VUOUtxekVGWnoyWFY3S3M3VzNaeENtaWloVnV1ajhOWDVxelFlTmZ4Zm56?oc=5</link>
-      <guid isPermaLink="false">f8958702af5b1921bef218e8</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-23 09:00
-多良間村でａｕ通信障害／回線断線、きょう本格復旧へ 宮古毎日新聞社ホームページ</description>
-      <pubDate>Tue, 23 Jun 2026 04:18:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T04:18:45.169998Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-23T00:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -78,6 +64,20 @@ Cloudflare Fiber Cut Triggers Massive Global Internet Outage Akses.co.id</descri
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] 多良間村でａｕ通信障害／回線断線、きょう本格復旧へ - 宮古毎日新聞社ホームページ</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5feTJlNlBNWW9IQ25LTmxlUnVsc3VuYWZ1eWNBLXJLNklrcXd0N1RvY3VUOUtxekVGWnoyWFY3S3M3VzNaeENtaWloVnV1ajhOWDVxelFlTmZ4Zm56?oc=5</link>
+      <guid isPermaLink="false">f8958702af5b1921bef218e8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-23 09:00
+多良間村でａｕ通信障害／回線断線、きょう本格復旧へ 宮古毎日新聞社ホームページ</description>
+      <pubDate>Tue, 23 Jun 2026 04:18:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-23T04:18:45.169998Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T00:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
       <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
@@ -106,30 +106,16 @@ Cloudflare Fiber Cut Triggers Massive Global Internet Outage Akses.co.id</descri
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Digital services restored after internet outage disrupts libraries across Ohio - WTOL</title>
+      <title>[性能・障害] Digital services restored after internet outage disrupts libraries across Ohio - wtol.com</title>
       <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcDlmaU1ybThpdFVFZ0JlUld0ajl3TTJYWXh4UWZPVkRvZzVGdmNnMEJyS3VRNXJ1eWtuakhIOTFYVWRyM0hRWUlYQmhEVDVJMFg4ZGFOa01OUGVIM24taGcyMC1xbmIyM1BBWUYxOXpGUE9CTGZITVdJWWNnQ09vNF9iZUdkNS1aY2FhQkU2Rk9yVTlLek42ZC1haXBUTlNfcHpLeXljYzVsRHVGT3ZWcWpwUXREdEthSHhzanNLZTFZSm5NZFBqaWJicmV2Rm4yNzNPMk1oRHVrNzk1Y1NlZXZYTnNoeDNkMnRQUUtla1BQLVhF?oc=5</link>
       <guid isPermaLink="false">4a5e5ca1877c32473b33929a</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-06-18 23:26
-Digital services restored after internet outage disrupts libraries across Ohio WTOL</description>
+Digital services restored after internet outage disrupts libraries across Ohio wtol.com</description>
       <pubDate>Sun, 21 Jun 2026 09:28:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-21T09:28:31.991656Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-18T14:26:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Pensacola Beach internet outage: AT&amp;T working on fix - WKRG</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1FJc21LdWgwWDFadmRrcEc0Tk10SnNKUUUyYjZ0ZlpoWDB6MVpHVHQ2RnlfSzJuWVFZNGVlS1ZyNTh4NTNnSTRjNmZjN3VCdzhaTmxOMm9YRUpXZTBKOGVWV0VpRUJOcUZSUkJlMzlGdkdPdVEyYXNIUnBvS0F6ZzJaQ2dvZnVnVEIxNlJn0gGTAUFVX3lxTE54anpUR09MTUUtLVVZblp3emZkaHFLSFFqSG10VWZkSHQ3YkwtRm9XbWFWb19lalhXQXpILXlOUHR1N212ZXdoSXhUaGdJS29pdk1aZEZxODF3Y25fYU1jS3lsajNZNzM4VFo2VlhvT2NndHFOeEx0cXROc1RaaENwOEROak5rZmNhRGdPeU1GdW01dw?oc=5</link>
-      <guid isPermaLink="false">5c367c50fd42970dd4a1f809</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-18 05:09
-Pensacola Beach internet outage: AT&amp;T working on fix WKRG</description>
-      <pubDate>Mon, 22 Jun 2026 22:25:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-22T22:25:03.324805Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-17T20:09:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -144,6 +130,20 @@ Pensacola Beach internet outage: AT&amp;T working on fix WKRG</description>
       <pubDate>Mon, 22 Jun 2026 06:11:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-22T06:11:30.245989Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-20T12:19:19Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] IPv6専用ネットワークは、国家デジタルインフラの発展に新たな可能性を切り開く。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV054WXpRYlBwRjZBZkdnbXBGUWVPcmU0NmpkdmFQWlFFamVuNTZ1RE9IcGRSZzZWRHl3bDBPZXpsbW52WURKdUFOcHlZOFYxa0FPLUJaRHNFU3JnRl84SGhGei1fREZQY2c1WXNqWDR0aU1LVG1UcW5RT25GcGZ6VVd5dVFpRUFRaHhB?oc=5</link>
+      <guid isPermaLink="false">20b43f9081ec0a997ab1c51b</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-20 00:07
+IPv6専用ネットワークは、国家デジタルインフラの発展に新たな可能性を切り開く。 Vietnam.vn</description>
+      <pubDate>Wed, 24 Jun 2026 01:30:18 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-24T01:30:18.088001Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-19T15:07:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
