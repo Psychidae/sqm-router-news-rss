@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-24T01:30:16.012199Z",
+  "generated_at": "2026-06-24T05:48:18.760159Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,28 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
-    },
-    {
-      "id": "c6e1e76075330fee89a50dfc",
-      "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
-      "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
-      "published_at": "2026-06-22T21:57:59Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
-    },
-    {
-      "id": "b364af58361002d79ae72f07",
-      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk11TnVQTDNabk41NENWSGcwbDBaRktKMkFYcjdrQmpBSm5BXzI2dE1mZC1SblhqcHdsT2o2NE1hTG9uUy1CU0daYnJlMUFTZmRFUER5b3BldXZtYlcyRC1seDhfRWJmYl9Zd1Z3b0htcTJnUjNvdkxjUmtkVWVBTlhIcVpHMl93MjQycGotTnl5ZTc2cWROUGNzdTZlS04yWkNHQmE4UkRGUkRXZUtN?oc=5",
-      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag UK",
-      "published_at": "2026-06-22T18:34:24Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
     },
     {
       "id": "fc18eea56d330418438ec5cc",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "930fc5358bc14083e3065242",
+      "title": "The QPF4559 front end module from Qorvo Inc. - Wi-Fi 7 radio tuned for dense homes - Ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN09RU19tczZGMFNqcElKYkxSUkdla1NiS0RqTVYwaFlmNUdYMWlHUlkyNnVwaWRjREo0NUNiVWpwQmNpeGZMMnkzTURGQUJSekgwRVVIME5vSHFRZVZxdTBMYVZxSXNlM2lZWXd4Tjh3NWw4N0R5YzBQVHF0RkRTS1NOVXlSalRBazh1MDlXMjRyUE9qdVF0MzhyMVc0Nk13OVlZZkFzX05oNHpPY3c1b0QwU0JhbmVBTVhmaWN5Q25GX1I2?oc=5",
+      "summary": "The QPF4559 front end module from Qorvo Inc. - Wi-Fi 7 radio tuned for dense homes Ad-hoc-news.de",
+      "published_at": "2026-06-24T03:37:31Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
+      "id": "710e24721bcf06edd8993451",
+      "title": "10 Of The Best Gaming Routers You Can Buy In 2026 - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRlM1dTlCM19WZ2NlZnFjOHNra0FLWkpqRmFpUDFKOFN4RGVMc1dXdlNfbXpNSUNKZTFxNnpzcVVfU1VnOUVjYlNIUDB6eHowanZzLXhsQ04wUFZPQ2ZGYzltRS0yeXc?oc=5",
+      "summary": "10 Of The Best Gaming Routers You Can Buy In 2026 bgr.com",
+      "published_at": "2026-06-23T18:02:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-24T01:30:17.106836Z",
+  "generated_at": "2026-06-24T05:48:20.177508Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -28,7 +28,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "eefe94b7458e30b6daabaee1",
@@ -43,9 +43,9 @@
     },
     {
       "id": "1a163b322df432619a2d78d6",
-      "title": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス - 千葉テレビ放送",
+      "title": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス - 千葉テレビ放送株式会社",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13a0tMeWtEQnZFZWlMaHBzVmd5SW52T0I4Q3NuODZFYnZlOXczWGxaZ0Rxc09jX2ZFS0tpdlVENHUxQVlNQmZPa0s4Q19qRDBjUzJ3T19fNHhkaWxpbTFR0gFkQVVfeXFMTUo3QzRTOUx2bWtsdGZpeVVyd3FyX0xmcWlxRktobHg3Ukt2Q2NNSjM5dTRGTWdGZlJMYmxDcEU1eWF1N3B5TzdVQXNIRUhjNXdSeEpMWVk5WHpoNVVDRGtjTkRnMw?oc=5",
-      "summary": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス 千葉テレビ放送",
+      "summary": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス 千葉テレビ放送株式会社",
       "published_at": "2026-06-23T21:16:27Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -69,17 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYLTl2M2lhMHFKZ1BJV09laG9jOW9qTkFVc2FxcW5uLU4wSm9TTnVCU2phOWdWN1kwZHlRdGxOaG5UekJIRkFlc3VCRF84UE0yOWNpa0RNc0EyLXZKMmZQVWxqZXpxR0s0bVRDak1DZUd2cERn?oc=5",
       "summary": "Fortinet「FortiBleed」事案、新規脆弱性ではなく「流出パスワード」で突破される finance.biggo.jp",
       "published_at": "2026-06-20T06:55:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "600ea8d294a3a3f8c43d4214",
-      "title": "パッチ適用後も標的に？ 32万台超のFortiGateを襲った「FortiBleed」の正体：狙われたのは脆弱性ではない - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VbXJpWEhyVG5JeUt6SG5kR3hFdkhYQlFJOTQxTy1KbGtTVVdJQ3Q2TXdtRjMyb3VHOEhfLWRGVWhoTHRQdHlVQVFkZVAxYmt6ZXJpdWJxdWRVRFBpdHFjalFfbUtFMVJINy1LVE5HTEF4QQ?oc=5",
-      "summary": "パッチ適用後も標的に？ 32万台超のFortiGateを襲った「FortiBleed」の正体：狙われたのは脆弱性ではない ITmedia",
-      "published_at": "2026-06-18T22:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
