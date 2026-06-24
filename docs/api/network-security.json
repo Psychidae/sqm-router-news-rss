@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-24T17:31:08.386341Z",
+  "generated_at": "2026-06-24T19:17:22.555715Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "3e2279fb063bde2e32656266",
-      "title": "Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) - Mishcon de Reya LLP",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDZ2ZTJFcTR1aGstUHdCdzBGM0ZQa2lwMzRETFZHcTZJQmU4cl90MFA2eHg2Mkp6T1FkQi1wT2hRTzNxUGY4WWF2cngxMDNTcTE0Q1lWcENhdHdFRmFOMllNYzdRQVk0eWIwR3pfcnJlYWhmNE96NHBfVXhmc29SbDE0cDRGOGswT2JtNy1TaHoxUEZyT25aTU1hdWsxZHhyak5RMlJNTlBYRVhlU1FlWGRqS1lfaGM?oc=5",
-      "summary": "Active exploitation of Check Point VPN authentication bypass vulnerability (CVE‑2026‑50751) Mishcon de Reya LLP",
-      "published_at": "2026-06-17T18:03:44Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 17
-    },
     {
       "id": "99c2c10f56e1409cbe014f1d",
       "title": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - ニコニコニュース",
