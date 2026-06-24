@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-24T09:49:24.274068Z",
+  "generated_at": "2026-06-24T12:28:28.388707Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -39,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "c6e1e76075330fee89a50dfc",
@@ -108,11 +108,11 @@
       "score": 12
     },
     {
-      "id": "930fc5358bc14083e3065242",
-      "title": "The QPF4559 front end module from Qorvo Inc. - Wi-Fi 7 radio tuned for dense homes - Ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN09RU19tczZGMFNqcElKYkxSUkdla1NiS0RqTVYwaFlmNUdYMWlHUlkyNnVwaWRjREo0NUNiVWpwQmNpeGZMMnkzTURGQUJSekgwRVVIME5vSHFRZVZxdTBMYVZxSXNlM2lZWXd4Tjh3NWw4N0R5YzBQVHF0RkRTS1NOVXlSalRBazh1MDlXMjRyUE9qdVF0MzhyMVc0Nk13OVlZZkFzX05oNHpPY3c1b0QwU0JhbmVBTVhmaWN5Q25GX1I2?oc=5",
-      "summary": "The QPF4559 front end module from Qorvo Inc. - Wi-Fi 7 radio tuned for dense homes Ad-hoc-news.de",
-      "published_at": "2026-06-24T03:37:31Z",
+      "id": "7bee126fb040a96a76b532eb",
+      "title": "Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for routers, mesh systems, and range extenders - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa1V2Qnh5Q0IyY01mYS1mS1NlcjhzbmVhV2FySkFnSXpXQVZFTUdLZjctTTVzdXNqNXRVYmRsVWptVU42MHlmTmdqV0NSVFhWU1Q3UFFVRUJuSE9lQTVhc0txZllRZ3dXUmlTVG9ISzI4X0Z3WlBkOUs5TFMzVGQzd2RPZjdXV3MzNG9rc1BTeFlFcDZRcEkzaUlMa2Q4d0hYUlFjME1nclRYRy1kbFM4eTVqcGRDNzlZcFVPQ2FTUGxCVy1PbUI5YWpFQnhJYzhwZGtBTDgxZzEzRmI0Y3lLT3FKcmt6bjhNSkVxVTlJV3dOTE90SkRvTU5ZRXA3Z25E?oc=5",
+      "summary": "Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for routers, mesh systems, and range extenders Tom's Hardware",
+      "published_at": "2026-06-24T10:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
