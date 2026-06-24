@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-24T15:22:44.435143Z",
+  "generated_at": "2026-06-24T17:31:07.389122Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -13,7 +13,7 @@
       "title": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
       "summary": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-23T20:29:55Z",
+      "published_at": "2026-06-24T13:27:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -40,6 +40,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 18
+    },
+    {
+      "id": "c6e1e76075330fee89a50dfc",
+      "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
+      "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
+      "published_at": "2026-06-22T21:51:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
+    },
+    {
+      "id": "ba77f28721650a4ecd2424e8",
+      "title": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off — high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQ3lxT3ZwUUFDakh5U0oyeEpGXzFUNFo2ZzV4VlFfbTFoVjNmbXB6bnlmWXpDejdPV0VfcUpieVpzNXk0U2ZtVHI0cUlWUjJPeC1LTTN5XzIzbUtvSDBMa0paVjktakVVM28weGxLZi1GWHB4U0FDbXZ2amVmRnN1eHhoWm1fN1RldXMyYTFnYnNWQnVpSjVNdm9HSkVZaVcxSktORmRyb3RESjQ3UHM5aDk3SVlRMlFVWmRreGtKUEJUVHRjYkNPRmZ6VHRrNWllWlYzX2I5TTJrNWs5dHdKN050OE15TFdZcjBuRGh0ZUtINjBEX3BIUXpiNmNtb1BjZXkxYlR3ME1zajV2ckhvSlV3XzFSeDNFU040ZEtfQkdabThtODlKRXNRUHRnQm9XbnlGUGRSdUlsazlRR1Rtd19BUnNiOG5rOVE?oc=5",
+      "summary": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off — high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too Tom's Hardware",
+      "published_at": "2026-06-24T16:02:32Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "be9c072407412ad702ec6206",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "120ca53308ca1bd6c77a69db",
-      "title": "Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RV1JzWVYyOGRrMlNSX1c3Wi1BMFdENkZLSlhnOE1DWGIyWU5BLWltMEc0eUU1VEJ5Q0kzaHMyVmloZVVDTmNpdUdWN1c4OVpOOU8wWmV3dVFGSXUyVUdTREJrc2IzZ211SkZTSGpnb2VMYzBFeTh5YQ?oc=5",
-      "summary": "Fix Your Wi-Fi With One of These Tempting Router Deals WIRED",
-      "published_at": "2026-06-24T10:24:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
-    },
-    {
-      "id": "7bee126fb040a96a76b532eb",
-      "title": "Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for routers, mesh systems, and range extenders - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa1V2Qnh5Q0IyY01mYS1mS1NlcjhzbmVhV2FySkFnSXpXQVZFTUdLZjctTTVzdXNqNXRVYmRsVWptVU42MHlmTmdqV0NSVFhWU1Q3UFFVRUJuSE9lQTVhc0txZllRZ3dXUmlTVG9ISzI4X0Z3WlBkOUs5TFMzVGQzd2RPZjdXV3MzNG9rc1BTeFlFcDZRcEkzaUlMa2Q4d0hYUlFjME1nclRYRy1kbFM4eTVqcGRDNzlZcFVPQ2FTUGxCVy1PbUI5YWpFQnhJYzhwZGtBTDgxZzEzRmI0Y3lLT3FKcmt6bjhNSkVxVTlJV3dOTE90SkRvTU5ZRXA3Z25E?oc=5",
-      "summary": "Netgear rolls out stellar Prime Day deals on Wi-Fi 7 gear — up to 33% off for routers, mesh systems, and range extenders Tom's Hardware",
-      "published_at": "2026-06-24T10:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     }
   ]
 }
