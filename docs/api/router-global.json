@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-24T12:28:28.388707Z",
+  "generated_at": "2026-06-24T15:22:44.435143Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -36,17 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFLSEtUbXBORUN6eW1ZcHRkQmIzTWd0QkgxaFhpQjB2VWE4NU5ZN0VCWF9XVk1rNGZsQXRlbHM0NXBub3I2cFpFdFNuUzlISjFtWGZCR1o3TnItTlRIZTAxVW1DczdmU1h5ZFdoRHVyNW9kRmsweHZuNW1jaEwtc0VEYw?oc=5",
       "summary": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day WIRED",
       "published_at": "2026-06-23T12:19:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
-    },
-    {
-      "id": "c6e1e76075330fee89a50dfc",
-      "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
-      "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
-      "published_at": "2026-06-22T21:57:59Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -106,6 +95,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "120ca53308ca1bd6c77a69db",
+      "title": "Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RV1JzWVYyOGRrMlNSX1c3Wi1BMFdENkZLSlhnOE1DWGIyWU5BLWltMEc0eUU1VEJ5Q0kzaHMyVmloZVVDTmNpdUdWN1c4OVpOOU8wWmV3dVFGSXUyVUdTREJrc2IzZ211SkZTSGpnb2VMYzBFeTh5YQ?oc=5",
+      "summary": "Fix Your Wi-Fi With One of These Tempting Router Deals WIRED",
+      "published_at": "2026-06-24T10:24:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     },
     {
       "id": "7bee126fb040a96a76b532eb",
