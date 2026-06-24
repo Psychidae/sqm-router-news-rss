@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-06-24T22:38:45.881554Z",
+  "generated_at": "2026-06-24T23:48:08.264254Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "c951941006a7603ec55a8ca7",
+      "title": "「VPNは更新した」で、その次は？ Excelから始める現実的な脆弱性対策 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BYnRCal9fdzdicjcydXM5X0o0QURTY1hMV2h2QXFIQ3VTb2twSzd3QVllNFkteVg2TUphVU95a2NLa3hydHBvTXRESjZfQWVmS0Rmcl9wejFXVnIyWlFIVHNlaXhQYjBp?oc=5",
+      "summary": "「VPNは更新した」で、その次は？ Excelから始める現実的な脆弱性対策 キーマンズネット",
+      "published_at": "2026-06-24T22:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "99c2c10f56e1409cbe014f1d",
       "title": "『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - ニコニコニュース",
@@ -36,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uZnBxVkFCYTdPN2JSOHFKeW5XbnZXcHNyaE45aTYzSEZKVU1nb215bVcxcUpsYldJcUtnM0RLbnhZZHppcEREcnFVTEZHU1pTUmQ4blotNXA1bW9PRzhwb2JR?oc=5",
       "summary": "セキュリティ課題を解決に導く3つのなぜ skyseaclientview.net",
       "published_at": "2026-06-24T01:36:59Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "5bec706df1436266653aeeba",
-      "title": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnUxcGtJM29wb2I1QVV1RTFkbzVBbFdRcllucEoxRlZsMHcydEQwRUluVU92MnpENW41RjYwVmxvTzhOUXF3S3V1dlNBS0JlQ2lfZlhjZ0JtRndwRGdwV0VBTzVpbm12dmJIbTRRdVJuQnpNMGQyRU1EUmNxT3FuNXZ3aEJZV2FTaHAwTmRn?oc=5",
-      "summary": "富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-06-23T22:46:59Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
