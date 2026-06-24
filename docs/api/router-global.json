@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-24T19:17:21.499757Z",
+  "generated_at": "2026-06-24T21:11:58.895231Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,15 +75,15 @@
       "score": 14
     },
     {
-      "id": "fc18eea56d330418438ec5cc",
-      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajIwZG5JRjdiSnFXSUNXN2tNVFI4RkJyNEh3WmEyZDdqV09GQ0Y2dW9jSWtQWUwwNnV0VVY1dmxjV09uM0tnZEdzWHk3MUFfUXFiM3FoQjdDenpaT2JtUjMwS3lPSE82MFFJZU9EZWJtSmo4cWJaNXBseTZGSkU4cnNuTHctNXg2V1I3Tmhrek11b1VCNzJQTWJqNlFINE0?oc=5",
-      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag",
-      "published_at": "2026-06-22T18:34:42Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "b364af58361002d79ae72f07",
+      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORk11TnVQTDNabk41NENWSGcwbDBaRktKMkFYcjdrQmpBSm5BXzI2dE1mZC1SblhqcHdsT2o2NE1hTG9uUy1CU0daYnJlMUFTZmRFUER5b3BldXZtYlcyRC1seDhfRWJmYl9Zd1Z3b0htcTJnUjNvdkxjUmtkVWVBTlhIcVpHMl93MjQycGotTnl5ZTc2cWROUGNzdTZlS04yWkNHQmE4UkRGUkRXZUtN?oc=5",
+      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag UK",
+      "published_at": "2026-06-22T18:34:24Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
     },
     {
       "id": "db3ebd97a48d955d223699a8",
