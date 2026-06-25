@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 22:09:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 23:43:17 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 「VPNは更新した」で、その次は？ Excelから始める現実的な脆弱性対策 - キーマンズネット</title>
@@ -22,16 +22,16 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE96T1d0TVMxY1VodzN4b2RyelBYU1BDQWsxaXA2ZkhSM2ZwOXNWUjhuTGd2YlB4RVhsS3F0dWF1dmltSDdIWUl6dkhrbG5IRV83a0pqeTJwZkctTlg4YXZxY3lBSFhib0FuR2NEVFh2VWEtbXNIY2JaX0NNSmZ2U3c?oc=5</link>
-      <guid isPermaLink="false">70760688ea851368ae3a9e75</guid>
+      <title>[セキュリティ] 『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE43S0ZmemdIZ0ZiRUlac1JpWlFGZHBNNnJUR2xBbkh4YzhoUGw4VEFMV053RUpxdm1uVnM0QTZBUHgwckxnc19CWjRoRmxxbThnRDlwWlV1cEwwdnRMNUdwbTNERFJreVBWWW1jZDEyeEwxYm9GYXVKRFQ1WQ?oc=5</link>
+      <guid isPermaLink="false">99c2c10f56e1409cbe014f1d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-06-19 08:00
-RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクションの脆弱性（ScanNetSecurity） Yahoo!ニュース</description>
-      <pubDate>Wed, 24 Jun 2026 17:31:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-24T17:31:08.385447Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-18T23:00:03Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-23 10:48
+『WebサイトやVPNなどの外部公開IT資産年1回の脆弱性診断だけで大丈夫？』というテーマのウェビナーを開催 ニコニコニュース</description>
+      <pubDate>Thu, 25 Jun 2026 23:43:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-25T23:43:17.048526Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T01:48:26Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -60,6 +60,34 @@ RadiX AX6600 WiFi 6 Tri-Band Gaming Router に OSコマンドインジェクシ�
       <pubDate>Thu, 25 Jun 2026 11:06:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-25T11:06:31.306269Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-23T22:46:59Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス - 千葉テレビ放送株式会社</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE13a0tMeWtEQnZFZWlMaHBzVmd5SW52T0I4Q3NuODZFYnZlOXczWGxaZ0Rxc09jX2ZFS0tpdlVENHUxQVlNQmZPa0s4Q19qRDBjUzJ3T19fNHhkaWxpbTFR0gFkQVVfeXFMTUo3QzRTOUx2bWtsdGZpeVVyd3FyX0xmcWlxRktobHg3Ukt2Q2NNSjM5dTRGTWdGZlJMYmxDcEU1eWF1N3B5TzdVQXNIRUhjNXdSeEpMWVk5WHpoNVVDRGtjTkRnMw?oc=5</link>
+      <guid isPermaLink="false">1a163b322df432619a2d78d6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-24 06:16
+富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 | チバテレ＋プラス 千葉テレビ放送株式会社</description>
+      <pubDate>Thu, 25 Jun 2026 23:43:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-25T23:43:17.048526Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T21:16:27Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - Excite エキサイト</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5MMVlyS0trdTBNbzRhc1BQdTFjT3ZjSlU3azhaV1RUMEtibXRxcDZXZ05ocnAtaXlFNWp2SFkteElfN0k1aWFHdHhhdTRWZ0NLOUtZS04zVlVSbDRsUWI1SWNSR2IydVBLUzZndkE3Z3Vpbmh0NklzWXhyd08?oc=5</link>
+      <guid isPermaLink="false">7d310c4d608b1c9f4543b91b</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-06-24 06:16
+富士ソフトのモバイルルーターなど4製品が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 Excite エキサイト</description>
+      <pubDate>Thu, 25 Jun 2026 23:43:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-25T23:43:17.048526Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T21:16:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
