@@ -5,34 +5,20 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 04:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:02:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5</link>
-      <guid isPermaLink="false">39de90d6315cfd4b1b74d81e</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-24 22:27
-Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware</description>
-      <pubDate>Sun, 21 Jun 2026 18:08:42 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-21T18:08:42.889122Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-24T13:27:25Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWVzSjFWc0dtdmNib3Z4LVZnWkoyWWJwM3V5R0x3R2VHci0zd1NCQjdzZXBVWHQ5cndMV2h4UGtOVU5aWGZCZVo0YTc5c1pINjB3bmhaSEpwdHM3cWJUQXhNbW9GNU5aZExndkRFQ1J5RlpWTEhTTWNqVl8zUzZGQzBZLVB5bmhBaE0zSHhGWWs1UTdWS0NuYWlLaGxZOTNKU1Bidm5weTVnclZMc1U0UVJabmo?oc=5</link>
       <guid isPermaLink="false">68157c1f9a7cd3767aaf065e</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
+ソース: Google News Global: home networking
 元記事日付: 2026-06-12 07:50
 TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers Digital Reviews Network</description>
       <pubDate>Tue, 23 Jun 2026 04:18:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-23T04:18:43.224154Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-11T22:50:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -144,6 +130,20 @@ Wi-Fi 7 and mesh routers are up to 60% off ahead of Prime Day: Deals on D-Link, 
       <pubDate>Thu, 18 Jun 2026 14:20:57 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-18T14:20:57.818028Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-18T11:01:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Wi-Fi 7 in the Schenker Connect 15: 3,500 Mbps - but what does that actually bring to day-to-day business use? - Notebookcheck</title>
+      <link>https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjlvR0Y5aTEzb0c4eEFNeXRacks3ZGtpU3FDeWVzOTR3cDAwUkdFNF9ZQUdRbHJJOVcwWFpwZGplWER4djRpTTJoVHlkZWMyQTk0eHNHYWdXbUlPVEhIUTcySXFpczZTNGRkRnV5andqSEladWdMMWlMSEpYR3Z3czFQNm5rRkNvZkFDT1Q2c2dhSEdBLXowMDdsVUdKamMwQlhFWVAteXoxTjYxU29DN2kybUN1Q1dyWkxjX2NuT3RzcTZxdkUxRFNzN0xNeW1YdmZleTNBRmF6ZUtWZ0VkT3lMZGRLZw?oc=5</link>
+      <guid isPermaLink="false">9961a0cc7764e5b2b5ecf1de</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-25 01:39
+Wi-Fi 7 in the Schenker Connect 15: 3,500 Mbps - but what does that actually bring to day-to-day business use? Notebookcheck</description>
+      <pubDate>Thu, 25 Jun 2026 08:02:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-25T08:02:01.484998Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-24T16:39:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

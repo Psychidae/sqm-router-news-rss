@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-25T04:22:04.137700Z",
+  "generated_at": "2026-06-25T08:02:01.485956Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,26 +9,15 @@
   "errors": [],
   "items": [
     {
-      "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-24T13:27:25Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 24
-    },
-    {
       "id": "68157c1f9a7cd3767aaf065e",
       "title": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWVzSjFWc0dtdmNib3Z4LVZnWkoyWWJwM3V5R0x3R2VHci0zd1NCQjdzZXBVWHQ5cndMV2h4UGtOVU5aWGZCZVo0YTc5c1pINjB3bmhaSEpwdHM3cWJUQXhNbW9GNU5aZExndkRFQ1J5RlpWTEhTTWNqVl8zUzZGQzBZLVB5bmhBaE0zSHhGWWs1UTdWS0NuYWlLaGxZOTNKU1Bidm5weTVnclZMc1U0UVJabmo?oc=5",
       "summary": "TP-Link Archer GE400 BE6500 Gaming Router Review: Affordable Wi-Fi 7 for Gamers Digital Reviews Network",
       "published_at": "2026-06-11T22:50:34Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 20
+      "score": 21
     },
     {
       "id": "1d913d54d631eb569830f01a",
@@ -72,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "fc18eea56d330418438ec5cc",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "9961a0cc7764e5b2b5ecf1de",
+      "title": "Wi-Fi 7 in the Schenker Connect 15: 3,500 Mbps - but what does that actually bring to day-to-day business use? - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNjlvR0Y5aTEzb0c4eEFNeXRacks3ZGtpU3FDeWVzOTR3cDAwUkdFNF9ZQUdRbHJJOVcwWFpwZGplWER4djRpTTJoVHlkZWMyQTk0eHNHYWdXbUlPVEhIUTcySXFpczZTNGRkRnV5andqSEladWdMMWlMSEpYR3Z3czFQNm5rRkNvZkFDT1Q2c2dhSEdBLXowMDdsVUdKamMwQlhFWVAteXoxTjYxU29DN2kybUN1Q1dyWkxjX2NuT3RzcTZxdkUxRFNzN0xNeW1YdmZleTNBRmF6ZUtWZ0VkT3lMZGRLZw?oc=5",
+      "summary": "Wi-Fi 7 in the Schenker Connect 15: 3,500 Mbps - but what does that actually bring to day-to-day business use? Notebookcheck",
+      "published_at": "2026-06-24T16:39:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }

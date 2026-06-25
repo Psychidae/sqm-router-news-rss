@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-25T04:22:02.600523Z",
+  "generated_at": "2026-06-25T08:02:00.654476Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "baf009983dfec55e0b2756e1",
-      "title": "ASUS、Wi-Fi 7や10GbEポートに対応したAIコア内蔵ゲーミングルーター「ROG Rapture GT-BE19000AI」 - kakaku.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKN01va0NYaEhWbFFNUEZyWjduQjRDZFVqZmxWaF9tblFQc0lBYjREOWxTNHQtbjY2NDFPb19Vc1RDejNjZ1c0a3A1dEhyVHlKWDVUSGNrZ2swQ0pQMFdMV1NyVzZ4T0hfNnc?oc=5",
-      "summary": "ASUS、Wi-Fi 7や10GbEポートに対応したAIコア内蔵ゲーミングルーター「ROG Rapture GT-BE19000AI」 kakaku.com",
-      "published_at": "2026-06-11T07:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 20
-    },
     {
       "id": "a26bfbcc1b5c35acdcd71371",
       "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 - INTERNET Watch",
@@ -27,6 +16,28 @@
       "published_at": "2026-06-15T07:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "137fbfae1e16ebb28dd46d61",
+      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdzlNRkVLcEZjUGdqNXoybDVyWmZRU2VmM3laWnE3MGJzNWFWOW52UURoT1N4eTkwdGhnZnhtZzFBZ2dQb1lhMEpBLW53TGNkRS1TbmI3OXlCb0VqZmM3UGZ0MU9vM3NTVGJReFF6NlZJOGtRRHptSm91OHZDRTg?oc=5",
+      "summary": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-06-15T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "55814e90a176de36470ce99a",
+      "title": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHc0WjhqN3NvbUpCU3RJTDhjR01KQ25Fb3lob1c4bjdvUWJWa2wzZUhzNm9QUDVwM1VRaHhhQTh3enZlNDhkbDgxX1FTU0ExVldrRFM5eEJHVkZrT1hwWmUwYmtiZDBoemZrd0RGQTh4S0QyRTlxRHZjaE9URDl5MUU5clNwRVNnSVFZcl93?oc=5",
+      "summary": "まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ーinー1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」 (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-06-15T02:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
     },
@@ -42,55 +53,44 @@
       "score": 15
     },
     {
-      "id": "3b40bfbb69f6a4f61d117fc9",
-      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxPeW9sR1g0Z0tMTFF6UGY2MnhteFdXd1NxaE9RQldNNEE1bmZfejVuRXlHdDBhYkloRHU2Ni1KdU9uMmd6eVdfSnB0dWU1VTNKeGpDd1JVV3Blejc1c2dFaF9JR0FnOUNSLS1tM0t6V0E0ZlQxUDU4NkJ5eUx6enVYb3EwX04yRWVZRFhXa0tWeF9sSjJacWVZalZ6cGNiX0t6aUVLTkVySVIxQjhGZVRsNE1Xb1JMS0Z0cTI5QUdiWmZ0amFpN3ZHb1JqNVBjSEhjTjdJQ0NXWUZ3NFBhUVYxQWlMRHQ5UHJJckF3cWtaU01CZE00RldnTm1nRWNxUGh5bUlEUVlrSXpnN0J3RUJPcUczakxzdHpEZ2VWWmJRQ1B0eFQzUGVyM0RVOXZSYVU1U0kyTlA3VlZ0eGtQNGc2WFN4bWpsSW1YV0paSjY5WXFIZWgxdnFRWmI3aFRIY2JmNVZqMXN3Vlp1V29TaE1pUFFWVlJkZllNbGg3VVAzVnUxbnF0MkNYTGJzT215WmlvWVdZSmc1ZTA5ak9zcXV6OFBNbEN2MXozdzR6MlpKSi16UUVCLVNpVWpjSm5LYjNaN2dxdHFmSjBoaXo5ZUdPMGllNE1mY2trOWZBRGIwRDFzMWtXQnBlZHo1bm5vUWN1R0xkTXJla19Tcm1BZDlNZUdiM21abWVYSmd3YzI3M3BGRjNUMnJmYjZhM0pGeHdVWF9xY3RpTFRfVWJ5UjBQT3pVOTJQWjNSM0o0bUlkbXMzQlpoZTA4aU5rTHNLUmpFQTlRLUVlbTJDbXh3bXZ1Yk0zVmV1b21O?oc=5",
-      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 MSN",
-      "published_at": "2026-06-17T05:35:38Z",
+      "id": "ffce011bc15bab5ddbec2d72",
+      "title": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOWE3Tmt2X0podlRudnlleWc3RVZuVU1GdDg1S2RUdHVFUkw2S1FQcEI4enZiLWdVU1h5TW5Pcnk2b2EwQTVjVFhzQXp5SVE2Q2R1VjB1LTlsLVJvbnNVQ3hOLUZlREhXd0JVakZBWGloOW51TXRMQ3hhd3Q3VUxoNUd3VVlSc2dDRDFlQ253?oc=5",
+      "summary": "ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売 (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-06-12T03:45:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 15
     },
     {
-      "id": "d9eb952794e4f4d404b31f0f",
-      "title": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpZjlRZUwyVjl1VHEwUFB3b1pfVkNKb05SSlMya3A3cnV5OGxhMUdRRlBVUlRObV81Z2ZQd0d5MFJhajVQR3ppWk54bWxZb1NvaGttcnpvcFY4Y1Z5YnRVM0hDSWJHSzh4UkdGTE82U1BGREU?oc=5",
-      "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 Excite エキサイト",
-      "published_at": "2026-06-16T07:45:00Z",
+      "id": "1af7758d09b77f130b33fca6",
+      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTFZsRC1Hdm1IM1pqZWg2REZwTzdhYWNXck1EQ1ZoSDB3WjVyUHFudWhKdHZyc201RHBBd0J4VWN0WnF4X2M1XzcwSWp0dUFHZEhhRm4yZGM1OWNkakNrdXpyRlduQk5qNTNhOGRPVXdwX29LT1NTcGotNGNHWTg?oc=5",
+      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22（BCN） Yahoo!ニュース",
+      "published_at": "2026-06-22T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 11
     },
     {
-      "id": "40aa55699b744c6fb00405c1",
-      "title": "NEC「Aterm」シリーズのWi-FiルーターがAmazonでセール中 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHZVQzRpZVA3Q3VVd3oxNGtnMVJqbkptMzIwZDFITUVNX3NURFpIeGxnNW1idzltbG81M01WMnFEdS1tVXRsel9ZVXRVNG42WWc1UllkcFg3U0JoWWxwU2ZVQ05zLWJKS2Y1SUktenkwU3pvMnhlaDlEV3RVcXlzRHpYSzh1TXcyWG9j0gGQAUFVX3lxTE4yRWZvaUZZWHduMkZ5UEJaXzNWUkZsa2JONUdrWEI2dGxIRllYcnRleTZ4bDRlSU5oZzJDc1Y3azBzemxQQTJvMjJ1R2ZsamowOU1XeS1ManZRNnR1Y3BtaGxVcHVPOWYzUHNHdlJkUXFvOEFvOFM0aGY4NDRPNVMxZGdGVDl2bHdueEZqQ2lINA?oc=5",
-      "summary": "NEC「Aterm」シリーズのWi-FiルーターがAmazonでセール中 ｄメニューニュース",
-      "published_at": "2026-06-16T02:30:00Z",
+      "id": "3572aea0e06feeb02bfd892d",
+      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ05QMHdZSjl0VUZmd0hUSTBWZVlxVzJacmFGRVk4bWJwUHU1N1E0SkFnLWs0UGhMOExOZWFtano2bE1QZ2FqT2tEYzB2MnV3VnFuN1FkV3dKalRMNXlTTnl5SFlrcHRWV1MtSG9uTDhJbk5TQTlvdUZDOS1kLVJBTXQ2QXJabk92Q2VVX2J3?oc=5",
+      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) Yahoo!ニュース",
+      "published_at": "2026-06-22T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 11
     },
     {
-      "id": "78213542ce5e01c26f94178c",
-      "title": "【本日6月15日 20時配信】前代未聞のトンデモWi-Fiルーターが登場!! 文句なしの性能にとがり過ぎのスペックを持ったASUSの最新モデルを動画で解説【清水理史の「イニシャルB」チャンネル】 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SNGJ1cGhzeHMweVlZcDlGaTIzZ0ViVnpJa21PU04yS3NJb2drczdlSHVOQWU2RU5mMldJNmNxV0hKYVl2LW4tNUExQVd5MVluU0VYb0l1d0dCOF9OT2QxaUNlZzdwSkpFdDZ0WkxIdGRwQ1NlclQ2cFZ6V0dfeGs?oc=5",
-      "summary": "【本日6月15日 20時配信】前代未聞のトンデモWi-Fiルーターが登場!! 文句なしの性能にとがり過ぎのスペックを持ったASUSの最新モデルを動画で解説【清水理史の「イニシャルB」チャンネル】 INTERNET Watch",
-      "published_at": "2026-06-15T07:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
-      "id": "2fcd634ed3b46d188f88935f",
-      "title": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/6/15 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xU2syWnMwZzktYWhWaGJoREdZdXE5Smw5OF9pTGhZOUpJMS1pZ0tXSk41aGNSaGczalVSRnl3a1pyb2FXc3FjZlg4NldlaS1jR3FaOQ?oc=5",
-      "summary": "Wi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/6/15 ニコニコニュース",
-      "published_at": "2026-06-15T03:00:48Z",
+      "id": "10f98e0884e113813fd9983c",
+      "title": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGUtTHdRdmk1U2RMN2hRdmd0LUlVejVKaU96ajFzei1aYXVHcDktd3JETWZkc3F5dndVVS1uLVRRZF9LckNQSm1yQ0JkdmFPQ2pqVHBHSUtfSExfTk9GaDN6dkh5eS0xSk1nSVN6ekR0UmFNRTJob2I3N0ZCenZqRzhNcm5nak1pSThNSDRR?oc=5",
+      "summary": "バッファローのWi-Fi 7ルーター「WSR3600BE4P」が、セキュリティ評価制度「JC-STAR」★1適合ラベルを取得 Yahoo!ニュース",
+      "published_at": "2026-06-17T00:27:40Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
