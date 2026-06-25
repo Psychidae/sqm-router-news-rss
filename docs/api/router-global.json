@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-25T13:24:34.838712Z",
+  "generated_at": "2026-06-25T16:08:53.330785Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -35,7 +35,7 @@
       "title": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day - WIRED",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFLSEtUbXBORUN6eW1ZcHRkQmIzTWd0QkgxaFhpQjB2VWE4NU5ZN0VCWF9XVk1rNGZsQXRlbHM0NXBub3I2cFpFdFNuUzlISjFtWGZCR1o3TnItTlRIZTAxVW1DczdmU1h5ZFdoRHVyNW9kRmsweHZuNW1jaEwtc0VEYw?oc=5",
       "summary": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day WIRED",
-      "published_at": "2026-06-23T12:26:16Z",
+      "published_at": "2026-06-23T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -61,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "be9c072407412ad702ec6206",
@@ -105,7 +105,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "3f6664f5800c59b2edd31694",
