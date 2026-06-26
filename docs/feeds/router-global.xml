@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 01:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:19:24 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5</link>
-      <guid isPermaLink="false">39de90d6315cfd4b1b74d81e</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-06-26 05:39
-Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware</description>
-      <pubDate>Thu, 25 Jun 2026 20:34:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-25T20:34:34.708905Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-25T20:39:25Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day - WIRED</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFLSEtUbXBORUN6eW1ZcHRkQmIzTWd0QkgxaFhpQjB2VWE4NU5ZN0VCWF9XVk1rNGZsQXRlbHM0NXBub3I2cFpFdFNuUzlISjFtWGZCR1o3TnItTlRIZTAxVW1DczdmU1h5ZFdoRHVyNW9kRmsweHZuNW1jaEwtc0VEYw?oc=5</link>
@@ -144,6 +130,20 @@ Wi-Fi 7 in the Schenker Connect 15: 3,500 Mbps - but what does that actually bri
       <pubDate>Fri, 26 Jun 2026 01:51:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-26T01:51:33.258021Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-24T16:39:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Fix Your Wi-Fi With One of These Tempting Router Deals - WIRED</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5RV1JzWVYyOGRrMlNSX1c3Wi1BMFdENkZLSlhnOE1DWGIyWU5BLWltMEc0eUU1VEJ5Q0kzaHMyVmloZVVDTmNpdUdWN1c4OVpOOU8wWmV3dVFGSXUyVUdTREJrc2IzZ211SkZTSGpnb2VMYzBFeTh5YQ?oc=5</link>
+      <guid isPermaLink="false">120ca53308ca1bd6c77a69db</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-06-24 19:24
+Fix Your Wi-Fi With One of These Tempting Router Deals WIRED</description>
+      <pubDate>Fri, 26 Jun 2026 06:19:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-26T06:19:24.542887Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-24T10:24:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
