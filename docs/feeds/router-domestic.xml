@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:00:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] まさに「前代未聞のシロモノ」。Wi-Fiルーター+小型サーバーの2ｰinｰ1を実現したASUSの新型Wi-Fi 7ルーター「ROG Rapture GT-BE19000AI」【イニシャルB】 - INTERNET Watch</title>
@@ -33,20 +33,6 @@
       <sqm:firstSeenDate>2026-06-25T08:02:00.626784Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-15T02:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売（INTERNET Watch） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSUl4SWgzdURxMGlBODJjZ2hEVlJlRmRQbUNhTFRuYUlDSnVwOGpvSUlid3Bld1BzbEdWTi1aeVpZMVFBaFZybUtXcXJsR3RNZEFOMFZXSHBoSzNNVHd5S181QUtmbWMxMDZ4N25zbTd0REdpbExzT1NGRkFtcEk?oc=5</link>
-      <guid isPermaLink="false">1f475ba3a0bdf7efda797f6c</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router products
-元記事日付: 2026-06-12 16:00
-ASUSのAIコア搭載Wi-Fi 7ゲーミングルーター「ROG Rapture GT-BE19000AI」、本日発売（INTERNET Watch） Yahoo!ニュース</description>
-      <pubDate>Tue, 23 Jun 2026 22:36:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-23T22:36:23.650385Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-12T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
       <category>国内ルーター市場</category>
     </item>
     <item>
@@ -116,6 +102,20 @@ TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 Vietnam
       <pubDate>Fri, 26 Jun 2026 06:19:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-26T06:19:23.071335Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-16T23:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0ZrRkxVaVpkeXdKN3k2U3BaUWwzQTFYOTgxTFlmZ3ZaMWhVLTJoejB0Y21fMGU0R05lbE16eDNXWDg3dVZSTFdueEpBTS1KUWZCZUpBR0JJS3k5TmJPdFgyOXI2dmtCd3JKR19rTlJWdFNVUWFsb2FMeDVhWDR3NVdrSVZlYVFJc2FjdEtn?oc=5</link>
+      <guid isPermaLink="false">7eced7e94321393e48d2eb23</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-06-16 16:28
+バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) Yahoo!ニュース</description>
+      <pubDate>Fri, 26 Jun 2026 10:00:46 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-26T10:00:46.556707Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-16T07:28:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
