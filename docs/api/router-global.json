@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-26T22:22:12.544033Z",
+  "generated_at": "2026-06-26T23:45:36.531946Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,14 +10,14 @@
   "items": [
     {
       "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "title": "Best Amazon Prime Day Wi-Fi router deals you can still get 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Amazon Prime Day Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-25T07:00:00Z",
+      "summary": "Best Amazon Prime Day Wi-Fi router deals you can still get 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-06-26T20:27:59Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 24
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
@@ -86,17 +86,6 @@
       "score": 13
     },
     {
-      "id": "fc18eea56d330418438ec5cc",
-      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajIwZG5JRjdiSnFXSUNXN2tNVFI4RkJyNEh3WmEyZDdqV09GQ0Y2dW9jSWtQWUwwNnV0VVY1dmxjV09uM0tnZEdzWHk3MUFfUXFiM3FoQjdDenpaT2JtUjMwS3lPSE82MFFJZU9EZWJtSmo4cWJaNXBseTZGSkU4cnNuTHctNXg2V1I3Tmhrek11b1VCNzJQTWJqNlFINE0?oc=5",
-      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag",
-      "published_at": "2026-06-24T13:27:10Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "be9c072407412ad702ec6206",
       "title": "I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an absolute networking bargain - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yX0hUVXg3ajdqLXlYY05DQmRsM1RuR2F2UGRQa0FwU2NXWGtreUhBQ1RJWTk1VG1zR3J4S1RHeDhQM1hGazJkSDVMYnppbFRPckZyQ0lJR2xSNWVqQXhpdjJNTlVuSmItZUtRUkUybDFiQQ?oc=5",
@@ -106,6 +95,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "fc18eea56d330418438ec5cc",
+      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajIwZG5JRjdiSnFXSUNXN2tNVFI4RkJyNEh3WmEyZDdqV09GQ0Y2dW9jSWtQWUwwNnV0VVY1dmxjV09uM0tnZEdzWHk3MUFfUXFiM3FoQjdDenpaT2JtUjMwS3lPSE82MFFJZU9EZWJtSmo4cWJaNXBseTZGSkU4cnNuTHctNXg2V1I3Tmhrek11b1VCNzJQTWJqNlFINE0?oc=5",
+      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag",
+      "published_at": "2026-06-22T18:34:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     },
     {
       "id": "db3ebd97a48d955d223699a8",
