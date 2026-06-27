@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-27T01:34:13.055960Z",
+  "generated_at": "2026-06-27T05:37:31.268802Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
-      "title": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year - pcgamer.com",
+      "title": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year - PC Gamer",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR2xaTWI1TW4wLVVPd1BYSVRKN1NTZS1JeW9paU5zV0RpMEt5UENtWmsyQ1JqM1phSF9OcXJrNTlGSHlSQWZ2dnNQOFVndkdFUVQ2T1VzWi1VRmEwTmhFSHExVEZ0cDZyQ2gwR2Z5b01ETzdaWlZmWmFKYVJhVUhVemRtVmUzUWx5M1l2QjdMWm9XMWl4Z2tPVG1hS0ZyNHdjTHNQV0J5UW80bU1aN3h3UGV0V3hOM2RjcFlyVTczNDNjOUxFbHczR2M5VEhIOUZfc2ttYXcxY3BDaEV4dVlRTjJGLWgxWGxjdGNqV2prcDRnMmtUMTVV?oc=5",
-      "summary": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year pcgamer.com",
+      "summary": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year PC Gamer",
       "published_at": "2026-06-26T16:10:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
