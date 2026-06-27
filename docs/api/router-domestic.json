@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-06-27T18:50:05.750408Z",
+  "generated_at": "2026-06-27T20:18:46.088251Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,10 +31,21 @@
       "score": 15
     },
     {
-      "id": "3572aea0e06feeb02bfd892d",
-      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ05QMHdZSjl0VUZmd0hUSTBWZVlxVzJacmFGRVk4bWJwUHU1N1E0SkFnLWs0UGhMOExOZWFtano2bE1QZ2FqT2tEYzB2MnV3VnFuN1FkV3dKalRMNXlTTnl5SFlrcHRWV1MtSG9uTDhJbk5TQTlvdUZDOS1kLVJBTXQ2QXJabk92Q2VVX2J3?oc=5",
-      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) Yahoo!ニュース",
+      "id": "e545569a4e014457aadf8004",
+      "title": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObURBOGRfMGVVWml3NEFWTFlMN2F6SzhRUGZlMEFybXVvM3k5Q3B1X0d3LVhzZ3AwcjY3Q09xVUlFZGR1cUV1N1VQclBZaGZQY0YwaFJOeGxoSUxtVG5TaFZ5MzZxYUdhck8wM3VzNnNDWFRPOGpRalRJNmZMel9vZXR3a1g5aFhKZHNwR0JUOXFkZXdDelE?oc=5",
+      "summary": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 Vietnam.vn",
+      "published_at": "2026-06-24T22:01:44Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "917cf3360ceaa31a0217b56c",
+      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tUTEwYjJ4ZnRkZml6Tzg3aXlvX3JMRTlvamJWdE8tQ1pWU1ZYeHNUeF9TTWFGRjdPelhJVm1yRzJuQ0hkaHBPcVVmWEFTX0dfemExbXdHWmtvNlRLbGluZy1uckNYcWVMU3l5VzFoOHZlN2tGR3VoN193?oc=5",
+      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 bcnretail.com",
       "published_at": "2026-06-22T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0ZrRkxVaVpkeXdKN3k2U3BaUWwzQTFYOTgxTFlmZ3ZaMWhVLTJoejB0Y21fMGU0R05lbE16eDNXWDg3dVZSTFdueEpBTS1KUWZCZUpBR0JJS3k5TmJPdFgyOXI2dmtCd3JKR19rTlJWdFNVUWFsb2FMeDVhWDR3NVdrSVZlYVFJc2FjdEtn?oc=5",
       "summary": "バッファローのWi-Fi 7ルーター、セキュリティ制度「JC-STAR」レベル1適合 (PC Watch) Yahoo!ニュース",
       "published_at": "2026-06-16T07:28:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
-      "id": "9f5a6bf7ca6e5b07b27302a6",
-      "title": "NEC「Aterm」シリーズのWi-FiルーターがAmazonでセール中 Wi-Fi 6E対応「AM-AX5400T6」が2万4730円など - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5TklKaW9heWNSX09OUGpQRlN2TF9UU21mWlBUTmZDY29IbkFUQnUtYWNlSFdURVVhV0xtX0NjVEtqLXUyMzl1M05waWNkd1JrREVDYVp1eURWZXZwZVl6OEJsRWhraGlPbUUwdmpuVFc?oc=5",
-      "summary": "NEC「Aterm」シリーズのWi-FiルーターがAmazonでセール中 Wi-Fi 6E対応「AM-AX5400T6」が2万4730円など INTERNET Watch",
-      "published_at": "2026-06-16T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

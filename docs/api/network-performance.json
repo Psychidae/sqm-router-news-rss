@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-27T18:50:09.952928Z",
+  "generated_at": "2026-06-27T20:18:49.084333Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5",
       "summary": "Widespread internet outage knocks major sites and services offline (Updated) Android Authority",
       "published_at": "2026-06-22T18:08:20Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "ab9ab1231c5cad6bb39e7c6c",
-      "title": "Massive Internet Outage Disrupts X and Reddit Globally - Akses.co.id",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVUZ5QVBSbUpHVFRleUgyR2l3UmZ3NGREczN2WkhEOXltQjNfUjQ0YjlPcjRWTGV0Ry1tUkpoMlhkdjk2cC1Ydjh1UXNuTkw4ejRZUVFJbi04X3c3aGdGbC1udnpzYnFXRFRMc1EydW1Fa0Z0dVE?oc=5",
-      "summary": "Massive Internet Outage Disrupts X and Reddit Globally Akses.co.id",
-      "published_at": "2026-06-22T14:54:18Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
