@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-28T11:25:05.349184Z",
+  "generated_at": "2026-06-28T13:03:31.718622Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,17 +64,6 @@
       "score": 17
     },
     {
-      "id": "b4027f9a743f4fd0c5f093fa",
-      "title": "ZTE Unveils Flagship AI Router to Accelerate Wi-Fi 7 Smart Home Ecosystems - streamlinefeed.co.ke",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxlbncxdEt5Zmltd1BpVW5KNElYczN1NFZfbms3SGNaVHY5eHZBZ3ZwRHRlZDhFb2F2bEItSXR4a2RqUW50OUlFeTFNemtkYVUwU2p5SzlOSFphWm5pTWN6bndiNHB6NnhJT29wc1RSR2JqalNpeE1BY09KenpuX1VTOUVzZHEyeHA3ZmNhaHZFMWh6cmlHajBkdTBSeEdKZHFvWS0xQlpadkcz?oc=5",
-      "summary": "ZTE Unveils Flagship AI Router to Accelerate Wi-Fi 7 Smart Home Ecosystems streamlinefeed.co.ke",
-      "published_at": "2026-06-26T12:21:42Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "1ee7dd18027fcb2571e75c2c",
       "title": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day - 9to5Toys",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5ZbWFlNVRVbUl2Z3k3MkJfSVY4R3lfUEw3eURobTl4dnc4MmFxX25YNWpxTWRvbGw1N0tMZWtWTV8yeGt2T3RXUUtfTndlWnRiNjZwSWRqUG1MQXB6d3JyMEVUNXJUNVRqb3ZsSm8wQm15N2VIQ1JsWDZXUFJJb0pxYjZWZ3VBMHlXXzFsYmNXNkVO?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yX0hUVXg3ajdqLXlYY05DQmRsM1RuR2F2UGRQa0FwU2NXWGtreUhBQ1RJWTk1VG1zR3J4S1RHeDhQM1hGazJkSDVMYnppbFRPckZyQ0lJR2xSNWVqQXhpdjJNTlVuSmItZUtRUkUybDFiQQ?oc=5",
       "summary": "I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an absolute networking bargain Tom's Guide",
       "published_at": "2026-06-24T08:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "fc18eea56d330418438ec5cc",
+      "title": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNajIwZG5JRjdiSnFXSUNXN2tNVFI4RkJyNEh3WmEyZDdqV09GQ0Y2dW9jSWtQWUwwNnV0VVY1dmxjV09uM0tnZEdzWHk3MUFfUXFiM3FoQjdDenpaT2JtUjMwS3lPSE82MFFJZU9EZWJtSmo4cWJaNXBseTZGSkU4cnNuTHctNXg2V1I3Tmhrek11b1VCNzJQTWJqNlFINE0?oc=5",
+      "summary": "The Best Amazon Prime Day Wi-Fi Router Deal Might Already Be Live PCMag",
+      "published_at": "2026-06-22T18:34:45Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
