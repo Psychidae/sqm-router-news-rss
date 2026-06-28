@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 13:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:56:19 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com</title>
@@ -74,20 +74,6 @@ Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better R
       <pubDate>Sun, 28 Jun 2026 06:36:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-28T06:36:07.653805Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-23T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Widespread internet outage knocks major sites and services offline (Updated) - Android Authority</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5</link>
-      <guid isPermaLink="false">3561942df871e15725a3de21</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-23 03:08
-Widespread internet outage knocks major sites and services offline (Updated) Android Authority</description>
-      <pubDate>Sun, 28 Jun 2026 06:36:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-28T06:36:07.653805Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-22T18:08:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
