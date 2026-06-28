@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-28T14:56:19.942055Z",
+  "generated_at": "2026-06-28T16:36:06.761527Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -58,6 +58,17 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sX2o4b2RkMzdpeVoyMVlsbXZkaktRNGJaSTRkNUEtSkR4U1hLZlFyMlpfSmdFaV9hS1dfMDdqNGFlcUIySE1GODNxSmZwVFBWekw2NnhWa3BnMjFtcHVaR0hCeHQ2RlczTk40ZWNn?oc=5",
       "summary": "Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better RTINGS.com",
       "published_at": "2026-06-23T07:00:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "3561942df871e15725a3de21",
+      "title": "Widespread internet outage knocks major sites and services offline (Updated) - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5",
+      "summary": "Widespread internet outage knocks major sites and services offline (Updated) Android Authority",
+      "published_at": "2026-06-22T18:08:20Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
