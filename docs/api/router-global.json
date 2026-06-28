@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-28T06:36:05.929572Z",
+  "generated_at": "2026-06-28T09:46:21.809913Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,6 +75,17 @@
       "score": 13
     },
     {
+      "id": "23b50ffca22e89439386bf4f",
+      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium Tom's Hardware",
+      "published_at": "2026-06-26T00:14:04Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "ba77f28721650a4ecd2424e8",
       "title": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off — high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQ3lxT3ZwUUFDakh5U0oyeEpGXzFUNFo2ZzV4VlFfbTFoVjNmbXB6bnlmWXpDejdPV0VfcUpieVpzNXk0U2ZtVHI0cUlWUjJPeC1LTTN5XzIzbUtvSDBMa0paVjktakVVM28weGxLZi1GWHB4U0FDbXZ2amVmRnN1eHhoWm1fN1RldXMyYTFnYnNWQnVpSjVNdm9HSkVZaVcxSktORmRyb3RESjQ3UHM5aDk3SVlRMlFVWmRreGtKUEJUVHRjYkNPRmZ6VHRrNWllWlYzX2I5TTJrNWs5dHdKN050OE15TFdZcjBuRGh0ZUtINjBEX3BIUXpiNmNtb1BjZXkxYlR3ME1zajV2ckhvSlV3XzFSeDNFU040ZEtfQkdabThtODlKRXNRUHRnQm9XbnlGUGRSdUlsazlRR1Rtd19BUnNiOG5rOVE?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "db3ebd97a48d955d223699a8",
-      "title": "Your Wi-Fi 7 router might be lying to you—here's how to tell - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFRaRmlvNGNlN3FCa0NjZ0dfOUNCRXNmN0xhMjFKX3k0Tks5YVZXbnBBeTZreFBFN3B0TjZVTTY2MjNDR2VUekhrZGhuR0dNYnZTVGpoMjJjcjRicXNwRWU3cTZmcjB0RjNGUlY1eWhVY2JUX3lON29QU0l1TzRlWVdRTWUtQWJjWGZEQ2R1MjEtLVV3UzhHNEs1MGx4TjhK?oc=5",
-      "summary": "Your Wi-Fi 7 router might be lying to you—here's how to tell How-To Geek",
-      "published_at": "2026-06-20T17:30:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
