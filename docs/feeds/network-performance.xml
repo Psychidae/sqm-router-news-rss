@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 07:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:07:09 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] How to Troubleshoot Network Latency Issues Post-Solana RPC 2.0 Infrastructure Rebuild - FinanceFeeds</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTZ3SEpYbXRoaS1QVnBiRS1DaDBrYUJOQzBLbXdSQjZPSzBBXzlMeVVSQmNrMjVmNmcyQlNJWm44WTVaSFVqOHNNQ1lZSzZVejJ3UnBqcTVkNzZGQ1VYRGNjWXBlb3o5U3psdmVueXdyVHBkYnRGc2E5bE4tX19RWU5BaDJHSmUxSGh3dC1sZTlta01ENzAtSWJsSGUxdVIzR3pad3hUR2xHZVNhVENHbA?oc=5</link>
-      <guid isPermaLink="false">7349616efbdf9cdb245294dc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-28 19:57
-How to Troubleshoot Network Latency Issues Post-Solana RPC 2.0 Infrastructure Rebuild FinanceFeeds</description>
-      <pubDate>Mon, 29 Jun 2026 07:02:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-29T07:02:47.799942Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-28T10:57:22Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com</title>
       <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5</link>
@@ -32,6 +18,20 @@ Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra 
       <pubDate>Sun, 28 Jun 2026 06:36:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-28T06:36:07.653805Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-27T20:10:16Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Akamai warns of an agentic AI 'latency crisis' - Fierce Network</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFAtMkZDb0ZaMm9pYUp4dlFVYU9QUDk3V2FzV2lkR211UnppbVkyd3lQUWhQU2I4cXh2RVhNT1NIeVEzNFNvMTBZY09LdzRDcDJnTGdKMlpYQXZMMUJXa2dNa1ByS1QtTE55Q3YwWHNaOVdQY01nNkh2TWFFcHZkZnJ5V0dWQQ?oc=5</link>
+      <guid isPermaLink="false">500ae2b9640cfd19d8395b94</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-26 22:15
+Akamai warns of an agentic AI 'latency crisis' Fierce Network</description>
+      <pubDate>Mon, 29 Jun 2026 12:07:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-29T12:07:09.499375Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-26T13:15:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -60,6 +60,48 @@ Internet outage caused St. Louis County jail disturbance, official says STLtoday
       <pubDate>Sun, 28 Jun 2026 11:25:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-28T11:25:06.979126Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-25T21:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation - St. Johns Citizen</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2puZ2pxT29CYzVXeklZekRpQXB5cktJdlJMLVQwd0hqd0FmOXN5c0xhWEx2XzVLWWRMMHB4Z0VHbzNHdTRxWi1WbTZoQ2twdFBYeWFLbVJ2dTZvU0Q0bU4wSUtSalpjay1Sa2FuQW9MajNjeTNMRXowTHl3Ym5nbktKX3gyNEpvamx5c1VzRkRlVE1KNEtjU3BRQWt3ZDFnVUcyZ2J3WHV1bHZtX3cxMGFB?oc=5</link>
+      <guid isPermaLink="false">f6f22ccfd57c6266817f35b0</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-23 22:37
+Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation St. Johns Citizen</description>
+      <pubDate>Mon, 29 Jun 2026 12:07:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-29T12:07:09.499375Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T13:37:14Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better - RTINGS.com</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5sX2o4b2RkMzdpeVoyMVlsbXZkaktRNGJaSTRkNUEtSkR4U1hLZlFyMlpfSmdFaV9hS1dfMDdqNGFlcUIySE1GODNxSmZwVFBWekw2NnhWa3BnMjFtcHVaR0hCeHQ2RlczTk40ZWNn?oc=5</link>
+      <guid isPermaLink="false">4190f47ffbaccdb0b01108c8</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-23 16:00
+Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better RTINGS.com</description>
+      <pubDate>Mon, 29 Jun 2026 12:07:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-29T12:07:09.499375Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-23T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Widespread internet outage knocks major sites and services offline (Updated) - Android Authority</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5</link>
+      <guid isPermaLink="false">3561942df871e15725a3de21</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-23 03:08
+Widespread internet outage knocks major sites and services offline (Updated) Android Authority</description>
+      <pubDate>Mon, 29 Jun 2026 12:07:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-06-29T12:07:09.499375Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-22T18:08:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
