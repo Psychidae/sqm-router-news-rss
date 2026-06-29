@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-29T01:55:36.874403Z",
+  "generated_at": "2026-06-29T07:02:47.800572Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 5,
   "errors": [],
   "items": [
+    {
+      "id": "7349616efbdf9cdb245294dc",
+      "title": "How to Troubleshoot Network Latency Issues Post-Solana RPC 2.0 Infrastructure Rebuild - FinanceFeeds",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTZ3SEpYbXRoaS1QVnBiRS1DaDBrYUJOQzBLbXdSQjZPSzBBXzlMeVVSQmNrMjVmNmcyQlNJWm44WTVaSFVqOHNNQ1lZSzZVejJ3UnBqcTVkNzZGQ1VYRGNjWXBlb3o5U3psdmVueXdyVHBkYnRGc2E5bE4tX19RWU5BaDJHSmUxSGh3dC1sZTlta01ENzAtSWJsSGUxdVIzR3pad3hUR2xHZVNhVENHbA?oc=5",
+      "summary": "How to Troubleshoot Network Latency Issues Post-Solana RPC 2.0 Infrastructure Rebuild FinanceFeeds",
+      "published_at": "2026-06-28T10:57:22Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "70a2a3f6814fca9fdaf1eadc",
       "title": "Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com",
@@ -36,39 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObk5za1A3bHdxckt0TVo5OVVXUHdwYzNNandwUnRwNGtwczl2bG41MkZLdFQ1Y0ExNzZpY0hVWm5sQmZyaVVPbVRBVXBTMnFISHh6WHFuOHBFUTNSbno4VFMyYzc4T1RJS1k1MW9CcG8xbUtEclloVVZZbFZOUXNEWXdiMWFCY3ZvYk9ZZ0dHQVhLdHRzT0x5MlFsWHZ2TzA?oc=5",
       "summary": "Internet outage caused St. Louis County jail disturbance, official says STLtoday.com",
       "published_at": "2026-06-25T21:30:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "f6f22ccfd57c6266817f35b0",
-      "title": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation - St. Johns Citizen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2puZ2pxT29CYzVXeklZekRpQXB5cktJdlJMLVQwd0hqd0FmOXN5c0xhWEx2XzVLWWRMMHB4Z0VHbzNHdTRxWi1WbTZoQ2twdFBYeWFLbVJ2dTZvU0Q0bU4wSUtSalpjay1Sa2FuQW9MajNjeTNMRXowTHl3Ym5nbktKX3gyNEpvamx5c1VzRkRlVE1KNEtjU3BRQWt3ZDFnVUcyZ2J3WHV1bHZtX3cxMGFB?oc=5",
-      "summary": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation St. Johns Citizen",
-      "published_at": "2026-06-23T13:37:14Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "4190f47ffbaccdb0b01108c8",
-      "title": "Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sX2o4b2RkMzdpeVoyMVlsbXZkaktRNGJaSTRkNUEtSkR4U1hLZlFyMlpfSmdFaV9hS1dfMDdqNGFlcUIySE1GODNxSmZwVFBWekw2NnhWa3BnMjFtcHVaR0hCeHQ2RlczTk40ZWNn?oc=5",
-      "summary": "Wi-Fi Latency: Not All Routers Are Equal, And No, Gaming Routers Aren't Better RTINGS.com",
-      "published_at": "2026-06-23T07:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "3561942df871e15725a3de21",
-      "title": "Widespread internet outage knocks major sites and services offline (Updated) - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5",
-      "summary": "Widespread internet outage knocks major sites and services offline (Updated) Android Authority",
-      "published_at": "2026-06-22T18:08:20Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
