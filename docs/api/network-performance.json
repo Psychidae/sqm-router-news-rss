@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-29T16:08:05.671328Z",
+  "generated_at": "2026-06-29T18:21:16.416587Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -24,20 +24,20 @@
       "title": "LepsiaTV upgrades internet platform for lower latency - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkd5N1BjR1V1b1o0aWRxOHJaa1VpNkFJcGRvSDh5U0hIZlVBRk1JUzlIMnFBUnZ5Z0xxR0VEQkhoT0tQNmpxTmJkVHhldDlmTTQ1ZkVjd2lGZ0ZIcUxVQ2poNEp2LUlYWC1nMFhUV3NvUWRMbEN2b29wVnpTdlJSMlhOYkVoT1JQTlVjQ0p5NU9fN0xuejJBaUNXemo?oc=5",
       "summary": "LepsiaTV upgrades internet platform for lower latency Telecompaper",
-      "published_at": "2026-06-29T15:07:24Z",
+      "published_at": "2026-06-29T15:11:15Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
     },
     {
-      "id": "ef4f811f0e76ffeef2dc9846",
-      "title": "Customer gets rebate for internet outage - Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVuZkNzVmhFRVhIXzJQYXViWER5dmxib1pFWXQ1RF9qdTBzbjhHQnFiN0k0MUZtNExtLVhJU25TVTdTaHhQTzBIbFdMblpzRlFTMUtmWVkxU1F0V3pSNFBDMEdHaG1IRDZpdnJESHF1aUdaSE90TGtkZVJBNlFtUDFtbmpqMTg?oc=5",
-      "summary": "Customer gets rebate for internet outage Jamaica Observer",
-      "published_at": "2026-06-28T05:15:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "c8ea7c60727020594f0755b8",
+      "title": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3Rtd256dEhaMmI3WTJWYU83bXVKNW9QenplZGdMWkluMkt6ZnhxeWg1UkVMQzA4TFpkd3kwRE0yTW9Rbm81MWx1a2ZmRlFHM2Vxc2RHV2tLSWRkc2ZuWlBfLXBoWUpXZzYxczVnYjV3Y1lUbVoyV3hqdGdBR2xiYUt1VVFHbDF1X2ctSm1UWUQzOWtLUDdSWTc3T2t1blRHSW1iaktNa25YV3p0NG4yWHZxU1F4Tk0tTmFF?oc=5",
+      "summary": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー ENTREVUE.FR",
+      "published_at": "2026-06-29T12:01:39Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -108,15 +108,15 @@
       "score": 7
     },
     {
-      "id": "3561942df871e15725a3de21",
-      "title": "Widespread internet outage knocks major sites and services offline (Updated) - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLMER3M2NDZmhjTnhnYUQ2Y3BkZ1BDRWswMFZJdDhNbmppaWpSNWYzOV9Wb1ZCUFExU21semc0RzZjdVRYRUlSdjF3SGUtdm5EaGVwcEV2STV4ZXMyTWxOc3I4ZlJNY1FraGFB?oc=5",
-      "summary": "Widespread internet outage knocks major sites and services offline (Updated) Android Authority",
-      "published_at": "2026-06-22T18:08:20Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "f8958702af5b1921bef218e8",
+      "title": "多良間村でａｕ通信障害／回線断線、きょう本格復旧へ - 宮古毎日新聞社ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5feTJlNlBNWW9IQ25LTmxlUnVsc3VuYWZ1eWNBLXJLNklrcXd0N1RvY3VUOUtxekVGWnoyWFY3S3M3VzNaeENtaWloVnV1ajhOWDVxelFlTmZ4Zm56?oc=5",
+      "summary": "多良間村でａｕ通信障害／回線断線、きょう本格復旧へ 宮古毎日新聞社ホームページ",
+      "published_at": "2026-06-23T00:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 7
+      "score": 6
     }
   ]
 }
