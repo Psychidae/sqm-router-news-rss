@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-06-30T16:10:06.391081Z",
+  "generated_at": "2026-06-30T18:12:23.077260Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,14 +10,14 @@
   "items": [
     {
       "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Amazon Prime Day Wi-Fi router deals you can still get 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Amazon Prime Day Wi-Fi router deals you can still get 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-26T20:27:59Z",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-06-30T14:08:07Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 22
+      "score": 24
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
@@ -57,7 +57,7 @@
       "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
       "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
-      "published_at": "2026-06-22T21:51:16Z",
+      "published_at": "2026-06-22T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
