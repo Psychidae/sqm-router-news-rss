@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-30T00:19:11.761365Z",
+  "generated_at": "2026-06-30T04:49:50.300761Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 10,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -31,33 +31,11 @@
       "score": 9
     },
     {
-      "id": "c8ea7c60727020594f0755b8",
-      "title": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー - ENTREVUE.FR",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3Rtd256dEhaMmI3WTJWYU83bXVKNW9QenplZGdMWkluMkt6ZnhxeWg1UkVMQzA4TFpkd3kwRE0yTW9Rbm81MWx1a2ZmRlFHM2Vxc2RHV2tLSWRkc2ZuWlBfLXBoWUpXZzYxczVnYjV3Y1lUbVoyV3hqdGdBR2xiYUt1VVFHbDF1X2ctSm1UWUQzOWtLUDdSWTc3T2t1blRHSW1iaktNa25YV3p0NG4yWHZxU1F4Tk0tTmFF?oc=5",
-      "summary": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー ENTREVUE.FR",
-      "published_at": "2026-06-29T12:01:39Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "ef4f811f0e76ffeef2dc9846",
       "title": "Customer gets rebate for internet outage - Jamaica Observer",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVuZkNzVmhFRVhIXzJQYXViWER5dmxib1pFWXQ1RF9qdTBzbjhHQnFiN0k0MUZtNExtLVhJU25TVTdTaHhQTzBIbFdMblpzRlFTMUtmWVkxU1F0V3pSNFBDMEdHaG1IRDZpdnJESHF1aUdaSE90TGtkZVJBNlFtUDFtbmpqMTg?oc=5",
       "summary": "Customer gets rebate for internet outage Jamaica Observer",
       "published_at": "2026-06-28T05:15:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "70a2a3f6814fca9fdaf1eadc",
-      "title": "Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5",
-      "summary": "Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day libyaupdate.com",
-      "published_at": "2026-06-27T20:10:16Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -80,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObk5za1A3bHdxckt0TVo5OVVXUHdwYzNNandwUnRwNGtwczl2bG41MkZLdFQ1Y0ExNzZpY0hVWm5sQmZyaVVPbVRBVXBTMnFISHh6WHFuOHBFUTNSbno4VFMyYzc4T1RJS1k1MW9CcG8xbUtEclloVVZZbFZOUXNEWXdiMWFCY3ZvYk9ZZ0dHQVhLdHRzT0x5MlFsWHZ2TzA?oc=5",
       "summary": "Internet outage caused St. Louis County jail disturbance, official says STLtoday.com",
       "published_at": "2026-06-25T21:30:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "f6f22ccfd57c6266817f35b0",
-      "title": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation - St. Johns Citizen",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2puZ2pxT29CYzVXeklZekRpQXB5cktJdlJMLVQwd0hqd0FmOXN5c0xhWEx2XzVLWWRMMHB4Z0VHbzNHdTRxWi1WbTZoQ2twdFBYeWFLbVJ2dTZvU0Q0bU4wSUtSalpjay1Sa2FuQW9MajNjeTNMRXowTHl3Ym5nbktKX3gyNEpvamx5c1VzRkRlVE1KNEtjU3BRQWt3ZDFnVUcyZ2J3WHV1bHZtX3cxMGFB?oc=5",
-      "summary": "Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation St. Johns Citizen",
-      "published_at": "2026-06-23T13:37:14Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

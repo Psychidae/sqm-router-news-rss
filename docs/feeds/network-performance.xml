@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:49:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage causes closure of Petersburg courts - WRIC ABC 8News</title>
@@ -36,20 +36,6 @@ LepsiaTV upgrades internet platform for lower latency Telecompaper</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー - ENTREVUE.FR</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3Rtd256dEhaMmI3WTJWYU83bXVKNW9QenplZGdMWkluMkt6ZnhxeWg1UkVMQzA4TFpkd3kwRE0yTW9Rbm81MWx1a2ZmRlFHM2Vxc2RHV2tLSWRkc2ZuWlBfLXBoWUpXZzYxczVnYjV3Y1lUbVoyV3hqdGdBR2xiYUt1VVFHbDF1X2ctSm1UWUQzOWtLUDdSWTc3T2t1blRHSW1iaktNa25YV3p0NG4yWHZxU1F4Tk0tTmFF?oc=5</link>
-      <guid isPermaLink="false">c8ea7c60727020594f0755b8</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-06-29 21:01
-オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー ENTREVUE.FR</description>
-      <pubDate>Mon, 29 Jun 2026 21:58:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-29T21:58:50.747021Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-29T12:01:39Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Customer gets rebate for internet outage - Jamaica Observer</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVuZkNzVmhFRVhIXzJQYXViWER5dmxib1pFWXQ1RF9qdTBzbjhHQnFiN0k0MUZtNExtLVhJU25TVTdTaHhQTzBIbFdMblpzRlFTMUtmWVkxU1F0V3pSNFBDMEdHaG1IRDZpdnJESHF1aUdaSE90TGtkZVJBNlFtUDFtbmpqMTg?oc=5</link>
       <guid isPermaLink="false">ef4f811f0e76ffeef2dc9846</guid>
@@ -60,20 +46,6 @@ Customer gets rebate for internet outage Jamaica Observer</description>
       <pubDate>Mon, 29 Jun 2026 20:30:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-29T20:30:42.044350Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-28T05:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5</link>
-      <guid isPermaLink="false">70a2a3f6814fca9fdaf1eadc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-28 05:10
-Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day libyaupdate.com</description>
-      <pubDate>Sun, 28 Jun 2026 06:36:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-28T06:36:07.653805Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-27T20:10:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -102,20 +74,6 @@ Internet outage caused St. Louis County jail disturbance, official says STLtoday
       <pubDate>Sun, 28 Jun 2026 11:25:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-28T11:25:06.979126Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-25T21:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation - St. Johns Citizen</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2puZ2pxT29CYzVXeklZekRpQXB5cktJdlJMLVQwd0hqd0FmOXN5c0xhWEx2XzVLWWRMMHB4Z0VHbzNHdTRxWi1WbTZoQ2twdFBYeWFLbVJ2dTZvU0Q0bU4wSUtSalpjay1Sa2FuQW9MajNjeTNMRXowTHl3Ym5nbktKX3gyNEpvamx5c1VzRkRlVE1KNEtjU3BRQWt3ZDFnVUcyZ2J3WHV1bHZtX3cxMGFB?oc=5</link>
-      <guid isPermaLink="false">f6f22ccfd57c6266817f35b0</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-23 22:37
-Weeklong internet outage in World Golf Village sparks frustration, forces marital conversation St. Johns Citizen</description>
-      <pubDate>Mon, 29 Jun 2026 12:07:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-29T12:07:09.499375Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-23T13:37:14Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
