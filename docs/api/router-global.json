@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-01T13:22:31.405463Z",
+  "generated_at": "2026-07-01T16:09:23.835843Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 24
+      "score": 23
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
@@ -75,15 +75,15 @@
       "score": 14
     },
     {
-      "id": "a5e7a8fdc4fa2bf1bf046a0b",
-      "title": "Asus Introduces New ROG Octopus 7 Router with Wi-Fi 7 Standard - Zamin.uz",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0Z0ZXQtZHlDUkxtbHVnVWpDeTUydkFBc0IzOXdwSzA4aUkyUnhTVWZaVWZBVEVwYU41WjRNZ1lwUHcxZ2ttZ0o2cEVnTnpJc09vYXNGanRERHBPb25mYzlNNjFadTl1bmkzR3dWQTlaR1IzNUZYaGdkVUI2TlEzMk52dW5wY3ZONWRBaHNISmUtYWVUOVFNWkJ6alNlYnVvaDUxRTBZazk?oc=5",
-      "summary": "Asus Introduces New ROG Octopus 7 Router with Wi-Fi 7 Standard Zamin.uz",
-      "published_at": "2026-06-30T15:55:38Z",
+      "id": "bb9aa36eafbbdfa76aa913d4",
+      "title": "The MediaMarkt Connect 850 WiFi router - Ceconomy bets on bundled home networking - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUx5VVFJb1R6bXJlMG93djU2RGRoM2FLc2lEeVZYLV9vS2phaktObHpQdE9fdDRya2d1UVZaeXotLW1GWHpud2dKU21HZDJOUXBILUpwMmt5eFJDZUFSRG5lNDN2TWp1WVQ5TzY1TkdIeGZUQ1EzOVhtenlzeTgwaTZWOWdONGFOVHdJTkdVb1JWQmdKaGhvNVVJTlRGWDUtQWsxZkttSlpUZ3ZJS2hLV0FUalJyQ0w1MGxKSXQ5RzVucU5BdVE?oc=5",
+      "summary": "The MediaMarkt Connect 850 WiFi router - Ceconomy bets on bundled home networking AD HOC NEWS",
+      "published_at": "2026-07-01T05:10:57Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "29ae98d7a5e4d275cf4a84d3",
@@ -91,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
       "summary": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac",
       "published_at": "2026-06-30T15:21:48Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "bb9aa36eafbbdfa76aa913d4",
-      "title": "The MediaMarkt Connect 850 WiFi router - Ceconomy bets on bundled home networking - AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORUx5VVFJb1R6bXJlMG93djU2RGRoM2FLc2lEeVZYLV9vS2phaktObHpQdE9fdDRya2d1UVZaeXotLW1GWHpud2dKU21HZDJOUXBILUpwMmt5eFJDZUFSRG5lNDN2TWp1WVQ5TzY1TkdIeGZUQ1EzOVhtenlzeTgwaTZWOWdONGFOVHdJTkdVb1JWQmdKaGhvNVVJTlRGWDUtQWsxZkttSlpUZ3ZJS2hLV0FUalJyQ0w1MGxKSXQ5RzVucU5BdVE?oc=5",
-      "summary": "The MediaMarkt Connect 850 WiFi router - Ceconomy bets on bundled home networking AD HOC NEWS",
-      "published_at": "2026-07-01T05:10:57Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "1ee7dd18027fcb2571e75c2c",
+      "title": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5ZbWFlNVRVbUl2Z3k3MkJfSVY4R3lfUEw3eURobTl4dnc4MmFxX25YNWpxTWRvbGw1N0tMZWtWTV8yeGt2T3RXUUtfTndlWnRiNjZwSWRqUG1MQXB6d3JyMEVUNXJUNVRqb3ZsSm8wQm15N2VIQ1JsWDZXUFJJb0pxYjZWZ3VBMHlXXzFsYmNXNkVO?oc=5",
+      "summary": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day 9to5Toys",
+      "published_at": "2026-06-26T11:08:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     }
   ]
 }
