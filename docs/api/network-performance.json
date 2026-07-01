@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-06-30T23:36:48.440539Z",
+  "generated_at": "2026-07-01T01:55:32.700421Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -91,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5",
       "summary": "Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day libyaupdate.com",
       "published_at": "2026-06-27T20:10:16Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "500ae2b9640cfd19d8395b94",
-      "title": "Akamai warns of an agentic AI 'latency crisis' - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRFAtMkZDb0ZaMm9pYUp4dlFVYU9QUDk3V2FzV2lkR211UnppbVkyd3lQUWhQU2I4cXh2RVhNT1NIeVEzNFNvMTBZY09LdzRDcDJnTGdKMlpYQXZMMUJXa2dNa1ByS1QtTE55Q3YwWHNaOVdQY01nNkh2TWFFcHZkZnJ5V0dWQQ?oc=5",
-      "summary": "Akamai warns of an agentic AI 'latency crisis' Fierce Network",
-      "published_at": "2026-06-26T13:15:48Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

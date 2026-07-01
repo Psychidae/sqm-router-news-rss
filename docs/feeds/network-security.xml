@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 23:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 01:55:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 「VPNは更新した」で、その次は？ Excelから始める現実的な脆弱性対策 - キーマンズネット</title>
@@ -18,20 +18,6 @@
       <pubDate>Tue, 30 Jun 2026 22:03:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-30T22:03:11.850935Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-24T22:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] セキュリティの転換点「脱SSL-VPN」──そのヒントは3年ぶり開催の「Fortinet Accelerate Japan 2026」にあり - マイナビニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FX1ZwX1VBSVJUNmEwc1NHdS1aYTlxNU0xZHljN2JoZkNnbUpMaFYwMGJ0M3ZWT3hWOVQ1eU9TUGdQemRTYWFuN0llWXhWclJQYjNUWlhCcGtEY2J5WVJrQWFSaUlOWkE?oc=5</link>
-      <guid isPermaLink="false">734436d73d362896d21e0102</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-06-29 09:00
-セキュリティの転換点「脱SSL-VPN」──そのヒントは3年ぶり開催の「Fortinet Accelerate Japan 2026」にあり マイナビニュース</description>
-      <pubDate>Tue, 30 Jun 2026 22:03:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-30T22:03:11.850935Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-29T00:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
