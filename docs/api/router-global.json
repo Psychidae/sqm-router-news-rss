@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-01T06:43:21.563978Z",
+  "generated_at": "2026-07-01T10:32:20.005992Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 16
     },
     {
+      "id": "9cee25a4532ea91beffc8334",
+      "title": "Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested - IT Pro",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcURXQUNaajBhWV9KeUFuRlhfT1lRTWFjY2xoaW1aamdaR2RVUHdvZk5lSDdCcEgxb2lZSmxUZ1gzaGtUUXRwa204VDAxbHNERzNyVEtpQmRZSUpKZm5PU1ZIOE9yWERST0xDdjNPY2VsYXp6UE5sT0hUTXNyVjZseVZ1b2pLUmwxUnc3RXdiVkxKUGVuTWJUbldqbm1CWVBiNFpjbVlKNjZPcFlCa2wwdWJlTno5R1hkenI0TFppdw?oc=5",
+      "summary": "Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested IT Pro",
+      "published_at": "2026-07-01T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "a5e7a8fdc4fa2bf1bf046a0b",
       "title": "Asus Introduces New ROG Octopus 7 Router with Wi-Fi 7 Standard - Zamin.uz",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0Z0ZXQtZHlDUkxtbHVnVWpDeTUydkFBc0IzOXdwSzA4aUkyUnhTVWZaVWZBVEVwYU41WjRNZ1lwUHcxZ2ttZ0o2cEVnTnpJc09vYXNGanRERHBPb25mYzlNNjFadTl1bmkzR3dWQTlaR1IzNUZYaGdkVUI2TlEzMk52dW5wY3ZONWRBaHNISmUtYWVUOVFNWkJ6alNlYnVvaDUxRTBZazk?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "1ee7dd18027fcb2571e75c2c",
-      "title": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day - 9to5Toys",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5ZbWFlNVRVbUl2Z3k3MkJfSVY4R3lfUEw3eURobTl4dnc4MmFxX25YNWpxTWRvbGw1N0tMZWtWTV8yeGt2T3RXUUtfTndlWnRiNjZwSWRqUG1MQXB6d3JyMEVUNXJUNVRqb3ZsSm8wQm15N2VIQ1JsWDZXUFJJb0pxYjZWZ3VBMHlXXzFsYmNXNkVO?oc=5",
-      "summary": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day 9to5Toys",
-      "published_at": "2026-06-26T11:08:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     }
   ]
 }

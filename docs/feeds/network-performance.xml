@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 06:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:32:21 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] OTEC’s John Day office closed due to internet outage - Elkhorn Media Group</title>
@@ -46,20 +46,6 @@ Internet outage causes closure of Petersburg courts WRIC ABC 8News</description>
       <pubDate>Mon, 29 Jun 2026 16:08:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-29T16:08:05.670355Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-29T15:53:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] LepsiaTV upgrades internet platform for lower latency - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkd5N1BjR1V1b1o0aWRxOHJaa1VpNkFJcGRvSDh5U0hIZlVBRk1JUzlIMnFBUnZ5Z0xxR0VEQkhoT0tQNmpxTmJkVHhldDlmTTQ1ZkVjd2lGZ0ZIcUxVQ2poNEp2LUlYWC1nMFhUV3NvUWRMbEN2b29wVnpTdlJSMlhOYkVoT1JQTlVjQ0p5NU9fN0xuejJBaUNXemo?oc=5</link>
-      <guid isPermaLink="false">549827ee652294c5c0151547</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-30 00:16
-LepsiaTV upgrades internet platform for lower latency Telecompaper</description>
-      <pubDate>Mon, 29 Jun 2026 16:08:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-29T16:08:05.670355Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-29T15:16:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
