@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-02T19:49:28.185265Z",
+  "generated_at": "2026-07-02T21:30:45.598655Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
-    },
-    {
-      "id": "5e1a1b20e02d00434155b2d2",
-      "title": "ASUS製のWi-Fi 7ルーターが、Amazonプライム会員限定でセール中 10Gbps対応の「RT-BE92U」が3万2545円など - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDQVZPanpBOGg3eUR6OVM0WVNCUWdUNnByanFZTXRmTnNRTzlsTjBWSXNONWhPYmw1MDI3Mnp2NWlZa3VXVWpjc0hzME9heUVVSEVOVFFLVmVWalEzN3Q2R0pmMWowVGljS1NPYkhKUmQzQk1tRk5mSkJya3Y?oc=5",
-      "summary": "ASUS製のWi-Fi 7ルーターが、Amazonプライム会員限定でセール中 10Gbps対応の「RT-BE92U」が3万2545円など Excite エキサイト",
-      "published_at": "2026-07-02T01:24:30Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
     },
     {
       "id": "5556e9578958e3cef770f795",
@@ -64,15 +53,26 @@
       "score": 10
     },
     {
-      "id": "472c7a43138f8fc1f088ff2c",
-      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 - bcnretail.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMjU4WEY5Wkp2YWFnc0FRV25kczRHNExBSWFtaWdlNjJiTkJDVk9OcHRrdDA2NnVaZ1o0RGFELUt2RDUxMXlFTWVfUnRhcU1ZWVNWaVNFWTYwX3ZBMk1kUmhLbEo4Zmd2Nk8zYkprRQ?oc=5",
-      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 bcnretail.com",
-      "published_at": "2026-06-22T03:00:00Z",
+      "id": "d3659869e2ba4ab83831e8ea",
+      "title": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 「VR-U」シリーズを現場で即運用可能に - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jdGIyXzlSWkpjYmZZZmdKSDc5aXRzTzNOQXI3ZUwtVFNKemdkLWwyWHI0NGtWN1JWV2lQMk9WQ1ZLMzlOXzdvb0tUcWVZeEV6bzZING16bklMaWg0c1hRRWFoWUYzSkRWeFlRXzN3SmJlQ014RXJOQXBHSWY?oc=5",
+      "summary": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 「VR-U」シリーズを現場で即運用可能に Excite エキサイト",
+      "published_at": "2026-07-02T21:23:02Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 8
+    },
+    {
+      "id": "545d3eacc4b17666ebab75c8",
+      "title": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zZDl2RjFmSXBJRVNWTFNmdWZOSkI3ZktHQWNlWi1NUkU1WGd0MVJkc2pVdnltR18zaGJRTGdqaWx3Zk5ENzlGMXNSdVZZOE40cThyc0hUMkFYaW1QeGdDSmdicGlWak5VN2RZ?oc=5",
+      "summary": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 INTERNET Watch",
+      "published_at": "2026-07-02T21:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 8
     },
     {
       "id": "e691d77e424eb20b559856e5",
