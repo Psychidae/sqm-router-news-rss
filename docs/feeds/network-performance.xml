@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 23:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 01:35:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] OTEC’s John Day office closed due to internet outage - Elkhorn Media Group</title>
@@ -74,20 +74,6 @@ Customer gets rebate for internet outage Jamaica Observer</description>
       <pubDate>Mon, 29 Jun 2026 20:30:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-29T20:30:42.044350Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-28T05:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5</link>
-      <guid isPermaLink="false">70a2a3f6814fca9fdaf1eadc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-28 05:10
-Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day libyaupdate.com</description>
-      <pubDate>Tue, 30 Jun 2026 22:03:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-06-30T22:03:12.867844Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-27T20:10:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
