@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-03T13:11:52.973337Z",
+  "generated_at": "2026-07-03T15:23:42.033766Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 22
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
@@ -39,7 +39,29 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "1d913d54d631eb569830f01a",
+      "title": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFLSEtUbXBORUN6eW1ZcHRkQmIzTWd0QkgxaFhpQjB2VWE4NU5ZN0VCWF9XVk1rNGZsQXRlbHM0NXBub3I2cFpFdFNuUzlISjFtWGZCR1o3TnItTlRIZTAxVW1DczdmU1h5ZFdoRHVyNW9kRmsweHZuNW1jaEwtc0VEYw?oc=5",
+      "summary": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day WIRED",
+      "published_at": "2026-06-23T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "c6e1e76075330fee89a50dfc",
+      "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
+      "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
+      "published_at": "2026-06-22T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
     },
     {
       "id": "1bb383bc789a85aa7f9673bc",
@@ -64,6 +86,17 @@
       "score": 13
     },
     {
+      "id": "a5e7a8fdc4fa2bf1bf046a0b",
+      "title": "Asus Introduces New ROG Octopus 7 Router with Wi-Fi 7 Standard - Zamin.uz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0Z0ZXQtZHlDUkxtbHVnVWpDeTUydkFBc0IzOXdwSzA4aUkyUnhTVWZaVWZBVEVwYU41WjRNZ1lwUHcxZ2ttZ0o2cEVnTnpJc09vYXNGanRERHBPb25mYzlNNjFadTl1bmkzR3dWQTlaR1IzNUZYaGdkVUI2TlEzMk52dW5wY3ZONWRBaHNISmUtYWVUOVFNWkJ6alNlYnVvaDUxRTBZazk?oc=5",
+      "summary": "Asus Introduces New ROG Octopus 7 Router with Wi-Fi 7 Standard Zamin.uz",
+      "published_at": "2026-06-30T15:55:38Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "29ae98d7a5e4d275cf4a84d3",
       "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
@@ -72,7 +105,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "047402866065752d31c745c2",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "1ee7dd18027fcb2571e75c2c",
-      "title": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day - 9to5Toys",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5ZbWFlNVRVbUl2Z3k3MkJfSVY4R3lfUEw3eURobTl4dnc4MmFxX25YNWpxTWRvbGw1N0tMZWtWTV8yeGt2T3RXUUtfTndlWnRiNjZwSWRqUG1MQXB6d3JyMEVUNXJUNVRqb3ZsSm8wQm15N2VIQ1JsWDZXUFJJb0pxYjZWZ3VBMHlXXzFsYmNXNkVO?oc=5",
-      "summary": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day 9to5Toys",
-      "published_at": "2026-06-26T11:08:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "23b50ffca22e89439386bf4f",
-      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
-      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium Tom's Hardware",
-      "published_at": "2026-06-25T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "ba77f28721650a4ecd2424e8",
-      "title": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off — high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQ3lxT3ZwUUFDakh5U0oyeEpGXzFUNFo2ZzV4VlFfbTFoVjNmbXB6bnlmWXpDejdPV0VfcUpieVpzNXk0U2ZtVHI0cUlWUjJPeC1LTTN5XzIzbUtvSDBMa0paVjktakVVM28weGxLZi1GWHB4U0FDbXZ2amVmRnN1eHhoWm1fN1RldXMyYTFnYnNWQnVpSjVNdm9HSkVZaVcxSktORmRyb3RESjQ3UHM5aDk3SVlRMlFVWmRreGtKUEJUVHRjYkNPRmZ6VHRrNWllWlYzX2I5TTJrNWs5dHdKN050OE15TFdZcjBuRGh0ZUtINjBEX3BIUXpiNmNtb1BjZXkxYlR3ME1zajV2ckhvSlV3XzFSeDNFU040ZEtfQkdabThtODlKRXNRUHRnQm9XbnlGUGRSdUlsazlRR1Rtd19BUnNiOG5rOVE?oc=5",
-      "summary": "Pay just $149.99 for the TP-Link Archer Wi-Fi 7 router with 9.3 Gbps of bandwidth, now 40 percent off — high-powered BE550 router comes with a full complement of 2.5 Gbps LAN ports, too Tom's Hardware",
-      "published_at": "2026-06-24T16:02:32Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
