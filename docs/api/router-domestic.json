@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-03T08:26:14.036241Z",
+  "generated_at": "2026-07-03T11:15:47.013743Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "73c96ddd5622a95299c16a9a",
+      "title": "Wi-Fi 7対応デュアルバンドモデルが売れてる 無線LANルーター人気ランキングTOP10 2026/6/29 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrNG00cjhfY2lDWjlhTm5mei1jZzF5bXQ4cXRLRGtzQUNDWExYNXc4V2RxT3RPNkNJcGNsWl9penpraUlBMGdTOEQteTh6dFd5a2l4RmJSVm51aFVsQW1UUVo1Y0c2bGMwM3lKTm82cw?oc=5",
+      "summary": "Wi-Fi 7対応デュアルバンドモデルが売れてる 無線LANルーター人気ランキングTOP10 2026/6/29 bcnretail.com",
+      "published_at": "2026-06-29T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     },
     {
       "id": "1af7758d09b77f130b33fca6",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNW5VTThHajdxeGJnWFk5aE1BM3dvRmpTd0d5M2ZYM2lFbXNnNjlTX01CTmhMeExBV0FmYVlnZzM5WGtUZ0t3aVFtZ1RLNXZOOVEyZUZKODJrMTlhUldGdDM1UE94RkpjMWpNMWh4dXZFMWNvcmRWVVlQU2xwOUdIRFoxbWJQc2xvVGZKdnVn?oc=5",
       "summary": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 (INTERNET Watch) Yahoo!ニュース",
       "published_at": "2026-07-02T22:57:20Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 8
-    },
-    {
-      "id": "d3659869e2ba4ab83831e8ea",
-      "title": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 「VR-U」シリーズを現場で即運用可能に - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jdGIyXzlSWkpjYmZZZmdKSDc5aXRzTzNOQXI3ZUwtVFNKemdkLWwyWHI0NGtWN1JWV2lQMk9WQ1ZLMzlOXzdvb0tUcWVZeEV6bzZING16bklMaWg0c1hRRWFoWUYzSkRWeFlRXzN3SmJlQ014RXJOQXBHSWY?oc=5",
-      "summary": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 「VR-U」シリーズを現場で即運用可能に Excite エキサイト",
-      "published_at": "2026-07-02T21:23:03Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
