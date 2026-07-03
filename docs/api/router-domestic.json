@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-03T21:22:01.131405Z",
+  "generated_at": "2026-07-03T22:40:35.129703Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -86,15 +86,15 @@
       "score": 10
     },
     {
-      "id": "920d5ebdc5bb58493208a757",
-      "title": "バッファロー、リモート管理サービス「キキNavi」を強化 法人向けルーターのゼロタッチ構築やCLI設定ファイル管理が可能に - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uLXNmbDYwNERoSmRXWkJnZkJqRkFwdUc0eWRFMmp1dlZYbVQ0aFhsSlZWMUpPQ0N3QWtfVkZqeXZUUjhTWHRkMnFjR2JiMTBibzltUTdwUGt3R0FleWwzb3BTSnROZU1UZ1doc1FEYnNYUFB6bkttZG5OVURtR1U?oc=5",
-      "summary": "バッファロー、リモート管理サービス「キキNavi」を強化 法人向けルーターのゼロタッチ構築やCLI設定ファイル管理が可能に Yahoo!ニュース",
-      "published_at": "2026-07-03T07:38:00Z",
+      "id": "472c7a43138f8fc1f088ff2c",
+      "title": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 - bcnretail.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMjU4WEY5Wkp2YWFnc0FRV25kczRHNExBSWFtaWdlNjJiTkJDVk9OcHRrdDA2NnVaZ1o0RGFELUt2RDUxMXlFTWVfUnRhcU1ZWVNWaVNFWTYwX3ZBMk1kUmhLbEo4Zmd2Nk8zYkprRQ?oc=5",
+      "summary": "バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 bcnretail.com",
+      "published_at": "2026-06-22T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 8
+      "score": 10
     }
   ]
 }

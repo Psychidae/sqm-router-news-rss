@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-03T21:22:02.113076Z",
+  "generated_at": "2026-07-03T22:40:36.274096Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "29ae98d7a5e4d275cf4a84d3",
+      "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
+      "summary": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac",
+      "published_at": "2026-06-30T15:21:48Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "047402866065752d31c745c2",
       "title": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon - Wccftech",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS01ZVZPWEVWYnJnNmpPOW9YM3RiRC04R1JDYmVud2YxQnlfN1puOFN4SllBYnROUFRpcC1IWE5URERXQUVOWDVrMDlSbDVKV0pWaFJvUnFTMEZ1aUlUaWNjaUxUQU9rNTdMTUNpMVBSZmtZTHZpWlFmd2JTcFc2YS1jdk1xQzVzZUtOS1lHc1DSAZYBQVVfeXFMTVFrejBCZUJUOVZsdnB6cUNrcGpQNWpLYmFqcGxlMmRoQUdPOHNkSzFCMHcyMjFNRktqVjczVUpmREp6U05laHVxVjZwQ0RPeWR4VUJxeXBGb3ZkSHF0SGhkd3FDQXBpUmNSaEwweHdMMEdISWtYUVJ5ZkU5T3FHSm1qTEpaNGtRQUtwcVhUTmpQR28wRVFR?oc=5",
@@ -73,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "1ee7dd18027fcb2571e75c2c",
+      "title": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5ZbWFlNVRVbUl2Z3k3MkJfSVY4R3lfUEw3eURobTl4dnc4MmFxX25YNWpxTWRvbGw1N0tMZWtWTV8yeGt2T3RXUUtfTndlWnRiNjZwSWRqUG1MQXB6d3JyMEVUNXJUNVRqb3ZsSm8wQm15N2VIQ1JsWDZXUFJJb0pxYjZWZ3VBMHlXXzFsYmNXNkVO?oc=5",
+      "summary": "Skip sketchy public Wi-Fi with TP-Link’s portable Wi-Fi 7 router, now just $90 for Prime Day 9to5Toys",
+      "published_at": "2026-06-26T11:08:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     },
     {
       "id": "23b50ffca22e89439386bf4f",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "be9c072407412ad702ec6206",
-      "title": "I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an absolute networking bargain - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yX0hUVXg3ajdqLXlYY05DQmRsM1RuR2F2UGRQa0FwU2NXWGtreUhBQ1RJWTk1VG1zR3J4S1RHeDhQM1hGazJkSDVMYnppbFRPckZyQ0lJR2xSNWVqQXhpdjJNTlVuSmItZUtRUkUybDFiQQ?oc=5",
-      "summary": "I tested the TP-Link Archer BE770 and this full-featured Wi-Fi 7 router is an absolute networking bargain Tom's Guide",
-      "published_at": "2026-06-24T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "47709eb49795bdc102a90c87",
-      "title": "Best wi-fi routers: top wireless internet routers for your home - which.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmg4RllKcnRiYmdtMmRmNkt0VUZYZlNtNjVkc2p6OVlzR0RUbzJ0U3ZVMXFrQnhkbnltNUpUWms3T05HU1RrM3dmNlltblhNcExTZC1MZjZKWUI0WWdKeDQtNjNpQnFpOXFuVk1kN0dWLXQ4RHVzcUkwYnZ3b09kTkNmOGFKWFgxelk2TXpYSGJmR3p5UEU1YTQ2d2VHTTRLUkVENEZGVDVMQ2JOSy1SVEU2UQ?oc=5",
-      "summary": "Best wi-fi routers: top wireless internet routers for your home which.co.uk",
-      "published_at": "2026-07-01T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }
