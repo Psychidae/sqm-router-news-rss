@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-04T17:42:18.419744Z",
+  "generated_at": "2026-07-04T18:39:05.141707Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "8ee85ca86ee5e2eda0a9f64c",
-      "title": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPcWM2TkhzMlR2cEtCTUIxQ1IzeElYLUZwVUtpcDJUaF9yTkYwOXFrR1dubVc5ZmZ5ek42ZGZLNjdPNzI0NVN0a1ZfMnY3SzdHQk0zTGM1c1RzVDBNWTFr?oc=5",
-      "summary": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 千葉テレビ放送",
-      "published_at": "2026-07-03T15:34:19Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
     {
       "id": "34e2726b22f293178c9777f2",
       "title": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - AKIBA PC Hotline!",
@@ -29,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
-    },
-    {
-      "id": "81f63c57e76d1a1e8316ea1e",
-      "title": "バッファロー、8ポート10GbEスイッチ「BS-XS2008」を8月に発売 PoE++/SFP+対応モデルも - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTWtJZ2JTS3hSVHBOUTZTNDlIbFBCS0VQY3lINGNqT3pVUzdBRXFoR2VyMGw0ME1KTXZXMFVvZlR0WmNhWFBMbDJ3azJidjNGTU00?oc=5",
-      "summary": "バッファロー、8ポート10GbEスイッチ「BS-XS2008」を8月に発売 PoE++/SFP+対応モデルも 24Wireless",
-      "published_at": "2026-07-01T15:10:36Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
     },
     {
       "id": "5556e9578958e3cef770f795",
@@ -95,6 +73,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 10
+    },
+    {
+      "id": "d0b51deb13804acd7f5e366a",
+      "title": "バッファロー、リモート管理サービス「キキNavi」を強化 法人向けルーターのゼロタッチ構築やCLI設定ファイル管理が可能に - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84bmRIanZqSXljR0toU0ZFLTloTTBqSnJPa2VSNkROVkhWVi1fa0U0a3Zjd09Ya3lPQXltcmlfMm52b3Z1cjZJVHA5RUhtZzVnQzBJeWVMMTZaTUxiYTQyYVp4MnltR2c?oc=5",
+      "summary": "バッファロー、リモート管理サービス「キキNavi」を強化 法人向けルーターのゼロタッチ構築やCLI設定ファイル管理が可能に クラウド Watch",
+      "published_at": "2026-07-03T06:38:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
+    },
+    {
+      "id": "5243c8b6f956b330631980af",
+      "title": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNW5VTThHajdxeGJnWFk5aE1BM3dvRmpTd0d5M2ZYM2lFbXNnNjlTX01CTmhMeExBV0FmYVlnZzM5WGtUZ0t3aVFtZ1RLNXZOOVEyZUZKODJrMTlhUldGdDM1UE94RkpjMWpNMWh4dXZFMWNvcmRWVVlQU2xwOUdIRFoxbWJQc2xvVGZKdnVn?oc=5",
+      "summary": "バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-07-02T22:57:20Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
     }
   ]
 }
