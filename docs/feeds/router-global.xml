@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 21:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:09:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -18,20 +18,6 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <pubDate>Sun, 28 Jun 2026 21:45:17 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-28T21:45:17.533569Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-30T14:08:07Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Australia</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVFObUdsalNUZjhfeTN4UmpONlZLVDlHdGhOZEJLbWJSb25lZWhITHhIRXFhUVVIRXpEcUUzZlFoM2R3enlqTW54Y2xOclJWSU1PblRxUjI3TElPRWJVa3VPci1SeS1WQkM5eERnZGJNY3BVRFQxbTByaGZzdzZzckhNUHl3RFdHbXUtWHdEZkg?oc=5</link>
-      <guid isPermaLink="false">d3230e8834719a75acb48aa0</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-05 05:00
-TP-Link Archer GE400 Wi-Fi 7 Gaming Router PCMag Australia</description>
-      <pubDate>Sat, 04 Jul 2026 21:12:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-04T21:12:14.257532Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-04T20:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -144,6 +130,20 @@ Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever t
       <pubDate>Wed, 01 Jul 2026 10:32:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-01T10:32:20.004907Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-01T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5</link>
+      <guid isPermaLink="false">29ae98d7a5e4d275cf4a84d3</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-07-01 00:21
+TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac</description>
+      <pubDate>Sat, 04 Jul 2026 22:09:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-04T22:09:28.477898Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-30T15:21:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

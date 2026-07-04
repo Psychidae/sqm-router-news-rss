@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-04T21:12:14.258513Z",
+  "generated_at": "2026-07-04T22:09:28.478888Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
-    },
-    {
-      "id": "d3230e8834719a75acb48aa0",
-      "title": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Australia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVFObUdsalNUZjhfeTN4UmpONlZLVDlHdGhOZEJLbWJSb25lZWhITHhIRXFhUVVIRXpEcUUzZlFoM2R3enlqTW54Y2xOclJWSU1PblRxUjI3TElPRWJVa3VPci1SeS1WQkM5eERnZGJNY3BVRFQxbTByaGZzdzZzckhNUHl3RFdHbXUtWHdEZkg?oc=5",
-      "summary": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router PCMag Australia",
-      "published_at": "2026-07-04T20:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 19
     },
     {
       "id": "0ef383193f41642944dfb511",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcURXQUNaajBhWV9KeUFuRlhfT1lRTWFjY2xoaW1aamdaR2RVUHdvZk5lSDdCcEgxb2lZSmxUZ1gzaGtUUXRwa204VDAxbHNERzNyVEtpQmRZSUpKZm5PU1ZIOE9yWERST0xDdjNPY2VsYXp6UE5sT0hUTXNyVjZseVZ1b2pLUmwxUnc3RXdiVkxKUGVuTWJUbldqbm1CWVBiNFpjbVlKNjZPcFlCa2wwdWJlTno5R1hkenI0TFppdw?oc=5",
       "summary": "Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested IT Pro",
       "published_at": "2026-07-01T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "29ae98d7a5e4d275cf4a84d3",
+      "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
+      "summary": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac",
+      "published_at": "2026-06-30T15:21:48Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
