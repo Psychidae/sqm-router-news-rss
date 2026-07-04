@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 23:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:15:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] House meeting live broadcast disrupted due to internet outage - myRepublica</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUN3Nl9JSUZFSm9sREtTb01OYUhwelNmSDljWlo0VWFsS2ZWYjBjZjVUNVBFU2lkMk9FWnphcGNwbGJQTUViTzlsc0lpYWpua05Oak10YThUUDh5azhHdTlMVmh3WG9OWHBQQXNoa3pJdmpZRlNNWTlwa01SUFdjcjJWWEVKcm5oTW5vWUk0SjFqS3dvUHV6cVVYcVpaNDRObjVyMWF5YkxOUko5aFZtT25lRmtDV0U?oc=5</link>
-      <guid isPermaLink="false">173e77a00b5355e40b497d6f</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-02 16:33
-House meeting live broadcast disrupted due to internet outage myRepublica</description>
-      <pubDate>Thu, 02 Jul 2026 22:44:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-02T22:44:52.517690Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-02T07:33:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
