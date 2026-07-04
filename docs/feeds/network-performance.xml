@@ -5,19 +5,33 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 18:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 19:51:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] MP says third day of internet outage 'disgraceful' - Yahoo News Australia</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBudmRkRjlWcWFqS3ZiNDFVOWNkMDhTVC05RXZua0ZtbUtVQ2M0T3Z3SjJIRWNiN2g5SERqMlo0V3ZveWt0QWNna0pxejF1RDJxYmpEQ1k4OThSbGpqVDhrS1FaMDYwUUk1R1JWNlQzZE9rR3hCVVE?oc=5</link>
-      <guid isPermaLink="false">4a2ff86f84d5d153cd37934a</guid>
+      <title>[性能・障害] MP says third day of internet outage 'disgraceful' - BBC</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsWDFSUG14RnAyNjMwNzVmVmVsUGQ5Q2h6azVVNHlNRzVmaE54dHBsYkhsaEowcjBvTGpDSGpobGk3eXEwVld2aGw1bmYteFRBUENlOTVTb0hfNE9Q?oc=5</link>
+      <guid isPermaLink="false">8d17ee9429d317728c987962</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-04 19:44
-MP says third day of internet outage 'disgraceful' Yahoo News Australia</description>
-      <pubDate>Sat, 04 Jul 2026 13:55:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-04T13:55:48.661571Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-04T10:44:34Z</sqm:sourcePublishedDate>
+MP says third day of internet outage 'disgraceful' BBC</description>
+      <pubDate>Sat, 04 Jul 2026 19:51:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-04T19:51:52.982735Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-04T10:44:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet Outage Pakistan: Is Internet Down Today? Check Downdetector Status as Planned Submarine Cable Maintenance May Slow Speeds in Islamabad - The Sunday Guardian</title>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPSGM1YzdRRHFLNW1EOEhIOVUySUF3SGFaeWRqbFozX3Z2VlpsbXBpWEZLY3FRajRpbEJOaXhCSk5RV01kVVBQNWxOSGd1cFYyTW80ZzUxWW92SGgzejNvWHRmVU9sVGw3OWpON0FjSEFUUUhVcFBCbjF0ZGgtZWlISDhORDhrR0lxUm02WXlQR2FwY29iRW02cHA2Sndqc3d0bnc2OVltY0RzU3M2X3VuQkhZQlBaX1BFWDBuSWhWVUNwNHFMUTNDNk1ZQUV2MXJCTjliSzVOYVQxVTdsbm44ZmFLWFMya0VOSlFXZU5OTlRtMVVzWkYwRmhDOEtrNmN3NkxocllreWkwOXp0Q2NhbUNJOUPSAZoCQVVfeXFMUG1EYk5VNDBnUlBpMUd3VzlkS1JfSGwwNjJaWnoycDhOQ0ZCai1OYWNKYlB6TkZsQl9PNzlvTE05eG5XRWdOVVdfc0s3N2F1Nlc4V1lFZFlSNS1FUHFZbGNZM05nS3ZySDFMZHc5NE9hRVdtVFIyOTBRcVpOWXYwUVdzMXZyR3ZjQU1HV0g2a3NLeWlaMGNWNkpWNEtMWWVVM084LWRoLWVMeFFaN3NXVVZVbExaSnVCS2cwZUk4SlFlLVF4OUlJRUdYckJjbHZOX0QxakFpaHI4QkZKbHZRdUliTGo2MG9FcDNoY0lnN3otYU9RY2lfcEFkaE9pb254Y253LVlNeDY1LWZKZzNmX1N6NE55M0xITmt3?oc=5</link>
+      <guid isPermaLink="false">4d1b0b7306de8c13d3f69478</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-03 04:30
+Internet Outage Pakistan: Is Internet Down Today? Check Downdetector Status as Planned Submarine Cable Maintenance May Slow Speeds in Islamabad The Sunday Guardian</description>
+      <pubDate>Sat, 04 Jul 2026 19:51:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-04T19:51:52.982735Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-02T19:30:15Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -60,34 +74,6 @@ Internet outage causes closure of Petersburg courts WRIC ABC 8News</description>
       <pubDate>Sat, 04 Jul 2026 13:55:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-04T13:55:48.661571Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-06-29T15:53:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Customer gets rebate for internet outage - Jamaica Observer</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkVuZkNzVmhFRVhIXzJQYXViWER5dmxib1pFWXQ1RF9qdTBzbjhHQnFiN0k0MUZtNExtLVhJU25TVTdTaHhQTzBIbFdMblpzRlFTMUtmWVkxU1F0V3pSNFBDMEdHaG1IRDZpdnJESHF1aUdaSE90TGtkZVJBNlFtUDFtbmpqMTg?oc=5</link>
-      <guid isPermaLink="false">ef4f811f0e76ffeef2dc9846</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-28 14:15
-Customer gets rebate for internet outage Jamaica Observer</description>
-      <pubDate>Sat, 04 Jul 2026 13:55:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-04T13:55:48.661571Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-28T05:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day - libyaupdate.com</title>
-      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQVlrSzhKU2hTc1N6Z04wN2VmanVoTXFETDc4UDc4b29LTDVTZDU0ejRHZUlmUlRHOXNJYU9aazJBdU91OS1JU1p0U3IxRXdUVHJHdS0zZ2VQbHBvbzJIMnNtbHFxRlFWTE1zdXgtU3ZYSlRweGtGTlZpdlFZU3VPRzM3Z0NNNjJrYjJoQVJYUDV0M1k2UnNDTHVpV0VVakhZTEtJWWpjM3o4Q09oaDlMV1FTRlp0a1NOZG8w?oc=5</link>
-      <guid isPermaLink="false">70a2a3f6814fca9fdaf1eadc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-06-28 05:10
-Telecommunications and Internet Outage Disrupts Electronic Services in Al-Kufra for Second Day libyaupdate.com</description>
-      <pubDate>Sat, 04 Jul 2026 13:55:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-04T13:55:48.661571Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-27T20:10:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
