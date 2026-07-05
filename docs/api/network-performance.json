@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-05T16:41:57.579784Z",
+  "generated_at": "2026-07-05T17:43:16.688287Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
-    },
-    {
-      "id": "9fbe6b7b445c7a8b9020cbc2",
-      "title": "Xfinity internet outage hits Delaware users on July 4 - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNODhUWmZtdzBVQzJRQXU5Z3dpbXhfTEVHX0tPQU9jX0VRYllCOXRQdjIxS05FTHZ4QjJuektkYWtXSUNrRldCNng2UG1jUGNTSEd3SG1jbG9lemdRTVlkV09XVFRMSGVJOVprSG9QVjFxMUVVLXdxazlDel9VZ1V3aHVjdDN1clIwQVhpVVd6UXAzN29EUlE?oc=5",
-      "summary": "Xfinity internet outage hits Delaware users on July 4 Yahoo",
-      "published_at": "2026-07-04T13:05:32Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
     },
     {
       "id": "4a2ff86f84d5d153cd37934a",
