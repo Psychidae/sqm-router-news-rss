@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 15:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:41:54 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer GE400 Wi-Fi 7 Review: A Good Gaming Router Overshadowed by Its Big Brother - PCMag</title>
@@ -92,6 +92,20 @@ TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective W
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - XimiTime</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2NfakhkQk9uUXcxbVAtXzJYNU5LTy0tNDBlU2p0VWpaVmRDUnM5UW1DZmZoNXNWeVZIQ2YzQWs0MmhmNE5ZS3FxMF91Z1ZITVhJdVlUNTFLOWV6bmRuRnMyQjE4Z2RWdnQxcGk5RHVNRUM1YTNhY2hvSUxSRnVvQWUyTFZJN2IycmtNV2hWR0U1dWR5WjdPczJ3Wjl1ekxfcnRKdDg0UXhxdVlxeUdlR25HQVFIZw?oc=5</link>
+      <guid isPermaLink="false">c300f848c50ebc6b2be231dc</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-07-05 18:58
+Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades XimiTime</description>
+      <pubDate>Sun, 05 Jul 2026 16:41:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-05T16:41:54.735171Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-05T09:58:34Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5</link>
       <guid isPermaLink="false">2e245e92a718bd19488d7ccf</guid>
@@ -130,20 +144,6 @@ Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever t
       <pubDate>Wed, 01 Jul 2026 10:32:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-01T10:32:20.004907Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-01T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5</link>
-      <guid isPermaLink="false">29ae98d7a5e4d275cf4a84d3</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-01 00:21
-TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac</description>
-      <pubDate>Sun, 05 Jul 2026 00:11:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-05T00:11:34.451884Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-30T15:21:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
