@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-05T12:03:07.526165Z",
+  "generated_at": "2026-07-05T14:06:50.175547Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -17,14 +17,14 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
-      "id": "8d17ee9429d317728c987962",
-      "title": "MP says third day of internet outage 'disgraceful' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsWDFSUG14RnAyNjMwNzVmVmVsUGQ5Q2h6azVVNHlNRzVmaE54dHBsYkhsaEowcjBvTGpDSGpobGk3eXEwVld2aGw1bmYteFRBUENlOTVTb0hfNE9Q?oc=5",
-      "summary": "MP says third day of internet outage 'disgraceful' BBC",
-      "published_at": "2026-07-04T10:44:30Z",
+      "id": "4a2ff86f84d5d153cd37934a",
+      "title": "MP says third day of internet outage 'disgraceful' - Yahoo News Australia",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBudmRkRjlWcWFqS3ZiNDFVOWNkMDhTVC05RXZua0ZtbUtVQ2M0T3Z3SjJIRWNiN2g5SERqMlo0V3ZveWt0QWNna0pxejF1RDJxYmpEQ1k4OThSbGpqVDhrS1FaMDYwUUk1R1JWNlQzZE9rR3hCVVE?oc=5",
+      "summary": "MP says third day of internet outage 'disgraceful' Yahoo News Australia",
+      "published_at": "2026-07-04T10:44:34Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -36,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUN3Nl9JSUZFSm9sREtTb01OYUhwelNmSDljWlo0VWFsS2ZWYjBjZjVUNVBFU2lkMk9FWnphcGNwbGJQTUViTzlsc0lpYWpua05Oak10YThUUDh5azhHdTlMVmh3WG9OWHBQQXNoa3pJdmpZRlNNWTlwa01SUFdjcjJWWEVKcm5oTW5vWUk0SjFqS3dvUHV6cVVYcVpaNDRObjVyMWF5YkxOUko5aFZtT25lRmtDV0U?oc=5",
       "summary": "House meeting live broadcast disrupted due to internet outage myRepublica",
       "published_at": "2026-07-02T07:33:24Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "6513793f9290fdd1a2da68a0",
+      "title": "Video: Internet outage leads to Mo. jail disturbance - Corrections1",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUpqZ2RidHptM0lVZ2FFd2NUYV9DY3lxTEpmU3kzcUxRMS0tWXdTZTlwYldrV212MEJVZTJDbkQ5czRVZm5ZQ0lwZHlIZGFvaVp2aHJISUxSSTRrc2dNNF9hVUpibnBfWFBDU0FKLU5iZFRZTk01aFBGTDhpWVJ0a1ZuLVJXRjB5WmFrdENYVF94ajBwdWFWMmY2TWRVRkhlbUh1T0Zn?oc=5",
+      "summary": "Video: Internet outage leads to Mo. jail disturbance Corrections1",
+      "published_at": "2026-06-29T18:59:04Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -69,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
       "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
       "published_at": "2026-07-01T11:35:23Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "c8ea7c60727020594f0755b8",
+      "title": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー - ENTREVUE.FR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3Rtd256dEhaMmI3WTJWYU83bXVKNW9QenplZGdMWkluMkt6ZnhxeWg1UkVMQzA4TFpkd3kwRE0yTW9Rbm81MWx1a2ZmRlFHM2Vxc2RHV2tLSWRkc2ZuWlBfLXBoWUpXZzYxczVnYjV3Y1lUbVoyV3hqdGdBR2xiYUt1VVFHbDF1X2ctSm1UWUQzOWtLUDdSWTc3T2t1blRHSW1iaktNa25YV3p0NG4yWHZxU1F4Tk0tTmFF?oc=5",
+      "summary": "オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー ENTREVUE.FR",
+      "published_at": "2026-06-29T12:01:39Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

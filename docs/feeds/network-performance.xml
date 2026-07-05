@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 12:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:06:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Xfinity internet outage hits Delaware users on July 4 - Yahoo</title>
@@ -22,16 +22,16 @@ Xfinity internet outage hits Delaware users on July 4 Yahoo</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] MP says third day of internet outage 'disgraceful' - BBC</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsWDFSUG14RnAyNjMwNzVmVmVsUGQ5Q2h6azVVNHlNRzVmaE54dHBsYkhsaEowcjBvTGpDSGpobGk3eXEwVld2aGw1bmYteFRBUENlOTVTb0hfNE9Q?oc=5</link>
-      <guid isPermaLink="false">8d17ee9429d317728c987962</guid>
+      <title>[性能・障害] MP says third day of internet outage 'disgraceful' - Yahoo News Australia</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBudmRkRjlWcWFqS3ZiNDFVOWNkMDhTVC05RXZua0ZtbUtVQ2M0T3Z3SjJIRWNiN2g5SERqMlo0V3ZveWt0QWNna0pxejF1RDJxYmpEQ1k4OThSbGpqVDhrS1FaMDYwUUk1R1JWNlQzZE9rR3hCVVE?oc=5</link>
+      <guid isPermaLink="false">4a2ff86f84d5d153cd37934a</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-04 19:44
-MP says third day of internet outage 'disgraceful' BBC</description>
-      <pubDate>Sun, 05 Jul 2026 12:03:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-05T12:03:07.525464Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-04T10:44:30Z</sqm:sourcePublishedDate>
+MP says third day of internet outage 'disgraceful' Yahoo News Australia</description>
+      <pubDate>Sun, 05 Jul 2026 14:06:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-05T14:06:50.174633Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-04T10:44:34Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -46,6 +46,20 @@ House meeting live broadcast disrupted due to internet outage myRepublica</descr
       <pubDate>Sun, 05 Jul 2026 12:03:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-05T12:03:07.525464Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-02T07:33:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Video: Internet outage leads to Mo. jail disturbance - Corrections1</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQdUpqZ2RidHptM0lVZ2FFd2NUYV9DY3lxTEpmU3kzcUxRMS0tWXdTZTlwYldrV212MEJVZTJDbkQ5czRVZm5ZQ0lwZHlIZGFvaVp2aHJISUxSSTRrc2dNNF9hVUpibnBfWFBDU0FKLU5iZFRZTk01aFBGTDhpWVJ0a1ZuLVJXRjB5WmFrdENYVF94ajBwdWFWMmY2TWRVRkhlbUh1T0Zn?oc=5</link>
+      <guid isPermaLink="false">6513793f9290fdd1a2da68a0</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-06-30 03:59
+Video: Internet outage leads to Mo. jail disturbance Corrections1</description>
+      <pubDate>Sun, 05 Jul 2026 14:06:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-05T14:06:50.174633Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-29T18:59:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -88,6 +102,20 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <pubDate>Tue, 30 Jun 2026 23:36:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-06-30T23:36:48.439567Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-01T11:35:23Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー - ENTREVUE.FR</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3Rtd256dEhaMmI3WTJWYU83bXVKNW9QenplZGdMWkluMkt6ZnhxeWg1UkVMQzA4TFpkd3kwRE0yTW9Rbm81MWx1a2ZmRlFHM2Vxc2RHV2tLSWRkc2ZuWlBfLXBoWUpXZzYxczVnYjV3Y1lUbVoyV3hqdGdBR2xiYUt1VVFHbDF1X2ctSm1UWUQzOWtLUDdSWTc3T2t1blRHSW1iaktNa25YV3p0NG4yWHZxU1F4Tk0tTmFF?oc=5</link>
+      <guid isPermaLink="false">c8ea7c60727020594f0755b8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-06-29 21:01
+オレンジの通信障害：モバイルネットワークが真っ暗な朝を迎えるも、正常に戻る見込み – インタビュー ENTREVUE.FR</description>
+      <pubDate>Sun, 05 Jul 2026 14:06:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-05T14:06:50.174633Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-29T12:01:39Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
