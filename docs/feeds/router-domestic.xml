@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 23:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:11:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - AKIBA PC Hotline!</title>
@@ -92,6 +92,20 @@ Wi-Fi 7対応デュアルバンドモデルが売れてる 無線LANルーター
       <category>国内ルーター市場</category>
     </item>
     <item>
+      <title>[国内ルーター市場] AIプロセッサーを搭載する世界初のゲーミングWi-Fiルーター！AI制御で実現する次世代のネットワーク環境が手に入る！：ソフマップ なんば店 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaEZZX0ZtVURLUldzXy1oaWdOd0lsVXFpM3ZtOTRGaWRSSzl0dkVnaC1lQXltSndjXzl0c1E3RFdZT0pzU0ctOWJpV28zMnl2THE1eg?oc=5</link>
+      <guid isPermaLink="false">b8e0acdc598da41c0e2bce44</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-07-05 09:00
+AIプロセッサーを搭載する世界初のゲーミングWi-Fiルーター！AI制御で実現する次世代のネットワーク環境が手に入る！：ソフマップ なんば店 ASCII.jp</description>
+      <pubDate>Sun, 05 Jul 2026 00:11:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-05T00:11:33.354108Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-05T00:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
       <title>[国内ルーター市場] バッファロー、リモート管理サービス「キキNavi」を強化 法人向けルーターのゼロタッチ構築やCLI設定ファイル管理が可能に - クラウド Watch</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84bmRIanZqSXljR0toU0ZFLTloTTBqSnJPa2VSNkROVkhWVi1fa0U0a3Zjd09Ya3lPQXltcmlfMm52b3Z1cjZJVHA5RUhtZzVnQzBJeWVMMTZaTUxiYTQyYVp4MnltR2c?oc=5</link>
       <guid isPermaLink="false">d0b51deb13804acd7f5e366a</guid>
@@ -102,20 +116,6 @@ Wi-Fi 7対応デュアルバンドモデルが売れてる 無線LANルーター
       <pubDate>Sat, 04 Jul 2026 18:39:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-04T18:39:05.131176Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-03T06:38:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 (INTERNET Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQNW5VTThHajdxeGJnWFk5aE1BM3dvRmpTd0d5M2ZYM2lFbXNnNjlTX01CTmhMeExBV0FmYVlnZzM5WGtUZ0t3aVFtZ1RLNXZOOVEyZUZKODJrMTlhUldGdDM1UE94RkpjMWpNMWh4dXZFMWNvcmRWVVlQU2xwOUdIRFoxbWJQc2xvVGZKdnVn?oc=5</link>
-      <guid isPermaLink="false">5243c8b6f956b330631980af</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-07-03 07:57
-バッファロー、リモート管理サービス「キキNavi」が法人向けルーターのクラウドゼロタッチ自動設定に対応 (INTERNET Watch) Yahoo!ニュース</description>
-      <pubDate>Sat, 04 Jul 2026 22:09:27 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-04T22:09:27.266256Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-02T22:57:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
