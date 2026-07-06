@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-06T06:09:06.174106Z",
+  "generated_at": "2026-07-06T11:00:03.511326Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,18 +28,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
-    },
-    {
-      "id": "841f6264ca7bd3d4a562c17e",
-      "title": "Amazon Eero Max 7 Wi-Fi 7 mesh router 4-pack price slashed by 50 percent — flagship Wi-Fi 7 at a major discount for Prime Day - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMU44aERQYmhjaTdWaXZBT2FNYmo1eXhWUS15Z1BQd25neU1BcS1nWlFZQ1RZQmtlV016cmNPWmp0Tk9RZFhaTjcySVktM0RYbTdXQkRNaWVWaG93Z09xMnFSR3EyeVpiQTBNMGpSMEI4QVpJWjhkNUxUWW5sdmpiRkpleTRpSlAwQmNOLXZlaC1vWFBwckpBLUpzZ0dEZHdsMUhXanV5cmk5X1hoUlNMX1JXU0o3emxmbklpQUxGZ3dqRGRQZjR5Tks4OHpfazRFQXpEYUdLMnRfWlIyTUlzZW5mVDVrdGNwR3FwQUVMWVQ4eG10WVpXdjRsektZdUZl?oc=5",
-      "summary": "Amazon Eero Max 7 Wi-Fi 7 mesh router 4-pack price slashed by 50 percent — flagship Wi-Fi 7 at a major discount for Prime Day Tom's Hardware",
-      "published_at": "2026-06-26T15:15:45Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 17
     },
     {
       "id": "4e2e17527f258585ae7b35ae",
@@ -64,17 +53,6 @@
       "score": 16
     },
     {
-      "id": "c6e1e76075330fee89a50dfc",
-      "title": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xd2ZhRUc5TDNWVVlBWVFtTUNBNzJlQk9VQkNJR21VYXhIRTRLYU1hdGRlaW1HalJOZU55UzZlTzRycFRvMGx6X3lXT1BIMXVyUEhjMUlXT3cySXREckw2aU9laVVHVWt6V1dERW9ZOTg1TGZRTHkxU293?oc=5",
-      "summary": "TP-Link Roam 7 BE3600 Travel Router (TL-WR3602BE) Review: Modest but Effective Wi-Fi 7 On-the-Go Dong Knows Tech",
-      "published_at": "2026-06-22T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
       "id": "c300f848c50ebc6b2be231dc",
       "title": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - ximitime.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2NfakhkQk9uUXcxbVAtXzJYNU5LTy0tNDBlU2p0VWpaVmRDUnM5UW1DZmZoNXNWeVZIQ2YzQWs0MmhmNE5ZS3FxMF91Z1ZITVhJdVlUNTFLOWV6bmRuRnMyQjE4Z2RWdnQxcGk5RHVNRUM1YTNhY2hvSUxSRnVvQWUyTFZJN2IycmtNV2hWR0U1dWR5WjdPczJ3Wjl1ekxfcnRKdDg0UXhxdVlxeUdlR25HQVFIZw?oc=5",
@@ -83,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "2e245e92a718bd19488d7ccf",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "29ae98d7a5e4d275cf4a84d3",
+      "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
+      "summary": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac",
+      "published_at": "2026-06-30T15:21:48Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "047402866065752d31c745c2",
+      "title": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS01ZVZPWEVWYnJnNmpPOW9YM3RiRC04R1JDYmVud2YxQnlfN1puOFN4SllBYnROUFRpcC1IWE5URERXQUVOWDVrMDlSbDVKV0pWaFJvUnFTMEZ1aUlUaWNjaUxUQU9rNTdMTUNpMVBSZmtZTHZpWlFmd2JTcFc2YS1jdk1xQzVzZUtOS1lHc1DSAZYBQVVfeXFMTVFrejBCZUJUOVZsdnB6cUNrcGpQNWpLYmFqcGxlMmRoQUdPOHNkSzFCMHcyMjFNRktqVjczVUpmREp6U05laHVxVjZwQ0RPeWR4VUJxeXBGb3ZkSHF0SGhkd3FDQXBpUmNSaEwweHdMMEdISWtYUVJ5ZkU5T3FHSm1qTEpaNGtRQUtwcVhUTmpQR28wRVFR?oc=5",
+      "summary": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon Wccftech",
+      "published_at": "2026-06-29T05:23:57Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     }
   ]
 }
