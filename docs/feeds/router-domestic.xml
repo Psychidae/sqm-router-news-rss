@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 01:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:09:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - AKIBA PC Hotline!</title>
@@ -19,20 +19,6 @@ MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh Sys
       <sqm:firstSeenDate>2026-07-04T01:14:57.632965Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-03T15:15:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] バッファロー、8ポート10GbEスイッチ「BS-XS2008」を8月に発売 PoE++/SFP+対応モデルも - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtTWtJZ2JTS3hSVHBOUTZTNDlIbFBCS0VQY3lINGNqT3pVUzdBRXFoR2VyMGw0ME1KTXZXMFVvZlR0WmNhWFBMbDJ3azJidjNGTU00?oc=5</link>
-      <guid isPermaLink="false">81f63c57e76d1a1e8316ea1e</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-07-02 00:10
-バッファロー、8ポート10GbEスイッチ「BS-XS2008」を8月に発売 PoE++/SFP+対応モデルも 24Wireless</description>
-      <pubDate>Sun, 05 Jul 2026 18:43:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-05T18:43:59.885149Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-01T15:10:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
     <item>
@@ -64,15 +50,15 @@ MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh Sys
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/7/5 (BCN) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUtUR1FOYmxZMklWTkNpSC1mZHpuZTZ4S2x6aUVuNUMtWXF4WFBzWVRaVTZxRzRFb29KekJna2JGZ0EwV2I3aDJiM053SVR5cncwSnBhMW9FcHJJUlJZYnJnZ2ZITFdHalFIWEJjLTR4ckhxenRpUkZ1QXRxNlJSVjY1d1VCYlJvQzhiV0Fn?oc=5</link>
-      <guid isPermaLink="false">2fe729289d0d328761263879</guid>
+      <title>[国内ルーター市場] バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/7/5 - bcnretail.com</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1Mb0c2WHMzRk8zeGRfS0c0TjFJeXRja2hWN0dUVllVOFZFUkt5ZU1ENHhkc0U5cV9LMWVHWFZBZUluWXJWLVB2OVl6QVNkdlNQeEQ3YnBnbHVWS1BZbDB0bnFYZlF5bGc0bGNxTVg4ejROZVhpVW1pb19n?oc=5</link>
+      <guid isPermaLink="false">16ad76bd2beb0c1cd387bfda</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
 元記事日付: 2026-07-05 18:00
-バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/7/5 (BCN) Yahoo!ニュース</description>
-      <pubDate>Sun, 05 Jul 2026 18:43:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-05T18:43:59.885149Z</sqm:firstSeenDate>
+バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/7/5 bcnretail.com</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-06T06:09:05.191311Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-05T09:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
@@ -106,16 +92,30 @@ Wi-Fi 7対応デュアルバンドモデルが売れてる 無線LANルーター
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ05QMHdZSjl0VUZmd0hUSTBWZVlxVzJacmFGRVk4bWJwUHU1N1E0SkFnLWs0UGhMOExOZWFtano2bE1QZ2FqT2tEYzB2MnV3VnFuN1FkV3dKalRMNXlTTnl5SFlrcHRWV1MtSG9uTDhJbk5TQTlvdUZDOS1kLVJBTXQ2QXJabk92Q2VVX2J3?oc=5</link>
-      <guid isPermaLink="false">3572aea0e06feeb02bfd892d</guid>
+      <title>[国内ルーター市場] バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22（BCN） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTFZsRC1Hdm1IM1pqZWg2REZwTzdhYWNXck1EQ1ZoSDB3WjVyUHFudWhKdHZyc201RHBBd0J4VWN0WnF4X2M1XzcwSWp0dUFHZEhhRm4yZGM1OWNkakNrdXpyRlduQk5qNTNhOGRPVXdwX29LT1NTcGotNGNHWTg?oc=5</link>
+      <guid isPermaLink="false">1af7758d09b77f130b33fca6</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
-元記事日付: 2026-06-22 12:00
-バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22 (BCN) Yahoo!ニュース</description>
-      <pubDate>Mon, 06 Jul 2026 01:22:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-06T01:22:14.920201Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-06-22T03:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-06-22 16:00
+バッファローが強い 無線LANルーター人気ランキングTOP10 2026/6/22（BCN） Yahoo!ニュース</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-06T06:09:05.191311Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-06-22T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] AIプロセッサーを搭載する世界初のゲーミングWi-Fiルーター！AI制御で実現する次世代のネットワーク環境が手に入る！：ソフマップ なんば店 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaEZZX0ZtVURLUldzXy1oaWdOd0lsVXFpM3ZtOTRGaWRSSzl0dkVnaC1lQXltSndjXzl0c1E3RFdZT0pzU0ctOWJpV28zMnl2THE1eg?oc=5</link>
+      <guid isPermaLink="false">b8e0acdc598da41c0e2bce44</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-07-05 09:00
+AIプロセッサーを搭載する世界初のゲーミングWi-Fiルーター！AI制御で実現する次世代のネットワーク環境が手に入る！：ソフマップ なんば店 ASCII.jp</description>
+      <pubDate>Mon, 06 Jul 2026 06:09:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-06T06:09:05.191311Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-05T00:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>

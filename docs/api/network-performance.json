@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-06T01:22:18.013802Z",
+  "generated_at": "2026-07-06T06:09:08.209274Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "173e77a00b5355e40b497d6f",
-      "title": "House meeting live broadcast disrupted due to internet outage - myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUN3Nl9JSUZFSm9sREtTb01OYUhwelNmSDljWlo0VWFsS2ZWYjBjZjVUNVBFU2lkMk9FWnphcGNwbGJQTUViTzlsc0lpYWpua05Oak10YThUUDh5azhHdTlMVmh3WG9OWHBQQXNoa3pJdmpZRlNNWTlwa01SUFdjcjJWWEVKcm5oTW5vWUk0SjFqS3dvUHV6cVVYcVpaNDRObjVyMWF5YkxOUko5aFZtT25lRmtDV0U?oc=5",
-      "summary": "House meeting live broadcast disrupted due to internet outage myRepublica",
-      "published_at": "2026-07-02T07:33:24Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "6513793f9290fdd1a2da68a0",
