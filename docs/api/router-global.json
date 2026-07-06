@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-05T23:42:40.219852Z",
+  "generated_at": "2026-07-06T01:22:15.935574Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "fbcae1faeb62f33ae55e76b7",
-      "title": "TP-Link Archer GE400 Wi-Fi 7 Review: A Good Gaming Router Overshadowed by Its Big Brother - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtU08yVUpHczhJaUlvSXhya2tDcmRwMlRTT0dObzRNcjZSZ3ZWak5ocnB5REpMLU1yYWZmbHV6SktPQnF6bU5HUFBsU0lORXFjZG9KcnRBZXRCb0VkeWVhOGgwNnJqeS1XZnVDWUFXOTVoenpaZVBnRmw2Yzc?oc=5",
-      "summary": "TP-Link Archer GE400 Wi-Fi 7 Review: A Good Gaming Router Overshadowed by Its Big Brother PCMag",
-      "published_at": "2026-07-04T23:45:46Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 23
-    },
     {
       "id": "39de90d6315cfd4b1b74d81e",
       "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
@@ -29,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
+    },
+    {
+      "id": "2bb7d02cb0f38c7cb8d70f51",
+      "title": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnc0cW9ITWZKbmxyTC0yNzREV3Vqb0FBbDU4M2FzeHFTNktWREh4TEJ4YTI2RzQtTEQtM2tWZmNXME1YMHFmdlM4ZkQ3XzdBMWg3SW9uUHlSZ2xyZFRWbFY4aGczMVZWalV0Tnh3Uy13OHZoN1Uyc2Q2YTNfUVd6STN6V0tGc0laZmE5ZzB2SnM5TkU?oc=5",
+      "summary": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router PCMag Middle East",
+      "published_at": "2026-07-05T06:13:30Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
     },
     {
       "id": "841f6264ca7bd3d4a562c17e",
@@ -76,9 +76,9 @@
     },
     {
       "id": "c300f848c50ebc6b2be231dc",
-      "title": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - ximitime.com",
+      "title": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - XimiTime",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2NfakhkQk9uUXcxbVAtXzJYNU5LTy0tNDBlU2p0VWpaVmRDUnM5UW1DZmZoNXNWeVZIQ2YzQWs0MmhmNE5ZS3FxMF91Z1ZITVhJdVlUNTFLOWV6bmRuRnMyQjE4Z2RWdnQxcGk5RHVNRUM1YTNhY2hvSUxSRnVvQWUyTFZJN2IycmtNV2hWR0U1dWR5WjdPczJ3Wjl1ekxfcnRKdDg0UXhxdVlxeUdlR25HQVFIZw?oc=5",
-      "summary": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades ximitime.com",
+      "summary": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades XimiTime",
       "published_at": "2026-07-05T09:58:34Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
