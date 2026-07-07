@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-07T01:23:06.488854Z",
+  "generated_at": "2026-07-07T05:49:44.373558Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-30T14:08:07Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 22
-    },
     {
       "id": "2bb7d02cb0f38c7cb8d70f51",
       "title": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Middle East",
@@ -29,28 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 17
-    },
-    {
-      "id": "4e2e17527f258585ae7b35ae",
-      "title": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year - PC Gamer",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR2xaTWI1TW4wLVVPd1BYSVRKN1NTZS1JeW9paU5zV0RpMEt5UENtWmsyQ1JqM1phSF9OcXJrNTlGSHlSQWZ2dnNQOFVndkdFUVQ2T1VzWi1VRmEwTmhFSHExVEZ0cDZyQ2gwR2Z5b01ETzdaWlZmWmFKYVJhVUhVemRtVmUzUWx5M1l2QjdMWm9XMWl4Z2tPVG1hS0ZyNHdjTHNQV0J5UW80bU1aN3h3UGV0V3hOM2RjcFlyVTczNDNjOUxFbHczR2M5VEhIOUZfc2ttYXcxY3BDaEV4dVlRTjJGLWgxWGxjdGNqV2prcDRnMmtUMTVV?oc=5",
-      "summary": "This Wi-Fi 7 mesh router pack has a Prime Day $200 saving and it's the best upgrade I did last year PC Gamer",
-      "published_at": "2026-06-26T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
-      "id": "1d913d54d631eb569830f01a",
-      "title": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day - WIRED",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMnFLSEtUbXBORUN6eW1ZcHRkQmIzTWd0QkgxaFhpQjB2VWE4NU5ZN0VCWF9XVk1rNGZsQXRlbHM0NXBub3I2cFpFdFNuUzlISjFtWGZCR1o3TnItTlRIZTAxVW1DczdmU1h5ZFdoRHVyNW9kRmsweHZuNW1jaEwtc0VEYw?oc=5",
-      "summary": "My Favorite Wi-Fi 7 Mesh Router System Is Heavily Discounted for Prime Day WIRED",
-      "published_at": "2026-06-23T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
     },
     {
       "id": "5859e252588c8c80ec17e35d",
@@ -75,28 +42,6 @@
       "score": 13
     },
     {
-      "id": "9cee25a4532ea91beffc8334",
-      "title": "Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested - IT Pro",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcURXQUNaajBhWV9KeUFuRlhfT1lRTWFjY2xoaW1aamdaR2RVUHdvZk5lSDdCcEgxb2lZSmxUZ1gzaGtUUXRwa204VDAxbHNERzNyVEtpQmRZSUpKZm5PU1ZIOE9yWERST0xDdjNPY2VsYXp6UE5sT0hUTXNyVjZseVZ1b2pLUmwxUnc3RXdiVkxKUGVuTWJUbldqbm1CWVBiNFpjbVlKNjZPcFlCa2wwdWJlTno5R1hkenI0TFppdw?oc=5",
-      "summary": "Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested IT Pro",
-      "published_at": "2026-07-01T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "29ae98d7a5e4d275cf4a84d3",
-      "title": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] - Cult of Mac",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzNLdnRjTU1rUnFWdVNpZ3NhdllURkZmeWpfckVLNGl5OUxCN0dVamlLYWJxWG9LZ2Z4VjUyR1pHN3dEMHdnUFVHOXlmVXJobGZ3Z0VDdE80bk1ERm41VzdxaDZvR2c3ZE9PMXdERHZ0NFVhbnNNaGFPd0NmMWtaN2F6SQ?oc=5",
-      "summary": "TP-Link Roam 7: Don’t leave home without this reliable travel router [Review] Cult of Mac",
-      "published_at": "2026-06-30T15:21:48Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "1bb383bc789a85aa7f9673bc",
       "title": "Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top Score - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeHprS0kxVHhHc3c0ZjZtSk5naHo4dEtvcFlaYkVlOXQ2WWE0RTR4ZHdGeGRhYVhmR25oLXNlNEJEYmR2MjhMZkRTeHdPM1lENnVld3VvdVZ3RlJhWEtrNUZuTWdpWjJGNFlEVVZ0QVJXUU1MQ25rcXNoSlB6dzcydndNcWZnUU5EeFFCcmNqZU0?oc=5",
@@ -108,15 +53,70 @@
       "score": 11
     },
     {
-      "id": "047402866065752d31c745c2",
-      "title": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS01ZVZPWEVWYnJnNmpPOW9YM3RiRC04R1JDYmVud2YxQnlfN1puOFN4SllBYnROUFRpcC1IWE5URERXQUVOWDVrMDlSbDVKV0pWaFJvUnFTMEZ1aUlUaWNjaUxUQU9rNTdMTUNpMVBSZmtZTHZpWlFmd2JTcFc2YS1jdk1xQzVzZUtOS1lHc1DSAZYBQVVfeXFMTVFrejBCZUJUOVZsdnB6cUNrcGpQNWpLYmFqcGxlMmRoQUdPOHNkSzFCMHcyMjFNRktqVjczVUpmREp6U05laHVxVjZwQ0RPeWR4VUJxeXBGb3ZkSHF0SGhkd3FDQXBpUmNSaEwweHdMMEdISWtYUVJ5ZkU5T3FHSm1qTEpaNGtRQUtwcVhUTmpQR28wRVFR?oc=5",
-      "summary": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon Wccftech",
-      "published_at": "2026-06-29T05:23:57Z",
+      "id": "23b50ffca22e89439386bf4f",
+      "title": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54YW4zbXJ6eGJzSXVnUXJMNXdfQ3hSbHF1U29rY3pCaGdPa0EzdUVWWDdoQlJ1eFpsZzVpeXlJZjFTbEFDazJkT1lGUzhFX0xUQUdSOG42aGkyZjFUY2hFckVYYTNEMkw0Q3pMeDBsbkg4ZXJH?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Benchmarked in 2026: the best of Wi-Fi 7 from budget to premium Tom's Hardware",
+      "published_at": "2026-06-25T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "0f3943fe6be874049ae64fc7",
+      "title": "The Filogic 860. MediaTek leans into Wi-Fi 7 for US home routers - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdjFGSzAyazBDd1RMSjZWVVl1QlFRb2stZTNaUnVsVG5QYzZMT0luWEVQVE9OMXZEekJVdDdpdXlzazZ5dmFXNnJESXFnb05RbmdKS05pd2tHbGNLMU9qUWJqTE5HaXRwb1Zabi1jbjVwenNIR05lOTA4OG9tNGtKaGtDM25HWmtiY1lMbDFkTFo1OEhNS1AzSmNGdHZibFQtZnpHRVpUbzRrTzl4ZmJWNlNEQjZtNFBpRHNLQ3hWcw?oc=5",
+      "summary": "The Filogic 860. MediaTek leans into Wi-Fi 7 for US home routers AD HOC NEWS",
+      "published_at": "2026-07-07T03:33:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 9
+    },
+    {
+      "id": "37167f6c2a5b65e0315a7fea",
+      "title": "Amazon’s eero 6 mesh Wi-Fi routers drop back to Prime Day prices from $50 (Up to 50% off) - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3EtVDZMUnBWQjNuRi1QTUFpVmtUalNFaDVrckJCU3JhUUxBX185b2piR1lQamd5N2QweFhJVEdMcWtMUDRudEM3OVNUdlNwb2JhWFU2akhReXU2Q0pDWjNfNnN5czlsOHpXN3BBMFRKR1plZzdqbTRLQzdoZ0kxUHFqeXBxeFJfUTI2alZYOVFhYnJGWXdzLTBkemxvR1U?oc=5",
+      "summary": "Amazon’s eero 6 mesh Wi-Fi routers drop back to Prime Day prices from $50 (Up to 50% off) 9to5Toys",
+      "published_at": "2026-07-06T10:55:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
+      "id": "3d53199e5fe411ee62633e02",
+      "title": "Wi-Fi 7 hardware isn’t always expensive — that’s what I learned from testing the Tenda BE5010 i36 Access Point - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQU9zNGJZdkxiVy1TQUZEQ0xndGU5NHcwVE85eFdTSkk4ZFpoOU4xemxhZ19Bc0dNMUdaSy1hV0VaYlFNZkplTHdMQW94cFphV0FSbnB5QlNTT2ZIQlY5bnZKZl92bGR3OWdFZ1JGdjlLUC1IODRYdWdnN3Y5aEo2b214b0IzWWprU1FNQzB1UER1VWd2aVlZUEhaV1BFTHFUeUQybjY0cjNaMC1nR1ZscXhQZmE2Vkw1NmZrUktKcHNhYmUwZVU5c01ERm1ucU9XSHRmTFNwcjJYcWl1eWtrMFBkLUp0TnpFSXh5dlNlRmdFLWx4QlVoaTl3?oc=5",
+      "summary": "Wi-Fi 7 hardware isn’t always expensive — that’s what I learned from testing the Tenda BE5010 i36 Access Point TechRadar",
+      "published_at": "2026-07-05T19:25:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "909fefc6816a3d79f6fa0702",
+      "title": "MediaTek emerges as Wi-Fi 7’s open-source gateway leader for RDK-B and prplOS - Wi-Fi NOW Global",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFh0SEpXQUpSektyRnZteERmVkw3b0lOMW81VHdPVGpmaUprNHhsVU85UW5wX0dYd2ZuMTlDZURublRXRkFmNExjbUQ3ZmJLTzBUREQ3SXduU1RUQnVWVGVUR0x0ZUZVSEZTSkxZTVZNWjlUa29PRDdGYXZ4XzBNcXdpZkMtWFRiN2RkUkk5ZTlid3V2dXlsQm5YSFRGM3FmcmIyYnoxN0RxcllVd2p5NjB2aw?oc=5",
+      "summary": "MediaTek emerges as Wi-Fi 7’s open-source gateway leader for RDK-B and prplOS Wi-Fi NOW Global",
+      "published_at": "2026-06-29T15:58:21Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
+    },
+    {
+      "id": "4cab4588f77234808dd8883b",
+      "title": "Forescout warns pre-disclosure exploitation of Lantronix flaw, mass OpenWrt targeting exposes OT edge security gaps - Industrial Cyber",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYldxT0ppck9MMGZLclIxekpWSDBPWXk5dlF5MTZvdW5Yb25wcEp5MmVtMEdBeWZBZFFMSzNjekN0WFVvVHRKSDNYODV2NjZYbTBTRGNwTV9jb2JCN2FXMDB4QWxhakdTVzVNYVc3TXREVWxFRlZfWS1tb04xMkZiY2RCOUFkTkpFZmIyaFFNYWpGd0ZSOGVpV1QzcGdtcWdBSmdGc1B4d2NNSkI4SUZiTGhMSktHWlpnX1lpdFBGVjhuelhORGZsVjdMZmRWajlTNHQ0amk5YjF5NW5mN2lwS0xVRWNZUzJBNFNLTUxhaw?oc=5",
+      "summary": "Forescout warns pre-disclosure exploitation of Lantronix flaw, mass OpenWrt targeting exposes OT edge security gaps Industrial Cyber",
+      "published_at": "2026-06-29T09:12:34Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
