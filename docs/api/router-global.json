@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-07T09:58:45.446005Z",
+  "generated_at": "2026-07-07T12:38:05.557995Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "c300f848c50ebc6b2be231dc",
+      "title": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - XimiTime",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2NfakhkQk9uUXcxbVAtXzJYNU5LTy0tNDBlU2p0VWpaVmRDUnM5UW1DZmZoNXNWeVZIQ2YzQWs0MmhmNE5ZS3FxMF91Z1ZITVhJdVlUNTFLOWV6bmRuRnMyQjE4Z2RWdnQxcGk5RHVNRUM1YTNhY2hvSUxSRnVvQWUyTFZJN2IycmtNV2hWR0U1dWR5WjdPczJ3Wjl1ekxfcnRKdDg0UXhxdVlxeUdlR25HQVFIZw?oc=5",
+      "summary": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades XimiTime",
+      "published_at": "2026-07-05T09:58:34Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "2e245e92a718bd19488d7ccf",
       "title": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5",
@@ -104,17 +115,6 @@
       "published_at": "2026-07-01T20:17:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "047402866065752d31c745c2",
-      "title": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNS01ZVZPWEVWYnJnNmpPOW9YM3RiRC04R1JDYmVud2YxQnlfN1puOFN4SllBYnROUFRpcC1IWE5URERXQUVOWDVrMDlSbDVKV0pWaFJvUnFTMEZ1aUlUaWNjaUxUQU9rNTdMTUNpMVBSZmtZTHZpWlFmd2JTcFc2YS1jdk1xQzVzZUtOS1lHc1DSAZYBQVVfeXFMTVFrejBCZUJUOVZsdnB6cUNrcGpQNWpLYmFqcGxlMmRoQUdPOHNkSzFCMHcyMjFNRktqVjczVUpmREp6U05laHVxVjZwQ0RPeWR4VUJxeXBGb3ZkSHF0SGhkd3FDQXBpUmNSaEwweHdMMEdISWtYUVJ5ZkU5T3FHSm1qTEpaNGtRQUtwcVhUTmpQR28wRVFR?oc=5",
-      "summary": "Enjoy Uninterrupted Speeds And Smoother Browsing While On The Go With TP-Link’s Roam 7 BE3600 Portable Wi-Fi 7 Router, Now Available For $129.99 On Amazon Wccftech",
-      "published_at": "2026-06-29T05:23:57Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }
