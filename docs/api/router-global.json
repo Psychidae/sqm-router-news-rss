@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-08T01:09:21.137485Z",
+  "generated_at": "2026-07-08T04:29:58.222245Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,17 +86,6 @@
       "score": 13
     },
     {
-      "id": "c300f848c50ebc6b2be231dc",
-      "title": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades - ximitime.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2NfakhkQk9uUXcxbVAtXzJYNU5LTy0tNDBlU2p0VWpaVmRDUnM5UW1DZmZoNXNWeVZIQ2YzQWs0MmhmNE5ZS3FxMF91Z1ZITVhJdVlUNTFLOWV6bmRuRnMyQjE4Z2RWdnQxcGk5RHVNRUM1YTNhY2hvSUxSRnVvQWUyTFZJN2IycmtNV2hWR0U1dWR5WjdPczJ3Wjl1ekxfcnRKdDg0UXhxdVlxeUdlR25HQVFIZw?oc=5",
-      "summary": "Xiaomi ranks second as China's home router market shifts toward premium Wi-Fi 7 upgrades ximitime.com",
-      "published_at": "2026-07-05T09:58:34Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "2e245e92a718bd19488d7ccf",
       "title": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "1bb383bc789a85aa7f9673bc",
+      "title": "Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top Score - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeHprS0kxVHhHc3c0ZjZtSk5naHo4dEtvcFlaYkVlOXQ2WWE0RTR4ZHdGeGRhYVhmR25oLXNlNEJEYmR2MjhMZkRTeHdPM1lENnVld3VvdVZ3RlJhWEtrNUZuTWdpWjJGNFlEVVZ0QVJXUU1MQ25rcXNoSlB6dzcydndNcWZnUU5EeFFCcmNqZU0?oc=5",
+      "summary": "Not Netgear, Not TP-Link: This Mesh Wi-Fi Router Gets Consumer Reports' Top Score bgr.com",
+      "published_at": "2026-07-01T20:17:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     }
   ]
 }
