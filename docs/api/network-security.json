@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-08T20:07:19.070151Z",
+  "generated_at": "2026-07-08T21:21:48.792560Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 2,
+  "count": 1,
   "errors": [],
   "items": [
     {
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 13
-    },
-    {
-      "id": "eb58526d61e64581a720b3a1",
-      "title": "セイコーの企業向けIoTルーター「SkyBridge」に深刻な脆弱性、修正パッチは提供されず - 財経新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UR2t4Y0xDNnhDQ0NicjlOaE81TnhqMmJzWnQzZC1BdVl2WnNOdlF5bFdPV1hSTzJEUUN3Wkl1alp4UUpQNUNMQzFKZEFDUXlQTzFtZG5DZG00dmNNSWI1ZlBtVzYtdVB00gFoQVVfeXFMT1RHa3hjTEM2eENDQ2JyOU5oTzVOeGoyYnNadDNkLUF1WXZac052UXlsV09XWFJPMkRRQ3daSXVqWnhRSlA1Q0xDMUpkQUNReVBPMW1kbkNkbTR2Y01JYjVmUG1XNi11UHQ?oc=5",
-      "summary": "セイコーの企業向けIoTルーター「SkyBridge」に深刻な脆弱性、修正パッチは提供されず 財経新聞",
-      "published_at": "2026-07-06T03:14:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
     }
   ]
 }
