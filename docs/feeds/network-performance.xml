@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 22:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:43:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions - Yahoo Finance</title>
@@ -60,20 +60,6 @@ Maghull internet outage set to be fixed after three days BBC</description>
       <pubDate>Sun, 05 Jul 2026 22:38:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-05T22:38:05.116616Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-05T15:50:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] MP says third day of internet outage 'disgraceful' - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQcXNyQmZ1dy12bC1La1FJUnBoNmFjUW5DZmFjV3ZidHRVa0d2S043eWYyNXF4QjU0TmZVS0wyNURQMC1MeWxlRHlTOGFZQXlhczZfZWE1WFdwM1B0X2VOUmxRRzRnY09Nd1dReG9YQy1jM1VsY05tT0FMOE9sU1RFNlpJZGQwS25sek5XTm1RTDhYdkUxSE80YUlPY1VrZw?oc=5</link>
-      <guid isPermaLink="false">10db07050c63b05240f1dd6a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-04 21:03
-MP says third day of internet outage 'disgraceful' MSN</description>
-      <pubDate>Wed, 08 Jul 2026 22:42:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-08T22:42:07.684876Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-04T12:03:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
