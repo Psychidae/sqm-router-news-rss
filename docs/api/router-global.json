@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-08T18:41:50.389795Z",
+  "generated_at": "2026-07-08T20:07:18.085090Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,9 +53,9 @@
       "score": 14
     },
     {
-      "id": "41bbbf3f796131cccb7b7d55",
+      "id": "8133b76b246849b19afc923a",
       "title": "ASUS ROG Strix GS-BE18000 [Review] – Wi-Fi 7 That Slaps. - G Style Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OY1VkcFZuWTVtYXlZLUtOb0Q4bkhkV3VNYlNWTEtpVkUxclV0bXhYQ2txckZiSmxOdkxiNTl3cnZDOXNxTDhqLU04NzljNnB0SlRaaW5yZ0JMWEJjUzI1M2U3MGktaE1vcmNoZklCRmNaXy0tb1lXZHJZcXFoQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFpycXhxa1lxZ2xnOGQwVGVNZy1nVlZ6ZUlaZTRNaW5fTzREUVNFMmo4SUJoSXAtMDdIVHpuS0YxMzRUX1ZXYzIwOFVCbmY5ekctLURHZlJBZWgyOVJWYTR1NWZBN2FNcXJKZ25zRWNxTmVFLWZPczF4d2daazk3UWktT2Q1eXdQTG1lbXhR?oc=5",
       "summary": "ASUS ROG Strix GS-BE18000 [Review] – Wi-Fi 7 That Slaps. G Style Magazine",
       "published_at": "2026-07-07T15:01:06Z",
       "source": "Google News Global: home networking",

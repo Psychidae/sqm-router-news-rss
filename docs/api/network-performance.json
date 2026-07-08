@@ -1,34 +1,23 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-08T18:41:52.690621Z",
+  "generated_at": "2026-07-08T20:07:20.249697Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 7,
   "errors": [],
   "items": [
     {
-      "id": "66c23ef95daff7303dabc491",
-      "title": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVFc2R29Dc1h3X1JuQXVmdnBINkNTcFE4TE1SMFRMMEtUMTJacGJuWTAtSGhkbm03YnlfTFhEcmJSZ3ZJektBMmczYkVmZEtQNS0tYU1MMkQwTkY5ZzczR0dvMVdmRGNVLWhWZ3RpQW91T2dRYzRzd3JaSVpHejExQnBKMURTT2JkNlAtT0x1bHZwT29BcU5yVXBreXkydk0xME80UU9QREM3dkpVdFFvYWdicmNtV3Q2ZXpRNHNVZjhpS3dScHhtZzhwOUR2dHlkeEpERw?oc=5",
-      "summary": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions Business Wire",
+      "id": "bdef957cc9aebfcc7b91bbb1",
+      "title": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXNscDN6YjIxamJMVVFLc0hRM1FjcEIwZVVwNFZaZ3IzdkVwZ1cwdVZGR19ZT00wZlIxTUMyREdjMzhrNU1abm5hUlBjMEppMG1PR214cHpPR1J6dC1kVW9nQURxSU1VakY0WTNkYkZyVUt3ZTVMYkRjeUppdXBCRVRVTzNpdlFPcFVpcm55ekxodkluVUV5R2Z4Z0E4UTBaT2VB?oc=5",
+      "summary": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions Yahoo Finance",
       "published_at": "2026-07-08T12:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
-    },
-    {
-      "id": "5f581c398c4aab29b2e3ef81",
-      "title": "テルストラは、先般の通信障害発生後、自社ネットワーク上で通話とデータ通信の約90％が復旧していると発表しました。 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON2hBQURIVW1OZjdubjRsUV9HUFhJZDVGclFueDc2YVBRdy1ocTlHX1c2N19BaGlwWjFFTERBRXdscnBfV1pYb2xfcHNuWjE0YktfM1hzSF9feUhaVjVFTHdoOW1yWjdKZGxuZ3l3LXlNVHVDMHM4MGtScTVUaXJVOFgzcVNiOXNYMFM0cGJwaHJFbzBEbkxZUlJnc2NseGF0Z3pOVEtvMA?oc=5",
-      "summary": "テルストラは、先般の通信障害発生後、自社ネットワーク上で通話とデータ通信の約90％が復旧していると発表しました。 Moomoo",
-      "published_at": "2026-07-08T01:11:07Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
     },
     {
       "id": "e786b62a431a1270abb6c7a4",
