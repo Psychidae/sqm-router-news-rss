@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-09T16:40:07.779974Z",
+  "generated_at": "2026-07-09T18:25:01.128596Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -13,7 +13,7 @@
       "title": "Review: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - smarthouse.com.au",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREJ6TUdxSGRkeWJBV1pxNzh4V3lObkZxZ01MZEk2UlhNVFZnTWFlRTZvUWRfUk83cmJ4Y2VaNmNDSXZobUlaV2ZjQ1R6NTdwZ1FRVng5bzA5Q3M5cy0ycGxUY2lLSnIteHlVbDhTT1FRWnVNVEh3NWF4NXVQSHVaQ1NLc2NLVXgzSVBrSUR5bllEUUNWYjBfdXd6ZUwxTHBMU09qRkhjRm9ocXA0dUJRWWRIR1J5QQ?oc=5",
       "summary": "Review: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals smarthouse.com.au",
-      "published_at": "2026-07-09T11:32:49Z",
+      "published_at": "2026-07-09T17:32:50Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -39,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2bb7d02cb0f38c7cb8d70f51",
