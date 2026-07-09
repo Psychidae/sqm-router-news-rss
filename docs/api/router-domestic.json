@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-09T14:14:18.134459Z",
+  "generated_at": "2026-07-09T16:40:06.413332Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
+    },
+    {
+      "id": "34e2726b22f293178c9777f2",
+      "title": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RVFfamk2UWc2SlczdnFqc1MweHhxM3NlVlk1eHhPU21BeWkyYkNrM1owelRoY19KalI0bVR4SG1qTGVyTTllcDVFRUx4VjVPQTNFdkxtNnQyRUYyWDFPREpOTl9pb1VOMTJSRjY4LTVDUQ?oc=5",
+      "summary": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 AKIBA PC Hotline!",
+      "published_at": "2026-07-03T15:15:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
     },
     {
       "id": "b2568137d2f536c0b16fb95a",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTHVoVW5aX1lhS3AwX0RjRTJNWUpMTU1RMThJS00zc3ktTEhXbzAybzg5bThyOGdDQndGMDdWQ09YNWxKSXVtNC1KZGVGSUpWTFN5M3dKbnd5ZGkwcld4MFFaRVd6U296amw0SE00amhOZHFUR3F4RnBDU3BaYVVBdA?oc=5",
       "summary": "ASUSの高速Wi-Fi 7ルーター「ROG Strix GS-BE7200X」などがお得！Amazonプライムデー先行セール AKIBA PC Hotline!",
       "published_at": "2026-07-08T05:35:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "5db20e9f1a39fb2fd5e4f254",
-      "title": "10Gbps回線を契約したら検討したい、Wi-Fi 7対応の「バッファロー WXR18000BE10P/N」がセールで5万3530円に - ITmedia PC USER - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83cFNMTUlIckQ1bEhaOXpTQktnYWxaWkM1cE1JLVg5RndTa25vR3NwLWVVeS1HdUYzZTNnRkhOUjF5VWMwRk1zekFrV0xaLUFwX05vc0lnUmszbjJRNjVVX2psN0c4VWJIZXBaNDZWTdIBaEFVX3lxTE51NFZubHJrS09ieFBuaG9MNTJFdTZSS1YyMWZac3B0UWZ5ZDNpMWtjajZ4TnRQVHp5VXo3VVNxVXVBMmdBZThWR1hGZlQ4QkVqcjBJLVkzcWxqMmpnVjBjY0VIQy1mWkZw?oc=5",
-      "summary": "10Gbps回線を契約したら検討したい、Wi-Fi 7対応の「バッファロー WXR18000BE10P/N」がセールで5万3530円に - ITmedia PC USER ITmedia",
-      "published_at": "2026-07-08T05:31:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
