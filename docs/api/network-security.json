@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-09T08:42:37.309784Z",
+  "generated_at": "2026-07-09T11:38:31.890677Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 2,
+  "count": 3,
   "errors": [],
   "items": [
     {
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 12
+    },
+    {
+      "id": "3c4862c79fb47dcf95c88655",
+      "title": "「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVNkh5N3J3WVE1RTBzX3ltbENYRkFSTFRYUmhoMUVseFJrWGhFZWZUNlJpLUl3cUNmcWczTHotU3VoekRmVW50Z3Fsb3AwWl9Yenh3QkZtZi1SQXlmUkRDT2tySWlESUh1R1NOZmJXT1ZFNldLRk1UZg?oc=5",
+      "summary": "「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 INTERNET Watch",
+      "published_at": "2026-07-07T21:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
     },
     {
       "id": "22bf56261f6487069320097d",

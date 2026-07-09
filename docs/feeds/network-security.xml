@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 08:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:38:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 『【AIが脆弱性を見つける時代】VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES</title>
@@ -18,6 +18,20 @@
       <pubDate>Wed, 08 Jul 2026 04:29:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-08T04:29:59.104777Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-08T00:00:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBVNkh5N3J3WVE1RTBzX3ltbENYRkFSTFRYUmhoMUVseFJrWGhFZWZUNlJpLUl3cUNmcWczTHotU3VoekRmVW50Z3Fsb3AwWl9Yenh3QkZtZi1SQXlmUkRDT2tySWlESUh1R1NOZmJXT1ZFNldLRk1UZg?oc=5</link>
+      <guid isPermaLink="false">3c4862c79fb47dcf95c88655</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-07-08 06:30
+「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 INTERNET Watch</description>
+      <pubDate>Thu, 09 Jul 2026 11:38:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-09T11:38:31.890070Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-07T21:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
