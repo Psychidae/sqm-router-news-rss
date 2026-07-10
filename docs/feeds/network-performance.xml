@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 05:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:38:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions - Business Wire</title>
-      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVFc2R29Dc1h3X1JuQXVmdnBINkNTcFE4TE1SMFRMMEtUMTJacGJuWTAtSGhkbm03YnlfTFhEcmJSZ3ZJektBMmczYkVmZEtQNS0tYU1MMkQwTkY5ZzczR0dvMVdmRGNVLWhWZ3RpQW91T2dRYzRzd3JaSVpHejExQnBKMURTT2JkNlAtT0x1bHZwT29BcU5yVXBreXkydk0xME80UU9QREM3dkpVdFFvYWdicmNtV3Q2ZXpRNHNVZjhpS3dScHhtZzhwOUR2dHlkeEpERw?oc=5</link>
-      <guid isPermaLink="false">66c23ef95daff7303dabc491</guid>
+      <title>[性能・障害] How 3 Pike Creek businesses weathered weekend internet outage - The News Journal</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0F5U19FbE53cTl4aTZJTDhrSWJYOTk2WTRDeG8xZmttVE9RUEl2b3lLZXlWSHp1NUtDaVE1N2IxVmJ5REpoTG1zQ3J2TmdYa0lXREc1aXpaV3VSaml3NTJIOWxyV0JpS0lpc3FPYS0tQ2NCSXZvX1Y4RUNyekpJM005UkJ6UVhQUnlrYkVDUG8wSDhZVThaZjZQakZibGVpYl9HV3BjYTRyZW9KemhQQVprakRxQjhQcE9oYkNjTjZvdHlpTFppNQ?oc=5</link>
+      <guid isPermaLink="false">07fdade5175edbdd78f6da69</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-08 21:00
-Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions Business Wire</description>
-      <pubDate>Thu, 09 Jul 2026 23:34:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-09T23:34:52.328221Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-08T12:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-10 17:19
+How 3 Pike Creek businesses weathered weekend internet outage The News Journal</description>
+      <pubDate>Fri, 10 Jul 2026 08:38:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-10T08:38:26.576859Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-10T08:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -46,20 +46,6 @@ Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solution
       <pubDate>Thu, 09 Jul 2026 01:14:47 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-09T01:14:47.203439Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-08T01:11:07Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] IPv6への移行を通じて、AI時代を積極的に受け入れよう。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5tc1MxOE9zcFpRZ3JhbmUtME5sTmlqcjZWdnR5TWdlOVhYRU1mM2ROVVM1ZjROTDJNdGx4NVFnUk52NW9fbUxWSkF2MENKeFFJY2RBWG9wRE1wWlNoQ3QtVF9sVWsxTF9RS2NFVTJfM05qR2Q2SU5ZYVN3?oc=5</link>
-      <guid isPermaLink="false">e786b62a431a1270abb6c7a4</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-07 14:54
-IPv6への移行を通じて、AI時代を積極的に受け入れよう。 Vietnam.vn</description>
-      <pubDate>Tue, 07 Jul 2026 12:38:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-07T12:38:07.421248Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-07T05:54:57Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -106,17 +92,17 @@ MP says third day of internet outage 'disgraceful' BBC</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Internet Outage and City Council Meeting Information - City of Hutto, TX (.gov)</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSFJ4ZU5reHlSS2FwbWlObVI4RXE1cTV3enY3X2pzWFU0M3J2WmFDTWczWlg0N0hYVXAwTlVKZU00WS1qQ1FyZXpEWnE0VTJmQnVLVFVBZjIxQ0NESkZz?oc=5</link>
-      <guid isPermaLink="false">740466c2470d2ba94b3e3b2a</guid>
+      <title>[性能・障害] IPv6への移行を通じて、AI時代を積極的に受け入れよう。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5tc1MxOE9zcFpRZ3JhbmUtME5sTmlqcjZWdnR5TWdlOVhYRU1mM2ROVVM1ZjROTDJNdGx4NVFnUk52NW9fbUxWSkF2MENKeFFJY2RBWG9wRE1wWlNoQ3QtVF9sVWsxTF9RS2NFVTJfM05qR2Q2SU5ZYVN3?oc=5</link>
+      <guid isPermaLink="false">e786b62a431a1270abb6c7a4</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-03 15:06
-Internet Outage and City Council Meeting Information City of Hutto, TX (.gov)</description>
-      <pubDate>Mon, 06 Jul 2026 19:22:01 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-06T19:22:01.496844Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-03T06:06:17Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-07-07 14:54
+IPv6への移行を通じて、AI時代を積極的に受け入れよう。 Vietnam.vn</description>
+      <pubDate>Tue, 07 Jul 2026 12:38:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-07T12:38:07.421248Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-07T05:54:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
