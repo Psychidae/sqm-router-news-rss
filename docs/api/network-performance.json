@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-10T19:49:02.309710Z",
+  "generated_at": "2026-07-10T21:18:59.754474Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -73,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "e786b62a431a1270abb6c7a4",
-      "title": "IPv6への移行を通じて、AI時代を積極的に受け入れよう。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tc1MxOE9zcFpRZ3JhbmUtME5sTmlqcjZWdnR5TWdlOVhYRU1mM2ROVVM1ZjROTDJNdGx4NVFnUk52NW9fbUxWSkF2MENKeFFJY2RBWG9wRE1wWlNoQ3QtVF9sVWsxTF9RS2NFVTJfM05qR2Q2SU5ZYVN3?oc=5",
-      "summary": "IPv6への移行を通じて、AI時代を積極的に受け入れよう。 Vietnam.vn",
-      "published_at": "2026-07-07T05:54:57Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }

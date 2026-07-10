@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-10T19:49:00.083953Z",
+  "generated_at": "2026-07-10T21:18:57.638788Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 16
     },
     {
+      "id": "7a2f189a78a6f4dd56db2cc4",
+      "title": "Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router System - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzRmZjN6bDU2b1VfQmN0M0RxdW9Edkg2R21Fa3YtaFlhVl9KNXh3WEtnSGFZQXdOMVdNVHVPdzFaRG1oQVdJdktvWXdaY3A1TEVzeXkwZXRnMFJLZjI1Zk5VYnh2RHlrTUdIQmxfTXIwTnU3akdsanRjV2RnWTA5NGFxMTZZWEhKcFFVR0dLREw1Y3lpbUdmLXZOZlI?oc=5",
+      "summary": "Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router System PCMag",
+      "published_at": "2026-07-09T21:40:52Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "14111eed6eaeb8f43644192c",
       "title": "TP-Link's Outdoor WiFi 7 Mesh Router Gets Another Price Cut to Below Prime Day Lows, No Need to Stick With a Budget WiFi 6 System - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVRCOHk5S2ZIX1pyUlEwY2FhQzRMTVRYMURsWjktRi1rSFVpZTVkeWprOUMwbVlKMHJzTmc2ZUZpZkRKN3FwT29BWUZEcUI0Sy03SUtYY2pTeml4T2wxZk95RHZnRnpzMU40XzlGYVdkMlduYmpOdkx0TmxwTXkyblp6YzlvRV9XTE02Nm5XeENoazJYUzdIZ3BhMExGbDZRUXhxY19xYThfc1ZSN0s0dDlxaDRyaTBzbzV3RVZPNlVmU3FKR3lWYk5sejVjQUd6YmRBRFhyb0lIX00xM0dfbHM0RmFpUzRJT3VNRVFXcw?oc=5",
@@ -73,17 +84,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "9faf452cd654b364c13d4cdf",
-      "title": "Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzNDYXBaems5R0NhcEM0dU9Uc19oLXpTdkFCM2laZVZCYUN5WEt0SUZGMVFITk1VeGdDWDlMRGszaTBxNElZYWFXLW9YREpvMDRvOWxjYVNyTWpla2NteHNpRWJzcWhTMHpIak84UGJ4TzctVEZoNzNRT3R4Yk1MX0lR?oc=5",
-      "summary": "Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter The New York Times",
-      "published_at": "2026-07-07T21:15:31Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "8133b76b246849b19afc923a",
