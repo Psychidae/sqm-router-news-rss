@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-10T21:18:59.754474Z",
+  "generated_at": "2026-07-10T22:38:56.752083Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "66c23ef95daff7303dabc491",
+      "title": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVFc2R29Dc1h3X1JuQXVmdnBINkNTcFE4TE1SMFRMMEtUMTJacGJuWTAtSGhkbm03YnlfTFhEcmJSZ3ZJektBMmczYkVmZEtQNS0tYU1MMkQwTkY5ZzczR0dvMVdmRGNVLWhWZ3RpQW91T2dRYzRzd3JaSVpHejExQnBKMURTT2JkNlAtT0x1bHZwT29BcU5yVXBreXkydk0xME80UU9QREM3dkpVdFFvYWdicmNtV3Q2ZXpRNHNVZjhpS3dScHhtZzhwOUR2dHlkeEpERw?oc=5",
+      "summary": "Increased Bandwidth and Low Latency Internet Enabled by Aurora Networks Solutions Business Wire",
+      "published_at": "2026-07-08T12:00:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
@@ -58,17 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcXNyQmZ1dy12bC1La1FJUnBoNmFjUW5DZmFjV3ZidHRVa0d2S043eWYyNXF4QjU0TmZVS0wyNURQMC1MeWxlRHlTOGFZQXlhczZfZWE1WFdwM1B0X2VOUmxRRzRnY09Nd1dReG9YQy1jM1VsY05tT0FMOE9sU1RFNlpJZGQwS25sek5XTm1RTDhYdkUxSE80YUlPY1VrZw?oc=5",
       "summary": "MP says third day of internet outage 'disgraceful' MSN",
       "published_at": "2026-07-04T12:03:04Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "8d17ee9429d317728c987962",
-      "title": "MP says third day of internet outage 'disgraceful' - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsWDFSUG14RnAyNjMwNzVmVmVsUGQ5Q2h6azVVNHlNRzVmaE54dHBsYkhsaEowcjBvTGpDSGpobGk3eXEwVld2aGw1bmYteFRBUENlOTVTb0hfNE9Q?oc=5",
-      "summary": "MP says third day of internet outage 'disgraceful' BBC",
-      "published_at": "2026-07-04T10:44:30Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
