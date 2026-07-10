@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-10T01:14:28.765882Z",
+  "generated_at": "2026-07-10T05:07:26.223578Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -17,7 +17,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4616d4f4885730fb19ed8878",
@@ -31,15 +31,15 @@
       "score": 16
     },
     {
-      "id": "34e2726b22f293178c9777f2",
-      "title": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1RVFfamk2UWc2SlczdnFqc1MweHhxM3NlVlk1eHhPU21BeWkyYkNrM1owelRoY19KalI0bVR4SG1qTGVyTTllcDVFRUx4VjVPQTNFdkxtNnQyRUYyWDFPREpOTl9pb1VOMTJSRjY4LTVDUQ?oc=5",
-      "summary": "MSIのトライバンドメッシュWi-Fi 7ルーター「Roamii BE Pro Mesh System」が発売 AKIBA PC Hotline!",
-      "published_at": "2026-07-03T15:15:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "8fe6441103cdbf7c2212b532",
+      "title": "NECのWi-Fiルーター「Aterm AM-AX5400T6」がAmazonプライムデーでセールに - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVp1azByc2VoS3RlNDhRb00wUVdHaWxrYjdqOVBzeGEyam5rTkZwUV8wUUctSjZOSWlEMTExV04zRGIycG9JZlI1OXU1MDZuamdRR3NfT1dMN0xFNXJQYWhVM0ZlRG5jTmk5dTU2NU5jMGJKeTNrUGE1YmJXVWNnZDM4TkhNYjBkdnVN0gGQAUFVX3lxTFBqRjVlQmRPRFd0RzhBRHgtT2tVY296b09MRnlFOHZZUmc2THFRdEhsR1h2Rk5aT2hkTThnYUVXQ21YZmNHT2tCeGpnUXVKNFNyTjhjWDJBOUJCdW1ZUXZSOEMxOGZ5eUtkeHpZN1IwOTRQYlo1ZE1oZ2xTb20tc25mclctbkt5UVNROENWbnNxcA?oc=5",
+      "summary": "NECのWi-Fiルーター「Aterm AM-AX5400T6」がAmazonプライムデーでセールに ｄメニューニュース",
+      "published_at": "2026-07-10T02:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 16
+      "score": 13
     },
     {
       "id": "b2568137d2f536c0b16fb95a",
@@ -72,7 +72,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4c9ec0498f9ba2853d406be3",
