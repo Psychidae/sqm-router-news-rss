@@ -5,18 +5,18 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 08:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:32:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] How 3 Pike Creek businesses weathered weekend internet outage - The News Journal</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY0F5U19FbE53cTl4aTZJTDhrSWJYOTk2WTRDeG8xZmttVE9RUEl2b3lLZXlWSHp1NUtDaVE1N2IxVmJ5REpoTG1zQ3J2TmdYa0lXREc1aXpaV3VSaml3NTJIOWxyV0JpS0lpc3FPYS0tQ2NCSXZvX1Y4RUNyekpJM005UkJ6UVhQUnlrYkVDUG8wSDhZVThaZjZQakZibGVpYl9HV3BjYTRyZW9KemhQQVprakRxQjhQcE9oYkNjTjZvdHlpTFppNQ?oc=5</link>
-      <guid isPermaLink="false">07fdade5175edbdd78f6da69</guid>
+      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJ3RllELU8wZlU1NlBjU0FndmxYTGw0em9LQTgxb1VCeWdDb1JVY0N5bmRqMXo2OHpaTTg2YlJxRVZGRWxPVGY5Q2Q3UmhaWjB6X1pKMXpVN1Y5clhncHRZYzQzNUtjQ1loRzRnaEJTdE1lVmt6dkRLa0tkMHFEZjUyXzc3SDBLNUx0UmpOY0FmQ0F1aXliTUw1OWtVVGJzclZTYWFrblNqdGNUS3hkQkhpZDZyYUdCYmg5QnI2bnFLYXI5elNMZm5JMzRQSlE?oc=5</link>
+      <guid isPermaLink="false">c10a7ad74be75d2c5cbf37ba</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-10 17:19
 How 3 Pike Creek businesses weathered weekend internet outage The News Journal</description>
-      <pubDate>Fri, 10 Jul 2026 08:38:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-10T08:38:26.576859Z</sqm:firstSeenDate>
+      <pubDate>Fri, 10 Jul 2026 11:32:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-10T11:32:01.374577Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-10T08:19:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
@@ -50,16 +50,16 @@ How 3 Pike Creek businesses weathered weekend internet outage The News Journal</
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Maghull internet outage set to be fixed after three days - BBC</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3aUR1VVhydll4UjZKcV9YTmFRbnVrUXZISDkwMTRVbG9ETWpaTW0wZ1lpU0xzQ25HX2Nva3RQMENQVlR2U3YtS0NoQjZzR29MVHVWbUdsdk5rQQ?oc=5</link>
-      <guid isPermaLink="false">cf32493b93889eca7314793d</guid>
+      <title>[性能・障害] Internet outage set to be fixed after three days - Yahoo</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTBlc1JhWkNmN2xpS0hpRWFLVUtDdFIzNi03TWJVMy1xSzFFQXRReUQyZWJDZzR1T19QRG0zREVGSGIwQzB1Q2c4cFBIZ1lfMHQxRHBFRUdEa09BQW9LbXZBenhUQVN4ajV5MEhZTTlzUVoxSDRqNmx0VFhyNVRWczI3cmF0VzdJenM3OEhR?oc=5</link>
+      <guid isPermaLink="false">7cea2867eb1dfd4ad94eb9be</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-06 00:50
-Maghull internet outage set to be fixed after three days BBC</description>
-      <pubDate>Sun, 05 Jul 2026 22:38:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-05T22:38:05.116616Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-05T15:50:16Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-06 00:52
+Internet outage set to be fixed after three days Yahoo</description>
+      <pubDate>Fri, 10 Jul 2026 11:32:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-10T11:32:01.374577Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-05T15:52:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
