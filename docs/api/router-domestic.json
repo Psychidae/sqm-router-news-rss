@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-11T20:27:19.951662Z",
+  "generated_at": "2026-07-11T21:31:25.662211Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -47,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DM28tSHdRYTRJRU01dGhPMlRmMmZZTVBCOWpuRlNZRlRGOXNhTDRGaHBPNFd5c0NnVEhoUkNKWGx0MmhLVUtQVWN0aXlEbWVVZGlrVmF3SjEtSk9OUWN2ZGRxSzAyMXhGZVNlRXlhWDU?oc=5",
       "summary": "NECのWi-Fiルーター「Aterm AM-AX5400T6」がAmazonプライムデーでセールに INTERNET Watch",
       "published_at": "2026-07-10T02:30:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "f7de6e10a5bf4dbeb21b99b8",
-      "title": "Wi-Fi 7対応の無線LAN子機「バッファロー WI-U3-2900BE2/N」がプライムデー先行セールで15％オフの7630円に - ITmedia PC USER - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51RHFEMUV0VXlwZ25JNFNUcHdxbUhoN0dwSEQtWWlnRE93aXl6MmRlYW82NVI1Q0pUc19WbHlhUnhhME1JdmlFRDByQmF0VEZ4a2NuVThkMFdKTkJjODgydHN3SXIwMHFhVFNoREYyVdIBaEFVX3lxTE1QT2hHSWJVNjA0aVRCS242dmpjZVJqcVJhRzFxUHBxZkl5VkVIZ1dZN2ctLWgzOXpQTndSQ2ctWklQRG55YzBpY3g5b0R1ZWRud3pmT2hLZkJXU3Y4cWJKUHZoMm1QRmJs?oc=5",
-      "summary": "Wi-Fi 7対応の無線LAN子機「バッファロー WI-U3-2900BE2/N」がプライムデー先行セールで15％オフの7630円に - ITmedia PC USER ITmedia",
-      "published_at": "2026-07-09T09:14:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "89e90418c766cdd0f524a89c",
+      "title": "ASUSの高速Wi-Fi 7ルーター「ROG Strix GS-BE7200X」などがお得！Amazonプライムデー先行セール - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3RYRmZmRWp1aEE2UXRKcGxfY0k5cjd5b0RtOWhnVk9WT0lVcmdVeGROWGRnWThyNkE0VTRwZUtEeVVVMVdUX1RjNVB1ZUdaZ2lHRU5pYV9KYk5TRkx3UWtUUXpJZVN6SkZFNDNCdEg4UUZmVTN5Y3IybVE5Wl9TNUZDd2taTk8z0gGOAUFVX3lxTFBEc3hVc1V3dzJfUnNEQm56dXB1ZFRuQjNwVWk5Y1ZQTTZHbWU4bmhjZzBoMVlhVE1jSkV0S2hKZlE0RFprUkRPUXZSTHByNzNtazg0aEZ5V3ZBTFY1R1JYR0dlMzZHbElySTNfQmpiaG5CR0dvYjhSRDRtWC1nZE9Nbk1CZW80UGF3VVNqdXc?oc=5",
+      "summary": "ASUSの高速Wi-Fi 7ルーター「ROG Strix GS-BE7200X」などがお得！Amazonプライムデー先行セール ｄメニューニュース",
+      "published_at": "2026-07-08T05:35:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     }
   ]
 }
