@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-11T14:09:09.134578Z",
+  "generated_at": "2026-07-11T15:13:29.544911Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
+    },
+    {
+      "id": "57a36dc9e910f58ec54f9171",
+      "title": "TP-Link Deco 7 Pro BE10000 Wi-Fi 7メッシュシステムが36%オフに - games.gg",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPajlfbkY4OThad08xVGIyd2xkbEtqRXRtYmtpWkF3OWFzWVpxWjJxLVUyUm0yU0lhb3ZkU1I2MTdTY0dxMW41c005bFUwcDJ3MXhJWWpaTXlIalJPQkNGenlzbTdnRUN6NlJJNEZxMVM5SkFVdHlUXzNwenlYdjJaM2w4di1heHdKS2hWS2xQdmdiYkxIZVRmTUpqcnFoNk9fREdtYm9TUU93YU9nRjM5aUxxNW82cF9mRlJrZmowTUpwV005a2dUOW9jVTJEWG9RVUVDZUU4N3RlM2RyLUk5NEFoOHNCbHllWDlCREpFSlZDNDNNbldSOXd1QWk0UHM?oc=5",
+      "summary": "TP-Link Deco 7 Pro BE10000 Wi-Fi 7メッシュシステムが36%オフに games.gg",
+      "published_at": "2026-07-11T13:24:42Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "fc99308ebc7b550d5a8f76cd",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "89e90418c766cdd0f524a89c",
-      "title": "ASUSの高速Wi-Fi 7ルーター「ROG Strix GS-BE7200X」などがお得！Amazonプライムデー先行セール - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3RYRmZmRWp1aEE2UXRKcGxfY0k5cjd5b0RtOWhnVk9WT0lVcmdVeGROWGRnWThyNkE0VTRwZUtEeVVVMVdUX1RjNVB1ZUdaZ2lHRU5pYV9KYk5TRkx3UWtUUXpJZVN6SkZFNDNCdEg4UUZmVTN5Y3IybVE5Wl9TNUZDd2taTk8z0gGOAUFVX3lxTFBEc3hVc1V3dzJfUnNEQm56dXB1ZFRuQjNwVWk5Y1ZQTTZHbWU4bmhjZzBoMVlhVE1jSkV0S2hKZlE0RFprUkRPUXZSTHByNzNtazg0aEZ5V3ZBTFY1R1JYR0dlMzZHbElySTNfQmpiaG5CR0dvYjhSRDRtWC1nZE9Nbk1CZW80UGF3VVNqdXc?oc=5",
-      "summary": "ASUSの高速Wi-Fi 7ルーター「ROG Strix GS-BE7200X」などがお得！Amazonプライムデー先行セール ｄメニューニュース",
-      "published_at": "2026-07-08T05:35:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     }
   ]
 }
