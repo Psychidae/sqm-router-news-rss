@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-11T19:29:40.617276Z",
+  "generated_at": "2026-07-11T20:27:21.286212Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,17 +86,6 @@
       "score": 12
     },
     {
-      "id": "8133b76b246849b19afc923a",
-      "title": "ASUS ROG Strix GS-BE18000 [Review] – Wi-Fi 7 That Slaps. - G Style Magazine",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFpycXhxa1lxZ2xnOGQwVGVNZy1nVlZ6ZUlaZTRNaW5fTzREUVNFMmo4SUJoSXAtMDdIVHpuS0YxMzRUX1ZXYzIwOFVCbmY5ekctLURHZlJBZWgyOVJWYTR1NWZBN2FNcXJKZ25zRWNxTmVFLWZPczF4d2daazk3UWktT2Q1eXdQTG1lbXhR?oc=5",
-      "summary": "ASUS ROG Strix GS-BE18000 [Review] – Wi-Fi 7 That Slaps. G Style Magazine",
-      "published_at": "2026-07-07T15:01:06Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "5859e252588c8c80ec17e35d",
       "title": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE85Q2poSTRqVmx1UEZraF9vWVZOTmdGaDRTNWNzenNUVFZwWThoNm1wNHNJMWo5YkhGeFJ3RHJEQkRhd3VkNTRQN3JORkg1SkJLYXFkOVJNTk1Pd3UyUUJCZTVkekxWb0RWbGxJZWM2eTFZU0diVllWbWluTlRWRWc3WnVSam41bmxCblBFQ0o4akJMWnZMS3VEc1AtU0dEZUZNejQ0MTBoYWNEWFR4SmJWeUlZTXNEQThtMg?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzNDYXBaems5R0NhcEM0dU9Uc19oLXpTdkFCM2laZVZCYUN5WEt0SUZGMVFITk1VeGdDWDlMRGszaTBxNElZYWFXLW9YREpvMDRvOWxjYVNyTWpla2NteHNpRWJzcWhTMHpIak84UGJ4TzctVEZoNzNRT3R4Yk1MX0lR?oc=5",
       "summary": "Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter The New York Times",
       "published_at": "2026-07-07T21:15:31Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "b7c42274ae8985ec3fe1bb52",
+      "title": "Hidden backdoor in Tenda router firmware grants admin access - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREpCMGp2RXNIeFNUdXZlOEw1UEhNRmlWTHV6ZGw0U3h0b1RFZG9EdDdxWjJSUzlJclZJOUV2S25LZm1sQ2JWZDRWYkFRdmdBajR1ZWpFTU5naks3VnBaOWZtU1Y3Qy1mcjNNaGY0ekkzWmtKRG9YeHEwWGlJN3hRR3lQcnhtVXViUGdpVHlmZTc2VWtpQUJDWHduajhoMC1SdWR3UG1jRjByRTBY0gGyAUFVX3lxTE1lQm1BN3JsOUc3czRwR2wzZHBteW5pVnlZLU5QOVJfa2o4cDRVbUk3SldkdXQ1bnB1U21odDFrem5yVDVSb29Fd3pqWHdCcldGZlZPVGVzNWlRd0Q4bEJVeW9oVkZRNUxuODlyRWw0LS11NVlwSEtLVC1yV2pqX1B5RWVmR2pHYVpJNTdadm1leThtSmlrZS11Zkh5RDFoUTA0eEM4eUpEY3hYWWoyT0gzbWc?oc=5",
+      "summary": "Hidden backdoor in Tenda router firmware grants admin access BleepingComputer",
+      "published_at": "2026-07-07T17:27:22Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
