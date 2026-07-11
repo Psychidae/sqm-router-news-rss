@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-11T12:38:33.196169Z",
+  "generated_at": "2026-07-11T14:09:10.405891Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
+    },
+    {
+      "id": "356781319a0706debd3b59c8",
+      "title": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeWZiZ1ZoSTBiMEJkZUt3VGkzekxyaE1CWk84ZDJvSU1FM3RXVjk1X3BBVjFCVlc5RVNsd0wwV3VRVldNUkd3alBRZE8xaFZpaTlWa2Zsa25raUw3TVoyaWNxY2h0UlhYeEUwVjc2QWM1T195bS02bjhGOHhRcEJjbUFsaW9GTkJ3dXlJRXhTZmlpZUhseFBFVlVLWmtYd2Z6blJiNDg2dnJoUllqV0NoNXFvYWdlU1Y4bXRXeWt1ZF9PR1NXYnQ0dU9FcWh2cjJlM0xSRzFJNE5hVUw5TWtnZ09BbUZBOFotVGVCcm1GLVJhd0w3cVRReUZYMktjMWluNlRQdGVwQzF3eEpuMGN6SG9pYUdRWDN6TUZqWGxsYnJSMTlCUW1xVjVqVDhFQWhQU1ZxenUtaFJzclBJZTlfM242LU1sNTJG?oc=5",
+      "summary": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH TechRadar",
+      "published_at": "2026-07-08T16:52:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
     },
     {
       "id": "2bb7d02cb0f38c7cb8d70f51",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE85Q2poSTRqVmx1UEZraF9vWVZOTmdGaDRTNWNzenNUVFZwWThoNm1wNHNJMWo5YkhGeFJ3RHJEQkRhd3VkNTRQN3JORkg1SkJLYXFkOVJNTk1Pd3UyUUJCZTVkekxWb0RWbGxJZWM2eTFZU0diVllWbWluTlRWRWc3WnVSam41bmxCblBFQ0o4akJMWnZMS3VEc1AtU0dEZUZNejQ0MTBoYWNEWFR4SmJWeUlZTXNEQThtMg?oc=5",
       "summary": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push Gizmodo",
       "published_at": "2026-07-06T14:10:04Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "2e245e92a718bd19488d7ccf",
-      "title": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5",
-      "summary": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label Engadget",
-      "published_at": "2026-07-04T13:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
