@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-11T08:57:49.974549Z",
+  "generated_at": "2026-07-11T10:33:03.753224Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "ad26e9e77cb372f00d6fafa6",
+      "title": "REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGJHZnlaNEYzbElram1OdzVHVlNjTUQybXhkamJWczVuYXRsOG5XdXhMdC1QYWZzakRSYWg0UVFLTGRxeEtXZUpoMkVoSjdZNjctT1NReHU1b0thSDh6alAxZzA1MGMxdzJmN0RqYzFENlQ5VTV6c1E1QU95YmZPd2hYVWU1cjhJaUdJUFlId016VnhXNHBZZ3NYU0ZSRHdDNDlLOTJiN3IySi1oT2pZNWhlTV9xc3M?oc=5",
+      "summary": "REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals channelnews.com.au",
+      "published_at": "2026-07-10T05:50:48Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 23
+    },
     {
       "id": "0f1419565c12ae4a8985b8df",
       "title": "Review: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - smarthouse.com.au",
@@ -29,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
-    },
-    {
-      "id": "356781319a0706debd3b59c8",
-      "title": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeWZiZ1ZoSTBiMEJkZUt3VGkzekxyaE1CWk84ZDJvSU1FM3RXVjk1X3BBVjFCVlc5RVNsd0wwV3VRVldNUkd3alBRZE8xaFZpaTlWa2Zsa25raUw3TVoyaWNxY2h0UlhYeEUwVjc2QWM1T195bS02bjhGOHhRcEJjbUFsaW9GTkJ3dXlJRXhTZmlpZUhseFBFVlVLWmtYd2Z6blJiNDg2dnJoUllqV0NoNXFvYWdlU1Y4bXRXeWt1ZF9PR1NXYnQ0dU9FcWh2cjJlM0xSRzFJNE5hVUw5TWtnZ09BbUZBOFotVGVCcm1GLVJhd0w3cVRReUZYMktjMWluNlRQdGVwQzF3eEpuMGN6SG9pYUdRWDN6TUZqWGxsYnJSMTlCUW1xVjVqVDhFQWhQU1ZxenUtaFJzclBJZTlfM242LU1sNTJG?oc=5",
-      "summary": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH TechRadar",
-      "published_at": "2026-07-08T16:52:16Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
     },
     {
       "id": "2bb7d02cb0f38c7cb8d70f51",

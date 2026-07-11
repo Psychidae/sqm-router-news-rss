@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 08:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 10:33:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 『【AIが脆弱性を見つける時代】VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES</title>
@@ -22,16 +22,16 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催（PR TIMES） - 毎日新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MOUVaTTdSSTh2ZDBDQnpNdGhjdlRwOG9vRW11c3hqZnVhSHJIX2F1bWx2eFRaWUFyR2pDSGhxTVgtZ01lZXZsXzJaY0E2SG9uV2toSndjelZkWm1XS0tkWDVhMlcyQllq?oc=5</link>
-      <guid isPermaLink="false">d273d1241fcd2445b8ed44e2</guid>
+      <title>[セキュリティ] 『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9OMldtLWw5UXFGVkttQzRHUlA4aHdDS01SblJsS2VkblZKM25zdzExWDd5UEZJRWw0azRLYzhZazgwMlktTkttV2JiN2lhVnhuMHdtbW04ZWdPc3pZbmdwWjZJeEhnUlFzaHc?oc=5</link>
+      <guid isPermaLink="false">bcccdbe55b60ed99159b0ad5</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-07-10 10:21
-『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催（PR TIMES） 毎日新聞</description>
-      <pubDate>Sat, 11 Jul 2026 06:57:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-11T06:57:26.073057Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-10T01:21:47Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-10 09:00
+『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 PR TIMES</description>
+      <pubDate>Sat, 11 Jul 2026 10:33:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-11T10:33:04.711770Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-10T00:00:01Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
