@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 12:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:12:08 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] 『【AIが脆弱性を見つける時代】VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFB0Z1V3SlpKZ0NSSWxGYXhrZmVCd3U0RTJBdjBhMEF6Q0E2clA2ZHRkc29icXdmSFpzcXRhYllMc1BhR2dTUGNvRzFORGpRWFJfM1cwNHNXbWxwdm0xUzJrZy0tT0pmRk1QX0E?oc=5</link>
-      <guid isPermaLink="false">bc05430c868ac55b819e993a</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-08 09:00
-『【AIが脆弱性を見つける時代】VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 PR TIMES</description>
-      <pubDate>Sat, 11 Jul 2026 23:35:19 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-11T23:35:19.971061Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-08T00:00:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] グローバルネットワークセキュリティファイアウォール市場成長とトレンドのトップ20企業 - Spherical Insights</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd25iclJGNldFeUJ2N0NYMDVXZzJROFhjTktMVG1vRVd2QTlsRzFzSFJTemVMcXQ3eFZzMHhkaGdDVXdtMzREY2tITFRRVU9EMWJUeFFZOW14YjRUYVhzbjRWdWNzdmQ5cHA2OVlyY1laV2kwdDJRNk9VVGdqQlRHOEdTSmU3RTdpZm9lQk1tOHNhb2E1aHppWk9udGd4TzdMVEFXOFBabTVoRzE4TUN6WmxfbndVRFU1Y3ZZWDAzcFVITHZoemU4OHFtXzVqMnlob2cxUkpmRXc0VFowbThJ?oc=5</link>
@@ -46,20 +32,6 @@
       <pubDate>Sat, 11 Jul 2026 23:35:19 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-11T23:35:19.971061Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-10T00:00:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] セイコーの企業向けIoTルーター「SkyBridge」に深刻な脆弱性、修正パッチは提供されず - 財経新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE13dlIyMzhUa1Q1N2NfaTNHMmx4RjhXMWlIM1h2M2IwSGwzclkyZ0FHYTBLUFBheTJ1WTNiNDRaMGl0eUkzUUxtX3BRRjRSZFRkM1RfcmJUUjBjQmlZaUFWMEI0Z9IBaEFVX3lxTE9UR2t4Y0xDNnhDQ0NicjlOaE81TnhqMmJzWnQzZC1BdVl2WnNOdlF5bFdPV1hSTzJEUUN3Wkl1alp4UUpQNUNMQzFKZEFDUXlQTzFtZG5DZG00dmNNSWI1ZlBtVzYtdVB0?oc=5</link>
-      <guid isPermaLink="false">22bf56261f6487069320097d</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-06 12:14
-セイコーの企業向けIoTルーター「SkyBridge」に深刻な脆弱性、修正パッチは提供されず 財経新聞</description>
-      <pubDate>Sat, 11 Jul 2026 23:35:19 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-11T23:35:19.971061Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-06T03:14:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
