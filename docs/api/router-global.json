@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-12T01:11:56.910653Z",
+  "generated_at": "2026-07-12T04:36:37.196472Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "ad26e9e77cb372f00d6fafa6",
+      "title": "REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - channelnews.com.au",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVGJHZnlaNEYzbElram1OdzVHVlNjTUQybXhkamJWczVuYXRsOG5XdXhMdC1QYWZzakRSYWg0UVFLTGRxeEtXZUpoMkVoSjdZNjctT1NReHU1b0thSDh6alAxZzA1MGMxdzJmN0RqYzFENlQ5VTV6c1E1QU95YmZPd2hYVWU1cjhJaUdJUFlId016VnhXNHBZZ3NYU0ZSRHdDNDlLOTJiN3IySi1oT2pZNWhlTV9xc3M?oc=5",
+      "summary": "REVIEW: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals channelnews.com.au",
+      "published_at": "2026-07-10T05:50:48Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 23
+    },
     {
       "id": "0f1419565c12ae4a8985b8df",
       "title": "Review: ASUS TUF W&7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - smarthouse.com.au",
@@ -57,11 +68,11 @@
       "title": "Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router System - PCMag",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTzRmZjN6bDU2b1VfQmN0M0RxdW9Edkg2R21Fa3YtaFlhVl9KNXh3WEtnSGFZQXdOMVdNVHVPdzFaRG1oQVdJdktvWXdaY3A1TEVzeXkwZXRnMFJLZjI1Zk5VYnh2RHlrTUdIQmxfTXIwTnU3akdsanRjV2RnWTA5NGFxMTZZWEhKcFFVR0dLREw1Y3lpbUdmLXZOZlI?oc=5",
       "summary": "Connect With a 36% Off Deal on This Editors’ Choice-Winning Mesh Router System PCMag",
-      "published_at": "2026-07-09T21:40:52Z",
+      "published_at": "2026-07-11T13:36:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 14
     },
     {
       "id": "14111eed6eaeb8f43644192c",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "9faf452cd654b364c13d4cdf",
-      "title": "Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzNDYXBaems5R0NhcEM0dU9Uc19oLXpTdkFCM2laZVZCYUN5WEt0SUZGMVFITk1VeGdDWDlMRGszaTBxNElZYWFXLW9YREpvMDRvOWxjYVNyTWpla2NteHNpRWJzcWhTMHpIak84UGJ4TzctVEZoNzNRT3R4Yk1MX0lR?oc=5",
-      "summary": "Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter The New York Times",
-      "published_at": "2026-07-07T21:15:31Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
