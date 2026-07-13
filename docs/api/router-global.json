@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-13T04:44:24.731645Z",
+  "generated_at": "2026-07-13T07:53:22.689654Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 22
     },
     {
       "id": "0f1419565c12ae4a8985b8df",
@@ -42,6 +42,17 @@
       "score": 21
     },
     {
+      "id": "356781319a0706debd3b59c8",
+      "title": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeWZiZ1ZoSTBiMEJkZUt3VGkzekxyaE1CWk84ZDJvSU1FM3RXVjk1X3BBVjFCVlc5RVNsd0wwV3VRVldNUkd3alBRZE8xaFZpaTlWa2Zsa25raUw3TVoyaWNxY2h0UlhYeEUwVjc2QWM1T195bS02bjhGOHhRcEJjbUFsaW9GTkJ3dXlJRXhTZmlpZUhseFBFVlVLWmtYd2Z6blJiNDg2dnJoUllqV0NoNXFvYWdlU1Y4bXRXeWt1ZF9PR1NXYnQ0dU9FcWh2cjJlM0xSRzFJNE5hVUw5TWtnZ09BbUZBOFotVGVCcm1GLVJhd0w3cVRReUZYMktjMWluNlRQdGVwQzF3eEpuMGN6SG9pYUdRWDN6TUZqWGxsYnJSMTlCUW1xVjVqVDhFQWhQU1ZxenUtaFJzclBJZTlfM242LU1sNTJG?oc=5",
+      "summary": "TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH TechRadar",
+      "published_at": "2026-07-08T16:52:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
+    {
       "id": "d3230e8834719a75acb48aa0",
       "title": "TP-Link Archer GE400 Wi-Fi 7 Gaming Router - PCMag Australia",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUVFObUdsalNUZjhfeTN4UmpONlZLVDlHdGhOZEJLbWJSb25lZWhITHhIRXFhUVVIRXpEcUUzZlFoM2R3enlqTW54Y2xOclJWSU1PblRxUjI3TElPRWJVa3VPci1SeS1WQkM5eERnZGJNY3BVRFQxbTByaGZzdzZzckhNUHl3RFdHbXUtWHdEZkg?oc=5",
@@ -62,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "14111eed6eaeb8f43644192c",
-      "title": "TP-Link's Outdoor WiFi 7 Mesh Router Gets Another Price Cut to Below Prime Day Lows, No Need to Stick With a Budget WiFi 6 System - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQVRCOHk5S2ZIX1pyUlEwY2FhQzRMTVRYMURsWjktRi1rSFVpZTVkeWprOUMwbVlKMHJzTmc2ZUZpZkRKN3FwT29BWUZEcUI0Sy03SUtYY2pTeml4T2wxZk95RHZnRnpzMU40XzlGYVdkMlduYmpOdkx0TmxwTXkyblp6YzlvRV9XTE02Nm5XeENoazJYUzdIZ3BhMExGbDZRUXhxY19xYThfc1ZSN0s0dDlxaDRyaTBzbzV3RVZPNlVmU3FKR3lWYk5sejVjQUd6YmRBRFhyb0lIX00xM0dfbHM0RmFpUzRJT3VNRVFXcw?oc=5",
-      "summary": "TP-Link's Outdoor WiFi 7 Mesh Router Gets Another Price Cut to Below Prime Day Lows, No Need to Stick With a Budget WiFi 6 System Gizmodo",
-      "published_at": "2026-07-09T13:10:17Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "75193043512ad14aac79a3e5",
