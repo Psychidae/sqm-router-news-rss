@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-13T16:42:34.728544Z",
+  "generated_at": "2026-07-13T18:20:25.788225Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 4,
+  "count": 5,
   "errors": [],
   "items": [
+    {
+      "id": "09a274ad9e5375352eac2423",
+      "title": "US leads internet outage preparedness ranking - Telecoms Tech News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWZEdk5DOEdyTTIxMFVnTGxkbjd3MDJrV0NQQnN3VjI2MEg2UGFlVFVOTzZFUHI4N040WXl6MkJQaVVubTJFbnhTNGdqTDdySm5xWm9MSDRUaFBldFQyY0ZDZUJURlc2SFE3Mk55S0xGa01ES2ZoWE0wNEpQeE55aUVIOGxoRjJyeFE5SA?oc=5",
+      "summary": "US leads internet outage preparedness ranking Telecoms Tech News",
+      "published_at": "2026-07-13T16:40:42Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "c10a7ad74be75d2c5cbf37ba",
       "title": "How 3 Pike Creek businesses weathered weekend internet outage - Delawareonline.com",
