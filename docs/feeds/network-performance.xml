@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 18:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:01:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Georgetown police investigating fiber line vandalism that caused widespread internet outage - KVUE</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelNjclJtcTZlMHhfcHVkbkxENXBlWWVKSnJWZzc4QzRwTVdGZ2FuX3c4blR4OUNlYVhXTUtZb0lDT3hRcDdPNVFTZVFYN05nRHlHbkh1RlJIZ0hhQW5iZDY1SVBpV0hKVm5YbExIUnF4enU2WjhHTDMtTkIwMHNEQUZVamxtZ2pyQVgtcWo2UTJUX25icFJuODdKWGVRWWFFUGNWQklzak82bDgwUUlKYVZESURILUFnVE5PS3g1VzFZZzA?oc=5</link>
+      <guid isPermaLink="false">9da30641273c2efe922aa6e2</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-14 04:49
+Georgetown police investigating fiber line vandalism that caused widespread internet outage KVUE</description>
+      <pubDate>Mon, 13 Jul 2026 20:01:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-13T20:01:59.560256Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-13T19:49:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] US leads internet outage preparedness ranking - Telecoms Tech News</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWZEdk5DOEdyTTIxMFVnTGxkbjd3MDJrV0NQQnN3VjI2MEg2UGFlVFVOTzZFUHI4N040WXl6MkJQaVVubTJFbnhTNGdqTDdySm5xWm9MSDRUaFBldFQyY0ZDZUJURlc2SFE3Mk55S0xGa01ES2ZoWE0wNEpQeE55aUVIOGxoRjJyeFE5SA?oc=5</link>
