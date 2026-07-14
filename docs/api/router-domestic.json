@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-14T00:05:05.983484Z",
+  "generated_at": "2026-07-14T03:30:24.275189Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -17,7 +17,18 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "5511f69c728724fae2d328b2",
+      "title": "【Amazonプライムデー】手のひらサイズで置き場所を選ばないWi-Fi 7ルーター『バッファロー WSR3600BE4P/NBK』が15％オフの11,030円 - AppBank",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaXkzNEo4dHRMTVZRcWZnaXVIN2JqcEdqUmRaMFdzeDBNMlgyNzRpSEtzc1l5QllFSWdvWHFsMEVpVEwzdkc3LUxDS2habXk1ajg5SHdrVnRhOXh5WUJoRG8yT0k3LUdFZVE?oc=5",
+      "summary": "【Amazonプライムデー】手のひらサイズで置き場所を選ばないWi-Fi 7ルーター『バッファロー WSR3600BE4P/NBK』が15％オフの11,030円 AppBank",
+      "published_at": "2026-07-13T07:22:49Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "6a5f90c07f56ee8f978d469b",
@@ -42,15 +53,15 @@
       "score": 13
     },
     {
-      "id": "5511f69c728724fae2d328b2",
-      "title": "【Amazonプライムデー】手のひらサイズで置き場所を選ばないWi-Fi 7ルーター『バッファロー WSR3600BE4P/NBK』が15％オフの11,030円 - AppBank",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaXkzNEo4dHRMTVZRcWZnaXVIN2JqcEdqUmRaMFdzeDBNMlgyNzRpSEtzc1l5QllFSWdvWHFsMEVpVEwzdkc3LUxDS2habXk1ajg5SHdrVnRhOXh5WUJoRG8yT0k3LUdFZVE?oc=5",
-      "summary": "【Amazonプライムデー】手のひらサイズで置き場所を選ばないWi-Fi 7ルーター『バッファロー WSR3600BE4P/NBK』が15％オフの11,030円 AppBank",
-      "published_at": "2026-07-13T05:35:17Z",
+      "id": "0f25a134939fb489a0d95d03",
+      "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTWRTLTg2aTJnOUg5UC1ndERuSUNoSFhHVjNxVG1JRGtBWXBGaTBibFgyY1UtVVNFaFJqcS1uMTBNSlFRWmpEYlpyUEFVT0lpVHRENkZFaVA3WWxIRE4yVmxFRnZCOTJ1d3d1eHJKOHdvZERXbl9VaHRn?oc=5",
+      "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 BCN Retail",
+      "published_at": "2026-07-13T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "1ca0483f9177a48945f0ce9b",
@@ -61,18 +72,18 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
-      "id": "0f25a134939fb489a0d95d03",
+      "id": "56ca663b21de64bda1d59b47",
       "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTWRTLTg2aTJnOUg5UC1ndERuSUNoSFhHVjNxVG1JRGtBWXBGaTBibFgyY1UtVVNFaFJqcS1uMTBNSlFRWmpEYlpyUEFVT0lpVHRENkZFaVA3WWxIRE4yVmxFRnZCOTJ1d3d1eHJKOHdvZERXbl9VaHRn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzdFYllpVm5wMVNtSXFfbWwxeDk0VmVGWTlRckdFSjVobUdKMWJzRGw0Uy1SYllIc2VzdnVQaUkzajlvdW83OGQ3aEItTHItMF9RZWdSbC16SlYxRkpHQk1UTTJLWVFMWGJIOXVRaW5NTy1pcUJtMEtBOU02ckZjNTVDOW0?oc=5",
       "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 BCN Retail",
       "published_at": "2026-07-13T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "57a36dc9e910f58ec54f9171",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "fc99308ebc7b550d5a8f76cd",
-      "title": "TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcDRnaDV4R1hLeVNEMGdUSG04LUJpNFV1d0FnV3NCZDc4ZUtTbWlfX2UxQU50NFROYnNYeThnb2Rzd011Vlc1UXpmRmkxZVNodnYtZUo2NmI0Y1ZSVVRZQ2UwNnZQc0E?oc=5",
-      "summary": "TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど ケータイ Watch",
-      "published_at": "2026-07-11T00:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     }
   ]
 }

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 00:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:30:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで完全な制御権を取得可能。 - Vietnam.vn</title>
@@ -36,20 +36,6 @@ Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE15YzRnTkRwZWtDZEt1c0lvakQzN1JEWFUzNWRhNHYzYlRFQTdJTjN1Mko2cm0xVy03U3ZHWnVZaHNhUWE3SWNaLTllNXV6X2dzdTBTUzdWZ1ZhQmJzM21vRjRISEFtRWtpSGNWWmlFdGttTk4tcVE?oc=5</link>
-      <guid isPermaLink="false">caba7cd7c920d89b2e924194</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-13 21:10
-『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 Excite エキサイト</description>
-      <pubDate>Mon, 13 Jul 2026 13:47:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-13T13:47:59.472401Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-13T12:10:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] グローバルネットワークセキュリティファイアウォール市場成長とトレンドのトップ20企業 - Spherical Insights</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd25iclJGNldFeUJ2N0NYMDVXZzJROFhjTktMVG1vRVd2QTlsRzFzSFJTemVMcXQ3eFZzMHhkaGdDVXdtMzREY2tITFRRVU9EMWJUeFFZOW14YjRUYVhzbjRWdWNzdmQ5cHA2OVlyY1laV2kwdDJRNk9VVGdqQlRHOEdTSmU3RTdpZm9lQk1tOHNhb2E1aHppWk9udGd4TzdMVEFXOFBabTVoRzE4TUN6WmxfbndVRFU1Y3ZZWDAzcFVITHZoemU4OHFtXzVqMnlob2cxUkpmRXc0VFowbThJ?oc=5</link>
       <guid isPermaLink="false">86160e28e102cea1936b25e9</guid>
@@ -64,16 +50,16 @@ Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBVNkh5N3J3WVE1RTBzX3ltbENYRkFSTFRYUmhoMUVseFJrWGhFZWZUNlJpLUl3cUNmcWczTHotU3VoekRmVW50Z3Fsb3AwWl9Yenh3QkZtZi1SQXlmUkRDT2tySWlESUh1R1NOZmJXT1ZFNldLRk1UZg?oc=5</link>
-      <guid isPermaLink="false">3c4862c79fb47dcf95c88655</guid>
+      <title>[セキュリティ] 『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9OMldtLWw5UXFGVkttQzRHUlA4aHdDS01SblJsS2VkblZKM25zdzExWDd5UEZJRWw0azRLYzhZazgwMlktTkttV2JiN2lhVnhuMHdtbW04ZWdPc3pZbmdwWjZJeEhnUlFzaHc?oc=5</link>
+      <guid isPermaLink="false">bcccdbe55b60ed99159b0ad5</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-07-08 06:30
-「JC-STAR」とは：安全なIoT製品を選びやすくするため、セキュリティ機能を評価・可視化する制度【今週のキーワード】 INTERNET Watch</description>
-      <pubDate>Mon, 13 Jul 2026 07:53:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-13T07:53:23.586070Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-07T21:30:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-10 09:00
+『増加するファイアウォールルールが招くセキュリティリスクと監査対応負荷の増大』というテーマのウェビナーを開催 PR TIMES</description>
+      <pubDate>Tue, 14 Jul 2026 03:30:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-14T03:30:26.482263Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-10T00:00:01Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
