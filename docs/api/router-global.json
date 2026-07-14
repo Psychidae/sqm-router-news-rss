@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-14T05:55:39.296180Z",
+  "generated_at": "2026-07-14T08:26:09.968389Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -16,17 +16,6 @@
       "published_at": "2026-07-10T05:50:48Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 21
-    },
-    {
-      "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-06-30T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
     },
@@ -108,13 +97,24 @@
       "score": 11
     },
     {
-      "id": "f7f44707e8a2637b04b10f00",
-      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware - The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0N3TXJla0ZUVWY2Ukt5Y1VSdUhkUTYxQnkwdlh5dWROaDJaY1BWMXdsQjM2YzQ4NFU0R3hFZG4zcDQzbzd1X1dKZzhuWi12M2k0dm80dU9iX2F2T041M3dwY0drMGJhWE1VRTZ5T29pRGJ0WTFYUzVUTzhVcnNkTFJn?oc=5",
-      "summary": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware The Hacker News",
-      "published_at": "2026-07-07T06:40:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "5859e252588c8c80ec17e35d",
+      "title": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE85Q2poSTRqVmx1UEZraF9vWVZOTmdGaDRTNWNzenNUVFZwWThoNm1wNHNJMWo5YkhGeFJ3RHJEQkRhd3VkNTRQN3JORkg1SkJLYXFkOVJNTk1Pd3UyUUJCZTVkekxWb0RWbGxJZWM2eTFZU0diVllWbWluTlRWRWc3WnVSam41bmxCblBFQ0o4akJMWnZMS3VEc1AtU0dEZUZNejQ0MTBoYWNEWFR4SmJWeUlZTXNEQThtMg?oc=5",
+      "summary": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push Gizmodo",
+      "published_at": "2026-07-06T14:10:04Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "2e245e92a718bd19488d7ccf",
+      "title": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5",
+      "summary": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label Engadget",
+      "published_at": "2026-07-04T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }
