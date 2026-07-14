@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-14T14:10:27.042017Z",
+  "generated_at": "2026-07-14T15:42:50.906973Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "61798ce99cb9b6bff1d986c6",
+      "title": "Openreach responds as Warrington residents report of week-long internet outage - Warrington Guardian",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2NodkFGM01OdkdtQjRKYm9sSnVYR2dTX2xDbHZvS3VFeHRNeXc2T1VHWUdvd3FZd1lSMmNoU0ZuZHBwb0k4R1BUSl9hRGY2S1RNZ1BSSjd4S3lsN3hXYldCZzlRcjdGUzFxZjlfeWhtTjBva0gwY21mbkU3bmRBY3FjZG80bnlxRlVtYkVfR0gzelo1UmExdzhONDA5clE4VWU4TXdFUENsWm02a29LVA?oc=5",
+      "summary": "Openreach responds as Warrington residents report of week-long internet outage Warrington Guardian",
+      "published_at": "2026-07-14T13:30:46Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a8cca8f93de151f7d6c1ac28",
       "title": "North Berkeley post office mostly closed for weeks due to internet outage - Berkeleyside",
@@ -54,9 +65,9 @@
     },
     {
       "id": "c10a7ad74be75d2c5cbf37ba",
-      "title": "How 3 Pike Creek businesses weathered weekend internet outage - The News Journal",
+      "title": "How 3 Pike Creek businesses weathered weekend internet outage - Delawareonline.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXJ3RllELU8wZlU1NlBjU0FndmxYTGw0em9LQTgxb1VCeWdDb1JVY0N5bmRqMXo2OHpaTTg2YlJxRVZGRWxPVGY5Q2Q3UmhaWjB6X1pKMXpVN1Y5clhncHRZYzQzNUtjQ1loRzRnaEJTdE1lVmt6dkRLa0tkMHFEZjUyXzc3SDBLNUx0UmpOY0FmQ0F1aXliTUw1OWtVVGJzclZTYWFrblNqdGNUS3hkQkhpZDZyYUdCYmg5QnI2bnFLYXI5elNMZm5JMzRQSlE?oc=5",
-      "summary": "How 3 Pike Creek businesses weathered weekend internet outage The News Journal",
+      "summary": "How 3 Pike Creek businesses weathered weekend internet outage Delawareonline.com",
       "published_at": "2026-07-10T08:19:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
