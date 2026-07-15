@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-15T00:58:48.241472Z",
+  "generated_at": "2026-07-15T04:15:20.915696Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -53,10 +53,10 @@
       "score": 12
     },
     {
-      "id": "0f25a134939fb489a0d95d03",
-      "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTWRTLTg2aTJnOUg5UC1ndERuSUNoSFhHVjNxVG1JRGtBWXBGaTBibFgyY1UtVVNFaFJqcS1uMTBNSlFRWmpEYlpyUEFVT0lpVHRENkZFaVA3WWxIRE4yVmxFRnZCOTJ1d3d1eHJKOHdvZERXbl9VaHRn?oc=5",
-      "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 BCN Retail",
+      "id": "1ca0483f9177a48945f0ce9b",
+      "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWlYRXhLTEx5TkJaWUNRUlpKLVF1Sy1kQnNJOGVoeXRLVDFTY2Z1UVpDbXNEX0Z4NGV2VGdGYnpxZkhxcjRQN0NBM0lRejJZLS0tV3hDNnlGRUJBOE5STE1zY3hJUnZpSWRJeEg0eGxJMktJeThZenl2QUFzN0M1c210dEVrbmpiM2hDNFNB?oc=5",
+      "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) Yahoo!ニュース",
       "published_at": "2026-07-13T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,10 +64,10 @@
       "score": 12
     },
     {
-      "id": "1ca0483f9177a48945f0ce9b",
-      "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWlYRXhLTEx5TkJaWUNRUlpKLVF1Sy1kQnNJOGVoeXRLVDFTY2Z1UVpDbXNEX0Z4NGV2VGdGYnpxZkhxcjRQN0NBM0lRejJZLS0tV3hDNnlGRUJBOE5STE1zY3hJUnZpSWRJeEg0eGxJMktJeThZenl2QUFzN0M1c210dEVrbmpiM2hDNFNB?oc=5",
-      "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) Yahoo!ニュース",
+      "id": "0f25a134939fb489a0d95d03",
+      "title": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uTWRTLTg2aTJnOUg5UC1ndERuSUNoSFhHVjNxVG1JRGtBWXBGaTBibFgyY1UtVVNFaFJqcS1uMTBNSlFRWmpEYlpyUEFVT0lpVHRENkZFaVA3WWxIRE4yVmxFRnZCOTJ1d3d1eHJKOHdvZERXbl9VaHRn?oc=5",
+      "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 BCN Retail",
       "published_at": "2026-07-13T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",

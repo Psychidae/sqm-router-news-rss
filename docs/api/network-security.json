@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-15T00:58:50.312318Z",
+  "generated_at": "2026-07-15T04:15:22.898110Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -25,6 +25,17 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYmNWb3lHa0Zqd2ZYY0JpcnBoTmlDV1l1VFRmbHZGeFBNM3hjR2xzQ2ZLRVNvMUhiYlh1UTV4SUZmUFlhVDN0bkZ3Z2RGSEZFR0ZZeUplSl8zcGE1blU3amFiRW1ybkxVdlBidzdMQUt0aTBBV3p1M1pOd2VWRGViU0VBT1pkQUlzdlJBTmd5Mi1TN2c?oc=5",
       "summary": "ロシアのハッカーがルーターの脆弱性を悪用して世界のインフラを攻撃。 Vietnam.vn",
       "published_at": "2026-07-15T00:11:09Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
+      "id": "2b320da67cf092b7546ff40a",
+      "title": "ルーターの脆弱性に関する警告：ロシアのハッカーがどのようにして世界の重要インフラに侵入したか。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Z0UHNMRXZEdFlOclIySjhMdlJ2RjZyOWVPRWpiYXplOFBJYnVVbGF4Q05FaWd0Rmo1RmRQQmMyMXROb290ajNad2lwYzF5WjNxSWtNSk1vY3Nxc0YzSDc4VDFpS0o1Qldwa1Z6blJkRlFxSjJSZzJDdjdLN1dwWFJQSU45bEVGb3RSb2hHXzY4aE5DVE9BbHpzREZwUC1qUUpWcVNiT284NDdZQnc?oc=5",
+      "summary": "ルーターの脆弱性に関する警告：ロシアのハッカーがどのようにして世界の重要インフラに侵入したか。 Vietnam.vn",
+      "published_at": "2026-07-15T00:09:13Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
