@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-15T14:25:07.324215Z",
+  "generated_at": "2026-07-15T16:07:16.244403Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "690bd7f82ab90def735ff0c0",
+      "title": "SIMBA CDN Powers Low-Latency Streaming with Advanced Content Delivery Network - Digital Studio India",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNS2dsTFMtS1dNTVRGWHJoUk4xOGpwVDBhNUFSaTJjRUpvVVp6bGV6NkJUMWtMd216Tk1KRXNGQzZ1OU1RMnBYZVNkMkc4UlFpcmNDTDBxeXI4Vy1mU1U0ZHZHUHJkZkRFSklSMjdZaUdWOURUTkNtWXdpSk16T1VXdkFwSS16dmZreWItY1ZvdzJtaXoxUjNiOEV6bHhWdXFVd2I5VFJKQnRoQVdXaEU5SzlVcm9GOS1VRkxBR0F4S0p6Q3JiakNTS1U0WjA3OW5QQ3hVTmJzaVFySjZYaGltaDZVNWxXdw?oc=5",
+      "summary": "SIMBA CDN Powers Low-Latency Streaming with Advanced Content Delivery Network Digital Studio India",
+      "published_at": "2026-07-15T08:34:46Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "9052a92bde2eee5ef8aeed49",
       "title": "Customers voice frustration over internet outage - WOWT",
