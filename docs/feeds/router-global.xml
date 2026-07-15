@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 16:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:36:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] REVIEW: ASUS TUF W&amp;7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - channelnews.com.au</title>
@@ -32,6 +32,20 @@ TP-Link Archer GE400 Wi-Fi 7 Gaming Router PCMag Australia</description>
       <pubDate>Sun, 12 Jul 2026 10:42:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-12T10:42:45.502968Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-04T20:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Your Wi-Fi router could be helping Russian hackers, confirms US government in new warning - TweakTown</title>
+      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3lVZy1VOG5CVXNOcDB3aGRCSW1Zb0NIcDJiWUc2UlBORjQ4aWliOElQaXcyMDV5WTJJSEtIZDRuUzdfWTE1Y0RnQ1BwNzZ5TW5EVkFFWmlBY3FNQ0R4cTVrRFFkTHA5bzdOYi01elAzV01IMDdPMXR3Ny14VThPazdldGFKajNSS01TSF91RW5lRWxvaDRPVms5RVBKY0RjRk83bmxLZEdWRGZVdENNeG8tcGxZaXUxQWdNakdsRjVEeDJETW92aDJ5ZlhrMEVJUV9F?oc=5</link>
+      <guid isPermaLink="false">14a9fbc19bf57f5760b0f8d7</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-15 20:05
+Your Wi-Fi router could be helping Russian hackers, confirms US government in new warning TweakTown</description>
+      <pubDate>Wed, 15 Jul 2026 17:36:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-15T17:36:36.153784Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-15T11:05:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -131,20 +145,6 @@ CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware The Hacker News<
       <sqm:firstSeenDate>2026-07-15T08:59:05.521405Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-07T06:40:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your Wi-Fi 7 upgrade didn't fix your lag because the bandwidth was never the problem - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXVseklEUDBFNkkwNWtjc0toUVZkbjZ2NTZ2enFhOVVrME50cDZReU8wanhNc0M1Y2YyTDF3d21ZTGs1UWtCSjM1V1NuNTlUQWhoaU41SGYtS1pkYXcwSU82Q3VWOEdaVXNWY0FZa3JrOFBqR0Y0S1RqdUp1ZUZxeFdvN3NzVjRvMDVjZlBFQ0hfX04xT1lqV3lndDJSS0M2Rlk5OVVQXzV6ODlaaF9jLUpidHQwRE1kRTk0T1lubkhYZTlRTm5VRFVMa0xUUXM?oc=5</link>
-      <guid isPermaLink="false">47f97677b12368e023655b17</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-15 17:36
-Your Wi-Fi 7 upgrade didn't fix your lag because the bandwidth was never the problem MSN</description>
-      <pubDate>Wed, 15 Jul 2026 16:07:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-15T16:07:13.680101Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-15T08:36:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
