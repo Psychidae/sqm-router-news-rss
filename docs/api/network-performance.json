@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-15T21:13:24.828509Z",
+  "generated_at": "2026-07-15T22:11:26.293996Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -36,6 +36,17 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWlYN09KZi1iVWgxbl8zLXFDNDJyMkJ4WGh0WlYxaENLcjFZYk1WTnNVbEdIcEdSM2VWNk82NkpBX3hSZHRMbzg2bmsyZFdsbFFtNnZWamtCemt2NzJIYjY1VTQyOWowXzFvbVZ2eUxWT1RCaEVyVEZqSXVWamI4ejMwNlpfR3BaTVI5NDM5RHpacjhVZm1Z?oc=5",
       "summary": "North Berkeley post office mostly closed for weeks due to internet outage Berkeleyside",
       "published_at": "2026-07-13T21:51:04Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "e43b10162eabd7d5bb45e135",
+      "title": "Arp City Hall internet outage postpones municipal court to July 28, says police chief - cbs19.tv",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRnkyRy1zZU96b2FVZ3BEVURQWnBtWG9oTEZmdFlKeTJJaVk0bnI1ZS1YaE5CcXE5SmNxT0lFSU5Rb2ctU1ZjblM3Tm1zMlBnbDVPcU15SmRiRUJVVHFxNGVYX1RYQ1JLcFNuQlpLNm5IV3RleU5rMXNYV2tiNGdOTjl0em10eUJGbDNKSlVsM3F4alNBTUhPWGdKVlYyLWszOUZDLU13U0MxbGdPdVJTMkMyTG1sSmJlcVlWb3pOWDlURDJqSC1MdUV1RGZIblZ2YXZZaGp0WnlSU281X09ZS0tpZi1Da054cU90aDlkQzdsNGFaZkdjOA?oc=5",
+      "summary": "Arp City Hall internet outage postpones municipal court to July 28, says police chief cbs19.tv",
+      "published_at": "2026-07-13T20:18:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
