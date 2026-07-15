@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 08:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:01:03 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Customers voice frustration over internet outage - WOWT</title>
@@ -46,20 +46,6 @@ North Berkeley post office mostly closed for weeks due to internet outage Berkel
       <pubDate>Tue, 14 Jul 2026 10:23:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-14T10:23:16.150310Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-13T21:51:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Arp City Hall internet outage postpones municipal court to July 28, says police chief - cbs19.tv</title>
-      <link>https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRnkyRy1zZU96b2FVZ3BEVURQWnBtWG9oTEZmdFlKeTJJaVk0bnI1ZS1YaE5CcXE5SmNxT0lFSU5Rb2ctU1ZjblM3Tm1zMlBnbDVPcU15SmRiRUJVVHFxNGVYX1RYQ1JLcFNuQlpLNm5IV3RleU5rMXNYV2tiNGdOTjl0em10eUJGbDNKSlVsM3F4alNBTUhPWGdKVlYyLWszOUZDLU13U0MxbGdPdVJTMkMyTG1sSmJlcVlWb3pOWDlURDJqSC1MdUV1RGZIblZ2YXZZaGp0WnlSU281X09ZS0tpZi1Da054cU90aDlkQzdsNGFaZkdjOA?oc=5</link>
-      <guid isPermaLink="false">e43b10162eabd7d5bb45e135</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-14 05:18
-Arp City Hall internet outage postpones municipal court to July 28, says police chief cbs19.tv</description>
-      <pubDate>Mon, 13 Jul 2026 22:07:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-13T22:07:34.209910Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-13T20:18:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
