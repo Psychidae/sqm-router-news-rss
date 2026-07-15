@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 06:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:59:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] REVIEW: ASUS TUF W&amp;7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses $1,000 Rivals - channelnews.com.au</title>
@@ -19,20 +19,6 @@ REVIEW: ASUS TUF W&amp;7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses 
       <sqm:firstSeenDate>2026-07-13T04:44:24.730372Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-10T05:50:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMiyAJBVV95cUxNeWZiZ1ZoSTBiMEJkZUt3VGkzekxyaE1CWk84ZDJvSU1FM3RXVjk1X3BBVjFCVlc5RVNsd0wwV3VRVldNUkd3alBRZE8xaFZpaTlWa2Zsa25raUw3TVoyaWNxY2h0UlhYeEUwVjc2QWM1T195bS02bjhGOHhRcEJjbUFsaW9GTkJ3dXlJRXhTZmlpZUhseFBFVlVLWmtYd2Z6blJiNDg2dnJoUllqV0NoNXFvYWdlU1Y4bXRXeWt1ZF9PR1NXYnQ0dU9FcWh2cjJlM0xSRzFJNE5hVUw5TWtnZ09BbUZBOFotVGVCcm1GLVJhd0w3cVRReUZYMktjMWluNlRQdGVwQzF3eEpuMGN6SG9pYUdRWDN6TUZqWGxsYnJSMTlCUW1xVjVqVDhFQWhQU1ZxenUtaFJzclBJZTlfM242LU1sNTJG?oc=5</link>
-      <guid isPermaLink="false">356781319a0706debd3b59c8</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-09 01:52
-TP-Link’s Wi-Fi 7 Deco BE25 mesh router deal fixes freezing video calls while WFH TechRadar</description>
-      <pubDate>Mon, 13 Jul 2026 07:53:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-13T07:53:22.688866Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-08T16:52:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -111,25 +97,11 @@ TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its 
       <guid isPermaLink="false">2e245e92a718bd19488d7ccf</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-07-04 22:30
+元記事日付: 2026-07-04 16:00
 Router Brands Could Be Misleading You With That Wi-Fi 7 Label Engadget</description>
       <pubDate>Tue, 14 Jul 2026 08:26:09 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-14T08:26:09.967413Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-04T13:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested - IT Pro</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNcURXQUNaajBhWV9KeUFuRlhfT1lRTWFjY2xoaW1aamdaR2RVUHdvZk5lSDdCcEgxb2lZSmxUZ1gzaGtUUXRwa204VDAxbHNERzNyVEtpQmRZSUpKZm5PU1ZIOE9yWERST0xDdjNPY2VsYXp6UE5sT0hUTXNyVjZseVZ1b2pLUmwxUnc3RXdiVkxKUGVuTWJUbldqbm1CWVBiNFpjbVlKNjZPcFlCa2wwdWJlTno5R1hkenI0TFppdw?oc=5</link>
-      <guid isPermaLink="false">9cee25a4532ea91beffc8334</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-01 16:00
-Zyxel WBE665S review: The biggest and fastest enterprise Wi-Fi 7 AP we've ever tested IT Pro</description>
-      <pubDate>Tue, 14 Jul 2026 18:15:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-14T18:15:21.435874Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-01T07:00:00Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-04T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -144,6 +116,34 @@ Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal.
       <pubDate>Mon, 13 Jul 2026 01:12:25 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-13T01:12:25.239671Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-07T21:15:31Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Hidden backdoor in Tenda router firmware grants admin access - BleepingComputer</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOREpCMGp2RXNIeFNUdXZlOEw1UEhNRmlWTHV6ZGw0U3h0b1RFZG9EdDdxWjJSUzlJclZJOUV2S25LZm1sQ2JWZDRWYkFRdmdBajR1ZWpFTU5naks3VnBaOWZtU1Y3Qy1mcjNNaGY0ekkzWmtKRG9YeHEwWGlJN3hRR3lQcnhtVXViUGdpVHlmZTc2VWtpQUJDWHduajhoMC1SdWR3UG1jRjByRTBY0gGyAUFVX3lxTE1lQm1BN3JsOUc3czRwR2wzZHBteW5pVnlZLU5QOVJfa2o4cDRVbUk3SldkdXQ1bnB1U21odDFrem5yVDVSb29Fd3pqWHdCcldGZlZPVGVzNWlRd0Q4bEJVeW9oVkZRNUxuODlyRWw0LS11NVlwSEtLVC1yV2pqX1B5RWVmR2pHYVpJNTdadm1leThtSmlrZS11Zkh5RDFoUTA0eEM4eUpEY3hYWWoyT0gzbWc?oc=5</link>
+      <guid isPermaLink="false">b7c42274ae8985ec3fe1bb52</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-08 02:27
+Hidden backdoor in Tenda router firmware grants admin access BleepingComputer</description>
+      <pubDate>Wed, 15 Jul 2026 08:59:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-15T08:59:05.521405Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-07T17:27:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware - The Hacker News</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0N3TXJla0ZUVWY2Ukt5Y1VSdUhkUTYxQnkwdlh5dWROaDJaY1BWMXdsQjM2YzQ4NFU0R3hFZG4zcDQzbzd1X1dKZzhuWi12M2k0dm80dU9iX2F2T041M3dwY0drMGJhWE1VRTZ5T29pRGJ0WTFYUzVUTzhVcnNkTFJn?oc=5</link>
+      <guid isPermaLink="false">f7f44707e8a2637b04b10f00</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-07 15:40
+CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware The Hacker News</description>
+      <pubDate>Wed, 15 Jul 2026 08:59:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-15T08:59:05.521405Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-07T06:40:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
