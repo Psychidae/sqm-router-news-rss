@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-15T12:40:43.250090Z",
+  "generated_at": "2026-07-15T14:25:05.486241Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -108,11 +108,11 @@
       "score": 10
     },
     {
-      "id": "2bc9b3ec9544bea0b2985daf",
-      "title": "Wi-Fi 7 is not a luxury anymore - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa3huUlhLUEs1Q01tcnBvODlZSzctNno3dkFWeG1EaUJqNGRDUFZ1dm9TcjFVdGRPMU9ObW1GTG1QVTZ3bW1lTklNY0t4NVFVRXlxekl2bXRXU1NZeEJrM082dGtZczE3ZUE?oc=5",
-      "summary": "Wi-Fi 7 is not a luxury anymore MakeUseOf",
-      "published_at": "2026-07-12T13:00:18Z",
+      "id": "5014896b65374db7b04ffd0f",
+      "title": "Your Wi-Fi 7 upgrade didn't fix your lag because the bandwidth was never the problem - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZ0dWREt0VmExenYydlU0M3NhdW5nUHBvVmdRamljblBBdzRoTlVGeVhhRU1uNVdoNlZkRUdmV3lhTl9ZcVpVUDlKVEJJWm5kZndBU2xMYUxVUmRWM3h2SnVaRlpGY1hmMG9jWXh3M3p3ckw3XzFqdmliUHFZbEhHWEx6eU05djl6NVNDOU1DalQwTVBrN3VDSmp0d0FTR0t6SmZPR0FYX0FqTUthTWRqVE1HRE9YNmVsa2RHOElDREl4YzB1MFJ4ZDQ4RWI3eEhrNjRwYUkzeGlZMTVETTVNNU9NakRhQ1BOelZRR0VTRElBMzhBRlI3WVlTcV9KM0FSYlYwZkEwX0dicGZmWU15bHUweWV6VjF4TlFHUEwzckgtY1R6Tzl2UVdNQ1g1RWlURnZVc1JONXIxRndCRTN2QVM2ejVNV1ItZmdrSW5XakJnWFpLMG1LMkhRWWlmZ3NmVDZfNVN3?oc=5",
+      "summary": "Your Wi-Fi 7 upgrade didn't fix your lag because the bandwidth was never the problem MSN",
+      "published_at": "2026-07-14T10:46:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

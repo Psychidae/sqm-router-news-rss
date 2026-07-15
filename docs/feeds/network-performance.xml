@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:25:07 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Customers voice frustration over internet outage - WOWT</title>
@@ -13,25 +13,11 @@
       <guid isPermaLink="false">9052a92bde2eee5ef8aeed49</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-15 07:30
+元記事日付: 2026-07-15 12:31
 Customers voice frustration over internet outage WOWT</description>
       <pubDate>Wed, 15 Jul 2026 04:15:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-15T04:15:23.955844Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-14T22:30:54Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Openreach responds as Warrington residents report of week-long internet outage - Warrington Guardian</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2NodkFGM01OdkdtQjRKYm9sSnVYR2dTX2xDbHZvS3VFeHRNeXc2T1VHWUdvd3FZd1lSMmNoU0ZuZHBwb0k4R1BUSl9hRGY2S1RNZ1BSSjd4S3lsN3hXYldCZzlRcjdGUzFxZjlfeWhtTjBva0gwY21mbkU3bmRBY3FjZG80bnlxRlVtYkVfR0gzelo1UmExdzhONDA5clE4VWU4TXdFUENsWm02a29LVA?oc=5</link>
-      <guid isPermaLink="false">61798ce99cb9b6bff1d986c6</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-14 22:30
-Openreach responds as Warrington residents report of week-long internet outage Warrington Guardian</description>
-      <pubDate>Tue, 14 Jul 2026 15:42:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-14T15:42:50.906033Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-14T13:30:46Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-15T03:31:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -69,11 +55,11 @@ Georgetown police investigating fiber line vandalism that caused widespread inte
       <guid isPermaLink="false">09a274ad9e5375352eac2423</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-14 01:40
+元記事日付: 2026-07-14 01:41
 US leads internet outage preparedness ranking Telecoms Tech News</description>
       <pubDate>Mon, 13 Jul 2026 18:20:25 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-13T18:20:25.787493Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-13T16:40:42Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-13T16:41:25Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
