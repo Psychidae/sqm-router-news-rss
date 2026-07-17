@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-17T19:44:54.264649Z",
+  "generated_at": "2026-07-17T20:32:47.013978Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "bc2f4fd000f6ee16583a19e3",
+      "title": "I stopped comparing mesh router specs after learning they all use the same hardware - How-To Geek",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52XzA4cnA2OHhQdVJQWFdmUmFfM3FRb0tWcWhKSW1seEk4YTI5WEdXU1pQcWQ3aS1nMV8wb3ZaaW1aMnFUTmxnX0RXZ3JmbjloUkE0dDYwZnFjdG5KbWlwd1d4RU9KRExLWjVvODY4c0FhSlE?oc=5",
+      "summary": "I stopped comparing mesh router specs after learning they all use the same hardware How-To Geek",
+      "published_at": "2026-07-17T16:30:13Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "e0cf8ab355bf9d4d63d186cc",
       "title": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkQ0Q2k4Y3JDYjhpbkh2TjB2dG1DdmZOeFRYYVk1enVBU1Q1VGFkaDlnLUx6SG1yNEpUVFViZ2tzMmpaaEcwSXRBZFliWnVhMGQ0aEpGRGQ0M3p3Y2otbWJ3ZXVlWW1nUGY4SnhaUWVJd29kTHJHNmFRN1NtMGU1T1pJT0ZKbTlvWnlBSEd2X1o2bl80SkVFdlBsQU5GZUY4X2c?oc=5",
@@ -61,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "14a9fbc19bf57f5760b0f8d7",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE85Q2poSTRqVmx1UEZraF9vWVZOTmdGaDRTNWNzenNUVFZwWThoNm1wNHNJMWo5YkhGeFJ3RHJEQkRhd3VkNTRQN3JORkg1SkJLYXFkOVJNTk1Pd3UyUUJCZTVkekxWb0RWbGxJZWM2eTFZU0diVllWbWluTlRWRWc3WnVSam41bmxCblBFQ0o4akJMWnZMS3VEc1AtU0dEZUZNejQ0MTBoYWNEWFR4SmJWeUlZTXNEQThtMg?oc=5",
       "summary": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push Gizmodo",
       "published_at": "2026-07-06T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "2e245e92a718bd19488d7ccf",
-      "title": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOREtzRjhyMWRocHdhYVBseUZrWDJDaEN2MDdwWjhXUDF6cE9YNmxtbkZNWTh5NXdHd29ZZ0wtTWtzRkdyd3BWRGpDN1Q1OE9WOEd5MUpzR01ESzBQU0k3QzR2eWZHd2tOR3hSWXZfdFpRVVIwS1YtOXlReFdja1RrTkR6dDJmSlJzR3dqNlVCVTZrY1QwaVlDWURBNA?oc=5",
-      "summary": "Router Brands Could Be Misleading You With That Wi-Fi 7 Label Engadget",
-      "published_at": "2026-07-04T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
