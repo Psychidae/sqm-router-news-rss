@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-17T15:40:19.870823Z",
+  "generated_at": "2026-07-17T16:44:36.869346Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
+    },
+    {
+      "id": "db9d3472e46bf1ede6793d09",
+      "title": "Wi-Fi 7対応トラベルルーター「ASUS RT-BE3600 Go」Amazonで16%引き特価【2026年7月18日（土）】 - jetstream.blog",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53LXJIc0RhNXRqd3V4Q0JpSEZxUjdIWmZyV0ZuemtTbi1oRVRoQWhiNHBXMDlLSGtZdUVuZk1weFBaMmRMSlJhdnVRcU5RY0lCLUNUSlpaNktDWUpSSHd6aVpPRTR3c0tDUVFqQjdzSlROeEw1UDFXUG5mT2RQQQ?oc=5",
+      "summary": "Wi-Fi 7対応トラベルルーター「ASUS RT-BE3600 Go」Amazonで16%引き特価【2026年7月18日（土）】 jetstream.blog",
+      "published_at": "2026-07-17T15:41:26Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "b8503b53b7edd21f16c1a409",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWlYRXhLTEx5TkJaWUNRUlpKLVF1Sy1kQnNJOGVoeXRLVDFTY2Z1UVpDbXNEX0Z4NGV2VGdGYnpxZkhxcjRQN0NBM0lRejJZLS0tV3hDNnlGRUJBOE5STE1zY3hJUnZpSWRJeEg0eGxJMktJeThZenl2QUFzN0M1c210dEVrbmpiM2hDNFNB?oc=5",
       "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) Yahoo!ニュース",
       "published_at": "2026-07-13T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "fc99308ebc7b550d5a8f76cd",
-      "title": "TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcDRnaDV4R1hLeVNEMGdUSG04LUJpNFV1d0FnV3NCZDc4ZUtTbWlfX2UxQU50NFROYnNYeThnb2Rzd011Vlc1UXpmRmkxZVNodnYtZUo2NmI0Y1ZSVVRZQ2UwNnZQc0E?oc=5",
-      "summary": "TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど ケータイ Watch",
-      "published_at": "2026-07-11T00:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
