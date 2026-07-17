@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 04:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:01:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT&amp;T apologizes for West Omaha internet outage approaching two weeks - WOWT</title>
@@ -83,11 +83,11 @@ SIMBA CDN Powers Low-Latency Streaming with Advanced Content Delivery Network Di
       <guid isPermaLink="false">9052a92bde2eee5ef8aeed49</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-15 12:31
+元記事日付: 2026-07-15 12:00
 Customers voice frustration over internet outage WOWT</description>
       <pubDate>Wed, 15 Jul 2026 04:15:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-15T04:15:23.955844Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-15T03:31:24Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-15T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
