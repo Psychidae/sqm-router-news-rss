@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 22:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:07:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 「Shark」掃除機の脆弱性により、カメラ映像、自宅の地図、Wi-Fiパスワードが流出 - Malwarebytes</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTd2WGExTVNNN2JkWDZqM2gtbXkwT09ESFRiaDFhLVJNSFRGT2R5X2luVlpsSmxQTmlaVUNOOFBCR2NmaDFTUHhCMjc0S2lYTl9SelpYY0podl9na29vNExpbG9CbkxxWm9OS1Mxbzg3WHBWVFNOV0VmRlBpS1RDME9EUWt0eGVJUHBoeG1JbW5LOTFWOVExdkMtaUxIUXZZTkxXT0t5cUVIUEsxT0RsZDJDTQ?oc=5</link>
+      <guid isPermaLink="false">696cbb696a0015f9860e1da3</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-07-18 01:01
+「Shark」掃除機の脆弱性により、カメラ映像、自宅の地図、Wi-Fiパスワードが流出 Malwarebytes</description>
+      <pubDate>Sat, 18 Jul 2026 23:07:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-18T23:07:59.227368Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-17T16:01:55Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] Tendaの人気Wi-Fiルーター5機種に、危険な脆弱性が存在する。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPOE5MTWNtMmNTb1ZhVUF3RUM3UGoxdlRCU2U0d0k0X0UzcXlJaW1rS1VzVjJhdTNRX1RJZHZDdzlSWnZOY1gtbndmLWhBb0xUcU1vVVo4SThma2ZxbG93MnVTSUljS052YkRFbDRnMG5paVlya2pKZ3F6Ukx2YzNocUtwQW4xRER0eG91UkxHbw?oc=5</link>
