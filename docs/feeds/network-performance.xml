@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 23:32:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 01:03:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT&amp;T apologizes for West Omaha internet outage approaching two weeks - WOWT</title>
@@ -64,16 +64,16 @@ Customers voice frustration over internet outage WOWT</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <title>[性能・障害] フランスがIPv6世界一に——その立役者はFree - Korben</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9WTGEwODRONUc5UU1yTzVub2hEVFBlVjFDTy1xS3paRzBUSTJTTVFBWkZzMm5jcC1RS1JiZThUYVBQOVIwSm5wQUZmcFAycGtURFZTNEx5LUtHbU1ibmpEbHFxU1BydkxWSDZHRE5mbjJUdFZlT1MtUV9R?oc=5</link>
+      <guid isPermaLink="false">a856fee3bc8bdcdae457720d</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-07-16 14:43
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Fri, 17 Jul 2026 21:30:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-17T21:30:32.817967Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-16T05:43:54Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-17 00:07
+フランスがIPv6世界一に——その立役者はFree Korben</description>
+      <pubDate>Sat, 18 Jul 2026 01:03:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-18T01:03:42.510733Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-16T15:07:19Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
