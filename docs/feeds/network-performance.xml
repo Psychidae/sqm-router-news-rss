@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:29:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 20:27:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 14 cities, counties to simulate mobile internet outage during air raid drills - Focus Taiwan</title>
@@ -22,34 +22,6 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened - MSN</title>
-      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWFNdmU0Mnc0d0FsOEJQV2RDVkcyMDlRVHh5QklPM3V2aEFkd05fQWxqYklqOGYxU1hZYTY3RjVYaTJMWVdzeEgzZXp2a0lrSWtUcTdWVmhHbzU3UEJDc1NTRnpBM0xmWDNTVUxQZ3poTFBFYnhzaXdZTEt1YWl2RnVNYlFoS01WOVJYaGVIQmtJSVFwTW5VUE5INHNJTVFBMWxQM0dCY3lMZnZkTU9yRHYtN1lUSVVvd1pxT1RfZUFIWjJkWG5lLXhicjI4ZFhaTVVpZk1HeDhNNFFfd05Mc19xblpudnk2eEtwT1p2T25iRkFuaXc?oc=5</link>
-      <guid isPermaLink="false">ea4a9c3b02acc4c044d828a5</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-18 08:21
-Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened MSN</description>
-      <pubDate>Sun, 19 Jul 2026 10:41:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-19T10:41:54.206246Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-17T23:21:35Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Customers frustrated over internet outage - WOWT</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3Rtc1BsUDljVGY5b0lXbVZOaW15M3RJYXl2Z2NPNWVfZWRFRnhESmdLaUVJU1JJUmIyc0g0Z3ROeUt5My1NaEhiQmY3TlBnc19OS3JmQVJ3eTZ4cG9TQmo0Zml3UGV4eXZTbVJSdkRLU0VVaW5XWjVIZy11OEtfSGRCc0wyWlE?oc=5</link>
-      <guid isPermaLink="false">2eb4d98309bd5d3715aa0fb0</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-17 15:23
-Customers frustrated over internet outage WOWT</description>
-      <pubDate>Fri, 17 Jul 2026 04:22:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-17T04:22:33.076814Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-17T06:23:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] AT&amp;T apologizes for West Omaha internet outage approaching two weeks - WOWT</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmlpMF8xYUVIcHk2dFJyUVhxMVpIS0xBbEJlVlFTaF9BX2tCWFRBSFotUXcyWFZRUEwyanpwVFBkNE5uSTFsM2pXNlNqZURmX2JwRVNyOEpvcXpwUVU2M0V5cHJGVk45QUpQb2MwU1ktYmdYRi1JSU5HQV9QWF93X2RnVG1ycWZ5RVRLclFxWHVGSk1UWHI0bndGZ1jSAbABQVVfeXFMUHVCeHN4eGo1UDhNNWZONUpjQV9Lb1Yxd2Vhck00clZBTVE4bEJDWE1xQ0FaTDBmTWM2cS1TckJhWU5JeGtmeWhVeHBFUHk3R2VKVDRsTnNmbmVBNm5adFVVNVFSem1kMEFfWHFtTFVwMV9CLVdtY1gxZF8tVkl2WTdmU2VUYlB0QlRQT3FqZ1BIaGE2cTRaVlk1WHdDSzA4ck0xbWs1OWlld2N3cGJ0X1k?oc=5</link>
       <guid isPermaLink="false">839693f3635a877a69a83c4b</guid>
@@ -60,6 +32,20 @@ AT&amp;T apologizes for West Omaha internet outage approaching two weeks WOWT</d
       <pubDate>Fri, 17 Jul 2026 04:22:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-17T04:22:33.076814Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-17T03:28:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Customers frustrated over internet outage - WOWT</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3Rtc1BsUDljVGY5b0lXbVZOaW15M3RJYXl2Z2NPNWVfZWRFRnhESmdLaUVJU1JJUmIyc0g0Z3ROeUt5My1NaEhiQmY3TlBnc19OS3JmQVJ3eTZ4cG9TQmo0Zml3UGV4eXZTbVJSdkRLU0VVaW5XWjVIZy11OEtfSGRCc0wyWlE?oc=5</link>
+      <guid isPermaLink="false">2eb4d98309bd5d3715aa0fb0</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-17 12:00
+Customers frustrated over internet outage WOWT</description>
+      <pubDate>Fri, 17 Jul 2026 04:22:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-17T04:22:33.076814Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-17T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -145,6 +131,20 @@ US leads internet outage preparedness ranking Telecoms Tech News</description>
       <sqm:firstSeenDate>2026-07-19T06:41:59.743761Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-13T16:41:25Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] フランスがIPv6世界一に——その立役者はFree - Korben</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9WTGEwODRONUc5UU1yTzVub2hEVFBlVjFDTy1xS3paRzBUSTJTTVFBWkZzMm5jcC1RS1JiZThUYVBQOVIwSm5wQUZmcFAycGtURFZTNEx5LUtHbU1ibmpEbHFxU1BydkxWSDZHRE5mbjJUdFZlT1MtUV9R?oc=5</link>
+      <guid isPermaLink="false">a856fee3bc8bdcdae457720d</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-17 00:07
+フランスがIPv6世界一に——その立役者はFree Korben</description>
+      <pubDate>Sun, 19 Jul 2026 20:27:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-19T20:27:10.521446Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-16T15:07:19Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
