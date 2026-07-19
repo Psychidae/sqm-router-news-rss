@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 19 Jul 2026 20:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:32:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 「Shark」掃除機の脆弱性により、カメラ映像、自宅の地図、Wi-Fiパスワードが流出 - Malwarebytes</title>
@@ -32,20 +32,6 @@ Tendaの人気Wi-Fiルーター5機種に、危険な脆弱性が存在する。
       <pubDate>Sat, 18 Jul 2026 09:43:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-18T09:43:32.352653Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-16T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで完全な制御権を取得可能。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BMUGZjQmhDOGxtdG43UHpLcTNtMlhXLTY0WmR6R0ZScFEtLXlDS19SbEhJUDFZZGI4RnNKZ3NaaU9aczBzVlFjQnRwdzZWMkhsOTN0YUJHcURVZnhTcktwZ3kwVnFRaWJuME45eUpRUUNfVVhPLVhwWnZJQXQ5R3VfdFpuMjdvLWtjaW9uejRWdUUwenRZTXZiMURtV183M0hhYnZ4QmVsUWJkYWVnS0FON3dqdGZLbVpMVV8wcw?oc=5</link>
-      <guid isPermaLink="false">5bd2a291635893111d9b5bd3</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-13 08:28
-Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで完全な制御権を取得可能。 Vietnam.vn</description>
-      <pubDate>Sun, 19 Jul 2026 20:27:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-19T20:27:09.169810Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-12T23:28:27Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -88,6 +74,20 @@ DD-WRTルーターの脆弱性を悪用 新型ボットネット「C0XMO」の�
       <pubDate>Wed, 15 Jul 2026 04:15:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-15T04:15:22.897383Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-15T00:09:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] サイバー攻撃で悪用される脆弱性の特徴とは？ 事例から学ぶ脆弱性対策のポイント - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aWC1LSW40TGdVUVlWdjNzaXZmOEk5SDRKTUg3UUJfR09OZlVuTDFDY0hKajJZVFoxaW1MTlhaUy1DZ0pZS19BcWc2Rkc3WjBhc1BYaQ?oc=5</link>
+      <guid isPermaLink="false">664df6ec9dbeae07ced169d5</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-07-14 14:00
+サイバー攻撃で悪用される脆弱性の特徴とは？ 事例から学ぶ脆弱性対策のポイント ASCII.jp</description>
+      <pubDate>Sun, 19 Jul 2026 21:32:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-19T21:32:35.925319Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-14T05:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
