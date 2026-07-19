@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-19T18:06:54.917404Z",
+  "generated_at": "2026-07-19T19:29:36.279919Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -25,17 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOE5MTWNtMmNTb1ZhVUF3RUM3UGoxdlRCU2U0d0k0X0UzcXlJaW1rS1VzVjJhdTNRX1RJZHZDdzlSWnZOY1gtbndmLWhBb0xUcU1vVVo4SThma2ZxbG93MnVTSUljS052YkRFbDRnMG5paVlya2pKZ3F6Ukx2YzNocUtwQW4xRER0eG91UkxHbw?oc=5",
       "summary": "Tendaの人気Wi-Fiルーター5機種に、危険な脆弱性が存在する。 Vietnam.vn",
       "published_at": "2026-07-16T07:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "5bd2a291635893111d9b5bd3",
-      "title": "Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで完全な制御権を取得可能。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1BMUGZjQmhDOGxtdG43UHpLcTNtMlhXLTY0WmR6R0ZScFEtLXlDS19SbEhJUDFZZGI4RnNKZ3NaaU9aczBzVlFjQnRwdzZWMkhsOTN0YUJHcURVZnhTcktwZ3kwVnFRaWJuME45eUpRUUNfVVhPLVhwWnZJQXQ5R3VfdFpuMjdvLWtjaW9uejRWdUUwenRZTXZiMURtV183M0hhYnZ4QmVsUWJkYWVnS0FON3dqdGZLbVpMVV8wcw?oc=5",
-      "summary": "Wi-Fiルーターに重大な脆弱性：ハッカーがパスワードなしで完全な制御権を取得可能。 Vietnam.vn",
-      "published_at": "2026-07-12T23:28:27Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
