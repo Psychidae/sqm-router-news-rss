@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-20T04:49:45.413539Z",
+  "generated_at": "2026-07-20T08:16:56.508810Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjRmQ4Y2lDXzczbFplVjJPOGprZEFRMU85NW5EWnp2SlFRRl9WbDZqbER5ZHlEajhxcVVFSTlGcFlqc2dNSkljWlRhckxhWEtvZl85VF93?oc=5",
       "summary": "14 cities, counties to simulate mobile internet outage during air raid drills Focus Taiwan",
       "published_at": "2026-07-18T09:44:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "ea4a9c3b02acc4c044d828a5",
-      "title": "Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWFNdmU0Mnc0d0FsOEJQV2RDVkcyMDlRVHh5QklPM3V2aEFkd05fQWxqYklqOGYxU1hZYTY3RjVYaTJMWVdzeEgzZXp2a0lrSWtUcTdWVmhHbzU3UEJDc1NTRnpBM0xmWDNTVUxQZ3poTFBFYnhzaXdZTEt1YWl2RnVNYlFoS01WOVJYaGVIQmtJSVFwTW5VUE5INHNJTVFBMWxQM0dCY3lMZnZkTU9yRHYtN1lUSVVvd1pxT1RfZUFIWjJkWG5lLXhicjI4ZFhaTVVpZk1HeDhNNFFfd05Mc19xblpudnk2eEtwT1p2T25iRkFuaXc?oc=5",
-      "summary": "Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened MSN",
-      "published_at": "2026-07-17T23:21:35Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "a856fee3bc8bdcdae457720d",
+      "title": "フランスがIPv6世界一に——その立役者はFree - Korben",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WTGEwODRONUc5UU1yTzVub2hEVFBlVjFDTy1xS3paRzBUSTJTTVFBWkZzMm5jcC1RS1JiZThUYVBQOVIwSm5wQUZmcFAycGtURFZTNEx5LUtHbU1ibmpEbHFxU1BydkxWSDZHRE5mbjJUdFZlT1MtUV9R?oc=5",
+      "summary": "フランスがIPv6世界一に——その立役者はFree Korben",
+      "published_at": "2026-07-16T15:07:19Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     }
   ]
 }

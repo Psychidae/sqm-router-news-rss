@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-20T04:49:42.987443Z",
+  "generated_at": "2026-07-20T08:16:54.665785Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,6 +42,17 @@
       "score": 20
     },
     {
+      "id": "51fd3f9f92c3bce22e35396e",
+      "title": "Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lfcVZkOF9iTUZCMmF4QUFrN2NwNEx4b3p2X0laYk11SEhZNGJ1MXRhckpETi1QdktJWHRDMFlSZ184ekJuME93aExtZEdMSkg4M1N0cUpnYmpPRXZfbFYtUThpeGpxeUpNS2tERTFuUHJwLTBzZl94azZhVUZmbkVLbVUtY3NEQTdfUUQyOEluZjZEN3M1eW9vRnNMWGdZY1NGLXNJaDVTX3RYSWJhOWQ0b2tFUQ?oc=5",
+      "summary": "Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month Telecompaper",
+      "published_at": "2026-07-20T06:52:11Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "e0cf8ab355bf9d4d63d186cc",
       "title": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkQ0Q2k4Y3JDYjhpbkh2TjB2dG1DdmZOeFRYYVk1enVBU1Q1VGFkaDlnLUx6SG1yNEpUVFViZ2tzMmpaaEcwSXRBZFliWnVhMGQ0aEpGRGQ0M3p3Y2otbWJ3ZXVlWW1nUGY4SnhaUWVJd29kTHJHNmFRN1NtMGU1T1pJT0ZKbTlvWnlBSEd2X1o2bl80SkVFdlBsQU5GZUY4X2c?oc=5",
@@ -69,17 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSFZjaFE4OVVTbjVzemM5UWVfajZtQVRDMVUtU0phMFFjVGRJTGdienlxQnVQUzMxbXRFckZrMzlzX2Y5S251bkYyRklGNjcxWVVZYlNCM0dtZnhsWDNJOG83bjBheDR1cDFhSFZMeGdyNjM0YlNSOTdJVHlPSHVlTnhvcmFuSGVabUZaRzYxU0tMWF9tRl9mOEhVWUExQUxxZ3EtakZsdlBBUk5SMzRreG9aOEVNcjZEQ1JTWUNBRWh1Zw?oc=5",
       "summary": "EnGenius ECW515 review: EnGenius brings Wi-Fi 7 services to a wall near you – at a price IT Pro",
       "published_at": "2026-07-08T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "5859e252588c8c80ec17e35d",
-      "title": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcE85Q2poSTRqVmx1UEZraF9vWVZOTmdGaDRTNWNzenNUVFZwWThoNm1wNHNJMWo5YkhGeFJ3RHJEQkRhd3VkNTRQN3JORkg1SkJLYXFkOVJNTk1Pd3UyUUJCZTVkekxWb0RWbGxJZWM2eTFZU0diVllWbWluTlRWRWc3WnVSam41bmxCblBFQ0o4akJMWnZMS3VEc1AtU0dEZUZNejQ0MTBoYWNEWFR4SmJWeUlZTXNEQThtMg?oc=5",
-      "summary": "TP-Link Wi-Fi 7 Router Hits 40% Off as Amazon Goes Bigger Than Prime Day in Its Final Push Gizmodo",
-      "published_at": "2026-07-06T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
