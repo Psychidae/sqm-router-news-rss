@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-20T19:05:08.189586Z",
+  "generated_at": "2026-07-20T20:38:59.749619Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Z0UHNMRXZEdFlOclIySjhMdlJ2RjZyOWVPRWpiYXplOFBJYnVVbGF4Q05FaWd0Rmo1RmRQQmMyMXROb290ajNad2lwYzF5WjNxSWtNSk1vY3Nxc0YzSDc4VDFpS0o1Qldwa1Z6blJkRlFxSjJSZzJDdjdLN1dwWFJQSU45bEVGb3RSb2hHXzY4aE5DVE9BbHpzREZwUC1qUUpWcVNiT284NDdZQnc?oc=5",
       "summary": "ルーターの脆弱性に関する警告：ロシアのハッカーがどのようにして世界の重要インフラに侵入したか。 Vietnam.vn",
       "published_at": "2026-07-15T00:09:13Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "664df6ec9dbeae07ced169d5",
-      "title": "サイバー攻撃で悪用される脆弱性の特徴とは？ 事例から学ぶ脆弱性対策のポイント - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aWC1LSW40TGdVUVlWdjNzaXZmOEk5SDRKTUg3UUJfR09OZlVuTDFDY0hKajJZVFoxaW1MTlhaUy1DZ0pZS19BcWc2Rkc3WjBhc1BYaQ?oc=5",
-      "summary": "サイバー攻撃で悪用される脆弱性の特徴とは？ 事例から学ぶ脆弱性対策のポイント ASCII.jp",
-      "published_at": "2026-07-14T05:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
