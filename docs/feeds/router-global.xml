@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 11:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:16:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -50,16 +50,30 @@ Review: ASUS TUF W&amp;7 Gaming Router The $257 Wi-Fi 7 Router That Embarrasses 
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTnhkNjAyZ2E1cTNMUlIwNGpqMkFJZk81OHg4cXJhLVhoTzMxSnA2cWw3aGxZa3BIcEJlUk5sZUVzVDU2UmFiMk53bWV4MUZZbml0M29pakdvWGQ1eE93di02U25ET09C?oc=5</link>
+      <guid isPermaLink="false">a965458eb9c4bb5e4700de5e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-20 21:30
+Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router Dong Knows Tech</description>
+      <pubDate>Mon, 20 Jul 2026 13:16:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-20T13:16:31.119925Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-20T12:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Germany's 1&amp;1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - Telecompaper</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lfcVZkOF9iTUZCMmF4QUFrN2NwNEx4b3p2X0laYk11SEhZNGJ1MXRhckpETi1QdktJWHRDMFlSZ184ekJuME93aExtZEdMSkg4M1N0cUpnYmpPRXZfbFYtUThpeGpxeUpNS2tERTFuUHJwLTBzZl94azZhVUZmbkVLbVUtY3NEQTdfUUQyOEluZjZEN3M1eW9vRnNMWGdZY1NGLXNJaDVTX3RYSWJhOWQ0b2tFUQ?oc=5</link>
       <guid isPermaLink="false">51fd3f9f92c3bce22e35396e</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-07-20 15:52
+元記事日付: 2026-07-20 15:53
 Germany's 1&amp;1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month Telecompaper</description>
       <pubDate>Mon, 20 Jul 2026 08:16:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-20T08:16:54.664802Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T06:52:11Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-20T06:53:37Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -129,20 +143,6 @@ CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware The Hacker News<
 Hidden backdoor in Tenda router firmware grants admin access BleepingComputer</description>
       <pubDate>Sat, 18 Jul 2026 01:03:40 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-18T01:03:40.552784Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-07T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter - The New York Times</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNXzNDYXBaems5R0NhcEM0dU9Uc19oLXpTdkFCM2laZVZCYUN5WEt0SUZGMVFITk1VeGdDWDlMRGszaTBxNElZYWFXLW9YREpvMDRvOWxjYVNyTWpla2NteHNpRWJzcWhTMHpIak84UGJ4TzctVEZoNzNRT3R4Yk1MX0lR?oc=5</link>
-      <guid isPermaLink="false">9faf452cd654b364c13d4cdf</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-07-07 16:00
-Your Wi-Fi Router Is Ugly. Here’s How to Hide It Without Blocking Your Signal. | Reviews by Wirecutter The New York Times</description>
-      <pubDate>Sun, 19 Jul 2026 15:12:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-19T15:12:54.691830Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-07T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
