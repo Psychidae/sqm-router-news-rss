@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-21T17:42:48.763695Z",
+  "generated_at": "2026-07-21T18:53:32.380347Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 17
     },
     {
-      "id": "51fd3f9f92c3bce22e35396e",
-      "title": "Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lfcVZkOF9iTUZCMmF4QUFrN2NwNEx4b3p2X0laYk11SEhZNGJ1MXRhckpETi1QdktJWHRDMFlSZ184ekJuME93aExtZEdMSkg4M1N0cUpnYmpPRXZfbFYtUThpeGpxeUpNS2tERTFuUHJwLTBzZl94azZhVUZmbkVLbVUtY3NEQTdfUUQyOEluZjZEN3M1eW9vRnNMWGdZY1NGLXNJaDVTX3RYSWJhOWQ0b2tFUQ?oc=5",
-      "summary": "Germany's 1&1 introduces new HomeServer Wi-Fi 7 router for EUR 5 per month Telecompaper",
-      "published_at": "2026-07-20T06:53:37Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "e0cf8ab355bf9d4d63d186cc",
       "title": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkQ0Q2k4Y3JDYjhpbkh2TjB2dG1DdmZOeFRYYVk1enVBU1Q1VGFkaDlnLUx6SG1yNEpUVFViZ2tzMmpaaEcwSXRBZFliWnVhMGQ0aEpGRGQ0M3p3Y2otbWJ3ZXVlWW1nUGY4SnhaUWVJd29kTHJHNmFRN1NtMGU1T1pJT0ZKbTlvWnlBSEd2X1o2bl80SkVFdlBsQU5GZUY4X2c?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejk4aG5BenlrRUFNb0FDMG5yNU9uYjVPbWlCTVJiVGdzV3JQLUhtWllJbjZVVWpVbXJqdDF0X1NIYU1reVI4TUw2MGFCbGxJZEtfZDQ2Vm1qUS1yTjNfa0VZR3AtVzFVaEFublhwemZNa21MeEk2cnYyN0NlSHYxTEIxd2RRZjhpbWE1SEpaRlVCNW5DN0x5UG1uUUdqcEF0WWw1emp5eU1fbTI3Znc?oc=5",
       "summary": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? Gizmodo",
       "published_at": "2026-07-21T12:10:55Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
+      "id": "b06fc19742e342a65faa9c44",
+      "title": "5 reasons I’d always choose mesh Wi-Fi over a traditional router - MSN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2NheVd1enF2aTlFaElNMk5naGowZHM2MU9rUmMyTUFwbDQteVpWTUpQZGxESC04Q3VScUt4ckxaSDIzTmk0ZlVOaUJoamVQTlBBc3FldnYtVmt3ZUpTMy1KSkU0dklPc05wMi14RHlhc3hsbUJ5a1BCdVlyaDlnTnVxbi1RZkVLRnVDMDcta29WWGdnN1VvQm1JU1M3LTU2b1p1UUFlU1pvbW0xWVRDSm9IRkRPZFFjOFVxdTRB?oc=5",
+      "summary": "5 reasons I’d always choose mesh Wi-Fi over a traditional router MSN",
+      "published_at": "2026-07-20T23:40:26Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
