@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 06:15:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Fresno County internet outage limits public services as IT works to restore access - kmph.com</title>
@@ -27,11 +27,11 @@ Fresno County internet outage limits public services as IT works to restore acce
       <guid isPermaLink="false">6035e3126f964886291fa6d4</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-21 08:10
+元記事日付: 2026-07-21 08:13
 Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</description>
       <pubDate>Tue, 21 Jul 2026 03:41:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-21T03:41:33.003204Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T23:10:05Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-20T23:13:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -45,6 +45,20 @@ Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</de
 Cyber attack causes widespread internet outage at more than 20 Maine towns newscentermaine.com</description>
       <pubDate>Tue, 21 Jul 2026 03:41:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-21T03:41:33.003204Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-20T20:14:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Widespread internet outage affects more than 20 Maine towns - newscentermaine.com</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVUhjYjB5dmMzVTFxR01ZUG51TFZNR0JjVm8tWkxiWF85MXFHQTR1Z2hyRlFKbVhaN3AyUFFISzREeFdlZTNtUmx3UkRLeTVEZ2FfX3JYSlhCWElXeDRLdXhzdVJnZ3E1QzVvX0Frd1VGSVNFOEY2RG9iRG8xTGxDQ2lIZlZvMnBFMEJ3TS16MXFuWEpDU3lFM3gwdm9uUU9JZzE4RjFZelItREhJZlBxV1BNZHY0VUUtLWVrUzNTcUFwUmhSZkRETnEzYjdEUUFEQVFObkZCRnAwSHhickpsTDBB?oc=5</link>
+      <guid isPermaLink="false">cb63c8be5ed6dbe1080ddb82</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-21 05:14
+Widespread internet outage affects more than 20 Maine towns newscentermaine.com</description>
+      <pubDate>Tue, 21 Jul 2026 06:15:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-21T06:15:38.190523Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-20T20:14:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
@@ -92,6 +106,20 @@ Internet outage hits functioning of govt engineering colleges across Gujarat The
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened - MSN</title>
+      <link>https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbWFNdmU0Mnc0d0FsOEJQV2RDVkcyMDlRVHh5QklPM3V2aEFkd05fQWxqYklqOGYxU1hZYTY3RjVYaTJMWVdzeEgzZXp2a0lrSWtUcTdWVmhHbzU3UEJDc1NTRnpBM0xmWDNTVUxQZ3poTFBFYnhzaXdZTEt1YWl2RnVNYlFoS01WOVJYaGVIQmtJSVFwTW5VUE5INHNJTVFBMWxQM0dCY3lMZnZkTU9yRHYtN1lUSVVvd1pxT1RfZUFIWjJkWG5lLXhicjI4ZFhaTVVpZk1HeDhNNFFfd05Mc19xblpudnk2eEtwT1p2T25iRkFuaXc?oc=5</link>
+      <guid isPermaLink="false">ea4a9c3b02acc4c044d828a5</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-18 08:21
+Homeowner fears internet outage erased weeks of rooftop solar savings — commenters explain what really happened MSN</description>
+      <pubDate>Tue, 21 Jul 2026 06:15:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-21T06:15:38.190523Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-17T23:21:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] AT&amp;T apologizes for West Omaha internet outage approaching two weeks - WOWT</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmlpMF8xYUVIcHk2dFJyUVhxMVpIS0xBbEJlVlFTaF9BX2tCWFRBSFotUXcyWFZRUEwyanpwVFBkNE5uSTFsM2pXNlNqZURmX2JwRVNyOEpvcXpwUVU2M0V5cHJGVk45QUpQb2MwU1ktYmdYRi1JSU5HQV9QWF93X2RnVG1ycWZ5RVRLclFxWHVGSk1UWHI0bndGZ1jSAbABQVVfeXFMUHVCeHN4eGo1UDhNNWZONUpjQV9Lb1Yxd2Vhck00clZBTVE4bEJDWE1xQ0FaTDBmTWM2cS1TckJhWU5JeGtmeWhVeHBFUHk3R2VKVDRsTnNmbmVBNm5adFVVNVFSem1kMEFfWHFtTFVwMV9CLVdtY1gxZF8tVkl2WTdmU2VUYlB0QlRQT3FqZ1BIaGE2cTRaVlk1WHdDSzA4ck0xbWs1OWlld2N3cGJ0X1k?oc=5</link>
       <guid isPermaLink="false">839693f3635a877a69a83c4b</guid>
@@ -116,34 +144,6 @@ Customers frustrated over internet outage WOWT</description>
       <pubDate>Fri, 17 Jul 2026 04:22:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-17T04:22:33.076814Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-17T03:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] AT&amp;T internet outage leaves some Portland customers without service for days - OregonLive.com</title>
-      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzJ6cHFQNFQxN20tZTFFWV9xd1Z2ZWtlc0dDdExDRmhndXo4eVd0QWIwdW5uazJnR2JHQ08zLXhuSU51RjNfenVJTk80MHlmNmNUR1BXYm9GWl91RUhTWk1JTjJBRDhjSUQzVjRxRl9wVElqek1CZHVsQnltTkVwVHJSRnZPR1ZHLWJVRUpYNUUteW1kOXJmLUhNVXFleDduajJVQXBoZVAxMFFYX2pqMmVnVHZRMHBxX2JDdjdnaHZ2Z9IB1gFBVV95cUxQa3VnQUhxR3FHRkJOb2p3VzhIYWNfWDVXUGNOWWc0SzN6eWRiUm1zZWVlaVJjSjlpT3o2cXEyaFJyTlVMbmVuNzNiX0pJd1dld3FfRUtLU1RVMEp0Q3NydFd2QUhIa0kxb1I5alFMcW5KWUJ2QVRDdVFxMEV2Z3JuRlFqeGNTcHl3T0JGYVJBaUUyc2xNMkR6dUdKV2gtY0MxVlhQeWU4X0lfTVhIbl9zOHBCYTU0cXBsdWhVbzR3RjNGNVhuS0pRTnNaQmdTNXR2WlFDZkRB?oc=5</link>
-      <guid isPermaLink="false">66dd93b9341a0d9865e8b04d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-17 00:23
-AT&amp;T internet outage leaves some Portland customers without service for days OregonLive.com</description>
-      <pubDate>Thu, 16 Jul 2026 03:33:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-16T03:33:55.533423Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-16T15:23:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Customers voice frustration over internet outage - WOWT</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjJEb2RaM2FNRFpONlpRXzR6X0Q3TDd3V0I3WXJVUW13R2JoVU43Z1Z4bDBWRG9jNm1hUXdxdy1MWXV1MlVncGFObHVBNlZPY3Y4LVFGcXcxQmMwRzVYZC1CNmtPTmYwd3MzcG1ZT3Bkclg1NzZCcVVwZGJaN2hYdDJOYTdERHI2cVZQVFRldGQ?oc=5</link>
-      <guid isPermaLink="false">9052a92bde2eee5ef8aeed49</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-15 12:00
-Customers voice frustration over internet outage WOWT</description>
-      <pubDate>Wed, 15 Jul 2026 04:15:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-15T04:15:23.955844Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-15T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
