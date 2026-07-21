@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-21T10:48:59.807958Z",
+  "generated_at": "2026-07-21T12:42:44.744878Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -50,7 +50,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "51fd3f9f92c3bce22e35396e",
@@ -97,26 +97,26 @@
       "score": 11
     },
     {
-      "id": "7d8c3ba48a39264478377f21",
-      "title": "Your new router might already be obsolete—here's what to check before it's too late - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9BMm55ajQtMThvQ0h5WGNtcVRDQmFTTGVNRUZRdnE1SGU5cXRkMElhV09pRXMzT0F6Z1RYYkctQllfb2txQXloT2ttNzRDQ0hNWmxBZl8tS1VlQUNRZlJlMGJUS1NqQzVNdDRhcm5LeFM2cFluRlRLcERDRy11U05ZczRsOXhrMzNVNC1xSF8zeDZ1?oc=5",
-      "summary": "Your new router might already be obsolete—here's what to check before it's too late How-To Geek",
-      "published_at": "2026-07-18T12:30:13Z",
+      "id": "034e3f355bd69375be652e7d",
+      "title": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejk4aG5BenlrRUFNb0FDMG5yNU9uYjVPbWlCTVJiVGdzV3JQLUhtWllJbjZVVWpVbXJqdDF0X1NIYU1reVI4TUw2MGFCbGxJZEtfZDQ2Vm1qUS1yTjNfa0VZR3AtVzFVaEFublhwemZNa21MeEk2cnYyN0NlSHYxTEIxd2RRZjhpbWE1SEpaRlVCNW5DN0x5UG1uUUdqcEF0WWw1emp5eU1fbTI3Znc?oc=5",
+      "summary": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? Gizmodo",
+      "published_at": "2026-07-21T12:10:55Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 9
     },
     {
-      "id": "38813a0e74e38efdb35cd375",
-      "title": "I stopped following home networking advice stuck in 2019, and you should too - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxORExwYWtIcmtlUmtjdnNoSkNCMkFLaFhiRDM2NmtOV3J3bVRJSzRtVkYtX0w3OHFnS3NwQ3A3ZWdMTGRaeHVTNnk4RWxHbHJaQWFLWmpSVjB6emY0dGJteGdmRHV0ME0zbnJyT241WTVLYXBFTzlyY0UxcE5HRzNWYVp0MVUxZVZHODNiM1Vha1BuM0t5WGlGdXl5STRGMmtHZU1oS0tlV3Fpcm8tNGx5dnQ0WWpQX3JGUWxuNGVMNE8xZVY2VjZaWGpzdmxSR2J1R3NTZnk1X0JYYlRSZDZPQ3NNem1NUFNIYlY0d3FQZlcxdUg2RVlRSno3N256dG9nLWFEeDJmNVBHZGRzaHpBdHc2WmJnRThBOGU2MmNmVzg1MG5ZTkpxUS05cURJdUpPUmk0ZlFiQmk5anMxU2FhRVNkRXlBZTFrVVhTLXczcVpZQllZSU54SmIzTWZ1R0RGWUU5cmNJVW5namNueU5z?oc=5",
-      "summary": "I stopped following home networking advice stuck in 2019, and you should too MSN",
-      "published_at": "2026-07-19T12:11:32Z",
+      "id": "cd081c585d14dfcc63190ff1",
+      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVXdVdTI2ekJSbkd5Vkl5TWtBVWpaMVROdVpGSXNJTlBOLXd1bFYzX240QXIwR21uamFTYndxQlh6R3BaQmFCRmRGSlF4RlE4em9ocHAzclBSZGNyd2Z3OTEzWWlwbXNreHhDcnByTl85UWJWZzUzYzNqS0V6bHVIakFFUDBqLTBYanZEVXJxVFZla1dIV1lOWTJTV20zcUFNUVNwMzJNbjd3RmxVQjR4NHQ0VjVYY0NJN3VjZTc3UFdZeG9ZeTdqQXNwN0pXR0RBUnNsMHl0TnhlbzdmZmM3eUhOX3prMWpXRXBHcEtaLUpYazJuLUQ0MDZKN0t1aDBncXpMRHp6WVVTU3dtM1N0amF3aDJMS21GVmt2Q284WUo3VDZ6RFVFUURWZUgxdm9qMUtQZUpaUk8xaVlhV1MyZlNMWVgtZjF3cHhYT29NcGEwRVlzQnRRQ0VnRjJZVXJhekphZlBoVDg?oc=5",
+      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly MSN",
+      "published_at": "2026-07-20T16:47:48Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 9
     }
   ]
 }
