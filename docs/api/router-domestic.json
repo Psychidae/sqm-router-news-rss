@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-21T06:15:34.428826Z",
+  "generated_at": "2026-07-21T08:44:53.514571Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "6745c9001fc7f403c8042ad3",
-      "title": "バッファローのWi-FiルーターがAmazonプライムデーでお買い得！ Wi-Fi 7ルーター「WSR3600BE4P」が1万1030円など - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53WDVCdFdJdExjQTQtYW9mMjFmQTJPWW5jV1A1RlNBR19ZanRoc00zWVE2OU9RM1dzcE1hNkJQNkFQMlBIOVVBN3gxa3FVcG9iSmROa1pkNk9uT0JoVE5HTHpnUXB5OURreGx2Q0hXTnk?oc=5",
-      "summary": "バッファローのWi-FiルーターがAmazonプライムデーでお買い得！ Wi-Fi 7ルーター「WSR3600BE4P」が1万1030円など INTERNET Watch",
-      "published_at": "2026-07-07T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
     {
       "id": "d4d0e56f02aa648feceab86e",
       "title": "Wi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/7/20 - BCN Retail",
@@ -68,7 +57,7 @@
       "title": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdk44Q0ZQRVJ6NHRCc3EzVGRPanQyWW9nMzRzNDlDSkZHWC1JUlVCNkxIOWo5bVoyMUhhM2hzWW5WYnA2U2pwaXpXQ2ZxT2w0enByMg?oc=5",
       "summary": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 ASCII.jp",
-      "published_at": "2026-07-13T06:05:00Z",
+      "published_at": "2026-07-13T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -91,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWlYRXhLTEx5TkJaWUNRUlpKLVF1Sy1kQnNJOGVoeXRLVDFTY2Z1UVpDbXNEX0Z4NGV2VGdGYnpxZkhxcjRQN0NBM0lRejJZLS0tV3hDNnlGRUJBOE5STE1zY3hJUnZpSWRJeEg0eGxJMktJeThZenl2QUFzN0M1c210dEVrbmpiM2hDNFNB?oc=5",
       "summary": "上位5位までバッファローが獲得 無線LANルーター人気ランキングTOP10 2026/7/13 (BCN) Yahoo!ニュース",
       "published_at": "2026-07-13T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "875100946aeceee0cbd69c2b",
+      "title": "NECのWi-Fiルーター「Aterm AM-AX5400T6」がAmazonプライムデーでセールに - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DM28tSHdRYTRJRU01dGhPMlRmMmZZTVBCOWpuRlNZRlRGOXNhTDRGaHBPNFd5c0NnVEhoUkNKWGx0MmhLVUtQVWN0aXlEbWVVZGlrVmF3SjEtSk9OUWN2ZGRxSzAyMXhGZVNlRXlhWDU?oc=5",
+      "summary": "NECのWi-Fiルーター「Aterm AM-AX5400T6」がAmazonプライムデーでセールに INTERNET Watch",
+      "published_at": "2026-07-10T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
