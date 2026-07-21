@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-21T22:35:11.834555Z",
+  "generated_at": "2026-07-21T23:39:16.414281Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,9 +9,9 @@
   "errors": [],
   "items": [
     {
-      "id": "58634bcfcbe7e7bfec6d13c7",
+      "id": "d0b679a1f5acb54c543eae48",
       "title": "Netskope Slashes Network Latency By Up to 90% for Enterprise AI Traffic - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHBtbzA3U3RsNEZZYTg2M2piZVl1cnBqTm1FVi1oSm02SFlfSElyMGVoYndDSW82bXY0bERxMERaUVhGM0Y0UkF5d1M3NDJvQk1jRkZvTklnYjJvNjdfZkxEQ0Y3cFpYS1hPc1pMdWotcjRlN0J2VzNFdmtJUmdjRWhNYXBIcm9CZmVkM2h0ZVEwXzkybGlkWU5kSUwtdUs2TlVBTmZ2djhWVWFzbEhUNEJHS1h2ZTdicTNjMmR5b3I2ZXlhTUhPWGlPOFVUX2E4TDNWZTB0OHQyNE5HMElvVGZB0gHiAUFVX3lxTE5IcG1vMDdTdGw0RllhODYzamJlWXVycGpObUVWLWhKbTZIWV9ISXIwZWhid0NJbzZtdjRsRHEwRFpRWEYzRjRSQXl3Uzc0Mm9CTWNGRm9OSWdiMm82N19mTERDRjdwWlhLWE9zWkx1ai1yNGU3QnZXM0V2a0lSZ2NFaE1hcEhyb0JmZWQzaHRlUTBfOTJsaWRZTmRJTC11SzZOVUFOZnZ2OFZVYXNsSFQ0QkdLWHZlN2JxM2MyZHlvcjZleWFNSE9YaU84VVRfYThMM1ZlMHQ4dDI0TkcwSW9UZkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZEQ0XzYyanI0dkNucy13LW1WNlFDRzYxWGdUOVVfTW9ibFVZcG1Nbmgzb1F6c3Rnb3MtNHZ1T1hmLVpnUnJpN21UX0ZCdXdNZ3k5MUwyWUxPR3UxRWNIVzE4cHBMSl9tSHVnSmlBeU9KdkxaZ3JSV0RiWTU2RUszRHRXYUR2YmpHMEUxckQzU2NQWjJHZ24yVGprWnVjY1VLalM1WUxnMkhkODh6dHRkb09OTjZvT05kSURLbGVPSnVDMUFydjZKTi0wVEoxd0xQVl9Vc0l4dkxyMGdq0gHiAUFVX3lxTE5IcG1vMDdTdGw0RllhODYzamJlWXVycGpObUVWLWhKbTZIWV9ISXIwZWhid0NJbzZtdjRsRHEwRFpRWEYzRjRSQXl3Uzc0Mm9CTWNGRm9OSWdiMm82N19mTERDRjdwWlhLWE9zWkx1ai1yNGU3QnZXM0V2a0lSZ2NFaE1hcEhyb0JmZWQzaHRlUTBfOTJsaWRZTmRJTC11SzZOVUFOZnZ2OFZVYXNsSFQ0QkdLWHZlN2JxM2MyZHlvcjZleWFNSE9YaU84VVRfYThMM1ZlMHQ4dDI0TkcwSW9UZkE?oc=5",
       "summary": "Netskope Slashes Network Latency By Up to 90% for Enterprise AI Traffic The Manila Times",
       "published_at": "2026-07-21T13:11:39Z",
       "source": "Google News Global: network performance",
@@ -39,7 +39,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "081e61a2d7af0ebeb06bd6b0",
