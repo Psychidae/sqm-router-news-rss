@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-21T20:34:15.082567Z",
+  "generated_at": "2026-07-21T21:44:19.608212Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -108,15 +108,15 @@
       "score": 9
     },
     {
-      "id": "b06fc19742e342a65faa9c44",
-      "title": "5 reasons I’d always choose mesh Wi-Fi over a traditional router - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2NheVd1enF2aTlFaElNMk5naGowZHM2MU9rUmMyTUFwbDQteVpWTUpQZGxESC04Q3VScUt4ckxaSDIzTmk0ZlVOaUJoamVQTlBBc3FldnYtVmt3ZUpTMy1KSkU0dklPc05wMi14RHlhc3hsbUJ5a1BCdVlyaDlnTnVxbi1RZkVLRnVDMDcta29WWGdnN1VvQm1JU1M3LTU2b1p1UUFlU1pvbW0xWVRDSm9IRkRPZFFjOFVxdTRB?oc=5",
-      "summary": "5 reasons I’d always choose mesh Wi-Fi over a traditional router MSN",
-      "published_at": "2026-07-20T23:40:26Z",
+      "id": "cd081c585d14dfcc63190ff1",
+      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVXdVdTI2ekJSbkd5Vkl5TWtBVWpaMVROdVpGSXNJTlBOLXd1bFYzX240QXIwR21uamFTYndxQlh6R3BaQmFCRmRGSlF4RlE4em9ocHAzclBSZGNyd2Z3OTEzWWlwbXNreHhDcnByTl85UWJWZzUzYzNqS0V6bHVIakFFUDBqLTBYanZEVXJxVFZla1dIV1lOWTJTV20zcUFNUVNwMzJNbjd3RmxVQjR4NHQ0VjVYY0NJN3VjZTc3UFdZeG9ZeTdqQXNwN0pXR0RBUnNsMHl0TnhlbzdmZmM3eUhOX3prMWpXRXBHcEtaLUpYazJuLUQ0MDZKN0t1aDBncXpMRHp6WVVTU3dtM1N0amF3aDJMS21GVmt2Q284WUo3VDZ6RFVFUURWZUgxdm9qMUtQZUpaUk8xaVlhV1MyZlNMWVgtZjF3cHhYT29NcGEwRVlzQnRRQ0VnRjJZVXJhekphZlBoVDg?oc=5",
+      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly MSN",
+      "published_at": "2026-07-20T16:47:48Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     }
   ]
 }
