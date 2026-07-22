@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-22T10:05:39.412990Z",
+  "generated_at": "2026-07-22T12:01:46.593616Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,11 +42,11 @@
       "score": 10
     },
     {
-      "id": "6b3554d3947da65a9a765b92",
-      "title": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 - 週刊アスキー",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5veWkxbDAzeVUtM3dqcVhWVEc3WlR1SVpHS1B1bTZZQnZKZlM0eUhLaHk3VThvN2pCN0xWZmxrQ0xDcl8zdFNTU1cyYW8xNURiTWdyMmY2UE94YXB4d3c?oc=5",
-      "summary": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 週刊アスキー",
-      "published_at": "2026-07-13T06:05:00Z",
+      "id": "6a5f90c07f56ee8f978d469b",
+      "title": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSdk44Q0ZQRVJ6NHRCc3EzVGRPanQyWW9nMzRzNDlDSkZHWC1JUlVCNkxIOWo5bVoyMUhhM2hzWW5WYnA2U2pwaXpXQ2ZxT2w0enByMg?oc=5",
+      "summary": "Wi-Fi 7対応で7880円ってすごくない？ エレコムの高コスパ無線LANルーターが17％オフ【Amazonプライムデー2026】 ASCII.jp",
+      "published_at": "2026-07-13T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -86,10 +86,10 @@
       "score": 10
     },
     {
-      "id": "4c9ec0498f9ba2853d406be3",
-      "title": "Wi-Fi 7ルーターや見守りカメラなどTP-Link製品が最大40%オフ！Amazonプライムデー先行セール - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTkVVeXdCR2lHZ2xZYlJaMzJwNWtqVVliRmJUbmN0Ql9PSHZYU1dnUTl2WXBZbzNKUFFzY2hKYmY5WEJENEhiRTluSUR5QXoySmhNUERha1JQUEcxbndJZVQ4d0xIZ1pmZHFXVGRrb3FFN3RqUTZpUnNqNUJTNU1wNw?oc=5",
-      "summary": "Wi-Fi 7ルーターや見守りカメラなどTP-Link製品が最大40%オフ！Amazonプライムデー先行セール AKIBA PC Hotline!",
+      "id": "2863d7e8f8092be4f0f2d9fe",
+      "title": "バッファロー製Wi-Fi 7対応機器がアマゾン先行セール、無線LAN子機が7630円、ルーターが5万3530円に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05UlZlbzR1TE0zWjZ5MHc1VkozdFVyTm5tTklod3RiYzdSc3NibTQwSVhEM0ZvNTctREcxQ2tJQUFsMTEzQm51YUZUMDhVZklqcGFYcnp0RDBDV3lwWFkyWG9mSDFmQ1RTaTNZQktuTW5QM1Fv?oc=5",
+      "summary": "バッファロー製Wi-Fi 7対応機器がアマゾン先行セール、無線LAN子機が7630円、ルーターが5万3530円に BigGo ファイナンス",
       "published_at": "2026-07-09T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
