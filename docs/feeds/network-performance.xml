@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 19:59:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:19:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げ - ニコニコニュース</title>
@@ -92,6 +92,34 @@ Fresno County internet outage limits public services as IT works to restore acce
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Widespread Internet Outage Impacts More Than 20 Maine Towns - Newsradio WGAN |</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5</link>
+      <guid isPermaLink="false">6035e3126f964886291fa6d4</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-21 08:13
+Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</description>
+      <pubDate>Thu, 23 Jul 2026 21:19:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-23T21:19:22.904193Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-20T23:13:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-22 10:01
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Thu, 23 Jul 2026 19:59:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-23T19:59:10.845803Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T01:01:26Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns - newscentermaine.com</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkFNRUYyN25CNk9RS0FCb01HQkhaLVZqam9sZ3c1eWJ0RC1adERLeWpxQjFFQ2hyNkEwZkRhQW8wblBCSVpZZGFncVE3cDJERkhLbFhNZEw5OGpROFp1TVdXeGJpSlRpOGVNMm5pWGhfbFVqX1hlaEQtN2RRcmtWY0NhLUJwLWNrc1Rlb20ybEZ0UllnR2ZySG5LZTR1eFJERXhoS0o5bmxVdDFxTUhkNXlzTzlHSFVObEpuSFdrMzlPMHhfRDZfVnFxY2VOZ2VzQTZPTzZ3?oc=5</link>
       <guid isPermaLink="false">081e61a2d7af0ebeb06bd6b0</guid>
@@ -116,34 +144,6 @@ Widespread internet outage affects more than 20 Maine towns newscentermaine.com<
       <pubDate>Tue, 21 Jul 2026 06:15:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-21T06:15:38.190523Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-20T20:14:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-22 10:01
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Thu, 23 Jul 2026 19:59:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-23T19:59:10.845803Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T01:01:26Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 'Irresponsible' works on Msida Creek project blamed for Melita internet outage - Times of Malta</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPaFJiYm9QMXMxOWVwaUtvVlozY3ZlX0wxOXJ0VkdzSUI0VDJVZzZqLVdZOXhTaXJrdFJXRjUtN0FxSWRZNUI2clF0b0ZRVUU3Sno2VEpvdFEzeEdGeTBfUjVtUjVRNUxUeXpFSlQ0LW5qZmJ3ZXpqTnpVNEY2d3IwX3BDMzhwQmlsYUZDaVY2M19QMGVTZEZKdUJ6ajcydms?oc=5</link>
-      <guid isPermaLink="false">9e733f75090f1138476d477c</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-20 16:05
-'Irresponsible' works on Msida Creek project blamed for Melita internet outage Times of Malta</description>
-      <pubDate>Thu, 23 Jul 2026 19:59:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-23T19:59:10.845803Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T07:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
