@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-23T04:31:05.231041Z",
+  "generated_at": "2026-07-23T07:16:15.478088Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -31,15 +31,26 @@
       "score": 11
     },
     {
-      "id": "41c56780d85dd1d62372cf6d",
-      "title": "Tendaの人気Wi-Fiルーター5機種に、危険な脆弱性が存在する。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOE5MTWNtMmNTb1ZhVUF3RUM3UGoxdlRCU2U0d0k0X0UzcXlJaW1rS1VzVjJhdTNRX1RJZHZDdzlSWnZOY1gtbndmLWhBb0xUcU1vVVo4SThma2ZxbG93MnVTSUljS052YkRFbDRnMG5paVlya2pKZ3F6Ukx2YzNocUtwQW4xRER0eG91UkxHbw?oc=5",
-      "summary": "Tendaの人気Wi-Fiルーター5機種に、危険な脆弱性が存在する。 Vietnam.vn",
-      "published_at": "2026-07-16T07:00:00Z",
+      "id": "52498aa7656a13bf62cd663e",
+      "title": "ASUSがルーターの重大な脆弱性に対するパッチをリリース。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1VzX0txRk5MWkppdmxWMkc5d19oSERDQlpOLTRuNmdzTmdobkw2bE4zeFozSlpUUm1xamhsR2R3YWE3Q2xEZmRXSWRqaUlYc3NFUW9tVkRIeWZJUkJlVURyWXF1dnNENV9OY0t3VTdfWEktbk5sMGJCYlBUSGZlS0duWFZvYkR1amhZMUp0VFBjeWJNZlBN?oc=5",
+      "summary": "ASUSがルーターの重大な脆弱性に対するパッチをリリース。 Vietnam.vn",
+      "published_at": "2026-07-22T18:15:23Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 11
+      "score": 8
+    },
+    {
+      "id": "820968116a7c6881c3475f7a",
+      "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands - gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ka0FiMFo3emx3TnBhZ2RIZHd5R1FoUThtYklfYVZ3Um9BNWRCYjVVNDFyMFExREE1dXp4YzF5LUkzS1djekZrVFdadjhxLWZKU1VJM3EtSG9RY0I50gFiQVVfeXFMTS1aNWd3TG9POWE4cXc0RjhUczZrVzc2cnBjWDc2Um44cWxmN0dUMUY2T2dpdnFKWVpWSVFqa201d05JcTJDRkl5V0hZZHpqN0o1SmpSNTY4MWplWnQ1NGJFaGc?oc=5",
+      "summary": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands gbhackers.com",
+      "published_at": "2026-07-22T11:57:12Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 8
     },
     {
       "id": "13a58239a0bb73b1de2f51db",
@@ -47,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CZU9WOUVPcGJtaHkxYllJMDZNNGV4QXlzVFRmT1RzVjVoZ0xiVHlPdnVtbDN4VHRRcGJWTFMydS1hY0hmcWs4dkJRUUZaMXMxU2dOaHdyV2doTEZMaldMbtIBYEFVX3lxTE5CZU9WOUVPcGJtaHkxYllJMDZNNGV4QXlzVFRmT1RzVjVoZ0xiVHlPdnVtbDN4VHRRcGJWTFMydS1hY0hmcWs4dkJRUUZaMXMxU2dOaHdyV2doTEZMaldMbg?oc=5",
       "summary": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands cyberpress.org",
       "published_at": "2026-07-22T10:54:51Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "69af66c811ba09ab5b978225",
-      "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands - gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tWjVnd0xvTzlhOHF3NEY4VHM2a1c3NnJwY1g3NlJuOHFsZjdHVDFGNk9naXZxSllaVklRamttNXdOSXEyQ0ZJeVdIWWR6ajdKNUpqUjU2ODFqZVp0NTRiRWhn0gFiQVVfeXFMTS1aNWd3TG9POWE4cXc0RjhUczZrVzc2cnBjWDc2Um44cWxmN0dUMUY2T2dpdnFKWVpWSVFqa201d05JcTJDRkl5V0hZZHpqN0o1SmpSNTY4MWplWnQ1NGJFaGc?oc=5",
-      "summary": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands gbhackers.com",
-      "published_at": "2026-07-22T10:04:25Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
