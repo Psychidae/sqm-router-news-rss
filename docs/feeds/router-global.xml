@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:30:32 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -78,6 +78,20 @@ Your Wi-Fi router could be helping Russian hackers, confirms US government in ne
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage - ZDNET</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOanNhMmNqeWxQQlBTeXRZVjExcjF5TC1BUWJBaWUtaWV0UkRRMjNBejQ2cG1IUHByWVJZd0dPTW5Qd251N1FlUkZtSWNWRm1OanFodElqc2lNN2NCcjdhTnh4VmVGaXpUYV9fdjNXQmtRU0tiNHFRYkVMbDdzbG5hWkMtSnlrVFFDNHg1MV9TNVl5MjR2UTJv?oc=5</link>
+      <guid isPermaLink="false">b292de79dbe3b4c2ca0d51c0</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-07-23 20:00
+We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage ZDNET</description>
+      <pubDate>Thu, 23 Jul 2026 11:30:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-23T11:30:32.978608Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-23T11:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Your devices are fast — your router should be, too - Cult of Mac</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d3RBMlVxQUh3QzJwMFJXTkVqWGR1Wi1YSXRGQzhGTGhCVmlmTzRJQ05Wa3FGUzVOT2NEbW9FQTFpMV9wN09PNUlOVmQ4QmJJNk10SGE5aHNtWE9TQjZoZDBNZWRRRWNOTklfNnNEcG5RTzJlUDNYekxua3FjRUE?oc=5</link>
       <guid isPermaLink="false">7520cf3898014dac66c650e4</guid>
@@ -130,20 +144,6 @@ Your old router is faster than mesh Wi-Fi if you wire it correctly MSN</descript
       <pubDate>Wed, 22 Jul 2026 07:19:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-22T07:19:42.917065Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-20T16:47:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your new router might already be obsolete—here's what to check before it's too late - How-To Geek</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9BMm55ajQtMThvQ0h5WGNtcVRDQmFTTGVNRUZRdnE1SGU5cXRkMElhV09pRXMzT0F6Z1RYYkctQllfb2txQXloT2ttNzRDQ0hNWmxBZl8tS1VlQUNRZlJlMGJUS1NqQzVNdDRhcm5LeFM2cFluRlRLcERDRy11U05ZczRsOXhrMzNVNC1xSF8zeDZ1?oc=5</link>
-      <guid isPermaLink="false">7d8c3ba48a39264478377f21</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-18 21:30
-Your new router might already be obsolete—here's what to check before it's too late How-To Geek</description>
-      <pubDate>Wed, 22 Jul 2026 12:01:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-22T12:01:47.606582Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-18T12:30:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

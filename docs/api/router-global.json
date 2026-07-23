@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-23T09:36:58.052959Z",
+  "generated_at": "2026-07-23T11:30:32.979302Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 10
     },
     {
+      "id": "b292de79dbe3b4c2ca0d51c0",
+      "title": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage - ZDNET",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanNhMmNqeWxQQlBTeXRZVjExcjF5TC1BUWJBaWUtaWV0UkRRMjNBejQ2cG1IUHByWVJZd0dPTW5Qd251N1FlUkZtSWNWRm1OanFodElqc2lNN2NCcjdhTnh4VmVGaXpUYV9fdjNXQmtRU0tiNHFRYkVMbDdzbG5hWkMtSnlrVFFDNHg1MV9TNVl5MjR2UTJv?oc=5",
+      "summary": "We tested 15 Wi-Fi 7 routers in our lab - this one had the best coverage ZDNET",
+      "published_at": "2026-07-23T11:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "7520cf3898014dac66c650e4",
       "title": "Your devices are fast — your router should be, too - Cult of Mac",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1d3RBMlVxQUh3QzJwMFJXTkVqWGR1Wi1YSXRGQzhGTGhCVmlmTzRJQ05Wa3FGUzVOT2NEbW9FQTFpMV9wN09PNUlOVmQ4QmJJNk10SGE5aHNtWE9TQjZoZDBNZWRRRWNOTklfNnNEcG5RTzJlUDNYekxua3FjRUE?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "7d8c3ba48a39264478377f21",
-      "title": "Your new router might already be obsolete—here's what to check before it's too late - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdm9BMm55ajQtMThvQ0h5WGNtcVRDQmFTTGVNRUZRdnE1SGU5cXRkMElhV09pRXMzT0F6Z1RYYkctQllfb2txQXloT2ttNzRDQ0hNWmxBZl8tS1VlQUNRZlJlMGJUS1NqQzVNdDRhcm5LeFM2cFluRlRLcERDRy11U05ZczRsOXhrMzNVNC1xSF8zeDZ1?oc=5",
-      "summary": "Your new router might already be obsolete—here's what to check before it's too late How-To Geek",
-      "published_at": "2026-07-18T12:30:13Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
