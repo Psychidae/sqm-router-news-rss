@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-24T11:23:08.810242Z",
+  "generated_at": "2026-07-24T13:05:01.511217Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -83,7 +83,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 7
     },
     {
       "id": "2f520c94fdd01ee7860f1ae2",
@@ -108,11 +108,11 @@
       "score": 7
     },
     {
-      "id": "2bc9b3ec9544bea0b2985daf",
-      "title": "Wi-Fi 7 is not a luxury anymore - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa3huUlhLUEs1Q01tcnBvODlZSzctNno3dkFWeG1EaUJqNGRDUFZ1dm9TcjFVdGRPMU9ObW1GTG1QVTZ3bW1lTklNY0t4NVFVRXlxekl2bXRXU1NZeEJrM082dGtZczE3ZUE?oc=5",
-      "summary": "Wi-Fi 7 is not a luxury anymore MakeUseOf",
-      "published_at": "2026-07-12T13:00:18Z",
+      "id": "4a96f5297fc153aba8a3fa59",
+      "title": "ADI Launches Premium Wi-Fi 7 Indoor Access Point - Security Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOelFUQi1nY196UlZEcWhTRzNIdVE2Q2xNaTAwUUxycElLSUpHdmlCY2dMWmJ1Q1NpWEo3YUxJMEY2YWlQb3BhWVZLODdONXl4bzFPOHJXbGUtUTdsamY0X0VXRnZVUWY5VVhlZC1zOXY1OEJWTmtxOFVzQ283TjY1d2xTeUU2NzZOaU82eFBkcVRXWDdFZkVSNE9uemh6Nnc?oc=5",
+      "summary": "ADI Launches Premium Wi-Fi 7 Indoor Access Point Security Today",
+      "published_at": "2026-07-15T17:40:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
