@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 18:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:01:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in</title>
@@ -134,16 +134,16 @@ Fresno County internet outage limits public services as IT works to restore acce
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Widespread Internet Outage Impacts More Than 20 Maine Towns - Newsradio WGAN |</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5</link>
-      <guid isPermaLink="false">6035e3126f964886291fa6d4</guid>
+      <title>[性能・障害] Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns - newscentermaine.com</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkFNRUYyN25CNk9RS0FCb01HQkhaLVZqam9sZ3c1eWJ0RC1adERLeWpxQjFFQ2hyNkEwZkRhQW8wblBCSVpZZGFncVE3cDJERkhLbFhNZEw5OGpROFp1TVdXeGJpSlRpOGVNMm5pWGhfbFVqX1hlaEQtN2RRcmtWY0NhLUJwLWNrc1Rlb20ybEZ0UllnR2ZySG5LZTR1eFJERXhoS0o5bmxVdDFxTUhkNXlzTzlHSFVObEpuSFdrMzlPMHhfRDZfVnFxY2VOZ2VzQTZPTzZ3?oc=5</link>
+      <guid isPermaLink="false">081e61a2d7af0ebeb06bd6b0</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-21 08:13
-Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</description>
-      <pubDate>Thu, 23 Jul 2026 21:19:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-23T21:19:22.904193Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T23:13:11Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-21 05:14
+Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns newscentermaine.com</description>
+      <pubDate>Fri, 24 Jul 2026 20:01:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-24T20:01:13.742982Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-20T20:14:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

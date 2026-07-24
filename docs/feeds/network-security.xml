@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 18:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:01:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security</title>
