@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-24T09:34:11.700715Z",
+  "generated_at": "2026-07-24T11:23:11.164936Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "098da889dc75fbdaf8e035d7",
+      "title": "AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNEZNUlk1VDF1TXh0VmU4QXBjeWZESW4tZHlRYzktbE1QcHJvbFZzekY5eFktZmM4SE1wSXNmWm85b3dldlgxSmF2TUxKZFlObDhYRXNLZTdHVW1CeHRSN1VMWmg4VUp6NmlfVzVqRDkzMGJ1YUJiQXV5QlJvYVE?oc=5",
+      "summary": "AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas chshyd.in",
+      "published_at": "2026-07-24T09:57:56Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "fb495f011f1ba2094c3d8f61",
       "title": "プロバイダーに回線遅延の証拠を出すため、ラズパイで速度を24時間記録 - FabScene",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5",
       "summary": "Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |",
       "published_at": "2026-07-20T23:13:11Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "081e61a2d7af0ebeb06bd6b0",
-      "title": "Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns - newscentermaine.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkFNRUYyN25CNk9RS0FCb01HQkhaLVZqam9sZ3c1eWJ0RC1adERLeWpxQjFFQ2hyNkEwZkRhQW8wblBCSVpZZGFncVE3cDJERkhLbFhNZEw5OGpROFp1TVdXeGJpSlRpOGVNMm5pWGhfbFVqX1hlaEQtN2RRcmtWY0NhLUJwLWNrc1Rlb20ybEZ0UllnR2ZySG5LZTR1eFJERXhoS0o5bmxVdDFxTUhkNXlzTzlHSFVObEpuSFdrMzlPMHhfRDZfVnFxY2VOZ2VzQTZPTzZ3?oc=5",
-      "summary": "Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns newscentermaine.com",
-      "published_at": "2026-07-20T20:14:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

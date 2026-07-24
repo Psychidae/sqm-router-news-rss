@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-24T09:34:09.543123Z",
+  "generated_at": "2026-07-24T11:23:08.810242Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -72,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "034e3f355bd69375be652e7d",
@@ -108,15 +108,15 @@
       "score": 7
     },
     {
-      "id": "cd081c585d14dfcc63190ff1",
-      "title": "Your old router is faster than mesh Wi-Fi if you wire it correctly - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOVXdVdTI2ekJSbkd5Vkl5TWtBVWpaMVROdVpGSXNJTlBOLXd1bFYzX240QXIwR21uamFTYndxQlh6R3BaQmFCRmRGSlF4RlE4em9ocHAzclBSZGNyd2Z3OTEzWWlwbXNreHhDcnByTl85UWJWZzUzYzNqS0V6bHVIakFFUDBqLTBYanZEVXJxVFZla1dIV1lOWTJTV20zcUFNUVNwMzJNbjd3RmxVQjR4NHQ0VjVYY0NJN3VjZTc3UFdZeG9ZeTdqQXNwN0pXR0RBUnNsMHl0TnhlbzdmZmM3eUhOX3prMWpXRXBHcEtaLUpYazJuLUQ0MDZKN0t1aDBncXpMRHp6WVVTU3dtM1N0amF3aDJMS21GVmt2Q284WUo3VDZ6RFVFUURWZUgxdm9qMUtQZUpaUk8xaVlhV1MyZlNMWVgtZjF3cHhYT29NcGEwRVlzQnRRQ0VnRjJZVXJhekphZlBoVDg?oc=5",
-      "summary": "Your old router is faster than mesh Wi-Fi if you wire it correctly MSN",
-      "published_at": "2026-07-20T16:47:48Z",
+      "id": "2bc9b3ec9544bea0b2985daf",
+      "title": "Wi-Fi 7 is not a luxury anymore - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa3huUlhLUEs1Q01tcnBvODlZSzctNno3dkFWeG1EaUJqNGRDUFZ1dm9TcjFVdGRPMU9ObW1GTG1QVTZ3bW1lTklNY0t4NVFVRXlxekl2bXRXU1NZeEJrM082dGtZczE3ZUE?oc=5",
+      "summary": "Wi-Fi 7 is not a luxury anymore MakeUseOf",
+      "published_at": "2026-07-12T13:00:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 6
     }
   ]
 }
