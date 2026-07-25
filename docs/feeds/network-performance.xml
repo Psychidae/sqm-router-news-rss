@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 15:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:32:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in</title>
@@ -18,20 +18,6 @@ AT and T Internet Outage Leaves Thousands of Customers Without Service in Severa
       <pubDate>Fri, 24 Jul 2026 11:23:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-24T11:23:11.164410Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-24T09:57:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage - WBKO</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1EQXE3eEtxQlMySFJ5SHoxYWNxNzZwRzFrSWdsUGtiUTFJamFCcGVuRWZCcWVxd19YYk5mbzFxU2pJMnh6YUV4cEVMQmZVVWlpU3g4LUpDUWVLN25YbjJMVFNBNzNYbFdPUGpBOXNsYkV3aVNOcUZBLThFcV9pbHF5TzVyLUhwR1NIUTFpRG9xZFJXSFNYaHpBcEhPVkF3ZUhCQlZUbVMtLVI4YlpoR1VSMNIBxwFBVV95cUxNTFRYOTFJWjlCY2lKZnJpZ0g4T1J3dWxRRVlBVG8xbEpMcXlOcDNLQWh2NWlMVWpJMUZnVkpYdGlTbTBVVUNqZzlxN3YwdDRUeGJoUnJ1a001Q3pLRmFvTC0yN3JFMDJHR25YOVAyNmxIQ0c2ZGxCMDYzLUtwbVFGS1BnNlpBTGJoMTRubXQxZVZVbDdrZmduLWRhV1NSVkNGbS1XRG53akRFZHd1SmprTzNaZUd5UEp1SEYzb2xsZE41ek5aZmpZ?oc=5</link>
-      <guid isPermaLink="false">c9fa025b7c18fd7ca9cc4444</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-23 00:55
-Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage WBKO</description>
-      <pubDate>Wed, 22 Jul 2026 17:39:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-22T17:39:54.749148Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T15:55:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -75,6 +61,20 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <sqm:firstSeenDate>2026-07-25T11:47:43.238243Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-23T04:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage - WBKO</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1EQXE3eEtxQlMySFJ5SHoxYWNxNzZwRzFrSWdsUGtiUTFJamFCcGVuRWZCcWVxd19YYk5mbzFxU2pJMnh6YUV4cEVMQmZVVWlpU3g4LUpDUWVLN25YbjJMVFNBNzNYbFdPUGpBOXNsYkV3aVNOcUZBLThFcV9pbHF5TzVyLUhwR1NIUTFpRG9xZFJXSFNYaHpBcEhPVkF3ZUhCQlZUbVMtLVI4YlpoR1VSMNIBxwFBVV95cUxNTFRYOTFJWjlCY2lKZnJpZ0g4T1J3dWxRRVlBVG8xbEpMcXlOcDNLQWh2NWlMVWpJMUZnVkpYdGlTbTBVVUNqZzlxN3YwdDRUeGJoUnJ1a001Q3pLRmFvTC0yN3JFMDJHR25YOVAyNmxIQ0c2ZGxCMDYzLUtwbVFGS1BnNlpBTGJoMTRubXQxZVZVbDdrZmduLWRhV1NSVkNGbS1XRG53akRFZHd1SmprTzNaZUd5UEp1SEYzb2xsZE41ek5aZmpZ?oc=5</link>
+      <guid isPermaLink="false">c9fa025b7c18fd7ca9cc4444</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-23 00:55
+Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage WBKO</description>
+      <pubDate>Wed, 22 Jul 2026 17:39:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-22T17:39:54.749148Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T15:55:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
