@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-25T07:01:24.767051Z",
+  "generated_at": "2026-07-25T09:10:53.911939Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,44 +31,11 @@
       "score": 8
     },
     {
-      "id": "bb403882d38103d0b1894cd7",
-      "title": "West Omaha internet outage draws government scrutiny - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkFJYnRHSmppMmRuNDNBUXdOUmpUVXZrVmlEaDZ5TExrSkFBQTRtSF9lakRkT0xYWXVIUHlyNWxhdXdXMFZ1NGpCYjk5ZFprYXpJNlY3bFMzQTE0ekhGa3ZMR3pxcGRoQ1IwWGczb2VSbnphZVFnSGZfcUdaTzdmVzR1NVQ3QXVHUmN2bTN30gGiAUFVX3lxTFBWbmJxNDY4NFlLSUswMWVvUWFDQ2RqUVRiWDhfWTFjVFdMOU03MnFqN2UyYzFRa1pkcVd2b1d1bVZ6NjNFNTIzOXhSbkFwbmNPc3NJWktUT1lETmlBS2YzejNENFhNcU1LWW9FRWlqN200Z2FVemJsNVN1V0ZjTkRVb0JPTS1HbnIyaGVnR2Y5ZHlveGswSC0xdkRLOExlV19LZw?oc=5",
-      "summary": "West Omaha internet outage draws government scrutiny WOWT",
-      "published_at": "2026-07-22T08:57:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "899d3aa453746b2cb09d55db",
-      "title": "West Omaha internet outage draws government scrutiny - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdSWDYxeU1vZUN4WUQ1ZHRPMXZfOHVCelJrQ2FBSEVQMERnMXhfc2NyclFodUFBZFJ4bjBtNklHQV9ibDlYTDE1Mm1YMWhVMFhIQlFPTzZldi1ZUnVVdVNRWWFjR2RQYXhIeFB1dlhvUU8wOTZnZWUzV1ZYWnpKTTZMTmdub3JaVlFwcmp2bWliZGpjRkE?oc=5",
-      "summary": "West Omaha internet outage draws government scrutiny WOWT",
-      "published_at": "2026-07-22T08:57:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "fb495f011f1ba2094c3d8f61",
       "title": "プロバイダーに回線遅延の証拠を出すため、ラズパイで速度を24時間記録 - FabScene",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CeTRfdVFtNXQ3RGtPQmlnMDZ2c01Gc3dMMlY4YlZWc3FEcDVITjIxVlhXeHhJMjRXOEtqVURtblNyNldfRk04dEpHOW5CNV9YRVZuVm43RlFLN2xNcW9ZY045dWpqcjZDbzZLY0xHM0JKUU3SAXhBVV95cUxQdWhrbm5IS3dZN2w2Nk9jLUNPTWZHSU1PS1JubGhETDRralk1Q3ZWRlppdEo0Q0poVXZKVE0xWTUwaTZGVmwxZTZ5b1A2Z0lOdTFsSERwaWthR3VVSy03SXQxMFBZZWtjMjZ6bWFsaUJDSGEteTRkdUo?oc=5",
       "summary": "プロバイダーに回線遅延の証拠を出すため、ラズパイで速度を24時間記録 FabScene",
       "published_at": "2026-07-24T01:59:52Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "3da24a7dd935aeedb1f3ab13",
-      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
-      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-07-23T22:51:12Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -82,6 +49,28 @@
       "published_at": "2026-07-23T04:03:24Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "bb403882d38103d0b1894cd7",
+      "title": "West Omaha internet outage draws government scrutiny - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkFJYnRHSmppMmRuNDNBUXdOUmpUVXZrVmlEaDZ5TExrSkFBQTRtSF9lakRkT0xYWXVIUHlyNWxhdXdXMFZ1NGpCYjk5ZFprYXpJNlY3bFMzQTE0ekhGa3ZMR3pxcGRoQ1IwWGczb2VSbnphZVFnSGZfcUdaTzdmVzR1NVQ3QXVHUmN2bTN30gGiAUFVX3lxTFBWbmJxNDY4NFlLSUswMWVvUWFDQ2RqUVRiWDhfWTFjVFdMOU03MnFqN2UyYzFRa1pkcVd2b1d1bVZ6NjNFNTIzOXhSbkFwbmNPc3NJWktUT1lETmlBS2YzejNENFhNcU1LWW9FRWlqN200Z2FVemJsNVN1V0ZjTkRVb0JPTS1HbnIyaGVnR2Y5ZHlveGswSC0xdkRLOExlV19LZw?oc=5",
+      "summary": "West Omaha internet outage draws government scrutiny WOWT",
+      "published_at": "2026-07-22T08:57:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "899d3aa453746b2cb09d55db",
+      "title": "West Omaha internet outage draws government scrutiny - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdSWDYxeU1vZUN4WUQ1ZHRPMXZfOHVCelJrQ2FBSEVQMERnMXhfc2NyclFodUFBZFJ4bjBtNklHQV9ibDlYTDE1Mm1YMWhVMFhIQlFPTzZldi1ZUnVVdVNRWWFjR2RQYXhIeFB1dlhvUU8wOTZnZWUzV1ZYWnpKTTZMTmdub3JaVlFwcmp2bWliZGpjRkE?oc=5",
+      "summary": "West Omaha internet outage draws government scrutiny WOWT",
+      "published_at": "2026-07-22T08:57:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5",
       "summary": "Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |",
       "published_at": "2026-07-20T23:13:11Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "081e61a2d7af0ebeb06bd6b0",
+      "title": "Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns - newscentermaine.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkFNRUYyN25CNk9RS0FCb01HQkhaLVZqam9sZ3c1eWJ0RC1adERLeWpxQjFFQ2hyNkEwZkRhQW8wblBCSVpZZGFncVE3cDJERkhLbFhNZEw5OGpROFp1TVdXeGJpSlRpOGVNMm5pWGhfbFVqX1hlaEQtN2RRcmtWY0NhLUJwLWNrc1Rlb20ybEZ0UllnR2ZySG5LZTR1eFJERXhoS0o5bmxVdDFxTUhkNXlzTzlHSFVObEpuSFdrMzlPMHhfRDZfVnFxY2VOZ2VzQTZPTzZ3?oc=5",
+      "summary": "Cyber attack causes internet outage, disrupting town offices, businesses in more than 20 Maine towns newscentermaine.com",
+      "published_at": "2026-07-20T20:14:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

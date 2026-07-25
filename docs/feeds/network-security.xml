@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 07:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:10:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security</title>
@@ -23,29 +23,15 @@ Attackers exploit critical Check Point flaw to take over firewall management (CV
     </item>
     <item>
       <title>[セキュリティ] ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution - CyberSecurityNews</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBRV09MSEgxSW92Ym1aUEFuUkRMWXZ2UG10TVpUbEZ0T3d2R3VWNklGVEVzYkFLd052cy0xUUpSTkV6aF9XSDBqUVlUQlVMQlowTE9BeGV2TzBYTldHUVFWMEIzaEhlN0phNVlVZnJsZGpfd9IBd0FVX3lxTE5lbDVWd0JscVREaEx4NXBZaE55elJqLVhvTnpZM2ZjWEVWX1RvdVJDeURfc05DXzdoU3VsSTFGd3BOaUJWeFpDRmZ6d291dUprRUl6cUF5MV9CaHlUSW5aZ3RWdllqcHJlRGVhNlAxSE96TjY3MVZv?oc=5</link>
-      <guid isPermaLink="false">d05251931db44e8729db045b</guid>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBRV09MSEgxSW92Ym1aUEFuUkRMWXZ2UG10TVpUbEZ0T3d2R3VWNklGVEVzYkFLd052cy0xUUpSTkV6aF9XSDBqUVlUQlVMQlowTE9BeGV2TzBYTldHUVFWMEIzaEhlN0phNVlVZnJsZGpfd9IBtgFBVV95cUxOSlI0QUE4T0JxbFdydmQxOWtvaUUya3pHbG5CeFFrWkc0TzVjMTJBWkdjZ0hqcWF2THQxMDRLb3BsN2RXVExkM3YxWkZ3NWtDbkhneUZzWG51QzNHN2RpZHRjTW4td3NHY0N2TF9wcVRtT1V2a1FtOFRvQWtGT3pITEpmb3FYaHd1cEo1UHdoZUxuNTFkZTBzb2hoSm9Bb2FSWmNfUGdpYnlkNEpHWGpEd2RLNDNKdw?oc=5</link>
+      <guid isPermaLink="false">c6cfa9ee13f9fb7a0ea48955</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-07-23 02:54
+元記事日付: 2026-07-23 02:30
 ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution CyberSecurityNews</description>
-      <pubDate>Wed, 22 Jul 2026 19:58:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-22T19:58:30.664789Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T17:54:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Security Advisory – Action Required – July 2026 Security Update - Check Point Blog</title>
-      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHNzRy02U0ExTUhEcXFJSGlBc2NUR0xlSzg5VWtTQlJ6SnpWUlpOUlFfR2NXRUgzM2I5MndaS09sNWlSUjRManNsLUJJanF2eFdxTkR3U1FVMk9mbU9TeHVnYzBWY2lmbkJfZjlCSVZ1TElFdURGWVdSMEwzeUZ1bFRYS0MwUmI1eFA5Y3hqM2dJT2U1T1JWQWpEQ0FxV0RFbk9Pa2RHNmZvT0MzQ1lqZmtRdVhIRDVUbkc5ZG1naXVlQnQ0cXZRX3lPLWRfZEtNTDlpMThLUi1OYzlzTy1Dbmx4MkFncFhmR0tPZg?oc=5</link>
-      <guid isPermaLink="false">027fd36e186822e9b380da36</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-07-22 16:01
-Security Advisory – Action Required – July 2026 Security Update Check Point Blog</description>
-      <pubDate>Fri, 24 Jul 2026 09:34:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-24T09:34:10.593448Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T07:01:58Z</sqm:sourcePublishedDate>
+      <pubDate>Sat, 25 Jul 2026 09:10:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-25T09:10:52.867105Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T17:30:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -60,6 +46,20 @@ Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands 
       <pubDate>Sat, 25 Jul 2026 04:26:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-25T04:26:07.254600Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-22T11:57:12Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Security Advisory – Action Required – July 2026 Security Update - Check Point Blog</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHNzRy02U0ExTUhEcXFJSGlBc2NUR0xlSzg5VWtTQlJ6SnpWUlpOUlFfR2NXRUgzM2I5MndaS09sNWlSUjRManNsLUJJanF2eFdxTkR3U1FVMk9mbU9TeHVnYzBWY2lmbkJfZjlCSVZ1TElFdURGWVdSMEwzeUZ1bFRYS0MwUmI1eFA5Y3hqM2dJT2U1T1JWQWpEQ0FxV0RFbk9Pa2RHNmZvT0MzQ1lqZmtRdVhIRDVUbkc5ZG1naXVlQnQ0cXZRX3lPLWRfZEtNTDlpMThLUi1OYzlzTy1Dbmx4MkFncFhmR0tPZg?oc=5</link>
+      <guid isPermaLink="false">027fd36e186822e9b380da36</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-07-22 16:01
+Security Advisory – Action Required – July 2026 Security Update Check Point Blog</description>
+      <pubDate>Fri, 24 Jul 2026 09:34:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-24T09:34:10.593448Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T07:01:58Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>

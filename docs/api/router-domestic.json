@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-25T07:01:21.767194Z",
+  "generated_at": "2026-07-25T09:10:50.751276Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -25,6 +25,17 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZ2hsMW13T3dwa2E0SXo3SXRwM0phRnFOYTJkdl9xYlZveFdnTlEtMGMwYW9iUi1PY2poVlk1R0RkRE1KZDJPNkZuaGJMNFd0S3lNNnhidmNmaXdKVGJnTVJUb0VNS1RzWW1IeHVnNDFZekU5OV9oRm04akREdw?oc=5",
       "summary": "16%引き！Wi-Fi 7対応トラベルルーター「ASUS RT-BE3600 Go」Amazonで特価【2026年7月25日（土）】 jetstream.blog",
       "published_at": "2026-07-25T04:44:23Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "c504aa2632dd669f2eaff4c4",
+      "title": "バッファロー製Wi-Fi 7ルーターがAmazon売上1位、1万2980円のエントリー機が人気 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QV1RZR3hKMkVqTTNmTEZLUU5vQlpVV3dSYWd1Vk1FNjFOSmN3SE9iMVBHX0t6SlYyb29UenEtSnBtczV3TGc1X3FqYWxLZnFOOUF5OVJKU1NJcFlSd1FtbHMtWTNvZkUycDRyMlpXWjJEMGVR?oc=5",
+      "summary": "バッファロー製Wi-Fi 7ルーターがAmazon売上1位、1万2980円のエントリー機が人気 BigGo ファイナンス",
+      "published_at": "2026-07-25T01:25:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "d4d0e56f02aa648feceab86e",
-      "title": "Wi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/7/20 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3U1pINW1PRmg0UURWSTNXU2JJOFg3VGpqb1BadUFBbldLNDRBNUNlbElKbUQ5c1d3Q0trN3dadjNJc0ZnbGhzLVNiN0dsVXlKVWxtdXdVc2RrQWpTWjl5X2hfbl8xTTQtb05mUUxkT2NhTTllRUNaTzdn?oc=5",
-      "summary": "Wi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/7/20 BCN Retail",
-      "published_at": "2026-07-20T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     }
   ]
 }
