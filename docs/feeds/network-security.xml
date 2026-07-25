@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 04:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:01:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security</title>
@@ -60,20 +60,6 @@ Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands 
       <pubDate>Sat, 25 Jul 2026 04:26:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-25T04:26:07.254600Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-22T11:57:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands - cyberpress.org</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CZU9WOUVPcGJtaHkxYllJMDZNNGV4QXlzVFRmT1RzVjVoZ0xiVHlPdnVtbDN4VHRRcGJWTFMydS1hY0hmcWs4dkJRUUZaMXMxU2dOaHdyV2doTEZMaldMbtIBYEFVX3lxTE5CZU9WOUVPcGJtaHkxYllJMDZNNGV4QXlzVFRmT1RzVjVoZ0xiVHlPdnVtbDN4VHRRcGJWTFMydS1hY0hmcWs4dkJRUUZaMXMxU2dOaHdyV2doTEZMaldMbg?oc=5</link>
-      <guid isPermaLink="false">13a58239a0bb73b1de2f51db</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-07-22 19:54
-Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands cyberpress.org</description>
-      <pubDate>Wed, 22 Jul 2026 19:58:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-22T19:58:30.664789Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T10:54:51Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
