@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-25T01:07:36.393603Z",
+  "generated_at": "2026-07-25T04:26:06.265059Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 12
     },
     {
+      "id": "e0cf8ab355bf9d4d63d186cc",
+      "title": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkQ0Q2k4Y3JDYjhpbkh2TjB2dG1DdmZOeFRYYVk1enVBU1Q1VGFkaDlnLUx6SG1yNEpUVFViZ2tzMmpaaEcwSXRBZFliWnVhMGQ0aEpGRGQ0M3p3Y2otbWJ3ZXVlWW1nUGY4SnhaUWVJd29kTHJHNmFRN1NtMGU1T1pJT0ZKbTlvWnlBSEd2X1o2bl80SkVFdlBsQU5GZUY4X2c?oc=5",
+      "summary": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off PCMag",
+      "published_at": "2026-07-16T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "14a9fbc19bf57f5760b0f8d7",
       "title": "Your Wi-Fi router could be helping Russian hackers, confirms US government in new warning - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON3lVZy1VOG5CVXNOcDB3aGRCSW1Zb0NIcDJiWUc2UlBORjQ4aWliOElQaXcyMDV5WTJJSEtIZDRuUzdfWTE1Y0RnQ1BwNzZ5TW5EVkFFWmlBY3FNQ0R4cTVrRFFkTHA5bzdOYi01elAzV01IMDdPMXR3Ny14VThPazdldGFKajNSS01TSF91RW5lRWxvaDRPVms5RVBKY0RjRk83bmxLZEdWRGZVdENNeG8tcGxZaXUxQWdNakdsRjVEeDJETW92aDJ5ZlhrMEVJUV9F?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxOTVLaUM3bk1naWtlcV9UWDhZM0RHdlNDcWxNSFo3SE1JTkdHcVVfNUxIYVh4b0ZueWxKT0E4OFFVUFYzbFMxT0ZvWlJkZ3hYSDF1Sk1CVTNBWm5hb095RUx3?oc=5",
       "summary": "Wi-Fi 6 vs Wi-Fi 7 RTINGS.com",
       "published_at": "2026-07-21T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "b06fc19742e342a65faa9c44",
-      "title": "5 reasons I’d always choose mesh Wi-Fi over a traditional router - MSN",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2NheVd1enF2aTlFaElNMk5naGowZHM2MU9rUmMyTUFwbDQteVpWTUpQZGxESC04Q3VScUt4ckxaSDIzTmk0ZlVOaUJoamVQTlBBc3FldnYtVmt3ZUpTMy1KSkU0dklPc05wMi14RHlhc3hsbUJ5a1BCdVlyaDlnTnVxbi1RZkVLRnVDMDcta29WWGdnN1VvQm1JU1M3LTU2b1p1UUFlU1pvbW0xWVRDSm9IRkRPZFFjOFVxdTRB?oc=5",
-      "summary": "5 reasons I’d always choose mesh Wi-Fi over a traditional router MSN",
-      "published_at": "2026-07-20T23:40:26Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
