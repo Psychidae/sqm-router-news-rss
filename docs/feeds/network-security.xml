@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 11:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:59:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security</title>
@@ -36,20 +36,6 @@ ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution Cyb
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands - gbhackers.com</title>
-      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ka0FiMFo3emx3TnBhZ2RIZHd5R1FoUThtYklfYVZ3Um9BNWRCYjVVNDFyMFExREE1dXp4YzF5LUkzS1djekZrVFdadjhxLWZKU1VJM3EtSG9RY0I50gFiQVVfeXFMTS1aNWd3TG9POWE4cXc0RjhUczZrVzc2cnBjWDc2Um44cWxmN0dUMUY2T2dpdnFKWVpWSVFqa201d05JcTJDRkl5V0hZZHpqN0o1SmpSNTY4MWplWnQ1NGJFaGc?oc=5</link>
-      <guid isPermaLink="false">820968116a7c6881c3475f7a</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-07-22 20:57
-Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands gbhackers.com</description>
-      <pubDate>Sat, 25 Jul 2026 04:26:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-25T04:26:07.254600Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T11:57:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] Security Advisory – Action Required – July 2026 Security Update - Check Point Blog</title>
       <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHNzRy02U0ExTUhEcXFJSGlBc2NUR0xlSzg5VWtTQlJ6SnpWUlpOUlFfR2NXRUgzM2I5MndaS09sNWlSUjRManNsLUJJanF2eFdxTkR3U1FVMk9mbU9TeHVnYzBWY2lmbkJfZjlCSVZ1TElFdURGWVdSMEwzeUZ1bFRYS0MwUmI1eFA5Y3hqM2dJT2U1T1JWQWpEQ0FxV0RFbk9Pa2RHNmZvT0MzQ1lqZmtRdVhIRDVUbkc5ZG1naXVlQnQ0cXZRX3lPLWRfZEtNTDlpMThLUi1OYzlzTy1Dbmx4MkFncFhmR0tPZg?oc=5</link>
       <guid isPermaLink="false">027fd36e186822e9b380da36</guid>
@@ -60,6 +46,20 @@ Security Advisory – Action Required – July 2026 Security Update Check Point 
       <pubDate>Fri, 24 Jul 2026 09:34:10 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-24T09:34:10.593448Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-22T07:01:58Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands - gbhackers.com</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ka0FiMFo3emx3TnBhZ2RIZHd5R1FoUThtYklfYVZ3Um9BNWRCYjVVNDFyMFExREE1dXp4YzF5LUkzS1djekZrVFdadjhxLWZKU1VJM3EtSG9RY0I50gFiQVVfeXFMTS1aNWd3TG9POWE4cXc0RjhUczZrVzc2cnBjWDc2Um44cWxmN0dUMUY2T2dpdnFKWVpWSVFqa201d05JcTJDRkl5V0hZZHpqN0o1SmpSNTY4MWplWnQ1NGJFaGc?oc=5</link>
+      <guid isPermaLink="false">820968116a7c6881c3475f7a</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-07-22 20:57
+Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands gbhackers.com</description>
+      <pubDate>Sat, 25 Jul 2026 04:26:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-25T04:26:07.254600Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T11:57:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>

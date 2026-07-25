@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-25T11:47:41.220160Z",
+  "generated_at": "2026-07-25T13:59:14.967065Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "8db5b59427773353afc61740",
+      "title": "Buffalo's Wi-Fi 7 Router Tops Amazon Japan Sales; Entry-Level Model Priced at ¥12,980 Gains Popularity - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiNy1tbWRvY29CaFprSTRCeXpxcXBzOENoLXFQbG1sdEc1bTRwQ1hMY2syV2xtRjVpTWN1cFQ4NTRuN28yVDBZTUpDQkdQUlBLZ2I4ZkJrZ0FnWnJ2VWpMYUhyTXBZZi0zYWEwR0pRYkdpeWkxYmc?oc=5",
+      "summary": "Buffalo's Wi-Fi 7 Router Tops Amazon Japan Sales; Entry-Level Model Priced at ¥12,980 Gains Popularity finance.biggo.com",
+      "published_at": "2026-07-25T01:25:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "f57784f1514cbdbb0ad0b521",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejk4aG5BenlrRUFNb0FDMG5yNU9uYjVPbWlCTVJiVGdzV3JQLUhtWllJbjZVVWpVbXJqdDF0X1NIYU1reVI4TUw2MGFCbGxJZEtfZDQ2Vm1qUS1yTjNfa0VZR3AtVzFVaEFublhwemZNa21MeEk2cnYyN0NlSHYxTEIxd2RRZjhpbWE1SEpaRlVCNW5DN0x5UG1uUUdqcEF0WWw1emp5eU1fbTI3Znc?oc=5",
       "summary": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? Gizmodo",
       "published_at": "2026-07-21T12:10:55Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "2f520c94fdd01ee7860f1ae2",
-      "title": "Wi-Fi 6 vs Wi-Fi 7 - RTINGS.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxOTVLaUM3bk1naWtlcV9UWDhZM0RHdlNDcWxNSFo3SE1JTkdHcVVfNUxIYVh4b0ZueWxKT0E4OFFVUFYzbFMxT0ZvWlJkZ3hYSDF1Sk1CVTNBWm5hb095RUx3?oc=5",
-      "summary": "Wi-Fi 6 vs Wi-Fi 7 RTINGS.com",
-      "published_at": "2026-07-21T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
