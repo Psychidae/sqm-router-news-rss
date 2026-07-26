@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 13:55:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:18:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5</link>
+      <guid isPermaLink="false">d8758363d22ed5d064635106</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-26 17:21
+AnMed: Emergency rooms open despite phone, internet outage WSPA 7News</description>
+      <pubDate>Sun, 26 Jul 2026 15:18:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-26T15:18:51.735931Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-26T08:21:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5zNEZNUlk1VDF1TXh0VmU4QXBjeWZESW4tZHlRYzktbE1QcHJvbFZzekY5eFktZmM4SE1wSXNmWm85b3dldlgxSmF2TUxKZFlObDhYRXNLZTdHVW1CeHRSN1VMWmg4VUp6NmlfVzVqRDkzMGJ1YUJiQXV5QlJvYVE?oc=5</link>
@@ -130,20 +144,6 @@ Fresno County internet outage limits public services as IT works to restore acce
       <pubDate>Tue, 21 Jul 2026 03:41:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-21T03:41:33.003204Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-21T00:00:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Widespread Internet Outage Impacts More Than 20 Maine Towns - Newsradio WGAN |</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5</link>
-      <guid isPermaLink="false">6035e3126f964886291fa6d4</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-21 08:13
-Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</description>
-      <pubDate>Sun, 26 Jul 2026 06:47:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-26T06:47:05.448877Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T23:13:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

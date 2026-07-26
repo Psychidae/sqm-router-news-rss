@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-26T13:55:28.505483Z",
+  "generated_at": "2026-07-26T15:18:51.736891Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "d8758363d22ed5d064635106",
+      "title": "AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5",
+      "summary": "AnMed: Emergency rooms open despite phone, internet outage WSPA 7News",
+      "published_at": "2026-07-26T08:21:13Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "098da889dc75fbdaf8e035d7",
       "title": "AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazFCUl9OVzdqdjVjMGlkZ0FDT1M2dTRXZGxGX3ZnOWpsMGppVGlxWWduTVRRUWJVbXZoZ1ExeUt6bWZYNmI2eWxZWmlyaGpWR1hNam9pM2hkOXBfTWJBNFhpRFhjWGFVQXZmR2NwYS15ak93eUsyRmJXd3dNdUJRQ2ZUczFpWHRFZmdSR252aHB4TW44cUNJZ0w2MENmcnlqNkVoOGEzMFIzXzhRTFQw?oc=5",
       "summary": "Fresno County internet outage limits public services as IT works to restore access kmph.com",
       "published_at": "2026-07-21T00:00:24Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "6035e3126f964886291fa6d4",
-      "title": "Widespread Internet Outage Impacts More Than 20 Maine Towns - Newsradio WGAN |",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5",
-      "summary": "Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |",
-      "published_at": "2026-07-20T23:13:11Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
