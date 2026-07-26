@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 23:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:11:24 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT and T Internet Outage Leaves Thousands of Customers Without Service in Several Areas - chshyd.in</title>
@@ -19,6 +19,20 @@ AT and T Internet Outage Leaves Thousands of Customers Without Service in Severa
       <sqm:firstSeenDate>2026-07-24T11:23:11.164410Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-24T09:57:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] プロバイダーに回線遅延の証拠を出すため、ラズパイで速度を24時間記録 - FabScene</title>
+      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1CeTRfdVFtNXQ3RGtPQmlnMDZ2c01Gc3dMMlY4YlZWc3FEcDVITjIxVlhXeHhJMjRXOEtqVURtblNyNldfRk04dEpHOW5CNV9YRVZuVm43RlFLN2xNcW9ZY045dWpqcjZDbzZLY0xHM0JKUU3SAXhBVV95cUxQdWhrbm5IS3dZN2w2Nk9jLUNPTWZHSU1PS1JubGhETDRralk1Q3ZWRlppdEo0Q0poVXZKVE0xWTUwaTZGVmwxZTZ5b1A2Z0lOdTFsSERwaWthR3VVSy03SXQxMFBZZWtjMjZ6bWFsaUJDSGEteTRkdUo?oc=5</link>
+      <guid isPermaLink="false">fb495f011f1ba2094c3d8f61</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-24 10:59
+プロバイダーに回線遅延の証拠を出すため、ラズパイで速度を24時間記録 FabScene</description>
+      <pubDate>Sun, 26 Jul 2026 00:11:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-26T00:11:24.629754Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-24T01:59:52Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Fresno County internet outage limits public services as IT works to restore acce
       <pubDate>Tue, 21 Jul 2026 03:41:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-21T03:41:33.003204Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-21T00:00:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Widespread Internet Outage Impacts More Than 20 Maine Towns - Newsradio WGAN |</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkJ6aU40S3VyeERBdTRHVE1TOXpxSU5EUlhmT3RhMjdoREpZOF9DVDZJbU9rZTg1QkhVUmtFcnR6RDRaME5ka2tNS19HTW1DbHkyQV9rSnVCRUFxMVJJQ0RrZElHTGxkam5rVGhacURuVnZNY05BeW90WXhQUmt6Tnhad2I4Z2d5MlhZRUFFTXIyM0U?oc=5</link>
-      <guid isPermaLink="false">6035e3126f964886291fa6d4</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-21 08:13
-Widespread Internet Outage Impacts More Than 20 Maine Towns Newsradio WGAN |</description>
-      <pubDate>Fri, 24 Jul 2026 23:41:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-24T23:41:34.288281Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-20T23:13:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
