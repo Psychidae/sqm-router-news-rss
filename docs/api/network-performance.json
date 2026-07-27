@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-27T11:36:22.499256Z",
+  "generated_at": "2026-07-27T13:56:24.228042Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,15 +9,15 @@
   "errors": [],
   "items": [
     {
-      "id": "1b608b07f5e8d3d49e6cd718",
+      "id": "113908040d894c355b031d08",
       "title": "AnMed: cybersecurity disruption causes phone, internet outage - WSPA 7News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWprUmJiWVp1YXZMUUJUcGxoNEZJWU80NlgxYWhuQVZCUnJQOVFvSEhiaER5NGJMQS0ycTg4NUlaR25hOHhFSzVGUnZ1Q1g3cXFTaFdJMFBkZEx1bS1GcmN3TktyLXFEY2hLd3VBcGpBQWdCeUEydV9Ca0paQ3EydlkxWUFfY3l5NEZZ0gGQAUFVX3lxTE5LSnY2emlRUWswX0paQ2xWOUdRNTE2bXcwRzU0eUtRTk9JbUdrc0d6NU1VX2Q0NnkyYm53eTRaTGlmUzFDWmJPWWZyd2ZKXzV5TVR6MzZPcW80SUkwYUNyUV9YekUyWW85UnZ5Z3V4eXNyVXNBRnlHU0FWNkxUZHc3Q2JMSC1fTnYwSTNxbTM1Tw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWprUmJiWVp1YXZMUUJUcGxoNEZJWU80NlgxYWhuQVZCUnJQOVFvSEhiaER5NGJMQS0ycTg4NUlaR25hOHhFSzVGUnZ1Q1g3cXFTaFdJMFBkZEx1bS1GcmN3TktyLXFEY2hLd3VBcGpBQWdCeUEydV9Ca0paQ3EydlkxWUFfY3l5NEZZ?oc=5",
       "summary": "AnMed: cybersecurity disruption causes phone, internet outage WSPA 7News",
       "published_at": "2026-07-26T12:21:13Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "c9fa025b7c18fd7ca9cc4444",
