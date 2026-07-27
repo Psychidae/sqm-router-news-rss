@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-27T00:10:37.826684Z",
+  "generated_at": "2026-07-27T03:59:00.691690Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -49,17 +49,6 @@
       "published_at": "2026-07-23T13:30:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "e0cf8ab355bf9d4d63d186cc",
-      "title": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkQ0Q2k4Y3JDYjhpbkh2TjB2dG1DdmZOeFRYYVk1enVBU1Q1VGFkaDlnLUx6SG1yNEpUVFViZ2tzMmpaaEcwSXRBZFliWnVhMGQ0aEpGRGQ0M3p3Y2otbWJ3ZXVlWW1nUGY4SnhaUWVJd29kTHJHNmFRN1NtMGU1T1pJT0ZKbTlvWnlBSEd2X1o2bl80SkVFdlBsQU5GZUY4X2c?oc=5",
-      "summary": "Level Up Your Connection With This Refurbished Wi-Fi 7 Router for 33% Off PCMag",
-      "published_at": "2026-07-16T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
+    },
+    {
+      "id": "73f546cb254e5c2d2c3239ac",
+      "title": "Upgrade your home WiFi with this versatile $167 ASUS router - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDdBY2w4Rko0MVhNT0FHaTk5bVJXdkNadnBzWkJBWURWZmZNVmg0Qmc0TXRUQnREUGNiQUFYanZRVjJ2anM2ajJtaHVJMjlHd2JWbUFKa29YSzVQY2lPZXotdUV5aE1QWFNQdktRSFFJWnAzVXZYZnIyZHdaSXQxTElZV04?oc=5",
+      "summary": "Upgrade your home WiFi with this versatile $167 ASUS router Mashable",
+      "published_at": "2026-07-17T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
