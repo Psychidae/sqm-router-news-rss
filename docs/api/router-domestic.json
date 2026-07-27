@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-27T03:58:59.653932Z",
+  "generated_at": "2026-07-27T11:36:19.460827Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,11 +31,44 @@
       "score": 13
     },
     {
-      "id": "1501c1ba591c085c40c29e09",
-      "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cy1KMHgtQ0pXTUY0MWtqM0lHTUVMQUF6VW5qVlUxRlhMY0F6dkNWRjJ0bnhKSzZUWklKTW8waG1FRS1Ba2FkUUxEcXJaTlc3ODhvSnhfc3BibnlVNnA5RHBtV2Y5S0ZkQ1ZkaW83YTNLS2w4SzZOaUVrb3LSAYIBQVVfeXFMTWZYZlFNWjdDbkZudHZKaDFmQXhmNVpNZ0RPdS1kaW1hOF9oRmx6bkZOQTcxaWp4bkRzRWM3SzZTcm52LVZNMWJETnN0SGJvT3d2MmlVVnctNTNKU042Y0p6VFdqNFAwemF3Wm5mblBjYTREY1oxRzVjNHlwYm56Zms1UQ?oc=5",
-      "summary": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 ｄメニューニュース",
+      "id": "1bbdfaebc32b589ef62d7035",
+      "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUzc0cVJiZXZWMVpjNTA3YmkyaTNHbXNVQWVHSjhoaU9wWWFvek9vclZpZlZBa3AzRGxGcWg5czVjd1ZLMnVzV3R2bDhHRDZXRVJCZmRJdElKc1ZJN0hjUTFBdmJkR3F4TExqVmFMNWNnb1k0cVZhYVh4RVZuY2c?oc=5",
+      "summary": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27（BCN） Yahoo!ニュース",
       "published_at": "2026-07-27T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "7a5dba7571bf40f6ad5e1179",
+      "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ic3pfV0pidUxMTEMyaEtyUm9OS2hXbDRLQmhKbU5DZl91UWxmb3JpcUYtYWFNUWFxTTJmZXlNQ1pfUy16OHMxWXA3elAtZUJ6elFKQ1V1QWw3T3ZBYmY0eUpTcmxXa0hNcWlyb0lTaFZjVlc1LVE?oc=5",
+      "summary": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 BCN Retail",
+      "published_at": "2026-07-27T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "350e85197bac937ab5eb9df7",
+      "title": "【本日7月27日 20時配信】「JC-STAR★1」付きのWi-Fiルーターってなにが違う？ NEC Aterm 7200D8BEで検証して見えたその違いをライブで解説【清水理史の「イニシャルB」チャンネル】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POUFpQXZ3RDRJZDJxVlF4THFaSmtwcUdYVVg4V3VWVXVkbmp4bHZ5UzVfenFScmUycURWbzhqTmZ3aVNEeWp3N242Q0NBR3lVV01vc2Zmb2VVYTJZUVBnSnIzQ1JJZ0NaVjIxU3lBMW50c3VpRXpCX1dvU05MQnM?oc=5",
+      "summary": "【本日7月27日 20時配信】「JC-STAR★1」付きのWi-Fiルーターってなにが違う？ NEC Aterm 7200D8BEで検証して見えたその違いをライブで解説【清水理史の「イニシャルB」チャンネル】 INTERNET Watch",
+      "published_at": "2026-07-26T21:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "c65abd089c61190c30429f10",
+      "title": "Gaming ゲーム環境での通信を改善するASUSゲーミングルーター“TUF ASUSのルーターのおすすめ人気ランキングゲーミングルーターを ASUS ASUS、Wi-Fi 6対応のゲーミングルーター「TUF-AX5400」を本日9⁄10 Rapture ASUS、最大3603Mbpsのゲーミングルーター「TUF A - lechodelabaie.fr",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVVg5QzlvX3R0Q1NXWXNRbHlxVWw4R2hTa2ZYak14Z0Q0ZzA3TmsxcjNuVl85d3lMSlRHd2F4azNDQlR2bjRiejhCZFZicjJ5cUhwVlgyLWlFLWNIS1FWdVZKMi1JTThvdjJvRDd3UlloXzN1bnNr?oc=5",
+      "summary": "Gaming ゲーム環境での通信を改善するASUSゲーミングルーター“TUF ASUSのルーターのおすすめ人気ランキングゲーミングルーターを ASUS ASUS、Wi-Fi 6対応のゲーミングルーター「TUF-AX5400」を本日9⁄10 Rapture ASUS、最大3603Mbpsのゲーミングルーター「TUF A lechodelabaie.fr",
+      "published_at": "2026-07-26T17:45:53Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -62,39 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "409fa288789125ed7000fb1f",
-      "title": "Wi-Fiルーターやロボット掃除機などTP-Link製品が最大70%オフ！楽天お買い物マラソン - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamlkR2phWFZvd2JZNmlBaE9KSi1HVlI2YmdYbnh1ZGszSDZyWUpoVWZtZ3NKZ1ZRcElLWk54MGwtUHhDZHJNS09ZYmJadnZPMENMMklFVzh0RmVOX2NnYkQ5aF9ndTd1N1RmVW5pSFJJODJXNFlPTFJ1dGxTNkotdg?oc=5",
-      "summary": "Wi-Fiルーターやロボット掃除機などTP-Link製品が最大70%オフ！楽天お買い物マラソン AKIBA PC Hotline!",
-      "published_at": "2026-07-24T23:05:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "78860b110952c14600865e06",
-      "title": "バッファロー、外付けHDDやWi-Fiルーターなど105製品で最大42.5％の値上げ (ITmedia PC USER) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWR1VEE0OUxUSVg4UTljZzIzYzhiNXoycEMwY3pZNVNxbmlhdGFWX0VYbXdRb2cwcGR1akhJUGl6MG9JckQxd0NraTdaT05mTHYzc2d6QjRXdHpvZ19iOXdScnFUZE9Qc3pfYmhkTDUwQmFVVkxqX29EbE04ZDdKaHB6NUE4T0o3QWxwNnR3?oc=5",
-      "summary": "バッファロー、外付けHDDやWi-Fiルーターなど105製品で最大42.5％の値上げ (ITmedia PC USER) Yahoo!ニュース",
-      "published_at": "2026-07-23T10:30:11Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "68c9b37ea8e413ea040dae46",
-      "title": "バッファロー、外付けHDDやWi-Fiルーターなど105製品で最大42.5％の値上げ（1/2 ページ） - ITmedia PC USER - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jWnRiTGNEcE9FSEhyU243UUJVQ1BhcnVFbnY2UzZqRUhwbTBWLUJNZzNIVFFnM1pZdXZzSlJScklKc2VGbUk5OGpZS0VSdzhXYTlUSUI3OGl1NHhHaEd1aVFoT2xob1YtVHNNNGU1UdIBaEFVX3lxTFBsV2toRFowa212VEhXWm80ZmVCeWNSMnRwalV1eEM2aE5hdnUtZ3UyVXEtaVNMTHgyTzZKUHg1SEFwRnNzZ0xfNTlSQkQxSkNCVnV0OW9wREhJRmZaaDRZUDh5UUhuQTda?oc=5",
-      "summary": "バッファロー、外付けHDDやWi-Fiルーターなど105製品で最大42.5％の値上げ（1/2 ページ） - ITmedia PC USER ITmedia",
-      "published_at": "2026-07-23T10:25:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     }
   ]
 }

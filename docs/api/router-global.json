@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-27T03:59:00.691690Z",
+  "generated_at": "2026-07-27T11:36:20.488531Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -82,17 +82,6 @@
       "published_at": "2026-07-21T18:53:35Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "034e3f355bd69375be652e7d",
-      "title": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPejk4aG5BenlrRUFNb0FDMG5yNU9uYjVPbWlCTVJiVGdzV3JQLUhtWllJbjZVVWpVbXJqdDF0X1NIYU1reVI4TUw2MGFCbGxJZEtfZDQ2Vm1qUS1yTjNfa0VZR3AtVzFVaEFublhwemZNa21MeEk2cnYyN0NlSHYxTEIxd2RRZjhpbWE1SEpaRlVCNW5DN0x5UG1uUUdqcEF0WWw1emp5eU1fbTI3Znc?oc=5",
-      "summary": "Why Settle for WiFi 6 When TP-Link’s Tri-Band WiFi 7 Router Is 40% Off on Amazon? Gizmodo",
-      "published_at": "2026-07-21T12:10:55Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
     },

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 03:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 11:36:21 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
@@ -37,16 +37,30 @@ Attackers exploit critical Check Point flaw to take over firewall management (CV
     </item>
     <item>
       <title>[セキュリティ] ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution - CyberSecurityNews</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBRV09MSEgxSW92Ym1aUEFuUkRMWXZ2UG10TVpUbEZ0T3d2R3VWNklGVEVzYkFLd052cy0xUUpSTkV6aF9XSDBqUVlUQlVMQlowTE9BeGV2TzBYTldHUVFWMEIzaEhlN0phNVlVZnJsZGpfd9IBtgFBVV95cUxOSlI0QUE4T0JxbFdydmQxOWtvaUUya3pHbG5CeFFrWkc0TzVjMTJBWkdjZ0hqcWF2THQxMDRLb3BsN2RXVExkM3YxWkZ3NWtDbkhneUZzWG51QzNHN2RpZHRjTW4td3NHY0N2TF9wcVRtT1V2a1FtOFRvQWtGT3pITEpmb3FYaHd1cEo1UHdoZUxuNTFkZTBzb2hoSm9Bb2FSWmNfUGdpYnlkNEpHWGpEd2RLNDNKdw?oc=5</link>
-      <guid isPermaLink="false">c6cfa9ee13f9fb7a0ea48955</guid>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTFBRV09MSEgxSW92Ym1aUEFuUkRMWXZ2UG10TVpUbEZ0T3d2R3VWNklGVEVzYkFLd052cy0xUUpSTkV6aF9XSDBqUVlUQlVMQlowTE9BeGV2TzBYTldHUVFWMEIzaEhlN0phNVlVZnJsZGpfd9IBd0FVX3lxTE5lbDVWd0JscVREaEx4NXBZaE55elJqLVhvTnpZM2ZjWEVWX1RvdVJDeURfc05DXzdoU3VsSTFGd3BOaUJWeFpDRmZ6d291dUprRUl6cUF5MV9CaHlUSW5aZ3RWdllqcHJlRGVhNlAxSE96TjY3MVZv?oc=5</link>
+      <guid isPermaLink="false">d05251931db44e8729db045b</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-07-23 02:30
 ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution CyberSecurityNews</description>
-      <pubDate>Sat, 25 Jul 2026 09:10:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-25T09:10:52.867105Z</sqm:firstSeenDate>
+      <pubDate>Mon, 27 Jul 2026 11:36:21 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-27T11:36:21.501856Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-22T17:30:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] ASUSがルーターの重大な脆弱性に対するパッチをリリース。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1VzX0txRk5MWkppdmxWMkc5d19oSERDQlpOLTRuNmdzTmdobkw2bE4zeFozSlpUUm1xamhsR2R3YWE3Q2xEZmRXSWRqaUlYc3NFUW9tVkRIeWZJUkJlVURyWXF1dnNENV9OY0t3VTdfWEktbk5sMGJCYlBUSGZlS0duWFZvYkR1amhZMUp0VFBjeWJNZlBN?oc=5</link>
+      <guid isPermaLink="false">52498aa7656a13bf62cd663e</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-07-27 09:56
+ASUSがルーターの重大な脆弱性に対するパッチをリリース。 Vietnam.vn</description>
+      <pubDate>Mon, 27 Jul 2026 11:36:21 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-27T11:36:21.501856Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-27T00:56:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -69,11 +83,11 @@ Security Advisory – Action Required – July 2026 Security Update Check Point 
       <guid isPermaLink="false">820968116a7c6881c3475f7a</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-07-22 20:57
+元記事日付: 2026-07-22 19:04
 Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands gbhackers.com</description>
       <pubDate>Sat, 25 Jul 2026 04:26:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-25T04:26:07.254600Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-22T11:57:12Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-07-22T10:04:38Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
