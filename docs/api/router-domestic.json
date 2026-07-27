@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-27T18:12:13.607222Z",
+  "generated_at": "2026-07-27T19:52:35.129856Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "752d9da6f5438b57b37cda5b",
-      "title": "【バッファロー】「nasne（ナスネ）」が1500円オフ ストレージやWi-Fiルーター、パソコン周辺機器がセール価格に【Amazon 初売り】 | レコーダー Fav-Log by ITmedia - ねとらぼ",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14LXlDcTF3UXdRdVM5Q3E1dVBxWlE2S1BqbjYwalhMeFB2S1F6N1U3ckE4X0p1STRUUlZ4MmZsa3hwQnVDVFNBcDdFSmluZTNKQjVhRG9WaU9MQm1p0gFiQVVfeXFMTUZkemZwZ0REM19WeXNia1hWVTFsNDBfRm5qWUlsX1BEYTY4VDFzcXlzTTlrVWpBTFd4M245WERheFduOVpwdDlvdWRFTjBuX2Z6UXlJbk9Ed3F2NmZTTkNiT3c?oc=5",
-      "summary": "【バッファロー】「nasne（ナスネ）」が1500円オフ ストレージやWi-Fiルーター、パソコン周辺機器がセール価格に【Amazon 初売り】 | レコーダー Fav-Log by ITmedia ねとらぼ",
-      "published_at": "2026-07-14T09:29:37Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
     {
       "id": "c0d2a5d5f51de4cbb79cc572",
       "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 - BCN Retail",
@@ -80,6 +69,17 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVVg5QzlvX3R0Q1NXWXNRbHlxVWw4R2hTa2ZYak14Z0Q0ZzA3TmsxcjNuVl85d3lMSlRHd2F4azNDQlR2bjRiejhCZFZicjJ5cUhwVlgyLWlFLWNIS1FWdVZKMi1JTThvdjJvRDd3UlloXzN1bnNr?oc=5",
       "summary": "Gaming ゲーム環境での通信を改善するASUSゲーミングルーター“TUF ASUSのルーターのおすすめ人気ランキングゲーミングルーターを ASUS ASUS、Wi-Fi 6対応のゲーミングルーター「TUF-AX5400」を本日9⁄10 Rapture ASUS、最大3603Mbpsのゲーミングルーター「TUF A lechodelabaie.fr",
       "published_at": "2026-07-26T17:45:53Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "e545569a4e014457aadf8004",
+      "title": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObURBOGRfMGVVWml3NEFWTFlMN2F6SzhRUGZlMEFybXVvM3k5Q3B1X0d3LVhzZ3AwcjY3Q09xVUlFZGR1cUV1N1VQclBZaGZQY0YwaFJOeGxoSUxtVG5TaFZ5MzZxYUdhck8wM3VzNnNDWFRPOGpRalRJNmZMel9vZXR3a1g5aFhKZHNwR0JUOXFkZXdDelE?oc=5",
+      "summary": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 Vietnam.vn",
+      "published_at": "2026-07-26T03:41:06Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
