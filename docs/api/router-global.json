@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-27T19:52:36.419384Z",
+  "generated_at": "2026-07-27T21:21:33.565123Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 10,
   "errors": [],
   "items": [
     {
@@ -31,6 +31,17 @@
       "score": 15
     },
     {
+      "id": "8db5b59427773353afc61740",
+      "title": "Buffalo's Wi-Fi 7 Router Tops Amazon Japan Sales; Entry-Level Model Priced at ¥12,980 Gains Popularity - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiNy1tbWRvY29CaFprSTRCeXpxcXBzOENoLXFQbG1sdEc1bTRwQ1hMY2syV2xtRjVpTWN1cFQ4NTRuN28yVDBZTUpDQkdQUlBLZ2I4ZkJrZ0FnWnJ2VWpMYUhyTXBZZi0zYWEwR0pRYkdpeWkxYmc?oc=5",
+      "summary": "Buffalo's Wi-Fi 7 Router Tops Amazon Japan Sales; Entry-Level Model Priced at ¥12,980 Gains Popularity finance.biggo.com",
+      "published_at": "2026-07-25T01:25:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "f57784f1514cbdbb0ad0b521",
       "title": "Say Hello to a Better Signal With 36% Off This TP-Link Wi-Fi 7 Router - PCMag",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tGQm05Mm9lZFBuMUF1ZzhZWDhJUWgtVWl2Q0VPbHphSDZNT2k3Zm5VQ2lhYXFVcEo5NklNQVgzYXhpRmZZNWFMV25LSjhaM1RtSk15T3gwTzEtZDd0V2J3X2E3MDd5dUo4YUJFdUNhV2I1ZmdjaVlDM1hfcVpWMlQ3MzIyc2t1QXU3Z2kyMEQ1UjE0NndrZ1hUUlVQZw?oc=5",
@@ -39,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "6291f98193eb415339e9a910",
