@@ -5,20 +5,48 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:33:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
+      <title>[性能・障害] Spectrum Restores Service Following 18-Hour Internet Outage Across Area - Daily Dodge</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQdi1zeE5TVXg5MUVtdnFTUGdMbnBZVnBzNzZQajhBVEUyRk1OaUdFQVpNVkx5RmkyYW1GcUlPd05iTFZScXZpcm02d3ByTGNaNUJjWnE5VlRLOF8teFc5VXl1S2ZOMTIxSHl3a3JkakNyZG9pZVBZT2xjeHp5MTRRU2c4ckU4T0pFNGFqTjUzd19KUDhjb1djV0dEcw?oc=5</link>
+      <guid isPermaLink="false">cdfb0697dc59dc687752cecc</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-27 20:22
+Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Dodge</description>
+      <pubDate>Mon, 27 Jul 2026 16:33:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-27T16:33:02.406872Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-27T11:22:07Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] AnMed: cybersecurity disruption causes phone, internet outage - WSPA 7News</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWprUmJiWVp1YXZMUUJUcGxoNEZJWU80NlgxYWhuQVZCUnJQOVFvSEhiaER5NGJMQS0ycTg4NUlaR25hOHhFSzVGUnZ1Q1g3cXFTaFdJMFBkZEx1bS1GcmN3TktyLXFEY2hLd3VBcGpBQWdCeUEydV9Ca0paQ3EydlkxWUFfY3l5NEZZ?oc=5</link>
-      <guid isPermaLink="false">113908040d894c355b031d08</guid>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWprUmJiWVp1YXZMUUJUcGxoNEZJWU80NlgxYWhuQVZCUnJQOVFvSEhiaER5NGJMQS0ycTg4NUlaR25hOHhFSzVGUnZ1Q1g3cXFTaFdJMFBkZEx1bS1GcmN3TktyLXFEY2hLd3VBcGpBQWdCeUEydV9Ca0paQ3EydlkxWUFfY3l5NEZZ0gGQAUFVX3lxTE5LSnY2emlRUWswX0paQ2xWOUdRNTE2bXcwRzU0eUtRTk9JbUdrc0d6NU1VX2Q0NnkyYm53eTRaTGlmUzFDWmJPWWZyd2ZKXzV5TVR6MzZPcW80SUkwYUNyUV9YekUyWW85UnZ5Z3V4eXNyVXNBRnlHU0FWNkxUZHc3Q2JMSC1fTnYwSTNxbTM1Tw?oc=5</link>
+      <guid isPermaLink="false">1b608b07f5e8d3d49e6cd718</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-26 21:21
 AnMed: cybersecurity disruption causes phone, internet outage WSPA 7News</description>
-      <pubDate>Mon, 27 Jul 2026 13:56:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T13:56:24.227414Z</sqm:firstSeenDate>
+      <pubDate>Mon, 27 Jul 2026 16:33:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-27T16:33:02.406872Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-26T12:21:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-26 04:10
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Mon, 27 Jul 2026 11:36:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-27T11:36:22.498242Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-25T19:10:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -116,34 +144,6 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <pubDate>Sat, 25 Jul 2026 13:59:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-25T13:59:16.851655Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-23T23:58:57Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-24 07:51
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Mon, 27 Jul 2026 11:36:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T11:36:22.498242Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-23T22:51:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] NetworkManager 1.58 リリース：IPv6移行技術CLATとGENEVEトンネルを新たにサポート - BigGo ファイナンス</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9EdTdobHhXS2lxdlJxS1ZzU01ab2hRS2E5Y192QlpiU0hRR2hQekRiUDdVYndBQ0R4VnY1WlBDa0hPRV83cjh5SWVPNndkUHlWb3JwdS1RVnZobnhYNGZjMjIyTGhUWHZQRThXZlFqbWRQWGl2?oc=5</link>
-      <guid isPermaLink="false">49263f3e894e98c6e192e235</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-21 13:05
-NetworkManager 1.58 リリース：IPv6移行技術CLATとGENEVEトンネルを新たにサポート BigGo ファイナンス</description>
-      <pubDate>Mon, 27 Jul 2026 11:36:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T11:36:22.498242Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-21T04:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
