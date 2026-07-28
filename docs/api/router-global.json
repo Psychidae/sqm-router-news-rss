@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-28T21:20:44.117893Z",
+  "generated_at": "2026-07-28T22:40:37.163398Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
+    },
+    {
+      "id": "57b1d560bab2681bb35981d9",
+      "title": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes - SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGlpTU1BaUpZbW1BRXA1dVFQX2RqdjZBNTQzRmtzOW5vUmk2M2k2VjFjUWRpcW5PNXN2VWVTLWNzOWtJcjFsZEdrWkotdVJ4cXYtNVVZQVc3WENRUldUZGJFWFc1Y1dLV1I4N2hRcGd4alExN0hPWl9BWFlSdnNHNmVub2JtcGRmT2M0ZEVmZjJKcERrTkxUV0gxS19nVzZDWHJQbFBrcGx4NHBtWURNZXowNkswNVIwYnFKR21xTUVaUGZDYmRSQlZqZw?oc=5",
+      "summary": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes SMBtech",
+      "published_at": "2026-07-28T22:26:22Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "a965458eb9c4bb5e4700de5e",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
-    },
-    {
-      "id": "202c52df7cad4faa328f0920",
-      "title": "Best Standard Non-Wi-Fi Routers of 2026: The Current Top Five for the Home - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSFZXWG1mSkszLWE2TE5nalE5XzZSUFE1a25YcVBjM2tOemJnNXVKbXU1enNQQ211dEVDbUNCV0JjTUNSOHdKaXVuMFc5TTFoU3dYQUpXLUI?oc=5",
-      "summary": "Best Standard Non-Wi-Fi Routers of 2026: The Current Top Five for the Home Dong Knows Tech",
-      "published_at": "2026-07-21T18:53:35Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }
