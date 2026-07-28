@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 07:21:58 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum Restores Service Following 18-Hour Internet Outage Across Area - Daily Dodge</title>
@@ -22,16 +22,30 @@ Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Do
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] AnMed: cybersecurity disruption causes phone, internet outage - WSPA 7News</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWprUmJiWVp1YXZMUUJUcGxoNEZJWU80NlgxYWhuQVZCUnJQOVFvSEhiaER5NGJMQS0ycTg4NUlaR25hOHhFSzVGUnZ1Q1g3cXFTaFdJMFBkZEx1bS1GcmN3TktyLXFEY2hLd3VBcGpBQWdCeUEydV9Ca0paQ3EydlkxWUFfY3l5NEZZ0gGQAUFVX3lxTE5LSnY2emlRUWswX0paQ2xWOUdRNTE2bXcwRzU0eUtRTk9JbUdrc0d6NU1VX2Q0NnkyYm53eTRaTGlmUzFDWmJPWWZyd2ZKXzV5TVR6MzZPcW80SUkwYUNyUV9YekUyWW85UnZ5Z3V4eXNyVXNBRnlHU0FWNkxUZHc3Q2JMSC1fTnYwSTNxbTM1Tw?oc=5</link>
-      <guid isPermaLink="false">1b608b07f5e8d3d49e6cd718</guid>
+      <title>[性能・障害] 中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5</link>
+      <guid isPermaLink="false">ff64cab5d81368394451c9d8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-28 15:26
+中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ BigGo ファイナンス</description>
+      <pubDate>Tue, 28 Jul 2026 07:21:58 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-28T07:21:58.171730Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T06:26:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5</link>
+      <guid isPermaLink="false">d8758363d22ed5d064635106</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-26 21:21
-AnMed: cybersecurity disruption causes phone, internet outage WSPA 7News</description>
-      <pubDate>Mon, 27 Jul 2026 19:52:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T19:52:38.661666Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-26T12:21:13Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-26 17:21
+AnMed: Emergency rooms open despite phone, internet outage WSPA 7News</description>
+      <pubDate>Tue, 28 Jul 2026 07:21:58 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-28T07:21:58.171730Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-26T08:21:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
