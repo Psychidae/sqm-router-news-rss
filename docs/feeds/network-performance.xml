@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 23:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:01:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum Restores Service Following 18-Hour Internet Outage Across Area - Daily Dodge</title>
@@ -102,20 +102,6 @@ Netskope Slashes Network Latency By Up to 90% for Enterprise AI Traffic The Mani
       <pubDate>Wed, 22 Jul 2026 18:46:10 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-22T18:46:10.674272Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-21T13:11:39Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Fresno County internet outage limits public services as IT works to restore access - kmph.com</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQazFCUl9OVzdqdjVjMGlkZ0FDT1M2dTRXZGxGX3ZnOWpsMGppVGlxWWduTVRRUWJVbXZoZ1ExeUt6bWZYNmI2eWxZWmlyaGpWR1hNam9pM2hkOXBfTWJBNFhpRFhjWGFVQXZmR2NwYS15ak93eUsyRmJXd3dNdUJRQ2ZUczFpWHRFZmdSR252aHB4TW44cUNJZ0w2MENmcnlqNkVoOGEzMFIzXzhRTFQw?oc=5</link>
-      <guid isPermaLink="false">a7059f0a8fdbc9ef9acedbd8</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-21 09:00
-Fresno County internet outage limits public services as IT works to restore access kmph.com</description>
-      <pubDate>Tue, 21 Jul 2026 03:41:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-21T03:41:33.003204Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-21T00:00:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

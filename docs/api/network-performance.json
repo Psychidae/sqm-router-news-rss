@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-27T23:42:54.133225Z",
+  "generated_at": "2026-07-28T01:01:52.387699Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -80,17 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZEQ0XzYyanI0dkNucy13LW1WNlFDRzYxWGdUOVVfTW9ibFVZcG1Nbmgzb1F6c3Rnb3MtNHZ1T1hmLVpnUnJpN21UX0ZCdXdNZ3k5MUwyWUxPR3UxRWNIVzE4cHBMSl9tSHVnSmlBeU9KdkxaZ3JSV0RiWTU2RUszRHRXYUR2YmpHMEUxckQzU2NQWjJHZ24yVGprWnVjY1VLalM1WUxnMkhkODh6dHRkb09OTjZvT05kSURLbGVPSnVDMUFydjZKTi0wVEoxd0xQVl9Vc0l4dkxyMGdq0gHiAUFVX3lxTE5IcG1vMDdTdGw0RllhODYzamJlWXVycGpObUVWLWhKbTZIWV9ISXIwZWhid0NJbzZtdjRsRHEwRFpRWEYzRjRSQXl3Uzc0Mm9CTWNGRm9OSWdiMm82N19mTERDRjdwWlhLWE9zWkx1ai1yNGU3QnZXM0V2a0lSZ2NFaE1hcEhyb0JmZWQzaHRlUTBfOTJsaWRZTmRJTC11SzZOVUFOZnZ2OFZVYXNsSFQ0QkdLWHZlN2JxM2MyZHlvcjZleWFNSE9YaU84VVRfYThMM1ZlMHQ4dDI0TkcwSW9UZkE?oc=5",
       "summary": "Netskope Slashes Network Latency By Up to 90% for Enterprise AI Traffic The Manila Times",
       "published_at": "2026-07-21T13:11:39Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "a7059f0a8fdbc9ef9acedbd8",
-      "title": "Fresno County internet outage limits public services as IT works to restore access - kmph.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazFCUl9OVzdqdjVjMGlkZ0FDT1M2dTRXZGxGX3ZnOWpsMGppVGlxWWduTVRRUWJVbXZoZ1ExeUt6bWZYNmI2eWxZWmlyaGpWR1hNam9pM2hkOXBfTWJBNFhpRFhjWGFVQXZmR2NwYS15ak93eUsyRmJXd3dNdUJRQ2ZUczFpWHRFZmdSR252aHB4TW44cUNJZ0w2MENmcnlqNkVoOGEzMFIzXzhRTFQw?oc=5",
-      "summary": "Fresno County internet outage limits public services as IT works to restore access kmph.com",
-      "published_at": "2026-07-21T00:00:24Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
