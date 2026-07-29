@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-29T15:06:52.411247Z",
+  "generated_at": "2026-07-29T16:38:02.692936Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "ba9bdbed9e8c9b3067262192",
+      "title": "エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - 財経新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ob1B4Z2dBTTlLRVBWLWdxN1o2UHE3M2JxWVZ6d2RPSkFQTGEwUlBEeVNzd1JNTlJtNjFLNmI4ZTZBOVM0OWNtRUhGa0tKQjJJdldvV21rWEFzOFNZQkxJWHRn0gFoQVVfeXFMTXZUOEo1WXJHTjJjMHYwTUZzNXhIZjhrUGJ2Q1dUdjZBSFkzSC0xUktsV0VkTHRzcWtPUHZPcmJXNnhxblhvYzdnTG9tM3NUY3k5amM1bjBkUmQ3V0UwVjhFRjE2cFhPWHA?oc=5",
+      "summary": "エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 財経新聞",
+      "published_at": "2026-07-29T15:31:21Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "16ba95972c50545bde551dfa",
       "title": "酒造会社にランサム攻撃 VPN機器の脆弱性を悪用 商品発送が一時見合わせに（画像） - ITmedia",
@@ -43,9 +54,9 @@
     },
     {
       "id": "2e8cf2e76da5a0cde6880dff",
-      "title": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - rocket-boys.co.jp",
+      "title": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy1vckpweElSOFBobzhvUjluOVo4NXMtQjNaTVNleWlKWHVKX3J4RDNLanQ0eFUzNlo5aGhzVjk4eURzMWNiM1o3N3JkNEowUm1KWmIzdjEyTG9WVjlOWkFZcnA0TF9JSTBPdlUtZTQ2enJfbGVHWS1jOHI5V3ZMQTM0VXY5RTVoa0xzMmJpM2tvVUU4MlA2S1JTaDU?oc=5",
-      "summary": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab rocket-boys.co.jp",
+      "summary": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
       "published_at": "2026-07-27T00:00:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 8
-    },
-    {
-      "id": "52498aa7656a13bf62cd663e",
-      "title": "ASUSがルーターの重大な脆弱性に対するパッチをリリース。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1VzX0txRk5MWkppdmxWMkc5d19oSERDQlpOLTRuNmdzTmdobkw2bE4zeFozSlpUUm1xamhsR2R3YWE3Q2xEZmRXSWRqaUlYc3NFUW9tVkRIeWZJUkJlVURyWXF1dnNENV9OY0t3VTdfWEktbk5sMGJCYlBUSGZlS0duWFZvYkR1amhZMUp0VFBjeWJNZlBN?oc=5",
-      "summary": "ASUSがルーターの重大な脆弱性に対するパッチをリリース。 Vietnam.vn",
-      "published_at": "2026-07-27T00:56:13Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
     }
   ]
 }
