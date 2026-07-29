@@ -1,13 +1,46 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-07-29T01:07:19.863764Z",
+  "generated_at": "2026-07-29T04:28:39.835322Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 7,
   "errors": [],
   "items": [
+    {
+      "id": "9b9cc63dd79f4be4cee173d2",
+      "title": "エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jOUlWSDQ1Q2JpZThXNWYxeFZELU9pLWo0MTZsVlZiTmFERGdwLWw0NmtvbEZOMnhCS0FZV1h5bmJKMmZWM1F6Rld3OGlRQzVCeVdWVkthRFlhN1ZacF9sR0s4V3dRM0xtelJB?oc=5",
+      "summary": "エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を INTERNET Watch",
+      "published_at": "2026-07-28T10:12:55Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "96c0b13a25cd4e6e7c228529",
+      "title": "エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlZXXzZEbTRXT2Y2WjlHcG0tQTlaZHZkZVZTQUdKMnowRy0ybk5xS2JnUjRseWlNbExTSEprRWxvVVV0OG1uZ1VWeHREZlp6akgxb3pMTndCN2EyQk80bGh5TWN2NWtGT0ZIZUcxa1NrLXd2RXlPUmNndXM2WktxNUFGcVltTjExbXI3R19B?oc=5",
+      "summary": "エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を Yahoo!ニュース",
+      "published_at": "2026-07-28T10:12:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "2e8cf2e76da5a0cde6880dff",
+      "title": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy1vckpweElSOFBobzhvUjluOVo4NXMtQjNaTVNleWlKWHVKX3J4RDNLanQ0eFUzNlo5aGhzVjk4eURzMWNiM1o3N3JkNEowUm1KWmIzdjEyTG9WVjlOWkFZcnA0TF9JSTBPdlUtZTQ2enJfbGVHWS1jOHI5V3ZMQTM0VXY5RTVoa0xzMmJpM2tvVUU4MlA2S1JTaDU?oc=5",
+      "summary": "Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-07-27T00:00:02Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
     {
       "id": "2ad21690d2c629b9430453f2",
       "title": "Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security",
