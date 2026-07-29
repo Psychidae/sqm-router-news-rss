@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-29T07:29:29.681114Z",
+  "generated_at": "2026-07-29T10:16:21.298387Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -86,17 +86,6 @@
       "score": 8
     },
     {
-      "id": "d8758363d22ed5d064635106",
-      "title": "AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5",
-      "summary": "AnMed: Emergency rooms open despite phone, internet outage WSPA 7News",
-      "published_at": "2026-07-26T08:21:13Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "ff64cab5d81368394451c9d8",
       "title": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5",
@@ -115,6 +104,17 @@
       "published_at": "2026-07-27T13:43:27Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "d8758363d22ed5d064635106",
+      "title": "AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5",
+      "summary": "AnMed: Emergency rooms open despite phone, internet outage WSPA 7News",
+      "published_at": "2026-07-26T08:21:13Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     }
