@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-07-29T04:28:41.100310Z",
+  "generated_at": "2026-07-29T07:29:29.681114Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,6 +31,17 @@
       "score": 9
     },
     {
+      "id": "435b79a47c5567e6f1fcb8ea",
+      "title": "熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcUhGWWpxOUZCZW92bFRyVVRYTGdiZkR4d3hvWGplckJGQXdRLXBtZmdfRC1BaTl6ZGdIY0NKNWtTMGNKbWhEem5UMWJCYTFoS29NN3ZoaHZZU1pLTENEVUhvWXVWcUEtME9jeGFRT2JhY0d0TTJaMTduTkx2UWc?oc=5",
+      "summary": "熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 Yahoo!ニュース",
+      "published_at": "2026-07-29T02:14:31Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
       "id": "fc8c334a1aeb199e9acf575b",
       "title": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWGZ5LUpiSnlTbE5OXzBKVm5BejA3bGg0QTZQYTUzbWFxU3l5Z0FwLXR5alBfT2NWbDhrbmN3dUhBWWhobGFoR1hEZ0sxWEl0RjUxb3VVVGxiVFNHRUIxUjlpbUI5dmF1R3c?oc=5",
@@ -42,11 +53,11 @@
       "score": 8
     },
     {
-      "id": "ff64cab5d81368394451c9d8",
-      "title": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5",
-      "summary": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ BigGo ファイナンス",
-      "published_at": "2026-07-28T06:26:00Z",
+      "id": "7833a6d459265d0dab877e12",
+      "title": "2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRWk2WnkzY1FQUWl3UGliSXV6UlhzdjJLSDZIb3dkbVh1dGJQZEhGWkRUWUtrS1UyOFhjSmFEcHBnUzFwcTU2bVlsQjQwMUk0M2hJTWR1VU9hQmFfbldYSFMwZTlrdmNpSUlkUjdyUzQ4anpKMU9McVc4Nkt1ZWM?oc=5",
+      "summary": "2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） Yahoo!ニュース",
+      "published_at": "2026-07-28T14:09:24Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -86,6 +97,17 @@
       "score": 8
     },
     {
+      "id": "ff64cab5d81368394451c9d8",
+      "title": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5",
+      "summary": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ BigGo ファイナンス",
+      "published_at": "2026-07-28T06:26:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
       "id": "a4ee1d0b5a3ed021f71fe6a9",
       "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
@@ -93,28 +115,6 @@
       "published_at": "2026-07-27T13:43:27Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "c9fa025b7c18fd7ca9cc4444",
-      "title": "Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage - WBKO",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1EQXE3eEtxQlMySFJ5SHoxYWNxNzZwRzFrSWdsUGtiUTFJamFCcGVuRWZCcWVxd19YYk5mbzFxU2pJMnh6YUV4cEVMQmZVVWlpU3g4LUpDUWVLN25YbjJMVFNBNzNYbFdPUGpBOXNsYkV3aVNOcUZBLThFcV9pbHF5TzVyLUhwR1NIUTFpRG9xZFJXSFNYaHpBcEhPVkF3ZUhCQlZUbVMtLVI4YlpoR1VSMNIBxwFBVV95cUxNTFRYOTFJWjlCY2lKZnJpZ0g4T1J3dWxRRVlBVG8xbEpMcXlOcDNLQWh2NWlMVWpJMUZnVkpYdGlTbTBVVUNqZzlxN3YwdDRUeGJoUnJ1a001Q3pLRmFvTC0yN3JFMDJHR25YOVAyNmxIQ0c2ZGxCMDYzLUtwbVFGS1BnNlpBTGJoMTRubXQxZVZVbDdrZmduLWRhV1NSVkNGbS1XRG53akRFZHd1SmprTzNaZUd5UEp1SEYzb2xsZE41ek5aZmpZ?oc=5",
-      "summary": "Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage WBKO",
-      "published_at": "2026-07-22T15:55:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "899d3aa453746b2cb09d55db",
-      "title": "West Omaha internet outage draws government scrutiny - WOWT",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdSWDYxeU1vZUN4WUQ1ZHRPMXZfOHVCelJrQ2FBSEVQMERnMXhfc2NyclFodUFBZFJ4bjBtNklHQV9ibDlYTDE1Mm1YMWhVMFhIQlFPTzZldi1ZUnVVdVNRWWFjR2RQYXhIeFB1dlhvUU8wOTZnZWUzV1ZYWnpKTTZMTmdub3JaVlFwcmp2bWliZGpjRkE?oc=5",
-      "summary": "West Omaha internet outage draws government scrutiny WOWT",
-      "published_at": "2026-07-22T08:57:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     }
