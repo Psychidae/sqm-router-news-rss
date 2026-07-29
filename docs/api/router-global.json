@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-29T16:38:01.622807Z",
+  "generated_at": "2026-07-29T17:53:23.986421Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "42d4368f4a0f5d496a128c92",
-      "title": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf - itwire.com",
+      "title": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf - iTWire",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzRaMXdXdXdxZWZqUmxxNUswbkx3V3l5Q1ZiUDg3alAyOXNXcTY1eHU2RVFtc3cteVAwZHRwWjRBVS1nZ01UWVYyN3ZqMVBCMElISmx2ckQ1ekd5b0dKU1JHZ1FJbGdWOHBsV2RMT052bUJGSTJUU0tTMjl3WXlnQUVrbzRLd2RCdFNZMS00T2xoMk85Y1JJeUswc2hsNDRlZlNPMmJqcG9XeGlKWmdtSENSTE5MYmJuSlI4eUE4bFdfbFhOaTNsQjk5Rmg?oc=5",
-      "summary": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf itwire.com",
+      "summary": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf iTWire",
       "published_at": "2026-07-29T05:31:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -32,9 +32,9 @@
     },
     {
       "id": "2e00d7127d0973261d15d807",
-      "title": "D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks - Digital Reviews Network",
+      "title": "D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks - digitalreviews.net",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQm9pa1BFSDhyYjRXZUhYcXNZRjRTd21hWHBYR0R2NjVTbTkwNlB3RU5kRWdzQU9aMHZIMkw0VVhOWktaM2hmNGh4aXUyMDhESlRFLVN3SzlsOTg2bzZEUV8tY0l5SGNMSXBoUDFlQTZTa3U3N25JLTZmbHBKanFIcTYyX3JzY1JacTBubnpHZzFlOHdLLS1JaWxMamVSMkNkWTZHOVV2d3A?oc=5",
-      "summary": "D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks Digital Reviews Network",
+      "summary": "D-Link launches BE7200 10G Wi-Fi 7 Mesh Router for Australia's faster NBN and New Zealand Hyperfibre networks digitalreviews.net",
       "published_at": "2026-07-29T01:32:10Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",

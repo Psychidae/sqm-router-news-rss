@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:53:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Afrihost customers hit by Internet outage - MyBroadband</title>
@@ -22,17 +22,17 @@ Afrihost customers hit by Internet outage MyBroadband</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Taming Diversity Delay and Packet Loss in Single-Frequency Networks - radioworld.com</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1GdkRPS0xpaEdTSFg4elVwN3dyRTZEN3lDOHczdWJVTjlna0ZYa1h6ZE0yc2pFaDVnUk5KZkliSElLNmZMTHU2QmxEci1hT0k4NEU4blRZUFhkS1JJaTcxb21jVDJ6U1ZSOW0w?oc=5</link>
-      <guid isPermaLink="false">55d97ca0016ebf7f4a36135b</guid>
+      <title>[性能・障害] ネットワークプロバイダーは、2G回線がオフになった際の通信障害を避けるため、VoLTEを直ちに有効にすることを推奨しています。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnhhUmw3ZW5ra044TzlYM3lST2Y3TXpjdk1iQ3YzdjJLR3BNTnQ3akxOSmc2OFNoSjdyb3BaRzNjSWhoamZCMkQ1QWFObTlDVUtsRG1hRVRETDhIOGh4YVZKYkZjMFhBSDR2R2JRLVN0SmxpbEpzc1BuTUxMTjVqa0hLODFrZU5KbmNTbmRUaV9NNTg1Z3NwU1IteWEtRGJOU1E?oc=5</link>
+      <guid isPermaLink="false">e3bcf4794d9457aabd04c290</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-29 02:04
-Taming Diversity Delay and Packet Loss in Single-Frequency Networks radioworld.com</description>
-      <pubDate>Tue, 28 Jul 2026 21:20:46 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-28T21:20:46.129252Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T17:04:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-07-29 12:51
+ネットワークプロバイダーは、2G回線がオフになった際の通信障害を避けるため、VoLTEを直ちに有効にすることを推奨しています。 Vietnam.vn</description>
+      <pubDate>Wed, 29 Jul 2026 17:53:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-29T17:53:26.316817Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-29T03:51:37Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -50,13 +50,27 @@ Taming Diversity Delay and Packet Loss in Single-Frequency Networks radioworld.c
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Some AnMed offices to reopen during recent phone, Internet outage - foxcarolina.com</title>
+      <title>[性能・障害] Taming Diversity Delay and Packet Loss in Single-Frequency Networks - radioworld.com</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1GdkRPS0xpaEdTSFg4elVwN3dyRTZEN3lDOHczdWJVTjlna0ZYa1h6ZE0yc2pFaDVnUk5KZkliSElLNmZMTHU2QmxEci1hT0k4NEU4blRZUFhkS1JJaTcxb21jVDJ6U1ZSOW0w?oc=5</link>
+      <guid isPermaLink="false">55d97ca0016ebf7f4a36135b</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-07-29 02:04
+Taming Diversity Delay and Packet Loss in Single-Frequency Networks radioworld.com</description>
+      <pubDate>Tue, 28 Jul 2026 21:20:46 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-28T21:20:46.129252Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T17:04:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Some AnMed offices to reopen during recent phone, Internet outage - FOX Carolina News</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm5UQUlHUWd0MG5ZZjdvOGk3ODczeUNyRmNpbDhQZHItbURSMWZOSF9KWmxyNE9hQ0dTb0RaNWJEdndyLWx3Z0lCQy1MSW5TcDk4N0VVaWxZaGk4cmk4RV9TWUZzdVFJeXRLUmp1MnliN01XdWNKUDFJQkJWQ241NWN2bHhPUDZtM3VGR2pUQWFrN1p6LVdneENMbXNCTWRFa0tVTmxqTlBKR3c?oc=5</link>
       <guid isPermaLink="false">e067d5fe4875dad5ee9ebd9c</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-28 11:45
-Some AnMed offices to reopen during recent phone, Internet outage foxcarolina.com</description>
+Some AnMed offices to reopen during recent phone, Internet outage FOX Carolina News</description>
       <pubDate>Wed, 29 Jul 2026 04:28:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T04:28:41.099284Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-28T02:45:00Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <pubDate>Wed, 29 Jul 2026 01:07:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T01:07:20.867427Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-27T13:43:27Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-26 04:10
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Wed, 29 Jul 2026 16:38:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-29T16:38:03.768673Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-25T19:10:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
