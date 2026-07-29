@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:06:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 酒造会社にランサム攻撃 VPN機器の脆弱性を悪用 商品発送が一時見合わせに（画像） - ITmedia</title>
@@ -50,13 +50,13 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <title>[セキュリティ] Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - rocket-boys.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy1vckpweElSOFBobzhvUjluOVo4NXMtQjNaTVNleWlKWHVKX3J4RDNLanQ0eFUzNlo5aGhzVjk4eURzMWNiM1o3N3JkNEowUm1KWmIzdjEyTG9WVjlOWkFZcnA0TF9JSTBPdlUtZTQ2enJfbGVHWS1jOHI5V3ZMQTM0VXY5RTVoa0xzMmJpM2tvVUU4MlA2S1JTaDU?oc=5</link>
       <guid isPermaLink="false">2e8cf2e76da5a0cde6880dff</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-07-27 09:00
-Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab rocket-boys.co.jp</description>
       <pubDate>Wed, 29 Jul 2026 04:28:39 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T04:28:39.833362Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-27T00:00:02Z</sqm:sourcePublishedDate>

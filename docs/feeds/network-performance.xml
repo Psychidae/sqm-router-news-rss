@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 12:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:06:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Afrihost customers hit by Internet outage - MyBroadband</title>
@@ -50,34 +50,6 @@ Taming Diversity Delay and Packet Loss in Single-Frequency Networks radioworld.c
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWGZ5LUpiSnlTbE5OXzBKVm5BejA3bGg0QTZQYTUzbWFxU3l5Z0FwLXR5alBfT2NWbDhrbmN3dUhBWWhobGFoR1hEZ0sxWEl0RjUxb3VVVGxiVFNHRUIxUjlpbUI5dmF1R3c?oc=5</link>
-      <guid isPermaLink="false">fc8c334a1aeb199e9acf575b</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-28 23:37
-携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 ITmedia</description>
-      <pubDate>Tue, 28 Jul 2026 14:33:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-28T14:33:40.786621Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T14:37:45Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRWk2WnkzY1FQUWl3UGliSXV6UlhzdjJLSDZIb3dkbVh1dGJQZEhGWkRUWUtrS1UyOFhjSmFEcHBnUzFwcTU2bVlsQjQwMUk0M2hJTWR1VU9hQmFfbldYSFMwZTlrdmNpSUlkUjdyUzQ4anpKMU9McVc4Nkt1ZWM?oc=5</link>
-      <guid isPermaLink="false">7833a6d459265d0dab877e12</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-28 23:09
-2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） Yahoo!ニュース</description>
-      <pubDate>Wed, 29 Jul 2026 07:29:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-29T07:29:29.680184Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T14:09:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Some AnMed offices to reopen during recent phone, Internet outage - FOX Carolina News</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm5UQUlHUWd0MG5ZZjdvOGk3ODczeUNyRmNpbDhQZHItbURSMWZOSF9KWmxyNE9hQ0dTb0RaNWJEdndyLWx3Z0lCQy1MSW5TcDk4N0VVaWxZaGk4cmk4RV9TWUZzdVFJeXRLUmp1MnliN01XdWNKUDFJQkJWQ241NWN2bHhPUDZtM3VGR2pUQWFrN1p6LVdneENMbXNCTWRFa0tVTmxqTlBKR3c?oc=5</link>
       <guid isPermaLink="false">e067d5fe4875dad5ee9ebd9c</guid>
@@ -103,6 +75,34 @@ Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Do
       <sqm:firstSeenDate>2026-07-27T16:33:02.406872Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-27T11:22:07Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWGZ5LUpiSnlTbE5OXzBKVm5BejA3bGg0QTZQYTUzbWFxU3l5Z0FwLXR5alBfT2NWbDhrbmN3dUhBWWhobGFoR1hEZ0sxWEl0RjUxb3VVVGxiVFNHRUIxUjlpbUI5dmF1R3c?oc=5</link>
+      <guid isPermaLink="false">fc8c334a1aeb199e9acf575b</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-28 23:37
+携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 ITmedia</description>
+      <pubDate>Tue, 28 Jul 2026 14:33:40 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-28T14:33:40.786621Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T14:37:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRWk2WnkzY1FQUWl3UGliSXV6UlhzdjJLSDZIb3dkbVh1dGJQZEhGWkRUWUtrS1UyOFhjSmFEcHBnUzFwcTU2bVlsQjQwMUk0M2hJTWR1VU9hQmFfbldYSFMwZTlrdmNpSUlkUjdyUzQ4anpKMU9McVc4Nkt1ZWM?oc=5</link>
+      <guid isPermaLink="false">7833a6d459265d0dab877e12</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-28 23:09
+2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） Yahoo!ニュース</description>
+      <pubDate>Wed, 29 Jul 2026 07:29:29 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-29T07:29:29.680184Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T14:09:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -134,16 +134,16 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] AnMed: Emergency rooms open despite phone, internet outage - WSPA 7News</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0p2NnppUVFrMF9KWkNsVjlHUTUxNm13MEc1NHlLUU5PSW1Ha3NHejVNVV9kNDZ5MmJud3k0WkxpZlMxQ1piT1lmcndmSl81eU1UejM2T3FvNElJMGFDclFfWHpFMllvOVJ2eWd1eHlzclVzQUZ5R1NBVjZMVGR3N0NiTEgtX052MEkzcW0zNU_SAZABQVVfeXFMTktKdjZ6aVFRazBfSlpDbFY5R1E1MTZtdzBHNTR5S1FOT0ltR2tzR3o1TVVfZDQ2eTJibnd5NFpMaWZTMUNaYk9ZZnJ3ZkpfNXlNVHozNk9xbzRJSTBhQ3JRX1h6RTJZbzlSdnlndXh5c3JVc0FGeUdTQVY2TFRkdzdDYkxILV9OdjBJM3FtMzVP?oc=5</link>
-      <guid isPermaLink="false">d8758363d22ed5d064635106</guid>
+      <title>[性能・障害] Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage - WBKO</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxNaS1EQXE3eEtxQlMySFJ5SHoxYWNxNzZwRzFrSWdsUGtiUTFJamFCcGVuRWZCcWVxd19YYk5mbzFxU2pJMnh6YUV4cEVMQmZVVWlpU3g4LUpDUWVLN25YbjJMVFNBNzNYbFdPUGpBOXNsYkV3aVNOcUZBLThFcV9pbHF5TzVyLUhwR1NIUTFpRG9xZFJXSFNYaHpBcEhPVkF3ZUhCQlZUbVMtLVI4YlpoR1VSMNIBxwFBVV95cUxNTFRYOTFJWjlCY2lKZnJpZ0g4T1J3dWxRRVlBVG8xbEpMcXlOcDNLQWh2NWlMVWpJMUZnVkpYdGlTbTBVVUNqZzlxN3YwdDRUeGJoUnJ1a001Q3pLRmFvTC0yN3JFMDJHR25YOVAyNmxIQ0c2ZGxCMDYzLUtwbVFGS1BnNlpBTGJoMTRubXQxZVZVbDdrZmduLWRhV1NSVkNGbS1XRG53akRFZHd1SmprTzNaZUd5UEp1SEYzb2xsZE41ek5aZmpZ?oc=5</link>
+      <guid isPermaLink="false">c9fa025b7c18fd7ca9cc4444</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-07-26 17:21
-AnMed: Emergency rooms open despite phone, internet outage WSPA 7News</description>
-      <pubDate>Tue, 28 Jul 2026 07:21:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-28T07:21:58.171730Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-26T08:21:13Z</sqm:sourcePublishedDate>
+元記事日付: 2026-07-23 00:55
+Hart County Animal Shelter closed to public Wednesday, reports phone and internet outage WBKO</description>
+      <pubDate>Wed, 29 Jul 2026 15:06:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-29T15:06:53.767761Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-22T15:55:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
