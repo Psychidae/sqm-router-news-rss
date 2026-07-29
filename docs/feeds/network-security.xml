@@ -5,50 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 23:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 01:07:19 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE1jOUlWSDQ1Q2JpZThXNWYxeFZELU9pLWo0MTZsVlZiTmFERGdwLWw0NmtvbEZOMnhCS0FZV1h5bmJKMmZWM1F6Rld3OGlRQzVCeVdWVkthRFlhN1ZacF9sR0s4V3dRM0xtelJB?oc=5</link>
-      <guid isPermaLink="false">9b9cc63dd79f4be4cee173d2</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-28 19:12
-エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を INTERNET Watch</description>
-      <pubDate>Tue, 28 Jul 2026 14:33:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-28T14:33:39.778573Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T10:12:55Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlZXXzZEbTRXT2Y2WjlHcG0tQTlaZHZkZVZTQUdKMnowRy0ybk5xS2JnUjRseWlNbExTSEprRWxvVVV0OG1uZ1VWeHREZlp6akgxb3pMTndCN2EyQk80bGh5TWN2NWtGT0ZIZUcxa1NrLXd2RXlPUmNndXM2WktxNUFGcVltTjExbXI3R19B?oc=5</link>
-      <guid isPermaLink="false">96c0b13a25cd4e6e7c228529</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-28 19:12
-エレコムの法人向けWi-Fiアクセスポイントおよび家庭向けWi-Fiルーター7製品に脆弱性、最新版ファームウェアへの更新を Yahoo!ニュース</description>
-      <pubDate>Tue, 28 Jul 2026 19:50:17 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-28T19:50:17.072341Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T10:12:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPSy1vckpweElSOFBobzhvUjluOVo4NXMtQjNaTVNleWlKWHVKX3J4RDNLanQ0eFUzNlo5aGhzVjk4eURzMWNiM1o3N3JkNEowUm1KWmIzdjEyTG9WVjlOWkFZcnA0TF9JSTBPdlUtZTQ2enJfbGVHWS1jOHI5V3ZMQTM0VXY5RTVoa0xzMmJpM2tvVUU4MlA2S1JTaDU?oc=5</link>
-      <guid isPermaLink="false">2e8cf2e76da5a0cde6880dff</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-27 09:00
-Check PointがSmartConsoleのゼロデイ脆弱性（CVE-2026-16232）を修正|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Mon, 27 Jul 2026 00:10:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T00:10:38.665239Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-27T00:00:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232) - Help Net Security</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGZJNUxuampoekp3eHVWTVJsS3RXaVRCLUxLMUFET0ppQ2ozeEdfMjRiYjhjN2JOWmkybEtWMVV1bmdmYkl3TVZMZWlNLWQ4b0NUUG1pM2kydVZXd211bVNicEVOWnRvWDVFRGZNY0ZPZGZRV21tZHBBdXhUODBpajVpSTZsWi1vRE44Rg?oc=5</link>
@@ -75,20 +33,6 @@ ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution Cyb
       <sqm:firstSeenDate>2026-07-27T11:36:21.501856Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-22T17:30:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ASUSがルーターの重大な脆弱性に対するパッチをリリース。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1VzX0txRk5MWkppdmxWMkc5d19oSERDQlpOLTRuNmdzTmdobkw2bE4zeFozSlpUUm1xamhsR2R3YWE3Q2xEZmRXSWRqaUlYc3NFUW9tVkRIeWZJUkJlVURyWXF1dnNENV9OY0t3VTdfWEktbk5sMGJCYlBUSGZlS0duWFZvYkR1amhZMUp0VFBjeWJNZlBN?oc=5</link>
-      <guid isPermaLink="false">52498aa7656a13bf62cd663e</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-07-27 09:56
-ASUSがルーターの重大な脆弱性に対するパッチをリリース。 Vietnam.vn</description>
-      <pubDate>Mon, 27 Jul 2026 11:36:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T11:36:21.501856Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-27T00:56:13Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
