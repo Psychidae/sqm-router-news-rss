@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 01:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 04:17:21 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - 財経新聞</title>
@@ -92,13 +92,13 @@ Attackers exploit critical Check Point flaw to take over firewall management (CV
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 - prtimes.jp</title>
+      <title>[セキュリティ] 【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXlSZ0F1TnBRSWs0M25FS2NKdXc1RHJESzhFSnVyQVFpSENIOElFa25ERG83RFFoaW1MSGpwMkRJd054OGE3dHBjRGd6ZjFtYXIzSFdIUlhILWhjWTd1V0NtVEVDTkFKRGc?oc=5</link>
       <guid isPermaLink="false">20f782e11ccb36ab25fff17d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-07-28 11:00
-【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 prtimes.jp</description>
+【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 PR TIMES</description>
       <pubDate>Wed, 29 Jul 2026 19:40:08 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T19:40:08.175164Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-28T02:00:02Z</sqm:sourcePublishedDate>
