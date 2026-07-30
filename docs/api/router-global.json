@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-30T04:17:20.798551Z",
+  "generated_at": "2026-07-30T07:19:12.334479Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "8114a7bd58db5e1551c5da2b",
+      "title": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings - Expert Reviews",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGwzNGdCY2dKS0plMHlaMUFRN0tZcmJ5OTFEZ25zMUljNHVYY2tKNzJYczJ3WFBCR0psLWdhZ19xdTJ2TXdvMmo3akNFRXJ0TFhUYkduYktUcE9DSExEeVN2RHEyZmJlZHdmT2pFa1BDNnNHa3pQbWVxWnVOcEZTSG5VQlFoVXlJN0NMcw?oc=5",
+      "summary": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings Expert Reviews",
+      "published_at": "2026-07-30T06:31:12Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
+    },
     {
       "id": "42d4368f4a0f5d496a128c92",
       "title": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf - iTWire",
@@ -17,7 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "5daad81745634a26cfabcfe4",
@@ -43,9 +54,9 @@
     },
     {
       "id": "57b1d560bab2681bb35981d9",
-      "title": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes - SMBtech",
+      "title": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes - smbtech.au",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGlpTU1BaUpZbW1BRXA1dVFQX2RqdjZBNTQzRmtzOW5vUmk2M2k2VjFjUWRpcW5PNXN2VWVTLWNzOWtJcjFsZEdrWkotdVJ4cXYtNVVZQVc3WENRUldUZGJFWFc1Y1dLV1I4N2hRcGd4alExN0hPWl9BWFlSdnNHNmVub2JtcGRmT2M0ZEVmZjJKcERrTkxUV0gxS19nVzZDWHJQbFBrcGx4NHBtWURNZXowNkswNVIwYnFKR21xTUVaUGZDYmRSQlZqZw?oc=5",
-      "summary": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes SMBtech",
+      "summary": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes smbtech.au",
       "published_at": "2026-07-28T22:26:22Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -54,9 +65,9 @@
     },
     {
       "id": "a965458eb9c4bb5e4700de5e",
-      "title": "Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router - dongknows.com",
+      "title": "Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTnhkNjAyZ2E1cTNMUlIwNGpqMkFJZk81OHg4cXJhLVhoTzMxSnA2cWw3aGxZa3BIcEJlUk5sZUVzVDU2UmFiMk53bWV4MUZZbml0M29pakdvWGQ1eE93di02U25ET09C?oc=5",
-      "summary": "Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router dongknows.com",
+      "summary": "Fusion 2.5G Gateway Review: TP-Link's Formidable Non-Wi-Fi Router Dong Knows Tech",
       "published_at": "2026-07-20T12:30:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -65,9 +76,9 @@
     },
     {
       "id": "4a90cecb59fffe651978d4c9",
-      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
+      "title": "Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0o5SmhFZFdSNXdzVFltV2ZrRUJlZlkxSmlmSFEwWXdUOFRXSk5LOVJNU0kxc1pIbklTMnM1b3k4VlBDVlhsSG5DVWpFMjJOY201RmpoYmNycnlOSnJrelZoR05keGxVeTZxTUlJeEgzUUFpR1paekl4YUl4ZE5ubE9KM3ZZd3E4ZHJQSkVDMzdfVDBlbUZGQlRIREQwOFlINXh1cFh5WlpDcDA?oc=5",
-      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
+      "summary": "Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net",
       "published_at": "2026-07-29T12:31:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -76,9 +87,9 @@
     },
     {
       "id": "1aaef8829f0d22c77efe0deb",
-      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
+      "title": "Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5",
-      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
+      "summary": "Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net",
       "published_at": "2026-07-29T12:31:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "f57784f1514cbdbb0ad0b521",
-      "title": "Say Hello to a Better Signal With 36% Off This TP-Link Wi-Fi 7 Router - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tGQm05Mm9lZFBuMUF1ZzhZWDhJUWgtVWl2Q0VPbHphSDZNT2k3Zm5VQ2lhYXFVcEo5NklNQVgzYXhpRmZZNWFMV25LSjhaM1RtSk15T3gwTzEtZDd0V2J3X2E3MDd5dUo4YUJFdUNhV2I1ZmdjaVlDM1hfcVpWMlQ3MzIyc2t1QXU3Z2kyMEQ1UjE0NndrZ1hUUlVQZw?oc=5",
-      "summary": "Say Hello to a Better Signal With 36% Off This TP-Link Wi-Fi 7 Router PCMag",
-      "published_at": "2026-07-24T20:30:07Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     }
   ]
 }
