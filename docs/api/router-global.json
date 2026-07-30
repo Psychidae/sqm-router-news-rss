@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-29T23:39:57.059339Z",
+  "generated_at": "2026-07-30T01:00:56.621717Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 15
     },
     {
+      "id": "4a90cecb59fffe651978d4c9",
+      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0o5SmhFZFdSNXdzVFltV2ZrRUJlZlkxSmlmSFEwWXdUOFRXSk5LOVJNU0kxc1pIbklTMnM1b3k4VlBDVlhsSG5DVWpFMjJOY201RmpoYmNycnlOSnJrelZoR05keGxVeTZxTUlJeEgzUUFpR1paekl4YUl4ZE5ubE9KM3ZZd3E4ZHJQSkVDMzdfVDBlbUZGQlRIREQwOFlINXh1cFh5WlpDcDA?oc=5",
+      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
+      "published_at": "2026-07-29T12:31:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "1aaef8829f0d22c77efe0deb",
       "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "6291f98193eb415339e9a910",
-      "title": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IMlVfT0xKTmJaYmpKZ1c4cHQ0R2RWeWN6eEc1cTUxUDJiQlFGUHF4VUl2Qm9MWWFHSThWZW5kSHVkMFpUdk8ycnBnSGdQOUc4aXZHU1JfRkttWkVpay1KclFsbGxrN09EVnNpVjNMUFVDTFRpZE9iWmgxcXh0c2c?oc=5",
-      "summary": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made Engadget",
-      "published_at": "2026-07-23T13:30:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
