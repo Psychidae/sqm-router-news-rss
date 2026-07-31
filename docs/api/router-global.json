@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-31T09:50:59.841869Z",
+  "generated_at": "2026-07-31T12:14:13.101186Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,10 +20,21 @@
       "score": 23
     },
     {
+      "id": "e538dcc609dac899ceaf040b",
+      "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJNQkdnUHl2OHlfV3VTWlZrdXpNOHY4WnpJb0NRUktoZUdZTUN1TkdfemRmX1ZSYjZISEFNbmlFZ0Q0M1IxTnYzSm5qam5Wc0ZBaXJKNWhvZkM3WTRMSGNIUlBhRVhhUW51N19LZmpTSVZDTjBtaWdILXFXZ3BvelcxYjNqOFJSS2lLWkh6YkNranpwU0g0?oc=5",
+      "summary": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Reviews",
+      "published_at": "2026-07-31T11:31:13Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
+    },
+    {
       "id": "8114a7bd58db5e1551c5da2b",
-      "title": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings - expertreviews.co.uk",
+      "title": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings - Expert Reviews",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGwzNGdCY2dKS0plMHlaMUFRN0tZcmJ5OTFEZ25zMUljNHVYY2tKNzJYczJ3WFBCR0psLWdhZ19xdTJ2TXdvMmo3akNFRXJ0TFhUYkduYktUcE9DSExEeVN2RHEyZmJlZHdmT2pFa1BDNnNHa3pQbWVxWnVOcEZTSG5VQlFoVXlJN0NMcw?oc=5",
-      "summary": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings expertreviews.co.uk",
+      "summary": "Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings Expert Reviews",
       "published_at": "2026-07-30T06:31:12Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -32,9 +43,9 @@
     },
     {
       "id": "42d4368f4a0f5d496a128c92",
-      "title": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf - itwire.com",
+      "title": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf - iTWire",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzRaMXdXdXdxZWZqUmxxNUswbkx3V3l5Q1ZiUDg3alAyOXNXcTY1eHU2RVFtc3cteVAwZHRwWjRBVS1nZ01UWVYyN3ZqMVBCMElISmx2ckQ1ekd5b0dKU1JHZ1FJbGdWOHBsV2RMT052bUJGSTJUU0tTMjl3WXlnQUVrbzRLd2RCdFNZMS00T2xoMk85Y1JJeUswc2hsNDRlZlNPMmJqcG9XeGlKWmdtSENSTE5MYmJuSlI4eUE4bFdfbFhOaTNsQjk5Rmg?oc=5",
-      "summary": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf itwire.com",
+      "summary": "D-Link's new 10G Wi-Fi 7 mesh router takes aim at the bottleneck sitting on your shelf iTWire",
       "published_at": "2026-07-29T05:31:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -91,17 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lVFNYS0tYdThKV21GNmp0eXpiQ2Y0RWxNdXhLSTFRaTY3MVd6Y0F1Ukl3V2F4ZWJQN1ptWVJLQzlhZkJoZVNCaDVkVGZ3czAtSzVFX2pHa0dadGwtWEw1R0JQM0pjNHpUUWRpYUVlbzZiMnJRS25CaA?oc=5",
       "summary": "This TP-Link Wi-Fi 7 router just hit its lowest price yet on Amazon Android Authority",
       "published_at": "2026-07-28T15:54:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "fb3ecb082d6ce59df0638b94",
-      "title": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5",
-      "summary": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less Gizmodo",
-      "published_at": "2026-07-28T11:40:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
