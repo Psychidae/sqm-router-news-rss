@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-07-31T16:21:50.868735Z",
+  "generated_at": "2026-07-31T18:08:41.289466Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -54,9 +54,9 @@
     },
     {
       "id": "5daad81745634a26cfabcfe4",
-      "title": "D-Link Unveils New 10G Wi-Fi 7 Mesh Router - channelnews.com.au",
+      "title": "D-Link Unveils New 10G Wi-Fi 7 Mesh Router - ChannelNews.com.au",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Rb21aaDV3aWlYY201eDdNQUoySzB2TW1kZ1ZPQ2pzbzJSN01DN2dwSzhfYVlvR3M1V0NFalR6ZDVlS1VmVUhtRWNsblRyV3NDNllHdzV2UmdsX2FKUGJlcVlHWVFDbFNOdjA4LWN1bnhmVC1nSVFsaVFkUVBYSHM?oc=5",
-      "summary": "D-Link Unveils New 10G Wi-Fi 7 Mesh Router channelnews.com.au",
+      "summary": "D-Link Unveils New 10G Wi-Fi 7 Mesh Router ChannelNews.com.au",
       "published_at": "2026-07-29T03:30:41Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
