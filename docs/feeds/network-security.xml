@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:50:57 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 米Best BuyでTP-Link製Wi-Fi 6中継器が50ドル引きのセール中 購入前に知るべき通信の限界とセキュリティ懸念 - 財経新聞</title>
@@ -88,6 +88,20 @@
       <pubDate>Wed, 29 Jul 2026 07:29:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T07:29:28.735745Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T06:10:08Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXlSZ0F1TnBRSWs0M25FS2NKdXc1RHJESzhFSnVyQVFpSENIOElFa25ERG83RFFoaW1MSGpwMkRJd054OGE3dHBjRGd6ZjFtYXIzSFdIUlhILWhjWTd1V0NtVEVDTkFKRGc?oc=5</link>
+      <guid isPermaLink="false">20f782e11ccb36ab25fff17d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-07-28 11:00
+【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 PR TIMES</description>
+      <pubDate>Fri, 31 Jul 2026 03:50:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-31T03:50:57.401595Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T02:00:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
