@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-07-31T21:19:27.650667Z",
+  "generated_at": "2026-07-31T22:40:12.117735Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -9,24 +9,13 @@
   "errors": [],
   "items": [
     {
-      "id": "1f78f0c0b5bb5a88e4b0da42",
-      "title": "バッファローのWi-Fiルーターが安い！ Amazon暮らし応援サマーSALE - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbGdKVjZOSUk1cmVPN1FsVkwzSlBzUHdnZjM1M2l4Ums0Z253dEhkdHQyQ19ldC1yYmw4TnAtQW42VzdtcXFUNnJDVlBtTlRpY2E4YS1jQ01LcFAtQk9oMUxlSU1ybW14THBGVzdfZGhZYTJZUlBYcmFDNU5yNXoxX2JZNTNWTDQxbGhYRnpxcETSAZABQVVfeXFMTWxnSlY2TklJNXJlTzdRbFZMM0pQc1B3Z2YzNTNpeFJrNGdud3RIZHR0MkNfZXQtcmJsOE5wLUFuNlc3bXFxVDZyQ1ZQbU5UaWNhOGEtY0NNS3BQLUJPaDFMZUlNcm1teExwRlc3X2RoWWEyWVJQWHJhQzVOcjV6MV9iWTUzVkw0MWxoWEZ6cXBE?oc=5",
-      "summary": "バッファローのWi-Fiルーターが安い！ Amazon暮らし応援サマーSALE ｄメニューニュース",
-      "published_at": "2026-07-31T02:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
       "id": "f556e90c88f9d9e48e953df3",
       "title": "バッファローのWi-Fiルーターが安い！ Amazon暮らし応援サマーSALE - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3MmhkVzl4Wi03RFYwWEFWMHpEdC05VXBlRjFOQnFsZGtNUHZnTTBxU0VTRWE3MnBUY2NXZ2k4emVobFk5clFjNU5ITWFrSUZzWEVLUEVQRUpnS2lJMTVuVXJubDZDNEh0elpsR3pseHE?oc=5",
       "summary": "バッファローのWi-Fiルーターが安い！ Amazon暮らし応援サマーSALE INTERNET Watch",
       "published_at": "2026-07-31T02:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 13
     },
@@ -90,6 +79,17 @@
       "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VR1gwMXhwaHRBX2ZOdE02S3ZZbW9aSVVDcUY1QXNZWlhoQ010bGt1UWs1SXhiNnR0eDBNSlhRVGFxSWJwVDE0RE1WRjRVdnhHekZTanlFVkJrbVZOeC1sR1dQZE9hdDBLLU5kM3RNdHFQODdGLVVYQkN3?oc=5",
       "summary": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27 BCN Retail",
+      "published_at": "2026-07-27T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
+    },
+    {
+      "id": "1bbdfaebc32b589ef62d7035",
+      "title": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUzc0cVJiZXZWMVpjNTA3YmkyaTNHbXNVQWVHSjhoaU9wWWFvek9vclZpZlZBa3AzRGxGcWg5czVjd1ZLMnVzV3R2bDhHRDZXRVJCZmRJdElKc1ZJN0hjUTFBdmJkR3F4TExqVmFMNWNnb1k0cVZhYVh4RVZuY2c?oc=5",
+      "summary": "バッファローが売れてる 無線LANルーター人気ランキングTOP10 2026/7/27（BCN） Yahoo!ニュース",
       "published_at": "2026-07-27T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
