@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 16:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:12:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] 5000+ customers internet outage enters day 12 - WINK News</title>
-      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTdYU3BPbTM2bzh2THREdGJLMGpVZXpsRWFPYV92VldINm1Xald6TTU3WE5RR0tsRXBVTWJMNERZV2JuVHJfMk83S0FRV0N6aEU4Q1pNbUVVRmhsazVWcTNpaVA2T0pFVTdQczJfd1pnMUhFSVg0eDBkWDgtQU9tblFrdW9heHJVQi1oenF6VXluczU3VnkzYUMtVmFJYjdtbWRYZm5VT1hqdzVxeTdGZmR4Y09jckljcW1BWnVjQ3V2V0IyMmZJ?oc=5</link>
-      <guid isPermaLink="false">078ecc67130aa806e0e17f8c</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-01 05:56
-5000+ customers internet outage enters day 12 WINK News</description>
-      <pubDate>Sat, 01 Aug 2026 16:12:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-01T16:12:58.468683Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-31T20:56:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] The countries where an internet outage would hit hardest - TyN Magazine</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzJlU1Z6UXN1OEdMNUJJemVCc0ZZT0NYWVBha1dqWXhUT21rZ1k5UEF1MDViWTU0NjQ0R0g0TndoRWpzUUFOLWpHR2RkOG9KMGEwSmFabFU4MGFnSnFMUmJaTlE2ZE04RjdrRVdVLWM5cndBTFEybE1xMnA0bmpFME40SjRWVnpB?oc=5</link>
@@ -78,13 +64,13 @@ Millions affected by internet outage in Türkiye as TurkNet goes down Türkiye T
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] IPv6 Onlyロードマップに対応するための人材育成を加速 - Laodong.vn</title>
+      <title>[性能・障害] IPv6 Onlyロードマップに対応するための人材育成を加速 - ja.laodong.vn</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjRMOHFoUGJvMGliUnl3eXN6ZHBkSU1ENUhYZVFVU2FaQjZYUl9HYk9wUkNQeTBwZkhvQ0xGd1J0andiMFhaeUhJdU1adzl6bk1sMHZYTTJ2aU9lVlFWNC1wRHUwWWZPdnlPSWVXLXRGS0s2TEF3d1NQSzdYVnVZU1U3TmcyQVRFUGZWOG5fdVJQUFJVS29pbkdsV2s?oc=5</link>
       <guid isPermaLink="false">377181675f4e3774b2492aee</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-31 11:26
-IPv6 Onlyロードマップに対応するための人材育成を加速 Laodong.vn</description>
+IPv6 Onlyロードマップに対応するための人材育成を加速 ja.laodong.vn</description>
       <pubDate>Fri, 31 Jul 2026 09:51:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-31T09:51:01.726215Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T02:26:38Z</sqm:sourcePublishedDate>
@@ -144,6 +130,20 @@ Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Do
       <pubDate>Thu, 30 Jul 2026 12:02:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-30T12:02:50.817983Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T03:49:54Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE56MV9QNDJoWUhjVnF5aWhwNUNVN013UHlneXlXeFM4WFRxak5RQ1VCeGNXSVZud2VRNTNhSFBBdGdXVTVmbS1ZckJ1MXNmcWFaWFJkSEwyeG1BM1NLaXFYYVdMZHJ6S0diZ1c4NG9BZ9IBaEFVX3lxTFBvTjZzTFhGVXlaYm4tVVhfMmRaamtOS3RkTUNnR2taejhPUEo1X245ZE5KLXZ3dm5rYmMtT2MtQmFsV04tUTBfYWFCQWlTcnNWay1HbGF5UE54NkJGOTlxczJ2U29vcDlq?oc=5</link>
+      <guid isPermaLink="false">76138424b68a5cd8120a9b06</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-29 11:01
+熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile ITmedia</description>
+      <pubDate>Sat, 01 Aug 2026 17:12:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-01T17:12:51.310462Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-29T02:01:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
