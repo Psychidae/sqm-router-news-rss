@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-01T11:04:07.555153Z",
+  "generated_at": "2026-08-01T12:11:29.297014Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,7 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "8114a7bd58db5e1551c5da2b",
@@ -98,9 +98,9 @@
     },
     {
       "id": "6291f98193eb415339e9a910",
-      "title": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made - Engadget",
+      "title": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made - engadget.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IMlVfT0xKTmJaYmpKZ1c4cHQ0R2RWeWN6eEc1cTUxUDJiQlFGUHF4VUl2Qm9MWWFHSThWZW5kSHVkMFpUdk8ycnBnSGdQOUc4aXZHU1JfRkttWkVpay1KclFsbGxrN09EVnNpVjNMUFVDTFRpZE9iWmgxcXh0c2c?oc=5",
-      "summary": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made Engadget",
+      "summary": "There Isn't A Single Consumer Wi-Fi Router That Is 100% American-Made engadget.com",
       "published_at": "2026-07-23T13:30:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
