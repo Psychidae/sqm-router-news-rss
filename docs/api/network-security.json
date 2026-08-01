@@ -1,13 +1,57 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-01T01:12:10.895676Z",
+  "generated_at": "2026-08-01T04:33:14.316751Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "84708fa0edfa06cf82033349",
+      "title": "バッファロー製Wi-Fiルーターに脆弱性 IPAなどが注意呼び掛け 「最新版ファームウェアへ更新を」（画像）（2/2枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xT2cwT212aEg0YnVfb3JkRngyYlF5MWwxdFNBVlZKODhqNVBCM0FLeTdVVGo0ZTVaMFl4MEh3N0hRQUtPS2hvZjY1MFkwZFIzZ25oZU9saDU3bTB4cjZRa2V2LVRyRXFza1loMEhTWGVOODlMREdJaWNoYw?oc=5",
+      "summary": "バッファロー製Wi-Fiルーターに脆弱性 IPAなどが注意呼び掛け 「最新版ファームウェアへ更新を」（画像）（2/2枚目） ITmedia",
+      "published_at": "2026-07-31T17:28:45Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "a67405c76f431ec272244d2c",
+      "title": "WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（画像）（2/2枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEODVmZGF0cWdrMV9sS1ZUOTF5LXVLdHI4MEg2eHIxaUlqTFFQQ0ZOeEdHZ0xVczJ0YWUzM0s2VDY1YmFXdGNLa2NtMFJmdkhqS1d3OXNldVEtanROcVVFYmMyZVFTcUJFRHdITS1sY3ZJOUtObFBpNHVuYw?oc=5",
+      "summary": "WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（画像）（2/2枚目） ITmedia",
+      "published_at": "2026-07-31T16:27:16Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "e501936fb8bc321dc045d2a0",
+      "title": "WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（画像）（1/2枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xd01KeHFfQjJIaUxuZmJUaFlVQ1FHZHlVNmt0bGloZHpSOGdYSUd0X19mN2lBd1k4ejB5NERaOFNKaXlOdGRraDZTeVh0SXFEX0ZzZTBCTnJCNEdYWWhLWlNhNzMwZ09CaVkwc0Mxb1RKY0tBellMcE80SQ?oc=5",
+      "summary": "WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（画像）（1/2枚目） ITmedia",
+      "published_at": "2026-07-31T16:13:32Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "c4ad35177eafa29333124057",
+      "title": "バッファロー製Wi-Fiルーターに脆弱性 IPAなどが注意呼び掛け 「最新版ファームウェアへ更新を」（画像）（1/2枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRcnZKRVBoaC0zN3NkVko0SGNzenVLWjZSTWptRk1ZR1dVMFZLZ3d1TjdvNzg2ZXFIc2VOWUZwTDdSLVdFak15T093T0VCT0JCLVB3YThkU1ZraFdNaEVCQ1pWR0tOZWViLVFIMWt5Y1U2b3h5T1RISEE0MA?oc=5",
+      "summary": "バッファロー製Wi-Fiルーターに脆弱性 IPAなどが注意呼び掛け 「最新版ファームウェアへ更新を」（画像）（1/2枚目） ITmedia",
+      "published_at": "2026-07-31T16:06:40Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "c4342b7e9804fb3d298c6897",
       "title": "エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - 財経新聞",
@@ -28,7 +72,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 12
+      "score": 11
     },
     {
       "id": "d93b913b1718a83d633f979f",
@@ -73,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
-    },
-    {
-      "id": "c9eb66cafa89af74b285d034",
-      "title": "テレワークで使う「家庭用ルーター」が危ない！ セキュリティ対策をあなどってはいけない理由（画像）（2/3枚目） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1T2d0RlFDcFZ4bE1QSzlsQVE1LXdpbHFDT2w5a0w2ZjNGUkRFcXhTbGU3SEVxSE1XN1AzaG81VkRHRmtuMEpfaXlCQ2xaSDBrTEFDWWg0cGd5SGc3U3d0XzRYYlNWM2JTOUVfNDkwbEZWa1phWktkTEV3aw?oc=5",
-      "summary": "テレワークで使う「家庭用ルーター」が危ない！ セキュリティ対策をあなどってはいけない理由（画像）（2/3枚目） ITmedia",
-      "published_at": "2026-07-29T02:44:58Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
-    },
-    {
-      "id": "20f782e11ccb36ab25fff17d",
-      "title": "【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXlSZ0F1TnBRSWs0M25FS2NKdXc1RHJESzhFSnVyQVFpSENIOElFa25ERG83RFFoaW1MSGpwMkRJd054OGE3dHBjRGd6ZjFtYXIzSFdIUlhILWhjWTd1V0NtVEVDTkFKRGc?oc=5",
-      "summary": "【広範囲×細部をカバー】4Kデュアルレンズセキュリティカメラ「Tapo C675D KIT」「Tapo C575D」8月6日（木）同時発売 PR TIMES",
-      "published_at": "2026-07-28T02:00:02Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     }
   ]
 }
