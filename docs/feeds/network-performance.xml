@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:31:03 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] The countries where an internet outage would hit hardest - TyN Magazine</title>
@@ -50,13 +50,13 @@ Millions affected by internet outage in Türkiye as TurkNet goes down Türkiye T
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - vietnam.vn</title>
+      <title>[性能・障害] ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjZuSFl3dk5FelREeWdjOVdFOVhfR1hwVV9FanRnUTJ2eG9mSDh2RjY5QWhFYTNoQWhmeVRRVUJJWDVnOThGMlpUX0RaT1RLeVhVb1dsekM4aDc4QzNtVVRCY3V6WTF2X1c4SWtxdWhMQXlQQWdvQnVQWmhBVWc5bjZSeEZPSTVJMFh4cVVDRDdkbTRMSTNWajR0U3J3X1JkRXFGNENEVElpRXA2VzNwQXdGUWt6RDUxaDFlOFdhbVd0Tlk?oc=5</link>
       <guid isPermaLink="false">a4ea4bc4affb5ff49785956e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-31 16:25
-ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 vietnam.vn</description>
+ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 Vietnam.vn</description>
       <pubDate>Fri, 31 Jul 2026 09:51:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-31T09:51:01.726215Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T07:25:53Z</sqm:sourcePublishedDate>
@@ -78,13 +78,13 @@ IPv6 Onlyロードマップに対応するための人材育成を加速 Laodong
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） - ITmedia</title>
+      <title>[性能・障害] NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） - itmedia.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE0wSUZCaGNEOTVhbWtvLXBkSlBrcm5XckxQWG1XelBTSmw4TXNtTklYcnB4X2ZxNmtsanVzMnMyQmJ5eFB3MTZ4dWJlOVR6M0YzYi14eUlpd2lpNUtBLW5qZHkzbUpzcHAxR0Z0OVl3N2lHT1VHMTlzRndFdw?oc=5</link>
       <guid isPermaLink="false">d075965e4a1da96616f8de4f</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-30 18:20
-NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） ITmedia</description>
+NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） itmedia.co.jp</description>
       <pubDate>Fri, 31 Jul 2026 03:50:58 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-31T03:50:58.556970Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-30T09:20:02Z</sqm:sourcePublishedDate>
@@ -134,13 +134,13 @@ Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Do
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile - ITmedia</title>
+      <title>[性能・障害] 熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile - itmedia.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE56MV9QNDJoWUhjVnF5aWhwNUNVN013UHlneXlXeFM4WFRxak5RQ1VCeGNXSVZud2VRNTNhSFBBdGdXVTVmbS1ZckJ1MXNmcWFaWFJkSEwyeG1BM1NLaXFYYVdMZHJ6S0diZ1c4NG9BZ9IBaEFVX3lxTFBvTjZzTFhGVXlaYm4tVVhfMmRaamtOS3RkTUNnR2taejhPUEo1X245ZE5KLXZ3dm5rYmMtT2MtQmFsV04tUTBfYWFCQWlTcnNWay1HbGF5UE54NkJGOTlxczJ2U29vcDlq?oc=5</link>
       <guid isPermaLink="false">76138424b68a5cd8120a9b06</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-29 11:01
-熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile ITmedia</description>
+熊本地震の影響で通信障害が続く ドコモとKDDIはJAPANローミングを提供中、無料Wi-Fi「00000JAPAN」も開放 - ITmedia Mobile itmedia.co.jp</description>
       <pubDate>Sat, 01 Aug 2026 19:31:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-01T19:31:01.736696Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T02:01:00Z</sqm:sourcePublishedDate>
