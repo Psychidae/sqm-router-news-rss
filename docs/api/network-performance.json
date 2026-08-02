@@ -1,24 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-02T19:31:47.437016Z",
+  "generated_at": "2026-08-02T20:32:57.143566Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "a7d97593228071dad51bbdc8",
-      "title": "The countries where an internet outage would hit hardest - TyN Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZzJlU1Z6UXN1OEdMNUJJemVCc0ZZT0NYWVBha1dqWXhUT21rZ1k5UEF1MDViWTU0NjQ0R0g0TndoRWpzUUFOLWpHR2RkOG9KMGEwSmFabFU4MGFnSnFMUmJaTlE2ZE04RjdrRVdVLWM5cndBTFEybE1xMnA0bmpFME40SjRWVnpB?oc=5",
-      "summary": "The countries where an internet outage would hit hardest TyN Magazine",
-      "published_at": "2026-07-31T15:01:03Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
     {
       "id": "a0dcacaedb3e6c17289f946b",
       "title": "Millions affected by internet outage in Türkiye as TurkNet goes down - Türkiye Today",
@@ -35,7 +24,7 @@
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
       "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-07-31T10:41:20Z",
+      "published_at": "2026-08-01T15:39:56Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWGZ5LUpiSnlTbE5OXzBKVm5BejA3bGg0QTZQYTUzbWFxU3l5Z0FwLXR5alBfT2NWbDhrbmN3dUhBWWhobGFoR1hEZ0sxWEl0RjUxb3VVVGxiVFNHRUIxUjlpbUI5dmF1R3c?oc=5",
       "summary": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 ITmedia",
       "published_at": "2026-07-28T14:37:45Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "7833a6d459265d0dab877e12",
+      "title": "2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRWk2WnkzY1FQUWl3UGliSXV6UlhzdjJLSDZIb3dkbVh1dGJQZEhGWkRUWUtrS1UyOFhjSmFEcHBnUzFwcTU2bVlsQjQwMUk0M2hJTWR1VU9hQmFfbldYSFMwZTlrdmNpSUlkUjdyUzQ4anpKMU9McVc4Nkt1ZWM?oc=5",
+      "summary": "2026年熊本地震＞宇土市などでネット通信障害 熊本空港の管制室も被災（熊本日日新聞） Yahoo!ニュース",
+      "published_at": "2026-07-28T14:09:24Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
