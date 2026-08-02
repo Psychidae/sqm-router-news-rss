@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-02T13:52:52.205649Z",
+  "generated_at": "2026-08-02T15:17:04.663269Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "dabe16c9f42995e6c6291ae7",
-      "title": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ - The AU Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5",
-      "summary": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ The AU Review",
-      "published_at": "2026-07-30T21:31:24Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 22
-    },
     {
       "id": "e538dcc609dac899ceaf040b",
       "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews",
@@ -29,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 18
+    },
+    {
+      "id": "dabe16c9f42995e6c6291ae7",
+      "title": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ - theaureview.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5",
+      "summary": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ theaureview.com",
+      "published_at": "2026-07-30T21:31:24Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
     },
     {
       "id": "8114a7bd58db5e1551c5da2b",
@@ -65,9 +65,9 @@
     },
     {
       "id": "4a90cecb59fffe651978d4c9",
-      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
+      "title": "Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0o5SmhFZFdSNXdzVFltV2ZrRUJlZlkxSmlmSFEwWXdUOFRXSk5LOVJNU0kxc1pIbklTMnM1b3k4VlBDVlhsSG5DVWpFMjJOY201RmpoYmNycnlOSnJrelZoR05keGxVeTZxTUlJeEgzUUFpR1paekl4YUl4ZE5ubE9KM3ZZd3E4ZHJQSkVDMzdfVDBlbUZGQlRIREQwOFlINXh1cFh5WlpDcDA?oc=5",
-      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
+      "summary": "Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net",
       "published_at": "2026-07-29T12:31:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -76,9 +76,9 @@
     },
     {
       "id": "1aaef8829f0d22c77efe0deb",
-      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
+      "title": "Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5",
-      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
+      "summary": "Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net",
       "published_at": "2026-07-29T12:31:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",

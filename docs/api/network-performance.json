@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-02T13:52:54.058201Z",
+  "generated_at": "2026-08-02T15:17:06.701055Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -43,9 +43,9 @@
     },
     {
       "id": "a4ea4bc4affb5ff49785956e",
-      "title": "ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - vietnam.vn",
+      "title": "ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjZuSFl3dk5FelREeWdjOVdFOVhfR1hwVV9FanRnUTJ2eG9mSDh2RjY5QWhFYTNoQWhmeVRRVUJJWDVnOThGMlpUX0RaT1RLeVhVb1dsekM4aDc4QzNtVVRCY3V6WTF2X1c4SWtxdWhMQXlQQWdvQnVQWmhBVWc5bjZSeEZPSTVJMFh4cVVDRDdkbTRMSTNWajR0U3J3X1JkRXFGNENEVElpRXA2VzNwQXdGUWt6RDUxaDFlOFdhbVd0Tlk?oc=5",
-      "summary": "ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 vietnam.vn",
+      "summary": "ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 Vietnam.vn",
       "published_at": "2026-07-31T07:25:53Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
