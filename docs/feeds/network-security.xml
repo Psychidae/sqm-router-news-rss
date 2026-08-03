@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 20:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 21:30:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] バッファロー製Wi-Fiルーターに脆弱性 IPAなどが注意呼び掛け 「最新版ファームウェアへ更新を」（画像）（2/2枚目） - ITmedia</title>
@@ -64,13 +64,13 @@ WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - zaikei.co.jp</title>
+      <title>[セキュリティ] エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - 財経新聞</title>
       <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTSGg3RVowQjFKRTBPb3VaR01DUHlHWk5ybS1vN3VwQThlbFgxU1hHc3ZWeFM5VHlfNUJocmhJTkhjelhPc0o1WEFXSDZMREFBVnAtNFc4VFJ3TDRlZXFfVklySdIBaEFVX3lxTE12VDhKNVlyR04yYzB2ME1GczV4SGY4a1BidkNXVHY2QUhZM0gtMVJLbFdFZEx0c3FrT1B2T3JiVzZ4cW5Yb2M3Z0xvbTNzVGN5OWpjNW4wZFJkN1dFMFY4RUYxNnBYT1hw?oc=5</link>
       <guid isPermaLink="false">c4342b7e9804fb3d298c6897</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-07-30 00:31
-エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 zaikei.co.jp</description>
+エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 財経新聞</description>
       <pubDate>Wed, 29 Jul 2026 19:40:08 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T19:40:08.175164Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T15:31:21Z</sqm:sourcePublishedDate>
