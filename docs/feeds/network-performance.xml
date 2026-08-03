@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 11:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:01:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
@@ -36,13 +36,13 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Millions affected by internet outage in Türkiye as TurkNet goes down - Türkiye Today</title>
+      <title>[性能・障害] Millions affected by internet outage in Türkiye as TurkNet goes down - turkiyetoday.com</title>
       <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVdaTVcyS1piNnVTSzdLWklxc09Ma2xLVElDb2oxZ2ktN3ItQ0FyQmxxNmFZU1RYeDRUYnRuUHJaN2UzR0V0aFY2UUtFUFgzeGRkeFB5RkZxd29rclctb0kxS21yZEljS3haV0owcUZJdlNCSmltSzBQVnZaSDFvVVZMck5VRGlMcnd3a3NRRHdlMmFadDNCWGpUQTVOU293cVJnanFzY0o5ZndpNFF0aGFudDI?oc=5</link>
       <guid isPermaLink="false">a0dcacaedb3e6c17289f946b</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-07-31 19:50
-Millions affected by internet outage in Türkiye as TurkNet goes down Türkiye Today</description>
+Millions affected by internet outage in Türkiye as TurkNet goes down turkiyetoday.com</description>
       <pubDate>Fri, 31 Jul 2026 12:14:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-31T12:14:15.171834Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T10:50:34Z</sqm:sourcePublishedDate>

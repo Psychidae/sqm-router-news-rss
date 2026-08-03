@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-03T11:40:59.803448Z",
+  "generated_at": "2026-08-03T14:01:23.897052Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -109,9 +109,9 @@
     },
     {
       "id": "d123a658b6a29341fc01d5fd",
-      "title": "OpenWrt releases security updates for critical DHCPv6 flaw and other vulnerabilities - scworld.com",
+      "title": "OpenWrt releases security updates for critical DHCPv6 flaw and other vulnerabilities - SC Media",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVg1RzFzelFZV1dJT2V0RzdqUjFqckVOeDBSZ2dHelZDWVd5UVF2V1VGamFyMkxXT09Jc0Zab2IzSDFEbFhPOHpsVGkxQVZfOFpnbnZTcUtmOWw5T2J4eWR1THotLTM5YlRyVjJ1aUstcVAteWdVNnI1V000Q01ZWGVvTHRsN2VHX1RONE1Qd0lhTkVWdnZCT2k0UElXeXcwUG50Y2pZcnFVekFTbGpOek9QWnQ?oc=5",
-      "summary": "OpenWrt releases security updates for critical DHCPv6 flaw and other vulnerabilities scworld.com",
+      "summary": "OpenWrt releases security updates for critical DHCPv6 flaw and other vulnerabilities SC Media",
       "published_at": "2026-07-29T14:33:58Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
