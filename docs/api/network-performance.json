@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-03T01:13:47.495273Z",
+  "generated_at": "2026-08-03T04:46:07.871890Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -42,17 +42,6 @@
       "score": 7
     },
     {
-      "id": "28d54fdd112e89575284be1a",
-      "title": "Afrihost customers hit by Internet outage - MyBroadband",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR01XelZJb1BwVFM2RjJfVmxHc242NzhEbE9HYmtDZ1BvaWV0ZFVYNEF0Z2xFV2tQVzd4eFdLdElzX2hGdFlQbzNRcDFHcE4tTWdOaTEzV2ZiWFdJeU9NWDdCY0x2YlBnTHA0WkkyUDhVdFU4dDhkYmRJVXkwM1N0bmFvMGNVYTdweGxxSkpybXdDYkdGemc?oc=5",
-      "summary": "Afrihost customers hit by Internet outage MyBroadband",
-      "published_at": "2026-07-28T18:03:27Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "e067d5fe4875dad5ee9ebd9c",
       "title": "Some AnMed offices to reopen during recent phone, Internet outage - FOX Carolina News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm5UQUlHUWd0MG5ZZjdvOGk3ODczeUNyRmNpbDhQZHItbURSMWZOSF9KWmxyNE9hQ0dTb0RaNWJEdndyLWx3Z0lCQy1MSW5TcDk4N0VVaWxZaGk4cmk4RV9TWUZzdVFJeXRLUmp1MnliN01XdWNKUDFJQkJWQ241NWN2bHhPUDZtM3VGR2pUQWFrN1p6LVdneENMbXNCTWRFa0tVTmxqTlBKR3c?oc=5",
@@ -65,9 +54,9 @@
     },
     {
       "id": "cdfb0697dc59dc687752cecc",
-      "title": "Spectrum Restores Service Following 18-Hour Internet Outage Across Area - Daily Dodge",
+      "title": "Spectrum Restores Service Following 18-Hour Internet Outage Across Area - dailydodge.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdi1zeE5TVXg5MUVtdnFTUGdMbnBZVnBzNzZQajhBVEUyRk1OaUdFQVpNVkx5RmkyYW1GcUlPd05iTFZScXZpcm02d3ByTGNaNUJjWnE5VlRLOF8teFc5VXl1S2ZOMTIxSHl3a3JkakNyZG9pZVBZT2xjeHp5MTRRU2c4ckU4T0pFNGFqTjUzd19KUDhjb1djV0dEcw?oc=5",
-      "summary": "Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Dodge",
+      "summary": "Spectrum Restores Service Following 18-Hour Internet Outage Across Area dailydodge.com",
       "published_at": "2026-07-27T11:22:07Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWGZ5LUpiSnlTbE5OXzBKVm5BejA3bGg0QTZQYTUzbWFxU3l5Z0FwLXR5alBfT2NWbDhrbmN3dUhBWWhobGFoR1hEZ0sxWEl0RjUxb3VVVGxiVFNHRUIxUjlpbUI5dmF1R3c?oc=5",
       "summary": "携帯各社、熊本の一部で通信障害 震度7の地震で 他社回線につながる「JAPANローミング」開始【追記】 ITmedia",
       "published_at": "2026-07-28T14:37:45Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "ff64cab5d81368394451c9d8",
+      "title": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5",
+      "summary": "中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ BigGo ファイナンス",
+      "published_at": "2026-07-28T06:26:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
