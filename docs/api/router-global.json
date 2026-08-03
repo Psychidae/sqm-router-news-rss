@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-03T21:30:54.952805Z",
+  "generated_at": "2026-08-03T22:38:18.147026Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -98,9 +98,9 @@
     },
     {
       "id": "1f42664871ad328a05adb908",
-      "title": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - Lifehacker",
+      "title": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - lifehacker.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TS0J4WGRmQUMxdkREYUtvbDBGUVhXSkxyM2YyRm5tclRyMlpSVmRlVEVNT0tNVm5JeVY3dmpEOXFRM2pWUHpHcmFUU0lEUjZTeXVaUE5Vd2VRNEJNQ3QzX3I3emxOeVQwV25fcUlUT2Zidw?oc=5",
-      "summary": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now Lifehacker",
+      "summary": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now lifehacker.com",
       "published_at": "2026-07-30T13:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
