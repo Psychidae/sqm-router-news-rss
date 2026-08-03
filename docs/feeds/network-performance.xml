@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 08:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:41:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
@@ -18,6 +18,20 @@
       <pubDate>Mon, 03 Aug 2026 08:04:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-03T08:04:07.185643Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-03T04:51:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-02 00:39
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Sat, 01 Aug 2026 07:13:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-01T07:13:09.813107Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-01T15:39:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -36,20 +50,6 @@ Millions affected by internet outage in Türkiye as TurkNet goes down Türkiye T
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-02 00:39
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Sat, 01 Aug 2026 07:13:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-01T07:13:09.813107Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-01T15:39:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Some AnMed offices to reopen during recent phone, Internet outage - FOX Carolina News</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQm5UQUlHUWd0MG5ZZjdvOGk3ODczeUNyRmNpbDhQZHItbURSMWZOSF9KWmxyNE9hQ0dTb0RaNWJEdndyLWx3Z0lCQy1MSW5TcDk4N0VVaWxZaGk4cmk4RV9TWUZzdVFJeXRLUmp1MnliN01XdWNKUDFJQkJWQ241NWN2bHhPUDZtM3VGR2pUQWFrN1p6LVdneENMbXNCTWRFa0tVTmxqTlBKR3c?oc=5</link>
       <guid isPermaLink="false">e067d5fe4875dad5ee9ebd9c</guid>
@@ -60,20 +60,6 @@ Some AnMed offices to reopen during recent phone, Internet outage FOX Carolina N
       <pubDate>Wed, 29 Jul 2026 04:28:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-29T04:28:41.099284Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-28T02:45:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Spectrum Restores Service Following 18-Hour Internet Outage Across Area - Daily Dodge</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQdi1zeE5TVXg5MUVtdnFTUGdMbnBZVnBzNzZQajhBVEUyRk1OaUdFQVpNVkx5RmkyYW1GcUlPd05iTFZScXZpcm02d3ByTGNaNUJjWnE5VlRLOF8teFc5VXl1S2ZOMTIxSHl3a3JkakNyZG9pZVBZT2xjeHp5MTRRU2c4ckU4T0pFNGFqTjUzd19KUDhjb1djV0dEcw?oc=5</link>
-      <guid isPermaLink="false">cdfb0697dc59dc687752cecc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-07-27 20:22
-Spectrum Restores Service Following 18-Hour Internet Outage Across Area Daily Dodge</description>
-      <pubDate>Mon, 27 Jul 2026 16:33:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-27T16:33:02.406872Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-27T11:22:07Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -106,13 +92,13 @@ NTT西日本、光回線で通信障害 原因は「インターネット関連�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 - 教育家庭新聞社</title>
+      <title>[性能・障害] 端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 - kknews.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQktSUWJXZ1p0cmtETHM0OHJsUUpmS2NaVmdsNUZZZkhxVkd4YU5UR2NqRFEwcjhmZTBwR1dHLUhPRFJQVlhwaVJZWmt6UGlfSVd4UXdIOU1PWjJ6YktUc1RHYklLeWs?oc=5</link>
       <guid isPermaLink="false">0004a4a747187d3dc1fc6ac9</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-29 12:49
-端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 教育家庭新聞社</description>
+端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 kknews.co.jp</description>
       <pubDate>Thu, 30 Jul 2026 12:02:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-30T12:02:50.817983Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T03:49:54Z</sqm:sourcePublishedDate>
@@ -144,6 +130,20 @@ NTT西日本、光回線で通信障害 原因は「インターネット関連�
       <pubDate>Sun, 02 Aug 2026 01:13:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-02T01:13:32.296161Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-28T14:37:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ - BigGo ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWmNKdGdyeEZESWw5T2JqOF96dzRGT1VzWHRHQjZhMFFORXpCTWxPSkItbE1iQVpzY2Y3d0Jrc25pRzVZdkNxcHNLZ1poY1ZfdDI1aWVQZ1FMYTBvQ0dXeWxyRUhfVmx0V2dNb1NnOHA3Uldy?oc=5</link>
+      <guid isPermaLink="false">ff64cab5d81368394451c9d8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-07-28 15:26
+中国、AI大規模モデル向けIPv6特別行動を始動、雄安新区は2030年にシングルスタック化へ BigGo ファイナンス</description>
+      <pubDate>Mon, 03 Aug 2026 11:41:01 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-03T11:41:01.839209Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-28T06:26:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
