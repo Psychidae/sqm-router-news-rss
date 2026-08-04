@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-04T12:19:48.132233Z",
+  "generated_at": "2026-08-04T15:08:41.806024Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,10 +42,21 @@
       "score": 17
     },
     {
+      "id": "57b1d560bab2681bb35981d9",
+      "title": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes - SMBtech",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWGlpTU1BaUpZbW1BRXA1dVFQX2RqdjZBNTQzRmtzOW5vUmk2M2k2VjFjUWRpcW5PNXN2VWVTLWNzOWtJcjFsZEdrWkotdVJ4cXYtNVVZQVc3WENRUldUZGJFWFc1Y1dLV1I4N2hRcGd4alExN0hPWl9BWFlSdnNHNmVub2JtcGRmT2M0ZEVmZjJKcERrTkxUV0gxS19nVzZDWHJQbFBrcGx4NHBtWURNZXowNkswNVIwYnFKR21xTUVaUGZDYmRSQlZqZw?oc=5",
+      "summary": "D-Link Launches 10G Wi-Fi 7 Mesh Router With Dual 10 Gigabit Ethernet For Australian And New Zealand Homes SMBtech",
+      "published_at": "2026-07-28T22:26:22Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
+    {
       "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - basic-tutorials.com",
+      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here basic-tutorials.com",
+      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
       "published_at": "2026-08-04T02:10:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkhSbkkyMlJORDNCYklYeGVhWEFQbkpvOGRvMG00czd0enFKTG11dEpXODFFNmxXcjE0Y3hRQ1MwNUtBX2YybDZLZHh4MmhEMkJ1UE5IOWVQeDZMMXdQaVRibEZxZjVvMUVZYjNoTHFwUTlSWnZJbXRWc3hUelg4QWwteE0?oc=5",
       "summary": "You can finally upgrade to Wi-Fi 7 without the premium price tag XDA",
       "published_at": "2026-07-31T14:36:10Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "1f42664871ad328a05adb908",
-      "title": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - lifehacker.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TS0J4WGRmQUMxdkREYUtvbDBGUVhXSkxyM2YyRm5tclRyMlpSVmRlVEVNT0tNVm5JeVY3dmpEOXFRM2pWUHpHcmFUU0lEUjZTeXVaUE5Vd2VRNEJNQ3QzX3I3emxOeVQwV25fcUlUT2Zidw?oc=5",
-      "summary": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now lifehacker.com",
-      "published_at": "2026-07-30T13:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
