@@ -1,24 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-04T21:54:04.580383Z",
+  "generated_at": "2026-08-04T23:17:01.388221Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "14c2c57176dfeb1d33e0c8a4",
-      "title": "Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeGFwUjVnSWFvM0Y2N2ZQMlVIRVdiX3pmOWYxcTFERWpHUWs0b1U1YnhWVlVfX0NsX1Nrcjg3RnB4Zjk4ZldacWF1Sm1QVEk2S0xOd2YyRG9iVDRsTnAyV01nZlplZGZ1aHAtX3ZHUG1yc3UzZ3FaMW13ekxtNFd4aC1aSjdrYzFtZ0NRcURBeGtmc2QzanVLUkotUUJNajhjaE5hNWlpWjYzN1lMdUlmZFNKTEl0WEZrcDBSaW5ka3ZFTUNiM08zMXRpNUw3TEZ2VVl6dEZ3eWdjZDB0S2RadzVqOWlNUG5xSWxvcFJvc1A1V0h6bUNOQzV2eG42V1RDZGc?oc=5",
-      "summary": "Spectrum: Internet outage was caused by vandals; reward offered for information WLOS",
-      "published_at": "2026-08-04T19:16:48Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
     {
       "id": "a2ad52219eca28b8a467b74e",
       "title": "Asheville internet outage caused by vandals, Spectrum says - 828 News Now",
@@ -75,17 +64,6 @@
       "score": 7
     },
     {
-      "id": "a4ee1d0b5a3ed021f71fe6a9",
-      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
-      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
-      "published_at": "2026-08-03T03:10:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "3da24a7dd935aeedb1f3ab13",
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
@@ -113,6 +91,28 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjZuSFl3dk5FelREeWdjOVdFOVhfR1hwVV9FanRnUTJ2eG9mSDh2RjY5QWhFYTNoQWhmeVRRVUJJWDVnOThGMlpUX0RaT1RLeVhVb1dsekM4aDc4QzNtVVRCY3V6WTF2X1c4SWtxdWhMQXlQQWdvQnVQWmhBVWc5bjZSeEZPSTVJMFh4cVVDRDdkbTRMSTNWajR0U3J3X1JkRXFGNENEVElpRXA2VzNwQXdGUWt6RDUxaDFlOFdhbVd0Tlk?oc=5",
       "summary": "ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 Vietnam.vn",
       "published_at": "2026-07-31T07:25:53Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "d075965e4a1da96616f8de4f",
+      "title": "NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wSUZCaGNEOTVhbWtvLXBkSlBrcm5XckxQWG1XelBTSmw4TXNtTklYcnB4X2ZxNmtsanVzMnMyQmJ5eFB3MTZ4dWJlOVR6M0YzYi14eUlpd2lpNUtBLW5qZHkzbUpzcHAxR0Z0OVl3N2lHT1VHMTlzRndFdw?oc=5",
+      "summary": "NTT西日本、光回線で通信障害 原因は「インターネット関連設備の故障」【復旧済み】（画像） ITmedia",
+      "published_at": "2026-07-30T09:20:02Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "0004a4a747187d3dc1fc6ac9",
+      "title": "端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 - 教育家庭新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FQktSUWJXZ1p0cmtETHM0OHJsUUpmS2NaVmdsNUZZZkhxVkd4YU5UR2NqRFEwcjhmZTBwR1dHLUhPRFJQVlhwaVJZWmt6UGlfSVd4UXdIOU1PWjJ6YktUc1RHYklLeWs?oc=5",
+      "summary": "端末規模1万6000台の無線ネットワークを構築～ネットワーク遅延の課題を改善～沖縄市 教育家庭新聞社",
+      "published_at": "2026-07-29T03:49:54Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
