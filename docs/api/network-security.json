@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-04T20:41:32.573243Z",
+  "generated_at": "2026-08-04T21:54:03.587399Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -75,17 +75,6 @@
       "score": 11
     },
     {
-      "id": "d93b913b1718a83d633f979f",
-      "title": "帰省先のWi-Fiルーター、セキュリティは大丈夫？ GW中に確認しよう 警視庁も注意喚起（画像）（2/3枚目） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HRk5DVGNTa0xDdHROVll4Zk9zT1ZHR3I2ZDlwbE9feWNXZHUyaVZlNW81LXB2bFdRcUFrcjFRQ3BCU01aWVdHVWN3M2hjbkd3V2l4M0VNNmJhZ3hicHZKS1dQbGg4MGN0NXVkOUhsRUZ3end5M2NHVHNFRQ?oc=5",
-      "summary": "帰省先のWi-Fiルーター、セキュリティは大丈夫？ GW中に確認しよう 警視庁も注意喚起（画像）（2/3枚目） ITmedia",
-      "published_at": "2026-07-28T21:05:34Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
       "id": "dda30dfb4d87a5a972a542d2",
       "title": "TP-Link TL-WR940N Router Flaw Lets Unauthenticated Attackers Execute Code Remotely - gbhackers.com",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44OHFjNlJYNWxuaEItTHQ3YUpGcVNHcU5KN1hhd1RhZGxCV0FHRld2RExpQUpBZGViZDFuS1U3dUM2V1JqYXp2R3EzYTk1SGtpUGQwQnduRzE4Y3J1S2xOYTZn0gFnQVVfeXFMTjdhWDRCeU1wX3E2QVV0V3JGT1RfZzFuVzBjZHJob2VaNkw2Nm9qN04yc3plZHBZUHExWTRJWTJ4cUZjM3NBZ0ZHeVctOFdzeTZsdXVSZTYxMmFWVi1jR3NWMDBYYU90bw?oc=5",
@@ -108,11 +97,11 @@
       "score": 7
     },
     {
-      "id": "e8a831656075c58f808850db",
-      "title": "エレコム製無線LANルーターに重大な脆弱性、対象製品はファームウェア更新を - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTVFZhLWh3MUk2bFBsUm15ci1wNmgxZnZoWldvaUxVRVBORHo2U0JwWU5xeDlHMjFBLUZRWGt4bFlYV3JPdUVKNV9MM09JcmQzczNkSFEtbEhrSnZ0OVliRUVKOHpNNHlE?oc=5",
-      "summary": "エレコム製無線LANルーターに重大な脆弱性、対象製品はファームウェア更新を マイナビニュース",
-      "published_at": "2026-07-29T06:10:08Z",
+      "id": "c9eb66cafa89af74b285d034",
+      "title": "テレワークで使う「家庭用ルーター」が危ない！ セキュリティ対策をあなどってはいけない理由（画像）（2/3枚目） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1T2d0RlFDcFZ4bE1QSzlsQVE1LXdpbHFDT2w5a0w2ZjNGUkRFcXhTbGU3SEVxSE1XN1AzaG81VkRHRmtuMEpfaXlCQ2xaSDBrTEFDWWg0cGd5SGc3U3d0XzRYYlNWM2JTOUVfNDkwbEZWa1phWktkTEV3aw?oc=5",
+      "summary": "テレワークで使う「家庭用ルーター」が危ない！ セキュリティ対策をあなどってはいけない理由（画像）（2/3枚目） ITmedia",
+      "published_at": "2026-07-29T02:44:58Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
