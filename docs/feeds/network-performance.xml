@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 07:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:16:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Converge tops DICT broadband speed, latency rankings - Newsbytes.PH</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQazJSY0ota0dLUVRTRVBXM3FNSHhlZXNrZ0VYaGYwVjdvZ05tMVllSHc3SDhKcHZzTHRoTU05dE0tYVY0OXZIYkxLS3I5cDJyZ3NWZnRZX3BjVUJrejd0WXA5OU5jdkNReHVSVmpDd190QVp5WWVsVkRVdVdJbjJKTDdJZDUwaEZGYlRYQw?oc=5</link>
+      <guid isPermaLink="false">f1afde5241558146ca741838</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-04 16:53
+Converge tops DICT broadband speed, latency rankings Newsbytes.PH</description>
+      <pubDate>Tue, 04 Aug 2026 10:16:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-04T10:16:55.004185Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-04T07:53:25Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE81VV9pUWtoeTNLaWZ5bF9OOGZYLWN5V0RiRHFJSzU3bFp0dmpXeGFxYUN5dTN1ekstQTJ3Y0tuckZQaGUyQ0ZOSkRHRDE1ZzZMR0ZhZ240RjhNbC11MC1PT0hSeVp0M01wcGc?oc=5</link>
