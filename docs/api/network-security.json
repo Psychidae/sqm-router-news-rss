@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-04T01:07:23.733503Z",
+  "generated_at": "2026-08-04T04:28:37.258316Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -108,11 +108,11 @@
       "score": 11
     },
     {
-      "id": "e266660df4d9c980b7dd4f0a",
-      "title": "Critical TP-Link Router Flaw Lets Unauthenticated Attackers Execute Code Remotely - cyberpress.org",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BNUFZLWwyMEFRNHVlakg2M2wtc0dfb1JEU0hGYjRjbmFUOTY2XzBObFFXcEUtX1h1QVVaTEpxQVNNRlNMbTZBWUphdmV3X01qLUt4SkNjQzZLRXREaHNrc3dB0gFiQVVfeXFMTUE1QVktbDIwQVE0dWVqSDYzbC1zR19vUkRTSEZiNGNuYVQ5NjZfME5sUVdwRS1fWHVBVVpMSnFBU01GU0xtNkFZSmF2ZXdfTWotS3hKQ2NDNktFdERoc2tzd0E?oc=5",
-      "summary": "Critical TP-Link Router Flaw Lets Unauthenticated Attackers Execute Code Remotely cyberpress.org",
-      "published_at": "2026-08-03T13:14:50Z",
+      "id": "dda30dfb4d87a5a972a542d2",
+      "title": "TP-Link TL-WR940N Router Flaw Lets Unauthenticated Attackers Execute Code Remotely - gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44OHFjNlJYNWxuaEItTHQ3YUpGcVNHcU5KN1hhd1RhZGxCV0FHRld2RExpQUpBZGViZDFuS1U3dUM2V1JqYXp2R3EzYTk1SGtpUGQwQnduRzE4Y3J1S2xOYTZn0gFnQVVfeXFMTjdhWDRCeU1wX3E2QVV0V3JGT1RfZzFuVzBjZHJob2VaNkw2Nm9qN04yc3plZHBZUHExWTRJWTJ4cUZjM3NBZ0ZHeVctOFdzeTZsdXVSZTYxMmFWVi1jR3NWMDBYYU90bw?oc=5",
+      "summary": "TP-Link TL-WR940N Router Flaw Lets Unauthenticated Attackers Execute Code Remotely gbhackers.com",
+      "published_at": "2026-08-03T13:52:30Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
