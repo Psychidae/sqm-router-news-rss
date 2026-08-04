@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-04T10:16:53.226223Z",
+  "generated_at": "2026-08-04T12:19:48.132233Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -43,25 +43,14 @@
     },
     {
       "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
+      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - basic-tutorials.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
+      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here basic-tutorials.com",
       "published_at": "2026-08-04T02:10:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
-    },
-    {
-      "id": "fb3ecb082d6ce59df0638b94",
-      "title": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5",
-      "summary": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less gizmodo.com",
-      "published_at": "2026-07-28T11:40:28Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     },
     {
       "id": "1aaef8829f0d22c77efe0deb",
@@ -71,6 +60,17 @@
       "published_at": "2026-07-29T12:31:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "fb3ecb082d6ce59df0638b94",
+      "title": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5",
+      "summary": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less Gizmodo",
+      "published_at": "2026-07-28T11:40:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
@@ -109,9 +109,9 @@
     },
     {
       "id": "1f42664871ad328a05adb908",
-      "title": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - Lifehacker",
+      "title": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - lifehacker.com",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TS0J4WGRmQUMxdkREYUtvbDBGUVhXSkxyM2YyRm5tclRyMlpSVmRlVEVNT0tNVm5JeVY3dmpEOXFRM2pWUHpHcmFUU0lEUjZTeXVaUE5Vd2VRNEJNQ3QzX3I3emxOeVQwV25fcUlUT2Zidw?oc=5",
-      "summary": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now Lifehacker",
+      "summary": "This TP-Link WiFi 7 Travel Router Is 31% Off Right Now lifehacker.com",
       "published_at": "2026-07-30T13:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
