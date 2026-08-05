@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:49:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS</title>
-      <link>https://news.google.com/rss/articles/CBMijAJBVV95cUxNbERXbGFJX1Q4c2tiNDZ5NzJVZGpXdVdaQmYwSnk1dk4wQzdJelo0MkJEQnVYVHNTYUlJdGUtX3MwQnkyLVJ4QS1YakR6VU5iMVN3UEt5bmc4RHpna0cyV0RXNkZfQnBUdUlEaXVMRVZiVXR4b0RmRkhzNnhrbjRCdU5KQy0ybzBlN0VjeFVRajhRVElBYUtIalgzUDZUZjBuSU5nUEtvNjVQYjBSZ0t4TVROQ2ZGM2NVLVVXbWczVjV4WGNtbFRMSjc5ejFZM01jZGJGV1ZpY3UtQzdrTUFFOFRVZDFybHVqaFI4RWtFS1JYOFU2ekFtaEEzM0NqZVo0dEVYTFVLMm8wcm9r?oc=5</link>
-      <guid isPermaLink="false">62fb8de2ba1b2450f41db056</guid>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPVzZzMUc2dkN4TDV3cy1LQlBGbkJRQU9SdXZ3aHhoS1puTTFZMk1ZM1VBVnRnRklxV1kxYm5jSV9uMjJfMmxGS19HTW02TWdyMUphdEFRMDBkM09rekI1OTFGZ2JDUUhqT2pXcXFHZGlwLXFnZlg2SXJLeFJhWGJfbWpWNk1pREhLODZPMXpVN3o3VmtxNGlhZU9BUHkwUDBSR2pZMnFFVktfZ0ZyTlRDeUhQeWNnRjJQemdkeUxkRE5MbHdIU1VBM0lvSm0tZU80eHVxa3FfY0QwT0RXVElMM0JTRWZBWFRFOW1ZZi1iMTdrWWpXampiTUxia0pBNFctTzFiRDFmc3B1SGF3N3VpcmdOUTE?oc=5</link>
+      <guid isPermaLink="false">32f422e6b8ceb29d0233f911</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-05 08:44
+元記事日付: 2026-08-05 22:44
 Spectrum: Internet outage was caused by vandals; reward offered for information WLOS</description>
-      <pubDate>Wed, 05 Aug 2026 03:32:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-05T03:32:38.818594Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-04T23:44:27Z</sqm:sourcePublishedDate>
+      <pubDate>Wed, 05 Aug 2026 15:49:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-05T15:49:22.692655Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-05T13:44:29Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -36,13 +36,13 @@ Spectrum: Internet outage was caused by vandals; reward offered for information 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828newsnow.com</title>
+      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828 News Now</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHJmUDZ3QXdjQy0xZkhqX2RCZFptS0tjNHFvQXdCTUgzaGVnMVQtZ2ZaZnVEbFowUjhUNWRQQURCUE1LUmtId21ZUnlyajE2MG5hVDYxSTJReG9XZUdUZnVfb0xvaXRWSDlRNzI3MzJHLTNZVy1mbGphdGJlb1RMdGQxT25EaDN3OEotWkIzd1YxVDVvRGdrLQ?oc=5</link>
       <guid isPermaLink="false">a2ad52219eca28b8a467b74e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-05 03:19
-Asheville internet outage caused by vandals, Spectrum says 828newsnow.com</description>
+Asheville internet outage caused by vandals, Spectrum says 828 News Now</description>
       <pubDate>Tue, 04 Aug 2026 18:48:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T18:48:55.744773Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T18:19:30Z</sqm:sourcePublishedDate>
@@ -61,6 +61,20 @@ Converge tops DICT broadband speed, latency rankings Newsbytes.PH</description>
       <sqm:firstSeenDate>2026-08-04T10:16:55.004185Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T07:53:25Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-04 13:20
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Wed, 05 Aug 2026 00:15:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-05T00:15:17.402970Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-04T04:20:46Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -92,30 +106,16 @@ Netskope、企業向けAIトラフィックのネットワーク遅延を最大9
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
+      <title>[性能・障害] ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjBMTlVqVGd5SUF6cWNXT1ZoN2cwTXV4TjBFV0JaWUhnaUtQbm94VGhFanFWT2l6NUl4MVRKMG5FTlV1MFBMQUxUcDFYZlU1VTVoUWxPUDhfTFZxU3g1QkxmWlN4NkxPWjdTdkJPS18ybEdIYTdQTHZHUmhBNGhETm9CX255ZkE4LVJFSC1jaWZDSld6VElLNQ?oc=5</link>
       <guid isPermaLink="false">a0b53109ebbd5993755d3da9</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-03 13:51
-ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 Vietnam.vn</description>
+ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 vietnam.vn</description>
       <pubDate>Mon, 03 Aug 2026 08:04:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-03T08:04:07.185643Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-03T04:51:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
-      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-03 12:10
-KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
-      <pubDate>Wed, 05 Aug 2026 00:15:17 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-05T00:15:17.402970Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-03T03:10:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -134,13 +134,13 @@ Millions affected by internet outage in Türkiye as TurkNet goes down Türkiye T
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - Vietnam.vn</title>
+      <title>[性能・障害] ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjZuSFl3dk5FelREeWdjOVdFOVhfR1hwVV9FanRnUTJ2eG9mSDh2RjY5QWhFYTNoQWhmeVRRVUJJWDVnOThGMlpUX0RaT1RLeVhVb1dsekM4aDc4QzNtVVRCY3V6WTF2X1c4SWtxdWhMQXlQQWdvQnVQWmhBVWc5bjZSeEZPSTVJMFh4cVVDRDdkbTRMSTNWajR0U3J3X1JkRXFGNENEVElpRXA2VzNwQXdGUWt6RDUxaDFlOFdhbVd0Tlk?oc=5</link>
       <guid isPermaLink="false">a4ea4bc4affb5ff49785956e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-07-31 16:25
-ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 Vietnam.vn</description>
+ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 vietnam.vn</description>
       <pubDate>Fri, 31 Jul 2026 09:51:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-07-31T09:51:01.726215Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T07:25:53Z</sqm:sourcePublishedDate>
