@@ -5,33 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 23:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:15:17 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828 News Now</title>
+      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828newsnow.com</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHJmUDZ3QXdjQy0xZkhqX2RCZFptS0tjNHFvQXdCTUgzaGVnMVQtZ2ZaZnVEbFowUjhUNWRQQURCUE1LUmtId21ZUnlyajE2MG5hVDYxSTJReG9XZUdUZnVfb0xvaXRWSDlRNzI3MzJHLTNZVy1mbGphdGJlb1RMdGQxT25EaDN3OEotWkIzd1YxVDVvRGdrLQ?oc=5</link>
       <guid isPermaLink="false">a2ad52219eca28b8a467b74e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-05 03:19
-Asheville internet outage caused by vandals, Spectrum says 828 News Now</description>
+Asheville internet outage caused by vandals, Spectrum says 828newsnow.com</description>
       <pubDate>Tue, 04 Aug 2026 18:48:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T18:48:55.744773Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T18:19:30Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Criminal attack caused Spectrum internet outage in Buncombe County, officials say - FOX Carolina News</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG8tNFNRRS0zZks0LUM5dG5GUU1LdjJWVnZVODNhSUxEdUduMmdmZDQ5NmF0UjlPWUFzSDZPZjd3OGp3Ty0wb0ZpcUZ3bVN0TGQ1NkJQMC15dS1UWl9tbUdxMWdITFh3MWRLZ2ZqSHpxX2Rla2hCX2QzblZ6QWdDWE13aEZfMEI0cjRGN2ZYUzdJbHc?oc=5</link>
-      <guid isPermaLink="false">996a713209116bc6f6825167</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-04 22:17
-Criminal attack caused Spectrum internet outage in Buncombe County, officials say FOX Carolina News</description>
-      <pubDate>Tue, 04 Aug 2026 15:08:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-04T15:08:43.740116Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-04T13:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,13 +36,13 @@ Converge tops DICT broadband speed, latency rankings Newsbytes.PH</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - PR TIMES</title>
+      <title>[性能・障害] Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - prtimes.jp</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE81VV9pUWtoeTNLaWZ5bF9OOGZYLWN5V0RiRHFJSzU3bFp0dmpXeGFxYUN5dTN1ekstQTJ3Y0tuckZQaGUyQ0ZOSkRHRDE1ZzZMR0ZhZ240RjhNbC11MC1PT0hSeVp0M01wcGc?oc=5</link>
       <guid isPermaLink="false">dc6b880c64b23870a392e520</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-04 11:00
-Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 PR TIMES</description>
+Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 prtimes.jp</description>
       <pubDate>Tue, 04 Aug 2026 07:21:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T07:21:28.458307Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T02:00:02Z</sqm:sourcePublishedDate>
@@ -74,6 +60,20 @@ Netskope、企業向けAIトラフィックのネットワーク遅延を最大9
       <pubDate>Mon, 03 Aug 2026 08:04:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-03T08:04:07.185643Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-03T04:51:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-03 12:10
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Wed, 05 Aug 2026 00:15:17 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-05T00:15:17.402970Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-03T03:10:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-04T23:17:01.388221Z",
+  "generated_at": "2026-08-05T00:15:17.403869Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,21 +10,10 @@
   "items": [
     {
       "id": "a2ad52219eca28b8a467b74e",
-      "title": "Asheville internet outage caused by vandals, Spectrum says - 828 News Now",
+      "title": "Asheville internet outage caused by vandals, Spectrum says - 828newsnow.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHJmUDZ3QXdjQy0xZkhqX2RCZFptS0tjNHFvQXdCTUgzaGVnMVQtZ2ZaZnVEbFowUjhUNWRQQURCUE1LUmtId21ZUnlyajE2MG5hVDYxSTJReG9XZUdUZnVfb0xvaXRWSDlRNzI3MzJHLTNZVy1mbGphdGJlb1RMdGQxT25EaDN3OEotWkIzd1YxVDVvRGdrLQ?oc=5",
-      "summary": "Asheville internet outage caused by vandals, Spectrum says 828 News Now",
+      "summary": "Asheville internet outage caused by vandals, Spectrum says 828newsnow.com",
       "published_at": "2026-08-04T18:19:30Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "996a713209116bc6f6825167",
-      "title": "Criminal attack caused Spectrum internet outage in Buncombe County, officials say - FOX Carolina News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeG8tNFNRRS0zZks0LUM5dG5GUU1LdjJWVnZVODNhSUxEdUduMmdmZDQ5NmF0UjlPWUFzSDZPZjd3OGp3Ty0wb0ZpcUZ3bVN0TGQ1NkJQMC15dS1UWl9tbUdxMWdITFh3MWRLZ2ZqSHpxX2Rla2hCX2QzblZ6QWdDWE13aEZfMEI0cjRGN2ZYUzdJbHc?oc=5",
-      "summary": "Criminal attack caused Spectrum internet outage in Buncombe County, officials say FOX Carolina News",
-      "published_at": "2026-08-04T13:17:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -43,9 +32,9 @@
     },
     {
       "id": "dc6b880c64b23870a392e520",
-      "title": "Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - PR TIMES",
+      "title": "Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - prtimes.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81VV9pUWtoeTNLaWZ5bF9OOGZYLWN5V0RiRHFJSzU3bFp0dmpXeGFxYUN5dTN1ekstQTJ3Y0tuckZQaGUyQ0ZOSkRHRDE1ZzZMR0ZhZ240RjhNbC11MC1PT0hSeVp0M01wcGc?oc=5",
-      "summary": "Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 PR TIMES",
+      "summary": "Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 prtimes.jp",
       "published_at": "2026-08-04T02:00:02Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -58,6 +47,17 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjBMTlVqVGd5SUF6cWNXT1ZoN2cwTXV4TjBFV0JaWUhnaUtQbm94VGhFanFWT2l6NUl4MVRKMG5FTlV1MFBMQUxUcDFYZlU1VTVoUWxPUDhfTFZxU3g1QkxmWlN4NkxPWjdTdkJPS18ybEdIYTdQTHZHUmhBNGhETm9CX255ZkE4LVJFSC1jaWZDSld6VElLNQ?oc=5",
       "summary": "ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 Vietnam.vn",
       "published_at": "2026-08-03T04:51:40Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "a4ee1d0b5a3ed021f71fe6a9",
+      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
+      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
+      "published_at": "2026-08-03T03:10:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
