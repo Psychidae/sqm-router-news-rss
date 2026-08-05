@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-05T03:32:37.587783Z",
+  "generated_at": "2026-08-05T06:10:43.461863Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -53,22 +53,11 @@
       "score": 11
     },
     {
-      "id": "c4342b7e9804fb3d298c6897",
+      "id": "b5c4294bee6184dfed6d048e",
       "title": "エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 - 財経新聞",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTSGg3RVowQjFKRTBPb3VaR01DUHlHWk5ybS1vN3VwQThlbFgxU1hHc3ZWeFM5VHlfNUJocmhJTkhjelhPc0o1WEFXSDZMREFBVnAtNFc4VFJ3TDRlZXFfVklySdIBaEFVX3lxTE12VDhKNVlyR04yYzB2ME1GczV4SGY4a1BidkNXVHY2QUhZM0gtMVJLbFdFZEx0c3FrT1B2T3JiVzZ4cW5Yb2M3Z0xvbTNzVGN5OWpjNW4wZFJkN1dFMFY4RUYxNnBYT1hw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12VDhKNVlyR04yYzB2ME1GczV4SGY4a1BidkNXVHY2QUhZM0gtMVJLbFdFZEx0c3FrT1B2T3JiVzZ4cW5Yb2M3Z0xvbTNzVGN5OWpjNW4wZFJkN1dFMFY4RUYxNnBYT1hw0gFoQVVfeXFMTXZUOEo1WXJHTjJjMHYwTUZzNXhIZjhrUGJ2Q1dUdjZBSFkzSC0xUktsV0VkTHRzcWtPUHZPcmJXNnhxblhvYzdnTG9tM3NUY3k5amM1bjBkUmQ3V0UwVjhFRjE2cFhPWHA?oc=5",
       "summary": "エレコム製Wi-Fi機器に重大な脆弱性、法人・個人向け7機種に修正ファームウェア公開 財経新聞",
-      "published_at": "2026-07-29T15:31:21Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "16ba95972c50545bde551dfa",
-      "title": "酒造会社にランサム攻撃 VPN機器の脆弱性を悪用 商品発送が一時見合わせに（画像） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uTElrcTZ6YVIzdjQ0OU1HbC0wODZleWZxTFZqeUxobnFYeFEtRDdVVnZXUk9Db3JjN000Z1BaenhBS2dCTHJCVUlfRmVzYXFOTFZUQ05aY01sYzVXcmI0cm1GUWJVdkVXbk9JN2hmR2FSYXBOMWdpSXhNbw?oc=5",
-      "summary": "酒造会社にランサム攻撃 VPN機器の脆弱性を悪用 商品発送が一時見合わせに（画像） ITmedia",
-      "published_at": "2026-07-29T03:49:39Z",
+      "published_at": "2026-07-29T15:31:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
