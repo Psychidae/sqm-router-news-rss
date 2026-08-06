@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 01:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:28:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
@@ -50,20 +50,6 @@ TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Review
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings - Expert Reviews</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGwzNGdCY2dKS0plMHlaMUFRN0tZcmJ5OTFEZ25zMUljNHVYY2tKNzJYczJ3WFBCR0psLWdhZ19xdTJ2TXdvMmo3akNFRXJ0TFhUYkduYktUcE9DSExEeVN2RHEyZmJlZHdmT2pFa1BDNnNHa3pQbWVxWnVOcEZTSG5VQlFoVXlJN0NMcw?oc=5</link>
-      <guid isPermaLink="false">8114a7bd58db5e1551c5da2b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-30 15:31
-Devolo BE6500 review: A cheap 6GHz Wi-Fi 7 router with some shortcomings Expert Reviews</description>
-      <pubDate>Thu, 30 Jul 2026 07:19:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-30T07:19:12.333516Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-30T06:31:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5</link>
       <guid isPermaLink="false">1a69f03b39ee421d3f585ea7</guid>
@@ -92,13 +78,13 @@ Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Bu
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - VnExpress International</title>
+      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5</link>
       <guid isPermaLink="false">1aaef8829f0d22c77efe0deb</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-07-29 21:31
-Should you keep your home Wi-Fi router on 24/7? VnExpress International</description>
+Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net</description>
       <pubDate>Sun, 02 Aug 2026 04:36:17 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-02T04:36:17.432873Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T12:31:00Z</sqm:sourcePublishedDate>
@@ -144,6 +130,20 @@ US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs PCMag UK</descript
       <pubDate>Thu, 06 Aug 2026 01:02:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-06T01:02:44.707999Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T16:52:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Fritz! launches Fritz!Box 5630 router commercially - Telecompaper</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjV5U0c3ZHpzVGxheWVsYUp4THNCWW1wbW5ud1M3bkg5NDdHVmE5VUV3cFpLZ2trTTRSUmRzNGZhWFhVc0JmdzhjbHpfeUJRQlE2WXhRa3ZsMERTVTU5WkMzS0NBWUU1MEhoamx5dkR2cGJXUUVGRkNaOEYzV1dHRmZ5STgwRUxlMFUycmlTVkpsa3c3?oc=5</link>
+      <guid isPermaLink="false">f9f4a4333d6c83020d09037a</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-04 16:39
+Fritz! launches Fritz!Box 5630 router commercially Telecompaper</description>
+      <pubDate>Thu, 06 Aug 2026 04:28:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-06T04:28:11.470443Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-04T07:39:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
