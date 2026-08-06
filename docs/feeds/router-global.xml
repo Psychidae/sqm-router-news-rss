@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 23:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:02:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
@@ -120,20 +120,6 @@ There Isn't A Single Consumer Wi-Fi Router That Is 100 Percent American-Made Eng
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - PCMag</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFhBN3gzZTdaRFQ4X3VTckNVZGZpUlRMcl9pd3V5QlM4Z0pwOXE4NGZtRlAxUTY0cFhad1NVZVhKX2NsaFdBb3BrVlJjbW9xLVhsZVFDOVExOWpVZ2gtX1I1bmFjN003VW1GcEd2cVgtdjc2Z3Z2SnE0OW9VaHRaME4wb0ZubmphNmYzemFhNA?oc=5</link>
-      <guid isPermaLink="false">38f7c481f40dffca87c05e37</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-06 02:38
-US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs PCMag</description>
-      <pubDate>Wed, 05 Aug 2026 21:30:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-05T21:30:38.672510Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-05T17:38:50Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Beat slow internet speeds — save £250 on TP-Link's Deco BE68 Wi-Fi 7 mesh kit - TechRadar</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5QN29xRmhjeFhTNW54cFdkTlk4bE5XSFlfTVF6dThBV244bmlRSm9ma0hjNXVfOWM2Y0ZjMWVmcWtGYTQzcG12UGxEYzB2UUs5US02ZzBkYXJnUFBTZHFwQjRVLTMwRGRoWHdaQTdkVUFZdVh5OXc?oc=5</link>
       <guid isPermaLink="false">4e8a4eef832c1a6de5f0f087</guid>
@@ -144,6 +130,20 @@ Beat slow internet speeds — save £250 on TP-Link's Deco BE68 Wi-Fi 7 mesh kit
       <pubDate>Wed, 05 Aug 2026 17:52:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T17:52:15.710919Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T17:10:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - PCMag UK</title>
+      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWNPNG1sQTJ4LWFOVDdiVm9Ha1VtSFNjVW1weUdCbTM0M2pIdFFiNEx4MGFWUlNlbWdkSnFra0ZidnFHY2pkWWQ3dm9CTEd0X2MtWTlNcVBhSWxEalVDUDVmMDE4dmFTd0p2MnMtaGJMaElMemVfS2cwWnZ0RjZZcWl4Mi1sVTdRS3lQWnE3QTlOZkNZT1VJa0hLajBZVXd5YVM3R1ozOA?oc=5</link>
+      <guid isPermaLink="false">7d3a771ca2024afe3243f65b</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-06 01:52
+US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs PCMag UK</description>
+      <pubDate>Thu, 06 Aug 2026 01:02:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-06T01:02:44.707999Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-05T16:52:06Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
