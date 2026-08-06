@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-06T10:16:33.506124Z",
+  "generated_at": "2026-08-06T12:19:33.971814Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -109,9 +109,9 @@
     },
     {
       "id": "7d3a771ca2024afe3243f65b",
-      "title": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - PCMag UK",
+      "title": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - uk.pcmag.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWNPNG1sQTJ4LWFOVDdiVm9Ha1VtSFNjVW1weUdCbTM0M2pIdFFiNEx4MGFWUlNlbWdkSnFra0ZidnFHY2pkWWQ3dm9CTEd0X2MtWTlNcVBhSWxEalVDUDVmMDE4dmFTd0p2MnMtaGJMaElMemVfS2cwWnZ0RjZZcWl4Mi1sVTdRS3lQWnE3QTlOZkNZT1VJa0hLajBZVXd5YVM3R1ozOA?oc=5",
-      "summary": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs PCMag UK",
+      "summary": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs uk.pcmag.com",
       "published_at": "2026-08-05T16:52:06Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
