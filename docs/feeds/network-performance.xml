@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 06:51:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:19:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] A major internet outage occurred in Russia - UA.NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5tbWVoX1V5NnNMeGxxeFlHSk1jcjV2RnNvNlZIOVJLbXhxdllOSVVJcXZPdVVyNjc0QnpnbjJhdnVkQ3ZGMlJJZUhaUVJxdWNsdkVPalJIa1FNUWdHV05GdjBtMmxCWHJnQks4UVpUdE0wMERPRWF3?oc=5</link>
+      <guid isPermaLink="false">67ccff22299c42d162ae1ca1</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-06 20:12
+A major internet outage occurred in Russia UA.NEWS</description>
+      <pubDate>Fri, 07 Aug 2026 08:19:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-07T08:19:55.724772Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-06T11:12:20Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS</title>
       <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPVzZzMUc2dkN4TDV3cy1LQlBGbkJRQU9SdXZ3aHhoS1puTTFZMk1ZM1VBVnRnRklxV1kxYm5jSV9uMjJfMmxGS19HTW02TWdyMUphdEFRMDBkM09rekI1OTFGZ2JDUUhqT2pXcXFHZGlwLXFnZlg2SXJLeFJhWGJfbWpWNk1pREhLODZPMXpVN3o3VmtxNGlhZU9BUHkwUDBSR2pZMnFFVktfZ0ZyTlRDeUhQeWNnRjJQemdkeUxkRE5MbHdIU1VBM0lvSm0tZU80eHVxa3FfY0QwT0RXVElMM0JTRWZBWFRFOW1ZZi1iMTdrWWpXampiTUxia0pBNFctTzFiRDFmc3B1SGF3N3VpcmdOUTE?oc=5</link>
@@ -116,20 +130,6 @@ Netskope、企業向けAIトラフィックのネットワーク遅延を最大9
       <pubDate>Mon, 03 Aug 2026 08:04:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-03T08:04:07.185643Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-03T04:51:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjZuSFl3dk5FelREeWdjOVdFOVhfR1hwVV9FanRnUTJ2eG9mSDh2RjY5QWhFYTNoQWhmeVRRVUJJWDVnOThGMlpUX0RaT1RLeVhVb1dsekM4aDc4QzNtVVRCY3V6WTF2X1c4SWtxdWhMQXlQQWdvQnVQWmhBVWc5bjZSeEZPSTVJMFh4cVVDRDdkbTRMSTNWajR0U3J3X1JkRXFGNENEVElpRXA2VzNwQXdGUWt6RDUxaDFlOFdhbVd0Tlk?oc=5</link>
-      <guid isPermaLink="false">a4ea4bc4affb5ff49785956e</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-07-31 16:25
-ベトナムインターネットセンターは、2026年にIPアドレス会員向けにIPv6のみのトレーニングプログラムを開催する予定です。 Vietnam.vn</description>
-      <pubDate>Fri, 31 Jul 2026 09:51:01 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-31T09:51:01.726215Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-31T07:25:53Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-07T06:51:28.002019Z",
+  "generated_at": "2026-08-07T08:19:54.823982Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -62,17 +62,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
-    },
-    {
-      "id": "18f45c9261ca0b25f231482d",
-      "title": "ホーチミン市が無料の公共WiFiを目指す:サイバーセキュリティ専門家が安全とセキュリティの秘訣を共有 - Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWFMxdTdBWVd5M0QtckYtSS1pekZOdEM1c1NGOHlnSWh1UnpnR1dseGlfcFVoUS14TWg1QzdLLWM3UGZYd3F6ZGdfSGpZTkxRc1M0TkloOHpkbjNfaGpnX3p2N3JWdFVyZF9NLU5CMDBvWm5HV3NIa0VQeXRaZU0yWUE5Z1RWRFo5RUZqTnFVcUx6UTNXMTFrVnVXOGg2WkQxNDF5ZUVYUUdfdDdUMExNeHZMRGVleDJJR1N5c3JtSkZiN3BGSEFKa1lnSm9FbHJIU0pGSQ?oc=5",
-      "summary": "ホーチミン市が無料の公共WiFiを目指す:サイバーセキュリティ専門家が安全とセキュリティの秘訣を共有 Laodong.vn",
-      "published_at": "2026-08-07T01:59:43Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
     },
     {
       "id": "969ce3766c8d4e4e37091983",
