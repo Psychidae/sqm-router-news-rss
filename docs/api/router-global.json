@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-07T22:53:37.223098Z",
+  "generated_at": "2026-08-07T23:46:24.437196Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -97,22 +97,22 @@
       "score": 10
     },
     {
+      "id": "8ac0a5a23c9d67e558ed4c5b",
+      "title": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - telecomlead.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFphQnd3Q0oxSFV6NU5scTh2bFpwcmhyR2tOTGZtWUNzbml3ci1KNE5DLUJ5QkdlS3A0SjNGWDJzMjRSQWpxXzVCZUMtSEJMVlM5VUp0bk92MTRNZjVTZ2VLOTR6LWxjRXY1VEtIOVlhakFucm82YW1fTWpDMDljWUxaLUQ5TVZTYVk3aGtxOC1HZ1R1Q1RYdWw1VVItZUlCMW1xbXlkVndGTF82WXBoOXpWaGhTckxOMXRkam1wSXJUUDl2RzgxTEd6WUJMMWxqWW9pUjBuZXlCZE51bFlMd1RvNzU1bjhN0gHwAUFVX3lxTE50VVoyYzBMcWNPRFlFQ191a0FPSm5TZlB3aXY1RTFiWXAyUEJXYlVqZkpnOEZsbVRZZG1JUkFKRDFvM1NBZ2dJOWh0VEtORlZiM2s4elU5OFIySWlWTFhSWmw2TWEzb09nRkkxODJDaU01R0JVaUxxT2NlQ3dnSEF6aU1Ea0xjS295MUZpN204dE9GSENvbDhBYkxDcnNoQ3paN1hreEhFbWx0em5qQno3TTB6WWlraVhFQndYVWo3U0txdXpKR05yYkFkaDVxbVBjODgyUXBlMUs0Z0VidFlrRHREdFlqLUdPb1RsaEtiTQ?oc=5",
+      "summary": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade telecomlead.com",
+      "published_at": "2026-08-07T15:54:56Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "38f7c481f40dffca87c05e37",
       "title": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - PCMag",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFhBN3gzZTdaRFQ4X3VTckNVZGZpUlRMcl9pd3V5QlM4Z0pwOXE4NGZtRlAxUTY0cFhad1NVZVhKX2NsaFdBb3BrVlJjbW9xLVhsZVFDOVExOWpVZ2gtX1I1bmFjN003VW1GcEd2cVgtdjc2Z3Z2SnE0OW9VaHRaME4wb0ZubmphNmYzemFhNA?oc=5",
       "summary": "US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs PCMag",
       "published_at": "2026-08-06T00:10:34Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "4e8a4eef832c1a6de5f0f087",
-      "title": "Beat slow internet speeds — save £250 on TP-Link's Deco BE68 Wi-Fi 7 mesh kit - techradar.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QN29xRmhjeFhTNW54cFdkTlk4bE5XSFlfTVF6dThBV244bmlRSm9ma0hjNXVfOWM2Y0ZjMWVmcWtGYTQzcG12UGxEYzB2UUs5US02ZzBkYXJnUFBTZHFwQjRVLTMwRGRoWHdaQTdkVUFZdVh5OXc?oc=5",
-      "summary": "Beat slow internet speeds — save £250 on TP-Link's Deco BE68 Wi-Fi 7 mesh kit techradar.com",
-      "published_at": "2026-08-05T17:10:06Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
