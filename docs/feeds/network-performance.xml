@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 17:59:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] A major internet outage occurred in Russia - ua.news</title>
+      <title>[性能・障害] A major internet outage occurred in Russia - UA.NEWS</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5tbWVoX1V5NnNMeGxxeFlHSk1jcjV2RnNvNlZIOVJLbXhxdllOSVVJcXZPdVVyNjc0QnpnbjJhdnVkQ3ZGMlJJZUhaUVJxdWNsdkVPalJIa1FNUWdHV05GdjBtMmxCWHJnQks4UVpUdE0wMERPRWF3?oc=5</link>
       <guid isPermaLink="false">67ccff22299c42d162ae1ca1</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-06 20:12
-A major internet outage occurred in Russia ua.news</description>
+A major internet outage occurred in Russia UA.NEWS</description>
       <pubDate>Fri, 07 Aug 2026 08:19:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-07T08:19:55.724772Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-06T11:12:20Z</sqm:sourcePublishedDate>
@@ -92,13 +92,13 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - prtimes.jp</title>
+      <title>[性能・障害] Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE81VV9pUWtoeTNLaWZ5bF9OOGZYLWN5V0RiRHFJSzU3bFp0dmpXeGFxYUN5dTN1ekstQTJ3Y0tuckZQaGUyQ0ZOSkRHRDE1ZzZMR0ZhZ240RjhNbC11MC1PT0hSeVp0M01wcGc?oc=5</link>
       <guid isPermaLink="false">dc6b880c64b23870a392e520</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-04 11:00
-Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 prtimes.jp</description>
+Netskope、企業向けAIトラフィックのネットワーク遅延を最大90%削減 PR TIMES</description>
       <pubDate>Tue, 04 Aug 2026 07:21:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T07:21:28.458307Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T02:00:02Z</sqm:sourcePublishedDate>
