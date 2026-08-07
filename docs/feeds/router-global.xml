@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:53:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
@@ -106,20 +106,6 @@ Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Bu
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - VnExpress International</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5</link>
-      <guid isPermaLink="false">1aaef8829f0d22c77efe0deb</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-07-29 21:31
-Should you keep your home Wi-Fi router on 24/7? VnExpress International</description>
-      <pubDate>Fri, 07 Aug 2026 13:57:16 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-07T13:57:16.022606Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-29T12:31:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] US Wi-Fi 7 Adoption Soars 300%, Particularly Among These ISPs - PCMag</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFhBN3gzZTdaRFQ4X3VTckNVZGZpUlRMcl9pd3V5QlM4Z0pwOXE4NGZtRlAxUTY0cFhad1NVZVhKX2NsaFdBb3BrVlJjbW9xLVhsZVFDOVExOWpVZ2gtX1I1bmFjN003VW1GcEd2cVgtdjc2Z3Z2SnE0OW9VaHRaME4wb0ZubmphNmYzemFhNA?oc=5</link>
       <guid isPermaLink="false">38f7c481f40dffca87c05e37</guid>
@@ -144,6 +130,20 @@ Beat slow internet speeds — save £250 on TP-Link's Deco BE68 Wi-Fi 7 mesh kit
       <pubDate>Wed, 05 Aug 2026 17:52:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T17:52:15.710919Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T17:10:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] This TP-Link WiFi 7 Travel Router Is 31% Off Right Now - Lifehacker</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9TS0J4WGRmQUMxdkREYUtvbDBGUVhXSkxyM2YyRm5tclRyMlpSVmRlVEVNT0tNVm5JeVY3dmpEOXFRM2pWUHpHcmFUU0lEUjZTeXVaUE5Vd2VRNEJNQ3QzX3I3emxOeVQwV25fcUlUT2Zidw?oc=5</link>
+      <guid isPermaLink="false">1f42664871ad328a05adb908</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-07-30 16:00
+This TP-Link WiFi 7 Travel Router Is 31% Off Right Now Lifehacker</description>
+      <pubDate>Fri, 07 Aug 2026 21:53:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-07T21:53:00.503417Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-30T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
