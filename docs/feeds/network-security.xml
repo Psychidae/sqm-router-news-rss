@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 05:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:51:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday</title>
@@ -74,6 +74,20 @@ WPA2の脆弱性「パッチで対応可能」 Wi-Fi標準化団体が見解（�
       <pubDate>Sat, 01 Aug 2026 04:33:14 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-01T04:33:14.315803Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T16:06:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] ホーチミン市が無料の公共WiFiを目指す:サイバーセキュリティ専門家が安全とセキュリティの秘訣を共有 - Laodong.vn</title>
+      <link>https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWFMxdTdBWVd5M0QtckYtSS1pekZOdEM1c1NGOHlnSWh1UnpnR1dseGlfcFVoUS14TWg1QzdLLWM3UGZYd3F6ZGdfSGpZTkxRc1M0TkloOHpkbjNfaGpnX3p2N3JWdFVyZF9NLU5CMDBvWm5HV3NIa0VQeXRaZU0yWUE5Z1RWRFo5RUZqTnFVcUx6UTNXMTFrVnVXOGg2WkQxNDF5ZUVYUUdfdDdUMExNeHZMRGVleDJJR1N5c3JtSkZiN3BGSEFKa1lnSm9FbHJIU0pGSQ?oc=5</link>
+      <guid isPermaLink="false">18f45c9261ca0b25f231482d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-08-07 10:59
+ホーチミン市が無料の公共WiFiを目指す:サイバーセキュリティ専門家が安全とセキュリティの秘訣を共有 Laodong.vn</description>
+      <pubDate>Fri, 07 Aug 2026 06:51:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-07T06:51:28.001028Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-07T01:59:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
