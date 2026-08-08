@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 19:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:01:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday</title>
@@ -50,13 +50,13 @@ Discordのブロック解除：セキュリティとプライバシーを守るV
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 - rocket-boys.co.jp</title>
+      <title>[セキュリティ] ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 - 合同会社ロケットボーイズ</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmVXWFVyMHNRZEFrWHVyRWZ5ekdHWFZhQTQ0eVUzR25CamYyLU9VZHQxN2g2OFJmeEpWcFh1cGlLOWhocy1CTVpSSW1mckQtM25CZzh3TGtmT2k3S1VOYzFtckt0RHRmaHAwRUlKN0dYdXNTWXZ3R18tRGpwTy1PckRyTFJ2d05pNkpvSlQ2cDNIMVdfUC04dlVOd1FBZ20zempJU3RXSQ?oc=5</link>
       <guid isPermaLink="false">969ce3766c8d4e4e37091983</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-06 08:25
-ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 rocket-boys.co.jp</description>
+ソディック、サーバー不正アクセスの調査結果を公表 ネットワーク機器の脆弱性を悪用 合同会社ロケットボーイズ</description>
       <pubDate>Wed, 05 Aug 2026 23:36:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T23:36:44.149088Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T23:25:39Z</sqm:sourcePublishedDate>
