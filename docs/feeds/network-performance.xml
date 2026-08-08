@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 18:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 19:42:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 1Gbps回線から「10倍速」の世界へ。NTT西日本が仕掛ける家族の同時動画視聴やオンライン会議の遅延をゼロにする、超高速10Gbps回線の実力 - DXマガジン</title>
@@ -19,20 +19,6 @@
       <sqm:firstSeenDate>2026-08-08T05:08:22.944108Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-08T03:00:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] A major internet outage occurred in Russia - UA.NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5tbWVoX1V5NnNMeGxxeFlHSk1jcjV2RnNvNlZIOVJLbXhxdllOSVVJcXZPdVVyNjc0QnpnbjJhdnVkQ3ZGMlJJZUhaUVJxdWNsdkVPalJIa1FNUWdHV05GdjBtMmxCWHJnQks4UVpUdE0wMERPRWF3?oc=5</link>
-      <guid isPermaLink="false">67ccff22299c42d162ae1ca1</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-06 20:12
-A major internet outage occurred in Russia UA.NEWS</description>
-      <pubDate>Sat, 08 Aug 2026 18:56:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-08T18:56:11.513078Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-06T11:12:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -50,13 +36,13 @@ A major internet outage occurred in Russia UA.NEWS</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS</title>
+      <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - wlos.com</title>
       <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPVzZzMUc2dkN4TDV3cy1LQlBGbkJRQU9SdXZ3aHhoS1puTTFZMk1ZM1VBVnRnRklxV1kxYm5jSV9uMjJfMmxGS19HTW02TWdyMUphdEFRMDBkM09rekI1OTFGZ2JDUUhqT2pXcXFHZGlwLXFnZlg2SXJLeFJhWGJfbWpWNk1pREhLODZPMXpVN3o3VmtxNGlhZU9BUHkwUDBSR2pZMnFFVktfZ0ZyTlRDeUhQeWNnRjJQemdkeUxkRE5MbHdIU1VBM0lvSm0tZU80eHVxa3FfY0QwT0RXVElMM0JTRWZBWFRFOW1ZZi1iMTdrWWpXampiTUxia0pBNFctTzFiRDFmc3B1SGF3N3VpcmdOUTE?oc=5</link>
       <guid isPermaLink="false">32f422e6b8ceb29d0233f911</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-05 22:44
-Spectrum: Internet outage was caused by vandals; reward offered for information WLOS</description>
+Spectrum: Internet outage was caused by vandals; reward offered for information wlos.com</description>
       <pubDate>Wed, 05 Aug 2026 15:49:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T15:49:22.692655Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T13:44:29Z</sqm:sourcePublishedDate>
@@ -64,13 +50,13 @@ Spectrum: Internet outage was caused by vandals; reward offered for information 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS</title>
+      <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - wlos.com</title>
       <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxOeGFwUjVnSWFvM0Y2N2ZQMlVIRVdiX3pmOWYxcTFERWpHUWs0b1U1YnhWVlVfX0NsX1Nrcjg3RnB4Zjk4ZldacWF1Sm1QVEk2S0xOd2YyRG9iVDRsTnAyV01nZlplZGZ1aHAtX3ZHUG1yc3UzZ3FaMW13ekxtNFd4aC1aSjdrYzFtZ0NRcURBeGtmc2QzanVLUkotUUJNajhjaE5hNWlpWjYzN1lMdUlmZFNKTEl0WEZrcDBSaW5ka3ZFTUNiM08zMXRpNUw3TEZ2VVl6dEZ3eWdjZDB0S2RadzVqOWlNUG5xSWxvcFJvc1A1V0h6bUNOQzV2eG42V1RDZGc?oc=5</link>
       <guid isPermaLink="false">14c2c57176dfeb1d33e0c8a4</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-05 06:39
-Spectrum: Internet outage was caused by vandals; reward offered for information WLOS</description>
+Spectrum: Internet outage was caused by vandals; reward offered for information wlos.com</description>
       <pubDate>Wed, 05 Aug 2026 03:32:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T03:32:38.818594Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T21:39:39Z</sqm:sourcePublishedDate>
@@ -78,13 +64,13 @@ Spectrum: Internet outage was caused by vandals; reward offered for information 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828newsnow.com</title>
+      <title>[性能・障害] Asheville internet outage caused by vandals, Spectrum says - 828 News Now</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHJmUDZ3QXdjQy0xZkhqX2RCZFptS0tjNHFvQXdCTUgzaGVnMVQtZ2ZaZnVEbFowUjhUNWRQQURCUE1LUmtId21ZUnlyajE2MG5hVDYxSTJReG9XZUdUZnVfb0xvaXRWSDlRNzI3MzJHLTNZVy1mbGphdGJlb1RMdGQxT25EaDN3OEotWkIzd1YxVDVvRGdrLQ?oc=5</link>
       <guid isPermaLink="false">a2ad52219eca28b8a467b74e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-05 03:19
-Asheville internet outage caused by vandals, Spectrum says 828newsnow.com</description>
+Asheville internet outage caused by vandals, Spectrum says 828 News Now</description>
       <pubDate>Tue, 04 Aug 2026 18:48:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T18:48:55.744773Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T18:19:30Z</sqm:sourcePublishedDate>
