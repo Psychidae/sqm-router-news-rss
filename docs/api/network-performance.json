@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-08T14:48:14.355325Z",
+  "generated_at": "2026-08-08T15:43:37.699662Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -98,9 +98,9 @@
     },
     {
       "id": "a0b53109ebbd5993755d3da9",
-      "title": "ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - vietnam.vn",
+      "title": "ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjBMTlVqVGd5SUF6cWNXT1ZoN2cwTXV4TjBFV0JaWUhnaUtQbm94VGhFanFWT2l6NUl4MVRKMG5FTlV1MFBMQUxUcDFYZlU1VTVoUWxPUDhfTFZxU3g1QkxmWlN4NkxPWjdTdkJPS18ybEdIYTdQTHZHUmhBNGhETm9CX255ZkE4LVJFSC1jaWZDSld6VElLNQ?oc=5",
-      "summary": "ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 vietnam.vn",
+      "summary": "ドンタップ省は、インターネットインフラをIPv6のみに移行する作業を加速させている。 Vietnam.vn",
       "published_at": "2026-08-03T04:51:40Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",

@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:43:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5</link>
-      <guid isPermaLink="false">dabe16c9f42995e6c6291ae7</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-07-31 06:31
-D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ The AU Review</description>
-      <pubDate>Thu, 30 Jul 2026 21:48:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-30T21:48:02.071837Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-30T21:31:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5</link>
@@ -61,6 +47,20 @@ TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Review
       <sqm:firstSeenDate>2026-07-31T12:14:13.100213Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T11:31:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - theaureview.com</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5</link>
+      <guid isPermaLink="false">dabe16c9f42995e6c6291ae7</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-31 06:31
+D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ theaureview.com</description>
+      <pubDate>Thu, 30 Jul 2026 21:48:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-30T21:48:02.071837Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-30T21:31:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
