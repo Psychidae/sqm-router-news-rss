@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-08T15:43:35.849472Z",
+  "generated_at": "2026-08-08T16:02:02.774804Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -76,9 +76,9 @@
     },
     {
       "id": "fb3ecb082d6ce59df0638b94",
-      "title": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo",
+      "title": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5",
-      "summary": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less Gizmodo",
+      "summary": "Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less gizmodo.com",
       "published_at": "2026-07-28T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -109,14 +109,14 @@
     },
     {
       "id": "8ac0a5a23c9d67e558ed4c5b",
-      "title": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - TelecomLead",
+      "title": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - telecomlead.com",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFphQnd3Q0oxSFV6NU5scTh2bFpwcmhyR2tOTGZtWUNzbml3ci1KNE5DLUJ5QkdlS3A0SjNGWDJzMjRSQWpxXzVCZUMtSEJMVlM5VUp0bk92MTRNZjVTZ2VLOTR6LWxjRXY1VEtIOVlhakFucm82YW1fTWpDMDljWUxaLUQ5TVZTYVk3aGtxOC1HZ1R1Q1RYdWw1VVItZUlCMW1xbXlkVndGTF82WXBoOXpWaGhTckxOMXRkam1wSXJUUDl2RzgxTEd6WUJMMWxqWW9pUjBuZXlCZE51bFlMd1RvNzU1bjhN0gHwAUFVX3lxTE50VVoyYzBMcWNPRFlFQ191a0FPSm5TZlB3aXY1RTFiWXAyUEJXYlVqZkpnOEZsbVRZZG1JUkFKRDFvM1NBZ2dJOWh0VEtORlZiM2s4elU5OFIySWlWTFhSWmw2TWEzb09nRkkxODJDaU01R0JVaUxxT2NlQ3dnSEF6aU1Ea0xjS295MUZpN204dE9GSENvbDhBYkxDcnNoQ3paN1hreEhFbWx0em5qQno3TTB6WWlraVhFQndYVWo3U0txdXpKR05yYkFkaDVxbVBjODgyUXBlMUs0Z0VidFlrRHREdFlqLUdPb1RsaEtiTQ?oc=5",
-      "summary": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade TelecomLead",
+      "summary": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade telecomlead.com",
       "published_at": "2026-08-07T15:54:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     }
   ]
 }
