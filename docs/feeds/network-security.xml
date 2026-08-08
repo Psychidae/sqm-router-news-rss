@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 13:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:48:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday</title>
@@ -22,13 +22,13 @@ Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo Hackaday</description>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 - NordVPN</title>
+      <title>[セキュリティ] Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 - nordvpn.com</title>
       <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wQUI2dnluc0V6eVV3SEtWdVNrN04wVlN2bGF0ZFEwU1BZdUltRG5RNEZLT08yY1R5bHd3Sm0zMDRDMEJQajh1RXgzem5EZHdBbzBrWGpFYw?oc=5</link>
       <guid isPermaLink="false">816077a0163e1cae93e48460</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-04 16:00
-Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 NordVPN</description>
+Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 nordvpn.com</description>
       <pubDate>Fri, 07 Aug 2026 16:06:56 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-07T16:06:56.464419Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T07:00:00Z</sqm:sourcePublishedDate>
@@ -36,13 +36,13 @@ Discordのブロック解除：セキュリティとプライバシーを守るV
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 - news.tv-asahi.co.jp</title>
+      <title>[セキュリティ] 中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 - テレ朝NEWS</title>
       <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1NNFM1UElsNzVyX29iVGFmNExQR25WTkNjWnRVUVMxempPaHBnWS1icU1UYnNCS3NnNlVWSjNHNkoxcGdrTVpfUE02ZHhWOTFPSXlNSjFwNjVGRl9sZ0t5QWJ1OEEzQWFrVFdUM1VBalFuVlBKekFNUzB3?oc=5</link>
       <guid isPermaLink="false">4b4a4bc3c956a262d04d082d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-07 12:07
-中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 news.tv-asahi.co.jp</description>
+中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 テレ朝NEWS</description>
       <pubDate>Sat, 08 Aug 2026 09:52:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-08T09:52:03.478126Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-07T03:07:00Z</sqm:sourcePublishedDate>
@@ -64,13 +64,13 @@ Discordのブロック解除：セキュリティとプライバシーを守るV
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] パロアルト、ファイアウォールOS新版「PAN-OS 12.2 Ceres」、AIで仮想パッチ提供を高速化し、未知の脆弱性に数時間で対処 - IT Leaders</title>
+      <title>[セキュリティ] パロアルト、ファイアウォールOS新版「PAN-OS 12.2 Ceres」、AIで仮想パッチ提供を高速化し、未知の脆弱性に数時間で対処 - it.impress.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlbDFJSUZfb1JlY1N1bnIzRjE2TFFydW9rTmxTNEZkTXNaY294QWR4Mkx0anZGODJLWGFIWnNlUThrbVFGVzhXZS1MT205dmswa25Z?oc=5</link>
       <guid isPermaLink="false">d0aa87417f88f14de0c408c8</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-05 18:17
-パロアルト、ファイアウォールOS新版「PAN-OS 12.2 Ceres」、AIで仮想パッチ提供を高速化し、未知の脆弱性に数時間で対処 IT Leaders</description>
+パロアルト、ファイアウォールOS新版「PAN-OS 12.2 Ceres」、AIで仮想パッチ提供を高速化し、未知の脆弱性に数時間で対処 it.impress.co.jp</description>
       <pubDate>Wed, 05 Aug 2026 11:27:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T11:27:24.391060Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T09:17:08Z</sqm:sourcePublishedDate>
