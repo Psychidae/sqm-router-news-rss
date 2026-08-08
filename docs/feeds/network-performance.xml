@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 21:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:43:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 1Gbps回線から「10倍速」の世界へ。NTT西日本が仕掛ける家族の同時動画視聴やオンライン会議の遅延をゼロにする、超高速10Gbps回線の実力 - DXマガジン</title>
@@ -37,15 +37,15 @@
     </item>
     <item>
       <title>[性能・障害] Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS</title>
-      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxPVzZzMUc2dkN4TDV3cy1LQlBGbkJRQU9SdXZ3aHhoS1puTTFZMk1ZM1VBVnRnRklxV1kxYm5jSV9uMjJfMmxGS19HTW02TWdyMUphdEFRMDBkM09rekI1OTFGZ2JDUUhqT2pXcXFHZGlwLXFnZlg2SXJLeFJhWGJfbWpWNk1pREhLODZPMXpVN3o3VmtxNGlhZU9BUHkwUDBSR2pZMnFFVktfZ0ZyTlRDeUhQeWNnRjJQemdkeUxkRE5MbHdIU1VBM0lvSm0tZU80eHVxa3FfY0QwT0RXVElMM0JTRWZBWFRFOW1ZZi1iMTdrWWpXampiTUxia0pBNFctTzFiRDFmc3B1SGF3N3VpcmdOUTE?oc=5</link>
-      <guid isPermaLink="false">32f422e6b8ceb29d0233f911</guid>
+      <link>https://news.google.com/rss/articles/CBMijAJBVV95cUxNbERXbGFJX1Q4c2tiNDZ5NzJVZGpXdVdaQmYwSnk1dk4wQzdJelo0MkJEQnVYVHNTYUlJdGUtX3MwQnkyLVJ4QS1YakR6VU5iMVN3UEt5bmc4RHpna0cyV0RXNkZfQnBUdUlEaXVMRVZiVXR4b0RmRkhzNnhrbjRCdU5KQy0ybzBlN0VjeFVRajhRVElBYUtIalgzUDZUZjBuSU5nUEtvNjVQYjBSZ0t4TVROQ2ZGM2NVLVVXbWczVjV4WGNtbFRMSjc5ejFZM01jZGJGV1ZpY3UtQzdrTUFFOFRVZDFybHVqaFI4RWtFS1JYOFU2ekFtaEEzM0NqZVo0dEVYTFVLMm8wcm9r?oc=5</link>
+      <guid isPermaLink="false">62fb8de2ba1b2450f41db056</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-05 22:44
+元記事日付: 2026-08-05 08:44
 Spectrum: Internet outage was caused by vandals; reward offered for information WLOS</description>
-      <pubDate>Wed, 05 Aug 2026 15:49:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-05T15:49:22.692655Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-05T13:44:29Z</sqm:sourcePublishedDate>
+      <pubDate>Sat, 08 Aug 2026 21:43:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-08T21:43:51.759951Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-04T23:44:27Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
