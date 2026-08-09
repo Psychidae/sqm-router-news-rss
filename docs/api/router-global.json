@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-09T16:03:21.056574Z",
+  "generated_at": "2026-08-09T16:51:57.638413Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -98,9 +98,9 @@
     },
     {
       "id": "9fbfd9710f8d6b72552c1aef",
-      "title": "Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban - pcmag.com",
+      "title": "Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban - PCMag",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd01Oc3BxS3pLMkVuRHZYNlViSDMyZEpjVi1RZXU2TUpHcW1wTWhENFVnYzlJZlJDSUpXTFZoMGRhNDVaVzRlZGxGVXBTOUtCd2FEWW9MLW9lNkM3SXRRN1VQM241b3dUVnlSRUt1V20tR3BNX1JOYmhnaUFfVmZOMmNhdExUY0FjVkRHNw?oc=5",
-      "summary": "Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban pcmag.com",
+      "summary": "Starlink Exempted From FCC's Foreign-Made Wi-Fi Router Ban PCMag",
       "published_at": "2026-07-27T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
