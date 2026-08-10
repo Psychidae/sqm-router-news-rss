@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-10T15:14:24.280505Z",
+  "generated_at": "2026-08-10T16:08:09.811812Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -31,15 +31,15 @@
       "score": 12
     },
     {
-      "id": "4b4a4bc3c956a262d04d082d",
-      "title": "中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 - テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NNFM1UElsNzVyX29iVGFmNExQR25WTkNjWnRVUVMxempPaHBnWS1icU1UYnNCS3NnNlVWSjNHNkoxcGdrTVpfUE02ZHhWOTFPSXlNSjFwNjVGRl9sZ0t5QWJ1OEEzQWFrVFdUM1VBalFuVlBKekFNUzB3?oc=5",
-      "summary": "中国製ルーター20機種で情報盗むためのバックドア見つかる 米セキュリティー会社発表 テレ朝NEWS",
-      "published_at": "2026-08-07T03:07:00Z",
+      "id": "816077a0163e1cae93e48460",
+      "title": "Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 - NordVPN",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wQUI2dnluc0V6eVV3SEtWdVNrN04wVlN2bGF0ZFEwU1BZdUltRG5RNEZLT08yY1R5bHd3Sm0zMDRDMEJQajh1RXgzem5EZHdBbzBrWGpFYw?oc=5",
+      "summary": "Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 NordVPN",
+      "published_at": "2026-08-04T07:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 6
+      "score": 11
     },
     {
       "id": "969ce3766c8d4e4e37091983",
