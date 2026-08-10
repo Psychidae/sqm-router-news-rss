@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-10T20:59:25.698015Z",
+  "generated_at": "2026-08-10T21:55:58.506222Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -32,9 +32,9 @@
     },
     {
       "id": "62fb8de2ba1b2450f41db056",
-      "title": "Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS",
+      "title": "Spectrum: Internet outage was caused by vandals; reward offered for information - wlos.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbERXbGFJX1Q4c2tiNDZ5NzJVZGpXdVdaQmYwSnk1dk4wQzdJelo0MkJEQnVYVHNTYUlJdGUtX3MwQnkyLVJ4QS1YakR6VU5iMVN3UEt5bmc4RHpna0cyV0RXNkZfQnBUdUlEaXVMRVZiVXR4b0RmRkhzNnhrbjRCdU5KQy0ybzBlN0VjeFVRajhRVElBYUtIalgzUDZUZjBuSU5nUEtvNjVQYjBSZ0t4TVROQ2ZGM2NVLVVXbWczVjV4WGNtbFRMSjc5ejFZM01jZGJGV1ZpY3UtQzdrTUFFOFRVZDFybHVqaFI4RWtFS1JYOFU2ekFtaEEzM0NqZVo0dEVYTFVLMm8wcm9r?oc=5",
-      "summary": "Spectrum: Internet outage was caused by vandals; reward offered for information WLOS",
+      "summary": "Spectrum: Internet outage was caused by vandals; reward offered for information wlos.com",
       "published_at": "2026-08-04T23:44:27Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -43,9 +43,9 @@
     },
     {
       "id": "14c2c57176dfeb1d33e0c8a4",
-      "title": "Spectrum: Internet outage was caused by vandals; reward offered for information - WLOS",
+      "title": "Spectrum: Internet outage was caused by vandals; reward offered for information - wlos.com",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeGFwUjVnSWFvM0Y2N2ZQMlVIRVdiX3pmOWYxcTFERWpHUWs0b1U1YnhWVlVfX0NsX1Nrcjg3RnB4Zjk4ZldacWF1Sm1QVEk2S0xOd2YyRG9iVDRsTnAyV01nZlplZGZ1aHAtX3ZHUG1yc3UzZ3FaMW13ekxtNFd4aC1aSjdrYzFtZ0NRcURBeGtmc2QzanVLUkotUUJNajhjaE5hNWlpWjYzN1lMdUlmZFNKTEl0WEZrcDBSaW5ka3ZFTUNiM08zMXRpNUw3TEZ2VVl6dEZ3eWdjZDB0S2RadzVqOWlNUG5xSWxvcFJvc1A1V0h6bUNOQzV2eG42V1RDZGc?oc=5",
-      "summary": "Spectrum: Internet outage was caused by vandals; reward offered for information WLOS",
+      "summary": "Spectrum: Internet outage was caused by vandals; reward offered for information wlos.com",
       "published_at": "2026-08-04T21:39:39Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
