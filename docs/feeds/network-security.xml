@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:06:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo - Hackaday</title>
@@ -32,20 +32,6 @@ Hacking A Tenda AC1200 Wi-Fi Router With A CVE Combo Hackaday</description>
       <pubDate>Sat, 08 Aug 2026 21:10:18 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-08T21:10:18.903091Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-08T14:03:43Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 - NordVPN</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wQUI2dnluc0V6eVV3SEtWdVNrN04wVlN2bGF0ZFEwU1BZdUltRG5RNEZLT08yY1R5bHd3Sm0zMDRDMEJQajh1RXgzem5EZHdBbzBrWGpFYw?oc=5</link>
-      <guid isPermaLink="false">816077a0163e1cae93e48460</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-08-04 16:00
-Discordのブロック解除：セキュリティとプライバシーを守るVPN活用法 NordVPN</description>
-      <pubDate>Mon, 10 Aug 2026 16:08:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-10T16:08:09.811060Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-04T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
