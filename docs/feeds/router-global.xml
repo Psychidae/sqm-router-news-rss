@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 06:33:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:52:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
@@ -78,6 +78,20 @@ TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Review
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Digi Spain offers latest Wi-Fi 7 router to current fibre users for EUR 30 - Telecompaper</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3JSdG44bHg0TF85T3lJTDZuMG9wbGMyeWVEQlMyc2JKLVZUSl9pRVJQUUx4ejBuZlpxMDk3NUMyNHRBbUhZaW9KVGstc2hYT252NEhaaEU3TXQxdjNJVlpQMjY5b3BBQWp6RHpmRzRPZkVKd1RNMFZWTGVXUlVJcVJGSGUtWFplRTl0bDRNWG9faFpJU05WQmVfUWI3YmViZGViQkF1Q0hpVFdNczlka3hUWVZoTlE?oc=5</link>
+      <guid isPermaLink="false">39e6f92a4aa2cba721f83233</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-11 16:38
+Digi Spain offers latest Wi-Fi 7 router to current fibre users for EUR 30 Telecompaper</description>
+      <pubDate>Tue, 11 Aug 2026 07:52:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-11T07:52:55.408738Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-11T07:38:53Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet - PC Guide</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFkMFg5QWUwMWV3ZHZrVHptT2JKVFAwd2NoUmtZdG95OUJ0bFhxdlhleDF5dEttNnpaYzRqNTZXSnJ2MUE0NGNUYVRTUlVfdVRVV0hsaGFZWjNzYllxbVAyRW5oQURUMjVsU3NWSFhtN29sM3FUdFhwNVVPV2Y1RlRYSlNyajVqbnFfYUo2ZDU3VUdZNDk0LXgxNE9PRGJSdFRadmlJcXRFTXIyNnR6UjNyckF2eG1YZUpXdUpfQmYwSEpj?oc=5</link>
       <guid isPermaLink="false">86baab402931f315e8d39718</guid>
@@ -106,13 +120,13 @@ WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - basic-tutorials.com</title>
+      <title>[海外ルーターニュース] FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5</link>
       <guid isPermaLink="false">1a69f03b39ee421d3f585ea7</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-08-04 11:10
-FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here basic-tutorials.com</description>
+FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials</description>
       <pubDate>Tue, 04 Aug 2026 04:28:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-04T04:28:36.365717Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-04T02:10:16Z</sqm:sourcePublishedDate>
@@ -120,27 +134,13 @@ FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here basi
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5</link>
-      <guid isPermaLink="false">fb3ecb082d6ce59df0638b94</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-28 16:00
-Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less Gizmodo</description>
-      <pubDate>Fri, 31 Jul 2026 21:19:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-31T21:19:28.787629Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-28T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - VnExpress International</title>
+      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - e.vnexpress.net</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5</link>
       <guid isPermaLink="false">1aaef8829f0d22c77efe0deb</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-07-29 16:00
-Should you keep your home Wi-Fi router on 24/7? VnExpress International</description>
+Should you keep your home Wi-Fi router on 24/7? e.vnexpress.net</description>
       <pubDate>Tue, 11 Aug 2026 04:05:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-11T04:05:27.634089Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-29T07:00:00Z</sqm:sourcePublishedDate>
