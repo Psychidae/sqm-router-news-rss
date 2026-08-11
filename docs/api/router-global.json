@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-11T07:52:55.409554Z",
+  "generated_at": "2026-08-11T09:11:47.636094Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "dabe16c9f42995e6c6291ae7",
-      "title": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ - The AU Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5",
-      "summary": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ The AU Review",
-      "published_at": "2026-07-31T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 20
-    },
     {
       "id": "e1c7ae77a6f9c5a3ecc057f2",
       "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech",
@@ -32,9 +21,9 @@
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
-      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews",
+      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5",
-      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router Expert Reviews",
+      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router expertreviews.co.uk",
       "published_at": "2026-08-06T06:31:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -43,9 +32,9 @@
     },
     {
       "id": "9f6828709fd1275ebd8908ce",
-      "title": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job - Expert Reviews",
+      "title": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGc5c3JZNXdLYW80QXR3eEFhdm1qR3UxYTlxQlZuSXdYeF95UDlxU0xpbDhyNVJQbHFlSzZaeER4d2RqT1pRSXVvRVlCZzhacWFsa1dHVkRteF80b1hzRjh1cDN1Vjl4b0NUbm9aT3lzaHFzSHlFdFUtM2pGUWVvRDVkdDRjN1VCWWF3?oc=5",
-      "summary": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job Expert Reviews",
+      "summary": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job expertreviews.co.uk",
       "published_at": "2026-08-05T06:31:54Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -54,14 +43,25 @@
     },
     {
       "id": "e538dcc609dac899ceaf040b",
-      "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews",
+      "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJNQkdnUHl2OHlfV3VTWlZrdXpNOHY4WnpJb0NRUktoZUdZTUN1TkdfemRmX1ZSYjZISEFNbmlFZ0Q0M1IxTnYzSm5qam5Wc0ZBaXJKNWhvZkM3WTRMSGNIUlBhRVhhUW51N19LZmpTSVZDTjBtaWdILXFXZ3BvelcxYjNqOFJSS2lLWkh6YkNranpwU0g0?oc=5",
-      "summary": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Reviews",
+      "summary": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around expertreviews.co.uk",
       "published_at": "2026-07-31T11:31:13Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "dabe16c9f42995e6c6291ae7",
+      "title": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ - theaureview.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5",
+      "summary": "D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU & NZ theaureview.com",
+      "published_at": "2026-07-31T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
     },
     {
       "id": "39e6f92a4aa2cba721f83233",
