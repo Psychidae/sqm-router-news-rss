@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-10T23:49:06.295068Z",
+  "generated_at": "2026-08-11T02:24:56.201600Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 20
+    },
+    {
+      "id": "e1c7ae77a6f9c5a3ecc057f2",
+      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5",
+      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech",
+      "published_at": "2026-08-10T22:39:25Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
@@ -53,37 +64,15 @@
       "score": 16
     },
     {
-      "id": "e1c7ae77a6f9c5a3ecc057f2",
-      "title": "ASUS RT-BE82U Review: A Solid Router - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5",
-      "summary": "ASUS RT-BE82U Review: A Solid Router Dong Knows Tech",
-      "published_at": "2026-08-10T22:39:25Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "86baab402931f315e8d39718",
-      "title": "WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet - pcguide.com",
+      "title": "WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFkMFg5QWUwMWV3ZHZrVHptT2JKVFAwd2NoUmtZdG95OUJ0bFhxdlhleDF5dEttNnpaYzRqNTZXSnJ2MUE0NGNUYVRTUlVfdVRVV0hsaGFZWjNzYllxbVAyRW5oQURUMjVsU3NWSFhtN29sM3FUdFhwNVVPV2Y1RlRYSlNyajVqbnFfYUo2ZDU3VUdZNDk0LXgxNE9PRGJSdFRadmlJcXRFTXIyNnR6UjNyckF2eG1YZUpXdUpfQmYwSEpj?oc=5",
-      "summary": "WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet pcguide.com",
+      "summary": "WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet PC Guide",
       "published_at": "2026-08-10T00:32:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
-      "published_at": "2026-08-04T02:10:16Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
     },
     {
       "id": "5225d14201d2d5134e6324ec",
@@ -93,6 +82,17 @@
       "published_at": "2026-08-06T04:17:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "1a69f03b39ee421d3f585ea7",
+      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
+      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
+      "published_at": "2026-08-04T02:10:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
@@ -108,15 +108,15 @@
       "score": 11
     },
     {
-      "id": "1aaef8829f0d22c77efe0deb",
-      "title": "Should you keep your home Wi-Fi router on 24/7? - VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5",
-      "summary": "Should you keep your home Wi-Fi router on 24/7? VnExpress International",
-      "published_at": "2026-07-29T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "8ac0a5a23c9d67e558ed4c5b",
+      "title": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - TelecomLead",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFphQnd3Q0oxSFV6NU5scTh2bFpwcmhyR2tOTGZtWUNzbml3ci1KNE5DLUJ5QkdlS3A0SjNGWDJzMjRSQWpxXzVCZUMtSEJMVlM5VUp0bk92MTRNZjVTZ2VLOTR6LWxjRXY1VEtIOVlhakFucm82YW1fTWpDMDljWUxaLUQ5TVZTYVk3aGtxOC1HZ1R1Q1RYdWw1VVItZUlCMW1xbXlkVndGTF82WXBoOXpWaGhTckxOMXRkam1wSXJUUDl2RzgxTEd6WUJMMWxqWW9pUjBuZXlCZE51bFlMd1RvNzU1bjhN0gHwAUFVX3lxTE50VVoyYzBMcWNPRFlFQ191a0FPSm5TZlB3aXY1RTFiWXAyUEJXYlVqZkpnOEZsbVRZZG1JUkFKRDFvM1NBZ2dJOWh0VEtORlZiM2s4elU5OFIySWlWTFhSWmw2TWEzb09nRkkxODJDaU01R0JVaUxxT2NlQ3dnSEF6aU1Ea0xjS295MUZpN204dE9GSENvbDhBYkxDcnNoQ3paN1hreEhFbWx0em5qQno3TTB6WWlraVhFQndYVWo3U0txdXpKR05yYkFkaDVxbVBjODgyUXBlMUs0Z0VidFlrRHREdFlqLUdPb1RsaEtiTQ?oc=5",
+      "summary": "Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade TelecomLead",
+      "published_at": "2026-08-07T15:54:56Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 10
+      "score": 7
     }
   ]
 }

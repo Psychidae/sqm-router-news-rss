@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 02:24:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
@@ -19,6 +19,20 @@ D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bott
       <sqm:firstSeenDate>2026-07-30T21:48:02.071837Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5</link>
+      <guid isPermaLink="false">e1c7ae77a6f9c5a3ecc057f2</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-11 07:39
+ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech</description>
+      <pubDate>Mon, 10 Aug 2026 22:54:49 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-10T22:54:49.330838Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-10T22:39:25Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -64,44 +78,16 @@ TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Review
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS RT-BE82U Review: A Solid Router - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5</link>
-      <guid isPermaLink="false">e1c7ae77a6f9c5a3ecc057f2</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-11 07:39
-ASUS RT-BE82U Review: A Solid Router Dong Knows Tech</description>
-      <pubDate>Mon, 10 Aug 2026 22:54:49 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-10T22:54:49.330838Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-10T22:39:25Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet - pcguide.com</title>
+      <title>[海外ルーターニュース] WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet - PC Guide</title>
       <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNaFFkMFg5QWUwMWV3ZHZrVHptT2JKVFAwd2NoUmtZdG95OUJ0bFhxdlhleDF5dEttNnpaYzRqNTZXSnJ2MUE0NGNUYVRTUlVfdVRVV0hsaGFZWjNzYllxbVAyRW5oQURUMjVsU3NWSFhtN29sM3FUdFhwNVVPV2Y1RlRYSlNyajVqbnFfYUo2ZDU3VUdZNDk0LXgxNE9PRGJSdFRadmlJcXRFTXIyNnR6UjNyckF2eG1YZUpXdUpfQmYwSEpj?oc=5</link>
       <guid isPermaLink="false">86baab402931f315e8d39718</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-08-10 09:32
-WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet pcguide.com</description>
+WiFi 7 mesh router deal from TP-Link knocks 19% off a 3 unit system that covers 8,100 square feet PC Guide</description>
       <pubDate>Mon, 10 Aug 2026 02:31:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-10T02:31:07.698544Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-10T00:32:28Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5</link>
-      <guid isPermaLink="false">1a69f03b39ee421d3f585ea7</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-04 11:10
-FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials</description>
-      <pubDate>Tue, 04 Aug 2026 04:28:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-04T04:28:36.365717Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-04T02:10:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -120,6 +106,20 @@ FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basi
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5</link>
+      <guid isPermaLink="false">1a69f03b39ee421d3f585ea7</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-04 11:10
+FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials</description>
+      <pubDate>Tue, 04 Aug 2026 04:28:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-04T04:28:36.365717Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-04T02:10:16Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Buffering Problem for 40% Less - Gizmodo</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdExyOFpDZ3RmUmdsc1pVZ3ZCUGNuOVVHTWZpN2lBazdXbEtRNmI4TnV1V0EwOFJaYjlfeVBFNXIxYVVUNDd4N002a085UlNuV2o4djYxbGdaRndTYkpvZDJud2xUR0syWjZhTjVBZkNBc1BoMjVSaEJXR1IyTW5COFZPcWFUaTRNSmp0RHE3WmJMZFlBd0Y3RHlWZUVEUU1Rb0c3SHNQRlY5TXA1LXBpem1qMm5aWkFSaWE5bmkySjJGUF9jWi1SWmNHWk52YV9ZYUE?oc=5</link>
       <guid isPermaLink="false">fb3ecb082d6ce59df0638b94</guid>
@@ -134,17 +134,17 @@ Stop Blaming Your Internet Provider, TP-Link's Wi-Fi 7 Router Just Fixed Your Bu
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Should you keep your home Wi-Fi router on 24/7? - VnExpress International</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTB1bEpNV05mQ3FZeDFEckdOLVV4SDQ3ZGRrdWd4anNJUDRwT1hwR1ppTFRXM1R3QWh6MV93bk11RUVFVm5GU2dqd1pRLTdObDdtTGhTcWpLb1Nfd251cXdYOWdNaVp4d3JwU21JX1BZT2tRQ0JyVUg4dDNtQVBVWkNrLVkyeFBWX2hXSnJzdkI1MmY0RmhsSTBfT0NmTXBndlYxUzNpVWthaHd1Sklj?oc=5</link>
-      <guid isPermaLink="false">1aaef8829f0d22c77efe0deb</guid>
+      <title>[海外ルーターニュース] Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - TelecomLead</title>
+      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFphQnd3Q0oxSFV6NU5scTh2bFpwcmhyR2tOTGZtWUNzbml3ci1KNE5DLUJ5QkdlS3A0SjNGWDJzMjRSQWpxXzVCZUMtSEJMVlM5VUp0bk92MTRNZjVTZ2VLOTR6LWxjRXY1VEtIOVlhakFucm82YW1fTWpDMDljWUxaLUQ5TVZTYVk3aGtxOC1HZ1R1Q1RYdWw1VVItZUlCMW1xbXlkVndGTF82WXBoOXpWaGhTckxOMXRkam1wSXJUUDl2RzgxTEd6WUJMMWxqWW9pUjBuZXlCZE51bFlMd1RvNzU1bjhN0gHwAUFVX3lxTE50VVoyYzBMcWNPRFlFQ191a0FPSm5TZlB3aXY1RTFiWXAyUEJXYlVqZkpnOEZsbVRZZG1JUkFKRDFvM1NBZ2dJOWh0VEtORlZiM2s4elU5OFIySWlWTFhSWmw2TWEzb09nRkkxODJDaU01R0JVaUxxT2NlQ3dnSEF6aU1Ea0xjS295MUZpN204dE9GSENvbDhBYkxDcnNoQ3paN1hreEhFbWx0em5qQno3TTB6WWlraVhFQndYVWo3U0txdXpKR05yYkFkaDVxbVBjODgyUXBlMUs0Z0VidFlrRHREdFlqLUdPb1RsaEtiTQ?oc=5</link>
+      <guid isPermaLink="false">8ac0a5a23c9d67e558ed4c5b</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-07-29 16:00
-Should you keep your home Wi-Fi router on 24/7? VnExpress International</description>
-      <pubDate>Sun, 09 Aug 2026 13:13:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-09T13:13:03.743815Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-29T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+ソース: Google News Global: home networking
+元記事日付: 2026-08-08 00:54
+Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade TelecomLead</description>
+      <pubDate>Tue, 11 Aug 2026 02:24:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-11T02:24:56.200600Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-07T15:54:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
