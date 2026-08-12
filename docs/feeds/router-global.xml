@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 08:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:30:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - The AU Review</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5</link>
-      <guid isPermaLink="false">dabe16c9f42995e6c6291ae7</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-07-31 16:00
-D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ The AU Review</description>
-      <pubDate>Thu, 30 Jul 2026 21:48:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-30T21:48:02.071837Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-31T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5</link>
@@ -75,6 +61,20 @@ TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Review
       <sqm:firstSeenDate>2026-07-31T12:14:13.100213Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-07-31T11:31:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ - theaureview.com</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPel8tNmZZOHBfNUxYdG5UVjc2ZHlmTkE1a0pyVW9CTWtSQ2ZKZDNLeDZZLXpVcVl1NElCd09CR3BPdzhLOEhMb0ZyWVRBd1lHamQ3dUZHMTFab1g1N1oxZGdQeUZWZU5VVTVYTzZoZnpORGZEZjByeW0xQ1JISUYwOFJKLXN0LTRSSV9vcTdmaXc?oc=5</link>
+      <guid isPermaLink="false">dabe16c9f42995e6c6291ae7</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-07-31 16:00
+D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bottlenecks in AU &amp; NZ theaureview.com</description>
+      <pubDate>Thu, 30 Jul 2026 21:48:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-07-30T21:48:02.071837Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-07-31T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -134,17 +134,17 @@ FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basi
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade - TelecomLead</title>
-      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMFphQnd3Q0oxSFV6NU5scTh2bFpwcmhyR2tOTGZtWUNzbml3ci1KNE5DLUJ5QkdlS3A0SjNGWDJzMjRSQWpxXzVCZUMtSEJMVlM5VUp0bk92MTRNZjVTZ2VLOTR6LWxjRXY1VEtIOVlhakFucm82YW1fTWpDMDljWUxaLUQ5TVZTYVk3aGtxOC1HZ1R1Q1RYdWw1VVItZUlCMW1xbXlkVndGTF82WXBoOXpWaGhTckxOMXRkam1wSXJUUDl2RzgxTEd6WUJMMWxqWW9pUjBuZXlCZE51bFlMd1RvNzU1bjhN0gHwAUFVX3lxTE50VVoyYzBMcWNPRFlFQ191a0FPSm5TZlB3aXY1RTFiWXAyUEJXYlVqZkpnOEZsbVRZZG1JUkFKRDFvM1NBZ2dJOWh0VEtORlZiM2s4elU5OFIySWlWTFhSWmw2TWEzb09nRkkxODJDaU01R0JVaUxxT2NlQ3dnSEF6aU1Ea0xjS295MUZpN204dE9GSENvbDhBYkxDcnNoQ3paN1hreEhFbWx0em5qQno3TTB6WWlraVhFQndYVWo3U0txdXpKR05yYkFkaDVxbVBjODgyUXBlMUs0Z0VidFlrRHREdFlqLUdPb1RsaEtiTQ?oc=5</link>
-      <guid isPermaLink="false">8ac0a5a23c9d67e558ed4c5b</guid>
+      <title>[海外ルーターニュース] The 5 Best Gaming Routers of 2026 - RTINGS.com</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GWG1vVWlPQWR3TG1EdV96YW9KazFSWFJxTWVzS1ZQTlM5bkF2a0IyeWRyNEVIZTNoTERBS2xYYkg1QjZwcmFUV3h6QVZQem5IRVdPRXpPUEdjREJ4NHc?oc=5</link>
+      <guid isPermaLink="false">2142b566634d944037652007</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-08 00:54
-Wi-Fi 7 Adoption Jumps 300% in U.S. as CenturyLink, Frontier, Ziply, Spectrum, Fiber Providers Drive Broadband Upgrade TelecomLead</description>
-      <pubDate>Wed, 12 Aug 2026 08:02:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-12T08:02:30.301094Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-07T15:54:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+ソース: Google News US: router products
+元記事日付: 2026-08-12 17:23
+The 5 Best Gaming Routers of 2026 RTINGS.com</description>
+      <pubDate>Wed, 12 Aug 2026 09:30:23 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-12T09:30:23.515620Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-12T08:23:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
