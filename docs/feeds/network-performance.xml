@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 17:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:04:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft - Quesnel Cariboo Observer</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWhVRk1vRWVBTkM4NnEtdVBGRGd5SHNfZVUwc2RUc1NGX3Z0UE01RWc0ZHF3WkNKaEpNWXFqd0xYcENfSEo5eFBWZlE3SjRqRi1Vcmc0ajQ0NmNwMks2OHBpSmM2Tno3aU13QzlqeEhwOW9XOFFhaHgwejFZenc1b0hYdnJ4dUtkZUZTdElfRQ?oc=5</link>
-      <guid isPermaLink="false">a9447f2375521088812184b2</guid>
+      <title>[性能・障害] UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft - Terrace Standard</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG1aQmU3MmpEejVnMVd2MHJOdHpEV3JMS0pxVENRLWxiZERrRHBtTVFTSkVxRTFYVkJKNGd1NHFSU0xpNVAtTlVvck9FN3ZwcENyaEtPVjI3Zjc4OC1hUXpjME9POHE1cFBSZmJDZHRqdWViUE1Qa3NpNUtPZmlBNUpwMjJhYXVfNUZ3eGs3RQ?oc=5</link>
+      <guid isPermaLink="false">4979877280deb9bdba82b220</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-12 10:45
-UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft Quesnel Cariboo Observer</description>
-      <pubDate>Wed, 12 Aug 2026 04:59:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-12T04:59:21.693307Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-12T01:45:31Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-12 11:52
+UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft Terrace Standard</description>
+      <pubDate>Wed, 12 Aug 2026 18:04:46 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-12T18:04:46.442005Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-12T02:52:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

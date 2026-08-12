@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-12T17:09:34.747434Z",
+  "generated_at": "2026-08-12T18:04:46.442804Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,11 +9,11 @@
   "errors": [],
   "items": [
     {
-      "id": "a9447f2375521088812184b2",
-      "title": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft - Quesnel Cariboo Observer",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWhVRk1vRWVBTkM4NnEtdVBGRGd5SHNfZVUwc2RUc1NGX3Z0UE01RWc0ZHF3WkNKaEpNWXFqd0xYcENfSEo5eFBWZlE3SjRqRi1Vcmc0ajQ0NmNwMks2OHBpSmM2Tno3aU13QzlqeEhwOW9XOFFhaHgwejFZenc1b0hYdnJ4dUtkZUZTdElfRQ?oc=5",
-      "summary": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft Quesnel Cariboo Observer",
-      "published_at": "2026-08-12T01:45:31Z",
+      "id": "4979877280deb9bdba82b220",
+      "title": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft - Terrace Standard",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG1aQmU3MmpEejVnMVd2MHJOdHpEV3JMS0pxVENRLWxiZERrRHBtTVFTSkVxRTFYVkJKNGd1NHFSU0xpNVAtTlVvck9FN3ZwcENyaEtPVjI3Zjc4OC1hUXpjME9POHE1cFBSZmJDZHRqdWViUE1Qa3NpNUtPZmlBNUpwMjJhYXVfNUZ3eGs3RQ?oc=5",
+      "summary": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft Terrace Standard",
+      "published_at": "2026-08-12T02:52:12Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
