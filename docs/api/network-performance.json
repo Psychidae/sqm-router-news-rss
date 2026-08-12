@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-12T20:05:37.228602Z",
+  "generated_at": "2026-08-12T21:00:37.863350Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "59f429f22e6b192b232ba6d1",
-      "title": "Attempted copper theft triggers internet outage for Rogers customers in Calgary - Calgary Herald",
+      "title": "Attempted copper theft triggers internet outage for Rogers customers in Calgary - calgaryherald.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGVqWWdESW1LU0VpME5TVGFTWEtDU1dxdUJRUlNqRFNXcV9EZENlN1FXSWgtbmktdHY1S2FIVW56U3ZEbXJtenBCa2FLZXhXV0NYaU1XazJNdFFJeFV1VEd2OEthem5DSlFweWhmUEM0cnQ0aDdzbzFUVHBFZmUwR09HUC1VRDlmLXhrVVJvZHJZUzdjNF9DUFFCXzRvNWxKdy1pWjVqWUE?oc=5",
-      "summary": "Attempted copper theft triggers internet outage for Rogers customers in Calgary Calgary Herald",
+      "summary": "Attempted copper theft triggers internet outage for Rogers customers in Calgary calgaryherald.com",
       "published_at": "2026-08-12T00:27:45Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -42,11 +42,11 @@
       "score": 9
     },
     {
-      "id": "f721d26be00a7c7d5bc341d9",
-      "title": "Another internet outage is affecting northern communities - Terrace Standard",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWdKbkVLb09MaFFob1JQM1NmV2lHS3BNZTJIenZ2TTZwLUlFSGRGcUtjOXJTT2plOXhMRmFVQVp1QXlEUjBmZDMxOGw1c2dtYnB6aExxb3Y2a1dRSFFEc2x5Y040eTdQcUZJckVxRlhfVTl6YnY3TDFTdzluQnpubWMxaHY1OThoQVh6aGNSbFJNVjNHbVFSckhjRk1NQQ?oc=5",
-      "summary": "Another internet outage is affecting northern communities Terrace Standard",
-      "published_at": "2026-08-11T18:22:42Z",
+      "id": "3a43d6bb6ccd103a515a64b6",
+      "title": "Another internet outage is affecting northern communities - Houston Today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkMxSjFVNkk0SEZBTXNtaDhlSk1mNDZsSGIwYTdEalpobUZ1RHN6OUZSdlV1cHBCRElGQi1CV2VuUklUTWxBQk1DVGNOVkxVZmdKSDlhYWZOaHNTR2s3eG4taFVxM1BobUkzMkNWZ0lRZTQ5UnVLb1NxNHVzQTRGalJFT1JuMElyRFNPT19aUnBpV0JVX2JkZTB6RQ?oc=5",
+      "summary": "Another internet outage is affecting northern communities Houston Today",
+      "published_at": "2026-08-11T18:32:29Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
