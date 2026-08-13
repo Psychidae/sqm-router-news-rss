@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-13T22:23:13.739768Z",
+  "generated_at": "2026-08-13T23:22:56.039107Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -39,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGc5c3JZNXdLYW80QXR3eEFhdm1qR3UxYTlxQlZuSXdYeF95UDlxU0xpbDhyNVJQbHFlSzZaeER4d2RqT1pRSXVvRVlCZzhacWFsa1dHVkRteF80b1hzRjh1cDN1Vjl4b0NUbm9aT3lzaHFzSHlFdFUtM2pGUWVvRDVkdDRjN1VCWWF3?oc=5",
       "summary": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job Expert Reviews",
       "published_at": "2026-08-05T06:31:54Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
-      "id": "e538dcc609dac899ceaf040b",
-      "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJNQkdnUHl2OHlfV3VTWlZrdXpNOHY4WnpJb0NRUktoZUdZTUN1TkdfemRmX1ZSYjZISEFNbmlFZ0Q0M1IxTnYzSm5qam5Wc0ZBaXJKNWhvZkM3WTRMSGNIUlBhRVhhUW51N19LZmpTSVZDTjBtaWdILXFXZ3BvelcxYjNqOFJSS2lLWkh6YkNranpwU0g0?oc=5",
-      "summary": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Reviews",
-      "published_at": "2026-07-31T11:31:13Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 10
+    },
+    {
+      "id": "c9b46cdf9ec45ddcb041bbec",
+      "title": "Anatel Cuts Brazil’s Wi-Fi 7 Spectrum in Half, Effective March 2027 Deadline - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVUtRVJZN3BWMmQ2WWZSVGh2RHMtTWoyRTJYOGtMT2dELTdrb09NVWhMVFdwNlplNzdxQVBqVjRqN09vQXRwdTRVY19abXBVaktRNFRBVmFvODZ4alJibUZvcUV3Z19QS0dtSDR4ZXJfejhOZmNMUTNqRUpURFRydnZLYjN2LUFHbFI0MWNGWVRHV0ZCUzM1NTUxVHJpS3RjTjNUeUJJUVMxX2NuMkt4OU1DcHZNNi1XSHQ5VFlfUVlRWk5v?oc=5",
+      "summary": "Anatel Cuts Brazil’s Wi-Fi 7 Spectrum in Half, Effective March 2027 Deadline Tech Times",
+      "published_at": "2026-08-13T13:47:29Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }
