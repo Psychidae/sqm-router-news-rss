@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:50:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Major fiber cut causes internet outage across Marlboro Co. - WPDE</title>
@@ -36,30 +36,16 @@ Attempted copper theft triggers internet outage for Rogers customers in Calgary 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - 100 Mile Free Press</title>
+      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - 100milefreepress.net</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0lIcDBrcElQc2YtbUtxSE54VU9xakdKa2hMQVpna211UzQ3WEFtRklnREFlOHhjQkNDMG1LSDRJem9SRllXMG95Y1BXX2w1enFEZnZWM0NyUjdYd0J2dVhiOWRfdTB3NjhDZmhISXBMQUJSaVR5c0Y1T2tPMUJLb0lQTFpHdnlPSWFaUUg2a18?oc=5</link>
       <guid isPermaLink="false">4897b6d8a91e184f328a740e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 06:51
-UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft 100 Mile Free Press</description>
+UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft 100milefreepress.net</description>
       <pubDate>Thu, 13 Aug 2026 02:44:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-13T02:44:28.792194Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-11T21:51:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - Yahoo News Canada</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5yTUdCZEt1VzhPUmhwbFlTMVkzZml4UGhZTEJySmtSTlZIaU8yTk83eFA0Vk5PU2luZ0xGZzZXZ3BDSl9Pa1RlakV0WWFhY2I0cWRfS0ZKeGhTcjM3SWJtLTJrYWlSV1R6WHltNnlGNWJTdw?oc=5</link>
-      <guid isPermaLink="false">f4fa2363f1e554b50adec72e</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-12 06:48
-Northwest B.C. faces 3rd large-scale internet outage in months Yahoo News Canada</description>
-      <pubDate>Thu, 13 Aug 2026 02:44:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-13T02:44:28.792194Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-11T21:48:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
