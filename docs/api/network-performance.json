@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-13T21:27:02.994988Z",
+  "generated_at": "2026-08-13T22:23:16.245045Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,10 +10,10 @@
   "items": [
     {
       "id": "bbffe6c03eb6f6193912e35b",
-      "title": "UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled - wboc.com",
+      "title": "UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled - WBOC TV",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPamF3YlNNT0JUWFJmMnJqSGNJZ09VY1R1ZzN4X2M0b0loX1pnREZQUEVqdW9Eby1EbWM5a25vUUtfWWp1SnFMcngyelFIejJES2R4emZGN2tVRXg0WE9WQWdWUTdXY0dGZzcyVmpuT3ZVWlc2U2tGYzdCVExqNU4tVHhYVFBLeGs0S0tHUlJ5MTBmaXZEc3VNeXQ5X1Q2UW1aQ3BRSFVkcnNFX0NZVWpLRXpNdW1LQl9uVUczeE90Um5Wc29odldJRkRzd0ZlUEk4QVJDNF9pVXVEMGxHTjQwNVIxU2J3ZzllQnNvekhnQ1Vucmo4WUhWaERJYlBfaGNHUk1n?oc=5",
-      "summary": "UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled wboc.com",
-      "published_at": "2026-08-13T14:46:00Z",
+      "summary": "UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled WBOC TV",
+      "published_at": "2026-08-13T21:16:38Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -87,9 +87,9 @@
     },
     {
       "id": "c94586e026899c4537e26fde",
-      "title": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears - DCRTV.COM",
+      "title": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears - dcrtv.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDU3QlQ0dm15eTl0ZzVBS2trZXg4YVA5Smsxd0prbzRjVGpXaHhEVWNxMzlxZUs5ckszZ19TdGpiNkVfLXhTaE9Uand2b3FpX0EwODRIdUI3YzdjakZJd2lNT3BBV3ZsZHFjOW1GRy1FbXRYSy1LMzl4NXNSR1cyU1VBc2RVMDQ?oc=5",
-      "summary": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears DCRTV.COM",
+      "summary": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears dcrtv.com",
       "published_at": "2026-08-10T15:21:21Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
