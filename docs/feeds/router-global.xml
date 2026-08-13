@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 20:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:27:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -36,13 +36,13 @@ D-Link Launches Dual 10-Gig Wi-Fi 7 Mesh Router to Eliminate Home Broadband Bott
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech</title>
+      <title>[海外ルーターニュース] ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - dongknows.com</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5</link>
       <guid isPermaLink="false">e1c7ae77a6f9c5a3ecc057f2</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-08-11 07:44
-ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech</description>
+ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router dongknows.com</description>
       <pubDate>Mon, 10 Aug 2026 22:54:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-10T22:54:49.330838Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-10T22:44:40Z</sqm:sourcePublishedDate>
@@ -74,20 +74,6 @@ Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job Expert Reviews</d
       <pubDate>Wed, 05 Aug 2026 08:49:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-05T08:49:48.122158Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-05T06:31:54Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJNQkdnUHl2OHlfV3VTWlZrdXpNOHY4WnpJb0NRUktoZUdZTUN1TkdfemRmX1ZSYjZISEFNbmlFZ0Q0M1IxTnYzSm5qam5Wc0ZBaXJKNWhvZkM3WTRMSGNIUlBhRVhhUW51N19LZmpTSVZDTjBtaWdILXFXZ3BvelcxYjNqOFJSS2lLWkh6YkNranpwU0g0?oc=5</link>
-      <guid isPermaLink="false">e538dcc609dac899ceaf040b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-07-31 20:31
-TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Reviews</description>
-      <pubDate>Fri, 31 Jul 2026 12:14:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-07-31T12:14:13.100213Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-07-31T11:31:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -145,6 +131,20 @@ FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basi
       <sqm:firstSeenDate>2026-08-06T07:23:44.326966Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-06T04:17:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Get whole-home Wi-Fi 7 for less with this TP-Link Deco BE23 deal at Amazon - Android Authority</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3BxUVhNdjVFbXFYZHhGYmlNM2R5MjQtbVZoTTc5WVhYVVp2VUxsREc0bHN0M2s2cGxtUTRIWVdDRkRoTDJCUUF0YkFLcEt0WHBjRURhZGp5Yzg3dGRpeXFWelF0YWRxMklXNWJueTRHczQ4Zkx4OXptcUZvX3JDZE8xOU10eW55OERFM0lRczJ6YTJ4SWsw?oc=5</link>
+      <guid isPermaLink="false">90a9ac73f522e8ad2df1eb68</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-14 01:52
+Get whole-home Wi-Fi 7 for less with this TP-Link Deco BE23 deal at Amazon Android Authority</description>
+      <pubDate>Thu, 13 Aug 2026 21:27:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-13T21:27:00.629312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-13T16:52:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>

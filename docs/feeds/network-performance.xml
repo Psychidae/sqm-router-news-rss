@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 20:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:27:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] TidalHealth suffers systemwide power, internet outage | Breaking news - DelmarvaNow.com</title>
-      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0RxbjMxNW9rM2wwZFhYNXNnbTFOVGZueXZtSU5YTjRCc19HNEdqR2NPbXRfVjZBME1Tbms4bUk3aWM1azRvRERhUVpfRnMwV0JQN0VGM0lobkVza3ZqeGhqYU9YNE83Z0x6cGFNN3dEQ0VrVUZjZzYzUlVSYTFKWDZiTTBhM2hWZG5EMzVYT0VDRlZvMEduT0hPQXk1amtndTJCOWZEYVliY3ZqU0ZPeUdtUHJidVAxTWtTRVozUngyN01kdGt4RWJOajhxZFhZczNtRFNQTjhhbHVf?oc=5</link>
-      <guid isPermaLink="false">c188d4e5c395d0715de8f5a4</guid>
+      <title>[性能・障害] UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled - wboc.com</title>
+      <link>https://news.google.com/rss/articles/CBMigwJBVV95cUxPamF3YlNNT0JUWFJmMnJqSGNJZ09VY1R1ZzN4X2M0b0loX1pnREZQUEVqdW9Eby1EbWM5a25vUUtfWWp1SnFMcngyelFIejJES2R4emZGN2tVRXg0WE9WQWdWUTdXY0dGZzcyVmpuT3ZVWlc2U2tGYzdCVExqNU4tVHhYVFBLeGs0S0tHUlJ5MTBmaXZEc3VNeXQ5X1Q2UW1aQ3BRSFVkcnNFX0NZVWpLRXpNdW1LQl9uVUczeE90Um5Wc29odldJRkRzd0ZlUEk4QVJDNF9pVXVEMGxHTjQwNVIxU2J3ZzllQnNvekhnQ1Vucmo4WUhWaERJYlBfaGNHUk1n?oc=5</link>
+      <guid isPermaLink="false">bbffe6c03eb6f6193912e35b</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-14 01:21
-TidalHealth suffers systemwide power, internet outage | Breaking news DelmarvaNow.com</description>
-      <pubDate>Thu, 13 Aug 2026 18:05:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-13T18:05:25.718747Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-13T16:21:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-13 23:46
+UPDATE: TidalHealth experiencing systemwide phone, internet outage; outpatient appointments canceled wboc.com</description>
+      <pubDate>Thu, 13 Aug 2026 21:27:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-13T21:27:02.994087Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-13T14:46:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
