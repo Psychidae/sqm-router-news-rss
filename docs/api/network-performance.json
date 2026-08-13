@@ -1,19 +1,19 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-12T23:55:52.099318Z",
+  "generated_at": "2026-08-13T02:44:28.793095Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 8,
   "errors": [],
   "items": [
     {
-      "id": "4979877280deb9bdba82b220",
-      "title": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft - Terrace Standard",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG1aQmU3MmpEejVnMVd2MHJOdHpEV3JMS0pxVENRLWxiZERrRHBtTVFTSkVxRTFYVkJKNGd1NHFSU0xpNVAtTlVvck9FN3ZwcENyaEtPVjI3Zjc4OC1hUXpjME9POHE1cFBSZmJDZHRqdWViUE1Qa3NpNUtPZmlBNUpwMjJhYXVfNUZ3eGs3RQ?oc=5",
-      "summary": "UPDATE: Today’s Northwest B.C. Internet outage caused by attempted theft Terrace Standard",
-      "published_at": "2026-08-12T02:52:12Z",
+      "id": "ab88a1f913b2e5e146ef7f2e",
+      "title": "Major fiber cut causes internet outage across Marlboro Co. - WPDE",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJiWVN2X0NQVkw0ZkdTSzAtVk9sRkdXZWVCa3hBenBOUDRkLXZGX2pqTEZtdFlOSlZ6ZktFY0hWeUJlWTc3czl6RURoWXc1UUdiaWNsS0dFNDJqS2VCcHd3NWNFb25IMU9vYmMzX3daQU4wN3VlV1ljTDJCcWhkR3hON2syeVUyQ1d0YmtmanlMQXVLd3NPSTA2MVN6b3VfRllpdW1YQ0dNNTg?oc=5",
+      "summary": "Major fiber cut causes internet outage across Marlboro Co. WPDE",
+      "published_at": "2026-08-12T04:07:31Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -28,7 +28,29 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
+    },
+    {
+      "id": "4897b6d8a91e184f328a740e",
+      "title": "UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - 100 Mile Free Press",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV0lIcDBrcElQc2YtbUtxSE54VU9xakdKa2hMQVpna211UzQ3WEFtRklnREFlOHhjQkNDMG1LSDRJem9SRllXMG95Y1BXX2w1enFEZnZWM0NyUjdYd0J2dVhiOWRfdTB3NjhDZmhISXBMQUJSaVR5c0Y1T2tPMUJLb0lQTFpHdnlPSWFaUUg2a18?oc=5",
+      "summary": "UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft 100 Mile Free Press",
+      "published_at": "2026-08-11T21:51:19Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "f4fa2363f1e554b50adec72e",
+      "title": "Northwest B.C. faces 3rd large-scale internet outage in months - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yTUdCZEt1VzhPUmhwbFlTMVkzZml4UGhZTEJySmtSTlZIaU8yTk83eFA0Vk5PU2luZ0xGZzZXZ3BDSl9Pa1RlakV0WWFhY2I0cWRfS0ZKeGhTcjM3SWJtLTJrYWlSV1R6WHltNnlGNWJTdw?oc=5",
+      "summary": "Northwest B.C. faces 3rd large-scale internet outage in months Yahoo News Canada",
+      "published_at": "2026-08-11T21:48:12Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "c48bd884117a0e55317c592a",
