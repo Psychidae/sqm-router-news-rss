@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-14T19:11:14.484819Z",
+  "generated_at": "2026-08-14T20:43:20.553989Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,10 +9,21 @@
   "errors": [],
   "items": [
     {
+      "id": "1ce0917ae58a65a995391f10",
+      "title": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUZzSF9JcDR4UnhGSHozdS01Vkc5NzFWV3lYMHNKb2Q3SmpRVVBvUHdWM0tJRTVmZmVqeFZGY3M5UlplMklNQU1IamhIazhCT0hsU2ZIMXUxZEZJM1pGM1dOMFVkNFJGVVg2U2FIcDdvT2lCcG1rOVJxbXI1WnVOcU1hcUF3UGFMS2luWEFGVWRtTzhvc2ptT0RsRVpaWmJJZ2NldmZabVp4aUVMbHYtME1YUFc1VW9TVzd0cjRFSkozQWJxbU9yaXBJTHFuZVlfMkxBdUVLU0JpYk5TOFVESHRWT1dBU0VZZG5odXFsZlhxX3dOOXBJSmNELTdnenZDV2xiQVVmNGNyZ9IBjwJBVV95cUxQSjVxQm5CcENQWV83THNLRnR5clRCQ3RmQWZJeGVkOVh5ODJRRERwT1dJY2ZrYjQ2VklDbHhPaktybXBLVHJIUFFKSnIzV2pDbWhjbW5XMUNfdmdQbmxxRkcyS284M3AyaExFYjhPeHZrbkVsWkVwVWVFMFZsNmUzbkFXN0ROX2dQb3lLbmJWb0dNamdCQTl0TzNScFF4bE1ITWhidUF0WkVyaGluQTNrd0JtYzZTS0o0ZUFlZUdoZHB6cUhfYU9PSVlTcUdxWnl1WnROeUJCUVhzMi14QWNuZmFvb2hOSklHZ01SX25QZTRCZUlPLWJUM21FYUxXdUdKemc1d1JWaWNNb3VYbUpz?oc=5",
+      "summary": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs The Manila Times",
+      "published_at": "2026-08-14T20:03:53Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "a60ad220e727d73be049a4e7",
-      "title": "What caused TidalHealth phone, internet outage? The latest update - DelmarvaNow.com",
+      "title": "TidalHealth explains what caused phone, internet outage. Latest update - DelmarvaNow.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNGxNZEtzTWNDQWJYMXRpcF9GX1NqZWxhaEk0M0JwY0ZvMkdJakFwX1hQeGNSUTlZRGlfNGFMd2oyTEJacm42VDFTeGUzMXJtdGQ4Ry1yRkNSVXBCX3lNTTl1c0lEcGZ1WFFtNHF3X3YybGxpckVYemVSeFdKejYybFhwazFBU0hnYWNCRl9aQUZZdFc4QTNZc29RNTI4N0k1VGFsX0ktVFBoQXl0ZUFCNktucGRQLXE0YWdjQ0ptSmNxWDRqUmdvVDE5SUR2S19KZC1naXVoazQ0TWR1aGpB?oc=5",
-      "summary": "What caused TidalHealth phone, internet outage? The latest update DelmarvaNow.com",
+      "summary": "TidalHealth explains what caused phone, internet outage. Latest update DelmarvaNow.com",
       "published_at": "2026-08-14T13:10:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkMxSjFVNkk0SEZBTXNtaDhlSk1mNDZsSGIwYTdEalpobUZ1RHN6OUZSdlV1cHBCRElGQi1CV2VuUklUTWxBQk1DVGNOVkxVZmdKSDlhYWZOaHNTR2s3eG4taFVxM1BobUkzMkNWZ0lRZTQ5UnVLb1NxNHVzQTRGalJFT1JuMElyRFNPT19aUnBpV0JVX2JkZTB6RQ?oc=5",
       "summary": "Another internet outage is affecting northern communities Houston Today",
       "published_at": "2026-08-11T18:32:29Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "c94586e026899c4537e26fde",
-      "title": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears - DCRTV.COM",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObDU3QlQ0dm15eTl0ZzVBS2trZXg4YVA5Smsxd0prbzRjVGpXaHhEVWNxMzlxZUs5ckszZ19TdGpiNkVfLXhTaE9Uand2b3FpX0EwODRIdUI3YzdjakZJd2lNT3BBV3ZsZHFjOW1GRy1FbXRYSy1LMzl4NXNSR1cyU1VBc2RVMDQ?oc=5",
-      "summary": "Internet Outage Knocks 100.7 The Bay Off The Air As End Nears DCRTV.COM",
-      "published_at": "2026-08-10T15:21:21Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
