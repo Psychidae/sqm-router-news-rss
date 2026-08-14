@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-14T21:37:31.013503Z",
+  "generated_at": "2026-08-14T21:57:17.312006Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -20,10 +20,21 @@
       "score": 13
     },
     {
+      "id": "5c2870775816497caec543d3",
+      "title": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 (窓の杜) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORnVQeVYtaDJxa0FxSktXdVg1UnBjcjV1ZkVuczl6LVRQVWJDWE1BTU5zVF9tV0ZDU2lGaEQ2WDlBQk1XYUtpdVdUWnZLb1lBU0pJajRRaGRNaWdjZWZmX1NmcW9ZcUNEdVJkNVMtaGRqMTByYTk3UUZGdDAzWUlmOWhGU3BhY3NiejdCUHVR?oc=5",
+      "summary": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 (窓の杜) Yahoo!ニュース",
+      "published_at": "2026-08-13T00:36:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
       "id": "bd542199426464baf1535cb2",
-      "title": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - forest.watch.impress.co.jp",
+      "title": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - 窓の杜",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yMjVMWWlZS3pnaWVXT1IzeUJ1Y1VieDU2OHRnUU96X3I5RTdPMjZ5Z1F4VTBUT0R5Uk5oSW5nT3NGSnZybWRHZHdUNHV2bXFfUUtMbUdVMzk3cUw0TXFJNmZOVkZ4RnNX?oc=5",
-      "summary": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 forest.watch.impress.co.jp",
+      "summary": "インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 窓の杜",
       "published_at": "2026-08-13T00:16:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
