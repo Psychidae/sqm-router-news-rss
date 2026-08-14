@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:01:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - The Manila Times</title>
@@ -78,13 +78,13 @@ UPDATE: TidalHealth systems restored after widespread phone and internet outage 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Major fiber cut causes internet outage across Marlboro Co. - wpde.com</title>
+      <title>[性能・障害] Major fiber cut causes internet outage across Marlboro Co. - WPDE</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJiWVN2X0NQVkw0ZkdTSzAtVk9sRkdXZWVCa3hBenBOUDRkLXZGX2pqTEZtdFlOSlZ6ZktFY0hWeUJlWTc3czl6RURoWXc1UUdiaWNsS0dFNDJqS2VCcHd3NWNFb25IMU9vYmMzX3daQU4wN3VlV1ljTDJCcWhkR3hON2syeVUyQ1d0YmtmanlMQXVLd3NPSTA2MVN6b3VfRllpdW1YQ0dNNTg?oc=5</link>
       <guid isPermaLink="false">ab88a1f913b2e5e146ef7f2e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 13:07
-Major fiber cut causes internet outage across Marlboro Co. wpde.com</description>
+Major fiber cut causes internet outage across Marlboro Co. WPDE</description>
       <pubDate>Thu, 13 Aug 2026 02:44:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-13T02:44:28.792194Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-12T04:07:31Z</sqm:sourcePublishedDate>
