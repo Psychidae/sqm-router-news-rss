@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:33:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - The Manila Times</title>
-      <link>https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUZzSF9JcDR4UnhGSHozdS01Vkc5NzFWV3lYMHNKb2Q3SmpRVVBvUHdWM0tJRTVmZmVqeFZGY3M5UlplMklNQU1IamhIazhCT0hsU2ZIMXUxZEZJM1pGM1dOMFVkNFJGVVg2U2FIcDdvT2lCcG1rOVJxbXI1WnVOcU1hcUF3UGFMS2luWEFGVWRtTzhvc2ptT0RsRVpaWmJJZ2NldmZabVp4aUVMbHYtME1YUFc1VW9TVzd0cjRFSkozQWJxbU9yaXBJTHFuZVlfMkxBdUVLU0JpYk5TOFVESHRWT1dBU0VZZG5odXFsZlhxX3dOOXBJSmNELTdnenZDV2xiQVVmNGNyZ9IBjwJBVV95cUxQSjVxQm5CcENQWV83THNLRnR5clRCQ3RmQWZJeGVkOVh5ODJRRERwT1dJY2ZrYjQ2VklDbHhPaktybXBLVHJIUFFKSnIzV2pDbWhjbW5XMUNfdmdQbmxxRkcyS284M3AyaExFYjhPeHZrbkVsWkVwVWVFMFZsNmUzbkFXN0ROX2dQb3lLbmJWb0dNamdCQTl0TzNScFF4bE1ITWhidUF0WkVyaGluQTNrd0JtYzZTS0o0ZUFlZUdoZHB6cUhfYU9PSVlTcUdxWnl1WnROeUJCUVhzMi14QWNuZmFvb2hOSklHZ01SX25QZTRCZUlPLWJUM21FYUxXdUdKemc1d1JWaWNNb3VYbUpz?oc=5</link>
-      <guid isPermaLink="false">1ce0917ae58a65a995391f10</guid>
+      <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOSENWcnRqeGg2RWRGS29uN3dtM3B2UWczYTN2OGJZamhWeWRLMkN2VFdWZjhyaWExUzREc1Y2UVk2UmtaWmVYaXg2YTFXem5hamxzQ3EyVnlwTGI4MGZmTFdWS2ticHRyeGpUbGZzYU5QLW9zdGk4blBZSWY5S3NSNGtEaEJxeWVzSkhLeVIwVzc4SVFlTW8zM3lUVmthQU9ORzVv?oc=5</link>
+      <guid isPermaLink="false">203d3b5f13f1908e716a3eaf</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-15 05:03
-Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs The Manila Times</description>
-      <pubDate>Fri, 14 Aug 2026 20:43:20 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-14T20:43:20.552995Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-14T20:03:53Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-15 04:52
+Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs Yahoo Finance</description>
+      <pubDate>Fri, 14 Aug 2026 23:33:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-14T23:33:35.478922Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-14T19:52:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
