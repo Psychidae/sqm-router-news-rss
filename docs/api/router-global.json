@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-14T16:03:49.346177Z",
+  "generated_at": "2026-08-14T17:08:42.973228Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "77f01b3ff552423717c153e2",
+      "title": "This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-Fi 7 Router - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTRiMlhCM1Q4eUZOeVhZVExxRnUtcXJvNGJkZC1wY0pSdHpDbVowM19WNk92SHJWc0VyclZWQVJ0YmpQQVRmdGlwR1AzeHZMWXpxWkNaSFQwV1FOc1ZyVFMtcGJMOVNheDdfTkR2bWhDaG9DVHRsT21VdjN6em8zZlVjUmM1eE4zc24zVkpMdmhXMlVRX2swZktDTQ?oc=5",
+      "summary": "This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-Fi 7 Router PCMag",
+      "published_at": "2026-08-14T16:30:51Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "b75462ae8ee2ef735ca0e367",
@@ -87,9 +98,9 @@
     },
     {
       "id": "07438669224e2012e05a5f29",
-      "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - Gizmodo",
+      "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - gizmodo.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTFmYjlkWEZ1NmZLMmlZT3N1UjdaQkFURFhmRExFQWhOWTc0MGFPS3ZRMnJEWllwNzFpMk1hdDBfRFVDcF9LV1hnQ0NsYU14M0ctUEFaUFBfNzJ1UDBTT3hWaE1Rb3hnRkJQZ2xXSjM0Y0wyamw0NGx3anhrVXJBc2xpQmRnN19sZDRvT2tRMjR1cTRzYkJHalhNa3RLcVdva0c2dVhpZ0U1U1Bz?oc=5",
-      "summary": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move Gizmodo",
+      "summary": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move gizmodo.com",
       "published_at": "2026-08-13T12:40:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
-      "published_at": "2026-08-04T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
