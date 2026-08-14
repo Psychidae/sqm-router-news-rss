@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-14T14:01:11.920104Z",
+  "generated_at": "2026-08-14T15:05:22.010930Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -32,14 +32,25 @@
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
-      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews",
+      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5",
-      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router Expert Reviews",
+      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router expertreviews.co.uk",
       "published_at": "2026-08-06T06:31:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "b75462ae8ee2ef735ca0e367",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXpzZ1lUWU5WQVpvemRveG5zN3NIcU5GbUwzWkx6dWI1OXlmSkh4UmlrNlM2d0JWWnB3TW5GTlFZT1p0UGZrTHU2aEk1SHBqUS1COFczSE9EZnBfQ1ZFdGt5ZDdZOFBvMEFxSkVQRTlnNkRBdWpEb04tZGtUT0Naemxhdw?oc=5",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag",
+      "published_at": "2026-08-14T09:40:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "575b2873465c6042b7d4a05c",
@@ -64,21 +75,10 @@
       "score": 14
     },
     {
-      "id": "b75462ae8ee2ef735ca0e367",
-      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXpzZ1lUWU5WQVpvemRveG5zN3NIcU5GbUwzWkx6dWI1OXlmSkh4UmlrNlM2d0JWWnB3TW5GTlFZT1p0UGZrTHU2aEk1SHBqUS1COFczSE9EZnBfQ1ZFdGt5ZDdZOFBvMEFxSkVQRTlnNkRBdWpEb04tZGtUT0Naemxhdw?oc=5",
-      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag",
-      "published_at": "2026-08-14T02:36:33Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "2d015d17cf81f5de2614deb8",
-      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag Australia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYV9ScURKeUprVFdINjZGMk0zM0dLeW8zVnlUN3dad2NETWo2NC0tQ0QtWHFteEZYRjVDblJ2M0RsMUxRZlptWnpkelhNRVFTbGN3UWU1VmFtZ294X3VZQnJYWG5MQ0xIRDNJZkVzRjlXb2R4c2wxaDhqQmxWUFdFOFR0X19OdEhWQ0ZKNi1BX3lrLUk?oc=5",
-      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag Australia",
+      "id": "3417990fb0c97831eacfce52",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZnlRaGw1VWxVZHg5VGxRRUp1VUFZYWxlb0dpX0hCQ280dzBzdE9aU25POFVsTFlNSDRtMXlXdjdUYmhZd1NHTl9ydjdOTm9BMTRKVHdwV2RVM1otTUdZQWxwY3ozLXFKNlRtWmN6d2JZcXNrVWVsak1MUTQtdEJubERuQWhUV3oyaTNfaUR0bGNBUnM?oc=5",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag UK",
       "published_at": "2026-08-14T02:36:20Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
