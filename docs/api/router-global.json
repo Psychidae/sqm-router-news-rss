@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-14T03:11:09.652649Z",
+  "generated_at": "2026-08-14T04:58:49.123120Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -32,9 +32,9 @@
     },
     {
       "id": "e1c7ae77a6f9c5a3ecc057f2",
-      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - dongknows.com",
+      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5",
-      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router dongknows.com",
+      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech",
       "published_at": "2026-08-10T22:44:40Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -53,32 +53,21 @@
       "score": 16
     },
     {
-      "id": "9f6828709fd1275ebd8908ce",
-      "title": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job - Expert Reviews",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZGc5c3JZNXdLYW80QXR3eEFhdm1qR3UxYTlxQlZuSXdYeF95UDlxU0xpbDhyNVJQbHFlSzZaeER4d2RqT1pRSXVvRVlCZzhacWFsa1dHVkRteF80b1hzRjh1cDN1Vjl4b0NUbm9aT3lzaHFzSHlFdFUtM2pGUWVvRDVkdDRjN1VCWWF3?oc=5",
-      "summary": "Asus RT-BE55 review: A decent Wi-Fi 7 router that does the job Expert Reviews",
-      "published_at": "2026-08-05T06:31:54Z",
+      "id": "b75462ae8ee2ef735ca0e367",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXpzZ1lUWU5WQVpvemRveG5zN3NIcU5GbUwzWkx6dWI1OXlmSkh4UmlrNlM2d0JWWnB3TW5GTlFZT1p0UGZrTHU2aEk1SHBqUS1COFczSE9EZnBfQ1ZFdGt5ZDdZOFBvMEFxSkVQRTlnNkRBdWpEb04tZGtUT0Naemxhdw?oc=5",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag",
+      "published_at": "2026-08-14T02:36:33Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "e538dcc609dac899ceaf040b",
-      "title": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around - Expert Reviews",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclJNQkdnUHl2OHlfV3VTWlZrdXpNOHY4WnpJb0NRUktoZUdZTUN1TkdfemRmX1ZSYjZISEFNbmlFZ0Q0M1IxTnYzSm5qam5Wc0ZBaXJKNWhvZkM3WTRMSGNIUlBhRVhhUW51N19LZmpTSVZDTjBtaWdILXFXZ3BvelcxYjNqOFJSS2lLWkh6YkNranpwU0g0?oc=5",
-      "summary": "TP-Link Archer BE3600 review: The best value Wi-Fi 7 router around Expert Reviews",
-      "published_at": "2026-07-31T11:31:13Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
-      "id": "3417990fb0c97831eacfce52",
-      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZnlRaGw1VWxVZHg5VGxRRUp1VUFZYWxlb0dpX0hCQ280dzBzdE9aU25POFVsTFlNSDRtMXlXdjdUYmhZd1NHTl9ydjdOTm9BMTRKVHdwV2RVM1otTUdZQWxwY3ozLXFKNlRtWmN6d2JZcXNrVWVsak1MUTQtdEJubERuQWhUV3oyaTNfaUR0bGNBUnM?oc=5",
-      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag UK",
+      "id": "2d015d17cf81f5de2614deb8",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYV9ScURKeUprVFdINjZGMk0zM0dLeW8zVnlUN3dad2NETWo2NC0tQ0QtWHFteEZYRjVDblJ2M0RsMUxRZlptWnpkelhNRVFTbGN3UWU1VmFtZ294X3VZQnJYWG5MQ0xIRDNJZkVzRjlXb2R4c2wxaDhqQmxWUFdFOFR0X19OdEhWQ0ZKNi1BX3lrLUk?oc=5",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag Australia",
       "published_at": "2026-08-14T02:36:20Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "5225d14201d2d5134e6324ec",
+      "title": "5 Wi-Fi Router Brands With The Longest Software Support - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3STZqS280dWl2ZDhEMWg4bi1rYW1yeXZRb1c4QUlSaDBhazVQOHpMMEVZaHlYZl9ZT1ZzR0p3UUdfQ1hNVXVBR2VRbklLTEhmZmJyNDVQeVZkSEh0UUVkU1V3U1Z6WENoa3JoZFZhaHQyOEc5?oc=5",
+      "summary": "5 Wi-Fi Router Brands With The Longest Software Support bgr.com",
+      "published_at": "2026-08-05T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 10
     }
   ]
 }
