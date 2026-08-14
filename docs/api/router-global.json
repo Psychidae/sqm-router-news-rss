@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-14T04:58:49.123120Z",
+  "generated_at": "2026-08-14T06:40:36.699935Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 16
     },
     {
+      "id": "86a0a521fa25e291b13cc318",
+      "title": "Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXA0Vm1lOHlVeU9WUlAxR0QtSnVHRG5OYzl3YmpfU1A5UUlPMi13U2FrZWNVSGFQRFlHZ3cxMFVCQ2ZWNjlPbGZyRm1aT3BBLXRHdEJYU3kxX0RJMnhrdUV4NVpPUmF0aERVX0NnS3BqVDJjaVZVcW1WY1JubUlrRDFHcmFDcEo1VzFWNG13Nnc5NEh0elMwOFJMYVlnZkh2M2c?oc=5",
+      "summary": "Starlink's first Wi-Fi 7 router surfaces in FCC filings Notebookcheck",
+      "published_at": "2026-08-14T04:51:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "b75462ae8ee2ef735ca0e367",
       "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXpzZ1lUWU5WQVpvemRveG5zN3NIcU5GbUwzWkx6dWI1OXlmSkh4UmlrNlM2d0JWWnB3TW5GTlFZT1p0UGZrTHU2aEk1SHBqUS1COFczSE9EZnBfQ1ZFdGt5ZDdZOFBvMEFxSkVQRTlnNkRBdWpEb04tZGtUT0Naemxhdw?oc=5",
@@ -98,25 +109,14 @@
     },
     {
       "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
+      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - basic-tutorials.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
+      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here basic-tutorials.com",
       "published_at": "2026-08-04T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "5225d14201d2d5134e6324ec",
-      "title": "5 Wi-Fi Router Brands With The Longest Software Support - bgr.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3STZqS280dWl2ZDhEMWg4bi1rYW1yeXZRb1c4QUlSaDBhazVQOHpMMEVZaHlYZl9ZT1ZzR0p3UUdfQ1hNVXVBR2VRbklLTEhmZmJyNDVQeVZkSEh0UUVkU1V3U1Z6WENoa3JoZFZhaHQyOEc5?oc=5",
-      "summary": "5 Wi-Fi Router Brands With The Longest Software Support bgr.com",
-      "published_at": "2026-08-05T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 10
     }
   ]
 }
