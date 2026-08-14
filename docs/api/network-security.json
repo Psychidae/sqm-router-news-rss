@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-14T15:05:23.238017Z",
+  "generated_at": "2026-08-14T16:03:50.698373Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -31,11 +31,11 @@
       "score": 12
     },
     {
-      "id": "5627b9ba0a1bd04ba7a02b9e",
+      "id": "2452e0eb26b4191eab1b04e1",
       "title": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqdHFXWHhHclBVVXBaczdWTXZGeTlHaVdYRjVDcGhERWpRNVVsRXV6U19kSFpXaVAwdnFVN3pyZnBsY2kyaElqRUZuREZ2Y1dOSmFoZkU4V1NSbmlnTDhqRjdYYk5QOVVOYXhQLUN4WEUtZWpVcXQxQi1FRQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CTEI2VjFENnB0TVNtZ1Y2UHNDTnlHNUVCcmZ1QWVqQ2R4TTBqV3EyZVlLcXFaanFLVUZXZnZ0Nnk4bVpJOHFBTEdXWFZhdzNqb1NlR1JvTVRBUzQzWGlMYklOWDJkV0VqcjRNUDZvQ3p2b3BOUGdtbWxLZw?oc=5",
       "summary": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 ITmedia",
-      "published_at": "2026-08-08T12:46:46Z",
+      "published_at": "2026-08-08T14:03:43Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
