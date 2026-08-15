@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-15T14:57:27.218109Z",
+  "generated_at": "2026-08-15T15:33:05.351106Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,6 +31,17 @@
       "score": 12
     },
     {
+      "id": "e545569a4e014457aadf8004",
+      "title": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObURBOGRfMGVVWml3NEFWTFlMN2F6SzhRUGZlMEFybXVvM3k5Q3B1X0d3LVhzZ3AwcjY3Q09xVUlFZGR1cUV1N1VQclBZaGZQY0YwaFJOeGxoSUxtVG5TaFZ5MzZxYUdhck8wM3VzNnNDWFRPOGpRalRJNmZMel9vZXR3a1g5aFhKZHNwR0JUOXFkZXdDelE?oc=5",
+      "summary": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 Vietnam.vn",
+      "published_at": "2026-08-13T02:22:55Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
       "id": "4405eb80dba72897a0d9e1f7",
       "title": "こんなデザインのもあるのか……見た目から探す Wi-Fiルーター今年の新製品 ニュース記事まとめ（2026H1） - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByTDFlZ0tsalBTb3RTdjNkQ04yTzVDNVJCd3ltR0NBSE5QajBjVDZRUzZnTkNITmJGa0FXcklvM1YzWkQ2TnR3YTBrcEZkVHp3SXJ0bmFmX0lqT2dyT05nUkN4cWZEbDF3S05obg?oc=5",
@@ -43,9 +54,9 @@
     },
     {
       "id": "03eeb768f8c2220533dc9b15",
-      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） - Yahoo!ニュース",
+      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） - news.yahoo.co.jp",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZHNwaW9YRWFWcXhLSlZRdzhoY0x0VXh3ekxqRHVsRHhXbGdWSElZMVpVN1hIemxXV3h6SHVXTS1ETWo2N1RYb3hEVkp0a1JyTFRvWTFBVW90VWJWX3BQZWhNcW1DZ2ZWaXRveVl4bWJlcnZjVDVZX2NoQzBJUFU?oc=5",
-      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） Yahoo!ニュース",
+      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） news.yahoo.co.jp",
       "published_at": "2026-08-10T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -54,9 +65,9 @@
     },
     {
       "id": "d20eafa9196a560acc997643",
-      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) - Yahoo!ニュース",
+      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) - news.yahoo.co.jp",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9zdDdRblpBZUZzVXBxYl9VVGdpcjR6NjR0S3hRNzN0TnRtbUxuNHdoRmJQWnlHTDZxUXlCdWNBNHZaVlg3ZWxYWHBySEhxMzhkWGhKMkZoNGhGM3J4ckxiYy1ULXhnZHFKQUhZd1U0UkE4aHRLb2FVRFBzdjYyYW5CM01zVTVxYlVGLUpB?oc=5",
-      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) Yahoo!ニュース",
+      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) news.yahoo.co.jp",
       "published_at": "2026-08-10T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -76,25 +87,14 @@
     },
     {
       "id": "a6d0782a5e54cc238c949d76",
-      "title": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） - Yahoo!ニュース",
+      "title": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） - news.yahoo.co.jp",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SOFdsVERjdklNd1Q3OVZMQmtjcjdBZVFhR0pTZE9VM1dOd1h5SDhrUEJKOG5ZQVVjcjRXWXd4b3JFYlZPUzJqSXVLVzVnMFNpUHNVQ21QMmNnQ29vNG9sVl93VlpKUEE5WGV0Zk1Rb0pmTFVkY3U5SlVZcjlSNmc?oc=5",
-      "summary": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） Yahoo!ニュース",
+      "summary": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） news.yahoo.co.jp",
       "published_at": "2026-08-03T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 10
-    },
-    {
-      "id": "6862cb6e48003416ce3ec6ff",
-      "title": "COMPUTEXを振り返る、M.2 SSDをメインストレージに使うMinisforumのNASや、Wi-Fi 8対応のASUS製ルーターなど(NAS/ルーター編) - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zN0pqZHZHZ2xfeENyZU9rZjBmTTFFUGthMG51T2xZZW1uX25CLUw3SS1qd1lEcURmSk1uaTBSQll4Q0xRb3RpV1NtVlZGRFBKOV9rbHB2YkZEYnc1ejJaTl8tQi1VQXFyTjVXT1Y2WUFEQQ?oc=5",
-      "summary": "COMPUTEXを振り返る、M.2 SSDをメインストレージに使うMinisforumのNASや、Wi-Fi 8対応のASUS製ルーターなど(NAS/ルーター編) AKIBA PC Hotline!",
-      "published_at": "2026-08-14T01:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 7
     }
   ]
 }

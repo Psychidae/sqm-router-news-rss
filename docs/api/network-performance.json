@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-15T14:57:30.221952Z",
+  "generated_at": "2026-08-15T15:33:08.022247Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -65,9 +65,9 @@
     },
     {
       "id": "ab88a1f913b2e5e146ef7f2e",
-      "title": "Major fiber cut causes internet outage across Marlboro Co. - wpde.com",
+      "title": "Major fiber cut causes internet outage across Marlboro Co. - WPDE",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJiWVN2X0NQVkw0ZkdTSzAtVk9sRkdXZWVCa3hBenBOUDRkLXZGX2pqTEZtdFlOSlZ6ZktFY0hWeUJlWTc3czl6RURoWXc1UUdiaWNsS0dFNDJqS2VCcHd3NWNFb25IMU9vYmMzX3daQU4wN3VlV1ljTDJCcWhkR3hON2syeVUyQ1d0YmtmanlMQXVLd3NPSTA2MVN6b3VfRllpdW1YQ0dNNTg?oc=5",
-      "summary": "Major fiber cut causes internet outage across Marlboro Co. wpde.com",
+      "summary": "Major fiber cut causes internet outage across Marlboro Co. WPDE",
       "published_at": "2026-08-12T04:07:30Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -108,11 +108,11 @@
       "score": 7
     },
     {
-      "id": "3a43d6bb6ccd103a515a64b6",
-      "title": "Another internet outage is affecting northern communities - Houston Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkMxSjFVNkk0SEZBTXNtaDhlSk1mNDZsSGIwYTdEalpobUZ1RHN6OUZSdlV1cHBCRElGQi1CV2VuUklUTWxBQk1DVGNOVkxVZmdKSDlhYWZOaHNTR2s3eG4taFVxM1BobUkzMkNWZ0lRZTQ5UnVLb1NxNHVzQTRGalJFT1JuMElyRFNPT19aUnBpV0JVX2JkZTB6RQ?oc=5",
-      "summary": "Another internet outage is affecting northern communities Houston Today",
-      "published_at": "2026-08-11T18:32:29Z",
+      "id": "4754743f04bfe1b8a9c51256",
+      "title": "Another internet outage is affecting northern communities - The Northern View",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZldUZUw2cWtkRC05VDNfNjE1TzlEZWZ2SlF5WU9ab0RMeHZFN3ZsaHY4a0ZPOWgxVFZVLXZhQWNyZjJXeHBZSjRYVC1JWUhibWtKTXV6NHpqeHBEOC1oQmxHdzZZbEdHQ2FPLW5mTVQyOXU0azVqUDdlamNMNnhTUjNpdUMyZEFTQVhWNEIyNFRqd2pNRjJ4UDBmU3FGQQ?oc=5",
+      "summary": "Another internet outage is affecting northern communities The Northern View",
+      "published_at": "2026-08-11T18:22:29Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
