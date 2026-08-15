@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-15T19:31:19.862697Z",
+  "generated_at": "2026-08-15T19:53:33.101206Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -42,9 +42,9 @@
       "score": 12
     },
     {
-      "id": "a830474a08729f9a4c609b7f",
+      "id": "1cd9ff22f47a42914c973229",
       "title": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls - pcquest.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMU9KY1A0NVppeUlrRHk1Ni1Wa1kzWkV3SjAteG5oM2RxUVg5eDlzOVoyYUNwTERMaFFJNlhOa3BtSUxjdDlEMHlwWk9MRGpCT1dFQWtodWs3RVU5N1Z4YmZHNEdwc3B3eE1HUzhLNDZ6OW1vcFRYbG9WdGRxdFZLTEZTc3JicjlCcmN0TDJuWllFSHV2UU9yRktpdUE5bzJXU3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0tqNUd0bW1oQXc1RDFNdFJsRDVtT25Mb1hZYXBZYzk0T2hMOURJRjd5MVdFTFZUVllXalhVOGFrY2Qyc2dMTlREaUxDLXZDYVVKR18xa0R1RnVkX0J1VHdTS3FXU2d6Z3daa3JnNmxLcUJYM25VLVkxbDhNVHI2bEFXbG8zN2YtRXpRQXVZd2txemNBSWZ1WDdScVRGZHJjcVVaeWhpMA?oc=5",
       "summary": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls pcquest.com",
       "published_at": "2026-08-13T08:36:31Z",
       "source": "Google News Global: router security",
