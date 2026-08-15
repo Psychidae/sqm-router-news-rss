@@ -1,46 +1,15 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-15T16:38:48.103216Z",
+  "generated_at": "2026-08-15T16:58:29.412901Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
-  "count": 8,
-  "errors": [],
+  "count": 5,
+  "errors": [
+    "Google News JP: router vendors: HTTP Error 404: Not Found"
+  ],
   "items": [
-    {
-      "id": "f7b23cf33e3cc1120ffd0d9b",
-      "title": "21％オフ！ バッファローの鉄板Wi-Fi 7ルーターがAmazonタイムセールでお得（GetNavi web） - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcjZvVjlQUDJBRC1ObWhGd21MYVZ6WEpFcFZ1TEN2bnpYcE5aYXEtcl9aRl9nTjVPdjR1OE5fTEhnRDVGVHo5MTNEaE8wUC1DVTVzWTF4U1BYQ2dsamRuUVBrMEJIekVQRXVwc3NMR29GN3c0RFprcDJpQ1U2aHJWYm14YWtObmRhcjdQS0JaRjc1dw?oc=5",
-      "summary": "21％オフ！ バッファローの鉄板Wi-Fi 7ルーターがAmazonタイムセールでお得（GetNavi web） ｄメニューニュース",
-      "published_at": "2026-08-14T07:45:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "60ae59c82f91726953cc83a3",
-      "title": "21％オフ！ バッファローの鉄板Wi-Fi 7ルーターがAmazonタイムセールでお得 - GetNavi web",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VczRkdVlFQUNfYnFyS2NpQTZnSHJWc0lkRXk5NHQ5SU1pY0FmYm5HZE4yc0JrREMwYlh0TVRKWTZ3STI3VkZEd0Nkdw?oc=5",
-      "summary": "21％オフ！ バッファローの鉄板Wi-Fi 7ルーターがAmazonタイムセールでお得 GetNavi web",
-      "published_at": "2026-08-14T07:33:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "e545569a4e014457aadf8004",
-      "title": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObURBOGRfMGVVWml3NEFWTFlMN2F6SzhRUGZlMEFybXVvM3k5Q3B1X0d3LVhzZ3AwcjY3Q09xVUlFZGR1cUV1N1VQclBZaGZQY0YwaFJOeGxoSUxtVG5TaFZ5MzZxYUdhck8wM3VzNnNDWFRPOGpRalRJNmZMel9vZXR3a1g5aFhKZHNwR0JUOXFkZXdDelE?oc=5",
-      "summary": "TP-Link Archer BE230は、ベトナム初のWi-Fi 7ルーターです。 Vietnam.vn",
-      "published_at": "2026-08-13T02:22:55Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
     {
       "id": "4405eb80dba72897a0d9e1f7",
       "title": "こんなデザインのもあるのか……見た目から探す Wi-Fiルーター今年の新製品 ニュース記事まとめ（2026H1） - INTERNET Watch",
@@ -51,28 +20,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "03eeb768f8c2220533dc9b15",
-      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZHNwaW9YRWFWcXhLSlZRdzhoY0x0VXh3ekxqRHVsRHhXbGdWSElZMVpVN1hIemxXV3h6SHVXTS1ETWo2N1RYb3hEVkp0a1JyTFRvWTFBVW90VWJWX3BQZWhNcW1DZ2ZWaXRveVl4bWJlcnZjVDVZX2NoQzBJUFU?oc=5",
-      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10（BCN） Yahoo!ニュース",
-      "published_at": "2026-08-10T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "d20eafa9196a560acc997643",
-      "title": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9zdDdRblpBZUZzVXBxYl9VVGdpcjR6NjR0S3hRNzN0TnRtbUxuNHdoRmJQWnlHTDZxUXlCdWNBNHZaVlg3ZWxYWHBySEhxMzhkWGhKMkZoNGhGM3J4ckxiYy1ULXhnZHFKQUhZd1U0UkE4aHRLb2FVRFBzdjYyYW5CM01zVTVxYlVGLUpB?oc=5",
-      "summary": "バッファローが上位3位まで独占 無線LANルーター人気ランキングTOP10 2026/8/10 (BCN) Yahoo!ニュース",
-      "published_at": "2026-08-10T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     },
     {
       "id": "2452e0eb26b4191eab1b04e1",
@@ -86,15 +33,37 @@
       "score": 10
     },
     {
-      "id": "a6d0782a5e54cc238c949d76",
-      "title": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SOFdsVERjdklNd1Q3OVZMQmtjcjdBZVFhR0pTZE9VM1dOd1h5SDhrUEJKOG5ZQVVjcjRXWXd4b3JFYlZPUzJqSXVLVzVnMFNpUHNVQ21QMmNnQ29vNG9sVl93VlpKUEE5WGV0Zk1Rb0pmTFVkY3U5SlVZcjlSNmc?oc=5",
-      "summary": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） Yahoo!ニュース",
-      "published_at": "2026-08-03T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "2b216475a907e857e0c3ffe7",
+      "title": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbHhUeDZWZkFrWkxQajkxLVVNRndRR2JLblU5WFNBck05RXFKdEN4UG0xeHlzcjV1VTE2SWh5SW40V3NaMW9TVGpSWWF2XzBFQm00VmpwMHI4a2dDcUJXQ3BsQ1JFbmhmR2dlUVhFMHB4WVFmOG5abFIzR0xJeTg?oc=5",
+      "summary": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 INTERNET Watch",
+      "published_at": "2026-08-09T21:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 6
+    },
+    {
+      "id": "d7ba5cd45914a520a9a63f5f",
+      "title": "IIJmio、「回線セット特価」にホームルーター「PIX-RT100」が復帰 一括8,980円 - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iTUxlNDZfR1lfa25WbjVZX2wyOUNGSV9xQW9CdVB2QW9JaFdpZDEyeF9Nbjk4XzJUSllGT25ULVdMUE5UQUk5Tm5fOVNYM1FRZTRjeF9pcC15LTUy?oc=5",
+      "summary": "IIJmio、「回線セット特価」にホームルーター「PIX-RT100」が復帰 一括8,980円 マイナビニュース",
+      "published_at": "2026-08-08T23:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 6
+    },
+    {
+      "id": "0848b82ffcd4fd0fa8c25d71",
+      "title": "【徹底比較】WiMAXのホームルーターのおすすめ人気ランキング【2026年8月】 - マイベスト",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9TYV80OFdGR2V1UzdZRHJ0RXBTNXNSd2ZubkFwN1NMbG42WGtrTXJDUTZhckJrSHdkRTB3UC13?oc=5",
+      "summary": "【徹底比較】WiMAXのホームルーターのおすすめ人気ランキング【2026年8月】 マイベスト",
+      "published_at": "2026-08-03T07:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 5
     }
   ]
 }
