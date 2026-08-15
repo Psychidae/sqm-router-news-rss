@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-15T20:35:55.511204Z",
+  "generated_at": "2026-08-15T20:57:34.136762Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -32,9 +32,9 @@
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
-      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews",
+      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5",
-      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router Expert Reviews",
+      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router expertreviews.co.uk",
       "published_at": "2026-08-06T06:31:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
