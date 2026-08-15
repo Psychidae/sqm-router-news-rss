@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 19:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:35:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
@@ -36,13 +36,13 @@ Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - 窓の杜</title>
+      <title>[セキュリティ] インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - forest.watch.impress.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yMjVMWWlZS3pnaWVXT1IzeUJ1Y1VieDU2OHRnUU96X3I5RTdPMjZ5Z1F4VTBUT0R5Uk5oSW5nT3NGSnZybWRHZHdUNHV2bXFfUUtMbUdVMzk3cUw0TXFJNmZOVkZ4RnNX?oc=5</link>
       <guid isPermaLink="false">bd542199426464baf1535cb2</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-13 09:16
-インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 窓の杜</description>
+インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 forest.watch.impress.co.jp</description>
       <pubDate>Thu, 13 Aug 2026 02:44:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-13T02:44:27.739756Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-13T00:16:00Z</sqm:sourcePublishedDate>
@@ -50,13 +50,13 @@ Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls - pcquest.com</title>
+      <title>[セキュリティ] Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls - PCQuest</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxOS0tqNUd0bW1oQXc1RDFNdFJsRDVtT25Mb1hZYXBZYzk0T2hMOURJRjd5MVdFTFZUVllXalhVOGFrY2Qyc2dMTlREaUxDLXZDYVVKR18xa0R1RnVkX0J1VHdTS3FXU2d6Z3daa3JnNmxLcUJYM25VLVkxbDhNVHI2bEFXbG8zN2YtRXpRQXVZd2txemNBSWZ1WDdScVRGZHJjcVVaeWhpMA?oc=5</link>
       <guid isPermaLink="false">1cd9ff22f47a42914c973229</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-08-13 17:36
-Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls pcquest.com</description>
+Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls PCQuest</description>
       <pubDate>Sat, 15 Aug 2026 19:53:33 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-15T19:53:33.100576Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-13T08:36:31Z</sqm:sourcePublishedDate>
