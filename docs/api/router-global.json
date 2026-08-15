@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-15T02:38:28.799208Z",
+  "generated_at": "2026-08-15T03:21:35.636164Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -86,6 +86,17 @@
       "score": 14
     },
     {
+      "id": "2d015d17cf81f5de2614deb8",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYV9ScURKeUprVFdINjZGMk0zM0dLeW8zVnlUN3dad2NETWo2NC0tQ0QtWHFteEZYRjVDblJ2M0RsMUxRZlptWnpkelhNRVFTbGN3UWU1VmFtZ294X3VZQnJYWG5MQ0xIRDNJZkVzRjlXb2R4c2wxaDhqQmxWUFdFOFR0X19OdEhWQ0ZKNi1BX3lrLUk?oc=5",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag Australia",
+      "published_at": "2026-08-14T02:36:20Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "07438669224e2012e05a5f29",
       "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTFmYjlkWEZ1NmZLMmlZT3N1UjdaQkFURFhmRExFQWhOWTc0MGFPS3ZRMnJEWllwNzFpMk1hdDBfRFVDcF9LV1hnQ0NsYU14M0ctUEFaUFBfNzJ1UDBTT3hWaE1Rb3hnRkJQZ2xXSjM0Y0wyamw0NGx3anhrVXJBc2xpQmRnN19sZDRvT2tRMjR1cTRzYkJHalhNa3RLcVdva0c2dVhpZ0U1U1Bz?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "1a69f03b39ee421d3f585ea7",
-      "title": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here - Basic Tutorials",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNWh5QVE1UGRlT3AzTzBKeGdFQjFRbGZwZjdDelFXVTdxc09BbUQwQ0FLd1lQd19Uay1qOTBzbVpjbkpKdjVNZlB1a2ktUTliSlRSOVB1Y1k2OWU5QTlMUnFJaklmR3VSdkN3NnNoRUZ0Uml5ZWRYQV9ZT3cyQlh0U2dNMWswN2E5Y3R1ekdkTExiRklzN0pSUjZKaGpYdDc3aFJTNVlzUC05MW8?oc=5",
-      "summary": "FRITZ!Box 5630 at a Glance: Compact Fiber-Optic Router with Wi-Fi 7 Is Here Basic Tutorials",
-      "published_at": "2026-08-04T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
