@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-16T07:43:21.549464Z",
+  "generated_at": "2026-08-16T07:58:45.004539Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "b2c2f1bde96302481c78f582",
-      "title": "Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "title": "Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab - rocket-boys.co.jp",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUIzUG92OUVsQjVoaDRfYkQtX2ZDd2c1UE9aSG5MX3d2cElpQ09mU0x6b1BkNmJ0NE5TNFNKcnVDQXBBNUNKM2gyVDZQRjJwNFpoRmwxMTBWUFFMclVDckdYODR4WGdKVjN3V0FZYTFLSExPN1VGXzhNRDJteW44XzlmM2l2MHdORmdRTg?oc=5",
-      "summary": "Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "summary": "Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab rocket-boys.co.jp",
       "published_at": "2026-08-14T04:00:12Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -43,9 +43,9 @@
     },
     {
       "id": "a830474a08729f9a4c609b7f",
-      "title": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls - PCQuest",
+      "title": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls - pcquest.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMU9KY1A0NVppeUlrRHk1Ni1Wa1kzWkV3SjAteG5oM2RxUVg5eDlzOVoyYUNwTERMaFFJNlhOa3BtSUxjdDlEMHlwWk9MRGpCT1dFQWtodWs3RVU5N1Z4YmZHNEdwc3B3eE1HUzhLNDZ6OW1vcFRYbG9WdGRxdFZLTEZTc3JicjlCcmN0TDJuWllFSHV2UU9yRktpdUE5bzJXU3c?oc=5",
-      "summary": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls PCQuest",
+      "summary": "Hackers are exploiting CVE 2026 20349 to crash Cisco firewalls pcquest.com",
       "published_at": "2026-08-13T08:36:31Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",

@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-16T07:43:20.686408Z",
+  "generated_at": "2026-08-16T07:58:43.932826Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
-    },
-    {
-      "id": "77f01b3ff552423717c153e2",
-      "title": "This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-Fi 7 Router - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTTRiMlhCM1Q4eUZOeVhZVExxRnUtcXJvNGJkZC1wY0pSdHpDbVowM19WNk92SHJWc0VyclZWQVJ0YmpQQVRmdGlwR1AzeHZMWXpxWkNaSFQwV1FOc1ZyVFMtcGJMOVNheDdfTkR2bWhDaG9DVHRsT21VdjN6em8zZlVjUmM1eE4zc24zVkpMdmhXMlVRX2swZktDTQ?oc=5",
-      "summary": "This Deal Is Sending All the Right Signals: Get Over 20% Off This Tp-Link Wi-Fi 7 Router PCMag",
-      "published_at": "2026-08-14T23:47:57Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
     },
     {
       "id": "b75462ae8ee2ef735ca0e367",
@@ -98,9 +87,9 @@
     },
     {
       "id": "07438669224e2012e05a5f29",
-      "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - gizmodo.com",
+      "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTFmYjlkWEZ1NmZLMmlZT3N1UjdaQkFURFhmRExFQWhOWTc0MGFPS3ZRMnJEWllwNzFpMk1hdDBfRFVDcF9LV1hnQ0NsYU14M0ctUEFaUFBfNzJ1UDBTT3hWaE1Rb3hnRkJQZ2xXSjM0Y0wyamw0NGx3anhrVXJBc2xpQmRnN19sZDRvT2tRMjR1cTRzYkJHalhNa3RLcVdva0c2dVhpZ0U1U1Bz?oc=5",
-      "summary": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move gizmodo.com",
+      "summary": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move Gizmodo",
       "published_at": "2026-08-13T12:40:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "5225d14201d2d5134e6324ec",
+      "title": "5 Wi-Fi Router Brands With The Longest Software Support - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3STZqS280dWl2ZDhEMWg4bi1rYW1yeXZRb1c4QUlSaDBhazVQOHpMMEVZaHlYZl9ZT1ZzR0p3UUdfQ1hNVXVBR2VRbklLTEhmZmJyNDVQeVZkSEh0UUVkU1V3U1Z6WENoa3JoZFZhaHQyOEc5?oc=5",
+      "summary": "5 Wi-Fi Router Brands With The Longest Software Support bgr.com",
+      "published_at": "2026-08-05T07:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 10
     }
   ]
 }
