@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 21:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 22:34:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance</title>
@@ -22,13 +22,13 @@ Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Conne
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] TidalHealth explains what caused phone, internet outage. Latest update - DelmarvaNow.com</title>
+      <title>[性能・障害] TidalHealth explains what caused phone, internet outage. Latest update - delmarvanow.com</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNGxNZEtzTWNDQWJYMXRpcF9GX1NqZWxhaEk0M0JwY0ZvMkdJakFwX1hQeGNSUTlZRGlfNGFMd2oyTEJacm42VDFTeGUzMXJtdGQ4Ry1yRkNSVXBCX3lNTTl1c0lEcGZ1WFFtNHF3X3YybGxpckVYemVSeFdKejYybFhwazFBU0hnYWNCRl9aQUZZdFc4QTNZc29RNTI4N0k1VGFsX0ktVFBoQXl0ZUFCNktucGRQLXE0YWdjQ0ptSmNxWDRqUmdvVDE5SUR2S19KZC1naXVoazQ0TWR1aGpB?oc=5</link>
       <guid isPermaLink="false">a60ad220e727d73be049a4e7</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-14 22:10
-TidalHealth explains what caused phone, internet outage. Latest update DelmarvaNow.com</description>
+TidalHealth explains what caused phone, internet outage. Latest update delmarvanow.com</description>
       <pubDate>Fri, 14 Aug 2026 14:01:14 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T14:01:14.297952Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T13:10:00Z</sqm:sourcePublishedDate>
@@ -64,27 +64,13 @@ UPDATE: TidalHealth systems restored after widespread phone and internet outage 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-14 07:25
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Sat, 15 Aug 2026 19:02:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-15T19:02:48.021300Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-13T22:25:14Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Attempted copper theft triggers internet outage for Rogers customers in Calgary - calgaryherald.com</title>
+      <title>[性能・障害] Attempted copper theft triggers internet outage for Rogers customers in Calgary - Calgary Herald</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGVqWWdESW1LU0VpME5TVGFTWEtDU1dxdUJRUlNqRFNXcV9EZENlN1FXSWgtbmktdHY1S2FIVW56U3ZEbXJtenBCa2FLZXhXV0NYaU1XazJNdFFJeFV1VEd2OEthem5DSlFweWhmUEM0cnQ0aDdzbzFUVHBFZmUwR09HUC1VRDlmLXhrVVJvZHJZUzdjNF9DUFFCXzRvNWxKdy1pWjVqWUE?oc=5</link>
       <guid isPermaLink="false">59f429f22e6b192b232ba6d1</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 09:27
-Attempted copper theft triggers internet outage for Rogers customers in Calgary calgaryherald.com</description>
+Attempted copper theft triggers internet outage for Rogers customers in Calgary Calgary Herald</description>
       <pubDate>Tue, 11 Aug 2026 19:44:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-11T19:44:07.899653Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-12T00:27:45Z</sqm:sourcePublishedDate>
@@ -92,13 +78,13 @@ Attempted copper theft triggers internet outage for Rogers customers in Calgary 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - CBC</title>
+      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - cbc.ca</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUUwOEZmcEZ0UjR1U0Rpem5SY3pLSEc0REZZc1lUckwyQTliY2ZVcWpPX3hYWDdrd3YxRWdOWjBXUDdXUWFQNjNTYmk5S3lsbVVQQXJBVWFTZS0zYjVpRTBseTdYUjM5YXRwV2V3V2RIOF9EN0FNbmRfS0FmYktBaTh1UE12Nm9idWIyVklUUQ?oc=5</link>
       <guid isPermaLink="false">c48bd884117a0e55317c592a</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 06:48
-Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
+Northwest B.C. faces 3rd large-scale internet outage in months cbc.ca</description>
       <pubDate>Wed, 12 Aug 2026 00:41:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-12T00:41:11.197624Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-11T21:48:00Z</sqm:sourcePublishedDate>
@@ -145,6 +131,20 @@ Major fiber cut causes internet outage across Marlboro Co. WPDE</description>
       <sqm:firstSeenDate>2026-08-13T02:44:28.792194Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-11T18:31:29Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-14 07:25
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Sat, 15 Aug 2026 19:02:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-15T19:02:48.021300Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-13T22:25:14Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
