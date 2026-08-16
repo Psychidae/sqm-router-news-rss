@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-16T21:32:37.940320Z",
+  "generated_at": "2026-08-16T21:54:30.808055Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -65,9 +65,9 @@
     },
     {
       "id": "59f429f22e6b192b232ba6d1",
-      "title": "Attempted copper theft triggers internet outage for Rogers customers in Calgary - Calgary Herald",
+      "title": "Attempted copper theft triggers internet outage for Rogers customers in Calgary - calgaryherald.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGVqWWdESW1LU0VpME5TVGFTWEtDU1dxdUJRUlNqRFNXcV9EZENlN1FXSWgtbmktdHY1S2FIVW56U3ZEbXJtenBCa2FLZXhXV0NYaU1XazJNdFFJeFV1VEd2OEthem5DSlFweWhmUEM0cnQ0aDdzbzFUVHBFZmUwR09HUC1VRDlmLXhrVVJvZHJZUzdjNF9DUFFCXzRvNWxKdy1pWjVqWUE?oc=5",
-      "summary": "Attempted copper theft triggers internet outage for Rogers customers in Calgary Calgary Herald",
+      "summary": "Attempted copper theft triggers internet outage for Rogers customers in Calgary calgaryherald.com",
       "published_at": "2026-08-12T00:27:45Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
