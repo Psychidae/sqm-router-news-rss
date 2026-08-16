@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 13:58:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 14:35:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを装いSOCKS5プロキシへ通信を誘導 7万5,000件超がインストール|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
@@ -36,13 +36,13 @@ Chromeウェブストアに737個の偽VPN拡張機能、有名ブランドを�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - forest.watch.impress.co.jp</title>
+      <title>[セキュリティ] インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 - 窓の杜</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yMjVMWWlZS3pnaWVXT1IzeUJ1Y1VieDU2OHRnUU96X3I5RTdPMjZ5Z1F4VTBUT0R5Uk5oSW5nT3NGSnZybWRHZHdUNHV2bXFfUUtMbUdVMzk3cUw0TXFJNmZOVkZ4RnNX?oc=5</link>
       <guid isPermaLink="false">bd542199426464baf1535cb2</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-13 09:16
-インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 forest.watch.impress.co.jp</description>
+インテルの42製品にセキュリティ更新 ～Wi-FiやCoreシリーズのプロセッサーにも修正 窓の杜</description>
       <pubDate>Thu, 13 Aug 2026 02:44:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-13T02:44:27.739756Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-13T00:16:00Z</sqm:sourcePublishedDate>
