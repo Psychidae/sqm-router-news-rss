@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-16T19:53:05.348486Z",
+  "generated_at": "2026-08-16T20:35:48.153398Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "e1c7ae77a6f9c5a3ecc057f2",
-      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech",
+      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - dongknows.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5",
-      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech",
+      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router dongknows.com",
       "published_at": "2026-08-10T22:39:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
