@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-17T19:57:30.722062Z",
+  "generated_at": "2026-08-17T20:41:02.446694Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -13,7 +13,7 @@
       "title": "Town of Independence reports internet outage - WBRZ",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU0oyMk9HVS1ORzQxbkpXa1RCUEV1MUI1SERQZFZrenRsUzZGOE5vdzlJVGVtMnlzZnB4QlBPMWdGSVFvOTlDcmlITWNhMDBJMzVMZjBHQkVydDM4TDZhcUFqWlI0TWdCQm9zYzhwLXNsbnh2c3dFRkwySQ?oc=5",
       "summary": "Town of Independence reports internet outage WBRZ",
-      "published_at": "2026-08-17T19:41:21Z",
+      "published_at": "2026-08-17T19:41:06Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
