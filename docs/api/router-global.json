@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-17T03:59:20.336163Z",
+  "generated_at": "2026-08-17T04:55:25.141741Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -76,9 +76,9 @@
     },
     {
       "id": "575b2873465c6042b7d4a05c",
-      "title": "Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ISPreview UK",
+      "title": "Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router - ispreview.co.uk",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb00wWU1PTmYzUkw3NE96bVNScVVkUlY4NGxFMzZtZkdqTkFKelZGYVU3N2hyM25ZM0doUEtaVkthT29pWk5pdHlDTlExLS1wVHR0dmtxY3BzNGh2VkhIT0gxV0ZYc05XcnhuSk1SSUlsbU5TZG9hdmVTNkNVYTVzdF9sNzBnNE1lUHhuQWUwVWp3eVdHSEpPcnNBb0hnMERSNjl4X2tER2pZdGVnRlJJUmlma2w?oc=5",
-      "summary": "Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router ISPreview UK",
+      "summary": "Starlink Reveals Forthcoming Wi-Fi 7 Satellite Broadband Router ispreview.co.uk",
       "published_at": "2026-08-14T06:16:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -94,7 +94,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "07438669224e2012e05a5f29",
