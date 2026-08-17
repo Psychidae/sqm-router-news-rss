@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 21:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:58:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Town of Independence reports internet outage - WBRZ</title>
@@ -92,16 +92,16 @@ Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - terracestandard.com</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG1aQmU3MmpEejVnMVd2MHJOdHpEV3JMS0pxVENRLWxiZERrRHBtTVFTSkVxRTFYVkJKNGd1NHFSU0xpNVAtTlVvck9FN3ZwcENyaEtPVjI3Zjc4OC1hUXpjME9POHE1cFBSZmJDZHRqdWViUE1Qa3NpNUtPZmlBNUpwMjJhYXVfNUZ3eGs3RQ?oc=5</link>
-      <guid isPermaLink="false">4979877280deb9bdba82b220</guid>
+      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - Clearwater Times</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxONkRVM202WkVMZVVMZGNUdlA1QV9MeXp4MnNaUkJPVlFWT3VyVHY2THRSU0dxVC05UDhmalZRTDVSVHZLZUl5eXdzWDdUY2JlX0VfVG5xeFowMXF3WjdiMjhJNWN1RzlaRlhRaDNkb2VSMFlTeXQ0SWV0LWN2aXl3Q2s5bGJsMC1WaEN5QTJOYw?oc=5</link>
+      <guid isPermaLink="false">805aa736651f906076d2f94b</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-12 06:23
-UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft terracestandard.com</description>
-      <pubDate>Mon, 17 Aug 2026 19:39:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-17T19:39:52.126583Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-11T21:23:43Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-12 06:35
+UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft Clearwater Times</description>
+      <pubDate>Mon, 17 Aug 2026 22:58:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-17T22:58:43.655175Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-11T21:35:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
