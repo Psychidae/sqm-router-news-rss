@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-17T05:47:47.039676Z",
+  "generated_at": "2026-08-17T07:13:32.311710Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -13,7 +13,7 @@
       "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Mm92MmNOTk1ELXIwLWVIdjE2Y3NrLWRvdGFzT2E4ZGQwc3lPaGs3Rjc2UXYxaFFHYmlaN1VnZ0NETGgyOERhRXVFZmt3b00yQVBINnhUeUpnT3FuUEJWRkhRLU1sUXY3dV9HdHJTVDdyeEx1QzcwNGlB?oc=5",
       "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 BCN Retail",
-      "published_at": "2026-08-17T03:00:00Z",
+      "published_at": "2026-08-17T03:05:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
-    },
-    {
-      "id": "dc1b7c2931ae9eb719e96eef",
-      "title": "こんなデザインのもあるのか……見た目から探す Wi-Fiルーター今年の新製品 ニュース記事まとめ（2026H1） - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSVhzUVFRUjE5VkM5OGNVSzhVM1RZMDFTSVh3VmVGX25mQjZ2SjhXY0tCd0R3MUcyTmFwZ2hoYWQ2RkhTeW4tU1NlREU2ODVJbXpDQVFnM1M1d2UwNUlZ?oc=5",
-      "summary": "こんなデザインのもあるのか……見た目から探す Wi-Fiルーター今年の新製品 ニュース記事まとめ（2026H1） 千葉テレビ放送",
-      "published_at": "2026-08-13T07:54:19Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
     },
     {
       "id": "4405eb80dba72897a0d9e1f7",
@@ -86,15 +75,26 @@
       "score": 10
     },
     {
-      "id": "a6d0782a5e54cc238c949d76",
-      "title": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SOFdsVERjdklNd1Q3OVZMQmtjcjdBZVFhR0pTZE9VM1dOd1h5SDhrUEJKOG5ZQVVjcjRXWXd4b3JFYlZPUzJqSXVLVzVnMFNpUHNVQ21QMmNnQ29vNG9sVl93VlpKUEE5WGV0Zk1Rb0pmTFVkY3U5SlVZcjlSNmc?oc=5",
-      "summary": "Wi-Fi 7対応モデルが1位と2位を獲得 無線LANルーター人気ランキングTOP10 2026/8/3（BCN） Yahoo!ニュース",
-      "published_at": "2026-08-03T07:00:00Z",
+      "id": "6862cb6e48003416ce3ec6ff",
+      "title": "COMPUTEXを振り返る、M.2 SSDをメインストレージに使うMinisforumのNASや、Wi-Fi 8対応のASUS製ルーターなど(NAS/ルーター編) - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zN0pqZHZHZ2xfeENyZU9rZjBmTTFFUGthMG51T2xZZW1uX25CLUw3SS1qd1lEcURmSk1uaTBSQll4Q0xRb3RpV1NtVlZGRFBKOV9rbHB2YkZEYnc1ejJaTl8tQi1VQXFyTjVXT1Y2WUFEQQ?oc=5",
+      "summary": "COMPUTEXを振り返る、M.2 SSDをメインストレージに使うMinisforumのNASや、Wi-Fi 8対応のASUS製ルーターなど(NAS/ルーター編) AKIBA PC Hotline!",
+      "published_at": "2026-08-14T01:30:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 10
+      "score": 6
+    },
+    {
+      "id": "2b216475a907e857e0c3ffe7",
+      "title": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbHhUeDZWZkFrWkxQajkxLVVNRndRR2JLblU5WFNBck05RXFKdEN4UG0xeHlzcjV1VTE2SWh5SW40V3NaMW9TVGpSWWF2XzBFQm00VmpwMHI4a2dDcUJXQ3BsQ1JFbmhmR2dlUVhFMHB4WVFmOG5abFIzR0xJeTg?oc=5",
+      "summary": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 INTERNET Watch",
+      "published_at": "2026-08-09T21:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 5
     }
   ]
 }
