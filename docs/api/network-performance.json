@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-17T14:41:28.505673Z",
+  "generated_at": "2026-08-17T14:59:07.368885Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "203d3b5f13f1908e716a3eaf",
-      "title": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - finance.yahoo.com",
+      "title": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSENWcnRqeGg2RWRGS29uN3dtM3B2UWczYTN2OGJZamhWeWRLMkN2VFdWZjhyaWExUzREc1Y2UVk2UmtaWmVYaXg2YTFXem5hamxzQ3EyVnlwTGI4MGZmTFdWS2ticHRyeGpUbGZzYU5QLW9zdGk4blBZSWY5S3NSNGtEaEJxeWVzSkhLeVIwVzc4SVFlTW8zM3lUVmthQU9ORzVv?oc=5",
-      "summary": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs finance.yahoo.com",
+      "summary": "Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs Yahoo Finance",
       "published_at": "2026-08-14T19:52:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
