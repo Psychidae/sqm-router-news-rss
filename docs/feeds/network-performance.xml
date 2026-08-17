@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 18:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 19:39:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance</title>
@@ -64,13 +64,13 @@ Attempted copper theft triggers internet outage for Rogers customers in Calgary 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - CBC</title>
+      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - cbc.ca</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUUwOEZmcEZ0UjR1U0Rpem5SY3pLSEc0REZZc1lUckwyQTliY2ZVcWpPX3hYWDdrd3YxRWdOWjBXUDdXUWFQNjNTYmk5S3lsbVVQQXJBVWFTZS0zYjVpRTBseTdYUjM5YXRwV2V3V2RIOF9EN0FNbmRfS0FmYktBaTh1UE12Nm9idWIyVklUUQ?oc=5</link>
       <guid isPermaLink="false">c48bd884117a0e55317c592a</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 06:48
-Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
+Northwest B.C. faces 3rd large-scale internet outage in months cbc.ca</description>
       <pubDate>Wed, 12 Aug 2026 00:41:11 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-12T00:41:11.197624Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-11T21:48:00Z</sqm:sourcePublishedDate>
@@ -78,16 +78,16 @@ Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - Clearwater Times</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxONkRVM202WkVMZVVMZGNUdlA1QV9MeXp4MnNaUkJPVlFWT3VyVHY2THRSU0dxVC05UDhmalZRTDVSVHZLZUl5eXdzWDdUY2JlX0VfVG5xeFowMXF3WjdiMjhJNWN1RzlaRlhRaDNkb2VSMFlTeXQ0SWV0LWN2aXl3Q2s5bGJsMC1WaEN5QTJOYw?oc=5</link>
-      <guid isPermaLink="false">805aa736651f906076d2f94b</guid>
+      <title>[性能・障害] UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft - Terrace Standard</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQNG1aQmU3MmpEejVnMVd2MHJOdHpEV3JMS0pxVENRLWxiZERrRHBtTVFTSkVxRTFYVkJKNGd1NHFSU0xpNVAtTlVvck9FN3ZwcENyaEtPVjI3Zjc4OC1hUXpjME9POHE1cFBSZmJDZHRqdWViUE1Qa3NpNUtPZmlBNUpwMjJhYXVfNUZ3eGs3RQ?oc=5</link>
+      <guid isPermaLink="false">4979877280deb9bdba82b220</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-12 06:35
-UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft Clearwater Times</description>
-      <pubDate>Mon, 17 Aug 2026 18:54:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-17T18:54:54.997900Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-11T21:35:48Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-12 06:23
+UPDATE: Tuesday’s Northwest B.C. Internet outage caused by attempted theft Terrace Standard</description>
+      <pubDate>Mon, 17 Aug 2026 19:39:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-17T19:39:52.126583Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-11T21:23:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -106,13 +106,13 @@ Another internet outage is affecting northern communities Houston Today</descrip
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Major fiber cut causes internet outage across Marlboro Co. - wpde.com</title>
+      <title>[性能・障害] Major fiber cut causes internet outage across Marlboro Co. - WPDE</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWJiWVN2X0NQVkw0ZkdTSzAtVk9sRkdXZWVCa3hBenBOUDRkLXZGX2pqTEZtdFlOSlZ6ZktFY0hWeUJlWTc3czl6RURoWXc1UUdiaWNsS0dFNDJqS2VCcHd3NWNFb25IMU9vYmMzX3daQU4wN3VlV1ljTDJCcWhkR3hON2syeVUyQ1d0YmtmanlMQXVLd3NPSTA2MVN6b3VfRllpdW1YQ0dNNTg?oc=5</link>
       <guid isPermaLink="false">ab88a1f913b2e5e146ef7f2e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-12 03:31
-Major fiber cut causes internet outage across Marlboro Co. wpde.com</description>
+Major fiber cut causes internet outage across Marlboro Co. WPDE</description>
       <pubDate>Thu, 13 Aug 2026 02:44:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-13T02:44:28.792194Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-11T18:31:29Z</sqm:sourcePublishedDate>
@@ -120,13 +120,13 @@ Major fiber cut causes internet outage across Marlboro Co. wpde.com</description
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 - vietnam.vn</title>
+      <title>[性能・障害] ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGp2TGFOOWt4N0U5eVRBWlRiazhLQ2FFVElnazNPRGNOcGk1SGZDYXRrZzlEbEsyd0tYeE5OY2RxZ2gwR0tnSVJoV2hJZ3JoZXJlWHE5d2xRODZKclk0VkJjZXJJVzhDV2tDTHRXaGtMdUtPd2o5c2hEbnlZWTlDOTZUYmx3Mi1WSVZZUGk3X1MwbTI0bnYwYy0xNWNSNVJNb3Y1ZUxOZFIyUFFjVmRRWVU0SDExSVB3WnV3bktGeWlQVFZOdzhPMlFB?oc=5</link>
       <guid isPermaLink="false">1c75c1c485cd89794ddd8a73</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-14 18:31
-ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 vietnam.vn</description>
+ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 Vietnam.vn</description>
       <pubDate>Fri, 14 Aug 2026 10:38:29 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T10:38:29.808811Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T09:31:42Z</sqm:sourcePublishedDate>
