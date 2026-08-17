@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-17T19:39:48.838227Z",
+  "generated_at": "2026-08-17T19:57:27.596646Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -75,22 +75,22 @@
       "score": 10
     },
     {
+      "id": "5627b9ba0a1bd04ba7a02b9e",
+      "title": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqdHFXWHhHclBVVXBaczdWTXZGeTlHaVdYRjVDcGhERWpRNVVsRXV6U19kSFpXaVAwdnFVN3pyZnBsY2kyaElqRUZuREZ2Y1dOSmFoZkU4V1NSbmlnTDhqRjdYYk5QOVVOYXhQLUN4WEUtZWpVcXQxQi1FRQ?oc=5",
+      "summary": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 ITmedia",
+      "published_at": "2026-08-08T12:46:46Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
       "id": "2b216475a907e857e0c3ffe7",
       "title": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xbHhUeDZWZkFrWkxQajkxLVVNRndRR2JLblU5WFNBck05RXFKdEN4UG0xeHlzcjV1VTE2SWh5SW40V3NaMW9TVGpSWWF2XzBFQm00VmpwMHI4a2dDcUJXQ3BsQ1JFbmhmR2dlUVhFMHB4WVFmOG5abFIzR0xJeTg?oc=5",
       "summary": "【本日8月10日 20時配信】2026年夏 最新版！ 清水理史が本気でオススメしたいWi-Fiルーターはどれか？ ライブで解説 INTERNET Watch",
       "published_at": "2026-08-09T21:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 5
-    },
-    {
-      "id": "e5cd2ad8c396622fe8db3c0e",
-      "title": "IIJmio、「回線セット特価」にホームルーター「PIX-RT100」が復帰 一括8,980円 - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wUlB2RmJBTjEzRWU4NnNuTjFtVWtyeXAwVmcwNFpkczhNcUQxOFA5THFiY0drVDZBdGFHMmt6Q00yd3hEcUFWNVJBeDhFREt6c0ZIOEdxS2RrZnpad1ZhS0FLMjhEM05wX3phZFVyb0JXeWFvQy1FSg?oc=5",
-      "summary": "IIJmio、「回線セット特価」にホームルーター「PIX-RT100」が復帰 一括8,980円 au Webポータル",
-      "published_at": "2026-08-09T02:00:30Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
