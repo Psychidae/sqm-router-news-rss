@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-18T23:33:37.505452Z",
+  "generated_at": "2026-08-18T23:56:15.677186Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "e1c7ae77a6f9c5a3ecc057f2",
-      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - Dong Knows Tech",
+      "title": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router - dongknows.com",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaWm1XbHkzNUh0eXR3eU9mb2FuVktXX0sxN3JMc3ltR21hLW0zT2tSQ0IzOENkQkkzWUo0dnNSU0l6SjRnM0lodHJZclZhbXNRbHVJcFBn?oc=5",
-      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Knows Tech",
+      "summary": "ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router dongknows.com",
       "published_at": "2026-08-10T22:39:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "36f38fc7a5e360a7a32e9d7d",
+      "title": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories - TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNPNmJDeVQtR2NvUlZNTEpzeFJMQ1FGZ2k0ekpLN2Qybk1XYXlxOGQyOURtSW14dmQxVjlFZ0NqTlNldUgtdktKenQ0Rmo0ZTRVc3pTVUk4UnZOMXZ1YWh1aUpZb1h0akl4Q0x3ckZQSXdfNmdfSTlYY3dLQUtTbWpHQkxWd1AxS2NTNVpPem9ma0lxeW9XWEpPSFprYi1pSE9tLUFhSlI0UQ?oc=5",
+      "summary": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories TechRepublic",
+      "published_at": "2026-08-18T21:20:06Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "676923c40d4b6bbe0407dbc5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXA0Vm1lOHlVeU9WUlAxR0QtSnVHRG5OYzl3YmpfU1A5UUlPMi13U2FrZWNVSGFQRFlHZ3cxMFVCQ2ZWNjlPbGZyRm1aT3BBLXRHdEJYU3kxX0RJMnhrdUV4NVpPUmF0aERVX0NnS3BqVDJjaVZVcW1WY1JubUlrRDFHcmFDcEo1VzFWNG13Nnc5NEh0elMwOFJMYVlnZkh2M2c?oc=5",
       "summary": "Starlink's first Wi-Fi 7 router surfaces in FCC filings Notebookcheck",
       "published_at": "2026-08-14T04:51:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "07438669224e2012e05a5f29",
-      "title": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTFmYjlkWEZ1NmZLMmlZT3N1UjdaQkFURFhmRExFQWhOWTc0MGFPS3ZRMnJEWllwNzFpMk1hdDBfRFVDcF9LV1hnQ0NsYU14M0ctUEFaUFBfNzJ1UDBTT3hWaE1Rb3hnRkJQZ2xXSjM0Y0wyamw0NGx3anhrVXJBc2xpQmRnN19sZDRvT2tRMjR1cTRzYkJHalhNa3RLcVdva0c2dVhpZ0U1U1Bz?oc=5",
-      "summary": "Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move Gizmodo",
-      "published_at": "2026-08-13T12:40:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
