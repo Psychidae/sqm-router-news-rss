@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-18T05:43:06.874744Z",
+  "generated_at": "2026-08-18T06:00:15.949921Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "a4ee1d0b5a3ed021f71fe6a9",
+      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
+      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
+      "published_at": "2026-08-16T18:50:08Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
     },
     {
       "id": "203d3b5f13f1908e716a3eaf",
@@ -43,9 +54,9 @@
     },
     {
       "id": "608195db61496f04b4790879",
-      "title": "UPDATE: TidalHealth systems restored after widespread phone and internet outage - WBOC TV",
+      "title": "UPDATE: TidalHealth systems restored after widespread phone and internet outage - wboc.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFNZMXpCUnFhajF4REVsSG9UY0VzTkVZNW94YjZEeHlVazltblhUMHdXWUd2VmFDdV9mZ0FEX1p0c0hxNUR0eDVfRnl0MkpPSEd6YmVFZEJnNHhicGNvdVllNElDZzMxUmw5QVNtb3pkX0pVRVNvZl9aY3dTR1g5d241akxSd1YtQ0U4LU94Vm5jQmc4bUg2WUlJdlR6RWxDUV9wVlFRLTQ4THNNWHU1RF9BUDQwSVBQUGlJcU82bUNrbXdwMF9RNUd0SnlLQWIyalotQXhteVVpVVpIR0RHTExPU3ZWYTZrRHc?oc=5",
-      "summary": "UPDATE: TidalHealth systems restored after widespread phone and internet outage WBOC TV",
+      "summary": "UPDATE: TidalHealth systems restored after widespread phone and internet outage wboc.com",
       "published_at": "2026-08-14T02:17:55Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "1c75c1c485cd89794ddd8a73",
-      "title": "ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRGp2TGFOOWt4N0U5eVRBWlRiazhLQ2FFVElnazNPRGNOcGk1SGZDYXRrZzlEbEsyd0tYeE5OY2RxZ2gwR0tnSVJoV2hJZ3JoZXJlWHE5d2xRODZKclk0VkJjZXJJVzhDV2tDTHRXaGtMdUtPd2o5c2hEbnlZWTlDOTZUYmx3Mi1WSVZZUGk3X1MwbTI0bnYwYy0xNWNSNVJNb3Y1ZUxOZFIyUFFjVmRRWVU0SDExSVB3WnV3bktGeWlQVFZOdzhPMlFB?oc=5",
-      "summary": "ベトナムインターネットセンターは、2026年に企業と協力してIPv6に関する作業プログラムを組織している。 Vietnam.vn",
-      "published_at": "2026-08-14T09:31:42Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }
