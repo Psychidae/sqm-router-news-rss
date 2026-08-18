@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 21:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:56:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
@@ -78,13 +78,13 @@ TidalHealth explains what caused phone, internet outage. Latest update DelmarvaN
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] UPDATE: TidalHealth systems restored after widespread phone and internet outage - WBOC TV</title>
+      <title>[性能・障害] UPDATE: TidalHealth systems restored after widespread phone and internet outage - wboc.com</title>
       <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFNZMXpCUnFhajF4REVsSG9UY0VzTkVZNW94YjZEeHlVazltblhUMHdXWUd2VmFDdV9mZ0FEX1p0c0hxNUR0eDVfRnl0MkpPSEd6YmVFZEJnNHhicGNvdVllNElDZzMxUmw5QVNtb3pkX0pVRVNvZl9aY3dTR1g5d241akxSd1YtQ0U4LU94Vm5jQmc4bUg2WUlJdlR6RWxDUV9wVlFRLTQ4THNNWHU1RF9BUDQwSVBQUGlJcU82bUNrbXdwMF9RNUd0SnlLQWIyalotQXhteVVpVVpIR0RHTExPU3ZWYTZrRHc?oc=5</link>
       <guid isPermaLink="false">608195db61496f04b4790879</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-14 11:17
-UPDATE: TidalHealth systems restored after widespread phone and internet outage WBOC TV</description>
+UPDATE: TidalHealth systems restored after widespread phone and internet outage wboc.com</description>
       <pubDate>Fri, 14 Aug 2026 16:03:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T16:03:52.171758Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T02:17:55Z</sqm:sourcePublishedDate>
@@ -102,20 +102,6 @@ Attempted copper theft triggers internet outage for Rogers customers in Calgary 
       <pubDate>Tue, 11 Aug 2026 19:44:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-11T19:44:07.899653Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-12T00:27:45Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Northwest B.C. faces 3rd large-scale internet outage in months - CBC</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUUwOEZmcEZ0UjR1U0Rpem5SY3pLSEc0REZZc1lUckwyQTliY2ZVcWpPX3hYWDdrd3YxRWdOWjBXUDdXUWFQNjNTYmk5S3lsbVVQQXJBVWFTZS0zYjVpRTBseTdYUjM5YXRwV2V3V2RIOF9EN0FNbmRfS0FmYktBaTh1UE12Nm9idWIyVklUUQ?oc=5</link>
-      <guid isPermaLink="false">c48bd884117a0e55317c592a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-12 06:48
-Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
-      <pubDate>Wed, 12 Aug 2026 00:41:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-12T00:41:11.197624Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-11T21:48:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -144,6 +130,20 @@ Northwest B.C. faces 3rd large-scale internet outage in months CBC</description>
       <pubDate>Tue, 18 Aug 2026 21:35:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-18T21:35:50.125171Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-13T22:25:14Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 - DXマガジン</title>
+      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pSk5oVWFSTU96c1ZOc3ViV0VjakVITjFhb2NWbm5sZU5hdU9WYzdEYzZrNW94MWphQUFuSHFyT0NRVVZiNWFMcHpHTm40QzMzZmc?oc=5</link>
+      <guid isPermaLink="false">09d333fc3426481fb561ee19</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-12 16:00
+発熱・遅延・電力問題を一気に解決？ NTT、液冷×低遅延ネットワークでAI基盤を刷新 DXマガジン</description>
+      <pubDate>Tue, 18 Aug 2026 21:56:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-18T21:56:11.595974Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-12T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
