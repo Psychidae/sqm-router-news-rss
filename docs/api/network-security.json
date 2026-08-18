@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-18T03:07:03.924672Z",
+  "generated_at": "2026-08-18T03:55:48.653259Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "2e58c078db3cc0738e923827",
-      "title": "WiFi4EU：広告も追跡もない、ヨーロッパ全域の無料Wi-Fi（2026年セキュリティガイド） - Pasquale Pillitteri",
+      "title": "WiFi4EU：広告も追跡もない、ヨーロッパ全域の無料Wi-Fi（2026年セキュリティガイド） - pasqualepillitteri.it",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0JQbHUtRXZhc1N6WWRGQXoyQloxSTEtTTlxT0ZaT3A5ZVJzNms3SHNfZVA4Z0NQM3JndXFFOW50YTgxQ2wtV1IzWHJrRGpoaHk4ZlRRYjRZMWE2YUIyUUJsNUJYUERXSDk5bmRlX1NwdnFUU25kWW9MaG90Tm9iNl9rX04?oc=5",
-      "summary": "WiFi4EU：広告も追跡もない、ヨーロッパ全域の無料Wi-Fi（2026年セキュリティガイド） Pasquale Pillitteri",
+      "summary": "WiFi4EU：広告も追跡もない、ヨーロッパ全域の無料Wi-Fi（2026年セキュリティガイド） pasqualepillitteri.it",
       "published_at": "2026-08-17T01:40:47Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
