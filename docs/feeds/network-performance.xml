@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 21:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:37:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
@@ -36,13 +36,13 @@ JBVNL removes illegal fibre cables in Ranchi, causes internet outage The Times o
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Residents experiencing internet outage in town - Bridport News</title>
+      <title>[性能・障害] Residents experiencing internet outage in town - bridportnews.co.uk</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXYwZGxvR0tuTml0OHl1OWJIcGRxejJJSFJHYURhdjlWSERUamYwSDNMemp5aG82OVphZ0p2bDBiQXVMUFlRSWVoZUlrQXJRbEZjaW9PTkZFMzAxcTk1aHVQcUxNR2FaMUc1Vm96Z29aYTlKbGJUTGxXUDdvdEhYMUtEeUxMeFpyTFdrVGNGRlNXSGVudVZoTlVHc2RyTVFa?oc=5</link>
       <guid isPermaLink="false">cab5d0808cafe6be85de753e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 22:13
-Residents experiencing internet outage in town Bridport News</description>
+Residents experiencing internet outage in town bridportnews.co.uk</description>
       <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
