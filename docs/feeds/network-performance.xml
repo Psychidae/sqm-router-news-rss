@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:06:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
@@ -22,13 +22,13 @@ Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</de
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
+      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - unn.ua</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
       <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 03:25
-Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)</description>
+Russia has experienced a massive internet outage, with thousands of complaints from users unn.ua</description>
       <pubDate>Tue, 18 Aug 2026 19:55:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-18T19:55:50.828706Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
