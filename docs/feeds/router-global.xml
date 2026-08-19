@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:01:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:37:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -18,6 +18,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <pubDate>Wed, 12 Aug 2026 20:05:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-12T20:05:31.791925Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-10T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Ready Router - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oeFRrTmw4WElVMW16dXZ1aXM0Qng3bVNuaFd0UDZZeDJ0NHJDMk95dnl5OFZHbjhQbGhzMTJyY3pEWkRkVmpYNE5MUUY0aUpqbXpTb2R3?oc=5</link>
+      <guid isPermaLink="false">a4c7dfee34818c66ae5fa352</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-20 02:12
+ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Ready Router Dong Knows Tech</description>
+      <pubDate>Wed, 19 Aug 2026 17:37:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-19T17:37:16.372237Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T17:12:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -106,13 +120,13 @@ New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag</description>
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Starlink's First Wi-Fi 7 Router May Be Coming Soon - BASENOR - Tesla Accessories</title>
+      <title>[海外ルーターニュース] Starlink's First Wi-Fi 7 Router May Be Coming Soon - basenor.com</title>
       <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWRxcWtvTzh2c2t1dzJxdW9KdWZRMGNZN3hLWkZnY1JUUnNmNEcwaDVKclp3Z0IyWURyUGtNYVE4T1ExZmxuMG12WXU3cXFDVTdBamJSSmhTbFV2SDkzNzV4a2x5YTVVMkNUR3Bha1Z4blF6b3BPUVYyc211NWpXcktRRDVNU1IyeVQzRw?oc=5</link>
       <guid isPermaLink="false">7c5776c51150ccfc009bc071</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-08-15 00:42
-Starlink's First Wi-Fi 7 Router May Be Coming Soon BASENOR - Tesla Accessories</description>
+Starlink's First Wi-Fi 7 Router May Be Coming Soon basenor.com</description>
       <pubDate>Sun, 16 Aug 2026 23:32:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-16T23:32:26.066024Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T15:42:04Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ Starlink's first Wi-Fi 7 router surfaces in FCC filings Notebookcheck</descripti
       <pubDate>Fri, 14 Aug 2026 06:40:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T06:40:36.699207Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T04:51:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQOTFmYjlkWEZ1NmZLMmlZT3N1UjdaQkFURFhmRExFQWhOWTc0MGFPS3ZRMnJEWllwNzFpMk1hdDBfRFVDcF9LV1hnQ0NsYU14M0ctUEFaUFBfNzJ1UDBTT3hWaE1Rb3hnRkJQZ2xXSjM0Y0wyamw0NGx3anhrVXJBc2xpQmRnN19sZDRvT2tRMjR1cTRzYkJHalhNa3RLcVdva0c2dVhpZ0U1U1Bz?oc=5</link>
-      <guid isPermaLink="false">07438669224e2012e05a5f29</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-13 21:40
-Forget WiFi 6, TP-Link WiFi 7 Mesh Router Gets Nearly 40% Off in Amazon's Final Clearance Move Gizmodo</description>
-      <pubDate>Wed, 19 Aug 2026 13:06:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-19T13:06:21.144744Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-13T12:40:19Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
