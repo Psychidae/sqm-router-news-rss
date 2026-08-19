@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-19T10:44:11.964035Z",
+  "generated_at": "2026-08-19T11:01:17.454769Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "a5599b625c70994c096e52f7",
-      "title": "Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)",
+      "title": "Russia has experienced a massive internet outage, with thousands of complaints from users - unn.ua",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5",
-      "summary": "Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)",
+      "summary": "Russia has experienced a massive internet outage, with thousands of complaints from users unn.ua",
       "published_at": "2026-08-18T18:25:59Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",

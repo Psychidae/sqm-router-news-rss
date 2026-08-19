@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-19T10:44:10.210306Z",
+  "generated_at": "2026-08-19T11:01:15.842565Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -76,9 +76,9 @@
     },
     {
       "id": "b75462ae8ee2ef735ca0e367",
-      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - PCMag",
+      "title": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings - pcmag.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTXpzZ1lUWU5WQVpvemRveG5zN3NIcU5GbUwzWkx6dWI1OXlmSkh4UmlrNlM2d0JWWnB3TW5GTlFZT1p0UGZrTHU2aEk1SHBqUS1COFczSE9EZnBfQ1ZFdGt5ZDdZOFBvMEFxSkVQRTlnNkRBdWpEb04tZGtUT0Naemxhdw?oc=5",
-      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings PCMag",
+      "summary": "New Starlink Wi-Fi 7 Router Spotted In FCC Filings pcmag.com",
       "published_at": "2026-08-15T08:44:40Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
