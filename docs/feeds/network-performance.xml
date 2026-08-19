@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:50:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
@@ -36,6 +36,20 @@ JBVNL removes illegal fibre cables in Ranchi, causes internet outage The Times o
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Residents experiencing internet outage in town - Bridport News</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXYwZGxvR0tuTml0OHl1OWJIcGRxejJJSFJHYURhdjlWSERUamYwSDNMemp5aG82OVphZ0p2bDBiQXVMUFlRSWVoZUlrQXJRbEZjaW9PTkZFMzAxcTk1aHVQcUxNR2FaMUc1Vm96Z29aYTlKbGJUTGxXUDdvdEhYMUtEeUxMeFpyTFdrVGNGRlNXSGVudVZoTlVHc2RyTVFa?oc=5</link>
+      <guid isPermaLink="false">cab5d0808cafe6be85de753e</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 22:13
+Residents experiencing internet outage in town Bridport News</description>
+      <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
       <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
       <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
@@ -50,30 +64,16 @@ Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</de
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iphoneincanada.ca</title>
+      <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iPhone in Canada</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZMOVJyWXZPRUE1WFhlRDZtYjREbUtuY0t1NWdBM3hMRUF0Ykw4NzZlSmFPNVNONXI4V09idTlTbGRxWlgwVk1YS3VwcUdtRF82VVlhMC03XzZncmU2ZTNBU2dDZFhEMC1zNE54c1NhSE5iZzAtbkFiZW56dmVJUG56T1NQcko5Wm4wZXc5a0NURTdOMnRrNk9tZktNUFVRb1Q4NUJoOUM?oc=5</link>
       <guid isPermaLink="false">5daea14fc89a32ed15db01b8</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 08:54
-Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut iphoneincanada.ca</description>
+Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut iPhone in Canada</description>
       <pubDate>Wed, 19 Aug 2026 17:57:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T17:57:26.672118Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-18T23:54:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
-      <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 03:25
-Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)</description>
-      <pubDate>Tue, 18 Aug 2026 19:55:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-18T19:55:50.828706Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,6 +92,20 @@ Gramercy Networks、低遅延のグローバル金融ネットワーク構想を
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
+      <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 03:25
+Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)</description>
+      <pubDate>Tue, 18 Aug 2026 19:55:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-18T19:55:50.828706Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Town of Independence reports internet outage - WBRZ</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU0oyMk9HVS1ORzQxbkpXa1RCUEV1MUI1SERQZFZrenRsUzZGOE5vdzlJVGVtMnlzZnB4QlBPMWdGSVFvOTlDcmlITWNhMDBJMzVMZjBHQkVydDM4TDZhcUFqWlI0TWdCQm9zYzhwLXNsbnh2c3dFRkwySQ?oc=5</link>
       <guid isPermaLink="false">69ccda195f8ce345b10bc4c6</guid>
@@ -103,20 +117,6 @@ Town of Independence reports internet outage WBRZ</description>
       <sqm:firstSeenDate>2026-08-17T19:57:30.721051Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-17T19:49:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
-      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-17 03:50
-KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
-      <pubDate>Tue, 18 Aug 2026 08:51:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-18T08:51:22.248115Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-16T18:50:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
