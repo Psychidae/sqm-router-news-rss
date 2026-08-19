@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-19T16:02:34.377353Z",
+  "generated_at": "2026-08-19T16:44:37.705135Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -43,9 +43,9 @@
     },
     {
       "id": "36f38fc7a5e360a7a32e9d7d",
-      "title": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories - TechRepublic",
+      "title": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories - techrepublic.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNPNmJDeVQtR2NvUlZNTEpzeFJMQ1FGZ2k0ekpLN2Qybk1XYXlxOGQyOURtSW14dmQxVjlFZ0NqTlNldUgtdktKenQ0Rmo0ZTRVc3pTVUk4UnZOMXZ1YWh1aUpZb1h0akl4Q0x3ckZQSXdfNmdfSTlYY3dLQUtTbWpHQkxWd1AxS2NTNVpPem9ma0lxeW9XWEpPSFprYi1pSE9tLUFhSlI0UQ?oc=5",
-      "summary": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories TechRepublic",
+      "summary": "CES 2020: Asus debuts new monitor, mesh Wi-Fi router, and accessories techrepublic.com",
       "published_at": "2026-08-18T21:20:06Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
