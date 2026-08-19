@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:43:20 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
@@ -22,13 +22,13 @@ Residents experiencing internet outage in town Dorset Echo</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] JBVNL removes illegal fibre cables in Ranchi, causes internet outage - timesofindia.indiatimes.com</title>
+      <title>[性能・障害] JBVNL removes illegal fibre cables in Ranchi, causes internet outage - The Times of India</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVdvd21BMDVuQ1c1WGgzay0xQjhoX3NMSXJOM3d2akJhejdUOC1ncXpBdWdpOU85ckZsSmdWT1F5TTRTSE9ZWW5pT0dwVlJvLUlrdUZhLV8tdXZzNkZyczgxTURjRmxleVZaNXNKQTI3Z0p1cHBXWXBfQ2FDbEZDNU5UaFVxYjJyVWtFVk1FYkh0WVNEbEkxWjgydGlZU0ZsM1JWR3N2MnZjNmFJeW8yc25PWFFxdmFPTGVQSUdmUUV5WW9nMzQzTTB4S1FCR085RDR5Qm9LZ0_SAd4BQVVfeXFMTmcwX19ZeUVLbVJpSHFZSHZGa0RWaXA0OEtVdWZtcTh2UUFSZDFpczAwdWx5Uml4c0dYOXhHNU9iVzBmczlmQ1lIWEpqdjQxRzMyNGx3SkQyalFQWkdrcEdkbjRsejBOUnphZ3RLWkRoMXdrOXZxR2dWXzlsYVFSVWp4VE83MGtUZ2xGYXpfNW53VjFDUkxtQlpnUm5PUFVVV21QazQtQ0NYVjRsZjZ1aF9SaEN4Rk5ENTVURDAzUDhjMTVWSTJXWmFmZmxRYXRKdXNUWi1PbVR0bkZ1ZmdB?oc=5</link>
       <guid isPermaLink="false">d8cccdd442241ba958cdef3a</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 23:20
-JBVNL removes illegal fibre cables in Ranchi, causes internet outage timesofindia.indiatimes.com</description>
+JBVNL removes illegal fibre cables in Ranchi, causes internet outage The Times of India</description>
       <pubDate>Wed, 19 Aug 2026 14:50:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T14:50:42.870701Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T14:20:00Z</sqm:sourcePublishedDate>
@@ -36,13 +36,13 @@ JBVNL removes illegal fibre cables in Ranchi, causes internet outage timesofindi
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Residents experiencing internet outage in town - Bridport News</title>
+      <title>[性能・障害] Residents experiencing internet outage in town - bridportnews.co.uk</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXYwZGxvR0tuTml0OHl1OWJIcGRxejJJSFJHYURhdjlWSERUamYwSDNMemp5aG82OVphZ0p2bDBiQXVMUFlRSWVoZUlrQXJRbEZjaW9PTkZFMzAxcTk1aHVQcUxNR2FaMUc1Vm96Z29aYTlKbGJUTGxXUDdvdEhYMUtEeUxMeFpyTFdrVGNGRlNXSGVudVZoTlVHc2RyTVFa?oc=5</link>
       <guid isPermaLink="false">cab5d0808cafe6be85de753e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 22:13
-Residents experiencing internet outage in town Bridport News</description>
+Residents experiencing internet outage in town bridportnews.co.uk</description>
       <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
@@ -120,13 +120,13 @@ Town of Independence reports internet outage WBRZ</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance</title>
+      <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - finance.yahoo.com</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOSENWcnRqeGg2RWRGS29uN3dtM3B2UWczYTN2OGJZamhWeWRLMkN2VFdWZjhyaWExUzREc1Y2UVk2UmtaWmVYaXg2YTFXem5hamxzQ3EyVnlwTGI4MGZmTFdWS2ticHRyeGpUbGZzYU5QLW9zdGk4blBZSWY5S3NSNGtEaEJxeWVzSkhLeVIwVzc4SVFlTW8zM3lUVmthQU9ORzVv?oc=5</link>
       <guid isPermaLink="false">203d3b5f13f1908e716a3eaf</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-15 04:52
-Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs Yahoo Finance</description>
+Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs finance.yahoo.com</description>
       <pubDate>Fri, 14 Aug 2026 23:33:35 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T23:33:35.478922Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T19:52:00Z</sqm:sourcePublishedDate>
