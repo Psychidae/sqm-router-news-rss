@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-19T22:58:38.048463Z",
+  "generated_at": "2026-08-19T23:34:05.785010Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -65,9 +65,9 @@
     },
     {
       "id": "676923c40d4b6bbe0407dbc5",
-      "title": "KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers - ISPreview UK",
+      "title": "KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers - ispreview.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlJzbExYRjhIMHBCN2ZTOHRjQ3ZoaXVIMnFGSVB1eGRaRm5MY1JBUVMyTUxLS1VxNDIwVEZoaXl2dG16dW5VT2FsU0hKTmFYRE9idFAxTU9ybGd4dmtNcU1ZXy1MblI2cVdmbm02MDZ4U1FFUlJvZEtQOG1ZWGpUR1ljczFSb3EwazdUUkFoSzJmVi1sWXFmU1c4MUo1MHhaSm9TMDZYR0t2QUNKVk5XWkJmend4eE44?oc=5",
-      "summary": "KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers ISPreview UK",
+      "summary": "KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers ispreview.co.uk",
       "published_at": "2026-08-18T11:23:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
