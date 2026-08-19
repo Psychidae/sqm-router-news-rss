@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:36:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - unn.ua</title>
+      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
+      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 13:20
+Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
+      <pubDate>Wed, 19 Aug 2026 11:36:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-19T11:36:33.175755Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
       <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 03:25
-Russia has experienced a massive internet outage, with thousands of complaints from users unn.ua</description>
+Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)</description>
       <pubDate>Tue, 18 Aug 2026 19:55:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-18T19:55:50.828706Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
@@ -78,13 +92,13 @@ Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Conne
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] TidalHealth explains what caused phone, internet outage. Latest update - DelmarvaNow.com</title>
+      <title>[性能・障害] TidalHealth explains what caused phone, internet outage. Latest update - delmarvanow.com</title>
       <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNGxNZEtzTWNDQWJYMXRpcF9GX1NqZWxhaEk0M0JwY0ZvMkdJakFwX1hQeGNSUTlZRGlfNGFMd2oyTEJacm42VDFTeGUzMXJtdGQ4Ry1yRkNSVXBCX3lNTTl1c0lEcGZ1WFFtNHF3X3YybGxpckVYemVSeFdKejYybFhwazFBU0hnYWNCRl9aQUZZdFc4QTNZc29RNTI4N0k1VGFsX0ktVFBoQXl0ZUFCNktucGRQLXE0YWdjQ0ptSmNxWDRqUmdvVDE5SUR2S19KZC1naXVoazQ0TWR1aGpB?oc=5</link>
       <guid isPermaLink="false">a60ad220e727d73be049a4e7</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-14 22:10
-TidalHealth explains what caused phone, internet outage. Latest update DelmarvaNow.com</description>
+TidalHealth explains what caused phone, internet outage. Latest update delmarvanow.com</description>
       <pubDate>Fri, 14 Aug 2026 14:01:14 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-14T14:01:14.297952Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T13:10:00Z</sqm:sourcePublishedDate>
