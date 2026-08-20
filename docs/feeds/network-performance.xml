@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 07:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:54:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
@@ -78,13 +78,13 @@ Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</de
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iphoneincanada.ca</title>
+      <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iPhone in Canada</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZMOVJyWXZPRUE1WFhlRDZtYjREbUtuY0t1NWdBM3hMRUF0Ykw4NzZlSmFPNVNONXI4V09idTlTbGRxWlgwVk1YS3VwcUdtRF82VVlhMC03XzZncmU2ZTNBU2dDZFhEMC1zNE54c1NhSE5iZzAtbkFiZW56dmVJUG56T1NQcko5Wm4wZXc5a0NURTdOMnRrNk9tZktNUFVRb1Q4NUJoOUM?oc=5</link>
       <guid isPermaLink="false">5daea14fc89a32ed15db01b8</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-08-19 08:54
-Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut iphoneincanada.ca</description>
+Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut iPhone in Canada</description>
       <pubDate>Wed, 19 Aug 2026 17:57:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T17:57:26.672118Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-18T23:54:20Z</sqm:sourcePublishedDate>
