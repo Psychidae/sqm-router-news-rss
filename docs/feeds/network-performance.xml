@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:56:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] JBVNL removes illegal fibre cables in Ranchi, causes internet outage - The Times of India</title>
@@ -32,20 +32,6 @@ Residents experiencing internet outage in town Bridport News</description>
       <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
-      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 13:20
-Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
-      <pubDate>Wed, 19 Aug 2026 11:36:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-19T11:36:33.175755Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -144,6 +130,20 @@ TidalHealth explains what caused phone, internet outage. Latest update DelmarvaN
       <pubDate>Thu, 20 Aug 2026 11:03:29 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-20T11:03:29.407288Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T13:10:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] UPDATE: TidalHealth systems restored after widespread phone and internet outage - WBOC TV</title>
+      <link>https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcFNZMXpCUnFhajF4REVsSG9UY0VzTkVZNW94YjZEeHlVazltblhUMHdXWUd2VmFDdV9mZ0FEX1p0c0hxNUR0eDVfRnl0MkpPSEd6YmVFZEJnNHhicGNvdVllNElDZzMxUmw5QVNtb3pkX0pVRVNvZl9aY3dTR1g5d241akxSd1YtQ0U4LU94Vm5jQmc4bUg2WUlJdlR6RWxDUV9wVlFRLTQ4THNNWHU1RF9BUDQwSVBQUGlJcU82bUNrbXdwMF9RNUd0SnlLQWIyalotQXhteVVpVVpIR0RHTExPU3ZWYTZrRHc?oc=5</link>
+      <guid isPermaLink="false">608195db61496f04b4790879</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-14 11:17
+UPDATE: TidalHealth systems restored after widespread phone and internet outage WBOC TV</description>
+      <pubDate>Thu, 20 Aug 2026 18:56:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-20T18:56:33.036856Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-14T02:17:55Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
