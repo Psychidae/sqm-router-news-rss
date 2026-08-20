@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 05:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:02:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <title>[セキュリティ] ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティ対策Lab - 合同会社ロケットボーイズ</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmlESFRucDNDODlvNEVtY0ZDbENncDNxejRsVTdGMEl0SzIxb0JCX1Q0b2R2MlYzUExHWldIdHB1WXA1S3JIWGpSZkNtZXUyamlEVzdhTlozRlNNWnJDSk90a0NaYmF2bmVSRE5WYlRDeDZmYTdxQmlubFd5RHJaTW5TTkw4bU9MaVlVcE5McllaUlJnVE5zUVEtdW96YTkxVlFiN0VqYld0Q0k?oc=5</link>
       <guid isPermaLink="false">abcb791892f83c4e1399c8cb</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-08-20 08:50
-ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティ対策Lab 合同会社ロケットボーイズ</description>
       <pubDate>Thu, 20 Aug 2026 01:49:13 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-20T01:49:13.402614Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T23:50:31Z</sqm:sourcePublishedDate>
