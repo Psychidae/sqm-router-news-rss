@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-20T07:54:29.186259Z",
+  "generated_at": "2026-08-20T08:54:06.274098Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "593f4b9e37b791025c022ca1",
-      "title": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network - Newstalk ZB",
+      "title": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network - newstalkzb.co.nz",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUZKQzJSbUZIMF9BRGdiNmpSa2xHcDcxZk1wcEhoSzFIazRwSEM4S09Qa3BnNWtsdlVrTlJNM2NLNHM4eV91Y05md0xuQ015dlpFR0x4X1RLemdUb1kxb3pJVHlxOVczTEJJOE9JdGtkakF4UHBQMXBSYTFnY1dMR0FucjlPbWtvXzk3MWIxc1Y5UlgwY3BtU2I2b0FoUklqMVJzQlAzcmhDUEM5ZzRCMzlNU09KZw?oc=5",
-      "summary": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network Newstalk ZB",
+      "summary": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network newstalkzb.co.nz",
       "published_at": "2026-08-20T00:05:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
