@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 03:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:44:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
@@ -50,20 +50,6 @@ Residents experiencing internet outage in town bridportnews.co.uk</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
-      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 13:20
-Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
-      <pubDate>Wed, 19 Aug 2026 11:36:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-19T11:36:33.175755Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 - Data Center Cafe</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGwxbjVqaFVIbDlZb0tPcm1qZ3dUVTRWYi0wakZrWjJJYUJlU1dXdElhSmN6bUdYSDVLcEIxTm5BUXhMaDhBLVlnM2VnRTlOMzBicjd4SHNRbU40TzJjdnUwdnF5ZDVjWV9sYWd0TG5LdndSaGxHQURtZmQ3bGVIc1E3OTNNajFNRGs0VlEwQXE5Uk03dDM5Sjh0NG51cUZSREVrSg?oc=5</link>
       <guid isPermaLink="false">739c784c5de2a7bcf8f75142</guid>
@@ -75,6 +61,20 @@ Gramercy Networks、低遅延のグローバル金融ネットワーク構想を
       <sqm:firstSeenDate>2026-08-19T10:04:10.203718Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T09:50:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
+      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 13:20
+Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
+      <pubDate>Wed, 19 Aug 2026 11:36:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-19T11:36:33.175755Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
