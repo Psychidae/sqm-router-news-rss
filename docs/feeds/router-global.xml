@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:49:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -18,6 +18,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <pubDate>Wed, 12 Aug 2026 20:05:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-12T20:05:31.791925Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-10T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network - Newstalk ZB</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUZKQzJSbUZIMF9BRGdiNmpSa2xHcDcxZk1wcEhoSzFIazRwSEM4S09Qa3BnNWtsdlVrTlJNM2NLNHM4eV91Y05md0xuQ015dlpFR0x4X1RLemdUb1kxb3pJVHlxOVczTEJJOE9JdGtkakF4UHBQMXBSYTFnY1dMR0FucjlPbWtvXzk3MWIxc1Y5UlgwY3BtU2I2b0FoUklqMVJzQlAzcmhDUEM5ZzRCMzlNU09KZw?oc=5</link>
+      <guid isPermaLink="false">593f4b9e37b791025c022ca1</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-20 09:05
+D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network Newstalk ZB</description>
+      <pubDate>Thu, 20 Aug 2026 01:49:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-20T01:49:12.418387Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-20T00:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -50,13 +64,13 @@ ASUS RT-BE82U Review (vs. RB-BE58U): A Reliable Dual-Band Wi-Fi 7 Router Dong Kn
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - expertreviews.co.uk</title>
+      <title>[海外ルーターニュース] TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5</link>
       <guid isPermaLink="false">fe2092af2f1337f59c9b5210</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-08-06 16:00
-TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router expertreviews.co.uk</description>
+TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router Expert Reviews</description>
       <pubDate>Thu, 06 Aug 2026 07:23:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-06T07:23:44.326966Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-06T07:00:00Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ Starlink's First Wi-Fi 7 Router May Be Coming Soon BASENOR - Tesla Accessories</
       <pubDate>Sun, 16 Aug 2026 23:32:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-16T23:32:26.066024Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-14T15:42:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXA0Vm1lOHlVeU9WUlAxR0QtSnVHRG5OYzl3YmpfU1A5UUlPMi13U2FrZWNVSGFQRFlHZ3cxMFVCQ2ZWNjlPbGZyRm1aT3BBLXRHdEJYU3kxX0RJMnhrdUV4NVpPUmF0aERVX0NnS3BqVDJjaVZVcW1WY1JubUlrRDFHcmFDcEo1VzFWNG13Nnc5NEh0elMwOFJMYVlnZkh2M2c?oc=5</link>
-      <guid isPermaLink="false">86a0a521fa25e291b13cc318</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-14 13:51
-Starlink's first Wi-Fi 7 router surfaces in FCC filings Notebookcheck</description>
-      <pubDate>Fri, 14 Aug 2026 06:40:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-14T06:40:36.699207Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-14T04:51:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

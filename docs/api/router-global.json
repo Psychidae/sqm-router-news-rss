@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-19T23:56:50.031483Z",
+  "generated_at": "2026-08-20T01:49:12.419326Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
+    },
+    {
+      "id": "593f4b9e37b791025c022ca1",
+      "title": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network - Newstalk ZB",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUZKQzJSbUZIMF9BRGdiNmpSa2xHcDcxZk1wcEhoSzFIazRwSEM4S09Qa3BnNWtsdlVrTlJNM2NLNHM4eV91Y05md0xuQ015dlpFR0x4X1RLemdUb1kxb3pJVHlxOVczTEJJOE9JdGtkakF4UHBQMXBSYTFnY1dMR0FucjlPbWtvXzk3MWIxc1Y5UlgwY3BtU2I2b0FoUklqMVJzQlAzcmhDUEM5ZzRCMzlNU09KZw?oc=5",
+      "summary": "D-Link BE7200 10G Wi-Fi 7 Mesh Router - Level Up Your Home Network Newstalk ZB",
+      "published_at": "2026-08-20T00:05:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "a4c7dfee34818c66ae5fa352",
@@ -43,9 +54,9 @@
     },
     {
       "id": "fe2092af2f1337f59c9b5210",
-      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - expertreviews.co.uk",
+      "title": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router - Expert Reviews",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmZRb1E5WnM4VVQ3YUdMZ091VWR1UGNmenpwYmVvV25ULTRsNFpJdVVzVldOQ1JtcDRkc1NwaUlycUlOcWd3U3RkM2pxZW1BdDZiek5YNnBKQl9WMDRtdHVBa2l6bWdkT1BUU1NFRXUyRDQtMUphRW1FRGhKRUR6V3U2a1MxMHQxQnhJUjJVVmVEcENETWc?oc=5",
-      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router expertreviews.co.uk",
+      "summary": "TP-Link Archer BE400 review: A fine fast Wi-Fi 7 router Expert Reviews",
       "published_at": "2026-08-06T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWRxcWtvTzh2c2t1dzJxdW9KdWZRMGNZN3hLWkZnY1JUUnNmNEcwaDVKclp3Z0IyWURyUGtNYVE4T1ExZmxuMG12WXU3cXFDVTdBamJSSmhTbFV2SDkzNzV4a2x5YTVVMkNUR3Bha1Z4blF6b3BPUVYyc211NWpXcktRRDVNU1IyeVQzRw?oc=5",
       "summary": "Starlink's First Wi-Fi 7 Router May Be Coming Soon BASENOR - Tesla Accessories",
       "published_at": "2026-08-14T15:42:04Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "86a0a521fa25e291b13cc318",
-      "title": "Starlink's first Wi-Fi 7 router surfaces in FCC filings - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXA0Vm1lOHlVeU9WUlAxR0QtSnVHRG5OYzl3YmpfU1A5UUlPMi13U2FrZWNVSGFQRFlHZ3cxMFVCQ2ZWNjlPbGZyRm1aT3BBLXRHdEJYU3kxX0RJMnhrdUV4NVpPUmF0aERVX0NnS3BqVDJjaVZVcW1WY1JubUlrRDFHcmFDcEo1VzFWNG13Nnc5NEh0elMwOFJMYVlnZkh2M2c?oc=5",
-      "summary": "Starlink's first Wi-Fi 7 router surfaces in FCC filings Notebookcheck",
-      "published_at": "2026-08-14T04:51:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
