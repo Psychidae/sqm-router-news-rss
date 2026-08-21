@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 18:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:35:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 - digital-construction.jp</title>
@@ -60,6 +60,20 @@ Residents experiencing internet outage in town Bridport News</description>
       <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iPhone in Canada</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZMOVJyWXZPRUE1WFhlRDZtYjREbUtuY0t1NWdBM3hMRUF0Ykw4NzZlSmFPNVNONXI4V09idTlTbGRxWlgwVk1YS3VwcUdtRF82VVlhMC03XzZncmU2ZTNBU2dDZFhEMC1zNE54c1NhSE5iZzAtbkFiZW56dmVJUG56T1NQcko5Wm4wZXc5a0NURTdOMnRrNk9tZktNUFVRb1Q4NUJoOUM?oc=5</link>
+      <guid isPermaLink="false">5daea14fc89a32ed15db01b8</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 08:54
+Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut iPhone in Canada</description>
+      <pubDate>Fri, 21 Aug 2026 19:35:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-21T19:35:10.741388Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-18T23:54:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -130,20 +144,6 @@ Town of Independence reports internet outage WBRZ</description>
       <pubDate>Fri, 21 Aug 2026 07:54:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-21T07:54:28.497758Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-17T19:49:10Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs - Yahoo Finance</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOSENWcnRqeGg2RWRGS29uN3dtM3B2UWczYTN2OGJZamhWeWRLMkN2VFdWZjhyaWExUzREc1Y2UVk2UmtaWmVYaXg2YTFXem5hamxzQ3EyVnlwTGI4MGZmTFdWS2ticHRyeGpUbGZzYU5QLW9zdGk4blBZSWY5S3NSNGtEaEJxeWVzSkhLeVIwVzc4SVFlTW8zM3lUVmthQU9ORzVv?oc=5</link>
-      <guid isPermaLink="false">203d3b5f13f1908e716a3eaf</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-15 04:52
-Gramercy Networks Announces New Global Ultra-Low Latency Financial Network Connecting Major Trading Hubs Yahoo Finance</description>
-      <pubDate>Fri, 21 Aug 2026 17:42:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-21T17:42:34.919855Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-14T19:52:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
