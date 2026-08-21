@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 07:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:54:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティ対策Lab - 合同会社ロケットボーイズ</title>
@@ -32,6 +32,20 @@ WiFi4EU：広告も追跡もない、ヨーロッパ全域の無料Wi-Fi（2026�
       <pubDate>Thu, 20 Aug 2026 07:54:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-20T07:54:30.017596Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-17T01:40:47Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFAzVDZ6QWprMmMyNDg1RTRNZjc3dWl5RHlWZ2VYTFlZSFIwYXhxaFNkR2VRdzFBaG0yMFhxaGppVVVKSExGUmtPSEVBTHFhSmpCT0dtMGh0YWR0QTgyMkN5WmlyQlFlMFJmYlRN?oc=5</link>
+      <guid isPermaLink="false">f1e9044174363bbc8fe9494d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-08-21 16:37
+NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を INTERNET Watch</description>
+      <pubDate>Fri, 21 Aug 2026 07:54:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-21T07:54:27.338733Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-21T07:37:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
