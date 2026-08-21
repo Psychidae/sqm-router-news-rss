@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-21T14:51:42.133818Z",
+  "generated_at": "2026-08-21T15:46:06.398384Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -108,15 +108,15 @@
       "score": 12
     },
     {
-      "id": "7c5776c51150ccfc009bc071",
-      "title": "Starlink's First Wi-Fi 7 Router May Be Coming Soon - BASENOR - Tesla Accessories",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWRxcWtvTzh2c2t1dzJxdW9KdWZRMGNZN3hLWkZnY1JUUnNmNEcwaDVKclp3Z0IyWURyUGtNYVE4T1ExZmxuMG12WXU3cXFDVTdBamJSSmhTbFV2SDkzNzV4a2x5YTVVMkNUR3Bha1Z4blF6b3BPUVYyc211NWpXcktRRDVNU1IyeVQzRw?oc=5",
-      "summary": "Starlink's First Wi-Fi 7 Router May Be Coming Soon BASENOR - Tesla Accessories",
-      "published_at": "2026-08-14T15:42:04Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "7006d76fefcca73140b845e0",
+      "title": "I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches way above its weight - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWpodW9fNkd0emNxeTRBbENVempkMVdmU1FsY3FoN2FVQUxmZ1hSTUNUVkw4YWFRUVozeTBicWNxNlZsRWtFdW9JZTlwUkhRczdzTEZIR2ZFSTVxOU90aC1kc1lzSUEyZTJvTFRlUDl4VkktRFQ2ZkVYeUxieGZYWl9Ib1Jaa3JIWmR6R0xBcU02Q014Wm5ob2E5MlNfS18tTlNQNFlUVVZkWmExYnB0RkJJNlJSZk9sUjN3S1JLdW1oVlpVdGktRGRzUThscEtSUG43M0I3TlJ0UQ?oc=5",
+      "summary": "I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches way above its weight Tom's Guide",
+      "published_at": "2026-08-17T09:30:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     }
   ]
 }
