@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:04:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmlESFRucDNDODlvNEVtY0ZDbENncDNxejRsVTdGMEl0SzIxb0JCX1Q0b2R2MlYzUExHWldIdHB1WXA1S3JIWGpSZkNtZXUyamlEVzdhTlozRlNNWnJDSk90a0NaYmF2bmVSRE5WYlRDeDZmYTdxQmlubFd5RHJaTW5TTkw4bU9MaVlVcE5McllaUlJnVE5zUVEtdW96YTkxVlFiN0VqYld0Q0k?oc=5</link>
-      <guid isPermaLink="false">abcb791892f83c4e1399c8cb</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-08-20 08:50
-ランサムウェア グループ「Settra(セトラ)」とは 2026年6月に出現、MOXFIVEがVPN認証情報・Mimikatz・BYOVDを実案件で確認|セキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Thu, 20 Aug 2026 01:49:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-20T01:49:13.402614Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T23:50:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFAzVDZ6QWprMmMyNDg1RTRNZjc3dWl5RHlWZ2VYTFlZSFIwYXhxaFNkR2VRdzFBaG0yMFhxaGppVVVKSExGUmtPSEVBTHFhSmpCT0dtMGh0YWR0QTgyMkN5WmlyQlFlMFJmYlRN?oc=5</link>
