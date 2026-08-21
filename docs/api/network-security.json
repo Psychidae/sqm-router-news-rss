@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-21T08:55:13.782948Z",
+  "generated_at": "2026-08-21T09:50:32.216684Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 5,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -31,22 +31,11 @@
       "score": 11
     },
     {
-      "id": "f5c6997aa4d340e106bf9a66",
-      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DR21OTGE5YjgxTGhBQzdxVTU3VUVSSm53TWdoWV91b19tTDhUQ2daeHdOZWE3Z1dCcGhUYkxhTFpndVN1dUIyS2RaUkx2TURrTF91RHlsTmNkUzV4ZllZ?oc=5",
-      "summary": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を 千葉テレビ放送",
-      "published_at": "2026-08-21T07:53:16Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "8181b2a2a8cf63a9e03aa2f8",
-      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRng0dlhDSFBTRUhmTVJjMG8wWDk2b0laNXV4NVJYNW94bFdsa2hnT0p4ZmdWYlpIRGowbEFxeVdLX0F1QW8wSUs4NVY2cmhNSElwcXBnQXA4Wnc4S0s5SFB1QnkzNDlLS1VENzdZaFBlZkM4M3VfQ1J3aTVFU28?oc=5",
-      "summary": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-08-21T07:37:00Z",
+      "id": "f1e9044174363bbc8fe9494d",
+      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzVDZ6QWprMmMyNDg1RTRNZjc3dWl5RHlWZ2VYTFlZSFIwYXhxaFNkR2VRdzFBaG0yMFhxaGppVVVKSExGUmtPSEVBTHFhSmpCT0dtMGh0YWR0QTgyMkN5WmlyQlFlMFJmYlRN?oc=5",
+      "summary": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を INTERNET Watch",
+      "published_at": "2026-08-21T07:37:54Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
