@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-21T07:54:25.045058Z",
+  "generated_at": "2026-08-21T08:55:11.910999Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,9 +20,9 @@
       "score": 17
     },
     {
-      "id": "ccecffc0b548a0090b0fdd72",
+      "id": "225245582edf9d00bec39447",
       "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Mm92MmNOTk1ELXIwLWVIdjE2Y3NrLWRvdGFzT2E4ZGQwc3lPaGs3Rjc2UXYxaFFHYmlaN1VnZ0NETGgyOERhRXVFZmt3b00yQVBINnhUeUpnT3FuUEJWRkhRLU1sUXY3dV9HdHJTVDdyeEx1QzcwNGlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0hjeXVpejIxalBWNzZ4ZnFGSHlsVTU0UUxWQmZGQ2k5YlJXSTAwa0VpcEVwX240VVJHZC1GbXhCZW9LeFBWNlRKRWFxTkRBS2ZFemhGZGFzdHdWeXZKNWtYWnhEYlN1OHpMTGFqU29KYy1ZcHgyV1NNelNZaGVFcGllSjM?oc=5",
       "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 BCN Retail",
       "published_at": "2026-08-17T03:05:00Z",
       "source": "Google News JP: router vendors",
@@ -31,11 +31,11 @@
       "score": 16
     },
     {
-      "id": "60a5069dde00e103080bc53f",
-      "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmkxQ2JaWUotaFRBRmtnZU1yV0I1elA4Q0FhUlNFak9ZQTZOOWJZSUhFY2V4NTAyN2g0ZEktQTRlNE94Sk1lMDQ3RTZTMXloMlJMX2RIbWpjdy0tOXVFMzBYam82c2cxQzEydkYxb3IwY1hxdEpob18xSU1zOVB0Ymhka1AtUWpiTXpLYnR3?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 (BCN) Yahoo!ニュース",
-      "published_at": "2026-08-17T03:00:00Z",
+      "id": "ccecffc0b548a0090b0fdd72",
+      "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Mm92MmNOTk1ELXIwLWVIdjE2Y3NrLWRvdGFzT2E4ZGQwc3lPaGs3Rjc2UXYxaFFHYmlaN1VnZ0NETGgyOERhRXVFZmt3b00yQVBINnhUeUpnT3FuUEJWRkhRLU1sUXY3dV9HdHJTVDdyeEx1QzcwNGlB?oc=5",
+      "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 BCN Retail",
+      "published_at": "2026-08-17T03:05:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
