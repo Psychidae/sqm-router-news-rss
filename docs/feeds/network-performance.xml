@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 04:46:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 05:10:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum internet outage impacting customers in San Benito County - KSBW</title>
@@ -93,14 +93,14 @@ KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワー�
     </item>
     <item>
       <title>[性能・障害] AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ - AGARA紀伊民報</title>
-      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5V3RuZDVRNmgxYU9sM0NIUFpGbWFDWjlyNFRKS3dPMXFRVW1EeTFJUEhmMzlNV1FCb2VhWDNBS0cxT0g0RFpraFJORFE0RC1G?oc=5</link>
-      <guid isPermaLink="false">33439a26b875dfddd3c05dfe</guid>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcV9nS29zZUlZalBUS2xDNHN6M3hQYjdjQ0dERjBJbDE1R3NGX21vRTA4WE54Z0FRMDloMnhHaUJ2X29nRnNRZFNUaE1zX00?oc=5</link>
+      <guid isPermaLink="false">bcfd27fc0be8376290cc46ff</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-21 10:06
 AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ AGARA紀伊民報</description>
-      <pubDate>Sat, 22 Aug 2026 04:46:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-22T04:46:55.324398Z</sqm:firstSeenDate>
+      <pubDate>Sat, 22 Aug 2026 05:10:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T05:10:13.793646Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-21T01:06:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
