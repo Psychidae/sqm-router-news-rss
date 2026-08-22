@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 17:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:46:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum internet outage impacting customers in San Benito County - KSBW</title>
@@ -13,11 +13,11 @@
       <guid isPermaLink="false">1dba9da6c9e094bcf1ffdf71</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-08-22 11:36
+元記事日付: 2026-08-23 01:24
 Spectrum internet outage impacting customers in San Benito County KSBW</description>
       <pubDate>Sat, 22 Aug 2026 03:05:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-22T03:05:54.034904Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-22T02:36:00Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-08-22T16:24:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -106,6 +106,20 @@ AI時代の低遅延・低消費電力なネットワークの設計指針がITU
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Residents experiencing internet outage in town - Dorset Echo</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQNndVa01lWnVKOXpsX2RfcnFjTHgtcG1MR295QVNqd0QtazlKUTAyejVONzA1d19paEhvSlkxYUw0M01qQlVUeGhMdDZVNnFxY0ZDVTRUMlVZVGtPR05tUHREb1AxZkxIN01hZmo5RnZCdjQ2NnRCblhPTXdJRmVsZnRXeU9OTGROdHdDN3EzVTNMUGxOSWhZR2puSTZ4Zw?oc=5</link>
+      <guid isPermaLink="false">53c6f32bed0b66177fc53fe6</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-20 00:04
+Residents experiencing internet outage in town Dorset Echo</description>
+      <pubDate>Sat, 22 Aug 2026 18:46:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T18:46:56.900732Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T15:04:09Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] JBVNL removes illegal fibre cables in Ranchi, causes internet outage - The Times of India</title>
       <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVdvd21BMDVuQ1c1WGgzay0xQjhoX3NMSXJOM3d2akJhejdUOC1ncXpBdWdpOU85ckZsSmdWT1F5TTRTSE9ZWW5pT0dwVlJvLUlrdUZhLV8tdXZzNkZyczgxTURjRmxleVZaNXNKQTI3Z0p1cHBXWXBfQ2FDbEZDNU5UaFVxYjJyVWtFVk1FYkh0WVNEbEkxWjgydGlZU0ZsM1JWR3N2MnZjNmFJeW8yc25PWFFxdmFPTGVQSUdmUUV5WW9nMzQzTTB4S1FCR085RDR5Qm9LZ0_SAd4BQVVfeXFMTmcwX19ZeUVLbVJpSHFZSHZGa0RWaXA0OEtVdWZtcTh2UUFSZDFpczAwdWx5Uml4c0dYOXhHNU9iVzBmczlmQ1lIWEpqdjQxRzMyNGx3SkQyalFQWkdrcEdkbjRsejBOUnphZ3RLWkRoMXdrOXZxR2dWXzlsYVFSVWp4VE83MGtUZ2xGYXpfNW53VjFDUkxtQlpnUm5PUFVVV21QazQtQ0NYVjRsZjZ1aF9SaEN4Rk5ENTVURDAzUDhjMTVWSTJXWmFmZmxRYXRKdXNUWi1PbVR0bkZ1ZmdB?oc=5</link>
       <guid isPermaLink="false">d8cccdd442241ba958cdef3a</guid>
@@ -130,20 +144,6 @@ Residents experiencing internet outage in town Bridport News</description>
       <pubDate>Wed, 19 Aug 2026 18:50:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-19T18:50:59.360971Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
-      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 13:20
-Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
-      <pubDate>Sat, 22 Aug 2026 09:57:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-22T09:57:38.812985Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
