@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 03:53:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 04:46:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum internet outage impacting customers in San Benito County - KSBW</title>
@@ -32,6 +32,20 @@ Fiber optic damage results in Friday internet outage in South Valley Gilroy Disp
       <pubDate>Sat, 22 Aug 2026 03:05:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-22T03:05:54.034904Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-22T02:09:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Ultra-Low Latency Audio Feed of Rangers Sports Network Radio Broadcasts Now Available at Globe Life Field via the BZZR App - MLB.com</title>
+      <link>https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjFIZDg4d3hWNmpldTJaZzlpWjQwUXRXcmtPXzA5Ui1QRlE4WGQ4NVU0WFhMUXhIQjNtd2ROa2hvODRwcXF5QmJsbDdNeWdzQ0VXTy1QMURxQ0dWRkhqUWwwRi1Tb2pRT0o0cXR4Z2NKeHZBQVIxRVpMd2wxTVQwY0hlUzBJRzh3d25ubWtUdzBzSkl4YUJuTEIwNWlvNzB4QkVBZldDVTI3LTdlNUFZZHd3WFFJM1dMdkl2RXotazZqaFIteG1POVdUbFdQYWhDVTMyLXBuQm90dDJmSnRZaHFLVXplRG5IWjJhV19VamV3U0ZyU0dENmF1NkJLVlHSAYsCQVVfeXFMTXZDRU1yWTE5UGxPajltM0FEOW8zdGQwME5rbUo5VTNNOGhmUU1fYkZqRTNVbG41VHFjd2hvWjQ4TEpxeXJqTVhJZG1RUTdmMl9fT19nOGw1MUFVMDNES3dmdGRQMlBrRVZQM2p2Z1lhT0U0OU5iS19iRDZ6cjlZN0hwSG45Um5IRGN4TEpkSG8tQnowNnllNlFOMkFIS2lfak5sdzRNbHJTT2luYXFCT2w4RXhIbGFGSzVZSHRPRkljV0ZGY2tMOEdDQWxmQVJha25icjJZaVY4U3ZPVlYwemtaQ1pQd2NDRW42QjlURXJIOVZfaTc0cHV6ak43UWdzYXdHeFQ2ZDZrSTNn?oc=5</link>
+      <guid isPermaLink="false">1c83b4a9a96469fa4c5d0250</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-21 04:39
+Ultra-Low Latency Audio Feed of Rangers Sports Network Radio Broadcasts Now Available at Globe Life Field via the BZZR App MLB.com</description>
+      <pubDate>Sat, 22 Aug 2026 04:46:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T04:46:55.324398Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-20T19:39:17Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -64,20 +78,6 @@ Residents experiencing internet outage in town Bridport News</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5</link>
-      <guid isPermaLink="false">05b6e914281316d618e8fb69</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 13:20
-Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</description>
-      <pubDate>Fri, 21 Aug 2026 20:38:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-21T20:38:22.237057Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T04:20:57Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 - digital-construction.jp</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yY3lmZF9ucXJ1RHlHeHlwZWhNQWdSeldzT2JucXZ5c21NM3Ytak13N21JQ2pXdk5tTm00X29ENVZNZ25qQVdMV240SzVDS2I4bTBN?oc=5</link>
       <guid isPermaLink="false">01dee69f33a1f7fde03f2d56</guid>
@@ -88,6 +88,20 @@ KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワー�
       <pubDate>Fri, 21 Aug 2026 05:45:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-21T05:45:48.458649Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-21T02:34:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ - AGARA紀伊民報</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5V3RuZDVRNmgxYU9sM0NIUFpGbWFDWjlyNFRKS3dPMXFRVW1EeTFJUEhmMzlNV1FCb2VhWDNBS0cxT0g0RFpraFJORFE0RC1G?oc=5</link>
+      <guid isPermaLink="false">33439a26b875dfddd3c05dfe</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-21 10:06
+AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ AGARA紀伊民報</description>
+      <pubDate>Sat, 22 Aug 2026 04:46:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T04:46:55.324398Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-21T01:06:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -131,20 +145,6 @@ Gramercy Networks、低遅延のグローバル金融ネットワーク構想を
       <sqm:firstSeenDate>2026-08-22T01:48:02.565102Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T09:50:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
-      <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-19 03:25
-Russia has experienced a massive internet outage, with thousands of complaints from users Українські Національні Новини (УНН)</description>
-      <pubDate>Sat, 22 Aug 2026 03:53:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-22T03:53:34.957831Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>
