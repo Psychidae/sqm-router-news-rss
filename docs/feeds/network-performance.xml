@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:48:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 - digital-construction.jp</title>
@@ -18,20 +18,6 @@ KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワー�
       <pubDate>Fri, 21 Aug 2026 05:45:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-21T05:45:48.458649Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-21T02:34:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 - KDDI ニュースルーム</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1EWEpieDJwUUsxN0F6QWxzRkhOQjREN2d1SmFSMk9RS0R4V0lycTYybXBJV0RyT0pYZC1jYU53TERtMEV6cGk2cEcxUjczWmZqeWtWSXlCVDFMUkd5LXJlaFRXajFEb3k1U25EMg?oc=5</link>
-      <guid isPermaLink="false">2d06c67ad7dc3aebff9673fd</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-21 10:00
-AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 KDDI ニュースルーム</description>
-      <pubDate>Fri, 21 Aug 2026 07:04:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-21T07:04:57.331223Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-21T01:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -78,6 +64,62 @@ Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru</de
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ - AGARA紀伊民報</title>
+      <link>https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5V3RuZDVRNmgxYU9sM0NIUFpGbWFDWjlyNFRKS3dPMXFRVW1EeTFJUEhmMzlNV1FCb2VhWDNBS0cxT0g0RFpraFJORFE0RC1G?oc=5</link>
+      <guid isPermaLink="false">33439a26b875dfddd3c05dfe</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-21 10:06
+AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ AGARA紀伊民報</description>
+      <pubDate>Sat, 22 Aug 2026 01:48:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T01:48:02.565102Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-21T01:06:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 - KDDI ニュースルーム</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE1EWEpieDJwUUsxN0F6QWxzRkhOQjREN2d1SmFSMk9RS0R4V0lycTYybXBJV0RyT0pYZC1jYU53TERtMEV6cGk2cEcxUjczWmZqeWtWSXlCVDFMUkd5LXJlaFRXajFEb3k1U25EMg?oc=5</link>
+      <guid isPermaLink="false">2d06c67ad7dc3aebff9673fd</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-21 10:00
+AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 KDDI ニュースルーム</description>
+      <pubDate>Fri, 21 Aug 2026 07:04:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-21T07:04:57.331223Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-21T01:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ハティン省は、2030年までにIPv6の利用率を90%以上に引き上げることを目指している。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVdtWXFnRFk1TWVpN0huaGxrZWc1TFZpbGF5Y1NPcFR3M0R2Rzd1b3dnQzREbHpsZFBrbmN1Z19IaVdlQ2gzWEJvOTRpNjRXYmFxQ0haenNBZGNIbG1Hbm9pRUhucDk2M1p4Ym84a05WOHZ0THBUbjFaUmIwN2VFSjdMdVY3RmFIRjhSRFJKREFWQlRG?oc=5</link>
+      <guid isPermaLink="false">d5143725966abe3daf75dd72</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-20 04:57
+ハティン省は、2030年までにIPv6の利用率を90%以上に引き上げることを目指している。 Vietnam.vn</description>
+      <pubDate>Sat, 22 Aug 2026 01:48:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T01:48:02.565102Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T19:57:41Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 - Data Center Cafe</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGwxbjVqaFVIbDlZb0tPcm1qZ3dUVTRWYi0wakZrWjJJYUJlU1dXdElhSmN6bUdYSDVLcEIxTm5BUXhMaDhBLVlnM2VnRTlOMzBicjd4SHNRbU40TzJjdnUwdnF5ZDVjWV9sYWd0TG5LdndSaGxHQURtZmQ3bGVIc1E3OTNNajFNRGs0VlEwQXE5Uk03dDM5Sjh0NG51cUZSREVrSg?oc=5</link>
+      <guid isPermaLink="false">739c784c5de2a7bcf8f75142</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-19 18:50
+Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 Data Center Cafe</description>
+      <pubDate>Sat, 22 Aug 2026 01:48:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-22T01:48:02.565102Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T09:50:52Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Rogers Internet Outage in Richmond Hits Day Two After Fibre Cut - iPhone in Canada</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUDZMOVJyWXZPRUE1WFhlRDZtYjREbUtuY0t1NWdBM3hMRUF0Ykw4NzZlSmFPNVNONXI4V09idTlTbGRxWlgwVk1YS3VwcUdtRF82VVlhMC03XzZncmU2ZTNBU2dDZFhEMC1zNE54c1NhSE5iZzAtbkFiZW56dmVJUG56T1NQcko5Wm4wZXc5a0NURTdOMnRrNk9tZktNUFVRb1Q4NUJoOUM?oc=5</link>
       <guid isPermaLink="false">5daea14fc89a32ed15db01b8</guid>
@@ -102,20 +144,6 @@ Russia has experienced a massive internet outage, with thousands of complaints f
       <pubDate>Tue, 18 Aug 2026 19:55:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-18T19:55:50.828706Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-18T18:25:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Town of Independence reports internet outage - WBRZ</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBBU0oyMk9HVS1ORzQxbkpXa1RCUEV1MUI1SERQZFZrenRsUzZGOE5vdzlJVGVtMnlzZnB4QlBPMWdGSVFvOTlDcmlITWNhMDBJMzVMZjBHQkVydDM4TDZhcUFqWlI0TWdCQm9zYzhwLXNsbnh2c3dFRkwySQ?oc=5</link>
-      <guid isPermaLink="false">69ccda195f8ce345b10bc4c6</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-18 04:49
-Town of Independence reports internet outage WBRZ</description>
-      <pubDate>Fri, 21 Aug 2026 23:57:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-21T23:57:45.292671Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-17T19:49:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
