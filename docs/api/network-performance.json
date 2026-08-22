@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-22T08:45:18.717311Z",
+  "generated_at": "2026-08-22T09:03:14.602971Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -42,17 +42,6 @@
       "score": 8
     },
     {
-      "id": "53c6f32bed0b66177fc53fe6",
-      "title": "Residents experiencing internet outage in town - Dorset Echo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNndVa01lWnVKOXpsX2RfcnFjTHgtcG1MR295QVNqd0QtazlKUTAyejVONzA1d19paEhvSlkxYUw0M01qQlVUeGhMdDZVNnFxY0ZDVTRUMlVZVGtPR05tUHREb1AxZkxIN01hZmo5RnZCdjQ2NnRCblhPTXdJRmVsZnRXeU9OTGROdHdDN3EzVTNMUGxOSWhZR2puSTZ4Zw?oc=5",
-      "summary": "Residents experiencing internet outage in town Dorset Echo",
-      "published_at": "2026-08-19T15:04:09Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "d8cccdd442241ba958cdef3a",
       "title": "JBVNL removes illegal fibre cables in Ranchi, causes internet outage - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVdvd21BMDVuQ1c1WGgzay0xQjhoX3NMSXJOM3d2akJhejdUOC1ncXpBdWdpOU85ckZsSmdWT1F5TTRTSE9ZWW5pT0dwVlJvLUlrdUZhLV8tdXZzNkZyczgxTURjRmxleVZaNXNKQTI3Z0p1cHBXWXBfQ2FDbEZDNU5UaFVxYjJyVWtFVk1FYkh0WVNEbEkxWjgydGlZU0ZsM1JWR3N2MnZjNmFJeW8yc25PWFFxdmFPTGVQSUdmUUV5WW9nMzQzTTB4S1FCR085RDR5Qm9LZ0_SAd4BQVVfeXFMTmcwX19ZeUVLbVJpSHFZSHZGa0RWaXA0OEtVdWZtcTh2UUFSZDFpczAwdWx5Uml4c0dYOXhHNU9iVzBmczlmQ1lIWEpqdjQxRzMyNGx3SkQyalFQWkdrcEdkbjRsejBOUnphZ3RLWkRoMXdrOXZxR2dWXzlsYVFSVWp4VE83MGtUZ2xGYXpfNW53VjFDUkxtQlpnUm5PUFVVV21QazQtQ0NYVjRsZjZ1aF9SaEN4Rk5ENTVURDAzUDhjMTVWSTJXWmFmZmxRYXRKdXNUWi1PbVR0bkZ1ZmdB?oc=5",
@@ -75,22 +64,22 @@
       "score": 8
     },
     {
-      "id": "01dee69f33a1f7fde03f2d56",
-      "title": "KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 - digital-construction.jp",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yY3lmZF9ucXJ1RHlHeHlwZWhNQWdSeldzT2JucXZ5c21NM3Ytak13N21JQ2pXdk5tTm00X29ENVZNZ25qQVdMV240SzVDS2I4bTBN?oc=5",
-      "summary": "KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 digital-construction.jp",
-      "published_at": "2026-08-21T02:34:36Z",
+      "id": "07a87b044d6d42a2ec5b3dac",
+      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 - 楽天モバイル株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MbFhQelE2ZmRSODVEaXRmVmxzTWZta0E2NUNqN0JLSTNrOUZDaW5hVkVQdlJDQWd5V05hRHRZbkVZZjZvV2FiVGRVRjN3bkFzLXplMWNIakRMcGQ2dWJ0Z1pVOHZuclVJS0E?oc=5",
+      "summary": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 楽天モバイル株式会社",
+      "published_at": "2026-08-21T03:52:46Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
       "score": 7
     },
     {
-      "id": "bcfd27fc0be8376290cc46ff",
-      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ - AGARA紀伊民報",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhcV9nS29zZUlZalBUS2xDNHN6M3hQYjdjQ0dERjBJbDE1R3NGX21vRTA4WE54Z0FRMDloMnhHaUJ2X29nRnNRZFNUaE1zX00?oc=5",
-      "summary": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 ～国内7社が連携し、オール光ネットワークのグローバルな普及を推進～ AGARA紀伊民報",
-      "published_at": "2026-08-21T01:06:00Z",
+      "id": "01dee69f33a1f7fde03f2d56",
+      "title": "KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 - digital-construction.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yY3lmZF9ucXJ1RHlHeHlwZWhNQWdSeldzT2JucXZ5c21NM3Ytak13N21JQ2pXdk5tTm00X29ENVZNZ25qQVdMV240SzVDS2I4bTBN?oc=5",
+      "summary": "KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 digital-construction.jp",
+      "published_at": "2026-08-21T02:34:36Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVdtWXFnRFk1TWVpN0huaGxrZWc1TFZpbGF5Y1NPcFR3M0R2Rzd1b3dnQzREbHpsZFBrbmN1Z19IaVdlQ2gzWEJvOTRpNjRXYmFxQ0haenNBZGNIbG1Hbm9pRUhucDk2M1p4Ym84a05WOHZ0THBUbjFaUmIwN2VFSjdMdVY3RmFIRjhSRFJKREFWQlRG?oc=5",
       "summary": "ハティン省は、2030年までにIPv6の利用率を90%以上に引き上げることを目指している。 Vietnam.vn",
       "published_at": "2026-08-19T19:57:41Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "739c784c5de2a7bcf8f75142",
+      "title": "Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 - Data Center Cafe",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGwxbjVqaFVIbDlZb0tPcm1qZ3dUVTRWYi0wakZrWjJJYUJlU1dXdElhSmN6bUdYSDVLcEIxTm5BUXhMaDhBLVlnM2VnRTlOMzBicjd4SHNRbU40TzJjdnUwdnF5ZDVjWV9sYWd0TG5LdndSaGxHQURtZmQ3bGVIc1E3OTNNajFNRGs0VlEwQXE5Uk03dDM5Sjh0NG51cUZSREVrSg?oc=5",
+      "summary": "Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 Data Center Cafe",
+      "published_at": "2026-08-19T09:50:52Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
