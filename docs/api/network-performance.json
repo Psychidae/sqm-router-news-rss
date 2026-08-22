@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-22T18:46:56.901745Z",
+  "generated_at": "2026-08-22T19:05:56.489867Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -86,17 +86,6 @@
       "score": 7
     },
     {
-      "id": "53c6f32bed0b66177fc53fe6",
-      "title": "Residents experiencing internet outage in town - Dorset Echo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNndVa01lWnVKOXpsX2RfcnFjTHgtcG1MR295QVNqd0QtazlKUTAyejVONzA1d19paEhvSlkxYUw0M01qQlVUeGhMdDZVNnFxY0ZDVTRUMlVZVGtPR05tUHREb1AxZkxIN01hZmo5RnZCdjQ2NnRCblhPTXdJRmVsZnRXeU9OTGROdHdDN3EzVTNMUGxOSWhZR2puSTZ4Zw?oc=5",
-      "summary": "Residents experiencing internet outage in town Dorset Echo",
-      "published_at": "2026-08-19T15:04:09Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "d8cccdd442241ba958cdef3a",
       "title": "JBVNL removes illegal fibre cables in Ranchi, causes internet outage - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeVdvd21BMDVuQ1c1WGgzay0xQjhoX3NMSXJOM3d2akJhejdUOC1ncXpBdWdpOU85ckZsSmdWT1F5TTRTSE9ZWW5pT0dwVlJvLUlrdUZhLV8tdXZzNkZyczgxTURjRmxleVZaNXNKQTI3Z0p1cHBXWXBfQ2FDbEZDNU5UaFVxYjJyVWtFVk1FYkh0WVNEbEkxWjgydGlZU0ZsM1JWR3N2MnZjNmFJeW8yc25PWFFxdmFPTGVQSUdmUUV5WW9nMzQzTTB4S1FCR085RDR5Qm9LZ0_SAd4BQVVfeXFMTmcwX19ZeUVLbVJpSHFZSHZGa0RWaXA0OEtVdWZtcTh2UUFSZDFpczAwdWx5Uml4c0dYOXhHNU9iVzBmczlmQ1lIWEpqdjQxRzMyNGx3SkQyalFQWkdrcEdkbjRsejBOUnphZ3RLWkRoMXdrOXZxR2dWXzlsYVFSVWp4VE83MGtUZ2xGYXpfNW53VjFDUkxtQlpnUm5PUFVVV21QazQtQ0NYVjRsZjZ1aF9SaEN4Rk5ENTVURDAzUDhjMTVWSTJXWmFmZmxRYXRKdXNUWi1PbVR0bkZ1ZmdB?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXYwZGxvR0tuTml0OHl1OWJIcGRxejJJSFJHYURhdjlWSERUamYwSDNMemp5aG82OVphZ0p2bDBiQXVMUFlRSWVoZUlrQXJRbEZjaW9PTkZFMzAxcTk1aHVQcUxNR2FaMUc1Vm96Z29aYTlKbGJUTGxXUDdvdEhYMUtEeUxMeFpyTFdrVGNGRlNXSGVudVZoTlVHc2RyTVFa?oc=5",
       "summary": "Residents experiencing internet outage in town Bridport News",
       "published_at": "2026-08-19T13:13:01Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "05b6e914281316d618e8fb69",
+      "title": "Massive Internet Outage Occurred in Russia: What Could Be the Cause? - www1.ru",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0tjdlhDa01XOFBqcTNsOTVjTlF4Tk9NM1pnRzQ1Ung5WmlkQkJtN0tyVHBEOEdiU1VlYnhQWlZPYkRwYTVUWnBzMVlRNy1CUTZFb19TMEFVUks2N21nV3o4S29RSVl3SGhkVlU3MndYdkVZVkpGR3RuYzFOeXo2QkRqUlBiRGV2QTNsUjRmZjByd2Y2UURQVkdud1VQc0FBdWtPYnRsV1ZHQXB1WVJvYXRGd9IBuAFBVV95cUxOc0plLTB4WnM0cTY3TGktR3lqSFdESkxLX0pyNk1JYUlCRjJLaGNobG9tNDRESHFvTWNDUU5fSjJGdjZwTVZmOE5lSDNiR2RoT2pZTFlNZ1d4Wjg3dC00c1pWOElpRnM4cGU1bFJObjN2bnpyNFcwOHJiNjZwZ1BJNEJEVGhodnVPZEV4akpiSER1U1hnai1BVjV1b3ZGMzA3TTJwTFdPM1FYWkJQNERIem1pdC1pRmRW?oc=5",
+      "summary": "Massive Internet Outage Occurred in Russia: What Could Be the Cause? www1.ru",
+      "published_at": "2026-08-19T04:20:57Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
