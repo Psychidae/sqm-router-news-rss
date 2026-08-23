@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 14:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:58:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Spectrum internet outage impacting customers in San Benito County - KSBW</title>
@@ -92,6 +92,20 @@ AI時代の低遅延・低消費電力なネットワークの設計指針がITU
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Residents experiencing internet outage in town - Bridport News</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXYwZGxvR0tuTml0OHl1OWJIcGRxejJJSFJHYURhdjlWSERUamYwSDNMemp5aG82OVphZ0p2bDBiQXVMUFlRSWVoZUlrQXJRbEZjaW9PTkZFMzAxcTk1aHVQcUxNR2FaMUc1Vm96Z29aYTlKbGJUTGxXUDdvdEhYMUtEeUxMeFpyTFdrVGNGRlNXSGVudVZoTlVHc2RyTVFa?oc=5</link>
+      <guid isPermaLink="false">cab5d0808cafe6be85de753e</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-19 22:13
+Residents experiencing internet outage in town Bridport News</description>
+      <pubDate>Sun, 23 Aug 2026 14:58:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-23T14:58:26.433408Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-19T13:13:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Russia has experienced a massive internet outage, with thousands of complaints from users - Українські Національні Новини (УНН)</title>
       <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMy1qVUx0a01oeElQVnBueUJZTXV6dGpfdTZfZ3Y3ZVZSZEZ3bmUyS000eUV3NUlsaDRFTlVOYUk1WlVmZXpEWmZINGNCTXQ1bUdKejVha3ZmLU9ZMlN6WllLc2Q4SWllWVhuQzFmZGVyaGNDUUFpcHlpbkM3Rm9HTmNNMkZ2TllMV3pBX01fYmFZSTJWVGhraFRFQ0xwSU5xQWhiVGczbnpiTlHSAaoBQVVfeXFMT0lBMUJLaHNsNC1RRDZIRXc2T0pmcDFXVVh0SC1HNlIydG1VVXJEREpZdjdoQUJEdjlSSF9rdDFTeGctQzIybmxNTFdnMlpGMXlRRHF3ajI1Y01XZkRKLWN2dHJXTGFaWE9ENnp6Znp1dl9UaHFLUHpETGJPSlRsM2JnY1ZKV3RTSVVGd29kaWg1Zmx3VUZpZDJhMlowUmtmd3FhRFUtZ0x1aUE?oc=5</link>
       <guid isPermaLink="false">a5599b625c70994c096e52f7</guid>
@@ -130,20 +144,6 @@ Town of Independence reports internet outage WBRZ</description>
       <pubDate>Sun, 23 Aug 2026 13:43:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-23T13:43:48.452424Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T19:57:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 - Data Center Cafe</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGwxbjVqaFVIbDlZb0tPcm1qZ3dUVTRWYi0wakZrWjJJYUJlU1dXdElhSmN6bUdYSDVLcEIxTm5BUXhMaDhBLVlnM2VnRTlOMzBicjd4SHNRbU40TzJjdnUwdnF5ZDVjWV9sYWd0TG5LdndSaGxHQURtZmQ3bGVIc1E3OTNNajFNRGs0VlEwQXE5Uk03dDM5Sjh0NG51cUZSREVrSg?oc=5</link>
-      <guid isPermaLink="false">739c784c5de2a7bcf8f75142</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-19 18:50
-Gramercy Networks、低遅延のグローバル金融ネットワーク構想を発表 Data Center Cafe</description>
-      <pubDate>Sun, 23 Aug 2026 13:43:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-23T13:43:48.452424Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-19T09:50:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
