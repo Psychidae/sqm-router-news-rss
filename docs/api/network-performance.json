@@ -1,24 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-24T18:57:10.723043Z",
+  "generated_at": "2026-08-24T19:41:50.655901Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 9,
   "errors": [],
   "items": [
-    {
-      "id": "3bf186b34efe5542e2786db3",
-      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 企業リリース - 日刊工業新聞",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzR05qUzhIYXlKWEJvS1hLQVRwS082ckNTVjdIZXpVTUt2SjUyUzRpMS1ValR1SzM4SVJlWHJTMUZuWWJzUWxLOEUtTzFMLUpGZXhFTzUtWm8?oc=5",
-      "summary": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 企業リリース 日刊工業新聞",
-      "published_at": "2026-08-24T15:27:23Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
     {
       "id": "1dba9da6c9e094bcf1ffdf71",
       "title": "Spectrum internet outage impacting customers in San Benito County - KSBW",
@@ -80,6 +69,17 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yY3lmZF9ucXJ1RHlHeHlwZWhNQWdSeldzT2JucXZ5c21NM3Ytak13N21JQ2pXdk5tTm00X29ENVZNZ25qQVdMV240SzVDS2I4bTBN?oc=5",
       "summary": "KDDI・NTT・NECら7社、AI時代の低遅延・低消費電力ネットワークの設計指針がITU-Tで国際標準化。オール光ネットワークの普及を推進 digital-construction.jp",
       "published_at": "2026-08-21T02:34:36Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "2d06c67ad7dc3aebff9673fd",
+      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 - KDDI ニュースルーム",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EWEpieDJwUUsxN0F6QWxzRkhOQjREN2d1SmFSMk9RS0R4V0lycTYybXBJV0RyT0pYZC1jYU53TERtMEV6cGk2cEcxUjczWmZqeWtWSXlCVDFMUkd5LXJlaFRXajFEb3k1U25EMg?oc=5",
+      "summary": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化 KDDI ニュースルーム",
+      "published_at": "2026-08-21T01:00:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
