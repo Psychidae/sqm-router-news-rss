@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-25T22:42:37.428136Z",
+  "generated_at": "2026-08-25T23:01:31.299881Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -64,17 +64,6 @@
       "score": 17
     },
     {
-      "id": "c632c479d4e9345aaf28f594",
-      "title": "NETGEAR、Wi-Fi 7対応のクラウド管理型AP「WBE700」を発売。2.5G PoE+搭載、最大75台の同時接続に対応 - corriente.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80dUlEc2FLWVlQR203MWhEUGRoTG5pNFNFOWJQUVJlQTdtSllMVHEtR295MFpXcWwxbVlFRGhURTdadzl0cVJ3MW1rV0RIaDNEd2N0Y9IBWkFVX3lxTE1DWXNPeDZJOWYtSFN1ZDQzMFJmRFNKWjh0bE5FeF9lLWI5c3hDcFkza0JZazBMa0hOSm9SUzZHTFIxWXVza2R6ZmNUdUxwV0JrdlpZcl9MNTQ2dw?oc=5",
-      "summary": "NETGEAR、Wi-Fi 7対応のクラウド管理型AP「WBE700」を発売。2.5G PoE+搭載、最大75台の同時接続に対応 corriente.jp",
-      "published_at": "2026-08-20T03:45:12Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
       "id": "ccecffc0b548a0090b0fdd72",
       "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Mm92MmNOTk1ELXIwLWVIdjE2Y3NrLWRvdGFzT2E4ZGQwc3lPaGs3Rjc2UXYxaFFHYmlaN1VnZ0NETGgyOERhRXVFZmt3b00yQVBINnhUeUpnT3FuUEJWRkhRLU1sUXY3dV9HdHJTVDdyeEx1QzcwNGlB?oc=5",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
+    },
+    {
+      "id": "e54b447722a042e6bb740a87",
+      "title": "NEC「Aterm」シリーズのWi-Fiルーターが暮らし応援夏祭りSaleに Wi-Fi 6E対応「AM-AX5400T6」は2万4730円 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PZG5oWVpOMzhvd1lRRDF3LUZNOFhCdEZiSC1xT2RKUVBaenpwb0pmc3gwSVNyTDZRUkhPTEJYU3JLUXhBV0NqR0tsOFJncDFkb0NDRF9MUTJkWjVKdGtkdjNCRDhjWENzazEwYUZqdW4?oc=5",
+      "summary": "NEC「Aterm」シリーズのWi-Fiルーターが暮らし応援夏祭りSaleに Wi-Fi 6E対応「AM-AX5400T6」は2万4730円 INTERNET Watch",
+      "published_at": "2026-08-25T02:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     }
   ]
 }
