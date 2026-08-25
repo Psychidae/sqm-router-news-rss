@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:43:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Unpatched Calix router vulnerability allows remote attackers to expose home networks - SC Media</title>
+      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2U2ZmtIWjBON3IxSUdpTkFiMXFMaTJQeHY5Mk5Ua2hPMlIzdXQxXzZ5R0c5WFBmOFQ2NmFPZjRabGlxdXczTE93VDdzRmRHYkxiMU5YczY0ZXlFSXljQ0Z5c09Obk96UDJsQUxzcEZ1dl9CTi1zS1Q2RDA2VTZiSHdPWFJhSTdkR01vY0ZHcC1lVEUzQXFHNkRuZ1FCcWhTRTBpem12bWQzV0dEeG8zUHhkcnk?oc=5</link>
+      <guid isPermaLink="false">b378b5a789fb43eee931d328</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-08-25 22:28
+Unpatched Calix router vulnerability allows remote attackers to expose home networks SC Media</description>
+      <pubDate>Tue, 25 Aug 2026 20:43:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-25T20:43:30.178316Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-25T13:28:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] ＩＴ産業の基盤となる化合物半導体製品を製造するDOWAセミコンダクター秋田株式会社が、脆弱性管理クラウド「yamory」を導入 - ニコニコニュース</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE40Nlo4ZnlTSnV2RzBWTUROMFhOYmN1YUNCOHQwVmlPa1p4U1FJWmd4NTNlOElzajd2Z0FpejhFV0RzNU1nSHp0SUlUcEV1djlfSk5QLWVlN2pIWnZGbW9qcUlZdnBEaGZhSnZ6YU9MVFFnVlJxY0szNWNTaw?oc=5</link>

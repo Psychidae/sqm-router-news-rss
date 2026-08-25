@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-25T20:00:11.169594Z",
+  "generated_at": "2026-08-25T20:43:30.178853Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "b378b5a789fb43eee931d328",
+      "title": "Unpatched Calix router vulnerability allows remote attackers to expose home networks - SC Media",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2U2ZmtIWjBON3IxSUdpTkFiMXFMaTJQeHY5Mk5Ua2hPMlIzdXQxXzZ5R0c5WFBmOFQ2NmFPZjRabGlxdXczTE93VDdzRmRHYkxiMU5YczY0ZXlFSXljQ0Z5c09Obk96UDJsQUxzcEZ1dl9CTi1zS1Q2RDA2VTZiSHdPWFJhSTdkR01vY0ZHcC1lVEUzQXFHNkRuZ1FCcWhTRTBpem12bWQzV0dEeG8zUHhkcnk?oc=5",
+      "summary": "Unpatched Calix router vulnerability allows remote attackers to expose home networks SC Media",
+      "published_at": "2026-08-25T13:28:56Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "77e5f164a8cbae8a6c6535ec",
       "title": "ＩＴ産業の基盤となる化合物半導体製品を製造するDOWAセミコンダクター秋田株式会社が、脆弱性管理クラウド「yamory」を導入 - ニコニコニュース",
