@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-08-24T23:56:22.032207Z",
+  "generated_at": "2026-08-25T01:49:57.754371Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "1c83b4a9a96469fa4c5d0250",
-      "title": "Ultra-Low Latency Audio Feed of Rangers Sports Network Radio Broadcasts Now Available at Globe Life Field via the BZZR App - MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjFIZDg4d3hWNmpldTJaZzlpWjQwUXRXcmtPXzA5Ui1QRlE4WGQ4NVU0WFhMUXhIQjNtd2ROa2hvODRwcXF5QmJsbDdNeWdzQ0VXTy1QMURxQ0dWRkhqUWwwRi1Tb2pRT0o0cXR4Z2NKeHZBQVIxRVpMd2wxTVQwY0hlUzBJRzh3d25ubWtUdzBzSkl4YUJuTEIwNWlvNzB4QkVBZldDVTI3LTdlNUFZZHd3WFFJM1dMdkl2RXotazZqaFIteG1POVdUbFdQYWhDVTMyLXBuQm90dDJmSnRZaHFLVXplRG5IWjJhV19VamV3U0ZyU0dENmF1NkJLVlHSAYsCQVVfeXFMTXZDRU1yWTE5UGxPajltM0FEOW8zdGQwME5rbUo5VTNNOGhmUU1fYkZqRTNVbG41VHFjd2hvWjQ4TEpxeXJqTVhJZG1RUTdmMl9fT19nOGw1MUFVMDNES3dmdGRQMlBrRVZQM2p2Z1lhT0U0OU5iS19iRDZ6cjlZN0hwSG45Um5IRGN4TEpkSG8tQnowNnllNlFOMkFIS2lfak5sdzRNbHJTT2luYXFCT2w4RXhIbGFGSzVZSHRPRkljV0ZGY2tMOEdDQWxmQVJha25icjJZaVY4U3ZPVlYwemtaQ1pQd2NDRW42QjlURXJIOVZfaTc0cHV6ak43UWdzYXdHeFQ2ZDZrSTNn?oc=5",
-      "summary": "Ultra-Low Latency Audio Feed of Rangers Sports Network Radio Broadcasts Now Available at Globe Life Field via the BZZR App MLB.com",
-      "published_at": "2026-08-20T19:39:17Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
