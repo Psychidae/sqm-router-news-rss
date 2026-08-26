@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 07:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:56:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware</title>
@@ -18,6 +18,20 @@ TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but averag
       <pubDate>Sun, 23 Aug 2026 12:59:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-23T12:59:48.610972Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-23T12:05:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0pwWlZ5bjJqLWdNc0o0Xzgwa1QyWDZQazNqZE5SRUJwVXFHbk1VSjNSLXpjOVVNNWxmejVpWDNQeXNkdWJZclZIUjRJQ3gySXpLQVluUG45b3YtV2NMcEc5R1NjeGlIWTZUNw?oc=5</link>
+      <guid isPermaLink="false">0b66ad858df9307afc7438d4</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-08-26 16:24
+D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet CyberShack</description>
+      <pubDate>Wed, 26 Aug 2026 07:56:49 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-26T07:56:49.891919Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-26T07:24:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -131,20 +145,6 @@ I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches wa
       <sqm:firstSeenDate>2026-08-26T04:03:25.615995Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-17T09:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh network in unmissable Amazon deal - PC Guide</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUtjdi1Tc25BVFdraWlGX3Ewb1k5UFZtd0hIcjZ1b2h2Ml92MlJ0N2lsYkJLRVJqU0JSNG1leVBtUUdjakd4aVpQSkhncGg2N1c3d2RVNmVlb3BwUGsxSFd4R2YwWWRqUHMzcG8xYjdNZFZhdU5Rd3Rlci13WGtHZ0k5LU5UZjhGMEdMaDRmNXBvRWYyempuemNhZDFKclVfQ21HeGxTZzVQTTdVUHgxX3ppWW1zYV9qemlsZEp0YmxyalpkeGk5eXcxWnFkU1pSVFhDc3JB?oc=5</link>
-      <guid isPermaLink="false">aa963c18abed2d16325f5837</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-24 02:39
-Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh network in unmissable Amazon deal PC Guide</description>
-      <pubDate>Wed, 26 Aug 2026 01:56:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-26T01:56:10.324597Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-23T17:39:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
