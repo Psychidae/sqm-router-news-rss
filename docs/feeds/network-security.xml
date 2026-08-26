@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 05:47:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:06:18 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Unpatched Calix router vulnerability allows remote attackers to expose home networks - SC Media</title>
@@ -19,6 +19,20 @@ Unpatched Calix router vulnerability allows remote attackers to expose home netw
       <sqm:firstSeenDate>2026-08-25T20:43:30.178316Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-25T13:28:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー69～72はZscalerやCato SASE Cloud【Tier付け】 - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVVQzRXhVYW1vS0dGaTN0WU4xZ2pGMEpqR1RFLW5jWE5aQ1pBclRLUm9INEtmUGZVOWQ0cm1JSFN4bmdpZGZydTZCVHU2ZE9vNmdFQWVnN2FtUDNiRERQREZRd09LUkkwSG4xZ0x1S0ZhcERvRkNpN2xDYw?oc=5</link>
+      <guid isPermaLink="false">0be61795d674d2997f26bccf</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-08-26 15:42
+いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー69～72はZscalerやCato SASE Cloud【Tier付け】 ニコニコニュース</description>
+      <pubDate>Wed, 26 Aug 2026 07:06:18 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-26T07:06:18.422337Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-26T06:42:12Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
