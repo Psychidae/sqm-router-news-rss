@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:47:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] ASUS、アンテナ内蔵のWi-Fi 7ルーター「RT-BE3600J Pro」を1万円台で発売 デュアル2.5GbE/4コアCPU搭載 - 24Wireless</title>
@@ -36,20 +36,6 @@ ASUS、アンテナ内蔵のWi-Fi 7ルーター「RT-BE3600J Pro」を1万円台
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1JIeXF0bGk3UjU2eEh6YVVneGIwbzU5SThRdnY3dDVkM0Z3bHJoLVZzbW55RnRpMjRELVd0TWduby1XNC1maFVtcGZPM2ZDLURHZ3JNOEU5cXlBR0k5TTJuR2RCZU1sbzFhck9wbFFpQUxTd2s3UzIwLXpQRnlFX0x30gGCAUFVX3lxTFBPUkh5cXRsaTdSNTZ4SHphVWd4YjBvNTlJOFF2djd0NWQzRndscmgtVnNtbnlGdGkyNEQtV3RNZ25vLVc0LWZoVW1wZk8zZkMtREdnck04RTlxeUFHSTlNMm5HZEJlTWxvMWFyT3BsUWlBTFN3azdTMjAtelBGeUVfTHc?oc=5</link>
-      <guid isPermaLink="false">c7cbaa5fed702715afde7698</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-08-24 12:00
-バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 ｄメニューニュース</description>
-      <pubDate>Tue, 25 Aug 2026 05:45:18 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-25T05:45:18.562662Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-24T03:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
       <title>[国内ルーター市場] バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 (BCN) - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tvSGFpeGVwMVUyLWs0RzFFVUxyNm1ITEVHY1VrWU1UTkZTbEJENFdfZUdRczF1eThPY2RVQ0hGVzZLd25CVDB5REtQWl8tN09SbVlONjNRbGtPcS1UNWZQWG5jMEdTcHF2aWlmQ2pmUFN1X0NkVGI1a19EQTlTQVlEN05RVklkWFFKSWJn?oc=5</link>
       <guid isPermaLink="false">b825646dbb02b63ac2776438</guid>
@@ -73,6 +59,20 @@ ASUS、アンテナ内蔵のWi-Fi 7ルーター「RT-BE3600J Pro」を1万円台
 バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 BCN Retail</description>
       <pubDate>Tue, 25 Aug 2026 08:57:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-25T08:57:26.378457Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-24T03:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - ｄメニューニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1JIeXF0bGk3UjU2eEh6YVVneGIwbzU5SThRdnY3dDVkM0Z3bHJoLVZzbW55RnRpMjRELVd0TWduby1XNC1maFVtcGZPM2ZDLURHZ3JNOEU5cXlBR0k5TTJuR2RCZU1sbzFhck9wbFFpQUxTd2s3UzIwLXpQRnlFX0x30gGCAUFVX3lxTFBPUkh5cXRsaTdSNTZ4SHphVWd4YjBvNTlJOFF2djd0NWQzRndscmgtVnNtbnlGdGkyNEQtV3RNZ25vLVc0LWZoVW1wZk8zZkMtREdnck04RTlxeUFHSTlNMm5HZEJlTWxvMWFyT3BsUWlBTFN3azdTMjAtelBGeUVfTHc?oc=5</link>
+      <guid isPermaLink="false">c7cbaa5fed702715afde7698</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-08-24 12:00
+バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 ｄメニューニュース</description>
+      <pubDate>Tue, 25 Aug 2026 05:45:18 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-25T05:45:18.562662Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-24T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>

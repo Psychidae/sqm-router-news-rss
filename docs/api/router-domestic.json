@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-26T04:53:41.377469Z",
+  "generated_at": "2026-08-26T05:47:41.078493Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,17 +31,6 @@
       "score": 17
     },
     {
-      "id": "c7cbaa5fed702715afde7698",
-      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1JIeXF0bGk3UjU2eEh6YVVneGIwbzU5SThRdnY3dDVkM0Z3bHJoLVZzbW55RnRpMjRELVd0TWduby1XNC1maFVtcGZPM2ZDLURHZ3JNOEU5cXlBR0k5TTJuR2RCZU1sbzFhck9wbFFpQUxTd2s3UzIwLXpQRnlFX0x30gGCAUFVX3lxTFBPUkh5cXRsaTdSNTZ4SHphVWd4YjBvNTlJOFF2djd0NWQzRndscmgtVnNtbnlGdGkyNEQtV3RNZ25vLVc0LWZoVW1wZk8zZkMtREdnck04RTlxeUFHSTlNMm5HZEJlTWxvMWFyT3BsUWlBTFN3azdTMjAtelBGeUVfTHc?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 ｄメニューニュース",
-      "published_at": "2026-08-24T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
-    {
       "id": "b825646dbb02b63ac2776438",
       "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 (BCN) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0tvSGFpeGVwMVUyLWs0RzFFVUxyNm1ITEVHY1VrWU1UTkZTbEJENFdfZUdRczF1eThPY2RVQ0hGVzZLd25CVDB5REtQWl8tN09SbVlONjNRbGtPcS1UNWZQWG5jMEdTcHF2aWlmQ2pmUFN1X0NkVGI1a19EQTlTQVlEN05RVklkWFFKSWJn?oc=5",
@@ -57,6 +46,17 @@
       "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uUzVYTThHSFI4TldVRnZPSFIxN2tXUmZxSnhOTmRVMDdhdWhsUGJLdU1mamZNcUJ0OXpXZDVNRkhRMC01Rmdkc2VJNlRRSmdDeUR2eW4tWWZGelBpRGVxdzhiVGZ1RFFuNHlDX1loa0d0RzRXNXc?oc=5",
       "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 BCN Retail",
+      "published_at": "2026-08-24T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 17
+    },
+    {
+      "id": "c7cbaa5fed702715afde7698",
+      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT1JIeXF0bGk3UjU2eEh6YVVneGIwbzU5SThRdnY3dDVkM0Z3bHJoLVZzbW55RnRpMjRELVd0TWduby1XNC1maFVtcGZPM2ZDLURHZ3JNOEU5cXlBR0k5TTJuR2RCZU1sbzFhck9wbFFpQUxTd2s3UzIwLXpQRnlFX0x30gGCAUFVX3lxTFBPUkh5cXRsaTdSNTZ4SHphVWd4YjBvNTlJOFF2djd0NWQzRndscmgtVnNtbnlGdGkyNEQtV3RNZ25vLVc0LWZoVW1wZk8zZkMtREdnck04RTlxeUFHSTlNMm5HZEJlTWxvMWFyT3BsUWlBTFN3azdTMjAtelBGeUVfTHc?oc=5",
+      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 ｄメニューニュース",
       "published_at": "2026-08-24T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
