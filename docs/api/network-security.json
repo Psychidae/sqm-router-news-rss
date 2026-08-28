@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-28T04:29:49.543408Z",
+  "generated_at": "2026-08-28T17:00:13.820654Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -9,21 +9,21 @@
   "errors": [],
   "items": [
     {
-      "id": "b378b5a789fb43eee931d328",
-      "title": "Unpatched Calix router vulnerability allows remote attackers to expose home networks - SC Media",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU2U2ZmtIWjBON3IxSUdpTkFiMXFMaTJQeHY5Mk5Ua2hPMlIzdXQxXzZ5R0c5WFBmOFQ2NmFPZjRabGlxdXczTE93VDdzRmRHYkxiMU5YczY0ZXlFSXljQ0Z5c09Obk96UDJsQUxzcEZ1dl9CTi1zS1Q2RDA2VTZiSHdPWFJhSTdkR01vY0ZHcC1lVEUzQXFHNkRuZ1FCcWhTRTBpem12bWQzV0dEeG8zUHhkcnk?oc=5",
-      "summary": "Unpatched Calix router vulnerability allows remote attackers to expose home networks SC Media",
-      "published_at": "2026-08-25T13:28:56Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "67ce1a871eb82f27c5354feb",
+      "title": "ネットワークセキュリティファイアウォール市場、2035年に約2.2兆円規模へ拡大か AI・次世代技術が成長を牽引 - サイバーセキュリティメディア",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1iSTVuUmlIVzY0WWt4cUpjNlFKY1BlWGNkZEcxQ0Z1YXl4OVdadWJ1N01aMk9FWlBLY2c?oc=5",
+      "summary": "ネットワークセキュリティファイアウォール市場、2035年に約2.2兆円規模へ拡大か AI・次世代技術が成長を牽引 サイバーセキュリティメディア",
+      "published_at": "2026-08-28T08:14:59Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 12
+      "score": 8
     },
     {
-      "id": "6eee35d36a9d35c2fe2fae89",
-      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ja2VyajNMSzdsZ19ZMjFWdVppRGFqaDZVekt3SzRGMVBUMjZPZFJ1Q1ZBWFQtWXhKWGQ1UkFZa28tUG5BM1dSTnNjX2pPTDg?oc=5",
-      "summary": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 アットプレス",
+      "id": "4d9b3e40e137e64aac612f8b",
+      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15dG4yYTZFMDJLQ2xvbDJhSEJYUUJiaF91RDdIY3p1clFKcVU4MEtjcVQ2cWthOUl4c2xvSDlRMDFQWkZKdDVSM3pTNFg?oc=5",
+      "summary": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 Newscast.jp",
       "published_at": "2026-08-28T04:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -31,22 +31,22 @@
       "score": 8
     },
     {
+      "id": "0be61795d674d2997f26bccf",
+      "title": "いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー69～72はZscalerやCato SASE Cloud【Tier付け】 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVVQzRXhVYW1vS0dGaTN0WU4xZ2pGMEpqR1RFLW5jWE5aQ1pBclRLUm9INEtmUGZVOWQ0cm1JSFN4bmdpZGZydTZCVHU2ZE9vNmdFQWVnN2FtUDNiRERQREZRd09LUkkwSG4xZ0x1S0ZhcERvRkNpN2xDYw?oc=5",
+      "summary": "いま本当に使えるSaaS 100選【情シス・セキュリティ編】 エントリー69～72はZscalerやCato SASE Cloud【Tier付け】 ニコニコニュース",
+      "published_at": "2026-08-26T06:42:12Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
       "id": "790fca9109fe183be7309081",
       "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
       "summary": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず ScanNetSecurity",
       "published_at": "2026-08-23T23:05:05Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "8181b2a2a8cf63a9e03aa2f8",
-      "title": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlRng0dlhDSFBTRUhmTVJjMG8wWDk2b0laNXV4NVJYNW94bFdsa2hnT0p4ZmdWYlpIRGowbEFxeVdLX0F1QW8wSUs4NVY2cmhNSElwcXBnQXA4Wnc4S0s5SFB1QnkzNDlLS1VENzdZaFBlZkM4M3VfQ1J3aTVFU28?oc=5",
-      "summary": "NECのルーター「UNIVERGE IX-R/IX-V」シリーズに深刻な脆弱性、対策済みソフトウェアに更新を（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-08-21T07:37:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
