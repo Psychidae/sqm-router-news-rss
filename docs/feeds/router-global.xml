@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 17:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 00:57:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware</title>
@@ -78,6 +78,20 @@ I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches wa
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts - Dong Knows Tech</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFAzc2VNOVptUWpPN1lTX1dvZk82MmhQZ2dDVGJ3Y1NBS05DY3JlSm8ycVZqNERkV05SMzl0Tmo1RDdLV0NjX2g1dDJSMWtDSFJ0SDZTdm1lNGpfOXY4RGtwUjJsQ3poQ0FsMkJrMDJxVEV5SU85bk9UQ0E0bw?oc=5</link>
+      <guid isPermaLink="false">2bedadd9deca5f6a4e41ad36</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-27 07:46
+ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts Dong Knows Tech</description>
+      <pubDate>Sat, 29 Aug 2026 00:57:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-29T00:57:36.594795Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-26T22:46:10Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - RTINGS.com</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5</link>
       <guid isPermaLink="false">88fc21b4c5b189b1c1598b3a</guid>
@@ -130,20 +144,6 @@ Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet?
       <pubDate>Thu, 27 Aug 2026 00:46:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-27T00:46:53.555553Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-23T14:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Wi-Fi 7's WPA3 protections come with a compatibility catch - The Register</title>
-      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpqbFNVdjRvQktheUhuOWhQQWFSTjZhN2oxUUY0endfTVVvUkc5TFY2bXZzaW51Rm1yVGpXUW1scjZ3djZEVnBXOGVhREVZdzFETUxib1lsR3NpdFZETkJMVEw3NEt6dTFQSE9WMDJ0LUdJTXlpVFR5bWpDLXRJS012SkZwOEV4ZHVQMjB1M1l5Ym9sT09kT0hiZ2c0SEgyeHhCaWxVVHdVelI4LS1VMlh1TQ?oc=5</link>
-      <guid isPermaLink="false">3bd93a9e32f119a1f0521ba8</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-21 18:14
-Wi-Fi 7's WPA3 protections come with a compatibility catch The Register</description>
-      <pubDate>Thu, 27 Aug 2026 10:35:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-27T10:35:15.127233Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-21T09:14:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
