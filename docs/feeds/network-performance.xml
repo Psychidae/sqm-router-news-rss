@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 05:48:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE5zWHRJZ2gyYjE5WkRvZ2NYdjlZQTVNWnN0SnhQb1pfbEJzdXppRGFJcFZOUFdNTGxIbUkwbGNmMVZacE5UdDM1TmVGZVB3RVUwU3NkaWpsQmhTWjRLWHphT1FJajU5TXJnQy1BaDRONm1WYUtxVG1jcUF0NA?oc=5</link>
+      <guid isPermaLink="false">324ced75e42c500940a99ef0</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-08-30 12:12
+サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える ニコニコニュース</description>
+      <pubDate>Sun, 30 Aug 2026 05:48:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-30T05:48:11.952848Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-30T03:12:15Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] LINX, JPIX go live with London-to-Tokyo low latency connectivity - Computer Weekly</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPazRKTzZzSDhlRWtqY0pWU3V0anRfX0J2NzFuRlBwNUZXOF9GNGxHUFg3N25QQmJOQ3N3YkZBOGRqLU1KUmFaMXdGUkNEWTB6dldESFJ6MFBaUjBqMzVsczc2QTV4bm50M0duN2NKSHRmVktCYjVyVnZQQ3Rkc2tXaHhLMGlWU1RnVXpMbzFEaDV4MVJDbVAwd3o1VE9OOGRvX0JaZmUwWGhzOTNqOUE?oc=5</link>
