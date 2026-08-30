@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:42:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] LINX, JPIX go live with London-to-Tokyo low latency connectivity - Computer Weekly</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPazRKTzZzSDhlRWtqY0pWU3V0anRfX0J2NzFuRlBwNUZXOF9GNGxHUFg3N25QQmJOQ3N3YkZBOGRqLU1KUmFaMXdGUkNEWTB6dldESFJ6MFBaUjBqMzVsczc2QTV4bm50M0duN2NKSHRmVktCYjVyVnZQQ3Rkc2tXaHhLMGlWU1RnVXpMbzFEaDV4MVJDbVAwd3o1VE9OOGRvX0JaZmUwWGhzOTNqOUE?oc=5</link>
+      <guid isPermaLink="false">ae58d7d7a53ed7aeb92395de</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-08-25 19:44
+LINX, JPIX go live with London-to-Tokyo low latency connectivity Computer Weekly</description>
+      <pubDate>Sun, 30 Aug 2026 00:42:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-30T00:42:12.718832Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-25T10:44:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
