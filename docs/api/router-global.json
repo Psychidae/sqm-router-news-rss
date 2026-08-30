@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-30T05:48:10.049621Z",
+  "generated_at": "2026-08-30T11:51:45.743559Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -31,15 +31,15 @@
       "score": 16
     },
     {
-      "id": "a07904a04aece80031b99cc1",
-      "title": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSzZYczl3US05UmRYVDd4NGJxMWthenNINUx4SllNb1EwQXkwT3BjSXZOV09kbk9KWkFFZ0VnX3ROSGd3RTJKN0FSVF94cHk5ZF9ybmVvdkdFVndUd0IwRmRBaXNJQjY4SjYyVUo1ZW5MWWYzV0JWYjU0bFIxNnZiZnBRc2ljQWdXdEQ5cHRDS1JYS0VGTGFXRFBkYkNCTmdKQzJDcjZSZ1JxeFhYTWRMOHB6eDBVM0N0WEVIVHVFaWtoekc4dGpKb0Q4NUJydlVDdFZ2RG1xMml1S3ZkUkZJNGZFZUhzeXVhc0dUV0pueXN2RXEtQmppWUVtbmJMNmV3WDA5OFNIVzljdVlRTF90LWxiTWphNHVXdDJLNkU3aTdUc1hCN3JPaw?oc=5",
-      "summary": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost TechRadar",
-      "published_at": "2026-08-25T16:44:45Z",
+      "id": "a4c7dfee34818c66ae5fa352",
+      "title": "ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Ready Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oeFRrTmw4WElVMW16dXZ1aXM0Qng3bVNuaFd0UDZZeDJ0NHJDMk95dnl5OFZHbjhQbGhzMTJyY3pEWkRkVmpYNE5MUUY0aUpqbXpTb2R3?oc=5",
+      "summary": "ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Ready Router Dong Knows Tech",
+      "published_at": "2026-08-19T17:12:03Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 16
     },
     {
       "id": "7006d76fefcca73140b845e0",
@@ -64,28 +64,6 @@
       "score": 9
     },
     {
-      "id": "845477eb2936f7ae17d7e6c0",
-      "title": "Viettel launches GIGA package and Wi-FI 7 technology from only VND 279,000/month - Laodong.vn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkhVUGl4d3RGZ0xDWkpZVFBjbklTdVdFUGx2LVplb3JlRE1GWTRkVjZhV3BlbGdld0k2eEI1MjlEeWZUMzA2QkZGSTVkdTlYWVBDUFFiQjM5QjJuX1h1Wk1JeG1sOXVKQXdXdHpSa09IYmd1Mjl4bDc5S3FVVXFXd3hpQVZRbm9oVWNtNDFRcDZFVEpiOUl1ZE1KNDNkWk8wWE40ZE5odUJ5YXo1bW5QSEloY2g4eHJJTlFRNQ?oc=5",
-      "summary": "Viettel launches GIGA package and Wi-FI 7 technology from only VND 279,000/month Laodong.vn",
-      "published_at": "2026-08-29T02:21:46Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "381737c3fa1a23770cbd6ced",
-      "title": "Which Wireless Wi-Fi 7 Standard Do You Actually Need for Your Home Network? - TechnoSports Media Group",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBTzFENGNzalNXNGhHQkVwMXI0Nk4zTE9sQXVNVGZsZFFyckpmTVBjMzVEc3NKVnFJdVpzQWVpRk1BMUV6V0hBNTNRZmJNSWU4bGdUdzZrTjExcnByY1g2b3ZtZGhBLW9hYU94VHgtNmtYYzYt?oc=5",
-      "summary": "Which Wireless Wi-Fi 7 Standard Do You Actually Need for Your Home Network? TechnoSports Media Group",
-      "published_at": "2026-08-28T07:10:13Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
       "id": "2bedadd9deca5f6a4e41ad36",
       "title": "ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzc2VNOVptUWpPN1lTX1dvZk82MmhQZ2dDVGJ3Y1NBS05DY3JlSm8ycVZqNERkV05SMzl0Tmo1RDdLV0NjX2g1dDJSMWtDSFJ0SDZTdm1lNGpfOXY4RGtwUjJsQ3poQ0FsMkJrMDJxVEV5SU85bk9UQ0E0bw?oc=5",
@@ -108,15 +86,26 @@
       "score": 7
     },
     {
-      "id": "aa963c18abed2d16325f5837",
-      "title": "Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh network in unmissable Amazon deal - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUtjdi1Tc25BVFdraWlGX3Ewb1k5UFZtd0hIcjZ1b2h2Ml92MlJ0N2lsYkJLRVJqU0JSNG1leVBtUUdjakd4aVpQSkhncGg2N1c3d2RVNmVlb3BwUGsxSFd4R2YwWWRqUHMzcG8xYjdNZFZhdU5Rd3Rlci13WGtHZ0k5LU5UZjhGMEdMaDRmNXBvRWYyempuemNhZDFKclVfQ21HeGxTZzVQTTdVUHgxX3ppWW1zYV9qemlsZEp0YmxyalpkeGk5eXcxWnFkU1pSVFhDc3JB?oc=5",
-      "summary": "Only $189.99 for this Archer BE550 Pro Tri-band WiFi 7 router with EasyMesh network in unmissable Amazon deal PC Guide",
-      "published_at": "2026-08-23T17:39:58Z",
+      "id": "0a1f500e20a35be4b71e7c0a",
+      "title": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEZJZy1LbHpUaHhyYmhqeURXYzcxS3Nxdk5rZUNMLUFBZE5WRFdzM1FEeGxSQlVqZlJCbkVhSDlSODFnS01CUkdwQ0hqUXh1U2tEWmJ3T2w0eTZoMVlQYmZtUTA3Um94ZmEzMmVHbTAwbVJPbEtMY3FIQ3NGSW92bC1MbjZCd1FPMHRBS01GN1Rhb01aVG1wR3FpdG16UnBNRHA2VmFaVG03YVFKeWpfQQ?oc=5",
+      "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? Engadget",
+      "published_at": "2026-08-23T14:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
+    },
+    {
+      "id": "3bd93a9e32f119a1f0521ba8",
+      "title": "Wi-Fi 7's WPA3 protections come with a compatibility catch - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcnpqbFNVdjRvQktheUhuOWhQQWFSTjZhN2oxUUY0endfTVVvUkc5TFY2bXZzaW51Rm1yVGpXUW1scjZ3djZEVnBXOGVhREVZdzFETUxib1lsR3NpdFZETkJMVEw3NEt6dTFQSE9WMDJ0LUdJTXlpVFR5bWpDLXRJS012SkZwOEV4ZHVQMjB1M1l5Ym9sT09kT0hiZ2c0SEgyeHhCaWxVVHdVelI4LS1VMlh1TQ?oc=5",
+      "summary": "Wi-Fi 7's WPA3 protections come with a compatibility catch The Register",
+      "published_at": "2026-08-21T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
