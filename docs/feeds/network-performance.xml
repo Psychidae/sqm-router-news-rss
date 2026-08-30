@@ -5,18 +5,18 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 19:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 22:04:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える (1/2) - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTHhFMndpS2FPN3c4dXY0VGhPYkRnTl8zay1VZFg3eDBfUURPN1FCZUtvQnduamc1dzBjdnZpNV9mdjVneFU5RTZUR2JHZ3N6NzJuNA?oc=5</link>
-      <guid isPermaLink="false">5e6cfd1c5c13f37d788a4614</guid>
+      <title>[性能・障害] サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える（アスキー） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRFc3OUhaLWh5WEhweTY4azRmNV9nWXBWZVJMaUZHTmZjUGtDWVdQb2xfWDZYaEwxay1jLXQtME8tVFVGZ1hwcGVWc1g2cTU1SEI5UC12ODZ1a1VHblV4Mk1GdzdET2ZrdktXQ3hfeWczWkJUU0dodlY3Q2hya0k?oc=5</link>
+      <guid isPermaLink="false">6d9a348e9e9d03d5e113d0c0</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-08-30 12:00
-サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える (1/2) ASCII.jp</description>
-      <pubDate>Sun, 30 Aug 2026 11:51:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-30T11:51:47.820864Z</sqm:firstSeenDate>
+サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える（アスキー） Yahoo!ニュース</description>
+      <pubDate>Sun, 30 Aug 2026 22:04:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-30T22:04:50.545703Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-30T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
