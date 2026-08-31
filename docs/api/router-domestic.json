@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-08-31T06:10:09.538013Z",
+  "generated_at": "2026-08-31T13:42:31.972193Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -13,6 +13,17 @@
       "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVkY1WmhVZW1fejZzRFFVQkxJdkpnZ0tlUFo2UzBta2w4Q3ppZ2pXZTBPX3A1QUxqUk9PUzFqRFRRUlc3TV83RGl5XzdmUm5xQ2RYMFlzVDU2VmRFQWlfNU1HZlRHamZETzVZeEFQV0k0WFVVeU5hT2lB?oc=5",
       "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 BCN Retail",
+      "published_at": "2026-08-31T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
+    {
+      "id": "7034e5935ae72e0ed21b08d5",
+      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSm9pUTBZZWdsZXJyU1NUbmFJYXhvd0p3YVkwZlJhRzRPRElGZ01HLXNUaGJLTHpjMHBJLVFPTGVIVDZJU1Y3dDZWMTJ2TlRNbWRNbDhYX3NYeDlocHBFWGZUeFJoZ0p1UEhZaHBNZ0xMRmNxTFVGVnVOS0VlSDE1M1N5bnl4QjhrLVRfc25R?oc=5",
+      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 (BCN) Yahoo!ニュース",
       "published_at": "2026-08-31T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,37 +75,26 @@
       "score": 15
     },
     {
-      "id": "3e49d5706a27d7d4d388638a",
-      "title": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZXZ2MURwWkl3N1FBcmNIb1U0NnQycFdFbUg1MDdpQWJYdk1CYkNMenAwSWlYWEM1ZWtiQUR0TWxkNFh4emxfNW1zaHRBYWdkSDZRSFZTXzJFNmFyUmFkVDlLcnVpcmZoc19uSVdPU0hDb1hDTmxRYXVzTWVaXzJReXd2ZVE?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが連続首位 無線LANルーター人気ランキングTOP10 2026/8/24 BCN Retail",
-      "published_at": "2026-08-24T03:00:00Z",
+      "id": "302e072bf3cc35421669287a",
+      "title": "バッファロー、法人向けWi-Fiルーター「VR-U300W」2台セットの無料モニターキャンペーンを開催 (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaXhBZWtKWDNUM1hzZlhoSTJCZFl3LTdzVU1sbVRBN284YVRwS3NKT3ZhWGFmUExwLXVSSFVEVWF6eldaSkFvVURlNGNja2Z1ODZ6dmpqVy15N0dmdjFaVDNTNVNDaFVPX0pnUDdZM0ZackdGYjVHOWJLWGNHSUpkV2Rmb1MtMU9uTEFQdldn?oc=5",
+      "summary": "バッファロー、法人向けWi-Fiルーター「VR-U300W」2台セットの無料モニターキャンペーンを開催 (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-08-28T23:42:04Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 15
+      "score": 12
     },
     {
-      "id": "60a5069dde00e103080bc53f",
-      "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZmkxQ2JaWUotaFRBRmtnZU1yV0I1elA4Q0FhUlNFak9ZQTZOOWJZSUhFY2V4NTAyN2g0ZEktQTRlNE94Sk1lMDQ3RTZTMXloMlJMX2RIbWpjdy0tOXVFMzBYam82c2cxQzEydkYxb3IwY1hxdEpob18xSU1zOVB0Ymhka1AtUWpiTXpLYnR3?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 (BCN) Yahoo!ニュース",
-      "published_at": "2026-08-17T07:00:00Z",
+      "id": "0d19f5ce3480682f77416d29",
+      "title": "Wi-Fi 7ルーターやスティック型SSDなどバッファロー製品がお得！AmazonスマイルSALE - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWVfcE8wTnN2R3pkUXpYVXhFR3UybXlkRVpHdXM2MmNEN1hNSW94TGFOOEVndjE0ZUNXQWo2a09pVHpaTzRrMWQtbmNJLVhUN2NjeXdQcXU1WURkRzdJQnl5N0NTRWVISW5aeFBPWVlkNHBtR09lSXVVZ2MxZExlaw?oc=5",
+      "summary": "Wi-Fi 7ルーターやスティック型SSDなどバッファロー製品がお得！AmazonスマイルSALE AKIBA PC Hotline!",
+      "published_at": "2026-08-28T15:25:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
-      "id": "ccecffc0b548a0090b0fdd72",
-      "title": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51Mm92MmNOTk1ELXIwLWVIdjE2Y3NrLWRvdGFzT2E4ZGQwc3lPaGs3Rjc2UXYxaFFHYmlaN1VnZ0NETGgyOERhRXVFZmt3b00yQVBINnhUeUpnT3FuUEJWRkhRLU1sUXY3dV9HdHJTVDdyeEx1QzcwNGlB?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが売れてる 無線LANルーター人気ランキングTOP10 2026/8/17 BCN Retail",
-      "published_at": "2026-08-17T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
+      "score": 12
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-31T06:10:10.664037Z",
+  "generated_at": "2026-08-31T13:42:33.029183Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -53,26 +53,15 @@
       "score": 14
     },
     {
-      "id": "7006d76fefcca73140b845e0",
-      "title": "I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches way above its weight - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNWpodW9fNkd0emNxeTRBbENVempkMVdmU1FsY3FoN2FVQUxmZ1hSTUNUVkw4YWFRUVozeTBicWNxNlZsRWtFdW9JZTlwUkhRczdzTEZIR2ZFSTVxOU90aC1kc1lzSUEyZTJvTFRlUDl4VkktRFQ2ZkVYeUxieGZYWl9Ib1Jaa3JIWmR6R0xBcU02Q014Wm5ob2E5MlNfS18tTlNQNFlUVVZkWmExYnB0RkJJNlJSZk9sUjN3S1JLdW1oVlpVdGktRGRzUThscEtSUG43M0I3TlJ0UQ?oc=5",
-      "summary": "I tested the Asus ROG Strix GS-BE18000 and this stealth gaming router punches way above its weight Tom's Guide",
-      "published_at": "2026-08-17T09:30:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 10
-    },
-    {
-      "id": "9205a4b5a1f12e44a11904dc",
-      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5",
-      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global",
-      "published_at": "2026-08-29T13:31:12Z",
+      "id": "a07904a04aece80031b99cc1",
+      "title": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSzZYczl3US05UmRYVDd4NGJxMWthenNINUx4SllNb1EwQXkwT3BjSXZOV09kbk9KWkFFZ0VnX3ROSGd3RTJKN0FSVF94cHk5ZF9ybmVvdkdFVndUd0IwRmRBaXNJQjY4SjYyVUo1ZW5MWWYzV0JWYjU0bFIxNnZiZnBRc2ljQWdXdEQ5cHRDS1JYS0VGTGFXRFBkYkNCTmdKQzJDcjZSZ1JxeFhYTWRMOHB6eDBVM0N0WEVIVHVFaWtoekc4dGpKb0Q4NUJydlVDdFZ2RG1xMml1S3ZkUkZJNGZFZUhzeXVhc0dUV0pueXN2RXEtQmppWUVtbmJMNmV3WDA5OFNIVzljdVlRTF90LWxiTWphNHVXdDJLNkU3aTdUc1hCN3JPaw?oc=5",
+      "summary": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost TechRadar",
+      "published_at": "2026-08-25T16:44:45Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 12
     },
     {
       "id": "2bedadd9deca5f6a4e41ad36",
