@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 19:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:23:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware</title>
@@ -59,7 +59,7 @@ ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Re
 Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router Telecompaper</description>
       <pubDate>Sun, 30 Aug 2026 19:26:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-30T19:26:20.060009Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-30T18:07:11Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-08-30T18:07:33Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -78,6 +78,20 @@ TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlJzbExYRjhIMHBCN2ZTOHRjQ3ZoaXVIMnFGSVB1eGRaRm5MY1JBUVMyTUxLS1VxNDIwVEZoaXl2dG16dW5VT2FsU0hKTmFYRE9idFAxTU9ybGd4dmtNcU1ZXy1MblI2cVdmbm02MDZ4U1FFUlJvZEtQOG1ZWGpUR1ljczFSb3EwazdUUkFoSzJmVi1sWXFmU1c4MUo1MHhaSm9TMDZYR0t2QUNKVk5XWkJmend4eE44?oc=5</link>
+      <guid isPermaLink="false">676923c40d4b6bbe0407dbc5</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-08-18 20:23
+KCOM Launch Amazon eero Wi-Fi 7 Routers for UK Broadband Customers ISPreview UK</description>
+      <pubDate>Mon, 31 Aug 2026 23:23:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-31T23:23:22.952169Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-18T11:23:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts - Dong Knows Tech</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFAzc2VNOVptUWpPN1lTX1dvZk82MmhQZ2dDVGJ3Y1NBS05DY3JlSm8ycVZqNERkV05SMzl0Tmo1RDdLV0NjX2g1dDJSMWtDSFJ0SDZTdm1lNGpfOXY4RGtwUjJsQ3poQ0FsMkJrMDJxVEV5SU85bk9UQ0E0bw?oc=5</link>
       <guid isPermaLink="false">2bedadd9deca5f6a4e41ad36</guid>
@@ -92,13 +106,13 @@ ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterpa
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - RTINGS.com</title>
+      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - rtings.com</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5</link>
       <guid isPermaLink="false">88fc21b4c5b189b1c1598b3a</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-08-26 16:00
-The 5 Best Wi-Fi Routers of 2026 RTINGS.com</description>
+The 5 Best Wi-Fi Routers of 2026 rtings.com</description>
       <pubDate>Fri, 28 Aug 2026 17:00:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-28T17:00:12.731299Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-26T07:00:00Z</sqm:sourcePublishedDate>
@@ -106,16 +120,16 @@ The 5 Best Wi-Fi Routers of 2026 RTINGS.com</description>
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - engadget.com</title>
+      <title>[海外ルーターニュース] Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - Engadget</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEZJZy1LbHpUaHhyYmhqeURXYzcxS3Nxdk5rZUNMLUFBZE5WRFdzM1FEeGxSQlVqZlJCbkVhSDlSODFnS01CUkdwQ0hqUXh1U2tEWmJ3T2w0eTZoMVlQYmZtUTA3Um94ZmEzMmVHbTAwbVJPbEtMY3FIQ3NGSW92bC1MbjZCd1FPMHRBS01GN1Rhb01aVG1wR3FpdG16UnBNRHA2VmFaVG03YVFKeWpfQQ?oc=5</link>
       <guid isPermaLink="false">0a1f500e20a35be4b71e7c0a</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-08-23 23:30
-Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? engadget.com</description>
+元記事日付: 2026-08-23 16:00
+Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? Engadget</description>
       <pubDate>Sun, 30 Aug 2026 11:51:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-30T11:51:45.742590Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-23T14:30:00Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-08-23T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
