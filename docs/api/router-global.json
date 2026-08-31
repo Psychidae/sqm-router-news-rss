@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-08-31T13:42:33.029183Z",
+  "generated_at": "2026-08-31T19:40:22.298494Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -50,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "a07904a04aece80031b99cc1",
@@ -87,9 +87,9 @@
     },
     {
       "id": "0a1f500e20a35be4b71e7c0a",
-      "title": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - Engadget",
+      "title": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - engadget.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEZJZy1LbHpUaHhyYmhqeURXYzcxS3Nxdk5rZUNMLUFBZE5WRFdzM1FEeGxSQlVqZlJCbkVhSDlSODFnS01CUkdwQ0hqUXh1U2tEWmJ3T2w0eTZoMVlQYmZtUTA3Um94ZmEzMmVHbTAwbVJPbEtMY3FIQ3NGSW92bC1MbjZCd1FPMHRBS01GN1Rhb01aVG1wR3FpdG16UnBNRHA2VmFaVG03YVFKeWpfQQ?oc=5",
-      "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? Engadget",
+      "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? engadget.com",
       "published_at": "2026-08-23T14:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
