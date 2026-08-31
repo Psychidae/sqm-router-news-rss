@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 22:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:35:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 - ScanNetSecurity</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFA5djJrbElQNHdESk5RUlo3dzFYZktkak1VS090U3FxQzVNVm9aeExQOFlZUk81MVhVNjdJem02Wml5MTl3VUcyanh0MWFuY0tCSkNTOXl1TC1IVk55akRiOUdyaVdueVppeHBSYg?oc=5</link>
+      <guid isPermaLink="false">70f831b34ac30e77e91eeef6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-08-31 08:10
+GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 ScanNetSecurity</description>
+      <pubDate>Mon, 31 Aug 2026 00:35:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-08-31T00:35:15.143338Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-30T23:10:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] ネットワークセキュリティファイアウォール市場、2035年に約2.2兆円規模へ拡大か AI・次世代技術が成長を牽引 - サイバーセキュリティメディア</title>
       <link>https://news.google.com/rss/articles/CBMiOkFVX3lxTE1iSTVuUmlIVzY0WWt4cUpjNlFKY1BlWGNkZEcxQ0Z1YXl4OVdadWJ1N01aMk9FWlBLY2c?oc=5</link>
@@ -32,20 +46,6 @@
       <pubDate>Sat, 29 Aug 2026 00:57:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-29T00:57:37.824841Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-28T04:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5</link>
-      <guid isPermaLink="false">790fca9109fe183be7309081</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-08-24 08:05
-ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず ScanNetSecurity</description>
-      <pubDate>Mon, 24 Aug 2026 11:41:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-24T11:41:47.803780Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-23T23:05:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

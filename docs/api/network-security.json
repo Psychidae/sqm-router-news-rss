@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-08-30T22:04:49.534483Z",
+  "generated_at": "2026-08-31T00:35:15.143998Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 3,
   "errors": [],
   "items": [
+    {
+      "id": "70f831b34ac30e77e91eeef6",
+      "title": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 - ScanNetSecurity",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5djJrbElQNHdESk5RUlo3dzFYZktkak1VS090U3FxQzVNVm9aeExQOFlZUk81MVhVNjdJem02Wml5MTl3VUcyanh0MWFuY0tCSkNTOXl1TC1IVk55akRiOUdyaVdueVppeHBSYg?oc=5",
+      "summary": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 ScanNetSecurity",
+      "published_at": "2026-08-30T23:10:02Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "67ce1a871eb82f27c5354feb",
       "title": "ネットワークセキュリティファイアウォール市場、2035年に約2.2兆円規模へ拡大か AI・次世代技術が成長を牽引 - サイバーセキュリティメディア",
@@ -29,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
-    },
-    {
-      "id": "790fca9109fe183be7309081",
-      "title": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず - ScanNetSecurity",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4RXluOU5TSTJjZkh4dnRhUmpNNkdtZXBKSVBXelRNSU53LXZHaVNwemNpSW4xelR2c2NLME9ydkxaTVFlS0VQbzQwMG4welpPejZrdEpaS1Y4NE5LTHIxWnk2cW9MSU1Dc1cwaw?oc=5",
-      "summary": "ソディックのサーバへの不正アクセス最終報 ～ ネットワーク機器の脆弱性を悪用、情報流出の痕跡は確認されず ScanNetSecurity",
-      "published_at": "2026-08-23T23:05:05Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     }
   ]
 }
