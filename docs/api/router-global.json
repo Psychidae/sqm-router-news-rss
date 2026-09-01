@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-01T12:46:00.157002Z",
+  "generated_at": "2026-09-01T16:56:19.406812Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -76,14 +76,14 @@
     },
     {
       "id": "a07904a04aece80031b99cc1",
-      "title": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost - techradar.com",
+      "title": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSzZYczl3US05UmRYVDd4NGJxMWthenNINUx4SllNb1EwQXkwT3BjSXZOV09kbk9KWkFFZ0VnX3ROSGd3RTJKN0FSVF94cHk5ZF9ybmVvdkdFVndUd0IwRmRBaXNJQjY4SjYyVUo1ZW5MWWYzV0JWYjU0bFIxNnZiZnBRc2ljQWdXdEQ5cHRDS1JYS0VGTGFXRFBkYkNCTmdKQzJDcjZSZ1JxeFhYTWRMOHB6eDBVM0N0WEVIVHVFaWtoekc4dGpKb0Q4NUJydlVDdFZ2RG1xMml1S3ZkUkZJNGZFZUhzeXVhc0dUV0pueXN2RXEtQmppWUVtbmJMNmV3WDA5OFNIVzljdVlRTF90LWxiTWphNHVXdDJLNkU3aTdUc1hCN3JPaw?oc=5",
-      "summary": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost techradar.com",
+      "summary": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost TechRadar",
       "published_at": "2026-08-25T16:44:45Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "660f2359e3adff87047097bf",
@@ -105,7 +105,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 7
     },
     {
       "id": "88fc21b4c5b189b1c1598b3a",
