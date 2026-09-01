@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 07:46:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:46:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] ChatGPT down? OpenAI confirms outage as users report network errors, high latency - The Economic Times</title>
+      <title>[性能・障害] Watch: 'Driverless' car crashes into police van after internet outage in Islamabad - The Times of India</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnp0RFdDUHNvM1FMMkEzcU5pX3hRSDhXd2UzLUdkWUxfMnFGVnR6VTZEQ2E3cldZZkZXMWNGNFJOcTRra1BobTNQOHRkMVY5a2VRcnVKS0N4dVV4eUNMYndkY1BDMmhhRnJ1RFFScU9QUlEzM3pZR2pZVURoa21Rdnl2N3FCbk9Xay01bExVTVBhcWJNd255aHFjbWZpQUZhYk0taHZjR2dvLWhJYWRjcHVTRDUxN05qSm1Jck9qd0Y2bzdRWFZia08tX1l1eThUZE5iZ0NCZjhGMUlDb0NCd2xOUEpzaHlfNGtJM9IB8gFBVV95cUxOZjRIQnY3R2c2M1RZbnBONHNqSjQwXzdmY095NmpLbDh3QldCdFFnOXZaenBCSWo0RVJhbExidWtDMTlkT1c4cW1wNkFaUWlMZk04bnhhV0JtaU82bUZhS2s3TkRpbUJ2SHlRdUpUcTFDOWVZbXlJdzJDcTk1emdHWUFxbTRiOXlrVDRwTGpSckVvRWxoZ01FeFpubkpYTUthYnJUNlN3Unlxby1YVk9QQXlkbUtvT21ENEdfOXp3a19FZW9FYTZ3SUNFVGN6Z1Zxby1zQzJ1YXNnb3JMZGtxV1hReWxtOWFMUm5MS0s0RG1pUQ?oc=5</link>
+      <guid isPermaLink="false">7f5693445220de4b2e54e944</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-01 19:02
+Watch: 'Driverless' car crashes into police van after internet outage in Islamabad The Times of India</description>
+      <pubDate>Tue, 01 Sep 2026 12:46:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-01T12:46:02.245318Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-01T10:02:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ChatGPT down? OpenAI confirms outage as users report network errors, high latency - economictimes.com</title>
       <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxQam1EdUJEb0pkR0YtU1M1c01YenRPRHJ4YjFtRHlTRHN5SDAxTG1KZUdSb21SNXdlVkkzMjAwazd0NVJiRlk3YThLYW1zT1JmN3dFWGlINXJlQnNFUHhGZC15bG5KZC1kclFuWHNJRU8xWVdHSFZRMVZuM1cxaklzUGctblFrb0RzVkJMd1A5RVNXNVhHdFlkV3F3NVFlSl96cWZ4d21TOTFVYVF2WC1QMzFzRDhYQmlDbWEzYWlXUFUzbUZYOUp5dzVoRlFaQlZya0lvN0VVamFKS3FRb25UNXR2Ymt6QU5QbDhIRHNCV1U3ZkhOWjJHRmlB0gH_AUFVX3lxTE5TRXRlWXF2RmRKTi1ZSEs1T1JmYlJpS3RaNDQtMDJBX0dqdWhrOFZhY3N3cUJxbFVGYnZuLTdNMWs5UTA3T2ZnbVhiY082clNNRGZWc0JZVTliVXcwM2RGcWVpbmNOMGM5OGZQbUJBaXNrTHRvcG5KY1FqZjV4aGVWaHl3MUUzaHNURTF0cTdpeEtuM3Y0OGIybEdkUHozejgySHVRTnpGbE5nSzZJejV0SHgyRWMxUlFrZ3pVT2hlR2tOa2FTNEd0bFBNMEx2Ry0yaEpLZS1zRlFNbUl2Z2p2MXlJdEhzY2NMYmhzMDhJRGJSLWxtT2tSVjk4UTRQRQ?oc=5</link>
       <guid isPermaLink="false">3ad0ceac378c0a72b5ebeb7d</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-01 03:53
-ChatGPT down? OpenAI confirms outage as users report network errors, high latency The Economic Times</description>
+ChatGPT down? OpenAI confirms outage as users report network errors, high latency economictimes.com</description>
       <pubDate>Tue, 01 Sep 2026 07:46:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-01T07:46:38.077349Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-31T18:53:37Z</sqm:sourcePublishedDate>
@@ -33,20 +47,6 @@ ChatGPT down? OpenAI confirms outage as users report network errors, high latenc
       <sqm:firstSeenDate>2026-08-31T13:42:35.122556Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-30T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] LINX, JPIX go live with London-to-Tokyo low latency connectivity - Computer Weekly</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxPazRKTzZzSDhlRWtqY0pWU3V0anRfX0J2NzFuRlBwNUZXOF9GNGxHUFg3N25QQmJOQ3N3YkZBOGRqLU1KUmFaMXdGUkNEWTB6dldESFJ6MFBaUjBqMzVsczc2QTV4bm50M0duN2NKSHRmVktCYjVyVnZQQ3Rkc2tXaHhLMGlWU1RnVXpMbzFEaDV4MVJDbVAwd3o1VE9OOGRvX0JaZmUwWGhzOTNqOUE?oc=5</link>
-      <guid isPermaLink="false">ae58d7d7a53ed7aeb92395de</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-08-25 19:44
-LINX, JPIX go live with London-to-Tokyo low latency connectivity Computer Weekly</description>
-      <pubDate>Sun, 30 Aug 2026 00:42:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-30T00:42:12.718832Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-25T10:44:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -74,20 +74,6 @@ LINX, JPIX go live with London-to-Tokyo low latency connectivity Computer Weekly
       <pubDate>Sat, 29 Aug 2026 22:38:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-29T22:38:42.876032Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-25T14:06:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
-      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-08-25 17:51
-KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
-      <pubDate>Sat, 29 Aug 2026 22:38:42 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-29T22:38:42.876032Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-25T08:51:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
