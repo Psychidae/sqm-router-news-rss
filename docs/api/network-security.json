@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-01T19:55:31.027186Z",
+  "generated_at": "2026-09-01T22:35:08.988528Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "a18d429fa6a0081bea3e9e30",
-      "title": "VPN侵入から自社を守る セキュリティの「段階的な強化」方法とは：無償トライアルでSASE導入の壁低く - ITmedia",
+      "title": "VPN侵入から自社を守る セキュリティの「段階的な強化」方法とは：無償トライアルでSASE導入の壁低く - itmedia.co.jp",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FYlBSNTdObmVEbEVtT2t3N25pWllud2UySktEdkRvQzFmT3RCYmZGMlRmR2FqLXZYbkFZMVBzQzVQQ2prZTJZTG1JX0t4T2VubGhLdFE3SDF4M01iRjh4eHU3blMzY1ZUZVFIcDBycTFleXcx?oc=5",
-      "summary": "VPN侵入から自社を守る セキュリティの「段階的な強化」方法とは：無償トライアルでSASE導入の壁低く ITmedia",
+      "summary": "VPN侵入から自社を守る セキュリティの「段階的な強化」方法とは：無償トライアルでSASE導入の壁低く itmedia.co.jp",
       "published_at": "2026-08-31T01:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
