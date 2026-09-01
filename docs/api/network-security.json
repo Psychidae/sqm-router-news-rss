@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-01T02:02:25.934200Z",
+  "generated_at": "2026-09-01T07:46:37.079060Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -42,10 +42,10 @@
       "score": 6
     },
     {
-      "id": "6eee35d36a9d35c2fe2fae89",
-      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ja2VyajNMSzdsZ19ZMjFWdVppRGFqaDZVekt3SzRGMVBUMjZPZFJ1Q1ZBWFQtWXhKWGQ1UkFZa28tUG5BM1dSTnNjX2pPTDg?oc=5",
-      "summary": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 アットプレス",
+      "id": "1d60fa067e4fe1f34fe4ef39",
+      "title": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 - newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40TVRGUGxUT2NCZk9FdlY2Y3ZYalVoVERCQklVZy1UQ0lKem5hTjBDYTNRUWU0LUs5RUVicUNJQVNVcW5WOWxN?oc=5",
+      "summary": "ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドルへ拡大、CAGR 10.52％｜AI・次世代ファイアウォール需要が成長を牽引 newscast.jp",
       "published_at": "2026-08-28T04:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",

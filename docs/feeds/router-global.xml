@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 02:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:46:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware</title>
@@ -22,13 +22,13 @@ TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but averag
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - cybershack.com.au</title>
+      <title>[海外ルーターニュース] D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0pwWlZ5bjJqLWdNc0o0Xzgwa1QyWDZQazNqZE5SRUJwVXFHbk1VSjNSLXpjOVVNNWxmejVpWDNQeXNkdWJZclZIUjRJQ3gySXpLQVluUG45b3YtV2NMcEc5R1NjeGlIWTZUNw?oc=5</link>
       <guid isPermaLink="false">0b66ad858df9307afc7438d4</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-08-26 16:24
-D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet cybershack.com.au</description>
+D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet CyberShack</description>
       <pubDate>Wed, 26 Aug 2026 07:56:49 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-26T07:56:49.891919Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-26T07:24:40Z</sqm:sourcePublishedDate>
@@ -46,6 +46,20 @@ ASUS RT-BE90U Review (vs. RT-BE92U): A Modest but Solid Tri-Band Wi-Fi 7 Mesh-Re
       <pubDate>Sun, 30 Aug 2026 11:51:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-08-30T11:51:45.742590Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-19T17:12:03Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGNraFZUWHBCNi0zQm9iUHhCN2pNR1A3dW9kVEtqRGliN3F5WkJpRWtSdExmaWhBQkVpWGhURlBuVFNoRy1JdDh3bmtzWmpYSmpoY0lZcTVRay1OdXpKRkdjbUhCYk9CUkZzZzZreE9ReF9TOVo1WFJyMWVJVlpiUVFQM3Bpd9IBhgFBVV95cUxQSGNraFZUWHBCNi0zQm9iUHhCN2pNR1A3dW9kVEtqRGliN3F5WkJpRWtSdExmaWhBQkVpWGhURlBuVFNoRy1JdDh3bmtzWmpYSmpoY0lZcTVRay1OdXpKRkdjbUhCYk9CUkZzZzZreE9ReF9TOVo1WFJyMWVJVlpiUVFQM3Bpdw?oc=5</link>
+      <guid isPermaLink="false">d9cf4346ba6fc3da716de7cc</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-01 10:00
+ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin</description>
+      <pubDate>Tue, 01 Sep 2026 07:46:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-01T07:46:36.122518Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-01T01:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -78,16 +92,16 @@ TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFAzc2VNOVptUWpPN1lTX1dvZk82MmhQZ2dDVGJ3Y1NBS05DY3JlSm8ycVZqNERkV05SMzl0Tmo1RDdLV0NjX2g1dDJSMWtDSFJ0SDZTdm1lNGpfOXY4RGtwUjJsQ3poQ0FsMkJrMDJxVEV5SU85bk9UQ0E0bw?oc=5</link>
-      <guid isPermaLink="false">2bedadd9deca5f6a4e41ad36</guid>
+      <title>[海外ルーターニュース] Roundup: World first 802.11bn from ASUS, Vodafone Portugal &amp; Germany new Wi-Fi 7 products, &amp; Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global</title>
+      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5</link>
+      <guid isPermaLink="false">9205a4b5a1f12e44a11904dc</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-08-27 07:46
-ASUS Wi-Fi 8 Hardware, Unveiled: Powerful Upgrades to Existing Wi-Fi 7 Counterparts Dong Knows Tech</description>
-      <pubDate>Sat, 29 Aug 2026 00:57:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-08-29T00:57:36.594795Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-26T22:46:10Z</sqm:sourcePublishedDate>
+元記事日付: 2026-08-29 22:31
+Roundup: World first 802.11bn from ASUS, Vodafone Portugal &amp; Germany new Wi-Fi 7 products, &amp; Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global</description>
+      <pubDate>Tue, 01 Sep 2026 07:46:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-01T07:46:36.122518Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-29T13:31:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
