@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-02T05:04:10.805177Z",
+  "generated_at": "2026-09-02T09:34:33.321698Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "8c2fc45c35719b29d05199cb",
-      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware",
+      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - tomshardware.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjhuQUVwckZJV3FUbjl4NWNEb29qdEhQb2w4Z29qTThfZGhRQ0JtenpZMjI2S1FrYnd5QVRpWkVLcFRpcnp2TEhaX3h1QUhEU2Vxb1lzUmZKS3pvR2JMSGRtc1ZUN2hLa2xtQVdQcnc0VDdjVXZUTFc1Yk9aandxN3BpRGQ3R0Qza2dHeldSMFdHSUFJMkdFVEpDZTZkbFpmbkdz?oc=5",
-      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance Tom's Hardware",
+      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance tomshardware.com",
       "published_at": "2026-08-23T12:05:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -28,7 +28,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 15
     },
     {
       "id": "2316b43439eef9a4230f1046",
@@ -54,9 +54,9 @@
     },
     {
       "id": "7a3763d30508dac166bd820a",
-      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - telecompaper.com",
+      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1duemNHNVRXVHNCRHZRNXJ4M0hTa0F0TFZzZjA0NmFDeWZJTkF1djJ1akQyUWR4eE5FNFFtWldyWkxVLU9IZHF5ZFFza0F0Rm5QdXRLVkhnRVpLdXlFMzlhNThtTHptaWJfZm9NYXBGakxMd3RaMnI0ZTlzQkZlSFVYWVN0LVE0U0RoY3MxT1Z4V0tTRGU4?oc=5",
-      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router telecompaper.com",
+      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router Telecompaper",
       "published_at": "2026-08-30T18:07:33Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -75,21 +75,10 @@
       "score": 12
     },
     {
-      "id": "a07904a04aece80031b99cc1",
-      "title": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSzZYczl3US05UmRYVDd4NGJxMWthenNINUx4SllNb1EwQXkwT3BjSXZOV09kbk9KWkFFZ0VnX3ROSGd3RTJKN0FSVF94cHk5ZF9ybmVvdkdFVndUd0IwRmRBaXNJQjY4SjYyVUo1ZW5MWWYzV0JWYjU0bFIxNnZiZnBRc2ljQWdXdEQ5cHRDS1JYS0VGTGFXRFBkYkNCTmdKQzJDcjZSZ1JxeFhYTWRMOHB6eDBVM0N0WEVIVHVFaWtoekc4dGpKb0Q4NUJydlVDdFZ2RG1xMml1S3ZkUkZJNGZFZUhzeXVhc0dUV0pueXN2RXEtQmppWUVtbmJMNmV3WDA5OFNIVzljdVlRTF90LWxiTWphNHVXdDJLNkU3aTdUc1hCN3JPaw?oc=5",
-      "summary": "TP-Link's 'amazing value' Wi-Fi 7 router delivers an $80 home office speed boost TechRadar",
-      "published_at": "2026-08-25T16:44:45Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "660f2359e3adff87047097bf",
-      "title": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - dongknows.com",
+      "title": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5",
-      "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System dongknows.com",
+      "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech",
       "published_at": "2026-09-01T04:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -98,9 +87,9 @@
     },
     {
       "id": "9205a4b5a1f12e44a11904dc",
-      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - wifinowglobal.com",
+      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5",
-      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero wifinowglobal.com",
+      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global",
       "published_at": "2026-08-29T13:31:12Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -116,7 +105,18 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 6
+    },
+    {
+      "id": "0a1f500e20a35be4b71e7c0a",
+      "title": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? - engadget.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEZJZy1LbHpUaHhyYmhqeURXYzcxS3Nxdk5rZUNMLUFBZE5WRFdzM1FEeGxSQlVqZlJCbkVhSDlSODFnS01CUkdwQ0hqUXh1U2tEWmJ3T2w0eTZoMVlQYmZtUTA3Um94ZmEzMmVHbTAwbVJPbEtMY3FIQ3NGSW92bC1MbjZCd1FPMHRBS01GN1Rhb01aVG1wR3FpdG16UnBNRHA2VmFaVG03YVFKeWpfQQ?oc=5",
+      "summary": "Wi-Fi 6 Vs Wi-Fi 7: What's The Difference And Which Is Better For Home Internet? engadget.com",
+      "published_at": "2026-08-23T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
