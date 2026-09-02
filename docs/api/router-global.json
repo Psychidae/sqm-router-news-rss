@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-02T21:00:06.703501Z",
+  "generated_at": "2026-09-02T23:17:36.710324Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -20,11 +20,22 @@
       "score": 20
     },
     {
-      "id": "b55230d61543999fa34dceb1",
+      "id": "71d00998a1a77ad683ca7f85",
+      "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
+      "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
+      "published_at": "2026-09-02T15:19:14Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "2316b43439eef9a4230f1046",
       "title": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNi1mQkNqVTltbDdPUmpGdWVfR3BUNTQ5UWlIZ2dzWGdzVHdpWS15b1VqNjNlcmtJM3RmZVZxZGlPRWtWNm5PWGJjbmlqUFlXX0pVU0hjdnhFdGtqa2JxOHlyTUx4Sjk3dXdneGJsVUJNd3lFNVRkV1JWdHBacVk4Rk5yci1PdDg1MDc4VTFKUWZZRmszMHBDVEQ1YVdCVEh4UTJjLVBwN0gtOExOTEcwMEdselHSAbQBQVVfeXFMTTYtZkJDalU5bWw3T1JqRnVlX0dwVDU0OVFpSGdnc1hnc1R3aVkteW9VajYzZXJrSTN0ZmVWcWRpT0VrVjZuT1hiY25palBZV19KVVNIY3Z4RXRramticTh5ck1MeEo5N3V3Z3hibFVCTXd5RTVUZFdSVnRwWnFZOEZOcnItT3Q4NTA3OFUxSlFmWUZrMzBwQ1RENWFXQlRIeFEyYy1QcDdILThMTkxHMDBHbHpR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHpld3lEc1lWcDJpZzdsekE3QTctb1FuZWZWS2NrTnFUUnNLcnh2YVY1dHhFbE4zN3lETmhaXzVvcE5hdlcxOXpHMXZSeUcwc2hQWGtkbG9HSjRuQ0JQQS1pbFAzSVk0NkxzWTV2eEYtQnJ4UGp1RXJ3Mng2QkFNQnhxdjdqcFEwRG1PeUl4TERfM0dXVFJJOWRYbmhKX2tqdjZEbXItVkF2NWFjbm5WbFFxRFhFdw?oc=5",
       "summary": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin",
-      "published_at": "2026-09-01T14:52:02Z",
+      "published_at": "2026-09-01T14:52:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -65,9 +76,9 @@
     },
     {
       "id": "9205a4b5a1f12e44a11904dc",
-      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global",
+      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - wifinowglobal.com",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5",
-      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global",
+      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero wifinowglobal.com",
       "published_at": "2026-08-29T13:31:12Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
