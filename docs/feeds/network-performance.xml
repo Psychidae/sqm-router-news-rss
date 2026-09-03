@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 21:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:30:57 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
@@ -36,13 +36,13 @@ Bell internet outage in Charlottetown highlights need for tougher rules for prov
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Currituck County Schools experiencing phone/internet outage Tuesday - wavy.com</title>
+      <title>[性能・障害] Currituck County Schools experiencing phone/internet outage Tuesday - WAVY.com</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxQSGY3bi1KMjktWjhpNnFVME1GbURqV3JxZnVSWmlYMnpaWnZpSHhMVHRwSzBxT3VJT2djcDlqeGFEN3lkQTI4NVdoUHRTMkZlUGVremdhRUJwVThPT0dkeUJhUUQzV1Z4UHkydzhLb084cEpRRUx5eHdETDIzYlAzdGtMXzh6OEF6YXIzTTdrM2lmampFWDN2MmdB0gGfAUFVX3lxTE1fVjQyOWxmV3Y2SWVWNXNFeXhWYWtFV1oyV2V3c2dkSTVKRENza25SQUZkU3EwdTloelF2azFGS0RpZENPMHZUb2h6TzZWM3dXTy1OdHYzRGdDejVLWDB0aUZLbnl4RHVtX3JWLVRWVnVabFRHZHpMdGpORWt2VjhGYTh6YVFiUUxfZW9Pb3pJQ3FoUkU2cHdQNkU4eG9vMA?oc=5</link>
       <guid isPermaLink="false">1341a608647e47414f6ccdd3</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-02 02:15
-Currituck County Schools experiencing phone/internet outage Tuesday wavy.com</description>
+Currituck County Schools experiencing phone/internet outage Tuesday WAVY.com</description>
       <pubDate>Thu, 03 Sep 2026 15:09:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-03T15:09:51.304461Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-01T17:15:55Z</sqm:sourcePublishedDate>
@@ -64,27 +64,13 @@ Watch: 'Driverless' car crashes into police van after internet outage in Islamab
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 世界中で使える通信規格へ！NTTやKDDIなど国内7社が「低遅延・省電力な光ネットワーク」の設計指針で国際標準を獲得 - DXマガジン</title>
-      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nSW1zYXY5bUVMS1pVUWJ4NlpTU1o4NTV1SDRad2dHellnbGc5UU9fYUEyNkt0eENuRjR4QUpoQTR5VkZuMUw1eHFNaF8?oc=5</link>
-      <guid isPermaLink="false">4b1f86f53203b3ac07ccec65</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-02 18:12
-世界中で使える通信規格へ！NTTやKDDIなど国内7社が「低遅延・省電力な光ネットワーク」の設計指針で国際標準を獲得 DXマガジン</description>
-      <pubDate>Thu, 03 Sep 2026 18:36:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-03T18:36:03.353988Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-02T09:12:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 - finance.biggo.jp</title>
+      <title>[性能・障害] テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 - BigGo ファイナンス</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTUY3QmNQUDA1TF9jN0l1ZEgyTktua2dHdVd4UVNFRWN0SmVxc3p0Nk4tMkl6OXlCek0yRUxqVHQ4TEhJalY3NmdDTDhxcVU0bHBnZzJSWG1mR0NJa2gwZFJ2dHZQVG1WMTUzdU9DUGtLaUV2?oc=5</link>
       <guid isPermaLink="false">8d7da77fc610b7519c7fba83</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-02 10:41
-テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 finance.biggo.jp</description>
+テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 BigGo ファイナンス</description>
       <pubDate>Thu, 03 Sep 2026 18:36:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-03T18:36:03.353988Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T01:41:24Z</sqm:sourcePublishedDate>
