@@ -5,64 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:09:49 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 - Neowin</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNNi1mQkNqVTltbDdPUmpGdWVfR3BUNTQ5UWlIZ2dzWGdzVHdpWS15b1VqNjNlcmtJM3RmZVZxZGlPRWtWNm5PWGJjbmlqUFlXX0pVU0hjdnhFdGtqa2JxOHlyTUx4Sjk3dXdneGJsVUJNd3lFNVRkV1JWdHBacVk4Rk5yci1PdDg1MDc4VTFKUWZZRmszMHBDVEQ1YVdCVEh4UTJjLVBwN0gtOExOTEcwMEdselHSAbQBQVVfeXFMTTYtZkJDalU5bWw3T1JqRnVlX0dwVDU0OVFpSGdnc1hnc1R3aVkteW9VajYzZXJrSTN0ZmVWcWRpT0VrVjZuT1hiY25palBZV19KVVNIY3Z4RXRramticTh5ck1MeEo5N3V3Z3hibFVCTXd5RTVUZFdSVnRwWnFZOEZOcnItT3Q4NTA3OFUxSlFmWUZrMzBwQ1RENWFXQlRIeFEyYy1QcDdILThMTkxHMDBHbHpR?oc=5</link>
-      <guid isPermaLink="false">b55230d61543999fa34dceb1</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-01 23:52
-TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin</description>
-      <pubDate>Thu, 03 Sep 2026 06:28:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-03T06:28:45.164146Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T14:52:02Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE20gGGAUFVX3lxTFBIY2toVlRYcEI2LTNCb2JQeEI3ak1HUDd1b2RUS2pEaWI3cXlaQmlFa1J0TGZpaEFCRWlYaFRGUG5UU2hHLUl0OHdua3NaalhKamhjSVlxNVFrLU51ekpGR2NtSEJiT0JSRnNnNmt4T1F4X1M5WjVYUnIxZUlWWmJRUVAzcGl3?oc=5</link>
-      <guid isPermaLink="false">5b3071d8aaf20c14a4ad22a7</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-01 10:49
-ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin</description>
-      <pubDate>Wed, 02 Sep 2026 00:31:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-02T00:31:35.993446Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T01:49:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - Dong Knows Tech</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5</link>
-      <guid isPermaLink="false">660f2359e3adff87047097bf</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-01 13:00
-TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech</description>
-      <pubDate>Tue, 01 Sep 2026 12:46:00 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-01T12:46:00.155956Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T04:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Roundup: World first 802.11bn from ASUS, Vodafone Portugal &amp; Germany new Wi-Fi 7 products, &amp; Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global</title>
-      <link>https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5</link>
-      <guid isPermaLink="false">9205a4b5a1f12e44a11904dc</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-08-29 22:31
-Roundup: World first 802.11bn from ASUS, Vodafone Portugal &amp; Germany new Wi-Fi 7 products, &amp; Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global</description>
-      <pubDate>Tue, 01 Sep 2026 07:46:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-01T07:46:36.122518Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-29T13:31:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - RTINGS.com</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5</link>
