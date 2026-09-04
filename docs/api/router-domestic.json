@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-03T23:30:54.462158Z",
+  "generated_at": "2026-09-04T01:21:12.112752Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "26663214bdc4109040d5362d",
-      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - bcnretail.com",
+      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVkY1WmhVZW1fejZzRFFVQkxJdkpnZ0tlUFo2UzBta2w4Q3ppZ2pXZTBPX3A1QUxqUk9PUzFqRFRRUlc3TV83RGl5XzdmUm5xQ2RYMFlzVDU2VmRFQWlfNU1HZlRHamZETzVZeEFQV0k0WFVVeU5hT2lB?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 bcnretail.com",
+      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 BCN Retail",
       "published_at": "2026-08-31T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -32,14 +32,25 @@
     },
     {
       "id": "d57ffcab9e5ed1c4d73167be",
-      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - bcnretail.com",
+      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR29qbzI2TXdUeUE0X0lGSm1IV1V6RTRKaS1lX0pYWkxOQ1Bua0xWRmxxanZHbmJXeWRxd2RWLXdkeWVFY0JJR3M0bjJZT3hBajhhaERYWmFFWlczQms3WlhvNlI2QnZKaW5rLTBUclBDMDU4STduRGVkR0hlLWJGWndtSEw?oc=5",
-      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 bcnretail.com",
+      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 BCN Retail",
       "published_at": "2026-08-31T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
+    },
+    {
+      "id": "542c670e12c44cf53cbd0ce3",
+      "title": "ゲーミングルーター「TUF Gaming BE3600」の予約受付を開始、2026年9月11日発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RM2pYN3Rja2hWNXc1WFBrZGVsN3A3cFhmZ19abTN5MGJZYk13cEFwSmx3bWRmUkFtNGdDVV9Cbl83R3R0a0UtdVdqM3NaODd5d3F0c0JjTmxsMngtbk84eGRyck5qdmwxWFE?oc=5",
+      "summary": "ゲーミングルーター「TUF Gaming BE3600」の予約受付を開始、2026年9月11日発売 PR TIMES",
+      "published_at": "2026-09-04T01:00:02Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "2c899e16a86df9f23f919a62",
@@ -62,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 13
-    },
-    {
-      "id": "ad1faaf93e74bb72bdba3262",
-      "title": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XOUZOb3FtOUJ6RHA5ZFljdTlnYVoteThrbURPUzAycEtvdk9UMDQzU3JIRUQ4VkZydG1hWnNPVl8tS2owekZGbHgxYnRodmZVcllmWkp6OFVRRC15d2d4UjZhRVFFVnZ1VDRhelZZNXI0WXQ3amg3UWpmYw?oc=5",
-      "summary": "エレコム、過去発売のWi-Fiルーターに脆弱性 更新期間終了済み、“買い替え”推奨 「力及ばず謝罪しかできない」 ITmedia",
-      "published_at": "2026-09-01T05:01:43Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
     },
     {
       "id": "0d19f5ce3480682f77416d29",
