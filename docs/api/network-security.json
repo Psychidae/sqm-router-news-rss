@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-04T15:05:58.689268Z",
+  "generated_at": "2026-09-04T18:21:54.648180Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -32,9 +32,9 @@
     },
     {
       "id": "70f831b34ac30e77e91eeef6",
-      "title": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 - scan.netsecurity.ne.jp",
+      "title": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 - ScanNetSecurity",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5djJrbElQNHdESk5RUlo3dzFYZktkak1VS090U3FxQzVNVm9aeExQOFlZUk81MVhVNjdJem02Wml5MTl3VUcyanh0MWFuY0tCSkNTOXl1TC1IVk55akRiOUdyaVdueVppeHBSYg?oc=5",
-      "summary": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 scan.netsecurity.ne.jp",
+      "summary": "GMOサイバーセキュリティ byイエラエ、9 / 10 オンラインセミナー開催 ～ VPN・シャドーITのリスク可視化と継続診断を解説 ScanNetSecurity",
       "published_at": "2026-08-30T23:10:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",

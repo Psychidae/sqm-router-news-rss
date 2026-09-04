@@ -5,33 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:21:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
+      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - katu.com</title>
       <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHNncUs2S2lWdGtPdVpLOWlpc3Z2aHItd1d3eTE1bGRNa0dHYmFyajBldGlEamdnS2lFUTVFVjhSRnVTRjh0UDB6bGs5S2FtWjgyN250MEJPQTJiYjQzRklsWklzdnN6WkFuQ0tybGNMZEdhLVdiamtGdWJ4NmNUV1BQdXRidVUwaC1faTBPdF9RblA1d1hxZDExVWpIX1ktd3JWNEE5M01QaW1TMWV1REo1Yml3cDNyaWlXY1cya2lCcHp1M2FFVHdINVhnaWFIeWJNQmp4SmszRmNDMFZvZlNsRFRDMGc3U3FqN1hseldvd28?oc=5</link>
       <guid isPermaLink="false">e5a6dfa0c113ce7a8acd3213</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-03 06:59
-PDX internet outage disrupts airlines, rental car firms and some airport services KATU</description>
+PDX internet outage disrupts airlines, rental car firms and some airport services katu.com</description>
       <pubDate>Fri, 04 Sep 2026 11:43:56 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T11:43:56.224900Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T21:59:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
-      <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTVRESkxaN1lCY3VCSFV0S2RVYS15T1ZodHE5VjVKdUwxdzhuTjFSM1Rta2Vvd0dLRXBvdXllRTRBRGJJNTdQSk5BSENad0xnMTVTbFR2bklkWGFqMnlveHJkSnBxa3BuTG5MT3FTZHNJMldJVmducnJnNG9SaXlQcE1ZY3lpVGZmRW1SVHNESnE3N2gzNGhiR0UtbU5CN0FPYmpiVUVsYS1XR0NITTZQSE9HWURaTG9LUjBlTFJyaVpQLVVCa3E1ZUdINjlobWlXVjZqZGFNNzBXNWFvb0d5aDJoTHl4QnkyUzZ0eUtmbDZISEgzNU0yTVI3Y2dMQQ?oc=5</link>
-      <guid isPermaLink="false">b0260c848a194b08335dad92</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-03 04:00
-PDX internet outage disrupts airlines, rental car firms and some airport services KATU</description>
-      <pubDate>Thu, 03 Sep 2026 15:09:51 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-03T15:09:51.304461Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-02T19:00:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -46,20 +32,6 @@ Bell internet outage in Charlottetown highlights need for tougher rules for prov
       <pubDate>Thu, 03 Sep 2026 11:42:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-03T11:42:41.452168Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-01T23:04:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Currituck County Schools experiences phone and internet outage Tuesday - WAVY.com</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVg3X2xqUXowLXZrVEpoQzNadVJqZzZHbjd3TjhPcHFVRXd4cUVFUjFPMVRxNEpyNEY3VTVsZWhoQ1ZnaFYzMnQ2dldIZkd1aGdYam05U1VkOE04NTBWcHJSS0p2SVBBS0RmbGQwQUJMYzZJc0hTZl9hVXgzLU5xbkhQVlltQTNPd1VCdlJqOHFHN2haekRZU3ZWVTJIeVgtLWVMQzIzRTlHZG5welHSAbMBQVVfeXFMUGJITlBzZWEwUjlicHh1NU5VdU9oQ2VaQUdnejRZamNaOWMzUDFlYTFVZlNCZHpLdm4xcUdXbDVBbGg3b0hnTk1ETWpFbkxWX0thRGJMVWhYbGtESjQ0TnBwQ013QjZyLWJ2eFY4WThBWVM3UVBNTzNtdUVaNXg3cUVyV3N5c0E2Q25ndHdkbFNwdDJBaVoyNXVfLVdOMXdSN1lKYXNDTjFpZHFUdHNXYmFVbjQ?oc=5</link>
-      <guid isPermaLink="false">f3551f9920275bc0bd0bbe41</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-02 02:15
-Currituck County Schools experiences phone and internet outage Tuesday WAVY.com</description>
-      <pubDate>Fri, 04 Sep 2026 06:31:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-04T06:31:41.957642Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T17:15:55Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -89,6 +61,20 @@ Currituck County Schools experiences phone and internet outage Tuesday WAVY.com<
       <sqm:firstSeenDate>2026-09-03T18:36:03.353988Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T01:41:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Currituck County Schools experiences phone and internet outage Tuesday - WAVY.com</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVg3X2xqUXowLXZrVEpoQzNadVJqZzZHbjd3TjhPcHFVRXd4cUVFUjFPMVRxNEpyNEY3VTVsZWhoQ1ZnaFYzMnQ2dldIZkd1aGdYam05U1VkOE04NTBWcHJSS0p2SVBBS0RmbGQwQUJMYzZJc0hTZl9hVXgzLU5xbkhQVlltQTNPd1VCdlJqOHFHN2haekRZU3ZWVTJIeVgtLWVMQzIzRTlHZG5welHSAbMBQVVfeXFMUGJITlBzZWEwUjlicHh1NU5VdU9oQ2VaQUdnejRZamNaOWMzUDFlYTFVZlNCZHpLdm4xcUdXbDVBbGg3b0hnTk1ETWpFbkxWX0thRGJMVWhYbGtESjQ0TnBwQ013QjZyLWJ2eFY4WThBWVM3UVBNTzNtdUVaNXg3cUVyV3N5c0E2Q25ndHdkbFNwdDJBaVoyNXVfLVdOMXdSN1lKYXNDTjFpZHFUdHNXYmFVbjQ?oc=5</link>
+      <guid isPermaLink="false">f3551f9920275bc0bd0bbe41</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-02 02:15
+Currituck County Schools experiences phone and internet outage Tuesday WAVY.com</description>
+      <pubDate>Fri, 04 Sep 2026 06:31:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-04T06:31:41.957642Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-01T17:15:55Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
