@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 01:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:31:39 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware</title>
@@ -18,6 +18,20 @@ TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but averag
       <pubDate>Thu, 03 Sep 2026 18:36:00 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-03T18:36:00.844841Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-23T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack</title>
+      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0pwWlZ5bjJqLWdNc0o0Xzgwa1QyWDZQazNqZE5SRUJwVXFHbk1VSjNSLXpjOVVNNWxmejVpWDNQeXNkdWJZclZIUjRJQ3gySXpLQVluUG45b3YtV2NMcEc5R1NjeGlIWTZUNw?oc=5</link>
+      <guid isPermaLink="false">0b66ad858df9307afc7438d4</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-08-26 16:24
+D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet CyberShack</description>
+      <pubDate>Fri, 04 Sep 2026 06:31:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-04T06:31:39.532660Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-08-26T07:24:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -131,20 +145,6 @@ Roundup: World first 802.11bn from ASUS, Vodafone Portugal &amp; Germany new Wi-
       <sqm:firstSeenDate>2026-09-03T18:36:00.844841Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-29T13:31:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] The 5 Best Wi-Fi Routers of 2026 - RTINGS.com</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5</link>
-      <guid isPermaLink="false">88fc21b4c5b189b1c1598b3a</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-08-26 16:00
-The 5 Best Wi-Fi Routers of 2026 RTINGS.com</description>
-      <pubDate>Wed, 02 Sep 2026 00:31:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-02T00:31:35.993446Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-08-26T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
