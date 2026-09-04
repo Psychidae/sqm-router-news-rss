@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-04T06:31:39.533595Z",
+  "generated_at": "2026-09-04T11:43:54.282827Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "8c2fc45c35719b29d05199cb",
-      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware",
+      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - tomshardware.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjhuQUVwckZJV3FUbjl4NWNEb29qdEhQb2w4Z29qTThfZGhRQ0JtenpZMjI2S1FrYnd5QVRpWkVLcFRpcnp2TEhaX3h1QUhEU2Vxb1lzUmZKS3pvR2JMSGRtc1ZUN2hLa2xtQVdQcnc0VDdjVXZUTFc1Yk9aandxN3BpRGQ3R0Qza2dHeldSMFdHSUFJMkdFVEpDZTZkbFpmbkdz?oc=5",
-      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance Tom's Hardware",
+      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance tomshardware.com",
       "published_at": "2026-08-23T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -32,9 +32,9 @@
     },
     {
       "id": "6164ca18cb4b8c5958dc08ad",
-      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - Expert Reviews",
+      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTYzMk1PWE1nTHJfWGMwQUE1MXVJSkw5RWx2N0F0YnRuZkd1cEhUMmFGTVc0SkpnSWNvdUl4bmg4cGFJcEVjRkJtTlU0R0ZDUWxrNDJySlJnbG1MU0hyRXdWMDR4LS1BbnlVQXNOOFdLZG9ZdUM2bFNycEw4TFVzNXZvWDBmZkQtN2RHYXNUM3B5T2FxTjhyUl9WNkd4TXVWQjJkalYtb0VBX1Y1eGF2Q0M1QnBLN2x2U0x1MlV2NVMtdFA0Zmo1ZWdR?oc=5",
-      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all Expert Reviews",
+      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all expertreviews.co.uk",
       "published_at": "2026-09-03T15:39:39Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -46,7 +46,7 @@
       "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
       "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
-      "published_at": "2026-09-02T15:24:20Z",
+      "published_at": "2026-09-02T15:19:14Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -86,6 +86,17 @@
       "score": 12
     },
     {
+      "id": "fa4a9f76a805b7fa3ef12ad7",
+      "title": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range - Mighty Gadget",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KU0haQ1lLQmVwT2ZtTGp0QkxqaUxiX1JzVTJ5c2UzUk9ZZGVXM1V0c0c2QjNMYmd1dGJYTDFTT3NhRGNabjNqeUFzc2Y5ZlJqUExLYi13?oc=5",
+      "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range Mighty Gadget",
+      "published_at": "2026-09-04T10:16:50Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
       "id": "97494df27f77504232e4aba2",
       "title": "Who Owns Linksys, The Router Brand Cisco Sold Off? - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZlJCUFFLb00yRnVfNXJxOFI1R3RaWm9YaTlrZC1KVHctVEx1cWR4UDJjdS1GLUd6NFVEQVZwdHUxVl83ZTdBRlJINHJ3VWhWekN4MFVvelplSTdnTWNuQjZQNkNNSVNxaFZQUA?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5",
       "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech",
       "published_at": "2026-09-01T04:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "9205a4b5a1f12e44a11904dc",
-      "title": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero - Wi-Fi NOW Global",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeWxxbHRnMU01N0J1VFJUUnUtQ0VXOUtvWnRkUURSVjkydlRhbVhzeHVVNEVDdFZDOW52dmRldnVac0dDMHQ4YUZEWWM3VHZzZG9WWnJjbGZnQ3MtWDVvOTN2YmtpRGNQZjJrcjd1RUt5bjVpX2VUekFHdThYS2xaZEpGUFpXNFRjTEJ5SGxzUVg3Y1FNRy1UQ3kzeHJyX1JmWkVOSGNlNFlnb2JLY3NwOGRUWTB5TmxfMm5Kdll6NkpRSmJ0MWdfUUVuR0poUkRXY2U5YTI5ZWpGTG55MVA3blljTUhCZmYyc0tyWHF5dDJkSnJxNHZUTHFUcXdKXzI3Mkt1TTJ2bm1FemNNb1hHVGlkNWFScWs4N3c?oc=5",
-      "summary": "Roundup: World first 802.11bn from ASUS, Vodafone Portugal & Germany new Wi-Fi 7 products, & Truvista's managed outdoor Wi-Fi with eero Wi-Fi NOW Global",
-      "published_at": "2026-08-29T13:31:12Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
