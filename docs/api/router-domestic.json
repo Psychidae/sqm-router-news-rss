@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-04T11:43:53.264783Z",
+  "generated_at": "2026-09-04T15:05:56.483727Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "35bf19980f5fc98316f88fb7",
+      "title": "ASUS、Wi-Fi 7ルーター「TUF Gaming BE3600」を発売 2.5GbE端子/Broadcom製プロセッサ搭載 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZTEyQkNieHp0aUlONmZ1XzJOcXRBcmFnUFZQd0NoSnQxRlo2dWJaUTd5YVNCWDJYbzE3LU1YN0J3V1FQY01mdi0zTlFZQi0zaTh4SHRfekRiZw?oc=5",
+      "summary": "ASUS、Wi-Fi 7ルーター「TUF Gaming BE3600」を発売 2.5GbE端子/Broadcom製プロセッサ搭載 24Wireless",
+      "published_at": "2026-09-04T13:14:10Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
     {
       "id": "c06721e83556c05280d6a078",
       "title": "ASUS、Wi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」など2製品 - エルミタージュ秋葉原",
@@ -32,9 +43,9 @@
     },
     {
       "id": "ec9ac4b160cac7c500dbe972",
-      "title": "ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 - internet.watch.impress.co.jp",
+      "title": "ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Q0s1YU15VUNFb1RielVRTWxuZ1ByTnRjWEhXc3RkOWdsNkoxODJlN3VVVGpMWHFGcGtjOTJFeF9SQTkwTkZSMFVYX2w5QmR6NnN1V0tURzhUVll5TGZqTFdMTEFOQVM4WHhv?oc=5",
-      "summary": "ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 internet.watch.impress.co.jp",
+      "summary": "ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 INTERNET Watch",
       "published_at": "2026-09-04T08:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 15
-    },
-    {
-      "id": "95a0648b5c39f594594614b6",
-      "title": "ASUS、デュアルバンド対応Wi-Fi 7無線ルーター「RT-BE3600J Pro」「TUF Gaming BE3600」の予約受付を開始 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10em1TcVRDSE5tOFNWWERleDRsb21uSXhHTHVJa1lDaVhRcGFEU3AyaDJ0VGF0NE1iU2F6S0tRVHBZQmlzdmF0T0dITkh0SFExZXF6ZEhJMWpjQ25XalVEUi05VlhBVmc3MnFtNDFmOEZ4TXVSbHhQX1lwVnVGekE?oc=5",
-      "summary": "ASUS、デュアルバンド対応Wi-Fi 7無線ルーター「RT-BE3600J Pro」「TUF Gaming BE3600」の予約受付を開始 Yahoo!ニュース",
-      "published_at": "2026-09-04T07:08:59Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
     }
   ]
 }

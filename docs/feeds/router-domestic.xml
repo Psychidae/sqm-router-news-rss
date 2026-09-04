@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 11:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 15:05:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
+    <item>
+      <title>[国内ルーター市場] ASUS、Wi-Fi 7ルーター「TUF Gaming BE3600」を発売 2.5GbE端子/Broadcom製プロセッサ搭載 - 24Wireless</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZTEyQkNieHp0aUlONmZ1XzJOcXRBcmFnUFZQd0NoSnQxRlo2dWJaUTd5YVNCWDJYbzE3LU1YN0J3V1FQY01mdi0zTlFZQi0zaTh4SHRfekRiZw?oc=5</link>
+      <guid isPermaLink="false">35bf19980f5fc98316f88fb7</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-09-04 22:14
+ASUS、Wi-Fi 7ルーター「TUF Gaming BE3600」を発売 2.5GbE端子/Broadcom製プロセッサ搭載 24Wireless</description>
+      <pubDate>Fri, 04 Sep 2026 15:05:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-04T15:05:56.474972Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-04T13:14:10Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
     <item>
       <title>[国内ルーター市場] ASUS、Wi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」など2製品 - エルミタージュ秋葉原</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SU2d2SWp1NnBONTdmYjlsZGhBTXhFRnlRVHN6dXJMa3R5ZldmeERSVTRCTkFpVHFTUEpPZjkydzZXSTRuSWFJVm5pc3VGNjUwZndDRllUc2JnRzVJZXJUaw?oc=5</link>
@@ -36,13 +50,13 @@ WiFi 7対応で最大3600Mbpsクラス！ ASUSのゲーミングルーター「T
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 - internet.watch.impress.co.jp</title>
+      <title>[国内ルーター市場] ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE94Q0s1YU15VUNFb1RielVRTWxuZ1ByTnRjWEhXc3RkOWdsNkoxODJlN3VVVGpMWHFGcGtjOTJFeF9SQTkwTkZSMFVYX2w5QmR6NnN1V0tURzhUVll5TGZqTFdMTEFOQVM4WHhv?oc=5</link>
       <guid isPermaLink="false">ec9ac4b160cac7c500dbe972</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
 元記事日付: 2026-09-04 17:00
-ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 internet.watch.impress.co.jp</description>
+ASUS、2.5GbEとWi-Fi 7対応で1万円台のメッシュルーター「RT-BE3600J Pro」発売 INTERNET Watch</description>
       <pubDate>Fri, 04 Sep 2026 11:43:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T11:43:53.258027Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-04T08:00:00Z</sqm:sourcePublishedDate>
@@ -102,20 +116,6 @@ ASUS、アンテナ内蔵のWi-Fi 7ルーター「RT-BE3600J Pro」を1万円台
       <pubDate>Fri, 04 Sep 2026 11:43:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T11:43:53.258027Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-25T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] ASUS、デュアルバンド対応Wi-Fi 7無線ルーター「RT-BE3600J Pro」「TUF Gaming BE3600」の予約受付を開始 - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE10em1TcVRDSE5tOFNWWERleDRsb21uSXhHTHVJa1lDaVhRcGFEU3AyaDJ0VGF0NE1iU2F6S0tRVHBZQmlzdmF0T0dITkh0SFExZXF6ZEhJMWpjQ25XalVEUi05VlhBVmc3MnFtNDFmOEZ4TXVSbHhQX1lwVnVGekE?oc=5</link>
-      <guid isPermaLink="false">95a0648b5c39f594594614b6</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-09-04 16:08
-ASUS、デュアルバンド対応Wi-Fi 7無線ルーター「RT-BE3600J Pro」「TUF Gaming BE3600」の予約受付を開始 Yahoo!ニュース</description>
-      <pubDate>Fri, 04 Sep 2026 11:43:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-04T11:43:53.258027Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-04T07:08:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
