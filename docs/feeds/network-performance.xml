@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:55:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
@@ -36,20 +36,6 @@ PDX internet outage disrupts airlines, rental car firms and some airport service
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group - CBC</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSU1TdFVQVkZZamFlMkNLalA3UmFYenRSeWxmTUY3SDZZWTl0ZWNacUhtSGk0TjhpQU1jRGZOSTdvakwtSDJ5ckV5SkZOV1c2UzRRd2NXUC0xdw?oc=5</link>
-      <guid isPermaLink="false">02646a2573eb8b48601e1a31</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-02 08:04
-Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group CBC</description>
-      <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T23:04:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
       <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
@@ -64,17 +50,31 @@ Bell internet outage in Charlottetown highlights need for tougher rules for prov
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 - finance.biggo.jp</title>
+      <title>[性能・障害] テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 - BigGo ファイナンス</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTUY3QmNQUDA1TF9jN0l1ZEgyTktua2dHdVd4UVNFRWN0SmVxc3p0Nk4tMkl6OXlCek0yRUxqVHQ4TEhJalY3NmdDTDhxcVU0bHBnZzJSWG1mR0NJa2gwZFJ2dHZQVG1WMTUzdU9DUGtLaUV2?oc=5</link>
       <guid isPermaLink="false">8d7da77fc610b7519c7fba83</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-02 10:41
-テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 finance.biggo.jp</description>
+テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 BigGo ファイナンス</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T01:41:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSU1TdFVQVkZZamFlMkNLalA3UmFYenRSeWxmTUY3SDZZWTl0ZWNacUhtSGk0TjhpQU1jRGZOSTdvakwtSDJ5ckV5SkZOV1c2UzRRd2NXUC0xdw?oc=5</link>
+      <guid isPermaLink="false">02646a2573eb8b48601e1a31</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-02 08:04
+Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group CBC</description>
+      <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-01T23:04:04Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -106,13 +106,13 @@ Watch: 'Driverless' car crashes into police van after internet outage in Islamab
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ChatGPT down? OpenAI confirms outage as users report network errors, high latency - economictimes.com</title>
+      <title>[性能・障害] ChatGPT down? OpenAI confirms outage as users report network errors, high latency - The Economic Times</title>
       <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxQam1EdUJEb0pkR0YtU1M1c01YenRPRHJ4YjFtRHlTRHN5SDAxTG1KZUdSb21SNXdlVkkzMjAwazd0NVJiRlk3YThLYW1zT1JmN3dFWGlINXJlQnNFUHhGZC15bG5KZC1kclFuWHNJRU8xWVdHSFZRMVZuM1cxaklzUGctblFrb0RzVkJMd1A5RVNXNVhHdFlkV3F3NVFlSl96cWZ4d21TOTFVYVF2WC1QMzFzRDhYQmlDbWEzYWlXUFUzbUZYOUp5dzVoRlFaQlZya0lvN0VVamFKS3FRb25UNXR2Ymt6QU5QbDhIRHNCV1U3ZkhOWjJHRmlB0gH_AUFVX3lxTE5TRXRlWXF2RmRKTi1ZSEs1T1JmYlJpS3RaNDQtMDJBX0dqdWhrOFZhY3N3cUJxbFVGYnZuLTdNMWs5UTA3T2ZnbVhiY082clNNRGZWc0JZVTliVXcwM2RGcWVpbmNOMGM5OGZQbUJBaXNrTHRvcG5KY1FqZjV4aGVWaHl3MUUzaHNURTF0cTdpeEtuM3Y0OGIybEdkUHozejgySHVRTnpGbE5nSzZJejV0SHgyRWMxUlFrZ3pVT2hlR2tOa2FTNEd0bFBNMEx2Ry0yaEpLZS1zRlFNbUl2Z2p2MXlJdEhzY2NMYmhzMDhJRGJSLWxtT2tSVjk4UTRQRQ?oc=5</link>
       <guid isPermaLink="false">3ad0ceac378c0a72b5ebeb7d</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-01 03:53
-ChatGPT down? OpenAI confirms outage as users report network errors, high latency economictimes.com</description>
+ChatGPT down? OpenAI confirms outage as users report network errors, high latency The Economic Times</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-08-31T18:53:37Z</sqm:sourcePublishedDate>
