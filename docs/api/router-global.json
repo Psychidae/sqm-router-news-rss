@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-05T05:43:31.999643Z",
+  "generated_at": "2026-09-05T09:21:50.490835Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "8c2fc45c35719b29d05199cb",
-      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - tomshardware.com",
+      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjhuQUVwckZJV3FUbjl4NWNEb29qdEhQb2w4Z29qTThfZGhRQ0JtenpZMjI2S1FrYnd5QVRpWkVLcFRpcnp2TEhaX3h1QUhEU2Vxb1lzUmZKS3pvR2JMSGRtc1ZUN2hLa2xtQVdQcnc0VDdjVXZUTFc1Yk9aandxN3BpRGQ3R0Qza2dHeldSMFdHSUFJMkdFVEpDZTZkbFpmbkdz?oc=5",
-      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance tomshardware.com",
+      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance Tom's Hardware",
       "published_at": "2026-08-23T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 15
-    },
-    {
-      "id": "a39a3cf68133103191063bf3",
-      "title": "Fake Speeds: The Ugly Truth About Wi-Fi 7 Gaming Routers - Tech4Gamers",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc09VZ2VXdzlLc1ZJUjBDX0xoZkFMaHh6OXk1dUZsQzhPa2xDb2c5cXltdWJuMVdrdHg2N1ZsVVNpV2dHSWFYVUI0UHlOaFN1ZzAzUFNLNU5kcGZKT2F1dko2OHlzN01BLWE3MHVPRTM5dERhRFpETXZNWFJrTEZSNFJMbmhyWk0?oc=5",
-      "summary": "Fake Speeds: The Ugly Truth About Wi-Fi 7 Gaming Routers Tech4Gamers",
-      "published_at": "2026-09-04T23:14:54Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
     },
     {
       "id": "6164ca18cb4b8c5958dc08ad",
@@ -62,6 +51,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "2316b43439eef9a4230f1046",
+      "title": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHpld3lEc1lWcDJpZzdsekE3QTctb1FuZWZWS2NrTnFUUnNLcnh2YVY1dHhFbE4zN3lETmhaXzVvcE5hdlcxOXpHMXZSeUcwc2hQWGtkbG9HSjRuQ0JQQS1pbFAzSVk0NkxzWTV2eEYtQnJ4UGp1RXJ3Mng2QkFNQnhxdjdqcFEwRG1PeUl4TERfM0dXVFJJOWRYbmhKX2tqdjZEbXItVkF2NWFjbm5WbFFxRFhFdw?oc=5",
+      "summary": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin",
+      "published_at": "2026-09-01T14:52:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "5b3071d8aaf20c14a4ad22a7",
+      "title": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE20gGGAUFVX3lxTFBIY2toVlRYcEI2LTNCb2JQeEI3ak1HUDd1b2RUS2pEaWI3cXlaQmlFa1J0TGZpaEFCRWlYaFRGUG5UU2hHLUl0OHdua3NaalhKamhjSVlxNVFrLU51ekpGR2NtSEJiT0JSRnNnNmt4T1F4X1M5WjVYUnIxZUlWWmJRUVAzcGl3?oc=5",
+      "summary": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin",
+      "published_at": "2026-09-01T01:49:40Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     },
     {
       "id": "7a3763d30508dac166bd820a",
@@ -87,9 +98,9 @@
     },
     {
       "id": "fa4a9f76a805b7fa3ef12ad7",
-      "title": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range - mightygadget.com",
+      "title": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range - Mighty Gadget",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KU0haQ1lLQmVwT2ZtTGp0QkxqaUxiX1JzVTJ5c2UzUk9ZZGVXM1V0c0c2QjNMYmd1dGJYTDFTT3NhRGNabjNqeUFzc2Y5ZlJqUExLYi13?oc=5",
-      "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range mightygadget.com",
+      "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range Mighty Gadget",
       "published_at": "2026-09-04T10:16:50Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
-    },
-    {
-      "id": "660f2359e3adff87047097bf",
-      "title": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5",
-      "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech",
-      "published_at": "2026-09-01T04:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
