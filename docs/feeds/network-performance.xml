@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 09:21:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:01:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
@@ -111,22 +111,22 @@ ChatGPT down? OpenAI confirms outage as users report network errors, high latenc
       <guid isPermaLink="false">8d7da77fc610b7519c7fba83</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-09-02 10:41
+元記事日付: 2026-09-02 10:36
 テルストラ、全国規模の携帯通信障害の原因はネットワーク時刻同期システムの軽視とファームウェア未更新と説明 BigGo ファイナンス</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-02T01:41:24Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-09-02T01:36:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 今ある機器のまま通信障害を防止！1つのSIM挿入口で回線バックアップができる画期的な仕組み - dxmagazine.jp</title>
+      <title>[性能・障害] 今ある機器のまま通信障害を防止！1つのSIM挿入口で回線バックアップができる画期的な仕組み - DXマガジン</title>
       <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DZGR1Y1pqRGZEb1c5OVVqVHhQaFpXVk1pSTh6Y01PUHpBZjRtSlFRVUl3OVkwOFBXTWpsWHZKM0lwb3U5V1h3OXhVbzg?oc=5</link>
       <guid isPermaLink="false">16756107e5b48a0e769b1d7a</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-01 13:22
-今ある機器のまま通信障害を防止！1つのSIM挿入口で回線バックアップができる画期的な仕組み dxmagazine.jp</description>
+今ある機器のまま通信障害を防止！1つのSIM挿入口で回線バックアップができる画期的な仕組み DXマガジン</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-01T04:22:15Z</sqm:sourcePublishedDate>
