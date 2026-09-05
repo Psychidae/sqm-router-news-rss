@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-05T22:16:29.781065Z",
+  "generated_at": "2026-09-05T23:54:49.788444Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,11 +64,11 @@
       "score": 12
     },
     {
-      "id": "5b3071d8aaf20c14a4ad22a7",
+      "id": "cbdc760c133614283b078c6b",
       "title": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE20gGGAUFVX3lxTFBIY2toVlRYcEI2LTNCb2JQeEI3ak1HUDd1b2RUS2pEaWI3cXlaQmlFa1J0TGZpaEFCRWlYaFRGUG5UU2hHLUl0OHdua3NaalhKamhjSVlxNVFrLU51ekpGR2NtSEJiT0JSRnNnNmt4T1F4X1M5WjVYUnIxZUlWWmJRUVAzcGl3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE2?oc=5",
       "summary": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin",
-      "published_at": "2026-09-01T01:49:40Z",
+      "published_at": "2026-09-01T01:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
