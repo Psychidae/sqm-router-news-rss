@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-05T13:01:53.223833Z",
+  "generated_at": "2026-09-05T16:02:14.752332Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "e558216b38916a8cd1d1b4cf",
+      "title": "Internet outage causing phone issues at Matthews Police Department - WSOC TV",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3FfS3VRaHA4dkFSNTA2WEo0Tk1JakprOU5vYV9zVjdyaG8tODIzWlI4WWJ5Y2wwa1lXd0l5YUozeG9aY3Y3TnVOejk3VG9MWDdyNDZoVVdrVFBXUXBPZEhrdFZLXzk3cE11RGQ4V0hJTDllMUZuX0hQejktT0lJZ0JIbnJQdzRZbkZaV3pDcHZDOGpqNGpGMEFuS244bWVEU0x0aWM5SmRfd240MmxSb2g5VVpHaWp2WmFKXzVDeW5rUVXSAdcBQVVfeXFMUFRuWFdIQS13RlU4RXpINnBKYVZCZ2s5VnZpS3h2Vlp2T2NUM0sxampuTEdRYUxGZlBTRFdDVTJ1X2hzc0EwdkhBU2JUUWFyMnFNODBBVnFWWjdlNHV2ckZDUHRHd0J3eEc3eW9oWHhvd0tyZzl6M0Q4ckhNakV5eWRlZmdKMGV5d21tTXFXTnVLQW83T0Y3bEVkeW1ubzNDTVNfSXhsa2Z3T3ROWW1CVDMzUjVqdENTWFM4OWx5aU5veDNiNEg4YzdHQlN1aGlIMF9kYXdmTEE?oc=5",
+      "summary": "Internet outage causing phone issues at Matthews Police Department WSOC TV",
+      "published_at": "2026-09-04T11:52:38Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "e5a6dfa0c113ce7a8acd3213",
       "title": "PDX internet outage disrupts airlines, rental car firms and some airport services - KATU",
@@ -32,9 +43,9 @@
     },
     {
       "id": "02646a2573eb8b48601e1a31",
-      "title": "Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group - cbc.ca",
+      "title": "Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group - CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aSU1TdFVQVkZZamFlMkNLalA3UmFYenRSeWxmTUY3SDZZWTl0ZWNacUhtSGk0TjhpQU1jRGZOSTdvakwtSDJ5ckV5SkZOV1c2UzRRd2NXUC0xdw?oc=5",
-      "summary": "Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group cbc.ca",
+      "summary": "Bell internet outage in Charlottetown highlights need for tougher rules for providers, says advocacy group CBC",
       "published_at": "2026-09-01T23:04:04Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -54,9 +65,9 @@
     },
     {
       "id": "7f5693445220de4b2e54e944",
-      "title": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad - The Times of India",
+      "title": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnp0RFdDUHNvM1FMMkEzcU5pX3hRSDhXd2UzLUdkWUxfMnFGVnR6VTZEQ2E3cldZZkZXMWNGNFJOcTRra1BobTNQOHRkMVY5a2VRcnVKS0N4dVV4eUNMYndkY1BDMmhhRnJ1RFFScU9QUlEzM3pZR2pZVURoa21Rdnl2N3FCbk9Xay01bExVTVBhcWJNd255aHFjbWZpQUZhYk0taHZjR2dvLWhJYWRjcHVTRDUxN05qSm1Jck9qd0Y2bzdRWFZia08tX1l1eThUZE5iZ0NCZjhGMUlDb0NCd2xOUEpzaHlfNGtJM9IB8gFBVV95cUxOZjRIQnY3R2c2M1RZbnBONHNqSjQwXzdmY095NmpLbDh3QldCdFFnOXZaenBCSWo0RVJhbExidWtDMTlkT1c4cW1wNkFaUWlMZk04bnhhV0JtaU82bUZhS2s3TkRpbUJ2SHlRdUpUcTFDOWVZbXlJdzJDcTk1emdHWUFxbTRiOXlrVDRwTGpSckVvRWxoZ01FeFpubkpYTUthYnJUNlN3Unlxby1YVk9QQXlkbUtvT21ENEdfOXp3a19FZW9FYTZ3SUNFVGN6Z1Zxby1zQzJ1YXNnb3JMZGtxV1hReWxtOWFMUm5MS0s0RG1pUQ?oc=5",
-      "summary": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad The Times of India",
+      "summary": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad timesofindia.indiatimes.com",
       "published_at": "2026-09-01T10:02:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DZGR1Y1pqRGZEb1c5OVVqVHhQaFpXVk1pSTh6Y01PUHpBZjRtSlFRVUl3OVkwOFBXTWpsWHZKM0lwb3U5V1h3OXhVbzg?oc=5",
       "summary": "今ある機器のまま通信障害を防止！1つのSIM挿入口で回線バックアップができる画期的な仕組み DXマガジン",
       "published_at": "2026-09-01T04:22:15Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "5e6cfd1c5c13f37d788a4614",
-      "title": "サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える (1/2) - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTHhFMndpS2FPN3c4dXY0VGhPYkRnTl8zay1VZFg3eDBfUURPN1FCZUtvQnduamc1dzBjdnZpNV9mdjVneFU5RTZUR2JHZ3N6NzJuNA?oc=5",
-      "summary": "サブ回線に最適なのはpovoだけじゃない！ プラス月119円～で通信障害＆ギガ不足に備える (1/2) ASCII.jp",
-      "published_at": "2026-08-30T03:00:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
