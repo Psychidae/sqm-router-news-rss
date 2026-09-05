@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-05T20:21:11.083425Z",
+  "generated_at": "2026-09-05T22:16:29.781065Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -87,9 +87,9 @@
     },
     {
       "id": "0bd734b74f16c00df42c0e92",
-      "title": "I Tested Every Mesh Router to Find the Absolute Best Home Internet - wired.com",
+      "title": "I Tested Every Mesh Router to Find the Absolute Best Home Internet - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UMnVDdE05ck5BLVFCUWpSRlF4QUlKZXZMcldnU3R3akNCckY2blVfaVNuWHJienZ1TDNzUzlxMzRjcEJrVGluVHRBTGVSaW9XTkIwZmpZNlNKT1Q3LTFKYg?oc=5",
-      "summary": "I Tested Every Mesh Router to Find the Absolute Best Home Internet wired.com",
+      "summary": "I Tested Every Mesh Router to Find the Absolute Best Home Internet WIRED",
       "published_at": "2026-08-30T11:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -98,9 +98,9 @@
     },
     {
       "id": "fa4a9f76a805b7fa3ef12ad7",
-      "title": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range - mightygadget.com",
+      "title": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range - Mighty Gadget",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KU0haQ1lLQmVwT2ZtTGp0QkxqaUxiX1JzVTJ5c2UzUk9ZZGVXM1V0c0c2QjNMYmd1dGJYTDFTT3NhRGNabjNqeUFzc2Y5ZlJqUExLYi13?oc=5",
-      "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range mightygadget.com",
+      "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range Mighty Gadget",
       "published_at": "2026-09-04T10:16:50Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
