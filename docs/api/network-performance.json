@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-06T18:16:47.835756Z",
+  "generated_at": "2026-09-06T20:26:05.702169Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -65,9 +65,9 @@
     },
     {
       "id": "7f5693445220de4b2e54e944",
-      "title": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad - The Times of India",
+      "title": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad - timesofindia.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYnp0RFdDUHNvM1FMMkEzcU5pX3hRSDhXd2UzLUdkWUxfMnFGVnR6VTZEQ2E3cldZZkZXMWNGNFJOcTRra1BobTNQOHRkMVY5a2VRcnVKS0N4dVV4eUNMYndkY1BDMmhhRnJ1RFFScU9QUlEzM3pZR2pZVURoa21Rdnl2N3FCbk9Xay01bExVTVBhcWJNd255aHFjbWZpQUZhYk0taHZjR2dvLWhJYWRjcHVTRDUxN05qSm1Jck9qd0Y2bzdRWFZia08tX1l1eThUZE5iZ0NCZjhGMUlDb0NCd2xOUEpzaHlfNGtJM9IB8gFBVV95cUxOZjRIQnY3R2c2M1RZbnBONHNqSjQwXzdmY095NmpLbDh3QldCdFFnOXZaenBCSWo0RVJhbExidWtDMTlkT1c4cW1wNkFaUWlMZk04bnhhV0JtaU82bUZhS2s3TkRpbUJ2SHlRdUpUcTFDOWVZbXlJdzJDcTk1emdHWUFxbTRiOXlrVDRwTGpSckVvRWxoZ01FeFpubkpYTUthYnJUNlN3Unlxby1YVk9QQXlkbUtvT21ENEdfOXp3a19FZW9FYTZ3SUNFVGN6Z1Zxby1zQzJ1YXNnb3JMZGtxV1hReWxtOWFMUm5MS0s0RG1pUQ?oc=5",
-      "summary": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad The Times of India",
+      "summary": "Watch: 'Driverless' car crashes into police van after internet outage in Islamabad timesofindia.indiatimes.com",
       "published_at": "2026-09-01T10:02:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",

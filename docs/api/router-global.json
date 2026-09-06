@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-06T18:16:45.777663Z",
+  "generated_at": "2026-09-06T20:26:03.354269Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
+    },
+    {
+      "id": "0b66ad858df9307afc7438d4",
+      "title": "D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - cybershack.com.au",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0pwWlZ5bjJqLWdNc0o0Xzgwa1QyWDZQazNqZE5SRUJwVXFHbk1VSjNSLXpjOVVNNWxmejVpWDNQeXNkdWJZclZIUjRJQ3gySXpLQVluUG45b3YtV2NMcEc5R1NjeGlIWTZUNw?oc=5",
+      "summary": "D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet cybershack.com.au",
+      "published_at": "2026-08-26T07:24:40Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 15
     },
     {
       "id": "6164ca18cb4b8c5958dc08ad",
@@ -91,8 +102,8 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWjRTNDVfZWd5MERtdVhJRDJCRkNZUGR4OWZuQWtrUVpqeDlyei1aTTlRWjBaMjVtUGNuWm04NDB4WnhIdUl2SmNuSWR0XzlzdHE0RG02aGlTbmdX?oc=5",
       "summary": "Five Best Wi-Fi 7 Mesh Systems: 2026’s Top Options For Large Homes Dong Knows Tech",
       "published_at": "2026-09-04T18:29:57Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZlJCUFFLb00yRnVfNXJxOFI1R3RaWm9YaTlrZC1KVHctVEx1cWR4UDJjdS1GLUd6NFVEQVZwdHUxVl83ZTdBRlJINHJ3VWhWekN4MFVvelplSTdnTWNuQjZQNkNNSVNxaFZQUA?oc=5",
       "summary": "Who Owns Linksys, The Router Brand Cisco Sold Off? bgr.com",
       "published_at": "2026-09-03T15:17:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
-    },
-    {
-      "id": "660f2359e3adff87047097bf",
-      "title": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5",
-      "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech",
-      "published_at": "2026-09-01T04:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
