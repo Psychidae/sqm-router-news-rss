@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-06T04:33:43.485289Z",
+  "generated_at": "2026-09-06T08:54:20.251376Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,25 +10,14 @@
   "items": [
     {
       "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - tomshardware.com",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals tomshardware.com",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
       "published_at": "2026-09-03T11:52:54Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 23
-    },
-    {
-      "id": "8c2fc45c35719b29d05199cb",
-      "title": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance - tomshardware.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjhuQUVwckZJV3FUbjl4NWNEb29qdEhQb2w4Z29qTThfZGhRQ0JtenpZMjI2S1FrYnd5QVRpWkVLcFRpcnp2TEhaX3h1QUhEU2Vxb1lzUmZKS3pvR2JMSGRtc1ZUN2hLa2xtQVdQcnc0VDdjVXZUTFc1Yk9aandxN3BpRGQ3R0Qza2dHeldSMFdHSUFJMkdFVEpDZTZkbFpmbkdz?oc=5",
-      "summary": "TP-Link Deco 7 Pro BE13000 Wi-Fi 7 mesh router review: Value pricing, but average performance tomshardware.com",
-      "published_at": "2026-08-23T07:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 20
     },
     {
       "id": "0b66ad858df9307afc7438d4",
@@ -87,9 +76,9 @@
     },
     {
       "id": "7a3763d30508dac166bd820a",
-      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - Telecompaper",
+      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - telecompaper.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1duemNHNVRXVHNCRHZRNXJ4M0hTa0F0TFZzZjA0NmFDeWZJTkF1djJ1akQyUWR4eE5FNFFtWldyWkxVLU9IZHF5ZFFza0F0Rm5QdXRLVkhnRVpLdXlFMzlhNThtTHptaWJfZm9NYXBGakxMd3RaMnI0ZTlzQkZlSFVYWVN0LVE0U0RoY3MxT1Z4V0tTRGU4?oc=5",
-      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router Telecompaper",
+      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router telecompaper.com",
       "published_at": "2026-08-30T18:07:33Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KU0haQ1lLQmVwT2ZtTGp0QkxqaUxiX1JzVTJ5c2UzUk9ZZGVXM1V0c0c2QjNMYmd1dGJYTDFTT3NhRGNabjNqeUFzc2Y5ZlJqUExLYi13?oc=5",
       "summary": "FRITZ! at IFA 2026: a redesigned flagship FRITZ!Box, tri-band Wi-Fi 7 on cable and a broader fibre range Mighty Gadget",
       "published_at": "2026-09-04T10:16:50Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "97494df27f77504232e4aba2",
+      "title": "Who Owns Linksys, The Router Brand Cisco Sold Off? - bgr.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZlJCUFFLb00yRnVfNXJxOFI1R3RaWm9YaTlrZC1KVHctVEx1cWR4UDJjdS1GLUd6NFVEQVZwdHUxVl83ZTdBRlJINHJ3VWhWekN4MFVvelplSTdnTWNuQjZQNkNNSVNxaFZQUA?oc=5",
+      "summary": "Who Owns Linksys, The Router Brand Cisco Sold Off? bgr.com",
+      "published_at": "2026-09-03T15:17:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
