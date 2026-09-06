@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-06T08:54:20.251376Z",
+  "generated_at": "2026-09-06T12:52:09.428075Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 22
     },
     {
       "id": "0b66ad858df9307afc7438d4",
@@ -43,9 +43,9 @@
     },
     {
       "id": "71d00998a1a77ad683ca7f85",
-      "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
+      "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - dongknows.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
-      "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
+      "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! dongknows.com",
       "published_at": "2026-09-02T15:19:14Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -76,9 +76,9 @@
     },
     {
       "id": "7a3763d30508dac166bd820a",
-      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - telecompaper.com",
+      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1duemNHNVRXVHNCRHZRNXJ4M0hTa0F0TFZzZjA0NmFDeWZJTkF1djJ1akQyUWR4eE5FNFFtWldyWkxVLU9IZHF5ZFFza0F0Rm5QdXRLVkhnRVpLdXlFMzlhNThtTHptaWJfZm9NYXBGakxMd3RaMnI0ZTlzQkZlSFVYWVN0LVE0U0RoY3MxT1Z4V0tTRGU4?oc=5",
-      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router telecompaper.com",
+      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router Telecompaper",
       "published_at": "2026-08-30T18:07:33Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -94,7 +94,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 10
     },
     {
       "id": "fa4a9f76a805b7fa3ef12ad7",
