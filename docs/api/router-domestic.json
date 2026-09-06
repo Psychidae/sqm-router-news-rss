@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-06T20:26:02.185924Z",
+  "generated_at": "2026-09-06T22:20:51.420808Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "b4566f0dc8a6c244b05ea263",
-      "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1teGZJTDYyYVlRS1RqMkZ6eld5SGk0Sl91TmozUngtUnZOeUVpVnhNd1V5WUgtLWhPWUFlallnR0NFQmVwdFVUcm40V09vTVlaVmExY0d5N1E0d1drLXZR?oc=5",
-      "summary": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 千葉テレビ放送",
-      "published_at": "2026-09-05T23:13:22Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 18
-    },
     {
       "id": "4640d36922ec078a7a8df1b3",
       "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - ｄメニューニュース",
@@ -32,9 +21,9 @@
     },
     {
       "id": "baa06b6b60577a2ccba1e119",
-      "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - ケータイ Watch",
+      "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - k-tai.watch.impress.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pckJPMXVZUUw1X1FQNE4zMHBfVmFHc1FQWTdpSlhETXk2TGRfNG5kOU1ZUlZKY2lxQi1sQlY4Ui1tVHVsVENLYV9uWHhpY1RyVktUWlllM1VRQjBWMU9HY3A4cTFVa1U?oc=5",
-      "summary": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 ケータイ Watch",
+      "summary": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 k-tai.watch.impress.co.jp",
       "published_at": "2026-09-05T23:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -47,8 +36,8 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEVnFCbjU2Z0tXS0ROOHB6eklac252WkFYYVBXZUpGMG1DLXp5ak1SaTdNTldqSU1uYUJESHhTN3F4Nk9NaFdNaFByUkpuRGhaUVVQenp3UjlCeVowLW5QeS1KNlhCMVdWOXlDbk5LWXJIaFgx?oc=5",
       "summary": "ASUS、Wi-Fi 8対応ゲーミングルーターをカナダで先行発売 10月に世界展開 BigGo ファイナンス",
       "published_at": "2026-09-04T18:42:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
     },
@@ -79,7 +68,7 @@
       "title": "WiFi 7対応で最大3600Mbpsクラス！ ASUSのゲーミングルーター「TUF Gaming BE3600」9月11日発売 - AppBank",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxbTJ2WFNDaVpfa2FrQmFwX0JDVFc4YmJVYWRWdWJtS3ZOQ1NuNWVBYl9GdWs4WFNHT3RNdXZrcERfcmRwMFoxaEpGQjFUcUNoZEtubzNGbTZqSEZZa0hxY1hGc3MtX2g0SHc?oc=5",
       "summary": "WiFi 7対応で最大3600Mbpsクラス！ ASUSのゲーミングルーター「TUF Gaming BE3600」9月11日発売 AppBank",
-      "published_at": "2026-09-04T09:08:25Z",
+      "published_at": "2026-09-04T09:08:26Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
+    },
+    {
+      "id": "26663214bdc4109040d5362d",
+      "title": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mVkY1WmhVZW1fejZzRFFVQkxJdkpnZ0tlUFo2UzBta2w4Q3ppZ2pXZTBPX3A1QUxqUk9PUzFqRFRRUlc3TV83RGl5XzdmUm5xQ2RYMFlzVDU2VmRFQWlfNU1HZlRHamZETzVZeEFQV0k0WFVVeU5hT2lB?oc=5",
+      "summary": "バッファローのWi-Fi 7対応モデルが好調 無線LANルーター人気ランキングTOP10 2026/8/31 BCN Retail",
+      "published_at": "2026-08-31T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
     }
   ]
 }
