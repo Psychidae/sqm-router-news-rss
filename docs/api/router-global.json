@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-06T16:14:10.150840Z",
+  "generated_at": "2026-09-06T18:16:45.777663Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,37 +9,26 @@
   "errors": [],
   "items": [
     {
-      "id": "0b66ad858df9307afc7438d4",
-      "title": "D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet - CyberShack",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wV0pwWlZ5bjJqLWdNc0o0Xzgwa1QyWDZQazNqZE5SRUJwVXFHbk1VSjNSLXpjOVVNNWxmejVpWDNQeXNkdWJZclZIUjRJQ3gySXpLQVluUG45b3YtV2NMcEc5R1NjeGlIWTZUNw?oc=5",
-      "summary": "D-Link BE7212GR Mesh Router Review: Lightning fast Ethernet CyberShack",
-      "published_at": "2026-08-26T07:24:40Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 15
-    },
-    {
-      "id": "af960ae5477facaa03a27f86",
-      "title": "Amazon eero 7 dual-band mesh Wi-Fi 7 router dips to $254.99 - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTE4T3R1V05JY1A0M1ZLY3dkV3lFUEppMEcxN1BNRXFMdnBLUEJWeFAxeDA4bEdEWG5tZFIwMUlyM1F4UnVEd1VUOWZrend3TEdyM2dUNUtyVGx4bjZRSXdyc1BLUFhKUl9HMjZtaTJQNmU0WTZOcGRBa2w0MVZ2VVZ0cWZhVWxJVFlLajJZazhGZzFT?oc=5",
-      "summary": "Amazon eero 7 dual-band mesh Wi-Fi 7 router dips to $254.99 Technobezz",
-      "published_at": "2026-09-06T02:37:59Z",
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-09-03T11:52:54Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 22
     },
     {
-      "id": "a39a3cf68133103191063bf3",
-      "title": "Fake Speeds: The Ugly Truth About Wi-Fi 7 Gaming Routers - Tech4Gamers",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc09VZ2VXdzlLc1ZJUjBDX0xoZkFMaHh6OXk1dUZsQzhPa2xDb2c5cXltdWJuMVdrdHg2N1ZsVVNpV2dHSWFYVUI0UHlOaFN1ZzAzUFNLNU5kcGZKT2F1dko2OHlzN01BLWE3MHVPRTM5dERhRFpETXZNWFJrTEZSNFJMbmhyWk0?oc=5",
-      "summary": "Fake Speeds: The Ugly Truth About Wi-Fi 7 Gaming Routers Tech4Gamers",
-      "published_at": "2026-09-04T23:14:54Z",
+      "id": "6164ca18cb4b8c5958dc08ad",
+      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - Expert Reviews",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTYzMk1PWE1nTHJfWGMwQUE1MXVJSkw5RWx2N0F0YnRuZkd1cEhUMmFGTVc0SkpnSWNvdUl4bmg4cGFJcEVjRkJtTlU0R0ZDUWxrNDJySlJnbG1MU0hyRXdWMDR4LS1BbnlVQXNOOFdLZG9ZdUM2bFNycEw4TFVzNXZvWDBmZkQtN2RHYXNUM3B5T2FxTjhyUl9WNkd4TXVWQjJkalYtb0VBX1Y1eGF2Q0M1QnBLN2x2U0x1MlV2NVMtdFA0Zmo1ZWdR?oc=5",
+      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all Expert Reviews",
+      "published_at": "2026-09-03T15:39:39Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "71d00998a1a77ad683ca7f85",
@@ -75,6 +64,17 @@
       "score": 12
     },
     {
+      "id": "7a3763d30508dac166bd820a",
+      "title": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1duemNHNVRXVHNCRHZRNXJ4M0hTa0F0TFZzZjA0NmFDeWZJTkF1djJ1akQyUWR4eE5FNFFtWldyWkxVLU9IZHF5ZFFza0F0Rm5QdXRLVkhnRVpLdXlFMzlhNThtTHptaWJfZm9NYXBGakxMd3RaMnI0ZTlzQkZlSFVYWVN0LVE0U0RoY3MxT1Z4V0tTRGU4?oc=5",
+      "summary": "Vodafone Portugal debuts Ultra Hub Wi-Fi 7 router Telecompaper",
+      "published_at": "2026-08-30T18:07:33Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "0bd734b74f16c00df42c0e92",
       "title": "I Tested Every Mesh Router to Find the Absolute Best Home Internet - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UMnVDdE05ck5BLVFCUWpSRlF4QUlKZXZMcldnU3R3akNCckY2blVfaVNuWHJienZ1TDNzUzlxMzRjcEJrVGluVHRBTGVSaW9XTkIwZmpZNlNKT1Q3LTFKYg?oc=5",
@@ -91,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fWjRTNDVfZWd5MERtdVhJRDJCRkNZUGR4OWZuQWtrUVpqeDlyei1aTTlRWjBaMjVtUGNuWm04NDB4WnhIdUl2SmNuSWR0XzlzdHE0RG02aGlTbmdX?oc=5",
       "summary": "Five Best Wi-Fi 7 Mesh Systems: 2026’s Top Options For Large Homes Dong Knows Tech",
       "published_at": "2026-09-04T18:29:57Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "5751a2ef5cae58dcf901d35d",
-      "title": "SIMBA Brings Premium Whole-Home Wi-Fi Coverage to Singapore with Huawei’s First-in-Singapore Wi-Fi 7 Router-Integrated ONR, Redefining What Home Broadband Can Be - wakeup.sg",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WZG1IcTM5SzQzdGNONkVpZmFuYml6dmFyQmpad1BRUkhWSU1DdFFfTVZ2S0tlbXZtdDdSTHF0ekE0LXlGVTdqclBOSkZDZW0zR1hLaGsyWTdoYzg?oc=5",
-      "summary": "SIMBA Brings Premium Whole-Home Wi-Fi Coverage to Singapore with Huawei’s First-in-Singapore Wi-Fi 7 Router-Integrated ONR, Redefining What Home Broadband Can Be wakeup.sg",
-      "published_at": "2026-09-04T04:00:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RZlJCUFFLb00yRnVfNXJxOFI1R3RaWm9YaTlrZC1KVHctVEx1cWR4UDJjdS1GLUd6NFVEQVZwdHUxVl83ZTdBRlJINHJ3VWhWekN4MFVvelplSTdnTWNuQjZQNkNNSVNxaFZQUA?oc=5",
       "summary": "Who Owns Linksys, The Router Brand Cisco Sold Off? bgr.com",
       "published_at": "2026-09-03T15:17:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "660f2359e3adff87047097bf",
+      "title": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2I0aU9XT1dFeVFuSTJya3RjeVlxNkRYOW9YemMtYVNhVkpOcVdDcGJQMnVZLU04V1dBMmEzLXRUX2RqYm5IV01QSkZ6LWhKSjctNWVnOUMzZzluMzFiQ1VBTE1DUkVDcUdKR1drajVTMURuVkpHM0lPTFI1MExDNQ?oc=5",
+      "summary": "TP-Link Teases More Details on Upcoming Wi-Fi 8 Lineup: Powerful Archer 8 Router and Deco 8 Mesh System Dong Knows Tech",
+      "published_at": "2026-09-01T04:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
