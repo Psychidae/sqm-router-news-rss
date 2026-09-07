@@ -5,19 +5,33 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 10:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 15:51:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5</link>
+      <guid isPermaLink="false">d0fbb7c9aa5da4fd91ac5260</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-07 20:11
+IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn</description>
+      <pubDate>Mon, 07 Sep 2026 15:51:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-07T15:51:38.069330Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-07T11:11:19Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - Data Center Cafe</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5</link>
       <guid isPermaLink="false">f63553cf8fd4288c096af425</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-09-07 13:55
+元記事日付: 2026-09-07 14:10
 Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 Data Center Cafe</description>
       <pubDate>Mon, 07 Sep 2026 10:15:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T10:15:06.949797Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-07T04:55:57Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-09-07T05:10:15Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -50,13 +64,13 @@ Internet outage causing phone issues at Matthews Police Department WSOC TV</desc
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
+      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - katu.com</title>
       <link>https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHNncUs2S2lWdGtPdVpLOWlpc3Z2aHItd1d3eTE1bGRNa0dHYmFyajBldGlEamdnS2lFUTVFVjhSRnVTRjh0UDB6bGs5S2FtWjgyN250MEJPQTJiYjQzRklsWklzdnN6WkFuQ0tybGNMZEdhLVdiamtGdWJ4NmNUV1BQdXRidVUwaC1faTBPdF9RblA1d1hxZDExVWpIX1ktd3JWNEE5M01QaW1TMWV1REo1Yml3cDNyaWlXY1cya2lCcHp1M2FFVHdINVhnaWFIeWJNQmp4SmszRmNDMFZvZlNsRFRDMGc3U3FqN1hseldvd28?oc=5</link>
       <guid isPermaLink="false">e5a6dfa0c113ce7a8acd3213</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-03 06:59
-PDX internet outage disrupts airlines, rental car firms and some airport services KATU</description>
+PDX internet outage disrupts airlines, rental car firms and some airport services katu.com</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T21:59:11Z</sqm:sourcePublishedDate>
@@ -64,13 +78,13 @@ PDX internet outage disrupts airlines, rental car firms and some airport service
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
+      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - katu.com</title>
       <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTVRESkxaN1lCY3VCSFV0S2RVYS15T1ZodHE5VjVKdUwxdzhuTjFSM1Rta2Vvd0dLRXBvdXllRTRBRGJJNTdQSk5BSENad0xnMTVTbFR2bklkWGFqMnlveHJkSnBxa3BuTG5MT3FTZHNJMldJVmducnJnNG9SaXlQcE1ZY3lpVGZmRW1SVHNESnE3N2gzNGhiR0UtbU5CN0FPYmpiVUVsYS1XR0NITTZQSE9HWURaTG9LUjBlTFJyaVpQLVVCa3E1ZUdINjlobWlXVjZqZGFNNzBXNWFvb0d5aDJoTHl4QnkyUzZ0eUtmbDZISEgzNU0yTVI3Y2dMQQ?oc=5</link>
       <guid isPermaLink="false">b0260c848a194b08335dad92</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-03 04:00
-PDX internet outage disrupts airlines, rental car firms and some airport services KATU</description>
+PDX internet outage disrupts airlines, rental car firms and some airport services katu.com</description>
       <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T19:00:52Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ Watch: 'Driverless' car crashes into police van after internet outage in Islamab
       <pubDate>Sat, 05 Sep 2026 23:54:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-05T23:54:51.884555Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T09:12:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-02 17:00
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-02T08:00:42Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
