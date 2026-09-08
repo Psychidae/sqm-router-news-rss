@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-08T21:24:12.386649Z",
+  "generated_at": "2026-09-08T23:39:38.003258Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
+    },
+    {
+      "id": "2140589e842a69848e2ef0f8",
+      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - techradar.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5",
+      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones techradar.com",
+      "published_at": "2026-09-08T21:50:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "6124c514c612bc3382bd385d",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHpld3lEc1lWcDJpZzdsekE3QTctb1FuZWZWS2NrTnFUUnNLcnh2YVY1dHhFbE4zN3lETmhaXzVvcE5hdlcxOXpHMXZSeUcwc2hQWGtkbG9HSjRuQ0JQQS1pbFAzSVk0NkxzWTV2eEYtQnJ4UGp1RXJ3Mng2QkFNQnhxdjdqcFEwRG1PeUl4TERfM0dXVFJJOWRYbmhKX2tqdjZEbXItVkF2NWFjbm5WbFFxRFhFdw?oc=5",
       "summary": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin",
       "published_at": "2026-09-01T14:52:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "cbdc760c133614283b078c6b",
-      "title": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE2?oc=5",
-      "summary": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin",
-      "published_at": "2026-09-01T01:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

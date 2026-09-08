@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 23:39:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -18,6 +18,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <pubDate>Sun, 06 Sep 2026 18:16:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-06T18:16:45.776718Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-03T11:52:54Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - techradar.com</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5</link>
+      <guid isPermaLink="false">2140589e842a69848e2ef0f8</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-09 06:50
+GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones techradar.com</description>
+      <pubDate>Tue, 08 Sep 2026 23:39:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-08T23:39:38.002337Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-08T21:50:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -130,20 +144,6 @@ TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over
       <pubDate>Sat, 05 Sep 2026 09:21:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-05T09:21:50.490162Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-01T14:52:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE2?oc=5</link>
-      <guid isPermaLink="false">cbdc760c133614283b078c6b</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-01 10:00
-ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin</description>
-      <pubDate>Sun, 06 Sep 2026 22:20:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-06T22:20:52.560636Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T01:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
