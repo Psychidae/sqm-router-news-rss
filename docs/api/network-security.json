@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-07T22:48:22.754292Z",
+  "generated_at": "2026-09-08T05:56:06.924344Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 1,
+  "count": 2,
   "errors": [],
   "items": [
+    {
+      "id": "6f74737b08cf0c5b6a9e1c0b",
+      "title": "CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96Y2lDclpIdk9IajZWMWlJLWpteFpZZWVrYXFOQnVhNmhneTRFYVNYRndHdVU5NDEwSnJoenZXVDFrbWl0UVFzeDRFcjRyWHk4LU1xX25qVUE3WC1QSWxUVDNsbVVhUEJIRUhGcGxZUXpFbFdRbEZKSFRxLXo?oc=5",
+      "summary": "CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks SOC Prime",
+      "published_at": "2026-09-07T15:09:33Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "e4414b0da216c1e8b4e2b484",
       "title": "高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 - PR TIMES",
