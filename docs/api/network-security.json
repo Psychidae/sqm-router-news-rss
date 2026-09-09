@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-09T01:31:54.873596Z",
+  "generated_at": "2026-09-09T06:40:47.321686Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 2,
+  "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "74024de4ca898974987c716e",
+      "title": "WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク - 株式会社アクト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2eWZyRTlXN1BIY09oQ0hJaFVmaUdwNWJVWVliMG83dFlXbTVGR2xrYUFGNjdUQzVJbllpUHMtclBmVHBWRWFBWA?oc=5",
+      "summary": "WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク 株式会社アクト",
+      "published_at": "2026-09-09T00:31:45Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "6f74737b08cf0c5b6a9e1c0b",
       "title": "CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime",
@@ -21,14 +32,25 @@
     },
     {
       "id": "e4414b0da216c1e8b4e2b484",
-      "title": "高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 - prtimes.jp",
+      "title": "高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CRElmcVE2VEI4aldMcm8ybFNQc3YySG5hY2JQaWxabjFkSmdoaVdCSEx1SFJuR2I3elNiM3FUZ1I5QW5pZUoyU2JkWk1KT2pCaWVIZHQzRHhkMVY1UUtXd29sREVhZ2dtd1E?oc=5",
-      "summary": "高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 prtimes.jp",
+      "summary": "高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 PR TIMES",
       "published_at": "2026-09-03T02:00:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
+    },
+    {
+      "id": "adc4084602b65b42ced2164e",
+      "title": "衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ - gmo-cybersecurity.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib1VvUGx1T0Y0RE5fZUdyUlR0aTJhZzM0R3pQbDRoOXZwc3JQVE9zZmhHbEppN0tDS2laS3VKalVWMDZGOVpxbUJaVHgySEZtLXplM0ozSXpjUHBOOVZvekVVOUMtSWM?oc=5",
+      "summary": "衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ gmo-cybersecurity.com",
+      "published_at": "2026-09-09T04:33:45Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     }
   ]
 }
