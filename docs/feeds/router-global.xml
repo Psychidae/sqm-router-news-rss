@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 11:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:35:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -46,6 +46,20 @@ I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way 
       <pubDate>Mon, 07 Sep 2026 15:51:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T15:51:36.170058Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T10:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag UK</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWtDZHVEb3dzR0Vyc1V0ZkJMazZjN0RFSjdHQkJHVjRHSEdXeEFVZG1MVzA0TmN2Q1BJNXRFeUJ0b2lEM1dTZDFCTWFnOVlGcXlHM2xGaXlfMFdUb2xzdmQ4dU1hVUczbnlzYkJzVE5OUVl4dnNFYUUtU3hUTHJNaW14UlVKbW12alNDbzIyVzEtREhCVmlnUGg0VUlHME1PaFN4WDBXV0dFQQ?oc=5</link>
+      <guid isPermaLink="false">4c3d7531ab66d3a33482c1d2</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-10 00:39
+Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag UK</description>
+      <pubDate>Wed, 09 Sep 2026 16:35:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-09T16:35:22.079466Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-09T15:39:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -92,13 +106,13 @@ Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router SlashGear<
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - Expert Reviews</title>
+      <title>[海外ルーターニュース] The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - expertreviews.co.uk</title>
       <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTYzMk1PWE1nTHJfWGMwQUE1MXVJSkw5RWx2N0F0YnRuZkd1cEhUMmFGTVc0SkpnSWNvdUl4bmg4cGFJcEVjRkJtTlU0R0ZDUWxrNDJySlJnbG1MU0hyRXdWMDR4LS1BbnlVQXNOOFdLZG9ZdUM2bFNycEw4TFVzNXZvWDBmZkQtN2RHYXNUM3B5T2FxTjhyUl9WNkd4TXVWQjJkalYtb0VBX1Y1eGF2Q0M1QnBLN2x2U0x1MlV2NVMtdFA0Zmo1ZWdR?oc=5</link>
       <guid isPermaLink="false">6164ca18cb4b8c5958dc08ad</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-04 00:39
-The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all Expert Reviews</description>
+The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all expertreviews.co.uk</description>
       <pubDate>Sun, 06 Sep 2026 18:16:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-06T18:16:45.776718Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-03T15:39:39Z</sqm:sourcePublishedDate>
@@ -116,20 +130,6 @@ UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole
       <pubDate>Thu, 03 Sep 2026 18:36:00 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-03T18:36:00.844841Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-02T15:19:14Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 - Neowin</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHpld3lEc1lWcDJpZzdsekE3QTctb1FuZWZWS2NrTnFUUnNLcnh2YVY1dHhFbE4zN3lETmhaXzVvcE5hdlcxOXpHMXZSeUcwc2hQWGtkbG9HSjRuQ0JQQS1pbFAzSVk0NkxzWTV2eEYtQnJ4UGp1RXJ3Mng2QkFNQnhxdjdqcFEwRG1PeUl4TERfM0dXVFJJOWRYbmhKX2tqdjZEbXItVkF2NWFjbm5WbFFxRFhFdw?oc=5</link>
-      <guid isPermaLink="false">2316b43439eef9a4230f1046</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-01 23:52
-TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin</description>
-      <pubDate>Sat, 05 Sep 2026 09:21:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-05T09:21:50.490162Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-01T14:52:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

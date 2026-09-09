@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-09T11:50:08.126772Z",
+  "generated_at": "2026-09-09T16:35:22.080448Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,6 +42,17 @@
       "score": 18
     },
     {
+      "id": "4c3d7531ab66d3a33482c1d2",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWtDZHVEb3dzR0Vyc1V0ZkJMazZjN0RFSjdHQkJHVjRHSEdXeEFVZG1MVzA0TmN2Q1BJNXRFeUJ0b2lEM1dTZDFCTWFnOVlGcXlHM2xGaXlfMFdUb2xzdmQ4dU1hVUczbnlzYkJzVE5OUVl4dnNFYUUtU3hUTHJNaW14UlVKbW12alNDbzIyVzEtREhCVmlnUGg0VUlHME1PaFN4WDBXV0dFQQ?oc=5",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag UK",
+      "published_at": "2026-09-09T15:39:16Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "f5f7c0b296bba0b6f513de29",
       "title": "This Mesh Router Gives You Great Wi-Fi Without Costing a Fortune - New York Magazine",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyUWdCTjBoVzdua3VnWm9iREc5cW10N0I2Nmo4c1RRRzNJT1VTT3lQRFl2NkktbjRGRXFFX25HYWxDNUsxQ0ZDRFdWdTE4SmpMVk4tV1NpbkNReHluWXdIV1NjZUhmZU1TaTdMUFZGOFZVU1FrRXc?oc=5",
@@ -50,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "ede81790b2ea8b77d86ac2c3",
@@ -61,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "13365b0ac2d382c3cf83f96b",
@@ -76,9 +87,9 @@
     },
     {
       "id": "6164ca18cb4b8c5958dc08ad",
-      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - Expert Reviews",
+      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - expertreviews.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTYzMk1PWE1nTHJfWGMwQUE1MXVJSkw5RWx2N0F0YnRuZkd1cEhUMmFGTVc0SkpnSWNvdUl4bmg4cGFJcEVjRkJtTlU0R0ZDUWxrNDJySlJnbG1MU0hyRXdWMDR4LS1BbnlVQXNOOFdLZG9ZdUM2bFNycEw4TFVzNXZvWDBmZkQtN2RHYXNUM3B5T2FxTjhyUl9WNkd4TXVWQjJkalYtb0VBX1Y1eGF2Q0M1QnBLN2x2U0x1MlV2NVMtdFA0Zmo1ZWdR?oc=5",
-      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all Expert Reviews",
+      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all expertreviews.co.uk",
       "published_at": "2026-09-03T15:39:39Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -91,17 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
       "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
       "published_at": "2026-09-02T15:19:14Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "2316b43439eef9a4230f1046",
-      "title": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHpld3lEc1lWcDJpZzdsekE3QTctb1FuZWZWS2NrTnFUUnNLcnh2YVY1dHhFbE4zN3lETmhaXzVvcE5hdlcxOXpHMXZSeUcwc2hQWGtkbG9HSjRuQ0JQQS1pbFAzSVk0NkxzWTV2eEYtQnJ4UGp1RXJ3Mng2QkFNQnhxdjdqcFEwRG1PeUl4TERfM0dXVFJJOWRYbmhKX2tqdjZEbXItVkF2NWFjbm5WbFFxRFhFdw?oc=5",
-      "summary": "TP-Link unveils world's first Wi-Fi 8 router, reveals a much-needed benefit over Wi-Fi 7 Neowin",
-      "published_at": "2026-09-01T14:52:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
