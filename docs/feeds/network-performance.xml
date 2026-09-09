@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:50:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] NIXI and APNIC sign MoU to reduce latency and improve network resilience - BusinessLine</title>
@@ -64,13 +64,13 @@ IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - cafe-dc.com</title>
+      <title>[性能・障害] Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - Data Center Cafe</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5</link>
       <guid isPermaLink="false">f63553cf8fd4288c096af425</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 14:10
-Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 cafe-dc.com</description>
+Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 Data Center Cafe</description>
       <pubDate>Mon, 07 Sep 2026 10:15:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T10:15:06.949797Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T05:10:15Z</sqm:sourcePublishedDate>
