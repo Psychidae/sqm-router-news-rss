@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-09T19:28:53.163192Z",
+  "generated_at": "2026-09-09T21:56:26.793656Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,14 +21,14 @@
     },
     {
       "id": "2140589e842a69848e2ef0f8",
-      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - TechRadar",
+      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - techradar.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5",
-      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones TechRadar",
+      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones techradar.com",
       "published_at": "2026-09-08T21:50:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "6124c514c612bc3382bd385d",
@@ -42,11 +42,33 @@
       "score": 18
     },
     {
+      "id": "2ecf107f6e1d789e5ec735b2",
+      "title": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmd0RGpzZXlrMVI4TmRIX1R1ZFdLQVIydC12dUU5cUJMYzhDb2pNS2NnQ2laVXByb2RQOWowOFdxc2xLQ3Z0amJTTkl2YlkyVVVLZDE2Q3pxRDZkWlgtanhIRVZDNzdTaWR4TVVQSG9xMHFKX190RVRkc2dzQWJhZmdhaUlLRXhRM0lDQzdvWjBKbEV5ZFIzemxEaUlERl9ILTNiRQ?oc=5",
+      "summary": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices BASENOR - Tesla Accessories",
+      "published_at": "2026-09-09T20:04:15Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "e3510a4700f0af40a4d2c03e",
       "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
       "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
       "published_at": "2026-09-09T16:34:35Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "db486d910468b76cea9fbdb5",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXNJb29wME9wcm42NGNVZWNiaF8zdWpFLXJSdlpYaEVvM25VMUF1YmVUdFlaM1F0VFZlbFlwamotSzdWQVlWdXZQbGx6a1VfRHV1ZzBUYXZ0UGRVNDhTM2dFM05xUW9aTzl6UG1tUmY2aUk0WWJ1amVPX01lb1htZXFnaFV0QkFNVG9IZTZNd2g1OEpyQ1l4SzJaLVlaRUJXNVpwbGxUaVhJQQ?oc=5",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag Australia",
+      "published_at": "2026-09-09T15:39:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "71d00998a1a77ad683ca7f85",
-      "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
-      "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
-      "published_at": "2026-09-02T15:19:14Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "cbdc760c133614283b078c6b",
-      "title": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off - Neowin",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWms2aU9wUWxYd3RheXp6Znp3R2NUc1JxV2RXNmpBdUc3S0tMV3hnOGFBMXZPX2pPRWJzbVd6eEJuMG9sTlJXaENLemVJdXg4Z29EdU1NOEpzY0VLZzRmWmhrVXcyZHJDUDhya2l0SEhoeGd2YWZBalpWS0lyWVYxTk5NMkVqSUE2?oc=5",
-      "summary": "ASUS TUF Gaming BE6500 Wi-Fi 7 router is now 27% off Neowin",
-      "published_at": "2026-09-01T01:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
