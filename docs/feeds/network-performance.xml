@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:28:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 - coindesk.com</title>
+      <title>[性能・障害] Iran hackers claim responsibility for North Texas internet outage that affected thousands, AT&amp;T refutes claim - WFAA</title>
+      <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnVLY1FILWJIZ1laQ2lLZGJDWUV5ZE5WTHIyRU9YbDloT3BlNkRtbzhodFAwWDR4WnBUdGt1Y1FsaGtXVE1lNDRicjBBV2NUQ1NzdVNsRGwzY1lDZThIaTlhU29tSzFuNm5QRzhCZG4wOTZ0OTV0UEtKOUZPVWxxeVdBejZVUFVpM0FZUURHMGNtRzdxYmNRTk1UMUdESjl1T2FGblQ5N280Wmw0UTZMU0NqQnNCSlExSks2NEM1cGllY1ZIRjdqX0l0WEVsYjhWZXhtb0Q4bEtnRkpFZ1E0MnVrSG9RMWZWNHNnU1JXX3RiVXN2NVFwdXBIelJKZ092U0E?oc=5</link>
+      <guid isPermaLink="false">b0b71db6671be452ab1376e2</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-10 00:28
+Iran hackers claim responsibility for North Texas internet outage that affected thousands, AT&amp;T refutes claim WFAA</description>
+      <pubDate>Wed, 09 Sep 2026 19:28:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-09T19:28:55.341982Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-09T15:28:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 - CoinDesk</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkFiSHhNdVZscnJRVy1XVnJRVjlKWnk1RnIwYU5GUm5sbjgzYWhNQzRFcFN3b3lNRkIyemhmblJCbUJ5MFpYVFl6R0M0TXdCYmg5OUxfTXB4OXl1T0U4dms0Zjk3MGNwOGItVUNUZ0xhTWh6M2hxMm95M2N4VnRTMzFiTVlXSmpNX2N6YkwtTDc4WExBYXAwSjhUckFrWlJfUEE2bDFrX24xWURCSEs0?oc=5</link>
       <guid isPermaLink="false">a254a492e286dcb9bfc3c0fc</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-09 23:00
-DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 coindesk.com</description>
+DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 CoinDesk</description>
       <pubDate>Wed, 09 Sep 2026 16:35:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-09T16:35:24.886276Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T14:00:00Z</sqm:sourcePublishedDate>
@@ -64,20 +78,6 @@ AT&amp;T internet outage: Hundreds report fiber and broadband services down; Tex
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-08 08:30
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Tue, 08 Sep 2026 23:39:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-08T23:39:40.421232Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-07T23:30:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5</link>
       <guid isPermaLink="false">d0fbb7c9aa5da4fd91ac5260</guid>
@@ -106,13 +106,13 @@ Telstra、7月の通信障害の原因はネットワーク同期システムの
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - PR TIMES</title>
+      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - prtimes.jp</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE03Sl9MUGtfcmFiM3JDRjVueHhLejd6dm9CWGxSSndpUk9WSHpTejNJbkFNT2ZJUmtvOXpHelFxb0c3MTl1dmxxVGNLMnlDVmQyQ19jMXNyTnpRWnlPM1RDSmhJLUtxbWNlN0E?oc=5</link>
       <guid isPermaLink="false">1bd99b56911693d9a5e5be94</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 10:00
-ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 PR TIMES</description>
+ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 prtimes.jp</description>
       <pubDate>Mon, 07 Sep 2026 05:13:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T05:13:04.132466Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T01:00:02Z</sqm:sourcePublishedDate>
@@ -120,30 +120,30 @@ Telstra、7月の通信障害の原因はネットワーク同期システムの
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Internet outage causing phone issues at Matthews Police Department - WSOC TV</title>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-07 09:58
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Tue, 08 Sep 2026 23:39:40 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-08T23:39:40.421232Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-07T00:58:17Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet outage causing phone issues at Matthews Police Department - wsoctv.com</title>
       <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3FfS3VRaHA4dkFSNTA2WEo0Tk1JakprOU5vYV9zVjdyaG8tODIzWlI4WWJ5Y2wwa1lXd0l5YUozeG9aY3Y3TnVOejk3VG9MWDdyNDZoVVdrVFBXUXBPZEhrdFZLXzk3cE11RGQ4V0hJTDllMUZuX0hQejktT0lJZ0JIbnJQdzRZbkZaV3pDcHZDOGpqNGpGMEFuS244bWVEU0x0aWM5SmRfd240MmxSb2g5VVpHaWp2WmFKXzVDeW5rUVXSAdcBQVVfeXFMUFRuWFdIQS13RlU4RXpINnBKYVZCZ2s5VnZpS3h2Vlp2T2NUM0sxampuTEdRYUxGZlBTRFdDVTJ1X2hzc0EwdkhBU2JUUWFyMnFNODBBVnFWWjdlNHV2ckZDUHRHd0J3eEc3eW9oWHhvd0tyZzl6M0Q4ckhNakV5eWRlZmdKMGV5d21tTXFXTnVLQW83T0Y3bEVkeW1ubzNDTVNfSXhsa2Z3T3ROWW1CVDMzUjVqdENTWFM4OWx5aU5veDNiNEg4YzdHQlN1aGlIMF9kYXdmTEE?oc=5</link>
       <guid isPermaLink="false">e558216b38916a8cd1d1b4cf</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-04 20:52
-Internet outage causing phone issues at Matthews Police Department WSOC TV</description>
+Internet outage causing phone issues at Matthews Police Department wsoctv.com</description>
       <pubDate>Sat, 05 Sep 2026 16:02:14 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-05T16:02:14.751370Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-04T11:52:38Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] PDX internet outage disrupts airlines, rental car firms and some airport services - KATU</title>
-      <link>https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTVRESkxaN1lCY3VCSFV0S2RVYS15T1ZodHE5VjVKdUwxdzhuTjFSM1Rta2Vvd0dLRXBvdXllRTRBRGJJNTdQSk5BSENad0xnMTVTbFR2bklkWGFqMnlveHJkSnBxa3BuTG5MT3FTZHNJMldJVmducnJnNG9SaXlQcE1ZY3lpVGZmRW1SVHNESnE3N2gzNGhiR0UtbU5CN0FPYmpiVUVsYS1XR0NITTZQSE9HWURaTG9LUjBlTFJyaVpQLVVCa3E1ZUdINjlobWlXVjZqZGFNNzBXNWFvb0d5aDJoTHl4QnkyUzZ0eUtmbDZISEgzNU0yTVI3Y2dMQQ?oc=5</link>
-      <guid isPermaLink="false">b0260c848a194b08335dad92</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-03 04:00
-PDX internet outage disrupts airlines, rental car firms and some airport services KATU</description>
-      <pubDate>Fri, 04 Sep 2026 23:01:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-04T23:01:59.860115Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-02T19:00:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
