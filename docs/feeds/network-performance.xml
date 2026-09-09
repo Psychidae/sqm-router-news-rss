@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:31:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] NIXI and APNIC sign MoU to reduce latency and improve network resilience - thehindubusinessline.com</title>
+      <title>[性能・障害] NIXI and APNIC sign MoU to reduce latency and improve network resilience - BusinessLine</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzdOZGpwaTU1dGFyY0hQNGw2RG1vWFVJeEFTbE1IU3hsNWVFemNXUjNJbUpZc2l0bzViSDlMSnJ3cjJFd0g0UVdWMHdmLXByanhOcklwZ1hhcU5xQ21SMzcyZ3B6QmNWd3RtNzhiUHpmMmtRNDJzZUw2VlZRMnpHcjRCb1lhSDhBMEFDbDRWVGtsdVpieENPdDNJNkZYSEdfY1VtTzlwYl9Qb2JwZ2xBOGQzNVo4a3FQNFNTVFJHZUJHa2lOSkoyRkFVZjhhZy1uaWZCQ1VB0gHcAUFVX3lxTE9jOVUwMFdhYmFHUDc5UElVbE9vVEJnOTBlNS1NNzJfdnVPRnFENnZ5aklfYkRSUFhCX2NzR1EzRHowdHFZeGFmam9BSFNvdmNNVU1UM0I1RmlEV0NwanpKLWF2MWRtLTdUVmJqS191MUFzSFZmcGltLXJzRHo0U3paZlE2MmhkWFpLVDdmMC1oNm1vRGNfa182ckpMMENPMDBGOUpkenNIOEkyaU5aSVlCNG02UEVEZ2ZDcHZrSWhVMEJjSHp5Tll0MzYtSWF0MjV4ZUxVRF90T1JIazg?oc=5</link>
       <guid isPermaLink="false">8159da0dcb293071c787899e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-09 01:04
-NIXI and APNIC sign MoU to reduce latency and improve network resilience thehindubusinessline.com</description>
+NIXI and APNIC sign MoU to reduce latency and improve network resilience BusinessLine</description>
       <pubDate>Tue, 08 Sep 2026 18:37:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-08T18:37:05.359132Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-08T16:04:45Z</sqm:sourcePublishedDate>
@@ -50,13 +50,13 @@ AT&amp;T internet outage: Hundreds report fiber and broadband services down; Tex
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] IPv6 LANにおける攻撃のリスクと予防策。 - vietnam.vn</title>
+      <title>[性能・障害] IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5</link>
       <guid isPermaLink="false">d0fbb7c9aa5da4fd91ac5260</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 20:11
-IPv6 LANにおける攻撃のリスクと予防策。 vietnam.vn</description>
+IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn</description>
       <pubDate>Mon, 07 Sep 2026 15:51:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T15:51:38.069330Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T11:11:19Z</sqm:sourcePublishedDate>
@@ -78,13 +78,13 @@ Telstra、7月の通信障害の原因はネットワーク同期システムの
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - PR TIMES</title>
+      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - prtimes.jp</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE03Sl9MUGtfcmFiM3JDRjVueHhLejd6dm9CWGxSSndpUk9WSHpTejNJbkFNT2ZJUmtvOXpHelFxb0c3MTl1dmxxVGNLMnlDVmQyQ19jMXNyTnpRWnlPM1RDSmhJLUtxbWNlN0E?oc=5</link>
       <guid isPermaLink="false">1bd99b56911693d9a5e5be94</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 10:00
-ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 PR TIMES</description>
+ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 prtimes.jp</description>
       <pubDate>Mon, 07 Sep 2026 05:13:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T05:13:04.132466Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T01:00:02Z</sqm:sourcePublishedDate>

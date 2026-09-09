@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:31:54 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - socprime.com</title>
+      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE96Y2lDclpIdk9IajZWMWlJLWpteFpZZWVrYXFOQnVhNmhneTRFYVNYRndHdVU5NDEwSnJoenZXVDFrbWl0UVFzeDRFcjRyWHk4LU1xX25qVUE3WC1QSWxUVDNsbVVhUEJIRUhGcGxZUXpFbFdRbEZKSFRxLXo?oc=5</link>
       <guid isPermaLink="false">6f74737b08cf0c5b6a9e1c0b</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-08 00:09
-CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks socprime.com</description>
+CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks SOC Prime</description>
       <pubDate>Tue, 08 Sep 2026 05:56:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-08T05:56:06.923757Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T15:09:33Z</sqm:sourcePublishedDate>
@@ -22,13 +22,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 - PR TIMES</title>
+      <title>[セキュリティ] 高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 - prtimes.jp</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9CRElmcVE2VEI4aldMcm8ybFNQc3YySG5hY2JQaWxabjFkSmdoaVdCSEx1SFJuR2I3elNiM3FUZ1I5QW5pZUoyU2JkWk1KT2pCaWVIZHQzRHhkMVY1UUtXd29sREVhZ2dtd1E?oc=5</link>
       <guid isPermaLink="false">e4414b0da216c1e8b4e2b484</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-03 11:00
-高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 PR TIMES</description>
+高速・低遅延で快適な通信を実現！コンパクトになったWi-Fi 7・1ギガビットルーター、セキュリティソフトライセンス付きモデルを含む4製品を新発売 prtimes.jp</description>
       <pubDate>Mon, 07 Sep 2026 15:51:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T15:51:37.095450Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-03T02:00:02Z</sqm:sourcePublishedDate>

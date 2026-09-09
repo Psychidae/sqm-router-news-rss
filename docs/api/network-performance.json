@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-08T23:39:40.422178Z",
+  "generated_at": "2026-09-09T01:31:55.864468Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "8159da0dcb293071c787899e",
-      "title": "NIXI and APNIC sign MoU to reduce latency and improve network resilience - thehindubusinessline.com",
+      "title": "NIXI and APNIC sign MoU to reduce latency and improve network resilience - BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzdOZGpwaTU1dGFyY0hQNGw2RG1vWFVJeEFTbE1IU3hsNWVFemNXUjNJbUpZc2l0bzViSDlMSnJ3cjJFd0g0UVdWMHdmLXByanhOcklwZ1hhcU5xQ21SMzcyZ3B6QmNWd3RtNzhiUHpmMmtRNDJzZUw2VlZRMnpHcjRCb1lhSDhBMEFDbDRWVGtsdVpieENPdDNJNkZYSEdfY1VtTzlwYl9Qb2JwZ2xBOGQzNVo4a3FQNFNTVFJHZUJHa2lOSkoyRkFVZjhhZy1uaWZCQ1VB0gHcAUFVX3lxTE9jOVUwMFdhYmFHUDc5UElVbE9vVEJnOTBlNS1NNzJfdnVPRnFENnZ5aklfYkRSUFhCX2NzR1EzRHowdHFZeGFmam9BSFNvdmNNVU1UM0I1RmlEV0NwanpKLWF2MWRtLTdUVmJqS191MUFzSFZmcGltLXJzRHo0U3paZlE2MmhkWFpLVDdmMC1oNm1vRGNfa182ckpMMENPMDBGOUpkenNIOEkyaU5aSVlCNG02UEVEZ2ZDcHZrSWhVMEJjSHp5Tll0MzYtSWF0MjV4ZUxVRF90T1JIazg?oc=5",
-      "summary": "NIXI and APNIC sign MoU to reduce latency and improve network resilience thehindubusinessline.com",
+      "summary": "NIXI and APNIC sign MoU to reduce latency and improve network resilience BusinessLine",
       "published_at": "2026-09-08T16:04:45Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -43,9 +43,9 @@
     },
     {
       "id": "d0fbb7c9aa5da4fd91ac5260",
-      "title": "IPv6 LANにおける攻撃のリスクと予防策。 - vietnam.vn",
+      "title": "IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5",
-      "summary": "IPv6 LANにおける攻撃のリスクと予防策。 vietnam.vn",
+      "summary": "IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn",
       "published_at": "2026-09-07T11:11:19Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -65,9 +65,9 @@
     },
     {
       "id": "1bd99b56911693d9a5e5be94",
-      "title": "ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - PR TIMES",
+      "title": "ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - prtimes.jp",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Sl9MUGtfcmFiM3JDRjVueHhLejd6dm9CWGxSSndpUk9WSHpTejNJbkFNT2ZJUmtvOXpHelFxb0c3MTl1dmxxVGNLMnlDVmQyQ19jMXNyTnpRWnlPM1RDSmhJLUtxbWNlN0E?oc=5",
-      "summary": "ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 PR TIMES",
+      "summary": "ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 prtimes.jp",
       "published_at": "2026-09-07T01:00:02Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
