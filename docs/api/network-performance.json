@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-10T04:38:02.636821Z",
+  "generated_at": "2026-09-10T13:34:27.159858Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -75,28 +75,6 @@
       "score": 7
     },
     {
-      "id": "d0fbb7c9aa5da4fd91ac5260",
-      "title": "IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5",
-      "summary": "IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn",
-      "published_at": "2026-09-07T11:11:19Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "f63553cf8fd4288c096af425",
-      "title": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - Data Center Cafe",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5",
-      "summary": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 Data Center Cafe",
-      "published_at": "2026-09-07T05:10:15Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "e558216b38916a8cd1d1b4cf",
       "title": "Internet outage causing phone issues at Matthews Police Department - WSOC TV",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3FfS3VRaHA4dkFSNTA2WEo0Tk1JakprOU5vYV9zVjdyaG8tODIzWlI4WWJ5Y2wwa1lXd0l5YUozeG9aY3Y3TnVOejk3VG9MWDdyNDZoVVdrVFBXUXBPZEhrdFZLXzk3cE11RGQ4V0hJTDllMUZuX0hQejktT0lJZ0JIbnJQdzRZbkZaV3pDcHZDOGpqNGpGMEFuS244bWVEU0x0aWM5SmRfd240MmxSb2g5VVpHaWp2WmFKXzVDeW5rUVXSAdcBQVVfeXFMUFRuWFdIQS13RlU4RXpINnBKYVZCZ2s5VnZpS3h2Vlp2T2NUM0sxampuTEdRYUxGZlBTRFdDVTJ1X2hzc0EwdkhBU2JUUWFyMnFNODBBVnFWWjdlNHV2ckZDUHRHd0J3eEc3eW9oWHhvd0tyZzl6M0Q4ckhNakV5eWRlZmdKMGV5d21tTXFXTnVLQW83T0Y3bEVkeW1ubzNDTVNfSXhsa2Z3T3ROWW1CVDMzUjVqdENTWFM4OWx5aU5veDNiNEg4YzdHQlN1aGlIMF9kYXdmTEE?oc=5",
@@ -106,6 +84,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "d0fbb7c9aa5da4fd91ac5260",
+      "title": "IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5",
+      "summary": "IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn",
+      "published_at": "2026-09-07T11:11:19Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "f63553cf8fd4288c096af425",
+      "title": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - cafe-dc.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5",
+      "summary": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 cafe-dc.com",
+      "published_at": "2026-09-07T05:10:15Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     },
     {
       "id": "1bd99b56911693d9a5e5be94",

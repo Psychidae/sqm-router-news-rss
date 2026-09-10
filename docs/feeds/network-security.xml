@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 04:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:34:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク - 株式会社アクト</title>
@@ -22,13 +22,13 @@ WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - socprime.com</title>
+      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE96Y2lDclpIdk9IajZWMWlJLWpteFpZZWVrYXFOQnVhNmhneTRFYVNYRndHdVU5NDEwSnJoenZXVDFrbWl0UVFzeDRFcjRyWHk4LU1xX25qVUE3WC1QSWxUVDNsbVVhUEJIRUhGcGxZUXpFbFdRbEZKSFRxLXo?oc=5</link>
       <guid isPermaLink="false">6f74737b08cf0c5b6a9e1c0b</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-08 00:09
-CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks socprime.com</description>
+CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks SOC Prime</description>
       <pubDate>Tue, 08 Sep 2026 05:56:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-08T05:56:06.923757Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T15:09:33Z</sqm:sourcePublishedDate>
