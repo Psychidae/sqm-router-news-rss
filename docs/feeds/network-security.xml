@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:39:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク - 株式会社アクト</title>

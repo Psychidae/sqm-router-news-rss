@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 19:39:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Iran hackers claim responsibility for North Texas internet outage that affected thousands, AT&amp;T refutes claim - WFAA</title>
@@ -50,20 +50,6 @@ One Internet Outage Report Mobilizes 8,000 Workers: KT Unveils Collaboration Amo
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] AT&amp;T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times - Hindustan Times</title>
-      <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnJ0LUUxNFkyUFp4U1NGTG1qMlEwR29pN1NqNUtxZEZzeG9aNkZsenFvcnVsVVNDbTZ4VnFzZFdrWWFjMHhJbVRuUDJtaXFaOC1IakQxUDhtdDFneU5GT3FuV0tRQ0dteUphVG9SQkIzaEtyLXBiRGJWQkFoRElRZzBiY2JWcmxCUjlCVHZMTW5EVXJjWTkweEVrWnlQMmczeGhid01XZU5PR3piOWtqZlJlYUNXbUs1SWpXb2FQc2hKRm96UW1vWWt3QWFoYnhuM1N1VTZ1NGdMV2FUU3VCejlLczhGZjI3UktiTk9WOXdfY1d2MENtaGFtOVpuOVhZYkHSAYcCQVVfeXFMTWJyVjNqc3JtZU1NQ0dMUmVkVEREeUhRRXlJY2NHSkg2QjJqT3N4Y25QNlRGLUZBRXV5UEcxMnpQemRzZVhLRHdVM1JYenozZHNOSlFuUHBPVHdteWVpQnZ3LXpBTGFCVWdEZjNGcHUxYkYxRlVQZ2taR2NVc0pyMkZiSU91bU9IOUxINGJNSU0tcUpzQ0Z1dktUeEhkSk5CVHFGaElRVVl5ZFphWExYOU1tMlpmaFp2TGc1WDQ1dHUwdmJ1UjNNcnBCSkhDWi1RRWNLVy1PNjNXVS1ERmF5VmU5ZzhiOEdXQXN1OUxMZ2hkRmJyODM4SkppdFJlUWJGRUJwUHQ2X0U?oc=5</link>
-      <guid isPermaLink="false">03cbd38991bccf621c978ba1</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-08 03:25
-AT&amp;T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times Hindustan Times</description>
-      <pubDate>Mon, 07 Sep 2026 19:56:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-07T19:56:15.683145Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-07T18:25:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 - CoinDesk</title>
       <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkFiSHhNdVZscnJRVy1XVnJRVjlKWnk1RnIwYU5GUm5sbjgzYWhNQzRFcFN3b3lNRkIyemhmblJCbUJ5MFpYVFl6R0M0TXdCYmg5OUxfTXB4OXl1T0U4dms0Zjk3MGNwOGItVUNUZ0xhTWh6M2hxMm95M2N4VnRTMzFiTVlXSmpNX2N6YkwtTDc4WExBYXAwSjhUckFrWlJfUEE2bDFrX24xWURCSEs0?oc=5</link>
       <guid isPermaLink="false">a254a492e286dcb9bfc3c0fc</guid>
@@ -89,6 +75,20 @@ DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追�
       <sqm:firstSeenDate>2026-09-08T23:39:40.421232Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T23:30:41Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] AT&amp;T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times - Hindustan Times</title>
+      <link>https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnJ0LUUxNFkyUFp4U1NGTG1qMlEwR29pN1NqNUtxZEZzeG9aNkZsenFvcnVsVVNDbTZ4VnFzZFdrWWFjMHhJbVRuUDJtaXFaOC1IakQxUDhtdDFneU5GT3FuV0tRQ0dteUphVG9SQkIzaEtyLXBiRGJWQkFoRElRZzBiY2JWcmxCUjlCVHZMTW5EVXJjWTkweEVrWnlQMmczeGhid01XZU5PR3piOWtqZlJlYUNXbUs1SWpXb2FQc2hKRm96UW1vWWt3QWFoYnhuM1N1VTZ1NGdMV2FUU3VCejlLczhGZjI3UktiTk9WOXdfY1d2MENtaGFtOVpuOVhZYkHSAYcCQVVfeXFMTWJyVjNqc3JtZU1NQ0dMUmVkVEREeUhRRXlJY2NHSkg2QjJqT3N4Y25QNlRGLUZBRXV5UEcxMnpQemRzZVhLRHdVM1JYenozZHNOSlFuUHBPVHdteWVpQnZ3LXpBTGFCVWdEZjNGcHUxYkYxRlVQZ2taR2NVc0pyMkZiSU91bU9IOUxINGJNSU0tcUpzQ0Z1dktUeEhkSk5CVHFGaElRVVl5ZFphWExYOU1tMlpmaFp2TGc1WDQ1dHUwdmJ1UjNNcnBCSkhDWi1RRWNLVy1PNjNXVS1ERmF5VmU5ZzhiOEdXQXN1OUxMZ2hkRmJyODM4SkppdFJlUWJGRUJwUHQ2X0U?oc=5</link>
+      <guid isPermaLink="false">03cbd38991bccf621c978ba1</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-08 03:25
+AT&amp;T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times Hindustan Times</description>
+      <pubDate>Mon, 07 Sep 2026 19:56:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-07T19:56:15.683145Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-07T18:25:36Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -120,13 +120,13 @@ IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - Data Center Cafe</title>
+      <title>[性能・障害] Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - cafe-dc.com</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5</link>
       <guid isPermaLink="false">f63553cf8fd4288c096af425</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 14:10
-Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 Data Center Cafe</description>
+Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 cafe-dc.com</description>
       <pubDate>Mon, 07 Sep 2026 10:15:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-07T10:15:06.949797Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T05:10:15Z</sqm:sourcePublishedDate>

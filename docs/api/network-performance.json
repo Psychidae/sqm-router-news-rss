@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-10T17:11:42.170870Z",
+  "generated_at": "2026-09-10T19:39:52.435381Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -42,17 +42,6 @@
       "score": 8
     },
     {
-      "id": "03cbd38991bccf621c978ba1",
-      "title": "AT&T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times - Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnJ0LUUxNFkyUFp4U1NGTG1qMlEwR29pN1NqNUtxZEZzeG9aNkZsenFvcnVsVVNDbTZ4VnFzZFdrWWFjMHhJbVRuUDJtaXFaOC1IakQxUDhtdDFneU5GT3FuV0tRQ0dteUphVG9SQkIzaEtyLXBiRGJWQkFoRElRZzBiY2JWcmxCUjlCVHZMTW5EVXJjWTkweEVrWnlQMmczeGhid01XZU5PR3piOWtqZlJlYUNXbUs1SWpXb2FQc2hKRm96UW1vWWt3QWFoYnhuM1N1VTZ1NGdMV2FUU3VCejlLczhGZjI3UktiTk9WOXdfY1d2MENtaGFtOVpuOVhZYkHSAYcCQVVfeXFMTWJyVjNqc3JtZU1NQ0dMUmVkVEREeUhRRXlJY2NHSkg2QjJqT3N4Y25QNlRGLUZBRXV5UEcxMnpQemRzZVhLRHdVM1JYenozZHNOSlFuUHBPVHdteWVpQnZ3LXpBTGFCVWdEZjNGcHUxYkYxRlVQZ2taR2NVc0pyMkZiSU91bU9IOUxINGJNSU0tcUpzQ0Z1dktUeEhkSk5CVHFGaElRVVl5ZFphWExYOU1tMlpmaFp2TGc1WDQ1dHUwdmJ1UjNNcnBCSkhDWi1RRWNLVy1PNjNXVS1ERmF5VmU5ZzhiOEdXQXN1OUxMZ2hkRmJyODM4SkppdFJlUWJGRUJwUHQ2X0U?oc=5",
-      "summary": "AT&T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times Hindustan Times",
-      "published_at": "2026-09-07T18:25:36Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "a254a492e286dcb9bfc3c0fc",
       "title": "DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkFiSHhNdVZscnJRVy1XVnJRVjlKWnk1RnIwYU5GUm5sbjgzYWhNQzRFcFN3b3lNRkIyemhmblJCbUJ5MFpYVFl6R0M0TXdCYmg5OUxfTXB4OXl1T0U4dms0Zjk3MGNwOGItVUNUZ0xhTWh6M2hxMm95M2N4VnRTMzFiTVlXSmpNX2N6YkwtTDc4WExBYXAwSjhUckFrWlJfUEE2bDFrX24xWURCSEs0?oc=5",
@@ -71,6 +60,17 @@
       "published_at": "2026-09-07T23:30:41Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "03cbd38991bccf621c978ba1",
+      "title": "AT&T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times - Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnJ0LUUxNFkyUFp4U1NGTG1qMlEwR29pN1NqNUtxZEZzeG9aNkZsenFvcnVsVVNDbTZ4VnFzZFdrWWFjMHhJbVRuUDJtaXFaOC1IakQxUDhtdDFneU5GT3FuV0tRQ0dteUphVG9SQkIzaEtyLXBiRGJWQkFoRElRZzBiY2JWcmxCUjlCVHZMTW5EVXJjWTkweEVrWnlQMmczeGhid01XZU5PR3piOWtqZlJlYUNXbUs1SWpXb2FQc2hKRm96UW1vWWt3QWFoYnhuM1N1VTZ1NGdMV2FUU3VCejlLczhGZjI3UktiTk9WOXdfY1d2MENtaGFtOVpuOVhZYkHSAYcCQVVfeXFMTWJyVjNqc3JtZU1NQ0dMUmVkVEREeUhRRXlJY2NHSkg2QjJqT3N4Y25QNlRGLUZBRXV5UEcxMnpQemRzZVhLRHdVM1JYenozZHNOSlFuUHBPVHdteWVpQnZ3LXpBTGFCVWdEZjNGcHUxYkYxRlVQZ2taR2NVc0pyMkZiSU91bU9IOUxINGJNSU0tcUpzQ0Z1dktUeEhkSk5CVHFGaElRVVl5ZFphWExYOU1tMlpmaFp2TGc1WDQ1dHUwdmJ1UjNNcnBCSkhDWi1RRWNLVy1PNjNXVS1ERmF5VmU5ZzhiOEdXQXN1OUxMZ2hkRmJyODM4SkppdFJlUWJGRUJwUHQ2X0U?oc=5",
+      "summary": "AT&T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times Hindustan Times",
+      "published_at": "2026-09-07T18:25:36Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
@@ -98,9 +98,9 @@
     },
     {
       "id": "f63553cf8fd4288c096af425",
-      "title": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - Data Center Cafe",
+      "title": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 - cafe-dc.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT19NM3NES1VrbXY3Z3dYRDZSM0Y2QjdLUjF1Y1N5UGEzR2ZBd3FDS05rVF9kZGdzTmlPakRVY0NoSWtfTTMyMXhjdnB3QmJ4WDFKV3pTR2RTbllRZUxRTXBkRlFFNGlBa0JGbUI5TVNFZ0xsalp0X25rVFZBb25jejlPQXlVSUxWLU5obGkzYkpxNU5yTFg4aVZsUy1Ma1Izd0UzRQ?oc=5",
-      "summary": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 Data Center Cafe",
+      "summary": "Telstra、7月の通信障害の原因はネットワーク同期システムの障害と確認 cafe-dc.com",
       "published_at": "2026-09-07T05:10:15Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
