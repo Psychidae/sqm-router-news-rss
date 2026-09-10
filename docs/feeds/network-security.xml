@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:53:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク - 株式会社アクト</title>
@@ -36,13 +36,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - Korben</title>
+      <title>[セキュリティ] ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - korben.info</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5</link>
       <guid isPermaLink="false">240920410e00bb3e2ebd7772</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-10 00:46
-ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ Korben</description>
+ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ korben.info</description>
       <pubDate>Wed, 09 Sep 2026 16:35:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-09T16:35:23.539432Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
