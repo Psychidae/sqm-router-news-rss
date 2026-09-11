@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 17:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:41:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
+      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - cybersecuritynews.com</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lIdkZyYkp5LWlJU0VLY2M1NEM2SnJxeGpNZkFoREE5X3VVXy1nYy12LVYtdHctMkZjV2VCam5kaVM4T1ZVeUVXOUZ4Qng5MVhIeERGQ3VBajQ0ZV9kcFNJM3hocXpEUm9NNDdUVmNHek9KMkNFNGV1TWRBVEJKQ1Bwcnp5Z2I5TVHSAY8BQVVfeXFMTXRaNVB4V0JEU0FwU09ESFlycnFLc1R5Rm1SOHctaVNDejdwNDJ2T25DYWlUWGEzMVdHcGJTQk1ic2V4MURjWFBybFVxUjFlbGNERFU5WEt4TG1uVzhZc0RLWU1yLUpoOTZPM0szZjhlM3VIcTQwWUNfR3UtdzFFQWgzSEdHY3N2emlRZFV5dlE?oc=5</link>
       <guid isPermaLink="false">2eda272f42e6006c9e1f30f5</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-11 21:07
-cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands CyberSecurityNews</description>
+cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands cybersecuritynews.com</description>
       <pubDate>Fri, 11 Sep 2026 17:13:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T17:13:38.328714Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T12:07:45Z</sqm:sourcePublishedDate>
@@ -50,13 +50,13 @@ cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - INTERNET Watch</title>
+      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - internet.watch.impress.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE53dHctWm1feWlwNkZhSkxpbkdpNmZYU0p6N2ZJa3ZuM3h1dkhGcG5mLUVLQmpPejFVMHF0VEk5cFVkVm42YXdaNU1ORXBITTc4NFVmSURjM2lXVGQwVlZBdjZmS3RVUWhvUkI0?oc=5</link>
       <guid isPermaLink="false">36bb3ac25c62eb82bc75291c</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 07:30
-NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 INTERNET Watch</description>
+NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 internet.watch.impress.co.jp</description>
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-10T22:30:00Z</sqm:sourcePublishedDate>
