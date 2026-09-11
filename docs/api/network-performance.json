@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-10T21:53:12.914562Z",
+  "generated_at": "2026-09-11T00:08:00.006869Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -64,17 +64,6 @@
       "score": 7
     },
     {
-      "id": "3da24a7dd935aeedb1f3ab13",
-      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
-      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-09-07T23:30:41Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "03cbd38991bccf621c978ba1",
       "title": "AT&T internet outage: Hundreds report fiber and broadband services down; Texas, Louisiana affected | Hindustan Times - Hindustan Times",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZnJ0LUUxNFkyUFp4U1NGTG1qMlEwR29pN1NqNUtxZEZzeG9aNkZsenFvcnVsVVNDbTZ4VnFzZFdrWWFjMHhJbVRuUDJtaXFaOC1IakQxUDhtdDFneU5GT3FuV0tRQ0dteUphVG9SQkIzaEtyLXBiRGJWQkFoRElRZzBiY2JWcmxCUjlCVHZMTW5EVXJjWTkweEVrWnlQMmczeGhid01XZU5PR3piOWtqZlJlYUNXbUs1SWpXb2FQc2hKRm96UW1vWWt3QWFoYnhuM1N1VTZ1NGdMV2FUU3VCejlLczhGZjI3UktiTk9WOXdfY1d2MENtaGFtOVpuOVhZYkHSAYcCQVVfeXFMTWJyVjNqc3JtZU1NQ0dMUmVkVEREeUhRRXlJY2NHSkg2QjJqT3N4Y25QNlRGLUZBRXV5UEcxMnpQemRzZVhLRHdVM1JYenozZHNOSlFuUHBPVHdteWVpQnZ3LXpBTGFCVWdEZjNGcHUxYkYxRlVQZ2taR2NVc0pyMkZiSU91bU9IOUxINGJNSU0tcUpzQ0Z1dktUeEhkSk5CVHFGaElRVVl5ZFphWExYOU1tMlpmaFp2TGc1WDQ1dHUwdmJ1UjNNcnBCSkhDWi1RRWNLVy1PNjNXVS1ERmF5VmU5ZzhiOEdXQXN1OUxMZ2hkRmJyODM4SkppdFJlUWJGRUJwUHQ2X0U?oc=5",
@@ -87,14 +76,25 @@
     },
     {
       "id": "e558216b38916a8cd1d1b4cf",
-      "title": "Internet outage causing phone issues at Matthews Police Department - wsoctv.com",
+      "title": "Internet outage causing phone issues at Matthews Police Department - WSOC TV",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3FfS3VRaHA4dkFSNTA2WEo0Tk1JakprOU5vYV9zVjdyaG8tODIzWlI4WWJ5Y2wwa1lXd0l5YUozeG9aY3Y3TnVOejk3VG9MWDdyNDZoVVdrVFBXUXBPZEhrdFZLXzk3cE11RGQ4V0hJTDllMUZuX0hQejktT0lJZ0JIbnJQdzRZbkZaV3pDcHZDOGpqNGpGMEFuS244bWVEU0x0aWM5SmRfd240MmxSb2g5VVpHaWp2WmFKXzVDeW5rUVXSAdcBQVVfeXFMUFRuWFdIQS13RlU4RXpINnBKYVZCZ2s5VnZpS3h2Vlp2T2NUM0sxampuTEdRYUxGZlBTRFdDVTJ1X2hzc0EwdkhBU2JUUWFyMnFNODBBVnFWWjdlNHV2ckZDUHRHd0J3eEc3eW9oWHhvd0tyZzl6M0Q4ckhNakV5eWRlZmdKMGV5d21tTXFXTnVLQW83T0Y3bEVkeW1ubzNDTVNfSXhsa2Z3T3ROWW1CVDMzUjVqdENTWFM4OWx5aU5veDNiNEg4YzdHQlN1aGlIMF9kYXdmTEE?oc=5",
-      "summary": "Internet outage causing phone issues at Matthews Police Department wsoctv.com",
+      "summary": "Internet outage causing phone issues at Matthews Police Department WSOC TV",
       "published_at": "2026-09-04T11:52:38Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "3da24a7dd935aeedb1f3ab13",
+      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
+      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
+      "published_at": "2026-09-07T23:30:41Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     },
     {
       "id": "d0fbb7c9aa5da4fd91ac5260",

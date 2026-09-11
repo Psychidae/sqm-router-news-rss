@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-10T21:53:09.251585Z",
+  "generated_at": "2026-09-11T00:07:56.747221Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,21 +31,10 @@
       "score": 22
     },
     {
-      "id": "b4c33cf81df13d75d1de182d",
-      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpiUmxac1JsQ0J4NWdhNy1OUk9LR0E4cW0tUk00MnlGdTVVZlh6Smc1dzlrWVBCRmduUC1aWEdNUEdqVEFEWS1sOV9iYlNKZGpBY1hJQTNOSkVESHFPbmd3UHlfTmhjT2taaVA4Z3QwTUJ2TVBaVE8yd3dmM3BobVVn?oc=5",
-      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
-      "published_at": "2026-09-10T09:28:23Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 18
-    },
-    {
       "id": "e30320d50be903302df31c0a",
-      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4Gamer.net",
+      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4gamer.net",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndHFZdkhXUHZEZ2hlSE13ZTBNYUl0NE9IZF96aTJQakY2bUZqTEhHN21XOW9KNExucG5fYzktbzJJRXpycXMtUXZzWXhPWFJ0UXFXQWdNUzVKRm9sRlJOeEN4QQ?oc=5",
-      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
+      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4gamer.net",
       "published_at": "2026-09-10T05:07:25Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -93,6 +82,17 @@
       "published_at": "2026-09-06T22:30:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
+    {
+      "id": "baa06b6b60577a2ccba1e119",
+      "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pckJPMXVZUUw1X1FQNE4zMHBfVmFHc1FQWTdpSlhETXk2TGRfNG5kOU1ZUlZKY2lxQi1sQlY4Ui1tVHVsVENLYV9uWHhpY1RyVktUWlllM1VRQjBWMU9HY3A4cTFVa1U?oc=5",
+      "summary": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 ケータイ Watch",
+      "published_at": "2026-09-05T23:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
     }

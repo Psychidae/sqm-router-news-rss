@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-10T21:53:10.440808Z",
+  "generated_at": "2026-09-11T00:07:57.872350Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -42,11 +42,33 @@
       "score": 17
     },
     {
+      "id": "df65653708244864d8f680dc",
+      "title": "SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support - mediasat.info",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEJhcTBkVlhoTjR5LVYtT3FWUUkzaUtKVDJna2xqZXF0Q2toZnEyaFdjaDdEZERkc1k3R2tIQmtRTzBBSzNrazJORDhwRk9vYWNJWnFfS3Z4b2ZfY2hzSVZmVUZRbzEyeXBsUlhsTDlidEFYUk55dW1NcUxCNTBYdTRmdW9JbEhrWjZQRWJWYWtybFlK?oc=5",
+      "summary": "SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support mediasat.info",
+      "published_at": "2026-09-10T18:19:49Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "b4c93cd23881e265e81e2537",
       "title": "Starlink Router 4 Unveiled With Wi-Fi 7 and Major Performance Upgrades - driveteslacanada.ca",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUR1IwbGozUWR0ZjRJa2IyRm9CWDR2cHAxOXZfcklRY01ORGNwZTFzdEFDSm02YlY5QTJZMFRSY3hsamdYcXI4T3hLa3VEMkJadnVVSVo1WUtrNUVLaUg2Z1poUTd6b0ljT185NWxXNHR3WkdBSHc?oc=5",
       "summary": "Starlink Router 4 Unveiled With Wi-Fi 7 and Major Performance Upgrades driveteslacanada.ca",
       "published_at": "2026-09-10T14:14:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "e3510a4700f0af40a4d2c03e",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
+      "published_at": "2026-09-10T02:55:29Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -86,17 +108,6 @@
       "score": 13
     },
     {
-      "id": "e3510a4700f0af40a4d2c03e",
-      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
-      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
-      "published_at": "2026-09-08T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "32e66521074fd356f0fb0fe9",
       "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Yahoo Tech",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzJGRl9OeE5QOVdXZTlBTHdCUGJLS2RQTTZ4NzY1T0tWMXU5V3VUbHhtNk5rLUdOQ0Nrc19BazdabjZVYVF5VlM1QmhCTzRKRzJSUWRzZlpGa0xwbElVNzhaNGh5M2k5SVJidWN2SGE1STNnYk9xa2V1YmZkX3NXWThPLWlTUlAtbFkzVw?oc=5",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "6164ca18cb4b8c5958dc08ad",
-      "title": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all - Expert Reviews",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTYzMk1PWE1nTHJfWGMwQUE1MXVJSkw5RWx2N0F0YnRuZkd1cEhUMmFGTVc0SkpnSWNvdUl4bmg4cGFJcEVjRkJtTlU0R0ZDUWxrNDJySlJnbG1MU0hyRXdWMDR4LS1BbnlVQXNOOFdLZG9ZdUM2bFNycEw4TFVzNXZvWDBmZkQtN2RHYXNUM3B5T2FxTjhyUl9WNkd4TXVWQjJkalYtb0VBX1Y1eGF2Q0M1QnBLN2x2U0x1MlV2NVMtdFA0Zmo1ZWdR?oc=5",
-      "summary": "The Fritz!Box DSL/Fiber 7-90 is a Wi-Fi 7 router that can do it all Expert Reviews",
-      "published_at": "2026-09-03T15:39:39Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }

@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-10T21:53:11.652561Z",
+  "generated_at": "2026-09-11T00:07:58.936576Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 5,
   "errors": [],
   "items": [
+    {
+      "id": "c60ac0041b2ca9828bb9f7e5",
+      "title": "NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRy1FMXFScUhyckZIZzRSaGNzVVBuZ1NHLTJqQlFrWFByeEh5UGZqdnVoRkN1MmI1RnhhOVBUT1BsMFdvRDNZQWplclZXMFFhSm53d2FMUnVJbnJleUpTc25DQ0x5YVlGYzliX09rQW1MV0FnZ09kbzN6X2M4Sm5XN3BOLXEwYXNtMjRn0gGQAUFVX3lxTE9SaXlVeVpjOVYwRmxsRTF4dWpWYUowWEZQLVhLT19EejVwczN2MWs0YkQ1NW1HWU92bXdWenVydzJIVnJNeWUyNS1NcUx0S08wWGFrbVh2RHVRV0g5TlhWOXZoYXVReV9JZHhaSHRZekZkU2otc0VBU3AtaXg5S1ozTVItbGx1TnlLU2hyMEpWeg?oc=5",
+      "summary": "NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 ｄメニューニュース",
+      "published_at": "2026-09-10T23:51:15Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "74024de4ca898974987c716e",
       "title": "WatchGuard製品に30件の脆弱性 VPN処理と管理エージェントに未認証コード実行のリスク - 株式会社アクト",
@@ -32,9 +43,9 @@
     },
     {
       "id": "240920410e00bb3e2ebd7772",
-      "title": "ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - korben.info",
+      "title": "ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - Korben",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5",
-      "summary": "ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ korben.info",
+      "summary": "ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ Korben",
       "published_at": "2026-09-09T15:46:56Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
