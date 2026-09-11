@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 04:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:08:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 - 選挙ドットコム</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUUNjV3BYeEMtOTBKSldOVEJMSXZuWENtN3NZT3BLSTFPZ3B2RDRTcjVOZVVRUkEyWjJmdVNHN2FYNWxuZ2tidnhQUFZTcGdUNXcxN3VSWC1udDd3Z3BJ?oc=5</link>
+      <guid isPermaLink="false">65047339acb898ef7d227564</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 13:42
+デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 選挙ドットコム</description>
+      <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T04:42:08Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5</link>
@@ -64,6 +78,34 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - Infoseek</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUmxXc05oSmd5VEx6ZjBuOXVmZFVzSU8xRE54N1pTV0o1MWdkZmhuZ2pQc0VKMy13S0xnMlA0UE5jTXVxSW9HdWFMbHpPU0FPOVpST1J2TWlfZXB0Y0xXOWpiVnVwZ2VwWVJFdWtvOHNteGRIRUxv0gF8QVVfeXFMT2ZMSnhUaXdfQWx2OGhyclpMc09wOGg1eC1YTWk5VHpWV2lzN29RWHU3Z1g0eC03OHFuTmdIUHRFS2lJQUpiTWQ2RElGYi1JNXRFOHB2cVBFUjByWkhCdG55NFIzUW9aV05wVm1tUERNclpPS0wxbElNYUM1aw?oc=5</link>
+      <guid isPermaLink="false">e8329380bcf1855c56b7dbf1</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 16:59
+松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 Infoseek</description>
+      <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T07:59:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmxTQzRsY2s2amFhdll1cl9EYjZrSzNBNDVlVkpqaWV1c1MyWjNWc2Z0YnZxTnNldzM3S0ZXeEdBb1lSamJfc21OZlIzMWlKS0JBa2JPTWN0ZC0wOHZOc0NMXzd1X0xHTldDbjI3UTVOcDVSM20xanVXd09CMUI3emJnZktmRmpqTEpkeGxR?oc=5</link>
+      <guid isPermaLink="false">d3b94f0a9ebcfc5f0bf39964</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 11:07
+政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 Yahoo!ニュース</description>
+      <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T02:07:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - 読売新聞</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcVFkUFktOXR1MW9Fc3NNT05GTjBvUkU1T0pDTll5MU1mLTJJdFkzdHNSYXdzVlRIZjl4YUR1MXJ0VmQ3dXVfZW1RNzFGSjVJQ1ptR0JqRzZjVlg0S2IyVDQ3Yl9nZw?oc=5</link>
       <guid isPermaLink="false">5c4e5658f4ad30cc017bde4d</guid>
@@ -78,6 +120,20 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjZDLUFqelRkZHpiM2JOWlRiSm5MNGdfLWtjS1I5NW53M3dqcmVJUHhJMmtuc1A1TS1abDRSN0RGU201UmM2QkttQlFxY3FSRjVKY0N5UXoxc3JPYTlRY2JMNkp2RHNwNVBLSU95U0ZFWEp4UEU4YjNIZnduSVlPd29RaGhGLTAtWnpVQWtiRQ?oc=5</link>
+      <guid isPermaLink="false">c53056c9cb9bae0b71b83623</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 08:00
+Palo Alto Networks、PAN-OSの脆弱性 CVE-2026-0310を修正 PA-Seriesで未認証root RCE、VM-SeriesはDoS 合同会社ロケットボーイズ</description>
+      <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-10T23:00:29Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - Korben</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5</link>
       <guid isPermaLink="false">240920410e00bb3e2ebd7772</guid>
@@ -88,20 +144,6 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <pubDate>Wed, 09 Sep 2026 16:35:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-09T16:35:23.539432Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ - gmo-cybersecurity.com</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib1VvUGx1T0Y0RE5fZUdyUlR0aTJhZzM0R3pQbDRoOXZwc3JQVE9zZmhHbEppN0tDS2laS3VKalVWMDZGOVpxbUJaVHgySEZtLXplM0ozSXpjUHBOOVZvekVVOUMtSWM?oc=5</link>
-      <guid isPermaLink="false">adc4084602b65b42ced2164e</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-09 13:33
-衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ gmo-cybersecurity.com</description>
-      <pubDate>Wed, 09 Sep 2026 06:40:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-09T06:40:47.321015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-09T04:33:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

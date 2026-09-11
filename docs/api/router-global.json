@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-11T04:35:05.142259Z",
+  "generated_at": "2026-09-11T09:08:34.077424Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "2140589e842a69848e2ef0f8",
-      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - TechRadar",
+      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - techradar.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5",
-      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones TechRadar",
+      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones techradar.com",
       "published_at": "2026-09-08T21:50:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -108,10 +108,10 @@
       "score": 13
     },
     {
-      "id": "32e66521074fd356f0fb0fe9",
-      "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - Yahoo Tech",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzJGRl9OeE5QOVdXZTlBTHdCUGJLS2RQTTZ4NzY1T0tWMXU5V3VUbHhtNk5rLUdOQ0Nrc19BazdabjZVYVF5VlM1QmhCTzRKRzJSUWRzZlpGa0xwbElVNzhaNGh5M2k5SVJidWN2SGE1STNnYk9xa2V1YmZkX3NXWThPLWlTUlAtbFkzVw?oc=5",
-      "summary": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router Yahoo Tech",
+      "id": "13365b0ac2d382c3cf83f96b",
+      "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklEZnlVWXk2UWo3UUU1MmZQZ1RYWEVmdVJSaGJzMlI4Q0JNM2pQQnpRdWVKdW50U3ZLaXVJRl9tdDFtZW5HbnFWUUlic2VRUlV6SVlxTVBZZnVIbm9DNlVpMVREWGhIa2hvME1yOHRBQU56dktJazJUUTZWdmJCZmR2eWtVM1R0cXRNcW40ZDNXWFlDZUJOa0hqZ3gySTA?oc=5",
+      "summary": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router SlashGear",
       "published_at": "2026-09-07T10:45:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
