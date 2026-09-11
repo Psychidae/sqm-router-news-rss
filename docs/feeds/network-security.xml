@@ -5,19 +5,33 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 04:35:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - ｄメニューニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRy1FMXFScUhyckZIZzRSaGNzVVBuZ1NHLTJqQlFrWFByeEh5UGZqdnVoRkN1MmI1RnhhOVBUT1BsMFdvRDNZQWplclZXMFFhSm53d2FMUnVJbnJleUpTc25DQ0x5YVlGYzliX09rQW1MV0FnZ09kbzN6X2M4Sm5XN3BOLXEwYXNtMjRn0gGQAUFVX3lxTE9SaXlVeVpjOVYwRmxsRTF4dWpWYUowWEZQLVhLT19EejVwczN2MWs0YkQ1NW1HWU92bXdWenVydzJIVnJNeWUyNS1NcUx0S08wWGFrbVh2RHVRV0g5TlhWOXZoYXVReV9JZHhaSHRZekZkU2otc0VBU3AtaXg5S1ozTVItbGx1TnlLU2hyMEpWeg?oc=5</link>
-      <guid isPermaLink="false">c60ac0041b2ca9828bb9f7e5</guid>
+      <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5</link>
+      <guid isPermaLink="false">fa659f908aca2c0734aaf5df</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-09-11 08:51
-NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 ｄメニューニュース</description>
-      <pubDate>Fri, 11 Sep 2026 00:07:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-11T00:07:58.935820Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-10T23:51:15Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-11 12:50
+デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+      <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T03:50:54Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE53dHctWm1feWlwNkZhSkxpbkdpNmZYU0p6N2ZJa3ZuM3h1dkhGcG5mLUVLQmpPejFVMHF0VEk5cFVkVm42YXdaNU1ORXBITTc4NFVmSURjM2lXVGQwVlZBdjZmS3RVUWhvUkI0?oc=5</link>
+      <guid isPermaLink="false">36bb3ac25c62eb82bc75291c</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 07:30
+NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 INTERNET Watch</description>
+      <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-10T22:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -47,6 +61,20 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <sqm:firstSeenDate>2026-09-08T05:56:06.923757Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T15:09:33Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - 読売新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcVFkUFktOXR1MW9Fc3NNT05GTjBvUkU1T0pDTll5MU1mLTJJdFkzdHNSYXdzVlRIZjl4YUR1MXJ0VmQ3dXVfZW1RNzFGSjVJQ1ptR0JqRzZjVlg0S2IyVDQ3Yl9nZw?oc=5</link>
+      <guid isPermaLink="false">5c4e5658f4ad30cc017bde4d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 11:06
+政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 読売新聞</description>
+      <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T02:06:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>

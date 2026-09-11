@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-11T00:07:56.747221Z",
+  "generated_at": "2026-09-11T04:35:04.068015Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -28,13 +28,35 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "0c67c8136931afa64c7cc3f1",
+      "title": "10Gbps対応のWi-Fi 7高機能モデル「Archer BE19000」が5万1840円など、TP-LinkのWi-FiルーターがAmazonでセール中！ - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY0RYUm5aZUczc1JGNGNEcHZ0cmw4V0h0SEZMVy1ZMDUtNUV6Zk1lOXJNMzJrZW9jRU5FdzFBME9MYm5ySUpGb3poSVlsYmloWm0xVGhMX2FibXRoQm1qTHZzUWhPWXRXMS01dEF1LUc?oc=5",
+      "summary": "10Gbps対応のWi-Fi 7高機能モデル「Archer BE19000」が5万1840円など、TP-LinkのWi-FiルーターがAmazonでセール中！ INTERNET Watch",
+      "published_at": "2026-09-11T02:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
+    {
+      "id": "b4c33cf81df13d75d1de182d",
+      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVWpiUmxac1JsQ0J4NWdhNy1OUk9LR0E4cW0tUk00MnlGdTVVZlh6Smc1dzlrWVBCRmduUC1aWEdNUEdqVEFEWS1sOV9iYlNKZGpBY1hJQTNOSkVESHFPbmd3UHlfTmhjT2taaVA4Z3QwTUJ2TVBaVE8yd3dmM3BobVVn?oc=5",
+      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
+      "published_at": "2026-09-10T09:28:23Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
     },
     {
       "id": "e30320d50be903302df31c0a",
-      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4gamer.net",
+      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4Gamer.net",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndHFZdkhXUHZEZ2hlSE13ZTBNYUl0NE9IZF96aTJQakY2bUZqTEhHN21XOW9KNExucG5fYzktbzJJRXpycXMtUXZzWXhPWFJ0UXFXQWdNUzVKRm9sRlJOeEN4QQ?oc=5",
-      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4gamer.net",
+      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
       "published_at": "2026-09-10T05:07:25Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -50,13 +72,13 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 18
+      "score": 17
     },
     {
       "id": "ec583d16e8f5f5e95dc5d2ca",
-      "title": "ASUS、Wi-Fi 7対応ルーター「TUF Gaming BE3600」など2機種発売 - PC Watch",
+      "title": "ASUS、Wi-Fi 7対応ルーター「TUF Gaming BE3600」など2機種発売 - pc.watch.impress.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VWmo4QXctZHVXcWhwUkM3UUVkbG0xWnh2RkRZMEVmbmJfeG9EcFpNX0pXY0c2bUZDWG1SalFrMUxpVFZDT2NDMms1dEtENUJKdlQ4Z3NQV1RSS1A1MVVEaXJNcw?oc=5",
-      "summary": "ASUS、Wi-Fi 7対応ルーター「TUF Gaming BE3600」など2機種発売 PC Watch",
+      "summary": "ASUS、Wi-Fi 7対応ルーター「TUF Gaming BE3600」など2機種発売 pc.watch.impress.co.jp",
       "published_at": "2026-09-07T08:20:40Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -69,28 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MOFpEbHFtOUktWFc1T1FFOEZkekludjViQVRIcEhmMU9LSUM4LTNvU1NjWGRrWWNUTmtOWXJNY2xWYXFOOXh3akh0bkRCeVQ4T3ZncDVRbk02M1VwNXc?oc=5",
       "summary": "ASUS、AMD X870E搭載マザーボード2機種を発売 AIO Q-Connector・Wi-Fi 7対応 週刊アスキー",
       "published_at": "2026-09-07T01:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
-      "id": "6dfe9b99c044908ebe1d1cf0",
-      "title": "ASUS、2.5GbE対応のWi-Fi 7ゲーミングルーター「TUF Gaming BE3600」発売 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibDRwcW13WkZQamh5ZXdpeFBSVGhKdmltYnZHd0xPVzNfZ3dVV3hYTnl4Y3FDek1hQTdxTU9UamtvUmIySHoxelhMMEZna2E0OV9YMzNGUEwwWWU0YlBkM2wxcERDZ3B6QTlB?oc=5",
-      "summary": "ASUS、2.5GbE対応のWi-Fi 7ゲーミングルーター「TUF Gaming BE3600」発売 INTERNET Watch",
-      "published_at": "2026-09-06T22:30:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
-      "id": "baa06b6b60577a2ccba1e119",
-      "title": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pckJPMXVZUUw1X1FQNE4zMHBfVmFHc1FQWTdpSlhETXk2TGRfNG5kOU1ZUlZKY2lxQi1sQlY4Ui1tVHVsVENLYV9uWHhpY1RyVktUWlllM1VRQjBWMU9HY3A4cTFVa1U?oc=5",
-      "summary": "ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売 ケータイ Watch",
-      "published_at": "2026-09-05T23:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

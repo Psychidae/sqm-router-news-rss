@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-11T00:07:57.872350Z",
+  "generated_at": "2026-09-11T04:35:05.142259Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,22 +64,22 @@
       "score": 14
     },
     {
-      "id": "e3510a4700f0af40a4d2c03e",
-      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
-      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
-      "published_at": "2026-09-10T02:55:29Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "2ecf107f6e1d789e5ec735b2",
       "title": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices - BASENOR - Tesla Accessories",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmd0RGpzZXlrMVI4TmRIX1R1ZFdLQVIydC12dUU5cUJMYzhDb2pNS2NnQ2laVXByb2RQOWowOFdxc2xLQ3Z0amJTTkl2YlkyVVVLZDE2Q3pxRDZkWlgtanhIRVZDNzdTaWR4TVVQSG9xMHFKX190RVRkc2dzQWJhZmdhaUlLRXhRM0lDQzdvWjBKbEV5ZFIzemxEaUlERl9ILTNiRQ?oc=5",
       "summary": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices BASENOR - Tesla Accessories",
       "published_at": "2026-09-09T20:05:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "e3510a4700f0af40a4d2c03e",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
+      "published_at": "2026-09-09T15:39:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
