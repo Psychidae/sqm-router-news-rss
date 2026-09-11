@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-11T09:08:34.077424Z",
+  "generated_at": "2026-09-11T13:32:31.291513Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,10 +20,21 @@
       "score": 21
     },
     {
+      "id": "5f6860dcb7775e87bc6018c9",
+      "title": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2QyeGtHOFVSaXZWTHFhYjJXOWN0bmFKaXZsVmxYaTdBSDJWSlFhSGpVU1VJakhsWWJuT2RvcnFGU3FYSWZySmtIajFYSWx4dHItNWhQVXphc25uRWpLWUl6M1RPQjUtMVlfWDVCdE1Bbld2YjY4Y0t5b09GZHluNk9XUTRUZTNTTU1Tc2l1Q0pLcUhLNW15S0pQeEpQS1h2ZTJIYXJ2cmVKallUanc?oc=5",
+      "summary": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch Notebookcheck",
+      "published_at": "2026-09-11T08:50:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
+    },
+    {
       "id": "2140589e842a69848e2ef0f8",
-      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - techradar.com",
+      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5",
-      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones techradar.com",
+      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones TechRadar",
       "published_at": "2026-09-08T21:50:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -65,9 +76,9 @@
     },
     {
       "id": "2ecf107f6e1d789e5ec735b2",
-      "title": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices - BASENOR - Tesla Accessories",
+      "title": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices - basenor.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmd0RGpzZXlrMVI4TmRIX1R1ZFdLQVIydC12dUU5cUJMYzhDb2pNS2NnQ2laVXByb2RQOWowOFdxc2xLQ3Z0amJTTkl2YlkyVVVLZDE2Q3pxRDZkWlgtanhIRVZDNzdTaWR4TVVQSG9xMHFKX190RVRkc2dzQWJhZmdhaUlLRXhRM0lDQzdvWjBKbEV5ZFIzemxEaUlERl9ILTNiRQ?oc=5",
-      "summary": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices BASENOR - Tesla Accessories",
+      "summary": "Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices basenor.com",
       "published_at": "2026-09-09T20:05:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -76,9 +87,9 @@
     },
     {
       "id": "e3510a4700f0af40a4d2c03e",
-      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - pcmag.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
-      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 pcmag.com",
       "published_at": "2026-09-09T15:39:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
-    },
-    {
-      "id": "13365b0ac2d382c3cf83f96b",
-      "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - SlashGear",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklEZnlVWXk2UWo3UUU1MmZQZ1RYWEVmdVJSaGJzMlI4Q0JNM2pQQnpRdWVKdW50U3ZLaXVJRl9tdDFtZW5HbnFWUUlic2VRUlV6SVlxTVBZZnVIbm9DNlVpMVREWGhIa2hvME1yOHRBQU56dktJazJUUTZWdmJCZmR2eWtVM1R0cXRNcW40ZDNXWFlDZUJOa0hqZ3gySTA?oc=5",
-      "summary": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router SlashGear",
-      "published_at": "2026-09-07T10:45:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
     }
   ]
 }
