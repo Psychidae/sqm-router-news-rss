@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:54:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - cybersecuritynews.com</title>
+      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lIdkZyYkp5LWlJU0VLY2M1NEM2SnJxeGpNZkFoREE5X3VVXy1nYy12LVYtdHctMkZjV2VCam5kaVM4T1ZVeUVXOUZ4Qng5MVhIeERGQ3VBajQ0ZV9kcFNJM3hocXpEUm9NNDdUVmNHek9KMkNFNGV1TWRBVEJKQ1Bwcnp5Z2I5TVHSAY8BQVVfeXFMTXRaNVB4V0JEU0FwU09ESFlycnFLc1R5Rm1SOHctaVNDejdwNDJ2T25DYWlUWGEzMVdHcGJTQk1ic2V4MURjWFBybFVxUjFlbGNERFU5WEt4TG1uVzhZc0RLWU1yLUpoOTZPM0szZjhlM3VIcTQwWUNfR3UtdzFFQWgzSEdHY3N2emlRZFV5dlE?oc=5</link>
       <guid isPermaLink="false">2eda272f42e6006c9e1f30f5</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-11 21:07
-cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands cybersecuritynews.com</description>
+cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands CyberSecurityNews</description>
       <pubDate>Fri, 11 Sep 2026 17:13:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T17:13:38.328714Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T12:07:45Z</sqm:sourcePublishedDate>
@@ -50,13 +50,27 @@ cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - internet.watch.impress.co.jp</title>
+      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - news.yahoo.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8xMTUyUV9Za1c5MWRyYVlmZ2Y3b0hpay1aME9ZOGRTcWFseXdXZFhtVmRUMU9CRmpQcDU2ZjRjaUpsZ3B0aWZqbWg4X0V5Q1lHOWk4NkszbkhScERTSHU0OGJYamFvanVOQ2ExSU9aS1hxODlFR2g5bV9pN0NVUjg?oc=5</link>
+      <guid isPermaLink="false">fd09a89840d959885a036150</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 07:38
+NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 news.yahoo.co.jp</description>
+      <pubDate>Fri, 11 Sep 2026 21:54:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-11T21:54:51.539946Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-10T22:38:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE53dHctWm1feWlwNkZhSkxpbkdpNmZYU0p6N2ZJa3ZuM3h1dkhGcG5mLUVLQmpPejFVMHF0VEk5cFVkVm42YXdaNU1ORXBITTc4NFVmSURjM2lXVGQwVlZBdjZmS3RVUWhvUkI0?oc=5</link>
       <guid isPermaLink="false">36bb3ac25c62eb82bc75291c</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 07:30
-NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 internet.watch.impress.co.jp</description>
+NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 INTERNET Watch</description>
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-10T22:30:00Z</sqm:sourcePublishedDate>
@@ -130,20 +144,6 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T02:06:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - Korben</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5</link>
-      <guid isPermaLink="false">240920410e00bb3e2ebd7772</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-10 00:46
-ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ Korben</description>
-      <pubDate>Wed, 09 Sep 2026 16:35:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-09T16:35:23.539432Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

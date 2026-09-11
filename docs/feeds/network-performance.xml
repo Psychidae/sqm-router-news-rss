@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:41:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:54:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Fidium Fiber internet outage affects Maine, other New England states - Centralmaine.com</title>
@@ -134,13 +134,13 @@ Telstra、7月の通信障害の原因はネットワーク同期システムの
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - prtimes.jp</title>
+      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - PR TIMES</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE03Sl9MUGtfcmFiM3JDRjVueHhLejd6dm9CWGxSSndpUk9WSHpTejNJbkFNT2ZJUmtvOXpHelFxb0c3MTl1dmxxVGNLMnlDVmQyQ19jMXNyTnpRWnlPM1RDSmhJLUtxbWNlN0E?oc=5</link>
       <guid isPermaLink="false">1bd99b56911693d9a5e5be94</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-07 10:00
-ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 prtimes.jp</description>
+ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 PR TIMES</description>
       <pubDate>Fri, 11 Sep 2026 19:41:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T19:41:28.497340Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T01:00:02Z</sqm:sourcePublishedDate>
