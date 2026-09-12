@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-12T08:49:32.329758Z",
+  "generated_at": "2026-09-12T12:49:43.757491Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,18 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
-    },
-    {
-      "id": "767a0f1085c88f9a47d62073",
-      "title": "WavKong V2700 RPU™ Wi-Fi Router Teardown & Review. 15,000 SQ FT With A Single Router? - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aVl1amxUVllfc1pRT2RMUFdHS3VxUVdkS0l0UDZZNmJyeUs2aG5FSlVLamRNczdDS0NRNE95elVkVDNETFE3NGVKckJUZHBVZWdOT3lYOWYyYXN1?oc=5",
-      "summary": "WavKong V2700 RPU™ Wi-Fi Router Teardown & Review. 15,000 SQ FT With A Single Router? YouTube",
-      "published_at": "2026-09-09T09:59:04Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 18
     },
     {
       "id": "2140589e842a69848e2ef0f8",
@@ -62,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 17
+    },
+    {
+      "id": "767a0f1085c88f9a47d62073",
+      "title": "WavKong V2700 RPU™ Wi-Fi Router Teardown & Review. 15,000 SQ FT With A Single Router? - YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aVl1amxUVllfc1pRT2RMUFdHS3VxUVdkS0l0UDZZNmJyeUs2aG5FSlVLamRNczdDS0NRNE95elVkVDNETFE3NGVKckJUZHBVZWdOT3lYOWYyYXN1?oc=5",
+      "summary": "WavKong V2700 RPU™ Wi-Fi Router Teardown & Review. 15,000 SQ FT With A Single Router? YouTube",
+      "published_at": "2026-09-09T09:59:04Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
     },
     {
       "id": "df65653708244864d8f680dc",

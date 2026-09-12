@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 08:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:49:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
+      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - cybersecuritynews.com</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lIdkZyYkp5LWlJU0VLY2M1NEM2SnJxeGpNZkFoREE5X3VVXy1nYy12LVYtdHctMkZjV2VCam5kaVM4T1ZVeUVXOUZ4Qng5MVhIeERGQ3VBajQ0ZV9kcFNJM3hocXpEUm9NNDdUVmNHek9KMkNFNGV1TWRBVEJKQ1Bwcnp5Z2I5TVHSAY8BQVVfeXFMTXRaNVB4V0JEU0FwU09ESFlycnFLc1R5Rm1SOHctaVNDejdwNDJ2T25DYWlUWGEzMVdHcGJTQk1ic2V4MURjWFBybFVxUjFlbGNERFU5WEt4TG1uVzhZc0RLWU1yLUpoOTZPM0szZjhlM3VIcTQwWUNfR3UtdzFFQWgzSEdHY3N2emlRZFV5dlE?oc=5</link>
       <guid isPermaLink="false">2eda272f42e6006c9e1f30f5</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-11 21:07
-cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands CyberSecurityNews</description>
+cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands cybersecuritynews.com</description>
       <pubDate>Fri, 11 Sep 2026 17:13:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T17:13:38.328714Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T12:07:45Z</sqm:sourcePublishedDate>
@@ -22,13 +22,13 @@ cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 - 選挙ドットコム</title>
+      <title>[セキュリティ] デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 - go2senkyo.com</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUUNjV3BYeEMtOTBKSldOVEJMSXZuWENtN3NZT3BLSTFPZ3B2RDRTcjVOZVVRUkEyWjJmdVNHN2FYNWxuZ2tidnhQUFZTcGdUNXcxN3VSWC1udDd3Z3BJ?oc=5</link>
       <guid isPermaLink="false">65047339acb898ef7d227564</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 13:42
-デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 選挙ドットコム</description>
+デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 go2senkyo.com</description>
       <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T04:42:08Z</sqm:sourcePublishedDate>
@@ -134,13 +134,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ - Korben</title>
+      <title>[セキュリティ] ルーター:脆弱性が悪用された場合、メーカーは欧州への報告が義務化に - Korben</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5</link>
       <guid isPermaLink="false">240920410e00bb3e2ebd7772</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-10 00:46
-ルーターメーカー、脆弱性の悪用を欧州当局に報告する義務化へ Korben</description>
+ルーター:脆弱性が悪用された場合、メーカーは欧州への報告が義務化に Korben</description>
       <pubDate>Sat, 12 Sep 2026 00:15:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-12T00:15:42.502863Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
