@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-12T20:57:47.959674Z",
+  "generated_at": "2026-09-12T23:01:50.839343Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -76,9 +76,9 @@
     },
     {
       "id": "e8329380bcf1855c56b7dbf1",
-      "title": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - news.infoseek.co.jp",
+      "title": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUmxXc05oSmd5VEx6ZjBuOXVmZFVzSU8xRE54N1pTV0o1MWdkZmhuZ2pQc0VKMy13S0xnMlA0UE5jTXVxSW9HdWFMbHpPU0FPOVpST1J2TWlfZXB0Y0xXOWpiVnVwZ2VwWVJFdWtvOHNteGRIRUxv0gF8QVVfeXFMT2ZMSnhUaXdfQWx2OGhyclpMc09wOGg1eC1YTWk5VHpWV2lzN29RWHU3Z1g0eC03OHFuTmdIUHRFS2lJQUpiTWQ2RElGYi1JNXRFOHB2cVBFUjByWkhCdG55NFIzUW9aV05wVm1tUERNclpPS0wxbElNYUM1aw?oc=5",
-      "summary": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 news.infoseek.co.jp",
+      "summary": "松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 Infoseek",
       "published_at": "2026-09-11T07:59:57Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
