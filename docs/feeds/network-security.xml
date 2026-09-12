@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 18:45:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:57:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
@@ -92,13 +92,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - Infoseek</title>
+      <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - news.infoseek.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUmxXc05oSmd5VEx6ZjBuOXVmZFVzSU8xRE54N1pTV0o1MWdkZmhuZ2pQc0VKMy13S0xnMlA0UE5jTXVxSW9HdWFMbHpPU0FPOVpST1J2TWlfZXB0Y0xXOWpiVnVwZ2VwWVJFdWtvOHNteGRIRUxv0gF8QVVfeXFMT2ZMSnhUaXdfQWx2OGhyclpMc09wOGg1eC1YTWk5VHpWV2lzN29RWHU3Z1g0eC03OHFuTmdIUHRFS2lJQUpiTWQ2RElGYi1JNXRFOHB2cVBFUjByWkhCdG55NFIzUW9aV05wVm1tUERNclpPS0wxbElNYUM1aw?oc=5</link>
       <guid isPermaLink="false">e8329380bcf1855c56b7dbf1</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 16:59
-松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 Infoseek</description>
+松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 news.infoseek.co.jp</description>
       <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T07:59:57Z</sqm:sourcePublishedDate>
