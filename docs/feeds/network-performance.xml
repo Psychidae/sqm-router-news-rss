@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:15:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Fidium Fiber internet outage affects Maine, other New England states - Centralmaine.com</title>
@@ -46,6 +46,20 @@ Iran hackers claim responsibility for North Texas internet outage that affected 
       <pubDate>Tue, 08 Sep 2026 23:39:40 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-08T23:39:40.421232Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-10T00:30:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-10 07:35
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Sat, 12 Sep 2026 00:15:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-12T00:15:43.563784Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-09T22:35:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -130,20 +144,6 @@ Telstra、7月の通信障害の原因はネットワーク同期システムの
       <pubDate>Fri, 11 Sep 2026 13:32:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T13:32:34.001929Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T05:10:15Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE03Sl9MUGtfcmFiM3JDRjVueHhLejd6dm9CWGxSSndpUk9WSHpTejNJbkFNT2ZJUmtvOXpHelFxb0c3MTl1dmxxVGNLMnlDVmQyQ19jMXNyTnpRWnlPM1RDSmhJLUtxbWNlN0E?oc=5</link>
-      <guid isPermaLink="false">1bd99b56911693d9a5e5be94</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-07 10:00
-ゼロトラストセキュリティ「Cygiene」、通信遅延とネットワーク構成の変更をなくす端末完結型SSE「ECAP」の提供を開始 PR TIMES</description>
-      <pubDate>Fri, 11 Sep 2026 19:41:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-11T19:41:28.497340Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-07T01:00:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
