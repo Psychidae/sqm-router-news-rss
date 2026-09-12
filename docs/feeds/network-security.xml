@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:36:08 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
@@ -106,13 +106,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - news.yahoo.co.jp</title>
+      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmxTQzRsY2s2amFhdll1cl9EYjZrSzNBNDVlVkpqaWV1c1MyWjNWc2Z0YnZxTnNldzM3S0ZXeEdBb1lSamJfc21OZlIzMWlKS0JBa2JPTWN0ZC0wOHZOc0NMXzd1X0xHTldDbjI3UTVOcDVSM20xanVXd09CMUI3emJnZktmRmpqTEpkeGxR?oc=5</link>
       <guid isPermaLink="false">d3b94f0a9ebcfc5f0bf39964</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 11:07
-政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 news.yahoo.co.jp</description>
+政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 Yahoo!ニュース</description>
       <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T02:07:02Z</sqm:sourcePublishedDate>
