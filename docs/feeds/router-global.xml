@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:04:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -106,20 +106,6 @@ SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support mediasat.info</description
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Starlink Router 4 Unveiled With Wi-Fi 7 and Major Performance Upgrades - driveteslacanada.ca</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBUR1IwbGozUWR0ZjRJa2IyRm9CWDR2cHAxOXZfcklRY01ORGNwZTFzdEFDSm02YlY5QTJZMFRSY3hsamdYcXI4T3hLa3VEMkJadnVVSVo1WUtrNUVLaUg2Z1poUTd6b0ljT185NWxXNHR3WkdBSHc?oc=5</link>
-      <guid isPermaLink="false">b4c93cd23881e265e81e2537</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-10 23:14
-Starlink Router 4 Unveiled With Wi-Fi 7 and Major Performance Upgrades driveteslacanada.ca</description>
-      <pubDate>Thu, 10 Sep 2026 17:11:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-10T17:11:39.192480Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-10T14:14:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Starlink Router 4 Unveiled: Wi-Fi 7, 3,500 sq ft Coverage, 510 Devices - BASENOR - Tesla Accessories</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQYmd0RGpzZXlrMVI4TmRIX1R1ZFdLQVIydC12dUU5cUJMYzhDb2pNS2NnQ2laVXByb2RQOWowOFdxc2xLQ3Z0amJTTkl2YlkyVVVLZDE2Q3pxRDZkWlgtanhIRVZDNzdTaWR4TVVQSG9xMHFKX190RVRkc2dzQWJhZmdhaUlLRXhRM0lDQzdvWjBKbEV5ZFIzemxEaUlERl9ILTNiRQ?oc=5</link>
       <guid isPermaLink="false">2ecf107f6e1d789e5ec735b2</guid>
@@ -144,6 +130,20 @@ Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag</descriptio
       <pubDate>Wed, 09 Sep 2026 19:28:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-09T19:28:53.162207Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T15:39:47Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] This Mesh Router Gives You Great Wi-Fi Without Costing a Fortune - New York Magazine</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFAyUWdCTjBoVzdua3VnWm9iREc5cW10N0I2Nmo4c1RRRzNJT1VTT3lQRFl2NkktbjRGRXFFX25HYWxDNUsxQ0ZDRFdWdTE4SmpMVk4tV1NpbkNReHluWXdIV1NjZUhmZU1TaTdMUFZGOFZVU1FrRXc?oc=5</link>
+      <guid isPermaLink="false">f5f7c0b296bba0b6f513de29</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-09 00:00
+This Mesh Router Gives You Great Wi-Fi Without Costing a Fortune New York Magazine</description>
+      <pubDate>Sun, 13 Sep 2026 15:04:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-13T15:04:10.750510Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-08T15:00:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

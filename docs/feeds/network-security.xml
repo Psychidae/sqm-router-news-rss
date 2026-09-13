@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 06:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 15:04:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
@@ -13,11 +13,11 @@
       <guid isPermaLink="false">2eda272f42e6006c9e1f30f5</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-09-13 14:21
+元記事日付: 2026-09-11 20:28
 cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands CyberSecurityNews</description>
       <pubDate>Fri, 11 Sep 2026 17:13:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T17:13:38.328714Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-13T05:21:51Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-09-11T11:28:53Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -64,13 +64,13 @@ NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - socprime.com</title>
+      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE96Y2lDclpIdk9IajZWMWlJLWpteFpZZWVrYXFOQnVhNmhneTRFYVNYRndHdVU5NDEwSnJoenZXVDFrbWl0UVFzeDRFcjRyWHk4LU1xX25qVUE3WC1QSWxUVDNsbVVhUEJIRUhGcGxZUXpFbFdRbEZKSFRxLXo?oc=5</link>
       <guid isPermaLink="false">6f74737b08cf0c5b6a9e1c0b</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-08 00:09
-CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks socprime.com</description>
+CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks SOC Prime</description>
       <pubDate>Tue, 08 Sep 2026 05:56:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-08T05:56:06.923757Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-07T15:09:33Z</sqm:sourcePublishedDate>
@@ -78,16 +78,16 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - Infoseek</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1IUmxXc05oSmd5VEx6ZjBuOXVmZFVzSU8xRE54N1pTV0o1MWdkZmhuZ2pQc0VKMy13S0xnMlA0UE5jTXVxSW9HdWFMbHpPU0FPOVpST1J2TWlfZXB0Y0xXOWpiVnVwZ2VwWVJFdWtvOHNteGRIRUxv0gF8QVVfeXFMT2ZMSnhUaXdfQWx2OGhyclpMc09wOGg1eC1YTWk5VHpWV2lzN29RWHU3Z1g0eC03OHFuTmdIUHRFS2lJQUpiTWQ2RElGYi1JNXRFOHB2cVBFUjByWkhCdG55NFIzUW9aV05wVm1tUERNclpPS0wxbElNYUM1aw?oc=5</link>
-      <guid isPermaLink="false">e8329380bcf1855c56b7dbf1</guid>
+      <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBtTkx5cVpXQ0ZfZXkxQlNLUUxJQVEyMlFZRjVQemdROF90Zkl6Z2RPTV91SW55UjdKUTRTZGVHSGdzNDF5bUlRN2xJakZ0REliVlQwY2xidm11bXJXRWhZa2FmdU9BVUI4cHc?oc=5</link>
+      <guid isPermaLink="false">4612c05a89129296be68da3c</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-09-11 16:59
-松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 Infoseek</description>
-      <pubDate>Fri, 11 Sep 2026 09:08:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-11T09:08:35.034244Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-11T07:59:57Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-11 16:55
+松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 ITmedia</description>
+      <pubDate>Sun, 13 Sep 2026 15:04:11 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-13T15:04:11.733177Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T07:55:52Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
