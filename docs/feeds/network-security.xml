@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:38:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
@@ -78,6 +78,20 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUt3Szhxd2VwY0ZzbWxxZktLMGk3Z290OENyeDJUM3BjVDVpQ0ViUHBmdlh3MHlhVmxSN2oybHM3LV9UY1czc29VbkZzU3BDVFNxMU9HUmRwNDdPZTM2TUd4RXRua3RLekNid25DaUFTMzVuYS1pRTcxYk9LeU5FVkM3VHZiQkhncXkxOUhR?oc=5</link>
+      <guid isPermaLink="false">15dbc9b7e1d7a230bc5da8b1</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-14 07:00
+デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+      <pubDate>Sun, 13 Sep 2026 22:38:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-13T22:38:33.981795Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-13T22:00:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] 松本デジタル相、24.6万件漏えい可能性について説明 「既知の脆弱性を対応前に悪用」 - ITmedia</title>
       <link>https://news.google.com/rss/articles/CBMiakFVX3lxTFBtTkx5cVpXQ0ZfZXkxQlNLUUxJQVEyMlFZRjVQemdROF90Zkl6Z2RPTV91SW55UjdKUTRTZGVHSGdzNDF5bUlRN2xJakZ0REliVlQwY2xidm11bXJXRWhZa2FmdU9BVUI4cHc?oc=5</link>
       <guid isPermaLink="false">4612c05a89129296be68da3c</guid>
@@ -130,20 +144,6 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <pubDate>Sat, 12 Sep 2026 00:15:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-12T00:15:42.502863Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ - gmo-cybersecurity.com</title>
-      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib1VvUGx1T0Y0RE5fZUdyUlR0aTJhZzM0R3pQbDRoOXZwc3JQVE9zZmhHbEppN0tDS2laS3VKalVWMDZGOVpxbUJaVHgySEZtLXplM0ozSXpjUHBOOVZvekVVOUMtSWM?oc=5</link>
-      <guid isPermaLink="false">adc4084602b65b42ced2164e</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-09 13:33
-衛星にファイアウォールは必要か？～宇宙セキュリティにおける衛星搭載ファイアウォールの研究～ gmo-cybersecurity.com</description>
-      <pubDate>Sun, 13 Sep 2026 06:06:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-13T06:06:11.596927Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-09T04:33:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
