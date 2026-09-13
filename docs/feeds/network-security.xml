@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 23:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:58:11 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
@@ -36,13 +36,13 @@ cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - rocket-boys.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5</link>
       <guid isPermaLink="false">fa659f908aca2c0734aaf5df</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 12:50
-デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab rocket-boys.co.jp</description>
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T03:50:54Z</sqm:sourcePublishedDate>
@@ -120,13 +120,13 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - 読売新聞</title>
+      <title>[セキュリティ] 政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 - yomiuri.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xcVFkUFktOXR1MW9Fc3NNT05GTjBvUkU1T0pDTll5MU1mLTJJdFkzdHNSYXdzVlRIZjl4YUR1MXJ0VmQ3dXVfZW1RNzFGSjVJQ1ptR0JqRzZjVlg0S2IyVDQ3Yl9nZw?oc=5</link>
       <guid isPermaLink="false">5c4e5658f4ad30cc017bde4d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-11 11:06
-政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 読売新聞</description>
+政府の共通基盤ネット「ＧＳＳ」にサイバー攻撃、国家公務員らの個人情報２４・６万件漏えいか…ＶＰＮ脆弱性利用 yomiuri.co.jp</description>
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T02:06:00Z</sqm:sourcePublishedDate>
