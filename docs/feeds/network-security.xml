@@ -5,8 +5,36 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 10:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:56:38 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRFpROHZYNGV0cGhoSl9yeXh2QlRLSW45a2V6UnRxYmw2b0VCakNnUzctZ3Zzd0lyc0xNSEJvcVF4Vno2eEdlT3BTZHJvRTk0bnVGSk5vcm5FSms1WEl1NDlTRFpwUktLOUVR?oc=5</link>
+      <guid isPermaLink="false">67c425b145e47e4cd2da4a9f</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-14 20:08
+コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を INTERNET Watch</description>
+      <pubDate>Mon, 14 Sep 2026 16:56:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-14T16:56:38.326043Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-14T11:08:45Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を（INTERNET Watch） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5NS0VRN1lJcktWTzJIZldfMHozMDV5aTJqdkxMXzNUNS1KT2pXS0x4eTEzZUZJTkFna285ZC1fNGo3Z2gydHhfZlV4TVU1Q0gxSnVMRGFzZ1otbWk3c2ZyN0NKX1pFN2VDSzlTcTVkSkVCZEdiVTlBQ2ViZHM5YVk?oc=5</link>
+      <guid isPermaLink="false">855696013523f26345e8653e</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-14 20:08
+コンテックの法人向けWi-Fi機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を（INTERNET Watch） Yahoo!ニュース</description>
+      <pubDate>Mon, 14 Sep 2026 16:56:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-14T16:56:38.326043Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-14T11:08:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 「ゼロトラスト」でも防げず？ 政府共通基盤GSSで24.6万件が漏えいか：突かれたのはVPNの脆弱性 - ITmedia</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE84YzQ5R3FjVm9aal9oWmlTdXJ0bmJqMUVwQXlubGZWQmVuQUNNQVRyM1dZT3dJbG5xS0JFQjVZT0RGb3RiWnY4Y2VSUmRJLUd5a2NsSTQ3TURESG0zdlRydHJSYjFXVzBPN2Qxak44STladw?oc=5</link>
@@ -22,15 +50,15 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 - ScanNetSecurity</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZU5XRGJPaXgwc1BSMk84cjUzSmljQ1M1bUp6dkwwc29mMXBGV21iaHZINzRINGpkMy1ZR1phc0t2TGczdWRsV3JnS0hhaldEYVJLRUlCZ09MdHF1NnVabWhCYVFvcHpMekZ6MA?oc=5</link>
-      <guid isPermaLink="false">5e11d2c63d643990884b3be7</guid>
+      <title>[セキュリティ] VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVdLZ0tteDZ5OHZjSGpYNDQ4aDlLbEJSYWhCMlp1WHJ2RWJ2TENtS3UxeWl3YXlERXVUZ2ZjQl9XczZBZ2dfc0FzREZBSE9xUUNmcDNzT056RUpLUVZaWlhFUDZJZ0dXVW51TGlRLW9sQ3VGMDhoVHFaYlJFaEU?oc=5</link>
+      <guid isPermaLink="false">44f5bd1f4d62aeb2de068af1</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-14 08:05
-VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 ScanNetSecurity</description>
-      <pubDate>Mon, 14 Sep 2026 05:26:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-14T05:26:34.025293Z</sqm:firstSeenDate>
+VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity） Yahoo!ニュース</description>
+      <pubDate>Mon, 14 Sep 2026 16:56:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-14T16:56:38.326043Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-13T23:05:13Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
@@ -92,20 +120,6 @@ NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks - SOC Prime</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE96Y2lDclpIdk9IajZWMWlJLWpteFpZZWVrYXFOQnVhNmhneTRFYVNYRndHdVU5NDEwSnJoenZXVDFrbWl0UVFzeDRFcjRyWHk4LU1xX25qVUE3WC1QSWxUVDNsbVVhUEJIRUhGcGxZUXpFbFdRbEZKSFRxLXo?oc=5</link>
-      <guid isPermaLink="false">6f74737b08cf0c5b6a9e1c0b</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-09-08 00:09
-CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Attacks SOC Prime</description>
-      <pubDate>Tue, 08 Sep 2026 05:56:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-08T05:56:06.923757Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-07T15:09:33Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に - ドリームニュース</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnR1dZT0Z2Yy1jUHRndDJfSEZCcXZPUTk5WkpNTnlzU3luYUZsNzBfa3RwN2tscTVNNEEzd29IQ3JzY2hCNkRCVW85eUd6T19yRVV3?oc=5</link>
       <guid isPermaLink="false">5603ecba28de211b0eca46ef</guid>
@@ -116,20 +130,6 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <pubDate>Mon, 14 Sep 2026 10:58:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-14T10:58:04.570827Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-14T06:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUt3Szhxd2VwY0ZzbWxxZktLMGk3Z290OENyeDJUM3BjVDVpQ0ViUHBmdlh3MHlhVmxSN2oybHM3LV9UY1czc29VbkZzU3BDVFNxMU9HUmRwNDdPZTM2TUd4RXRua3RLekNid25DaUFTMzVuYS1pRTcxYk9LeU5FVkM3VHZiQkhncXkxOUhR?oc=5</link>
-      <guid isPermaLink="false">15dbc9b7e1d7a230bc5da8b1</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-14 07:00
-デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Sun, 13 Sep 2026 22:38:33 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-13T22:38:33.981795Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-13T22:00:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

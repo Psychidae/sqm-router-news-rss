@@ -1,18 +1,29 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-14T10:58:05.625124Z",
+  "generated_at": "2026-09-14T16:56:39.646154Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
+      "id": "3da24a7dd935aeedb1f3ab13",
+      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
+      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
+      "published_at": "2026-09-13T02:29:48Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
       "id": "16055605fd8a9f16834963c2",
-      "title": "Fidium Fiber internet outage affects Maine, other New England states - centralmaine.com",
+      "title": "Fidium Fiber internet outage affects Maine, other New England states - Centralmaine.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0JOWmRvUjAzenZHci16d2ctaTFXZ0ZQTFVUUXMtOTBiRmhpbUhkT3F2XzNOVDgyQ21Gc3RpdllKMGVlYzRrQzJvUWpKbjJUeWJWV1l5aXZjOEJrejZBaUd3SEJjdEFrVk1KMGxld1h6aEV4eVVjOFlXOWNCandFd3d0aDJWVy1UeDVsdHhtV1dWOXI2cUJQRm5EYjlTZE5maUg4NzNHVUI?oc=5",
-      "summary": "Fidium Fiber internet outage affects Maine, other New England states centralmaine.com",
+      "summary": "Fidium Fiber internet outage affects Maine, other New England states Centralmaine.com",
       "published_at": "2026-09-10T20:12:47Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -53,17 +64,6 @@
       "score": 7
     },
     {
-      "id": "3da24a7dd935aeedb1f3ab13",
-      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
-      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-09-10T00:30:35Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
       "id": "a4ee1d0b5a3ed021f71fe6a9",
       "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
@@ -91,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkFiSHhNdVZscnJRVy1XVnJRVjlKWnk1RnIwYU5GUm5sbjgzYWhNQzRFcFN3b3lNRkIyemhmblJCbUJ5MFpYVFl6R0M0TXdCYmg5OUxfTXB4OXl1T0U4dms0Zjk3MGNwOGItVUNUZ0xhTWh6M2hxMm95M2N4VnRTMzFiTVlXSmpNX2N6YkwtTDc4WExBYXAwSjhUckFrWlJfUEE2bDFrX24xWURCSEs0?oc=5",
       "summary": "DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 CoinDesk",
       "published_at": "2026-09-09T14:46:18Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "d0fbb7c9aa5da4fd91ac5260",
-      "title": "IPv6 LANにおける攻撃のリスクと予防策。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON1g2bXRKQThvUWhtbmxlNmltTHVpQ1FXRDdnNXlGVDhsUWZCVmZ3ZDBOSEpXdmRQQkRwSmdZelF0LWpiN1QzYWpzOFVYUFloMXUzRUhFZ1VOX09HQWFaSW9tQzVjYW40M0NKR0I2aXB4NHVHX0JKYVE0LWdLbmxlaTFpU3hWcHRqSXVaYng1djk?oc=5",
-      "summary": "IPv6 LANにおける攻撃のリスクと予防策。 Vietnam.vn",
-      "published_at": "2026-09-07T11:11:19Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
