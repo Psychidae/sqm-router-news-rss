@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 22:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:25:39 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFByLVdLZ0tteDZ5OHZjSGpYNDQ4aDlLbEJSYWhCMlp1WHJ2RWJ2TENtS3UxeWl3YXlERXVUZ2ZjQl9XczZBZ2dfc0FzREZBSE9xUUNmcDNzT056RUpLUVZaWlhFUDZJZ0dXVW51TGlRLW9sQ3VGMDhoVHFaYlJFaEU?oc=5</link>
+      <guid isPermaLink="false">44f5bd1f4d62aeb2de068af1</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-14 08:05
+VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性（ScanNetSecurity） Yahoo!ニュース</description>
+      <pubDate>Mon, 14 Sep 2026 00:25:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-14T00:25:39.091156Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-13T23:05:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lIdkZyYkp5LWlJU0VLY2M1NEM2SnJxeGpNZkFoREE5X3VVXy1nYy12LVYtdHctMkZjV2VCam5kaVM4T1ZVeUVXOUZ4Qng5MVhIeERGQ3VBajQ0ZV9kcFNJM3hocXpEUm9NNDdUVmNHek9KMkNFNGV1TWRBVEJKQ1Bwcnp5Z2I5TVHSAY8BQVVfeXFMTXRaNVB4V0JEU0FwU09ESFlycnFLc1R5Rm1SOHctaVNDejdwNDJ2T25DYWlUWGEzMVdHcGJTQk1ic2V4MURjWFBybFVxUjFlbGNERFU5WEt4TG1uVzhZc0RLWU1yLUpoOTZPM0szZjhlM3VIcTQwWUNfR3UtdzFFQWgzSEdHY3N2emlRZFV5dlE?oc=5</link>
@@ -130,20 +144,6 @@ CVE-2026-67276: MikroTik RouterOS SSH Zero-Day Exploited in Router Takeover Atta
       <pubDate>Fri, 11 Sep 2026 04:35:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-11T04:35:06.096824Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T02:06:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ルーター:脆弱性が悪用された場合、メーカーは欧州への報告が義務化に - Korben</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzJVWmtwN3Jfbl9tTW9GSHhyY3FGM3BzUmZTRHRscmxxczZPejZMZkpJNC1GM09mTno0TU9lenRFWnlPbzNfT1ZlUDJFVl9GX09lYW1sLW1uMmp2Q3hJMTFRRjhhVjRfSE1YSlFNMG9MNVlDVEtWNFVpZ3BLOUhTVlFzY3pZOXAzbDV3?oc=5</link>
-      <guid isPermaLink="false">240920410e00bb3e2ebd7772</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-10 00:46
-ルーター:脆弱性が悪用された場合、メーカーは欧州への報告が義務化に Korben</description>
-      <pubDate>Sat, 12 Sep 2026 00:15:42 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-12T00:15:42.502863Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-09T15:46:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
