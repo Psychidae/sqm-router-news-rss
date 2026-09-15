@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-15T04:50:15.482668Z",
+  "generated_at": "2026-09-15T10:02:16.936551Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "bd5ee02a2c6abadd51a687b0",
-      "title": "ASUSのWi-Fi 7ルーター「RE-BE3600J Pro」がセール中、Qualcomm製プロセッサを搭載する8月発売の新製品 - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IX0drNEdiMTVNcG43UWN3YUozOWItREo2QTAyazExc2RJU1Jfd1pQbk9jdFhaS3BVblZZZXpnWk4taVFPRlpEUnNfbDBSc205enVGUlN2SmtCc2dfTElTTVE5N1RlUQ?oc=5",
-      "summary": "ASUSのWi-Fi 7ルーター「RE-BE3600J Pro」がセール中、Qualcomm製プロセッサを搭載する8月発売の新製品 24Wireless",
-      "published_at": "2026-09-08T10:10:06Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 21
-    },
     {
       "id": "0c67c8136931afa64c7cc3f1",
       "title": "10Gbps対応のWi-Fi 7高機能モデル「Archer BE19000」が5万1840円など、TP-LinkのWi-FiルーターがAmazonでセール中！ - INTERNET Watch",
@@ -91,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ndHFZdkhXUHZEZ2hlSE13ZTBNYUl0NE9IZF96aTJQakY2bUZqTEhHN21XOW9KNExucG5fYzktbzJJRXpycXMtUXZzWXhPWFJ0UXFXQWdNUzVKRm9sRlJOeEN4QQ?oc=5",
       "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
       "published_at": "2026-09-10T05:07:25Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
+    {
+      "id": "9e46983c39686daf6e1109f5",
+      "title": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOEtFcmQ1VllTNDBBOGhxdm1tQ0FHOE5qYWZ6NWdxTjdVOFRfRFprOUFOS2lyb0ZmSXVfVFZIRnkzMWxJUlJ4b2VuZWRnN3RGd1RaZV9zdkFIZGRfWV8zdGE2T3ZtUDFCeE1xMzJBQXFpa2tuZUJobnVsWUVtcjNYSnFn?oc=5",
+      "summary": "ASUSが東京ゲームショウ2026に出展。ゲーマー向けディスプレイや無線LANルーターなど最新製品を公開 4Gamer.net",
+      "published_at": "2026-09-10T05:07:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
