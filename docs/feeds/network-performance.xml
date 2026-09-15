@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 23:51:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 04:50:18 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Dixon closes City Hall after internet outage, relocates services to fire station - KCRA</title>
-      <link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEs5d2JYclpnMjNScV9IcmVTMEN2Z3lKN3hEQk1DMVdiUkcwTlhHSUlDQVNNQXJnRGxWQ1MtNjZkbHJXWVdpY3pEN1RlMzEwVEJ5Wjl1emdzTmZXNG1qX3ZrNEh0MVRFdEJUS2EyakJzMzlNV0E1azVGbDFZa1RfTXNPc0hGU252SzNKSWlpRkJoR1pFRVlodmtId3RoMXNHUnp1NUlhQ0s1dm9kZi1HLXhsdVc?oc=5</link>
-      <guid isPermaLink="false">fe0129568fe7d009c88da5d8</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-15 05:58
-Dixon closes City Hall after internet outage, relocates services to fire station KCRA</description>
-      <pubDate>Mon, 14 Sep 2026 23:51:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-14T23:51:04.340619Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-14T20:58:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
