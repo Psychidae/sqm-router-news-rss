@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-16T09:54:22.463234Z",
+  "generated_at": "2026-09-16T14:56:43.686695Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -58,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWXJsSFBnbDlNS0s4aUN2NWs0aW1CLWRlelNNc3pIX3RRN2h5UExucTluS0pjSm90SzNhZ3ZyTVZjSTFSS2VKWTExUzNpTkFvMm9aTzRpUndMMlEtMUwxNzhKNURDRG9DUUotdmsyS3F5QQ?oc=5",
       "summary": "5Gも光も使えて通信障害に強い、すぐにネットが使える新サービス「auひかりプラス」の隠れた魅力と裏側 ケータイ Watch",
       "published_at": "2026-09-09T15:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "a254a492e286dcb9bfc3c0fc",
-      "title": "DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkFiSHhNdVZscnJRVy1XVnJRVjlKWnk1RnIwYU5GUm5sbjgzYWhNQzRFcFN3b3lNRkIyemhmblJCbUJ5MFpYVFl6R0M0TXdCYmg5OUxfTXB4OXl1T0U4dms0Zjk3MGNwOGItVUNUZ0xhTWh6M2hxMm95M2N4VnRTMzFiTVlXSmpNX2N6YkwtTDc4WExBYXAwSjhUckFrWlJfUEE2bDFrX24xWURCSEs0?oc=5",
-      "summary": "DoubleZero、低遅延取引ネットワークにKalshiの選挙データを追加 CoinDesk",
-      "published_at": "2026-09-09T14:46:18Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

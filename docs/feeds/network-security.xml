@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 09:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:56:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - CyberSecurityNews</title>
@@ -78,6 +78,20 @@ cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] デジタル庁GSSに不正アクセス、職員ら24.6万件の個人情報が漏えいの可能性 VPN機器の脆弱性から侵入 - 株式会社アクト</title>
+      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE54MEdfbFE2RnNVZ1ZfckJCcms4VlBIMWJkNmlXR0ZPUmtwbnNRWmJ2YjdWa2tkQUlpNVg1U0o2dDk3QWVnaHZqYg?oc=5</link>
+      <guid isPermaLink="false">136090b325253cffe032eeac</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-11 15:34
+デジタル庁GSSに不正アクセス、職員ら24.6万件の個人情報が漏えいの可能性 VPN機器の脆弱性から侵入 株式会社アクト</description>
+      <pubDate>Wed, 16 Sep 2026 14:56:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-16T14:56:42.061542Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-11T06:34:15Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 - 選挙ドットコム</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUUNjV3BYeEMtOTBKSldOVEJMSXZuWENtN3NZT3BLSTFPZ3B2RDRTcjVOZVVRUkEyWjJmdVNHN2FYNWxuZ2tidnhQUFZTcGdUNXcxN3VSWC1udDd3Z3BJ?oc=5</link>
       <guid isPermaLink="false">65047339acb898ef7d227564</guid>
@@ -130,20 +144,6 @@ NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」
       <pubDate>Mon, 14 Sep 2026 16:56:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-14T16:56:38.326043Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-14T11:08:45Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に - ドリームニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnR1dZT0Z2Yy1jUHRndDJfSEZCcXZPUTk5WkpNTnlzU3luYUZsNzBfa3RwN2tscTVNNEEzd29IQ3JzY2hCNkRCVW85eUd6T19yRVV3?oc=5</link>
-      <guid isPermaLink="false">5603ecba28de211b0eca46ef</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-14 15:30
-レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に ドリームニュース</description>
-      <pubDate>Tue, 15 Sep 2026 14:58:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-15T14:58:06.761855Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-14T06:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
