@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-16T14:56:40.677155Z",
+  "generated_at": "2026-09-16T18:52:44.416458Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -54,9 +54,9 @@
     },
     {
       "id": "252722070a9244b007d9895f",
-      "title": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ISPreview UK",
+      "title": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ispreview.co.uk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkNsS3JrTHBybFZHZGN5dkVBdEVvTGhuenNtTTE3eDNZZUhPQTRlbEViQV81NEZoXzJiMTZPSVZtYTBtRzl5TjRSdmR3SW1OWjdpdTZvMnlvRVlNbHNEWUdraDIxZXZ4Njk5OUR5TnNONF9IUnZ4ek1hWTVRUGhrSEpETGNNeng5MUJ6Mm96LTB4b29ZRUhjSmdTOTU5a2hmQ1pIMnNmdjFGZTN5bnV5RWlGekdpWEd6djRvVjY0VWlIMlNfT0lIdFRzV2JvZw?oc=5",
-      "summary": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ISPreview UK",
+      "summary": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ispreview.co.uk",
       "published_at": "2026-09-15T13:27:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -65,9 +65,9 @@
     },
     {
       "id": "4dede3bfd58435419fee9faa",
-      "title": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform - Wi-Fi NOW Global",
+      "title": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform - wifinowglobal.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1kSGI2TDNwbjBZclZtUXRFTE5rOG9zMmdEQXlpWVN2eEh1d1I1WGRLQmtlWUl1a1pyYm4yeXZLM0xSbXdiNUNhWWI2dmtwZVlTS2hfcFlVOEFhQVVkNE5SaWpUazhHb3pIXzNSWExsRXVaeGpUdHphV2ZkcXJ5UmhPZ05URVZZeUZ1NElPTUlDTXI4ZGdHSFZoU0MzcmpsaGJON2VodmZPRXJxTzZZeXlWVk9CRnl6ZnJtVy1KZ2I3cUdfTXZNV2g0TjdfVUQwalJjdEVPbVBPRWs?oc=5",
-      "summary": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform Wi-Fi NOW Global",
+      "summary": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform wifinowglobal.com",
       "published_at": "2026-09-12T13:27:02Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -94,7 +94,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "f5f7c0b296bba0b6f513de29",
