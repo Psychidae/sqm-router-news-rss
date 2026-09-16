@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:08:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -64,13 +64,13 @@ I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ispreview.co.uk</title>
+      <title>[海外ルーターニュース] Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ISPreview UK</title>
       <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkNsS3JrTHBybFZHZGN5dkVBdEVvTGhuenNtTTE3eDNZZUhPQTRlbEViQV81NEZoXzJiMTZPSVZtYTBtRzl5TjRSdmR3SW1OWjdpdTZvMnlvRVlNbHNEWUdraDIxZXZ4Njk5OUR5TnNONF9IUnZ4ek1hWTVRUGhrSEpETGNNeng5MUJ6Mm96LTB4b29ZRUhjSmdTOTU5a2hmQ1pIMnNmdjFGZTN5bnV5RWlGekdpWEd6djRvVjY0VWlIMlNfT0lIdFRzV2JvZw?oc=5</link>
       <guid isPermaLink="false">252722070a9244b007d9895f</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-15 22:27
-Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ispreview.co.uk</description>
+Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ISPreview UK</description>
       <pubDate>Tue, 15 Sep 2026 14:58:05 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-15T14:58:05.577110Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-15T13:27:00Z</sqm:sourcePublishedDate>
@@ -78,16 +78,30 @@ Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform - wifinowglobal.com</title>
+      <title>[海外ルーターニュース] Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform - Wi-Fi NOW Global</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1kSGI2TDNwbjBZclZtUXRFTE5rOG9zMmdEQXlpWVN2eEh1d1I1WGRLQmtlWUl1a1pyYm4yeXZLM0xSbXdiNUNhWWI2dmtwZVlTS2hfcFlVOEFhQVVkNE5SaWpUazhHb3pIXzNSWExsRXVaeGpUdHphV2ZkcXJ5UmhPZ05URVZZeUZ1NElPTUlDTXI4ZGdHSFZoU0MzcmpsaGJON2VodmZPRXJxTzZZeXlWVk9CRnl6ZnJtVy1KZ2I3cUdfTXZNV2g0TjdfVUQwalJjdEVPbVBPRWs?oc=5</link>
       <guid isPermaLink="false">4dede3bfd58435419fee9faa</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-12 22:27
-Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform wifinowglobal.com</description>
+Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform Wi-Fi NOW Global</description>
       <pubDate>Sat, 12 Sep 2026 16:17:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-12T16:17:23.522505Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-12T13:27:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Netgear's hotspot-killing Nighthawk M7 Pro Wi-Fi 7 router drops £200 - TechRadar</title>
+      <link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaUpGS3pnc2J0RVlxd1ZZRG9vdUlIV2lBYURLOEllNzlJV3Nfamg5VmVXdHN0Y1VHY1AzNV8td1lvYnYtQmtsWjJ2ZlJ4eFREQTRGc0FnVDI4cVpDU0l4WXZHd0RFS0ZlN0VncmlTWjJKdGpRSkh1OXYyTHRWZVNIYkttNVZPNmY0d25BeXdhM1BmMU80QmxpeWJhX1JOOHRCSWJsWkZvRDRZRFVDeWx5aFNzNlYyTG9JTVNkZlgzTl9CdU93dmZHelowTUtCY0wwN2NOLXVESjdLMFVXZjdGMFB3OGNxV2phbXdZ?oc=5</link>
+      <guid isPermaLink="false">1147bf11a4748e750570ebee</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-12 20:07
+Netgear's hotspot-killing Nighthawk M7 Pro Wi-Fi 7 router drops £200 TechRadar</description>
+      <pubDate>Wed, 16 Sep 2026 22:08:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-16T22:08:02.877228Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-12T11:07:42Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -130,20 +144,6 @@ This Mesh Router Gives You Great Wi-Fi Without Costing a Fortune New York Magazi
       <pubDate>Sun, 13 Sep 2026 15:04:10 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-13T15:04:10.750510Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-08T15:00:10Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN - TweakTown</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTlnbDdYVjByR1lHSXg2Mk5oU1NldWtUenJ2UTFCS3BremxiYU0yYl96SzZjdGR1NVNSVGU3ZlNVUzdHeXMwcXB1VnVEZGtwaDNURDNack1Id1Z5ckxjRjJpNnF5TE9Gc2RVanRBT3pPNWFERDFiVTVtZHRrb3dGcnFmQndvejlacmlrTDI1WkQzenp1UEdWSkNaQWg0WVNjdndUOTBVSFpNWkI1bmNLeGF1S2lPYlk2c0w3cVJRcDNsRW0tN3IydA?oc=5</link>
-      <guid isPermaLink="false">ede81790b2ea8b77d86ac2c3</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-08 16:00
-GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN TweakTown</description>
-      <pubDate>Mon, 14 Sep 2026 23:51:01 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-14T23:51:01.713777Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-08T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
