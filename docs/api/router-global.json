@@ -1,13 +1,46 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-16T04:51:13.645845Z",
+  "generated_at": "2026-09-16T09:54:20.322906Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - tomshardware.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals tomshardware.com",
+      "published_at": "2026-09-03T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 21
+    },
+    {
+      "id": "5f6860dcb7775e87bc6018c9",
+      "title": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2QyeGtHOFVSaXZWTHFhYjJXOWN0bmFKaXZsVmxYaTdBSDJWSlFhSGpVU1VJakhsWWJuT2RvcnFGU3FYSWZySmtIajFYSWx4dHItNWhQVXphc25uRWpLWUl6M1RPQjUtMVlfWDVCdE1Bbld2YjY4Y0t5b09GZHluNk9XUTRUZTNTTU1Tc2l1Q0pLcUhLNW15S0pQeEpQS1h2ZTJIYXJ2cmVKallUanc?oc=5",
+      "summary": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch Notebookcheck",
+      "published_at": "2026-09-11T08:50:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
+    {
+      "id": "2140589e842a69848e2ef0f8",
+      "title": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82U2Zodk9yZW05bFhOTVNsdVViVWNkcHlHUUZaWFZjYXZqYUVmd3BNTW01eUlNYnNQSmkxazhuNXotSy1xSk93S1ZZbTAxQ2R3S2YwRTBub0U5ZzFkQ3g0NHhWUmtTXzdFTHF0dm0wZUp5WUNEenNLZmVNbzR1aUU?oc=5",
+      "summary": "GL.iNet Beryl 7 review: This Wi-Fi 7 travel router saved my holiday connecting 5 iPads, a laptop, and a couple of phones TechRadar",
+      "published_at": "2026-09-08T21:50:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
     {
       "id": "6124c514c612bc3382bd385d",
       "title": "I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way to upgrade to Wi-Fi 7 - Tom's Guide",
@@ -21,9 +54,9 @@
     },
     {
       "id": "252722070a9244b007d9895f",
-      "title": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ISPreview UK",
+      "title": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ispreview.co.uk",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkNsS3JrTHBybFZHZGN5dkVBdEVvTGhuenNtTTE3eDNZZUhPQTRlbEViQV81NEZoXzJiMTZPSVZtYTBtRzl5TjRSdmR3SW1OWjdpdTZvMnlvRVlNbHNEWUdraDIxZXZ4Njk5OUR5TnNONF9IUnZ4ek1hWTVRUGhrSEpETGNNeng5MUJ6Mm96LTB4b29ZRUhjSmdTOTU5a2hmQ1pIMnNmdjFGZTN5bnV5RWlGekdpWEd6djRvVjY0VWlIMlNfT0lIdFRzV2JvZw?oc=5",
-      "summary": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ISPreview UK",
+      "summary": "Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ispreview.co.uk",
       "published_at": "2026-09-15T13:27:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -32,9 +65,9 @@
     },
     {
       "id": "4dede3bfd58435419fee9faa",
-      "title": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform - Wi-Fi NOW Global",
+      "title": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform - wifinowglobal.com",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1kSGI2TDNwbjBZclZtUXRFTE5rOG9zMmdEQXlpWVN2eEh1d1I1WGRLQmtlWUl1a1pyYm4yeXZLM0xSbXdiNUNhWWI2dmtwZVlTS2hfcFlVOEFhQVVkNE5SaWpUazhHb3pIXzNSWExsRXVaeGpUdHphV2ZkcXJ5UmhPZ05URVZZeUZ1NElPTUlDTXI4ZGdHSFZoU0MzcmpsaGJON2VodmZPRXJxTzZZeXlWVk9CRnl6ZnJtVy1KZ2I3cUdfTXZNV2g0TjdfVUQwalJjdEVPbVBPRWs?oc=5",
-      "summary": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform Wi-Fi NOW Global",
+      "summary": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform wifinowglobal.com",
       "published_at": "2026-09-12T13:27:02Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "13365b0ac2d382c3cf83f96b",
-      "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - SlashGear",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklEZnlVWXk2UWo3UUU1MmZQZ1RYWEVmdVJSaGJzMlI4Q0JNM2pQQnpRdWVKdW50U3ZLaXVJRl9tdDFtZW5HbnFWUUlic2VRUlV6SVlxTVBZZnVIbm9DNlVpMVREWGhIa2hvME1yOHRBQU56dktJazJUUTZWdmJCZmR2eWtVM1R0cXRNcW40ZDNXWFlDZUJOa0hqZ3gySTA?oc=5",
-      "summary": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router SlashGear",
-      "published_at": "2026-09-07T10:45:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "71d00998a1a77ad683ca7f85",
-      "title": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd21QQzlMU3R4bFBPd3dCajFLLWh3NlFkRzUtaFFjOExFcFlVa2ZvMzd6Rm9JN3c2ZlZlSjRHd3cyM0lFTXpLVnp0OHc0TnRqZkJmdDR3Z2tQZ2dLLTktakswZzM2aEgyaEhzcHQzTGlKdFo1RXNfUlVWaHk3TXUwUg?oc=5",
-      "summary": "UniFi Home Wi-Fi 7 (UX7-3) with STR MLO Backhaul Review: Ubiquiti’s True Whole Home WiFi Mesh Is Here! Dong Knows Tech",
-      "published_at": "2026-09-02T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "96f5d8134438ce96733e6ef5",
-      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaXUycWF5aTlOMkxXOWRIS3Vqd2NIRC1zcGN4ZlRuOGZTSWlRblJjUlM3RTdxV1IyNUdIVThSb1REdUFwZnIxdEtoS0RvT29OMHRKTmd1VlN5eUw4SGtzQS16aVV4VlBxeGlwMkx3WU5LSGloN1FRRkgwbzJWV2FySW5WaERFVzlTMnU3UnBUVnFGLTZrSjVpOW05Y3BKbHJoZzlUQnVJTGtsWUZaaEI4a2NpNGZ3bDBQRDdSTkRBMnNEUmljVWthUXdDdUpiZ3Q1NDZHcFIwWnNTSHhhbzlYRS1teFBXZTF3OGFUNlJ3?oc=5",
-      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable TechRadar",
-      "published_at": "2026-09-15T18:15:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     }
   ]
 }
