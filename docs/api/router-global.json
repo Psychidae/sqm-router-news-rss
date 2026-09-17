@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-17T15:18:09.990702Z",
+  "generated_at": "2026-09-17T19:15:15.402930Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -83,7 +83,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "e3510a4700f0af40a4d2c03e",
@@ -109,9 +109,9 @@
     },
     {
       "id": "ede81790b2ea8b77d86ac2c3",
-      "title": "GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN - TweakTown",
+      "title": "GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN - tweaktown.com",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUTlnbDdYVjByR1lHSXg2Mk5oU1NldWtUenJ2UTFCS3BremxiYU0yYl96SzZjdGR1NVNSVGU3ZlNVUzdHeXMwcXB1VnVEZGtwaDNURDNack1Id1Z5ckxjRjJpNnF5TE9Gc2RVanRBT3pPNWFERDFiVTVtZHRrb3dGcnFmQndvejlacmlrTDI1WkQzenp1UEdWSkNaQWg0WVNjdndUOTBVSFpNWkI1bmNLeGF1S2lPYlk2c0w3cVJRcDNsRW0tN3IydA?oc=5",
-      "summary": "GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN TweakTown",
+      "summary": "GEEKOM IT13 MAX Review: Intel Core Ultra 9 185H mini PC adds Wi-Fi 7 and dual 2.5G LAN tweaktown.com",
       "published_at": "2026-09-08T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
