@@ -5,36 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:10:03 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - Fierce Network</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5</link>
-      <guid isPermaLink="false">36a00960edbf15f3e4d48f71</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-16 00:12
-Opinion: Physical AI doesn’t need low latency Fierce Network</description>
-      <pubDate>Wed, 16 Sep 2026 18:52:46 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-16T18:52:46.673814Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-15T15:12:31Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Fidium Fiber internet outage affects Maine, other New England states - Centralmaine.com</title>
-      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0JOWmRvUjAzenZHci16d2ctaTFXZ0ZQTFVUUXMtOTBiRmhpbUhkT3F2XzNOVDgyQ21Gc3RpdllKMGVlYzRrQzJvUWpKbjJUeWJWV1l5aXZjOEJrejZBaUd3SEJjdEFrVk1KMGxld1h6aEV4eVVjOFlXOWNCandFd3d0aDJWVy1UeDVsdHhtV1dWOXI2cUJQRm5EYjlTZE5maUg4NzNHVUI?oc=5</link>
-      <guid isPermaLink="false">16055605fd8a9f16834963c2</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-11 05:12
-Fidium Fiber internet outage affects Maine, other New England states Centralmaine.com</description>
-      <pubDate>Fri, 11 Sep 2026 17:13:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-11T17:13:39.415207Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-10T20:12:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>

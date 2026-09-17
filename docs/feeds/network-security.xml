@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:10:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] センチュリー・システムズ、次世代セキュリティ基盤採用のVPNルータ「NXR-660」発表 PQC対応も予定 - 電波タイムズ</title>
@@ -36,13 +36,13 @@ Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - CyberSecurityNews</title>
+      <title>[セキュリティ] Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - cybersecuritynews.com</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5iNE1TcktQbEhmOTdXb2hHcUNMbUxSMnRMSk94OXFpb1lGOW85ZE9hdDVPYk1TS3UxMlp3dC1xV2taMk9lV0lYMEhKdFBuaGQ0MXBSa29XanV2Z2Jrd2NPYWxKLTl1LUhXNXJtbk90QdIBdEFVX3lxTE5KZmw3WS0tcDl0c05vRWhycUtXMnM3c3I5d3I3OUZlVWwtQVQwRkk4MWFLbkJ6SmNEUHNUZU9iVEE5TzZxYlhjOGFidEdjQXM3QWpqLWctQVBKQTZTVmc3aVpnQmhHMVpra2liSFJsY19ySFRp?oc=5</link>
       <guid isPermaLink="false">5c02e7ea644ee5fd5e2fa070</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-15 03:03
-Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider CyberSecurityNews</description>
+Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider cybersecuritynews.com</description>
       <pubDate>Mon, 14 Sep 2026 23:51:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-14T23:51:03.020247Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-14T18:03:47Z</sqm:sourcePublishedDate>
@@ -50,13 +50,13 @@ Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider Cyb
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - CyberSecurityNews</title>
+      <title>[セキュリティ] cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands - cybersecuritynews.com</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0lIdkZyYkp5LWlJU0VLY2M1NEM2SnJxeGpNZkFoREE5X3VVXy1nYy12LVYtdHctMkZjV2VCam5kaVM4T1ZVeUVXOUZ4Qng5MVhIeERGQ3VBajQ0ZV9kcFNJM3hocXpEUm9NNDdUVmNHek9KMkNFNGV1TWRBVEJKQ1Bwcnp5Z2I5TVHSAY8BQVVfeXFMTXRaNVB4V0JEU0FwU09ESFlycnFLc1R5Rm1SOHctaVNDejdwNDJ2T25DYWlUWGEzMVdHcGJTQk1ic2V4MURjWFBybFVxUjFlbGNERFU5WEt4TG1uVzhZc0RLWU1yLUpoOTZPM0szZjhlM3VIcTQwWUNfR3UtdzFFQWgzSEdHY3N2emlRZFV5dlE?oc=5</link>
       <guid isPermaLink="false">2eda272f42e6006c9e1f30f5</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-11 20:28
-cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands CyberSecurityNews</description>
+cPanel ConfigServer Security &amp; Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands cybersecuritynews.com</description>
       <pubDate>Tue, 15 Sep 2026 10:02:19 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-15T10:02:19.000126Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T11:28:53Z</sqm:sourcePublishedDate>

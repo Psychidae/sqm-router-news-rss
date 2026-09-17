@@ -1,35 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-17T19:15:18.283741Z",
+  "generated_at": "2026-09-17T22:10:03.616921Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 1,
   "errors": [],
   "items": [
-    {
-      "id": "36a00960edbf15f3e4d48f71",
-      "title": "Opinion: Physical AI doesn’t need low latency - Fierce Network",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5",
-      "summary": "Opinion: Physical AI doesn’t need low latency Fierce Network",
-      "published_at": "2026-09-15T15:12:31Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "16055605fd8a9f16834963c2",
-      "title": "Fidium Fiber internet outage affects Maine, other New England states - Centralmaine.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0JOWmRvUjAzenZHci16d2ctaTFXZ0ZQTFVUUXMtOTBiRmhpbUhkT3F2XzNOVDgyQ21Gc3RpdllKMGVlYzRrQzJvUWpKbjJUeWJWV1l5aXZjOEJrejZBaUd3SEJjdEFrVk1KMGxld1h6aEV4eVVjOFlXOWNCandFd3d0aDJWVy1UeDVsdHhtV1dWOXI2cUJQRm5EYjlTZE5maUg4NzNHVUI?oc=5",
-      "summary": "Fidium Fiber internet outage affects Maine, other New England states Centralmaine.com",
-      "published_at": "2026-09-10T20:12:47Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
