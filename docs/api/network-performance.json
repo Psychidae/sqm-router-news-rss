@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-18T13:34:27.789713Z",
+  "generated_at": "2026-09-18T17:12:19.031514Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -20,6 +20,17 @@
       "score": 8
     },
     {
+      "id": "e55d29f6bddea8addc6c8ad1",
+      "title": "9 San Antonio school campuses impacted by phone, internet outage - MySA",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ2hSQXJqd1dPOXE4UGFqN0Q5MTdkV2VOaTFLWVAwRXNPam1UM2NpRTRYRUViMklXR2ZkVGxtek9MVjFTMXJ1RGRMcWpIaXJwVXIwR3I3ay1VZUpxY2RFeUpCVW9YZWdKVFFRMGRZUjE0RmxrXzBoUFBmSzBKRkl3SmNlM0I3bmhvLWV0YVRrcjNLd2pVYkZ2ckFwbWc?oc=5",
+      "summary": "9 San Antonio school campuses impacted by phone, internet outage MySA",
+      "published_at": "2026-09-17T16:41:41Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
       "id": "36a00960edbf15f3e4d48f71",
       "title": "Opinion: Physical AI doesn’t need low latency - Fierce Network",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5",
@@ -28,7 +39,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
