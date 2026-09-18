@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-18T04:42:51.077300Z",
+  "generated_at": "2026-09-18T09:12:25.540410Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -75,17 +75,6 @@
       "score": 11
     },
     {
-      "id": "136090b325253cffe032eeac",
-      "title": "デジタル庁GSSに不正アクセス、職員ら24.6万件の個人情報が漏えいの可能性 VPN機器の脆弱性から侵入 - 株式会社アクト",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE54MEdfbFE2RnNVZ1ZfckJCcms4VlBIMWJkNmlXR0ZPUmtwbnNRWmJ2YjdWa2tkQUlpNVg1U0o2dDk3QWVnaHZqYg?oc=5",
-      "summary": "デジタル庁GSSに不正アクセス、職員ら24.6万件の個人情報が漏えいの可能性 VPN機器の脆弱性から侵入 株式会社アクト",
-      "published_at": "2026-09-11T06:34:15Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
       "id": "67c425b145e47e4cd2da4a9f",
       "title": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRFpROHZYNGV0cGhoSl9yeXh2QlRLSW45a2V6UnRxYmw2b0VCakNnUzctZ3Zzd0lyc0xNSEJvcVF4Vno2eEdlT3BTZHJvRTk0bnVGSk5vcm5FSms1WEl1NDlTRFpwUktLOUVR?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUt3Szhxd2VwY0ZzbWxxZktLMGk3Z290OENyeDJUM3BjVDVpQ0ViUHBmdlh3MHlhVmxSN2oybHM3LV9UY1czc29VbkZzU3BDVFNxMU9HUmRwNDdPZTM2TUd4RXRua3RLekNid25DaUFTMzVuYS1pRTcxYk9LeU5FVkM3VHZiQkhncXkxOUhR?oc=5",
       "summary": "デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
       "published_at": "2026-09-13T22:00:45Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
+    {
+      "id": "5a3b7608c3618343f335f9a9",
+      "title": "安全性向上が目的のはずが…政府基盤ネットがサイバー攻撃で被害、「セキュリティー管理甘い」指摘も（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iRU5DbmJ2WWNxOS16ZGx1VTlQckJ0N2E3WkxCQmlVY0NtSG5BVXNoSmtQSXBxaURuVEZGTE40NndrTGV6eHZjM3NLQ0JMQ1RabTA0WmVjRFpfQ3FDaVFpMExCX1hwd014NGN0RzNKU0VkcEtlTHRlRi1hNzFZa0U?oc=5",
+      "summary": "安全性向上が目的のはずが…政府基盤ネットがサイバー攻撃で被害、「セキュリティー管理甘い」指摘も（読売新聞オンライン） Yahoo!ニュース",
+      "published_at": "2026-09-13T20:01:36Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
