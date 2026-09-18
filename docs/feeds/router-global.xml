@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 19:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:51:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck</title>
@@ -50,17 +50,17 @@ I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way 
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre - ISPreview UK</title>
-      <link>https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkNsS3JrTHBybFZHZGN5dkVBdEVvTGhuenNtTTE3eDNZZUhPQTRlbEViQV81NEZoXzJiMTZPSVZtYTBtRzl5TjRSdmR3SW1OWjdpdTZvMnlvRVlNbHNEWUdraDIxZXZ4Njk5OUR5TnNONF9IUnZ4ek1hWTVRUGhrSEpETGNNeng5MUJ6Mm96LTB4b29ZRUhjSmdTOTU5a2hmQ1pIMnNmdjFGZTN5bnV5RWlGekdpWEd6djRvVjY0VWlIMlNfT0lIdFRzV2JvZw?oc=5</link>
-      <guid isPermaLink="false">252722070a9244b007d9895f</guid>
+      <title>[海外ルーターニュース] WavKong V2700 RPU™ Wi-Fi Router Teardown &amp; Review. 15,000 SQ FT With A Single Router? - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE95aVl1amxUVllfc1pRT2RMUFdHS3VxUVdkS0l0UDZZNmJyeUs2aG5FSlVLamRNczdDS0NRNE95elVkVDNETFE3NGVKckJUZHBVZWdOT3lYOWYyYXN1?oc=5</link>
+      <guid isPermaLink="false">767a0f1085c88f9a47d62073</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-15 22:27
-Zen Internet expand Wi-Fi 7 routers and launch 2.5Gbps broadband via MS3’s UK fibre ISPreview UK</description>
-      <pubDate>Tue, 15 Sep 2026 14:58:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-15T14:58:05.577110Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-15T13:27:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+ソース: Google News US: router products
+元記事日付: 2026-09-09 18:59
+WavKong V2700 RPU™ Wi-Fi Router Teardown &amp; Review. 15,000 SQ FT With A Single Router? YouTube</description>
+      <pubDate>Fri, 18 Sep 2026 21:51:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-18T21:51:27.832227Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-09T09:59:04Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -92,13 +92,13 @@ SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support mediasat.info</description
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag</title>
+      <title>[海外ルーターニュース] Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - pcmag.com</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5</link>
       <guid isPermaLink="false">e3510a4700f0af40a4d2c03e</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-09 16:00
-Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag</description>
+Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 pcmag.com</description>
       <pubDate>Wed, 09 Sep 2026 19:28:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-09T19:28:53.162207Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-09T07:00:00Z</sqm:sourcePublishedDate>
