@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-18T00:14:19.633034Z",
+  "generated_at": "2026-09-18T04:42:51.077300Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -17,7 +17,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "5c02e7ea644ee5fd5e2fa070",
@@ -43,9 +43,9 @@
     },
     {
       "id": "e0cf81c18e85dc674244fac0",
-      "title": "Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を警告（CVE-2026-85102／CVE-2026-85103） - rocket-boys.co.jp",
+      "title": "Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を警告（CVE-2026-85102／CVE-2026-85103） - 合同会社ロケットボーイズ",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZmwwdlVYRFZWdi1TeWhqbVNUY1Nab1d2NmRJUURXNkp5eWMxNVp0Y3lKdHNMd3lEXzFxbUNNeTFKYWdtd3lPcENpUGNOdnJjdzRMQVpFWkN6M0hKaEhpMU1WRVRrdW5kaFAzX2gyZzRwcGpuMHFmdWNvS182YjNqMFVQdlBDSkxK?oc=5",
-      "summary": "Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を警告（CVE-2026-85102／CVE-2026-85103） rocket-boys.co.jp",
+      "summary": "Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を警告（CVE-2026-85102／CVE-2026-85103） 合同会社ロケットボーイズ",
       "published_at": "2026-09-14T23:00:11Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -86,33 +86,33 @@
       "score": 11
     },
     {
-      "id": "65047339acb898ef7d227564",
-      "title": "デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 - 選挙ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZUUNjV3BYeEMtOTBKSldOVEJMSXZuWENtN3NZT3BLSTFPZ3B2RDRTcjVOZVVRUkEyWjJmdVNHN2FYNWxuZ2tidnhQUFZTcGdUNXcxN3VSWC1udDd3Z3BJ?oc=5",
-      "summary": "デジタル庁のシステムに、第三者が「VPN機器の脆弱性」を利用して侵入。 選挙ドットコム",
-      "published_at": "2026-09-11T04:42:08Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "fa659f908aca2c0734aaf5df",
-      "title": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab - rocket-boys.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUW9zMUFZejNzZHF5TjBrQjB0U3o1X0tQMkJwcXFtY2t4ZXVOOC1jYktfSHgzRUtYQ0hjX0tzWERVcktHZHMtS2J4bkJxS3laRm9mY1hqempIQ2h2LTdtOUw5NUE4LW1lbnMxTDBxV0xmMG1DdnNOWDFMZkt5ZTctdmE2UkdGcUlpYlBiS1J3?oc=5",
-      "summary": "デジタル庁 GSS(ガバメントソリューションサービス)に不正アクセス、VPN脆弱性を悪用 職員等約24.6万件の個人情報漏えいの可能性|セキュリティニュースのセキュリティ対策Lab rocket-boys.co.jp",
-      "published_at": "2026-09-11T03:50:54Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
       "id": "67c425b145e47e4cd2da4a9f",
-      "title": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - internet.watch.impress.co.jp",
+      "title": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRFpROHZYNGV0cGhoSl9yeXh2QlRLSW45a2V6UnRxYmw2b0VCakNnUzctZ3Zzd0lyc0xNSEJvcVF4Vno2eEdlT3BTZHJvRTk0bnVGSk5vcm5FSms1WEl1NDlTRFpwUktLOUVR?oc=5",
-      "summary": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を internet.watch.impress.co.jp",
+      "summary": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を INTERNET Watch",
       "published_at": "2026-09-14T11:08:45Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
+    {
+      "id": "5603ecba28de211b0eca46ef",
+      "title": "レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に - ドリームニュース",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnR1dZT0Z2Yy1jUHRndDJfSEZCcXZPUTk5WkpNTnlzU3luYUZsNzBfa3RwN2tscTVNNEEzd29IQ3JzY2hCNkRCVW85eUd6T19yRVV3?oc=5",
+      "summary": "レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に ドリームニュース",
+      "published_at": "2026-09-14T06:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
+    },
+    {
+      "id": "15dbc9b7e1d7a230bc5da8b1",
+      "title": "デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUt3Szhxd2VwY0ZzbWxxZktLMGk3Z290OENyeDJUM3BjVDVpQ0ViUHBmdlh3MHlhVmxSN2oybHM3LV9UY1czc29VbkZzU3BDVFNxMU9HUmRwNDdPZTM2TUd4RXRua3RLekNid25DaUFTMzVuYS1pRTcxYk9LeU5FVkM3VHZiQkhncXkxOUhR?oc=5",
+      "summary": "デジタル庁 GSS(ガバメントソリューションサービス)への不正アクセス、問題は「侵入されたこと」だけではない 保守運用アカウントの権限とゼロトラスト設計を検証|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-09-13T22:00:45Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
