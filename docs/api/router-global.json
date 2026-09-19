@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-19T13:23:47.350085Z",
+  "generated_at": "2026-09-19T16:47:37.749385Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -50,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "df65653708244864d8f680dc",
@@ -101,7 +101,7 @@
       "title": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router - SlashGear",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeklEZnlVWXk2UWo3UUU1MmZQZ1RYWEVmdVJSaGJzMlI4Q0JNM2pQQnpRdWVKdW50U3ZLaXVJRl9tdDFtZW5HbnFWUUlic2VRUlV6SVlxTVBZZnVIbm9DNlVpMVREWGhIa2hvME1yOHRBQU56dktJazJUUTZWdmJCZmR2eWtVM1R0cXRNcW40ZDNXWFlDZUJOa0hqZ3gySTA?oc=5",
       "summary": "Why You Should Think Twice Before Buying That High-End Wi-Fi 7 Router SlashGear",
-      "published_at": "2026-09-07T10:45:00Z",
+      "published_at": "2026-09-07T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
