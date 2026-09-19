@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-19T19:18:05.793578Z",
+  "generated_at": "2026-09-19T21:44:50.571539Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -32,9 +32,9 @@
     },
     {
       "id": "6124c514c612bc3382bd385d",
-      "title": "I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way to upgrade to Wi-Fi 7 - tomsguide.com",
+      "title": "I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way to upgrade to Wi-Fi 7 - Tom's Guide",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pS2JjVXNwLWpxd1ZGTXpSUFRXNXRNWE1Ya240TkpkMEtjUGhfcUNIbmxyMFE1WTMtcXdfMExrQk5KYXJuRFdLanptRWFNSlZQQ09LaTFQcjJQMXJ6X3ZST0FMY1pOUUY5WFJLaG82UEVpYWZDVnRZ?oc=5",
-      "summary": "I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way to upgrade to Wi-Fi 7 tomsguide.com",
+      "summary": "I tested MSI’s Roamii BE Pro mesh router and it’s a fast and affordable way to upgrade to Wi-Fi 7 Tom's Guide",
       "published_at": "2026-09-07T10:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
