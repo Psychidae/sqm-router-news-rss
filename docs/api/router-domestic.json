@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-20T19:02:42.329046Z",
+  "generated_at": "2026-09-20T21:30:23.725385Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "dd39a69abb5a9149268075af",
-      "title": "ASUS、ROG20周年でWi-Fi 7クアッドバンドゲーミングルーター「ROG Rapture GT-BE98 Edition 20」などの記念モデル発売 - Yahoo!ニュース",
+      "title": "ASUS、ROG20周年でWi-Fi 7クアッドバンドゲーミングルーター「ROG Rapture GT-BE98 Edition 20」などの記念モデル発売 - news.yahoo.co.jp",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEMtR1BmTmhUVUQzTWZmVDE0VG5nZGxEWi01SU5QVThlU25ZektBZ0M5UXhLR0QxeHFGcjlTNGJ0M1BZeHZuYmpaR0hMbWNTYlhiV3BkdzdSaVBKME5zNi1VcFotOWRScmg3UlZSOHh5aU03SmZiZy1FQ1J1Q1FQV1k3QzdabUlFMDZNRnFB?oc=5",
-      "summary": "ASUS、ROG20周年でWi-Fi 7クアッドバンドゲーミングルーター「ROG Rapture GT-BE98 Edition 20」などの記念モデル発売 Yahoo!ニュース",
+      "summary": "ASUS、ROG20周年でWi-Fi 7クアッドバンドゲーミングルーター「ROG Rapture GT-BE98 Edition 20」などの記念モデル発売 news.yahoo.co.jp",
       "published_at": "2026-09-17T03:15:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -64,6 +64,17 @@
       "score": 15
     },
     {
+      "id": "6dfe9b99c044908ebe1d1cf0",
+      "title": "ASUS、2.5GbE対応のWi-Fi 7ゲーミングルーター「TUF Gaming BE3600」発売 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibDRwcW13WkZQamh5ZXdpeFBSVGhKdmltYnZHd0xPVzNfZ3dVV3hYTnl4Y3FDek1hQTdxTU9UamtvUmIySHoxelhMMEZna2E0OV9YMzNGUEwwWWU0YlBkM2wxcERDZ3B6QTlB?oc=5",
+      "summary": "ASUS、2.5GbE対応のWi-Fi 7ゲーミングルーター「TUF Gaming BE3600」発売 INTERNET Watch",
+      "published_at": "2026-09-07T07:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
       "id": "ec583d16e8f5f5e95dc5d2ca",
       "title": "ASUS、Wi-Fi 7対応ルーター「TUF Gaming BE3600」など2機種発売 - PC Watch",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VWmo4QXctZHVXcWhwUkM3UUVkbG0xWnh2RkRZMEVmbmJfeG9EcFpNX0pXY0c2bUZDWG1SalFrMUxpVFZDT2NDMms1dEtENUJKdlQ4Z3NQV1RSS1A1MVVEaXJNcw?oc=5",
@@ -82,17 +93,6 @@
       "published_at": "2026-09-17T00:30:02Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "7e823b53241f56d6ed12b6b1",
-      "title": "売れてるのはエレコムのWi-Fi 7対応モデル 無線LANルーター人気ランキングTOP10 2026/9/14 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wY2hVcDlic2xKZHZPXzlaU1h5Z25WV0JCVlAtQUJNbVdjaXJpLVNjUThiLWMwT3Bsc2ktZ3A2cU85ZU85eEdLN2tNbC1KM3l5WFVLTUMzV09QazFlWTF5dFpDckJ2cTFhNVpPWDRHSzN1MkMzYy1kNnJn?oc=5",
-      "summary": "売れてるのはエレコムのWi-Fi 7対応モデル 無線LANルーター人気ランキングTOP10 2026/9/14 BCN Retail",
-      "published_at": "2026-09-14T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 11
     }
