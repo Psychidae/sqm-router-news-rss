@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-19T23:34:12.573871Z",
+  "generated_at": "2026-09-20T01:37:54.706466Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -65,9 +65,9 @@
     },
     {
       "id": "e3510a4700f0af40a4d2c03e",
-      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - PCMag",
+      "title": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 - pcmag.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWRXMWtEbURfTjg1ejJLd1M1bGFGSjNCZnVnSloxSGNUYUFwX0RjVzdMbzF6bWJIOFlNanJmR21UWGxkTXdHd1c1SE85czktYXJmRjRkb3pWMFpmRk13V2E0T1lNbXFHYk4yTkxIbkppZkN6ZVVCczRHOVBMWFI3bXpNd1BXV1VhSjBFOTlKbjNpZw?oc=5",
-      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 PCMag",
+      "summary": "Starlink Quietly Debuts Router 4, Confirms It Features Wi-Fi 7 pcmag.com",
       "published_at": "2026-09-09T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
