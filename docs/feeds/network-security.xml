@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:28:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - CyberSecurityNews</title>
@@ -64,13 +64,13 @@ Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 - ScanNetSecurity</title>
+      <title>[セキュリティ] VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 - scan.netsecurity.ne.jp</title>
       <link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBWZU5XRGJPaXgwc1BSMk84cjUzSmljQ1M1bUp6dkwwc29mMXBGV21iaHZINzRINGpkMy1ZR1phc0t2TGczdWRsV3JnS0hhaldEYVJLRUlCZ09MdHF1NnVabWhCYVFvcHpMekZ6MA?oc=5</link>
       <guid isPermaLink="false">5e11d2c63d643990884b3be7</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-14 08:05
-VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 ScanNetSecurity</description>
+VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリューションサービス（GSS）に不正アクセス、約24.6万件の個人情報が漏えいした可能性 scan.netsecurity.ne.jp</description>
       <pubDate>Tue, 15 Sep 2026 14:58:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-15T14:58:06.761855Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-13T23:05:13Z</sqm:sourcePublishedDate>
@@ -92,13 +92,13 @@ VPNの脆弱性を利用 ～ デジタル庁が運用するガバメントソリ
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に - dreamnews.jp</title>
+      <title>[セキュリティ] レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に - ドリームニュース</title>
       <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnR1dZT0Z2Yy1jUHRndDJfSEZCcXZPUTk5WkpNTnlzU3luYUZsNzBfa3RwN2tscTVNNEEzd29IQ3JzY2hCNkRCVW85eUd6T19yRVV3?oc=5</link>
       <guid isPermaLink="false">5603ecba28de211b0eca46ef</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-14 15:30
-レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に dreamnews.jp</description>
+レポートオーシャン株式会社プレスリリース: ネットワークセキュリティファイアウォール市場、2035年229億7,000万米ドル規模へCAGR 10.52％ゼロトラストクラウド環境対応が新たな成長機会に ドリームニュース</description>
       <pubDate>Fri, 18 Sep 2026 04:42:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-18T04:42:51.076265Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-14T06:30:00Z</sqm:sourcePublishedDate>
