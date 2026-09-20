@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 07:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:18:40 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 9 San Antonio school campuses impacted by phone, internet outage - MySA</title>
@@ -36,13 +36,13 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - fierce-network.com</title>
+      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - Fierce Network</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5</link>
       <guid isPermaLink="false">36a00960edbf15f3e4d48f71</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-16 00:12
-Opinion: Physical AI doesn’t need low latency fierce-network.com</description>
+Opinion: Physical AI doesn’t need low latency Fierce Network</description>
       <pubDate>Fri, 18 Sep 2026 04:42:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-18T04:42:52.336020Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-15T15:12:31Z</sqm:sourcePublishedDate>
