@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-20T01:37:56.774281Z",
+  "generated_at": "2026-09-20T07:00:06.687984Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 4,
+  "count": 3,
   "errors": [],
   "items": [
     {
@@ -21,9 +21,9 @@
     },
     {
       "id": "218b88b33c728e748067de10",
-      "title": "ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - news.yahoo.co.jp",
+      "title": "ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWnB0clIzRTZTMkNJWTkwRVRGbUlFS2czdU1sOWJHUE1PRllDb0ptNmFIQlczRHdyR0Q0emc3bHk0WXNTUWhWZzB3NXctR3NlZXhKVmxJcnRXcXQ3RDF3N08xQWZKS0xwUlVjVmZGX1dod2xqSGtfYm5PVldsU3M?oc=5",
-      "summary": "ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） news.yahoo.co.jp",
+      "summary": "ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） Yahoo!ニュース",
       "published_at": "2026-09-18T12:30:06Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -32,25 +32,14 @@
     },
     {
       "id": "36a00960edbf15f3e4d48f71",
-      "title": "Opinion: Physical AI doesn’t need low latency - Fierce Network",
+      "title": "Opinion: Physical AI doesn’t need low latency - fierce-network.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5",
-      "summary": "Opinion: Physical AI doesn’t need low latency Fierce Network",
+      "summary": "Opinion: Physical AI doesn’t need low latency fierce-network.com",
       "published_at": "2026-09-15T15:12:31Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "3da24a7dd935aeedb1f3ab13",
-      "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
-      "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp",
-      "published_at": "2026-09-13T02:29:48Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }

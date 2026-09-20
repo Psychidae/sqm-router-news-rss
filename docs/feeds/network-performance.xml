@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 01:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 07:00:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 9 San Antonio school campuses impacted by phone, internet outage - MySA</title>
@@ -22,13 +22,13 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - news.yahoo.co.jp</title>
+      <title>[性能・障害] ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWnB0clIzRTZTMkNJWTkwRVRGbUlFS2czdU1sOWJHUE1PRllDb0ptNmFIQlczRHdyR0Q0emc3bHk0WXNTUWhWZzB3NXctR3NlZXhKVmxJcnRXcXQ3RDF3N08xQWZKS0xwUlVjVmZGX1dod2xqSGtfYm5PVldsU3M?oc=5</link>
       <guid isPermaLink="false">218b88b33c728e748067de10</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-18 21:30
-ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） news.yahoo.co.jp</description>
+ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） Yahoo!ニュース</description>
       <pubDate>Fri, 18 Sep 2026 13:34:27 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-18T13:34:27.789118Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-18T12:30:06Z</sqm:sourcePublishedDate>
@@ -36,31 +36,17 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - Fierce Network</title>
+      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - fierce-network.com</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5</link>
       <guid isPermaLink="false">36a00960edbf15f3e4d48f71</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-16 00:12
-Opinion: Physical AI doesn’t need low latency Fierce Network</description>
+Opinion: Physical AI doesn’t need low latency fierce-network.com</description>
       <pubDate>Fri, 18 Sep 2026 04:42:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-18T04:42:52.336020Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-15T15:12:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-13 11:29
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Tue, 08 Sep 2026 23:39:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-08T23:39:40.421232Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-13T02:29:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
