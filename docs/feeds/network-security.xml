@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:24:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - CyberSecurityNews</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5iNE1TcktQbEhmOTdXb2hHcUNMbUxSMnRMSk94OXFpb1lGOW85ZE9hdDVPYk1TS3UxMlp3dC1xV2taMk9lV0lYMEhKdFBuaGQ0MXBSa29XanV2Z2Jrd2NPYWxKLTl1LUhXNXJtbk90QdIBdEFVX3lxTE5KZmw3WS0tcDl0c05vRWhycUtXMnM3c3I5d3I3OUZlVWwtQVQwRkk4MWFLbkJ6SmNEUHNUZU9iVEE5TzZxYlhjOGFidEdjQXM3QWpqLWctQVBKQTZTVmc3aVpnQmhHMVpra2liSFJsY19ySFRp?oc=5</link>
-      <guid isPermaLink="false">5c02e7ea644ee5fd5e2fa070</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-09-15 03:03
-Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider CyberSecurityNews</description>
-      <pubDate>Mon, 14 Sep 2026 23:51:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-14T23:51:03.020247Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-14T18:03:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] センチュリー・システムズ、次世代セキュリティ基盤採用のVPNルータ「NXR-660」発表 PQC対応も予定 - 電波タイムズ</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSVo5N244QkdOM2ROWEY3NEJIM2FlNmhBeUtYRW5WamFqaHlpVDhFSllMa09mQmY1QjY0YVhPRFFEdWhjdlh0b3lFMEo2TUdJZWxWSnU5TWpsWlpQdWlR?oc=5</link>
@@ -46,20 +32,6 @@ Check Point VPNにCVSS 9.8の脆弱性 2件 オランダNCSCが早期悪用を�
       <pubDate>Mon, 14 Sep 2026 23:51:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-14T23:51:03.020247Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-14T23:00:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRFpROHZYNGV0cGhoSl9yeXh2QlRLSW45a2V6UnRxYmw2b0VCakNnUzctZ3Zzd0lyc0xNSEJvcVF4Vno2eEdlT3BTZHJvRTk0bnVGSk5vcm5FSms1WEl1NDlTRFpwUktLOUVR?oc=5</link>
-      <guid isPermaLink="false">67c425b145e47e4cd2da4a9f</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-14 20:08
-コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を INTERNET Watch</description>
-      <pubDate>Fri, 18 Sep 2026 00:14:19 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-18T00:14:19.631999Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-14T11:08:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

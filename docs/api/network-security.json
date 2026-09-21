@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-21T07:09:35.380247Z",
+  "generated_at": "2026-09-21T19:24:47.226019Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 2,
   "errors": [],
   "items": [
-    {
-      "id": "5c02e7ea644ee5fd5e2fa070",
-      "title": "Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iNE1TcktQbEhmOTdXb2hHcUNMbUxSMnRMSk94OXFpb1lGOW85ZE9hdDVPYk1TS3UxMlp3dC1xV2taMk9lV0lYMEhKdFBuaGQ0MXBSa29XanV2Z2Jrd2NPYWxKLTl1LUhXNXJtbk90QdIBdEFVX3lxTE5KZmw3WS0tcDl0c05vRWhycUtXMnM3c3I5d3I3OUZlVWwtQVQwRkk4MWFLbkJ6SmNEUHNUZU9iVEE5TzZxYlhjOGFidEdjQXM3QWpqLWctQVBKQTZTVmc3aVpnQmhHMVpra2liSFJsY19ySFRp?oc=5",
-      "summary": "Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider CyberSecurityNews",
-      "published_at": "2026-09-14T18:03:47Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
     {
       "id": "328d50e8a8a4f54deddbaaa0",
       "title": "センチュリー・システムズ、次世代セキュリティ基盤採用のVPNルータ「NXR-660」発表 PQC対応も予定 - 電波タイムズ",
@@ -40,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
-    },
-    {
-      "id": "67c425b145e47e4cd2da4a9f",
-      "title": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmRFpROHZYNGV0cGhoSl9yeXh2QlRLSW45a2V6UnRxYmw2b0VCakNnUzctZ3Zzd0lyc0xNSEJvcVF4Vno2eEdlT3BTZHJvRTk0bnVGSk5vcm5FSms1WEl1NDlTRFpwUktLOUVR?oc=5",
-      "summary": "コンテックの法人向け無線LAN機器「FLEXLAN」シリーズに複数の脆弱性、最新版ファームウェアに更新を INTERNET Watch",
-      "published_at": "2026-09-14T11:08:45Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     }
   ]
 }

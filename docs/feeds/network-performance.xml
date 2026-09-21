@@ -5,19 +5,61 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 07:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 19:24:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWnB0clIzRTZTMkNJWTkwRVRGbUlFS2czdU1sOWJHUE1PRllDb0ptNmFIQlczRHdyR0Q0emc3bHk0WXNTUWhWZzB3NXctR3NlZXhKVmxJcnRXcXQ3RDF3N08xQWZKS0xwUlVjVmZGX1dod2xqSGtfYm5PVldsU3M?oc=5</link>
-      <guid isPermaLink="false">218b88b33c728e748067de10</guid>
+      <title>[性能・障害] Massive O2 internet outage impacts thousands across Czechia - Expats.cz</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1VjOTRhSWRsUDVBMkdHZmxTbndEVlpNeFhSMlM5NUhxb0NzOFpXVlA3aVgyamxNRFh1cVB1RzBuS1JCUzhEdWoxaVJCam1MVENKdU44Q2twSUVrcDZtbmFvY2FweWhtTExFX2VBamZ5YTlVSlVNa1RwYnhqNk96YktZZFdRVmxCVGZiSkU0dVp3ZkxJcmsyLXExUXMyRWpXZUE?oc=5</link>
+      <guid isPermaLink="false">a5ed142b3ea7db6dbd92ca1b</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-21 19:38
+Massive O2 internet outage impacts thousands across Czechia Expats.cz</description>
+      <pubDate>Mon, 21 Sep 2026 19:24:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-21T10:38:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] O2 customers report widespread internet outage - Radio Prague International</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDBfbHdjQk9wdGFnQnRaNkdzVTQ4VjhFaXc5MU5vLWpabS0wbkdUelAxSEU1X3l2X3FrdE80bGpkQkxwSXdqYVZxSlM5YWk5eVdKZzZta1lPMG1Hc2NDTXZtdlU2OVVCcEVDYkx6VkNyTHdWLUZ6RTBPUGdSOTZzYXFSaWt4UQ?oc=5</link>
+      <guid isPermaLink="false">752d68de1e66603130196054</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-21 17:49
+O2 customers report widespread internet outage Radio Prague International</description>
+      <pubDate>Mon, 21 Sep 2026 19:24:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-21T08:49:39Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage - Local 3 News</title>
+      <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOFAwNWV3Sm8xQVlWRENRd3FNeTV4eFNHbnVPN1dpOW1pMXZPOWhzbnhvelFsMk42dU5hUF9BMWF2Q3c4SVp2WnFCNVZDT2J1aVl0UTdkRG15X2hpdmFqWUQtWWtMZTlfUVI1NGNEZk1nbm91NUFONWltNnNyaENRT01tSHJZOUJyYzJ4VWVOeVZFV3p3a0xsQk9VLWJJS3RoakczM3R3bnh3WTh6LWR6STJrbXFEakJheG85c3dKWWIxVEkxaGhjNFZhSVlQeElLWk5xblo0UERNMlNfUlJLOW02d0ZISTV0b1ZoRF9kYTNyd1J3LTExOVBB?oc=5</link>
+      <guid isPermaLink="false">cb1dd61e144153de7fd3121c</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-21 17:46
+Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage Local 3 News</description>
+      <pubDate>Mon, 21 Sep 2026 19:24:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-21T08:46:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
+      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-09-18 21:30
-ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） Yahoo!ニュース</description>
-      <pubDate>Mon, 21 Sep 2026 07:09:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-21T07:09:36.497323Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-18T12:30:06Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-20 12:41
+【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
+      <pubDate>Mon, 21 Sep 2026 19:24:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-20T03:41:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -47,6 +89,20 @@ Opinion: Physical AI doesn’t need low latency Fierce Network</description>
       <sqm:firstSeenDate>2026-09-18T04:42:52.336020Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-15T15:12:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWnB0clIzRTZTMkNJWTkwRVRGbUlFS2czdU1sOWJHUE1PRllDb0ptNmFIQlczRHdyR0Q0emc3bHk0WXNTUWhWZzB3NXctR3NlZXhKVmxJcnRXcXQ3RDF3N08xQWZKS0xwUlVjVmZGX1dod2xqSGtfYm5PVldsU3M?oc=5</link>
+      <guid isPermaLink="false">218b88b33c728e748067de10</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-18 21:30
+ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） Yahoo!ニュース</description>
+      <pubDate>Mon, 21 Sep 2026 07:09:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-21T07:09:36.497323Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-18T12:30:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
