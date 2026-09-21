@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-21T19:24:46.044129Z",
+  "generated_at": "2026-09-21T22:49:20.647134Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -95,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
-    },
-    {
-      "id": "d330e73c3b41473ece27ec1d",
-      "title": "Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System - ign.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZQX191VnY2VEdDMUU2R1pUb29iQXFIZlI0VUFha0ZPaGlxeG51ZjJMaG8xVEJ0N05VY2NOVXBXQXFaakVnN2JYVDJmZ19Dckd5NXFlSkdRQ2ZtNkJRU3E5MU8zbTFSbm5aajVSc1NHSUVULTF5TUhQbzRZVk9ScFFULTFoZnloMkd1Skg3b3Y3Ynk2bWVrWQ?oc=5",
-      "summary": "Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System ign.com",
-      "published_at": "2026-09-11T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 6
     }
   ]
 }
