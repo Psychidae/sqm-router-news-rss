@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-21T22:49:23.262626Z",
+  "generated_at": "2026-09-22T01:35:28.478833Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,15 +31,15 @@
       "score": 9
     },
     {
-      "id": "cb1dd61e144153de7fd3121c",
-      "title": "Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage - Local 3 News",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOFAwNWV3Sm8xQVlWRENRd3FNeTV4eFNHbnVPN1dpOW1pMXZPOWhzbnhvelFsMk42dU5hUF9BMWF2Q3c4SVp2WnFCNVZDT2J1aVl0UTdkRG15X2hpdmFqWUQtWWtMZTlfUVI1NGNEZk1nbm91NUFONWltNnNyaENRT01tSHJZOUJyYzJ4VWVOeVZFV3p3a0xsQk9VLWJJS3RoakczM3R3bnh3WTh6LWR6STJrbXFEakJheG85c3dKWWIxVEkxaGhjNFZhSVlQeElLWk5xblo0UERNMlNfUlJLOW02d0ZISTV0b1ZoRF9kYTNyd1J3LTExOVBB?oc=5",
-      "summary": "Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage Local 3 News",
-      "published_at": "2026-09-21T08:46:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "f22d41170e7f6e5b3220ffa7",
+      "title": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5",
+      "summary": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 日本経済新聞",
+      "published_at": "2026-09-22T01:21:45Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
@@ -65,9 +65,9 @@
     },
     {
       "id": "36a00960edbf15f3e4d48f71",
-      "title": "Opinion: Physical AI doesn’t need low latency - Fierce Network",
+      "title": "Opinion: Physical AI doesn’t need low latency - fierce-network.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5",
-      "summary": "Opinion: Physical AI doesn’t need low latency Fierce Network",
+      "summary": "Opinion: Physical AI doesn’t need low latency fierce-network.com",
       "published_at": "2026-09-15T15:12:31Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
