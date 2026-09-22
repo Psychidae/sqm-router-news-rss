@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:46:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Eagle Mountain residents impacted by days-long internet outage - FOX 13 News Utah</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmhTeUs4cmx6cVFGbFYzbnRHaGtzWExlWkJXa09PYWlBQUI4NlFsbEdsOEVYWEFiZ0Q5ajhRaFRVQjBTVm5SODJYVEp5SHBxQ1JJUHJvOHAxcF9lbFp2bkhyeVFOV0x6MkFXcHU4cFllMGY3MmhHbktYOWVha2VmWTliTGd4NS1UM0hkMmRzc1lyWkdGRVd4Zy10WUY2dkdWUGlxNXlwTlFpZjV2SUZKNmdtVDgwdw?oc=5</link>
+      <guid isPermaLink="false">a649ca3662f837da2911f0eb</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-22 09:21
+Eagle Mountain residents impacted by days-long internet outage FOX 13 News Utah</description>
+      <pubDate>Tue, 22 Sep 2026 06:46:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T06:46:41.425547Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T00:21:24Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Massive O2 internet outage impacts thousands across Czechia - Expats.cz</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1VjOTRhSWRsUDVBMkdHZmxTbndEVlpNeFhSMlM5NUhxb0NzOFpXVlA3aVgyamxNRFh1cVB1RzBuS1JCUzhEdWoxaVJCam1MVENKdU44Q2twSUVrcDZtbmFvY2FweWhtTExFX2VBamZ5YTlVSlVNa1RwYnhqNk96YktZZFdRVmxCVGZiSkU0dVp3ZkxJcmsyLXExUXMyRWpXZUE?oc=5</link>
@@ -33,6 +47,20 @@ O2 customers report widespread internet outage Radio Prague International</descr
       <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T08:49:39Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり - XenoSpectrum</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1Da25vQi1XdVFyTjJSX0I5X1NVS0UyYWU1U0pESnREYmpaY0xFbmpXdHRvWnAzd0s3Mk5FeGo2NXN2SGY5SmpJNm5yczlmOHZPTDFSR0hxQ3dGYm5SaGxxZjhqdkhCMzZnTERJS3RSTDg5RElr?oc=5</link>
+      <guid isPermaLink="false">db97c2a4ffc8487c6a38570d</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-22 11:45
+速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり XenoSpectrum</description>
+      <pubDate>Tue, 22 Sep 2026 06:46:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T06:46:41.425547Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T02:45:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -78,13 +106,13 @@ O2 customers report widespread internet outage Radio Prague International</descr
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - fierce-network.com</title>
+      <title>[性能・障害] Opinion: Physical AI doesn’t need low latency - Fierce Network</title>
       <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5</link>
       <guid isPermaLink="false">36a00960edbf15f3e4d48f71</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-16 00:12
-Opinion: Physical AI doesn’t need low latency fierce-network.com</description>
+Opinion: Physical AI doesn’t need low latency Fierce Network</description>
       <pubDate>Fri, 18 Sep 2026 04:42:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-18T04:42:52.336020Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-15T15:12:31Z</sqm:sourcePublishedDate>

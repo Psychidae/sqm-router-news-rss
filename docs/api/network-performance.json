@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-22T01:35:28.478833Z",
+  "generated_at": "2026-09-22T06:46:41.426495Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "a649ca3662f837da2911f0eb",
+      "title": "Eagle Mountain residents impacted by days-long internet outage - FOX 13 News Utah",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmhTeUs4cmx6cVFGbFYzbnRHaGtzWExlWkJXa09PYWlBQUI4NlFsbEdsOEVYWEFiZ0Q5ajhRaFRVQjBTVm5SODJYVEp5SHBxQ1JJUHJvOHAxcF9lbFp2bkhyeVFOV0x6MkFXcHU4cFllMGY3MmhHbktYOWVha2VmWTliTGd4NS1UM0hkMmRzc1lyWkdGRVd4Zy10WUY2dkdWUGlxNXlwTlFpZjV2SUZKNmdtVDgwdw?oc=5",
+      "summary": "Eagle Mountain residents impacted by days-long internet outage FOX 13 News Utah",
+      "published_at": "2026-09-22T00:21:24Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a5ed142b3ea7db6dbd92ca1b",
       "title": "Massive O2 internet outage impacts thousands across Czechia - Expats.cz",
@@ -29,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "db97c2a4ffc8487c6a38570d",
+      "title": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Da25vQi1XdVFyTjJSX0I5X1NVS0UyYWU1U0pESnREYmpaY0xFbmpXdHRvWnAzd0s3Mk5FeGo2NXN2SGY5SmpJNm5yczlmOHZPTDFSR0hxQ3dGYm5SaGxxZjhqdkhCMzZnTERJS3RSTDg5RElr?oc=5",
+      "summary": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり XenoSpectrum",
+      "published_at": "2026-09-22T02:45:43Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "f22d41170e7f6e5b3220ffa7",
@@ -65,9 +87,9 @@
     },
     {
       "id": "36a00960edbf15f3e4d48f71",
-      "title": "Opinion: Physical AI doesn’t need low latency - fierce-network.com",
+      "title": "Opinion: Physical AI doesn’t need low latency - Fierce Network",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWVrdXdzSThrbEVHOVFmeWd2SHp0OFl3Ni1RS3JVb2ptM1o0aUh0bF91WXZYWFoybjlGWWdNWWZhWnowcTBNN205OXVtaUNrLVJjSnpyaW1HcXhlcTNYb1hFa0o0T3lCRDdJMXFZWUhtWWsteEFTZmY4QndpLTVuOWVibVVXcmZMR01J?oc=5",
-      "summary": "Opinion: Physical AI doesn’t need low latency fierce-network.com",
+      "summary": "Opinion: Physical AI doesn’t need low latency Fierce Network",
       "published_at": "2026-09-15T15:12:31Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
