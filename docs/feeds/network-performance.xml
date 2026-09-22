@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:10:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Eagle Mountain residents react after internet outage over the weekend - abc4.com</title>
+      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
+      <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-23 01:46
+Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
+      <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T16:46:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Eagle Mountain residents react after internet outage over the weekend - ABC4 Utah</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkdZYVRtOFhXUHpRNXB4MW5wT2FzeWdseXI4WmhiM3dsT19ZZDZ6dzVQTkNnRFlXMm9NYXhmZ0lzYzRldHNOUHYtMDBzb3U0Y3BLSUNxNTl2MjlOZHVFQzdEMUs4UTAtU3l1b2VrRjBWNmdJSnVqYnVFRDlzTnlLcE1IWWRBbFNka0pKVkxoQjhhMG5mVldQMGRBalE3djBqQUc3YnBYdXZRZw?oc=5</link>
       <guid isPermaLink="false">0bda07b43425c2091846433b</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-22 08:57
-Eagle Mountain residents react after internet outage over the weekend abc4.com</description>
+Eagle Mountain residents react after internet outage over the weekend ABC4 Utah</description>
       <pubDate>Tue, 22 Sep 2026 12:03:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T12:03:51.399805Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T23:57:27Z</sqm:sourcePublishedDate>
@@ -32,6 +46,20 @@ Eagle Mountain residents impacted by days-long internet outage FOX 13 News Utah<
       <pubDate>Tue, 22 Sep 2026 06:46:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T06:46:41.425547Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T23:32:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Xplore internet outage in Sundre left residents seeking alternative connections - The Albertan</title>
+      <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE94SklWaEdnVXA2YzdjdllROHAyQmc0WVlWVFJTRXJCUFdmR19nSUtoMnVwdFlFNlhxdThydHV3SHB2ZzVxRG1nVDNsUFVTZzRlQkllUjUyWG1GSWtZUlQ4RmNGdWY0Y3dsNVhCaVZNNzd4QU1sYTFzU09YeWpBVnNSckQ5cUtqSkczbHBLNTV4ZmhqQTJwRWltU0lObzdFdWg1V0lSQWJvcVJSdGRTazZqUzl0enZDQkVqQ1FnVEpyQzI0bV9N?oc=5</link>
+      <guid isPermaLink="false">12acb20ee331068f9d30acfb</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-22 08:00
+Xplore internet outage in Sundre left residents seeking alternative connections The Albertan</description>
+      <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-21T23:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -78,6 +106,20 @@ Massive O2 internet outage impacts thousands across Czechia Expats.cz</descripti
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] O2 customers report widespread internet outage - News from the Czech Republic</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDBfbHdjQk9wdGFnQnRaNkdzVTQ4VjhFaXc5MU5vLWpabS0wbkdUelAxSEU1X3l2X3FrdE80bGpkQkxwSXdqYVZxSlM5YWk5eVdKZzZta1lPMG1Hc2NDTXZtdlU2OVVCcEVDYkx6VkNyTHdWLUZ6RTBPUGdSOTZzYXFSaWt4UQ?oc=5</link>
+      <guid isPermaLink="false">752d68de1e66603130196054</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-21 17:49
+O2 customers report widespread internet outage News from the Czech Republic</description>
+      <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-21T08:49:39Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
       <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
@@ -103,34 +145,6 @@ Massive O2 internet outage impacts thousands across Czechia Expats.cz</descripti
       <sqm:firstSeenDate>2026-09-18T17:12:19.031139Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-17T16:41:41Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0zWnB0clIzRTZTMkNJWTkwRVRGbUlFS2czdU1sOWJHUE1PRllDb0ptNmFIQlczRHdyR0Q0emc3bHk0WXNTUWhWZzB3NXctR3NlZXhKVmxJcnRXcXQ3RDF3N08xQWZKS0xwUlVjVmZGX1dod2xqSGtfYm5PVldsU3M?oc=5</link>
-      <guid isPermaLink="false">218b88b33c728e748067de10</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-18 21:30
-ファーウェイがAI向けネットワーク刷新、遅延を11マイクロ秒に短縮し構築コスト30％減（ビジネス＋IT） Yahoo!ニュース</description>
-      <pubDate>Tue, 22 Sep 2026 16:54:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T16:54:37.294724Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-18T12:30:06Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 低遅延 ＮＴＴが新回線…「アイオン」実用化 医療や工場ロボ想定 - 読売新聞</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE42QVowSHVPTDhnbE5iRk44Zlh5N2JVYWhRZy04NG9VVndmZzQ5S3hCcndvMEstaExmNjJLbWNXWXcybzZBT2tydnRwdDFlM2JrbmEyOWZUYUMwcjZ4eDQwM0lMNTdOQQ?oc=5</link>
-      <guid isPermaLink="false">d888af3d95120dac8414caf2</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-16 16:00
-低遅延 ＮＴＴが新回線…「アイオン」実用化 医療や工場ロボ想定 読売新聞</description>
-      <pubDate>Tue, 22 Sep 2026 16:54:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T16:54:37.294724Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-16T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
