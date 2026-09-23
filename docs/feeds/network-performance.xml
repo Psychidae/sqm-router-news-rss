@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:28:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:38:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE56amNTZ1ppM2xPOHdJZ0hjdTdIbGVRV1B0dEpfTkE2Z1J6X2gzYTlhRnpMQmtFc1dwWUlfNkJtbTl1UHZFYmpxcThJbkl0aHRZUW9fNC14aEl2dmtubEwtbg?oc=5</link>
+      <guid isPermaLink="false">00da68cd85f5e2fe95bd99ae</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-23 10:45
+JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） 24Wireless</description>
+      <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T01:45:04Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
@@ -22,16 +36,44 @@ Spectrum customers in Kerrville experience internet outage DailyTimes.com</descr
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり - XenoSpectrum</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1Da25vQi1XdVFyTjJSX0I5X1NVS0UyYWU1U0pESnREYmpaY0xFbmpXdHRvWnAzd0s3Mk5FeGo2NXN2SGY5SmpJNm5yczlmOHZPTDFSR0hxQ3dGYm5SaGxxZjhqdkhCMzZnTERJS3RSTDg5RElr?oc=5</link>
-      <guid isPermaLink="false">db97c2a4ffc8487c6a38570d</guid>
+      <title>[性能・障害] 【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か - ktv.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZjB4eDlmSGpPSEJuSUp4RDUtREs2T1d5V05CNjZGeTh3cTdlMXVoRGNabGRYck9uVDlwRTdqY0tTZnlFcWxrMzNWY3pfTzhZVXBtMw?oc=5</link>
+      <guid isPermaLink="false">c1d69af2ec484ceb46d957f1</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-09-22 11:45
-速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり XenoSpectrum</description>
-      <pubDate>Tue, 22 Sep 2026 06:46:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T06:46:41.425547Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T02:45:43Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-23 14:45
+【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か ktv.jp</description>
+      <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T05:45:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） - 24Wireless</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1uakNZY2NCRDhXVVo3LWIwVGduWEozcEdYc3VqY18xa1g0VlhBQTBZR09BV1hyWWRhaEFYZXl6aDB3UWQ2S1ZHaS1nV1MybUdTbG11NTVjNVRQS3o3bmlxa0Q0MnBZQTFLT04td1lvQVRKUQ?oc=5</link>
+      <guid isPermaLink="false">53946e0bf9df1a031f2fa57f</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-23 14:34
+各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless</description>
+      <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T05:34:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnlCNEtKMTMzYVFOT0JtUElYTi1Ibm5VbXdXOUo5OEotb1JHQ1BiTzFLSGZIcllZOEFEUmcxQllUd0lBM0x3MWJ1UWZuWUdGOHlVVHBVc0c1QmpwTGNVSHAzU3kxR1VpT2E4QjRsdDRhZ2VaR19pVmRnY0tNdEl6M0IwVGRabUU?oc=5</link>
+      <guid isPermaLink="false">f9a3310b2b4a7bb81013c448</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-23 12:37
+【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN 日テレNEWS NNN</description>
+      <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T03:37:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -64,13 +106,13 @@ Eagle Mountain residents impacted by days-long internet outage FOX 13 News Utah<
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Xplore internet outage in Sundre left residents seeking alternative connections - The Albertan</title>
+      <title>[性能・障害] Xplore internet outage in Sundre left residents seeking alternative connections - thealbertan.com</title>
       <link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE94SklWaEdnVXA2YzdjdllROHAyQmc0WVlWVFJTRXJCUFdmR19nSUtoMnVwdFlFNlhxdThydHV3SHB2ZzVxRG1nVDNsUFVTZzRlQkllUjUyWG1GSWtZUlQ4RmNGdWY0Y3dsNVhCaVZNNzd4QU1sYTFzU09YeWpBVnNSckQ5cUtqSkczbHBLNTV4ZmhqQTJwRWltU0lObzdFdWg1V0lSQWJvcVJSdGRTazZqUzl0enZDQkVqQ1FnVEpyQzI0bV9N?oc=5</link>
       <guid isPermaLink="false">12acb20ee331068f9d30acfb</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-22 08:00
-Xplore internet outage in Sundre left residents seeking alternative connections The Albertan</description>
+Xplore internet outage in Sundre left residents seeking alternative connections thealbertan.com</description>
       <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T23:00:00Z</sqm:sourcePublishedDate>
@@ -92,59 +134,17 @@ Massive O2 internet outage impacts thousands across Czechia Expats.cz</descripti
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] O2 customers report widespread internet outage - News from the Czech Republic</title>
+      <title>[性能・障害] O2 customers report widespread internet outage - Radio Prague International</title>
       <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDBfbHdjQk9wdGFnQnRaNkdzVTQ4VjhFaXc5MU5vLWpabS0wbkdUelAxSEU1X3l2X3FrdE80bGpkQkxwSXdqYVZxSlM5YWk5eVdKZzZta1lPMG1Hc2NDTXZtdlU2OVVCcEVDYkx6VkNyTHdWLUZ6RTBPUGdSOTZzYXFSaWt4UQ?oc=5</link>
       <guid isPermaLink="false">752d68de1e66603130196054</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-21 17:49
-O2 customers report widespread internet outage News from the Czech Republic</description>
+O2 customers report widespread internet outage Radio Prague International</description>
       <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T08:49:39Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage - Local 3 News</title>
-      <link>https://news.google.com/rss/articles/CBMi-gFBVV95cUxOOFAwNWV3Sm8xQVlWRENRd3FNeTV4eFNHbnVPN1dpOW1pMXZPOWhzbnhvelFsMk42dU5hUF9BMWF2Q3c4SVp2WnFCNVZDT2J1aVl0UTdkRG15X2hpdmFqWUQtWWtMZTlfUVI1NGNEZk1nbm91NUFONWltNnNyaENRT01tSHJZOUJyYzJ4VWVOeVZFV3p3a0xsQk9VLWJJS3RoakczM3R3bnh3WTh6LWR6STJrbXFEakJheG85c3dKWWIxVEkxaGhjNFZhSVlQeElLWk5xblo0UERNMlNfUlJLOW02d0ZISTV0b1ZoRF9kYTNyd1J3LTExOVBB?oc=5</link>
-      <guid isPermaLink="false">cb1dd61e144153de7fd3121c</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-21 17:46
-Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet outage Local 3 News</description>
-      <pubDate>Tue, 22 Sep 2026 22:55:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T22:55:21.791166Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-21T08:46:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - nikkei.com</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5</link>
-      <guid isPermaLink="false">f22d41170e7f6e5b3220ffa7</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-22 10:21
-ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 nikkei.com</description>
-      <pubDate>Tue, 22 Sep 2026 01:35:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T01:35:28.478158Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T01:21:45Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - thinkit.co.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5</link>
-      <guid isPermaLink="false">3da24a7dd935aeedb1f3ab13</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-20 12:41
-【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 thinkit.co.jp</description>
-      <pubDate>Mon, 21 Sep 2026 19:24:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-21T19:24:48.560504Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-20T03:41:59Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
