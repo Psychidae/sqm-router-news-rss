@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:08:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] センチュリー・システムズ、次世代セキュリティ基盤採用のVPNルータ「NXR-660」発表 PQC対応も予定 - 電波タイムズ</title>
@@ -33,6 +33,20 @@ Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks Th
       <sqm:firstSeenDate>2026-09-23T06:38:42.866399Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-22T18:29:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 現代の生活空間における、死角のない包括的なセキュリティソリューション。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWdFaDlHd2V6anQ1ZGJ3R0ZHdXZnWlktV1dFd0htVDJCQ1lkODlTNXktUzlESlJ1VDl6akxoa0U3MXdaU1JxTTVxdW1fUF9rVWZwa3NsLUwwTFgwRmxxaDlERmNTRFpvN2h5ZkE2dHZ6ckJQMUFRS1hZVzNXaHUyR1BqMGVQWkF6ZXdCR1lFd2RTbnJDOUxla2dILVg?oc=5</link>
+      <guid isPermaLink="false">a525ab516219b493fe03e3f6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-23 19:30
+現代の生活空間における、死角のない包括的なセキュリティソリューション。 Vietnam.vn</description>
+      <pubDate>Wed, 23 Sep 2026 12:08:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T12:08:53.795536Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T10:30:26Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
   </channel>

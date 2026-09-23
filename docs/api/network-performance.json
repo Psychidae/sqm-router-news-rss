@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-23T06:38:44.161857Z",
+  "generated_at": "2026-09-23T12:08:54.805244Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,11 +31,55 @@
       "score": 9
     },
     {
-      "id": "c1d69af2ec484ceb46d957f1",
-      "title": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か - ktv.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UZjB4eDlmSGpPSEJuSUp4RDUtREs2T1d5V05CNjZGeTh3cTdlMXVoRGNabGRYck9uVDlwRTdqY0tTZnlFcWxrMzNWY3pfTzhZVXBtMw?oc=5",
-      "summary": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か ktv.jp",
-      "published_at": "2026-09-23T05:45:00Z",
+      "id": "dac40e126ebc9d0485fcd57b",
+      "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5",
+      "summary": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース",
+      "published_at": "2026-09-23T11:06:01Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "f0c50759bba9e0765847b6e2",
+      "title": "JCOMのインターネット接続サービスで23日午前から通信障害が発生 - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfQy1OUE5VcHczRmQwUW5oYVFSSFdhN0puVWZFQTFHWGVLTm4xZ3NNSUFCQmdNQ19vSndPZFlvb1loWDFNd05ncTQ4UHBIZ2lGMEtFTG1FMXJKTmNvdWw3bGNEb1JMT1pNOC1SZzk5NDJEeHRlTmR5Zw?oc=5",
+      "summary": "JCOMのインターネット接続サービスで23日午前から通信障害が発生 au Webポータル",
+      "published_at": "2026-09-23T09:32:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "1ea09286e92f352d660055b6",
+      "title": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RX0luWXl5TmRzLUZ3QlpxM3dhUnEwNUF5eWNYaXFabW1DaDZOR20yRFFxMFVqejBoMFBmMGZzV2VKWE0tLWlkYzlIU004SW1qMXRmeUM0Z1JqQ2FLdEsxdkV2VEk2QVBwdGpBNHpUSFdtWENjZElsNkFCOWs?oc=5",
+      "summary": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
+      "published_at": "2026-09-23T09:30:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "e66841315621b754835ca5e6",
+      "title": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nY0NBRGFybWxVZWNDOGs4NnRLOHZrcWM5UkU5OE1GV1BZZlAwZGpCSGEwVU5ueVJ6MllpVDhtSWR4Y0FyYjcyNDBKZkVoWmxrNlZPNGxPeGh5anJ3UHh4cmU2NHZKMTFFZWZQcF93?oc=5",
+      "summary": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か au Webポータル",
+      "published_at": "2026-09-23T05:51:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "d59952ecf495aac6d7b222a4",
+      "title": "【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 - FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UT250LXpidEZfNzlOS0VsYndtc2hIWTd2MGJqME9laHdpaUNzanBFOE00OVZYeFRFNlYxc0R6aFA2ekhlZ0hfWUpMaFFKZw?oc=5",
+      "summary": "【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 FNNプライムオンライン",
+      "published_at": "2026-09-23T05:46:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -53,6 +97,17 @@
       "score": 8
     },
     {
+      "id": "203da16853e803ffff083526",
+      "title": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OV3ZsRG8ybUM5NTVHU3ctcE0wN2pEU3ZJQUw0MUpKNVZ0QmRaeWRuUnc1Q01rU0k2WkdqR2pJNjFObXpMWkhPbC14VUhWMWUtTlpNU2dhT1NRdFVjaFRlWm4tZjlKSDhFekZJVWM1aUx4Q1lxbEhna1dyMlF6dW_SAX9BVV95cUxNTld2bERvMm1DOTU1R1N3LXBNMDdqRFN2SUFMNDFKSjVWdEJkWnlkblJ3NUNNa1NJNlpHakdqSTYxTm16TFpIT2wteFVIVjFlLU5aTVNnYU9TUXRVY2hUZVpuLWY5Skg4RXpGSVVjNWlMeENZcWxIZ2tXcjJRenVv?oc=5",
+      "summary": "【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か ｄメニューニュース",
+      "published_at": "2026-09-23T05:32:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
       "id": "f9a3310b2b4a7bb81013c448",
       "title": "【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN - 日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnlCNEtKMTMzYVFOT0JtUElYTi1Ibm5VbXdXOUo5OEotb1JHQ1BiTzFLSGZIcllZOEFEUmcxQllUd0lBM0x3MWJ1UWZuWUdGOHlVVHBVc0c1QmpwTGNVSHAzU3kxR1VpT2E4QjRsdDRhZ2VaR19pVmRnY0tNdEl6M0IwVGRabUU?oc=5",
@@ -60,61 +115,6 @@
       "published_at": "2026-09-23T03:37:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "0bda07b43425c2091846433b",
-      "title": "Eagle Mountain residents react after internet outage over the weekend - ABC4 Utah",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkdZYVRtOFhXUHpRNXB4MW5wT2FzeWdseXI4WmhiM3dsT19ZZDZ6dzVQTkNnRFlXMm9NYXhmZ0lzYzRldHNOUHYtMDBzb3U0Y3BLSUNxNTl2MjlOZHVFQzdEMUs4UTAtU3l1b2VrRjBWNmdJSnVqYnVFRDlzTnlLcE1IWWRBbFNka0pKVkxoQjhhMG5mVldQMGRBalE3djBqQUc3YnBYdXZRZw?oc=5",
-      "summary": "Eagle Mountain residents react after internet outage over the weekend ABC4 Utah",
-      "published_at": "2026-09-21T23:57:27Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "a649ca3662f837da2911f0eb",
-      "title": "Eagle Mountain residents impacted by days-long internet outage - FOX 13 News Utah",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmhTeUs4cmx6cVFGbFYzbnRHaGtzWExlWkJXa09PYWlBQUI4NlFsbEdsOEVYWEFiZ0Q5ajhRaFRVQjBTVm5SODJYVEp5SHBxQ1JJUHJvOHAxcF9lbFp2bkhyeVFOV0x6MkFXcHU4cFllMGY3MmhHbktYOWVha2VmWTliTGd4NS1UM0hkMmRzc1lyWkdGRVd4Zy10WUY2dkdWUGlxNXlwTlFpZjV2SUZKNmdtVDgwdw?oc=5",
-      "summary": "Eagle Mountain residents impacted by days-long internet outage FOX 13 News Utah",
-      "published_at": "2026-09-21T23:32:13Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "12acb20ee331068f9d30acfb",
-      "title": "Xplore internet outage in Sundre left residents seeking alternative connections - thealbertan.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE94SklWaEdnVXA2YzdjdllROHAyQmc0WVlWVFJTRXJCUFdmR19nSUtoMnVwdFlFNlhxdThydHV3SHB2ZzVxRG1nVDNsUFVTZzRlQkllUjUyWG1GSWtZUlQ4RmNGdWY0Y3dsNVhCaVZNNzd4QU1sYTFzU09YeWpBVnNSckQ5cUtqSkczbHBLNTV4ZmhqQTJwRWltU0lObzdFdWg1V0lSQWJvcVJSdGRTazZqUzl0enZDQkVqQ1FnVEpyQzI0bV9N?oc=5",
-      "summary": "Xplore internet outage in Sundre left residents seeking alternative connections thealbertan.com",
-      "published_at": "2026-09-21T23:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "a5ed142b3ea7db6dbd92ca1b",
-      "title": "Massive O2 internet outage impacts thousands across Czechia - Expats.cz",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOa1VjOTRhSWRsUDVBMkdHZmxTbndEVlpNeFhSMlM5NUhxb0NzOFpXVlA3aVgyamxNRFh1cVB1RzBuS1JCUzhEdWoxaVJCam1MVENKdU44Q2twSUVrcDZtbmFvY2FweWhtTExFX2VBamZ5YTlVSlVNa1RwYnhqNk96YktZZFdRVmxCVGZiSkU0dVp3ZkxJcmsyLXExUXMyRWpXZUE?oc=5",
-      "summary": "Massive O2 internet outage impacts thousands across Czechia Expats.cz",
-      "published_at": "2026-09-21T10:38:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "752d68de1e66603130196054",
-      "title": "O2 customers report widespread internet outage - Radio Prague International",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdDBfbHdjQk9wdGFnQnRaNkdzVTQ4VjhFaXc5MU5vLWpabS0wbkdUelAxSEU1X3l2X3FrdE80bGpkQkxwSXdqYVZxSlM5YWk5eVdKZzZta1lPMG1Hc2NDTXZtdlU2OVVCcEVDYkx6VkNyTHdWLUZ6RTBPUGdSOTZzYXFSaWt4UQ?oc=5",
-      "summary": "O2 customers report widespread internet outage Radio Prague International",
-      "published_at": "2026-09-21T08:49:39Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     }
