@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-22T22:55:21.791949Z",
+  "generated_at": "2026-09-23T01:28:50.290373Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,14 +10,25 @@
   "items": [
     {
       "id": "4d8a154805a6a3f8f8b457bc",
-      "title": "Spectrum customers in Kerrville experience internet outage - dailytimes.com",
+      "title": "Spectrum customers in Kerrville experience internet outage - DailyTimes.com",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5",
-      "summary": "Spectrum customers in Kerrville experience internet outage dailytimes.com",
+      "summary": "Spectrum customers in Kerrville experience internet outage DailyTimes.com",
       "published_at": "2026-09-22T16:46:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "db97c2a4ffc8487c6a38570d",
+      "title": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Da25vQi1XdVFyTjJSX0I5X1NVS0UyYWU1U0pESnREYmpaY0xFbmpXdHRvWnAzd0s3Mk5FeGo2NXN2SGY5SmpJNm5yczlmOHZPTDFSR0hxQ3dGYm5SaGxxZjhqdkhCMzZnTERJS3RSTDg5RElr?oc=5",
+      "summary": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり XenoSpectrum",
+      "published_at": "2026-09-22T02:45:43Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "0bda07b43425c2091846433b",
@@ -28,7 +39,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "a649ca3662f837da2911f0eb",
@@ -39,7 +50,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "12acb20ee331068f9d30acfb",
@@ -49,28 +60,6 @@
       "published_at": "2026-09-21T23:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "db97c2a4ffc8487c6a38570d",
-      "title": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり - xenospectrum.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Da25vQi1XdVFyTjJSX0I5X1NVS0UyYWU1U0pESnREYmpaY0xFbmpXdHRvWnAzd0s3Mk5FeGo2NXN2SGY5SmpJNm5yczlmOHZPTDFSR0hxQ3dGYm5SaGxxZjhqdkhCMzZnTERJS3RSTDg5RElr?oc=5",
-      "summary": "速い回線でも通信が止まるのはなぜか、遅延の居場所を追う研究が示した改善の手がかり xenospectrum.com",
-      "published_at": "2026-09-22T02:45:43Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "f22d41170e7f6e5b3220ffa7",
-      "title": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5",
-      "summary": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 日本経済新聞",
-      "published_at": "2026-09-22T01:21:45Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -106,6 +95,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "f22d41170e7f6e5b3220ffa7",
+      "title": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5",
+      "summary": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 nikkei.com",
+      "published_at": "2026-09-22T01:21:45Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
     },
     {
       "id": "3da24a7dd935aeedb1f3ab13",
