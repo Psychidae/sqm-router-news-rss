@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-23T16:53:41.303344Z",
+  "generated_at": "2026-09-23T20:18:42.033525Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -43,25 +43,14 @@
     },
     {
       "id": "9ff156e9823912fab0816126",
-      "title": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 - kakaku.com",
+      "title": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 - news.kakaku.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VelRWQ0w2RHdPSlQybkZyaHBTd3ktZ3IxdEtWRHl0S0JzVkJkOERBMWlaZnpQUUZySlFnSXluVmJQbmRkME1lUW5td0YwcGRLMTlNdktZOVd4dld5Q0NjMnV3akhzRXhHa1E?oc=5",
-      "summary": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 kakaku.com",
+      "summary": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 news.kakaku.com",
       "published_at": "2026-09-17T06:03:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
-    },
-    {
-      "id": "8815cebab13363823402f795",
-      "title": "バッファローのWi-FiルーターがAmazonで安い！ 10Gbps WAN搭載のWi-Fi 7モデル「WXR9300BE6P/N」が3万1480円など - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2Y2JqZDZYZGl0eDZxbUhjT0RsSVRpZlktRy16eWx3Mnp4SHlNYmV1cnQ2OHJ2a3pKNGI0WHBKNVhvZlBCZUhsOFBKbVRWTXQyakNadEdmQ0NHMEhIelZOcm8wbGtid0Y4OGZKdDQwMmw?oc=5",
-      "summary": "バッファローのWi-FiルーターがAmazonで安い！ 10Gbps WAN搭載のWi-Fi 7モデル「WXR9300BE6P/N」が3万1480円など INTERNET Watch",
-      "published_at": "2026-09-10T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
     },
     {
       "id": "e30320d50be903302df31c0a",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "b0e38abe8a9dbd89899e7202",
+      "title": "ROG設立20周年記念モデル「ROG Edition 20」より、PCパーツやゲーミングルーターなど6製品を10月2日より発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HS0kyZlU1b3NSdmlGXzNTOWtTWlQyWm5mQXVnX0VBWkQzeFdCVEFNZmlGZGJFM3ZvV3dCbXBYczFXUFpCNDJrYVA1WnJnYkZ4azZvVk9mT1B5OEpWamlXdDdLYkhBVVl4Tmc?oc=5",
+      "summary": "ROG設立20周年記念モデル「ROG Edition 20」より、PCパーツやゲーミングルーターなど6製品を10月2日より発売 PR TIMES",
+      "published_at": "2026-09-17T00:30:02Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     }
   ]
 }
