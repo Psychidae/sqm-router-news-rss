@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:53:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - Check Point Blog</title>
+      <link>https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5</link>
+      <guid isPermaLink="false">1f5d241675061d38edefcf7f</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-09-22 15:03
+Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 Check Point Blog</description>
+      <pubDate>Wed, 23 Sep 2026 16:53:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T16:53:43.394839Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T06:03:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] センチュリー・システムズ、次世代セキュリティ基盤採用のVPNルータ「NXR-660」発表 PQC対応も予定 - 電波タイムズ</title>
       <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pSVo5N244QkdOM2ROWEY3NEJIM2FlNmhBeUtYRW5WamFqaHlpVDhFSllMa09mQmY1QjY0YVhPRFFEdWhjdlh0b3lFMEo2TUdJZWxWSnU5TWpsWlpQdWlR?oc=5</link>

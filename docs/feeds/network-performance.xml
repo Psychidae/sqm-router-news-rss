@@ -5,34 +5,20 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:08:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:53:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
+      <title>[性能・障害] 【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE56amNTZ1ppM2xPOHdJZ0hjdTdIbGVRV1B0dEpfTkE2Z1J6X2gzYTlhRnpMQmtFc1dwWUlfNkJtbTl1UHZFYmpxcThJbkl0aHRZUW9fNC14aEl2dmtubEwtbg?oc=5</link>
       <guid isPermaLink="false">00da68cd85f5e2fe95bd99ae</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 10:45
-JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） 24Wireless</description>
+【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） 24Wireless</description>
       <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T01:45:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
-      <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-23 01:46
-Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
-      <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T16:46:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -64,13 +50,13 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN</title>
+      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - news.ntv.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5RX0luWXl5TmRzLUZ3QlpxM3dhUnEwNUF5eWNYaXFabW1DaDZOR20yRFFxMFVqejBoMFBmMGZzV2VKWE0tLWlkYzlIU004SW1qMXRmeUM0Z1JqQ2FLdEsxdkV2VEk2QVBwdGpBNHpUSFdtWENjZElsNkFCOWs?oc=5</link>
       <guid isPermaLink="false">1ea09286e92f352d660055b6</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 18:30
-JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN 日テレNEWS NNN</description>
+JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN news.ntv.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T09:30:00Z</sqm:sourcePublishedDate>
@@ -78,27 +64,13 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9nY0NBRGFybWxVZWNDOGs4NnRLOHZrcWM5UkU5OE1GV1BZZlAwZGpCSGEwVU5ueVJ6MllpVDhtSWR4Y0FyYjcyNDBKZkVoWmxrNlZPNGxPeGh5anJ3UHh4cmU2NHZKMTFFZWZQcF93?oc=5</link>
-      <guid isPermaLink="false">e66841315621b754835ca5e6</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-23 14:51
-【速報】「JCOM」のインターネットサービス「ZAQ」で通信障害 ネットにつながらず 提供事業者「外部からの攻撃」にも言及 全国で影響か au Webポータル</description>
-      <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T05:51:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 - FNNプライムオンライン</title>
+      <title>[性能・障害] 【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 - fnn.jp</title>
       <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UT250LXpidEZfNzlOS0VsYndtc2hIWTd2MGJqME9laHdpaUNzanBFOE00OVZYeFRFNlYxc0R6aFA2ekhlZ0hfWUpMaFFKZw?oc=5</link>
       <guid isPermaLink="false">d59952ecf495aac6d7b222a4</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 14:46
-【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 FNNプライムオンライン</description>
+【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 fnn.jp</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T05:46:00Z</sqm:sourcePublishedDate>
@@ -106,13 +78,13 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） - 24Wireless</title>
+      <title>[性能・障害] 【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） - 24Wireless</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1uakNZY2NCRDhXVVo3LWIwVGduWEozcEdYc3VqY18xa1g0VlhBQTBZR09BV1hyWWRhaEFYZXl6aDB3UWQ2S1ZHaS1nV1MybUdTbG11NTVjNVRQS3o3bmlxa0Q0MnBZQTFLT04td1lvQVRKUQ?oc=5</link>
       <guid isPermaLink="false">53946e0bf9df1a031f2fa57f</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 14:34
-各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless</description>
+【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless</description>
       <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T05:34:48Z</sqm:sourcePublishedDate>
@@ -134,17 +106,45 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN - 日テレNEWS NNN</title>
+      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN - news.ntv.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnlCNEtKMTMzYVFOT0JtUElYTi1Ibm5VbXdXOUo5OEotb1JHQ1BiTzFLSGZIcllZOEFEUmcxQllUd0lBM0x3MWJ1UWZuWUdGOHlVVHBVc0c1QmpwTGNVSHAzU3kxR1VpT2E4QjRsdDRhZ2VaR19pVmRnY0tNdEl6M0IwVGRabUU?oc=5</link>
       <guid isPermaLink="false">f9a3310b2b4a7bb81013c448</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 12:37
-【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN 日テレNEWS NNN</description>
+【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（2026年9月22日掲載）｜KNB NEWS NNN news.ntv.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T03:37:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生 (北日本放送) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2wxVFBySFM1UndlZktpakxxbXhGdUdkODhjQmxZUElNNlRCVE1fN09tRUlMVU9tenZ0ZHlGLUg1OHpyVjdzSWJpX0pXejQwdGlnTkd0RHluRnM3SGhLSFZ6ZnF6aUR2eWtud1hJX0QwWG5sSHlIMWtiUWs2Z05ubUx6LTJqakZhS3VUVkRB?oc=5</link>
+      <guid isPermaLink="false">24a59812edad286f1b00a70f</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-23 12:37
+【速報】となみ衛星通信テレビのインターネット回線で通信障害発生 (北日本放送) Yahoo!ニュース</description>
+      <pubDate>Wed, 23 Sep 2026 16:53:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T16:53:44.466064Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T03:37:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
+      <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-23 01:46
+Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
+      <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T16:46:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:53:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck</title>
@@ -18,6 +18,20 @@ Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch Notebookcheck</
       <pubDate>Wed, 16 Sep 2026 09:54:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-16T09:54:20.322123Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] On the Go Savings: Nab Over 30% Off This TP-Link Wi-Fi 7 Travel Router Deal - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxObU9YSkpERTRIdkZyQV9hTmlrSVVDcXVOYy1PTjBIZktuV0diano5eFp5a3UySU5RT3hLTlJaYVRud0xJeEFNQm9nLXhZblRJMG1aVGFrUkkwRmRfc2gtUWgtekRGYzIzSHVSVWhnSFUxRHdmX0lOTFk4X3hpTTVCZkpUNktkenNRb3lHYnA2aGwybThCa1lUUGN5WUE?oc=5</link>
+      <guid isPermaLink="false">24661e53e47b92ce1858ba31</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-24 00:19
+On the Go Savings: Nab Over 30% Off This TP-Link Wi-Fi 7 Travel Router Deal PCMag</description>
+      <pubDate>Wed, 23 Sep 2026 16:53:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T16:53:42.460421Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T15:19:32Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -36,13 +50,13 @@ ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN Digital Reviews Network<
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check - EFTM</title>
+      <title>[海外ルーターニュース] ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check - eftm.com</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVpmcEZHWmY3eTRBeWZvSG9iV2JCaWNiQjZWUjVSeGFaNll6dno2NnNmckJWNGpBUTdiMVM4dU45Yk8zTWluUTd2V1dxUzBkRWxacF9XQXA1M0hpRnBoRm13VWdqd1gyRldvaGdibEt2cUJfNndHbTBYR0JiZUlMS3ZuRzZTVnVpdjlOaGpXTjFlQlk1VHVRMjJB0gGfAUFVX3lxTE5ITDBlbHNYbVo0cU5ZU3VBRW9qeHlxRmRqUkJRSWdWYVF0dVJSYXN2dy1KUU5SNkhPQThWa3cxOGpiZDF6UGFINnJ6aWl3cUdhc2ZUbHdwOEREaXpMMi1CRlNfTWdKa29KN3VERk92bzZXTHk5Q1lTX2MzdDVRdXV2cFg0NWJNZUxGVUVuT3Z4bm1veUU2SEVId0tZV05tZw?oc=5</link>
       <guid isPermaLink="false">635ac5c13ba6d281d8461185</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-22 08:06
-ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check EFTM</description>
+ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check eftm.com</description>
       <pubDate>Tue, 22 Sep 2026 01:35:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T01:35:26.163886Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T23:06:13Z</sqm:sourcePublishedDate>
@@ -83,11 +97,11 @@ SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support mediasat.info</description
       <guid isPermaLink="false">88fc21b4c5b189b1c1598b3a</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
-元記事日付: 2026-09-23 10:41
+元記事日付: 2026-09-22 16:00
 The 5 Best Wi-Fi Routers of 2026 RTINGS.com</description>
       <pubDate>Tue, 22 Sep 2026 22:55:19 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T22:55:19.795534Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T01:41:57Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-09-22T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>

@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-23T12:08:52.808031Z",
+  "generated_at": "2026-09-23T16:53:42.461346Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -20,6 +20,17 @@
       "score": 16
     },
     {
+      "id": "24661e53e47b92ce1858ba31",
+      "title": "On the Go Savings: Nab Over 30% Off This TP-Link Wi-Fi 7 Travel Router Deal - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObU9YSkpERTRIdkZyQV9hTmlrSVVDcXVOYy1PTjBIZktuV0diano5eFp5a3UySU5RT3hLTlJaYVRud0xJeEFNQm9nLXhZblRJMG1aVGFrUkkwRmRfc2gtUWgtekRGYzIzSHVSVWhnSFUxRHdmX0lOTFk4X3hpTTVCZkpUNktkenNRb3lHYnA2aGwybThCa1lUUGN5WUE?oc=5",
+      "summary": "On the Go Savings: Nab Over 30% Off This TP-Link Wi-Fi 7 Travel Router Deal PCMag",
+      "published_at": "2026-09-23T15:19:32Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "9b3312623dbb6c9abb3fa1f1",
       "title": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTVVR2hFM2VOdFo3U3hIdXlYNTBRVDBzSGRpWm43TTF4RkVvaF9MMlN1eGVhWV96UGFrWGZ4dEI2clhMcnM2dFZLMHdhTmJNN0dCaTlDR29Fa3FmNlBIMFREOHFqaURvbzNNSmRKZkswMmtyMUFjTXFjSHN3MWo3b2pDQ1Vfa1NCNGthTFNUVGNfVTRKUURJYVpMbHBZbXlUOXNjdw?oc=5",
@@ -32,9 +43,9 @@
     },
     {
       "id": "635ac5c13ba6d281d8461185",
-      "title": "ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check - EFTM",
+      "title": "ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check - eftm.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVpmcEZHWmY3eTRBeWZvSG9iV2JCaWNiQjZWUjVSeGFaNll6dno2NnNmckJWNGpBUTdiMVM4dU45Yk8zTWluUTd2V1dxUzBkRWxacF9XQXA1M0hpRnBoRm13VWdqd1gyRldvaGdibEt2cUJfNndHbTBYR0JiZUlMS3ZuRzZTVnVpdjlOaGpXTjFlQlk1VHVRMjJB0gGfAUFVX3lxTE5ITDBlbHNYbVo0cU5ZU3VBRW9qeHlxRmRqUkJRSWdWYVF0dVJSYXN2dy1KUU5SNkhPQThWa3cxOGpiZDF6UGFINnJ6aWl3cUdhc2ZUbHdwOEREaXpMMi1CRlNfTWdKa29KN3VERk92bzZXTHk5Q1lTX2MzdDVRdXV2cFg0NWJNZUxGVUVuT3Z4bm1veUU2SEVId0tZV05tZw?oc=5",
-      "summary": "ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check EFTM",
+      "summary": "ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check eftm.com",
       "published_at": "2026-09-21T23:06:13Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -68,11 +79,11 @@
       "title": "The 5 Best Wi-Fi Routers of 2026 - RTINGS.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5",
       "summary": "The 5 Best Wi-Fi Routers of 2026 RTINGS.com",
-      "published_at": "2026-09-23T01:41:57Z",
+      "published_at": "2026-09-22T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "a5eb4d6a62650acec2e1539a",
