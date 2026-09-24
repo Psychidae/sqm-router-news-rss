@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 17:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:28:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
@@ -120,13 +120,13 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN</title>
+      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - news.ntv.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5RX0luWXl5TmRzLUZ3QlpxM3dhUnEwNUF5eWNYaXFabW1DaDZOR20yRFFxMFVqejBoMFBmMGZzV2VKWE0tLWlkYzlIU004SW1qMXRmeUM0Z1JqQ2FLdEsxdkV2VEk2QVBwdGpBNHpUSFdtWENjZElsNkFCOWs?oc=5</link>
       <guid isPermaLink="false">1ea09286e92f352d660055b6</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 18:30
-JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN 日テレNEWS NNN</description>
+JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN news.ntv.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T09:30:00Z</sqm:sourcePublishedDate>
