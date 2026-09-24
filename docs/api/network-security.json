@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-24T06:44:19.837340Z",
+  "generated_at": "2026-09-24T12:12:37.545763Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "fdd34278730dd5c26c94ef8d",
+      "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp50gGIAUFVX3lxTE5aejBnWHBmR1ozV0xmTElVZTZjV3FWWm93eXZCa3g0Z2o4cXhnLTNSaWh2dXBYWDJsN1MwelFmbVM0b1NsaHZfNHVLTlNHZU1wdy1PX0dmWEVfTHZ6c21KWE9hVEVLdHIzV3RRMl81N3N3cUlyZ3pqMW0xSDIzLTVQVUJJVUoySnk?oc=5",
+      "summary": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login CyberSecurityNews",
+      "published_at": "2026-09-24T07:35:20Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 14
+    },
     {
       "id": "a9b0c6291a6211f882dfd95b",
       "title": "Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 - 合同会社ロケットボーイズ",
@@ -20,32 +31,21 @@
       "score": 13
     },
     {
-      "id": "c2be6702fa029599abf42136",
-      "title": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Mm5Yc3VSN21Xbk5CT3VIelpJNlRMWFNvbGdmaTRqM2J4WGRqOWpWbUgzSENHbTU4RmZRelRNZURlRDFkWjZ6Y0hrd2JLTzJPNWtLVjlIeWZHQjkwN1NTeXJlQ2VQS1J6NHBWajFsWDBVQmx6?oc=5",
-      "summary": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 ITmedia",
-      "published_at": "2026-09-22T22:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "1f5d241675061d38edefcf7f",
+      "title": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - blog.checkpoint.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5",
+      "summary": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 blog.checkpoint.com",
+      "published_at": "2026-09-22T06:03:22Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "a525ab516219b493fe03e3f6",
-      "title": "現代の生活空間における、死角のない包括的なセキュリティソリューション。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWdFaDlHd2V6anQ1ZGJ3R0ZHdXZnWlktV1dFd0htVDJCQ1lkODlTNXktUzlESlJ1VDl6akxoa0U3MXdaU1JxTTVxdW1fUF9rVWZwa3NsLUwwTFgwRmxxaDlERmNTRFpvN2h5ZkE2dHZ6ckJQMUFRS1hZVzNXaHUyR1BqMGVQWkF6ZXdCR1lFd2RTbnJDOUxla2dILVg?oc=5",
-      "summary": "現代の生活空間における、死角のない包括的なセキュリティソリューション。 Vietnam.vn",
-      "published_at": "2026-09-23T10:30:26Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
+      "score": 13
     },
     {
       "id": "416fea9301d31747674b4a7c",
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - The Hacker News",
+      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMU4xQi1PQnUzaEU4VjdZY3hQMG00RktrQkpDU01GNGk3My1hVy11eWJ0ekpOd2tiMVF0NDdwb2NrdGhyODItcU5PMkJxLWoyMWFxS3pOYWVTYzVVSWszVzNmbER5bnpUUkxOa2FkckJ2Y3dWRVVfUjZNb3NNNnhMazZZMA?oc=5",
-      "summary": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks The Hacker News",
+      "summary": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks thehackernews.com",
       "published_at": "2026-09-22T18:29:00Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",

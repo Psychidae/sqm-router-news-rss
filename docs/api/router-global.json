@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-24T06:44:18.912178Z",
+  "generated_at": "2026-09-24T12:12:36.488652Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,21 +64,10 @@
       "score": 11
     },
     {
-      "id": "df65653708244864d8f680dc",
-      "title": "SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support - mediasat.info",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEJhcTBkVlhoTjR5LVYtT3FWUUkzaUtKVDJna2xqZXF0Q2toZnEyaFdjaDdEZERkc1k3R2tIQmtRTzBBSzNrazJORDhwRk9vYWNJWnFfS3Z4b2ZfY2hzSVZmVUZRbzEyeXBsUlhsTDlidEFYUk55dW1NcUxCNTBYdTRmdW9JbEhrWjZQRWJWYWtybFlK?oc=5",
-      "summary": "SpaceX Unveils Starlink Router 4 With Wi-Fi 7 Support mediasat.info",
-      "published_at": "2026-09-10T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "31bafc9dfa57b425ff172842",
-      "title": "The Best Wi-Fi Routers for 2026 - PCMag UK",
+      "title": "The Best Wi-Fi Routers for 2026 - PCMag",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJSC03X1VyUFVXTnhGaDh6YThsZWtTbUNxSFM1bVZDc0tMMFdtMkJrUXkwR00wczdjeXdIZmJ3QUdVdEhlbDhUblFHUE52ZnNuM2U4RXp4ZlBmNjlGTTZSNm1jRXNBa2dvcER0SV9GZ1VWMDNDcGVj?oc=5",
-      "summary": "The Best Wi-Fi Routers for 2026 PCMag UK",
+      "summary": "The Best Wi-Fi Routers for 2026 PCMag",
       "published_at": "2026-09-23T23:51:46Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -90,7 +79,7 @@
       "title": "The 5 Best Wi-Fi Routers of 2026 - RTINGS.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5",
       "summary": "The 5 Best Wi-Fi Routers of 2026 RTINGS.com",
-      "published_at": "2026-09-21T22:57:14Z",
+      "published_at": "2026-09-22T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -105,16 +94,27 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 7
     },
     {
       "id": "a5eb4d6a62650acec2e1539a",
-      "title": "The Best Wi-Fi Routers for 2026 - au.pcmag.com",
+      "title": "The Best Wi-Fi Routers for 2026 - PCMag Australia",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUjdRUDhNclNqMFp3d05mSTBPSm1rWXBpOTc4Y0tSNTQzY3p3QmoydzdUZEgxZWdxWUl1N2ctQzRlMUlpVVVkQnBFamhycUNlQno1T1NFRHN0cm1tQ3phZ1lmUVE1TkRrSnZhZThOOERRMkdOX19R?oc=5",
-      "summary": "The Best Wi-Fi Routers for 2026 au.pcmag.com",
+      "summary": "The Best Wi-Fi Routers for 2026 PCMag Australia",
       "published_at": "2026-09-16T09:11:47Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
+    },
+    {
+      "id": "d330e73c3b41473ece27ec1d",
+      "title": "Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System - IGN",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZQX191VnY2VEdDMUU2R1pUb29iQXFIZlI0VUFha0ZPaGlxeG51ZjJMaG8xVEJ0N05VY2NOVXBXQXFaakVnN2JYVDJmZ19Dckd5NXFlSkdRQ2ZtNkJRU3E5MU8zbTFSbm5aajVSc1NHSUVULTF5TUhQbzRZVk9ScFFULTFoZnloMkd1Skg3b3Y3Ynk2bWVrWQ?oc=5",
+      "summary": "Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System IGN",
+      "published_at": "2026-09-11T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 6
     }
