@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:07:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
@@ -106,13 +106,13 @@ Xplore internet outage in Sundre left residents seeking alternative connections 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生 - article.auone.jp</title>
+      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生 - au Webポータル</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBfQy1OUE5VcHczRmQwUW5oYVFSSFdhN0puVWZFQTFHWGVLTm4xZ3NNSUFCQmdNQ19vSndPZFlvb1loWDFNd05ncTQ4UHBIZ2lGMEtFTG1FMXJKTmNvdWw3bGNEb1JMT1pNOC1SZzk5NDJEeHRlTmR5Zw?oc=5</link>
       <guid isPermaLink="false">f0c50759bba9e0765847b6e2</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 18:32
-JCOMのインターネット接続サービスで23日午前から通信障害が発生 article.auone.jp</description>
+JCOMのインターネット接続サービスで23日午前から通信障害が発生 au Webポータル</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T09:32:00Z</sqm:sourcePublishedDate>

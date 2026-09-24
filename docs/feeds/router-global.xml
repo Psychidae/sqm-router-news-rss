@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:07:20 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck</title>
@@ -18,6 +18,20 @@ Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch Notebookcheck</
       <pubDate>Wed, 16 Sep 2026 09:54:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-16T09:54:20.322123Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-11T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Your Wi-Fi 7 router's biggest feature is something almost nobody can actually use - xda-developers.com</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNdW5yTEs2RVNDb09ZSDYxZU9LTUNVbk56RU04cDBtMlgyY0ExQ1o4WklRQTY3Y05aYmZiNUxraFVpUVdPZGt1X2tudG9tQ3JWSVJWNTZHZWE1RWRtNVVRYTdqM0k2YTA1c1ZVSUdqY3FBVTdGLVZtWGVzRTFzTXc3S21hM2tYQWNkUm1UUTd3?oc=5</link>
+      <guid isPermaLink="false">096500660d219f5eddee8966</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-09-24 23:00
+Your Wi-Fi 7 router's biggest feature is something almost nobody can actually use xda-developers.com</description>
+      <pubDate>Thu, 24 Sep 2026 17:07:20 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-24T17:07:20.869992Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-24T14:00:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -64,13 +78,13 @@ ASUS ZenWiFi BD4 Review: Dual-Band Wi-Fi 7 Keeps Costs In Check EFTM</descriptio
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform - Wi-Fi NOW Global</title>
+      <title>[海外ルーターニュース] Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform - wifinowglobal.com</title>
       <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1kSGI2TDNwbjBZclZtUXRFTE5rOG9zMmdEQXlpWVN2eEh1d1I1WGRLQmtlWUl1a1pyYm4yeXZLM0xSbXdiNUNhWWI2dmtwZVlTS2hfcFlVOEFhQVVkNE5SaWpUazhHb3pIXzNSWExsRXVaeGpUdHphV2ZkcXJ5UmhPZ05URVZZeUZ1NElPTUlDTXI4ZGdHSFZoU0MzcmpsaGJON2VodmZPRXJxTzZZeXlWVk9CRnl6ZnJtVy1KZ2I3cUdfTXZNV2g0TjdfVUQwalJjdEVPbVBPRWs?oc=5</link>
       <guid isPermaLink="false">4dede3bfd58435419fee9faa</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
 元記事日付: 2026-09-12 22:27
-Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform Wi-Fi NOW Global</description>
+Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &amp; LG combine for new UWB platform wifinowglobal.com</description>
       <pubDate>Sat, 12 Sep 2026 16:17:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-12T16:17:23.522505Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-12T13:27:02Z</sqm:sourcePublishedDate>
@@ -78,13 +92,13 @@ Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva &
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The Best Wi-Fi Routers for 2026 - PCMag</title>
+      <title>[海外ルーターニュース] The Best Wi-Fi Routers for 2026 - PCMag UK</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTFBJSC03X1VyUFVXTnhGaDh6YThsZWtTbUNxSFM1bVZDc0tMMFdtMkJrUXkwR00wczdjeXdIZmJ3QUdVdEhlbDhUblFHUE52ZnNuM2U4RXp4ZlBmNjlGTTZSNm1jRXNBa2dvcER0SV9GZ1VWMDNDcGVj?oc=5</link>
       <guid isPermaLink="false">31bafc9dfa57b425ff172842</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-09-24 08:51
-The Best Wi-Fi Routers for 2026 PCMag</description>
+The Best Wi-Fi Routers for 2026 PCMag UK</description>
       <pubDate>Thu, 24 Sep 2026 06:44:18 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-24T06:44:18.911201Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T23:51:46Z</sqm:sourcePublishedDate>
@@ -120,31 +134,17 @@ Wi-Fi 6 vs Wi-Fi 7: what's the difference, why it matters, and when it's time to
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] The Best Wi-Fi Routers for 2026 - PCMag Australia</title>
+      <title>[海外ルーターニュース] The Best Wi-Fi Routers for 2026 - au.pcmag.com</title>
       <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUjdRUDhNclNqMFp3d05mSTBPSm1rWXBpOTc4Y0tSNTQzY3p3QmoydzdUZEgxZWdxWUl1N2ctQzRlMUlpVVVkQnBFamhycUNlQno1T1NFRHN0cm1tQ3phZ1lmUVE1TkRrSnZhZThOOERRMkdOX19R?oc=5</link>
       <guid isPermaLink="false">a5eb4d6a62650acec2e1539a</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News US: router products
 元記事日付: 2026-09-16 18:11
-The Best Wi-Fi Routers for 2026 PCMag Australia</description>
+The Best Wi-Fi Routers for 2026 au.pcmag.com</description>
       <pubDate>Mon, 21 Sep 2026 07:09:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-21T07:09:34.429748Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-16T09:11:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System - IGN</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZQX191VnY2VEdDMUU2R1pUb29iQXFIZlI0VUFha0ZPaGlxeG51ZjJMaG8xVEJ0N05VY2NOVXBXQXFaakVnN2JYVDJmZ19Dckd5NXFlSkdRQ2ZtNkJRU3E5MU8zbTFSbm5aajVSc1NHSUVULTF5TUhQbzRZVk9ScFFULTFoZnloMkd1Skg3b3Y3Ynk2bWVrWQ?oc=5</link>
-      <guid isPermaLink="false">d330e73c3b41473ece27ec1d</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-11 16:00
-Save 50% Off the TP-Link Deco 7 Pro BE10000 Wi-Fi 7 Whole Home Mesh System IGN</description>
-      <pubDate>Thu, 24 Sep 2026 12:12:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-24T12:12:36.487669Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-11T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
