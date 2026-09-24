@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-24T20:28:43.759579Z",
+  "generated_at": "2026-09-24T23:26:24.424125Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -61,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4dede3bfd58435419fee9faa",
@@ -87,9 +87,9 @@
     },
     {
       "id": "88fc21b4c5b189b1c1598b3a",
-      "title": "The 5 Best Wi-Fi Routers of 2026 - rtings.com",
+      "title": "The 5 Best Wi-Fi Routers of 2026 - RTINGS.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50ZDMzQmdZUDVlWFNSVTRBQVVKaHFxelBsOFh0clB3ZUpMa0MxTGZjNURsaVZaTTdkR0tIYmFTejRrXzZwMHprTHd6RjR4RnI2UHBfcGtzNnNidVFlZzE2OW5JZ3k?oc=5",
-      "summary": "The 5 Best Wi-Fi Routers of 2026 rtings.com",
+      "summary": "The 5 Best Wi-Fi Routers of 2026 RTINGS.com",
       "published_at": "2026-09-22T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -112,7 +112,7 @@
       "title": "The Best Wi-Fi Routers for 2026 - PCMag Australia",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pUjdRUDhNclNqMFp3d05mSTBPSm1rWXBpOTc4Y0tSNTQzY3p3QmoydzdUZEgxZWdxWUl1N2ctQzRlMUlpVVVkQnBFamhycUNlQno1T1NFRHN0cm1tQ3phZ1lmUVE1TkRrSnZhZThOOERRMkdOX19R?oc=5",
       "summary": "The Best Wi-Fi Routers for 2026 PCMag Australia",
-      "published_at": "2026-09-16T09:11:47Z",
+      "published_at": "2026-09-16T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

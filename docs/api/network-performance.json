@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-24T20:28:46.668737Z",
+  "generated_at": "2026-09-24T23:26:28.224871Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -64,17 +64,6 @@
       "score": 8
     },
     {
-      "id": "12acb20ee331068f9d30acfb",
-      "title": "Xplore internet outage in Sundre left residents seeking alternative connections - The Albertan",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE94SklWaEdnVXA2YzdjdllROHAyQmc0WVlWVFJTRXJCUFdmR19nSUtoMnVwdFlFNlhxdThydHV3SHB2ZzVxRG1nVDNsUFVTZzRlQkllUjUyWG1GSWtZUlQ4RmNGdWY0Y3dsNVhCaVZNNzd4QU1sYTFzU09YeWpBVnNSckQ5cUtqSkczbHBLNTV4ZmhqQTJwRWltU0lObzdFdWg1V0lSQWJvcVJSdGRTazZqUzl0enZDQkVqQ1FnVEpyQzI0bV9N?oc=5",
-      "summary": "Xplore internet outage in Sundre left residents seeking alternative connections The Albertan",
-      "published_at": "2026-09-21T23:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "dac40e126ebc9d0485fcd57b",
       "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5",
@@ -98,9 +87,9 @@
     },
     {
       "id": "1ea09286e92f352d660055b6",
-      "title": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - news.ntv.co.jp",
+      "title": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RX0luWXl5TmRzLUZ3QlpxM3dhUnEwNUF5eWNYaXFabW1DaDZOR20yRFFxMFVqejBoMFBmMGZzV2VKWE0tLWlkYzlIU004SW1qMXRmeUM0Z1JqQ2FLdEsxdkV2VEk2QVBwdGpBNHpUSFdtWENjZElsNkFCOWs?oc=5",
-      "summary": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN news.ntv.co.jp",
+      "summary": "JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN 日テレNEWS NNN",
       "published_at": "2026-09-23T09:30:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UT250LXpidEZfNzlOS0VsYndtc2hIWTd2MGJqME9laHdpaUNzanBFOE00OVZYeFRFNlYxc0R6aFA2ekhlZ0hfWUpMaFFKZw?oc=5",
       "summary": "【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 FNNプライムオンライン",
       "published_at": "2026-09-23T05:46:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "53946e0bf9df1a031f2fa57f",
+      "title": "【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uakNZY2NCRDhXVVo3LWIwVGduWEozcEdYc3VqY18xa1g0VlhBQTBZR09BV1hyWWRhaEFYZXl6aDB3UWQ2S1ZHaS1nV1MybUdTbG11NTVjNVRQS3o3bmlxa0Q0MnBZQTFLT04td1lvQVRKUQ?oc=5",
+      "summary": "【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless",
+      "published_at": "2026-09-23T05:34:48Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
