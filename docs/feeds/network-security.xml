@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 23:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:53:40 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews</title>
+      <title>[セキュリティ] Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - cybersecuritynews.com</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp50gGIAUFVX3lxTE5aejBnWHBmR1ozV0xmTElVZTZjV3FWWm93eXZCa3g0Z2o4cXhnLTNSaWh2dXBYWDJsN1MwelFmbVM0b1NsaHZfNHVLTlNHZU1wdy1PX0dmWEVfTHZ6c21KWE9hVEVLdHIzV3RRMl81N3N3cUlyZ3pqMW0xSDIzLTVQVUJJVUoySnk?oc=5</link>
       <guid isPermaLink="false">fdd34278730dd5c26c94ef8d</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-24 16:35
-Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login CyberSecurityNews</description>
+Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login cybersecuritynews.com</description>
       <pubDate>Thu, 24 Sep 2026 12:12:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-24T12:12:37.545070Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-24T07:35:20Z</sqm:sourcePublishedDate>

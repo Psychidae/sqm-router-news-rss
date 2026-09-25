@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-24T23:26:22.756214Z",
+  "generated_at": "2026-09-25T01:53:38.826024Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,11 +42,22 @@
       "score": 15
     },
     {
-      "id": "d3fdd21b79dacd0db991ee01",
-      "title": "バッファロー、Wi-Fi 7ルーターフラッグシップモデル「WXR18000BE10P」が当たるキャンペーン実施（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQVBQTHZuV18ycXZaVTg2dTMtdWlDbm4td3VBQ1pCYlVuYnF0SXl4Yk50UlRmN09Va1JqTkxBWFFqM1Yxbld4WWp4aTNvaFB5amVMY2xaYVYxc1JHblU3cVpPS2daS3ZBaG84ZG9ZMmxsNk5tT1hjWGpGNnNUNTg?oc=5",
-      "summary": "バッファロー、Wi-Fi 7ルーターフラッグシップモデル「WXR18000BE10P」が当たるキャンペーン実施（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-09-24T21:03:32Z",
+      "id": "61e267c7a060a720231320f6",
+      "title": "ゲーミングルーター「TUF Gaming BE3600」発売日再変更のお知らせ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Va3BtajFCT1ZVbFNQdUVXSVhqSURWbktrWDI1NFY0ZzlxWFNYbU51WkQwdzFVODN4MEcxTUFFV1hhckFDemdXcjN2cFY1X0d1SGpBWkoxWmcwZDhGVDFZNTdPVHRVRTgtLXc?oc=5",
+      "summary": "ゲーミングルーター「TUF Gaming BE3600」発売日再変更のお知らせ PR TIMES",
+      "published_at": "2026-09-25T01:00:02Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "9078874f91da16e9607842e9",
+      "title": "バッファロー、Wi-Fi 7ルーターフラッグシップモデル「WXR18000BE10P」が当たるキャンペーン実施 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5WnE5UVBQUmptcmdSQnZ2T0lYX1JMSW1WSTRmSVdsRTlPLXFfM2pJbG41SmxxZkZnRWVXaVpqVVh6TjA0QVcwOXNsa000eFJ2Zm53ZXRBa0xwNFRpNDR1N2NVWTFtRXMyZU9Z?oc=5",
+      "summary": "バッファロー、Wi-Fi 7ルーターフラッグシップモデル「WXR18000BE10P」が当たるキャンペーン実施 INTERNET Watch",
+      "published_at": "2026-09-24T21:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -72,24 +83,13 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e4e4d9bbf2f9cc0f4f6837d0",
       "title": "バッファローが1～4位を獲得 無線LANルーター人気ランキングTOP10 2026/9/21 - BCN Retail",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iX1BVUmhrWU5kU1hobTBxTml3a09fVHVndUpxeHF6WVhjRjBEd1JrN0tvZTVnd3d5NWR2SEw0cjdzS21Ib3k3WEsteHhsR05xUGlyemRHUGhhV2RqMW03empPN2VrbVZSRHA4U0hMZHoySFcwV0RSU2pn?oc=5",
       "summary": "バッファローが1～4位を獲得 無線LANルーター人気ランキングTOP10 2026/9/21 BCN Retail",
-      "published_at": "2026-09-21T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "04262b37528a1c4fc3d5ddf2",
-      "title": "バッファローが1～4位を獲得 無線LANルーター人気ランキングTOP10 2026/9/21 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3hPTnhsYXJZUk5lazRIWU9YOVMtUndmNUI3dm53M0ppaG5WelZ4Y0drbmpIalJ1NExKclNvSGdnWjFkSDNVN2FqTldrVC1ZSVFUZkU2MGwtSnU1VnF1aUczeXZFMU5PcTFpYndCangwZk5TS2FfMkxFdjBmOTNfbEFaaGZwMkZuX0EzdFJR?oc=5",
-      "summary": "バッファローが1～4位を獲得 無線LANルーター人気ランキングTOP10 2026/9/21 (BCN) Yahoo!ニュース",
       "published_at": "2026-09-21T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",

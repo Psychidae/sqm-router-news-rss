@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-24T23:26:26.400406Z",
+  "generated_at": "2026-09-25T01:53:40.915288Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "fdd34278730dd5c26c94ef8d",
-      "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews",
+      "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - cybersecuritynews.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp50gGIAUFVX3lxTE5aejBnWHBmR1ozV0xmTElVZTZjV3FWWm93eXZCa3g0Z2o4cXhnLTNSaWh2dXBYWDJsN1MwelFmbVM0b1NsaHZfNHVLTlNHZU1wdy1PX0dmWEVfTHZ6c21KWE9hVEVLdHIzV3RRMl81N3N3cUlyZ3pqMW0xSDIzLTVQVUJJVUoySnk?oc=5",
-      "summary": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login CyberSecurityNews",
+      "summary": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login cybersecuritynews.com",
       "published_at": "2026-09-24T07:35:20Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
