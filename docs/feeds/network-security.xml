@@ -5,33 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:53:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:44:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - cybersecuritynews.com</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp50gGIAUFVX3lxTE5aejBnWHBmR1ozV0xmTElVZTZjV3FWWm93eXZCa3g0Z2o4cXhnLTNSaWh2dXBYWDJsN1MwelFmbVM0b1NsaHZfNHVLTlNHZU1wdy1PX0dmWEVfTHZ6c21KWE9hVEVLdHIzV3RRMl81N3N3cUlyZ3pqMW0xSDIzLTVQVUJJVUoySnk?oc=5</link>
-      <guid isPermaLink="false">fdd34278730dd5c26c94ef8d</guid>
+      <title>[セキュリティ] Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWZaUTJNaUZzeDI1U3JHYV9CeHA5b1ptMDBnbDdzM2NkNFpjdkhYWUVZX0tUbXAwYld4akNrQ2RweTlIaTBqNGx3dk9yQWhLaFQ5c1RDOEp5dEVJZ21ObTZzcVBUYWVMMWc3emJZNHo2S3lBX2o2TWJpWTVEd280UGJSVdIBiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp5?oc=5</link>
+      <guid isPermaLink="false">173d0691eedd4db3042fcbc3</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-09-24 16:35
-Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login cybersecuritynews.com</description>
-      <pubDate>Thu, 24 Sep 2026 12:12:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-24T12:12:37.545070Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-24T07:35:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - Check Point Blog</title>
-      <link>https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5</link>
-      <guid isPermaLink="false">1f5d241675061d38edefcf7f</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-09-22 15:03
-Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 Check Point Blog</description>
-      <pubDate>Thu, 24 Sep 2026 12:12:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-24T12:12:37.545070Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T06:03:22Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-24 16:39
+Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login CyberSecurityNews</description>
+      <pubDate>Fri, 25 Sep 2026 07:44:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-25T07:44:12.339255Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-24T07:39:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -61,6 +47,20 @@ ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ�
       <sqm:firstSeenDate>2026-09-24T17:07:22.026643Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-22T22:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - Check Point Blog</title>
+      <link>https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5</link>
+      <guid isPermaLink="false">1f5d241675061d38edefcf7f</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-09-22 15:03
+Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 Check Point Blog</description>
+      <pubDate>Thu, 24 Sep 2026 12:12:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-24T12:12:37.545070Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-22T06:03:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>

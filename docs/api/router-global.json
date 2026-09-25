@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-25T01:53:39.923486Z",
+  "generated_at": "2026-09-25T07:44:11.099605Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
-    {
-      "id": "5f6860dcb7775e87bc6018c9",
-      "title": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ2QyeGtHOFVSaXZWTHFhYjJXOWN0bmFKaXZsVmxYaTdBSDJWSlFhSGpVU1VJakhsWWJuT2RvcnFGU3FYSWZySmtIajFYSWx4dHItNWhQVXphc25uRWpLWUl6M1RPQjUtMVlfWDVCdE1Bbld2YjY4Y0t5b09GZHluNk9XUTRUZTNTTU1Tc2l1Q0pLcUhLNW15S0pQeEpQS1h2ZTJIYXJ2cmVKallUanc?oc=5",
-      "summary": "Starlink debuts Wi-Fi 7 Router 4 ahead of gigabit network launch Notebookcheck",
-      "published_at": "2026-09-11T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
     {
       "id": "096500660d219f5eddee8966",
       "title": "Your Wi-Fi 7 router's biggest feature is something almost nobody can actually use - XDA",
@@ -94,7 +83,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 7
     },
     {
       "id": "20568803e5a619e996044acf",

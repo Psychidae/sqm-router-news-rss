@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:44:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] 【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
@@ -36,13 +36,13 @@ Japan's JCOM Hit by Nationwide Internet Outage, No Timeline for Restoration fina
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
+      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - dailytimes.com</title>
       <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
       <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-23 01:46
-Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
+Spectrum customers in Kerrville experience internet outage dailytimes.com</description>
       <pubDate>Tue, 22 Sep 2026 20:10:48 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-22T20:10:48.045036Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-22T16:46:00Z</sqm:sourcePublishedDate>
@@ -50,13 +50,13 @@ Spectrum customers in Kerrville experience internet outage DailyTimes.com</descr
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース</title>
+      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5</link>
       <guid isPermaLink="false">dac40e126ebc9d0485fcd57b</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 20:06
-となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース</description>
+となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T11:06:01Z</sqm:sourcePublishedDate>
@@ -134,13 +134,13 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（北日本放送） - Yahoo!ニュース</title>
+      <title>[性能・障害] 【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（北日本放送） - news.yahoo.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9hbE5vOGNzdHpPdnZZdXRKRE93X3JxeDlBdFgwQlo1Q2dmaTdXNTBKelNUcFFIRkpRY3o5a3ZpVDQ5NGNXd0lOQTB5RnpxNE9NdjU4U3lfOUhITVRVR2lGQkxGa0ZPYWZ2dF9WejM2WnFWa3dEcmk5UXQwNC1QSGs?oc=5</link>
       <guid isPermaLink="false">68f0797d7a57f3f979ff2ef0</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 12:37
-【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（北日本放送） Yahoo!ニュース</description>
+【速報】となみ衛星通信テレビのインターネット回線で通信障害発生（北日本放送） news.yahoo.co.jp</description>
       <pubDate>Fri, 25 Sep 2026 01:53:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-25T01:53:42.031757Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T03:37:00Z</sqm:sourcePublishedDate>
