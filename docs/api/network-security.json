@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-25T17:56:22.460007Z",
+  "generated_at": "2026-09-25T21:31:57.190703Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -43,9 +43,9 @@
     },
     {
       "id": "1f5d241675061d38edefcf7f",
-      "title": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - blog.checkpoint.com",
+      "title": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - Check Point Blog",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5",
-      "summary": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 blog.checkpoint.com",
+      "summary": "Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 Check Point Blog",
       "published_at": "2026-09-22T06:03:22Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
@@ -72,7 +72,7 @@
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     }
   ]
 }

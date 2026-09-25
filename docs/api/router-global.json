@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-25T17:56:21.044422Z",
+  "generated_at": "2026-09-25T21:31:56.126616Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "f61ddf45ef5fe6a16e69af91",
+      "title": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjN3UVcyMjEzNnRQUHpLNHhwY1NRUE9BWHlnd3p6dk1VYlVDUWxpcVFBWkZBTjNxbDJjcTBnbFJUcmx1UFp2SDkyYkpkNEh1MVY3YzlSLVdUVHhnNXlHa2ZXalRGSjJMempHR2FnTmlST2hEak9JTENpQUhmUGlnYnZXajFvRUFzTnZZb3FxR3BMME9YZVlXUVFDWnhlaHRPcTdKeHV4QVQ1R0ZIaWt1QUFCRk9aVDZzS2NsczVPMA?oc=5",
+      "summary": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested TechRadar",
+      "published_at": "2026-09-25T17:37:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
+    },
     {
       "id": "096500660d219f5eddee8966",
       "title": "Your Wi-Fi 7 router's biggest feature is something almost nobody can actually use - XDA",
@@ -32,9 +43,9 @@
     },
     {
       "id": "9b3312623dbb6c9abb3fa1f1",
-      "title": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN - digitalreviews.net",
+      "title": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTVVR2hFM2VOdFo3U3hIdXlYNTBRVDBzSGRpWm43TTF4RkVvaF9MMlN1eGVhWV96UGFrWGZ4dEI2clhMcnM2dFZLMHdhTmJNN0dCaTlDR29Fa3FmNlBIMFREOHFqaURvbzNNSmRKZkswMmtyMUFjTXFjSHN3MWo3b2pDQ1Vfa1NCNGthTFNUVGNfVTRKUURJYVpMbHBZbXlUOXNjdw?oc=5",
-      "summary": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN digitalreviews.net",
+      "summary": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN Digital Reviews Network",
       "published_at": "2026-09-22T22:46:20Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -62,17 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "f61ddf45ef5fe6a16e69af91",
-      "title": "Netgear Orbi 770 Wi-Fi 7 mesh system hits its lowest price ever - techradar.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjN3UVcyMjEzNnRQUHpLNHhwY1NRUE9BWHlnd3p6dk1VYlVDUWxpcVFBWkZBTjNxbDJjcTBnbFJUcmx1UFp2SDkyYkpkNEh1MVY3YzlSLVdUVHhnNXlHa2ZXalRGSjJMempHR2FnTmlST2hEak9JTENpQUhmUGlnYnZXajFvRUFzTnZZb3FxR3BMME9YZVlXUVFDWnhlaHRPcTdKeHV4QVQ1R0ZIaWt1QUFCRk9aVDZzS2NsczVPMA?oc=5",
-      "summary": "Netgear Orbi 770 Wi-Fi 7 mesh system hits its lowest price ever techradar.com",
-      "published_at": "2026-09-25T17:37:45Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     },
     {
       "id": "e90fac48ba2ec57f21d879a3",
@@ -109,9 +109,9 @@
     },
     {
       "id": "96f5d8134438ce96733e6ef5",
-      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - techradar.com",
+      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaXUycWF5aTlOMkxXOWRIS3Vqd2NIRC1zcGN4ZlRuOGZTSWlRblJjUlM3RTdxV1IyNUdIVThSb1REdUFwZnIxdEtoS0RvT29OMHRKTmd1VlN5eUw4SGtzQS16aVV4VlBxeGlwMkx3WU5LSGloN1FRRkgwbzJWV2FySW5WaERFVzlTMnU3UnBUVnFGLTZrSjVpOW05Y3BKbHJoZzlUQnVJTGtsWUZaaEI4a2NpNGZ3bDBQRDdSTkRBMnNEUmljVWthUXdDdUpiZ3Q1NDZHcFIwWnNTSHhhbzlYRS1teFBXZTF3OGFUNlJ3?oc=5",
-      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable techradar.com",
+      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable TechRadar",
       "published_at": "2026-09-21T09:58:53Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
