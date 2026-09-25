@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-25T12:58:35.849905Z",
+  "generated_at": "2026-09-25T17:56:23.890092Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -20,6 +20,17 @@
       "score": 12
     },
     {
+      "id": "efb611f16ca397c1ba84c3b9",
+      "title": "St Petersburg sees widespread internet outage, residents say - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGx1S25FeG1xaENWN2FzcktMc1VzaGM2cjFzZUtiUERrT0poT25WYlRRdk9VUVRVMFV1XzByYUhhdTRtNVQwbVplaC1HX09GQ29aS1lHSlNhNnhaYzRjVW1lV0dfb2h4RE03YWVCUlJiNzNDbXU2S1hkVk5FTnNBaHdDS0gyOEJGYmw3UjY2WQ?oc=5",
+      "summary": "St Petersburg sees widespread internet outage, residents say Caliber.Az",
+      "published_at": "2026-09-25T14:07:02Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "2325bfc0bd0647d7e2b2bae1",
       "title": "JPN Kuching Counters Disrupted By Internet Outage - Sarawak Tribune",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTk9HVjFZU2JhdW1Ya0lVN0dDZjRYckhnazV0TF9KejBtVFFrNFVWRzJobG9mX1dJbkY2enh5bFVQRGtpOVFwWmhLMF82RFFWcFAwS1YwQVpkYmlCRXM5YmdEZ1A2a1B3dWxVYnZFQ2hqMTMzTTR6eUxlNTc5OFBfWlpUU1Z1SzIt?oc=5",
@@ -31,10 +42,10 @@
       "score": 9
     },
     {
-      "id": "63e463486d2a7e11fec49fd3",
-      "title": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 - excite.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EdndxdHg2ZTRuNzduQk94el9pUTFBc0wzWkxqc3dnYVJXQUFqU0hmOTBrMlhjU1Z5VkVWbkpNaURBTGRINFdBdS0zQXR6c0hvcGNScDZQcDB3R0dYdDgtTTdXRnM?oc=5",
-      "summary": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 excite.co.jp",
+      "id": "b391627923394bf1c640a2ff",
+      "title": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02QVVUajRaemtMUzBydmpGTFNJZ0x0XzBGNTJ6cUZIUGFhTXMzTFhybDIxcEZYdWhzbm0zNVBSV3FpLWk0LU5iQ0JXVEdtdFlTRVh5bVlGMVJ6aFBuZ21PWndqWG5FZkNEVlE?oc=5",
+      "summary": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 BCN Retail",
       "published_at": "2026-09-25T09:00:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -47,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mWjByaUdaVVZ4dGgtalpyeVBMVUlFeFlGRUpLWml4eU5OQlBiRnNEblliWG02SEZuUWF5TGExM3Zlei1iRVAxZHE3NFl2dWlUdzRKclQ0LXYzMEFOZ0dHTU1lOVBjSUZHM3NGb181YXBicTFXeHc?oc=5",
       "summary": "Japan's JCOM Hit by Nationwide Internet Outage, No Timeline for Restoration finance.biggo.com",
       "published_at": "2026-09-23T06:05:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "4d8a154805a6a3f8f8b457bc",
-      "title": "Spectrum customers in Kerrville experience internet outage - DailyTimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5",
-      "summary": "Spectrum customers in Kerrville experience internet outage DailyTimes.com",
-      "published_at": "2026-09-22T16:46:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

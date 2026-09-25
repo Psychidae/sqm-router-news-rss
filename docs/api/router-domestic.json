@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-09-25T12:58:31.809930Z",
+  "generated_at": "2026-09-25T17:56:19.507884Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "2184d35a2557afa06b8832c7",
+      "title": "TP-LinkのWi-Fi 7/10GbE対応ゲーミングルーターが25%オフ、全ポートマルチギガでSFP+も利用可 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SQnRlWnVPQUc0S1gtZXJEZWE5aXp3NC0tblZxbENIWmVDRGsyck1YT2xvVEVYRlZfTW1EQm56eml4OWtqd1lWNERhbGVvVktvZFZzRi1xQ0pwLWZ6Z2FyVnVTQmZjLUt3ZWNITnZlMVVYZ2ttMmc?oc=5",
+      "summary": "TP-LinkのWi-Fi 7/10GbE対応ゲーミングルーターが25%オフ、全ポートマルチギガでSFP+も利用可 24Wireless",
+      "published_at": "2026-09-25T11:03:33Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 23
+    },
     {
       "id": "48ec8d51704fe073fbaf6fc5",
       "title": "ASUS、ROG20周年でWi-Fi 7クアッドバンドゲーミングルーター「ROG Rapture GT-BE98 Edition 20」などの記念モデル発売 - Yahoo!ニュース",
@@ -35,7 +46,7 @@
       "title": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 - kakaku.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VelRWQ0w2RHdPSlQybkZyaHBTd3ktZ3IxdEtWRHl0S0JzVkJkOERBMWlaZnpQUUZySlFnSXluVmJQbmRkME1lUW5td0YwcGRLMTlNdktZOVd4dld5Q0NjMnV3akhzRXhHa1E?oc=5",
       "summary": "ASUS、ROG設立20周年記念モデル「ROG Edition 20」からPCパーツやゲーミングルーターなど6製品発売 kakaku.com",
-      "published_at": "2026-09-17T06:03:00Z",
+      "published_at": "2026-09-17T07:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 13
-    },
-    {
-      "id": "dfc1f7a1dfdf0f5d0c09adc4",
-      "title": "3年前に発売の「ミニオンズ」のWi-Fiルーター、“なぜかガチ性能”と今ごろ脚光浴びる。最大通信速度5400Mbpsの高速ケビン - AUTOMATON",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EeFlMZ0szYXFzSlE3NEZRcUVQb3pOeUpnaWN4VVk4LUxDMVZpWVdDS2t0UGNtRWNYUE1YUG5XYVk3UXQ3ZnpHaDBQaFlPMVEya0x4aDM2TUR1RkFTSTRESFlvQzlGZWs4bGtvXw?oc=5",
-      "summary": "3年前に発売の「ミニオンズ」のWi-Fiルーター、“なぜかガチ性能”と今ごろ脚光浴びる。最大通信速度5400Mbpsの高速ケビン AUTOMATON",
-      "published_at": "2026-09-24T07:21:37Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
     }
   ]
 }
