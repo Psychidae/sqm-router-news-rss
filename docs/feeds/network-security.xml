@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:35:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com</title>
@@ -36,20 +36,6 @@ Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Log
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTZwMFltNTNqb2xySm1Ga01ORVhiYmpfdng0V2FkcWRRbDJsNlFVV0dqbXVVelRjSXNpRXFNRDhHRVk1RHZGVVhWQTluYWwyZ2FhaFkteDhHUFR1RVZNUk5hWGNsT0FOUGJSMmZyZTBmb0k2YWxwSTl6ZHdJa25fX3FMYnNkZzhMM2gzOUVrWjEtTkpNVEQ1TA?oc=5</link>
-      <guid isPermaLink="false">a9b0c6291a6211f882dfd95b</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-24 07:00
-Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 合同会社ロケットボーイズ</description>
-      <pubDate>Wed, 23 Sep 2026 23:09:22 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-23T23:09:22.044587Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T22:00:55Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 and a Management Pre-Authentication Vulnerability CVE-2026-93616 - Check Point Blog</title>
       <link>https://news.google.com/rss/articles/CBMihAJBVV95cUxNSkxndkZ0Z0JyS2FmSnZEV3BNUERiLWJJdlVwRkxpN3Q1WTZQZHFtWEFvZDROZklVWHVnWUxVelRjaEp5eWI0WjNZUExuMVp1R29ZeTgxWGRzWE9LM0ZlNnp5ZlgxY29aaUFFSnlnbXh1emtmQVlkbV9MbDk0aVdrbmJ1bk04Q1lFUjA5cDM4NkNnUFFMQWR2Xy03VnpHeTgyVjRYWUczM0o2OUZzNU1SMlJtNHpkWTQ2SEhiSXA2XzMtZUVKRU1yTHlodjNfcnJFVkEyMVJmZ1lsRVQ2QXZqQzJMY2k1ZzRsMXB1UUkwLTc4RWZtNXJIU3Z2WVc2ZGVPd3VIXw?oc=5</link>
       <guid isPermaLink="false">1f5d241675061d38edefcf7f</guid>
@@ -61,6 +47,20 @@ Security Advisory – Action Required – Active Exploitation of CVE-2026-85102 
       <sqm:firstSeenDate>2026-09-24T12:12:37.545070Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-22T06:03:22Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTZwMFltNTNqb2xySm1Ga01ORVhiYmpfdng0V2FkcWRRbDJsNlFVV0dqbXVVelRjSXNpRXFNRDhHRVk1RHZGVVhWQTluYWwyZ2FhaFkteDhHUFR1RVZNUk5hWGNsT0FOUGJSMmZyZTBmb0k2YWxwSTl6ZHdJa25fX3FMYnNkZzhMM2gzOUVrWjEtTkpNVEQ1TA?oc=5</link>
+      <guid isPermaLink="false">a9b0c6291a6211f882dfd95b</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-24 07:00
+Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 合同会社ロケットボーイズ</description>
+      <pubDate>Wed, 23 Sep 2026 23:09:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-23T23:09:22.044587Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T22:00:55Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -78,13 +78,13 @@ ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Critical CVE-2026-85102: Active Exploit in Spark Firewalls - secnews.gr</title>
+      <title>[セキュリティ] Critical CVE-2026-85102: Active Exploit in Spark Firewalls - SecNews.gr</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9jdUV2eGt4VG16LTNmNV9wbFlYSjNHN2xJU2djOGxTN1pRSjBxME9ucVlXcVNDVDhTVEVxTDJ4VnNSNXo5R2I5MEh0c2EtWmtTTTR0THNiWjJxSnp3SVh0eDhDLWpxVktqc3JoN1dFcEp1Zw?oc=5</link>
       <guid isPermaLink="false">0d2879e1df8be324993d045d</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-24 07:40
-Critical CVE-2026-85102: Active Exploit in Spark Firewalls secnews.gr</description>
+Critical CVE-2026-85102: Active Exploit in Spark Firewalls SecNews.gr</description>
       <pubDate>Thu, 24 Sep 2026 23:26:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-24T23:26:26.399620Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T22:40:01Z</sqm:sourcePublishedDate>
@@ -92,13 +92,13 @@ Critical CVE-2026-85102: Active Exploit in Spark Firewalls secnews.gr</descripti
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - The Hacker News</title>
+      <title>[セキュリティ] Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks - thehackernews.com</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQMU4xQi1PQnUzaEU4VjdZY3hQMG00RktrQkpDU01GNGk3My1hVy11eWJ0ekpOd2tiMVF0NDdwb2NrdGhyODItcU5PMkJxLWoyMWFxS3pOYWVTYzVVSWszVzNmbER5bnpUUkxOa2FkckJ2Y3dWRVVfUjZNb3NNNnhMazZZMA?oc=5</link>
       <guid isPermaLink="false">416fea9301d31747674b4a7c</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-23 03:29
-Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks The Hacker News</description>
+Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks thehackernews.com</description>
       <pubDate>Wed, 23 Sep 2026 06:38:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T06:38:42.866399Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-22T18:29:00Z</sqm:sourcePublishedDate>

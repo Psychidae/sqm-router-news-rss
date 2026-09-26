@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-26T21:06:15.144309Z",
+  "generated_at": "2026-09-26T23:35:40.475565Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "f61ddf45ef5fe6a16e69af91",
-      "title": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested - TechRadar",
+      "title": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested - techradar.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjN3UVcyMjEzNnRQUHpLNHhwY1NRUE9BWHlnd3p6dk1VYlVDUWxpcVFBWkZBTjNxbDJjcTBnbFJUcmx1UFp2SDkyYkpkNEh1MVY3YzlSLVdUVHhnNXlHa2ZXalRGSjJMempHR2FnTmlST2hEak9JTENpQUhmUGlnYnZXajFvRUFzTnZZb3FxR3BMME9YZVlXUVFDWnhlaHRPcTdKeHV4QVQ1R0ZIaWt1QUFCRk9aVDZzS2NsczVPMA?oc=5",
-      "summary": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested TechRadar",
+      "summary": "Lowest price ever: Netgear’s Orbi 770 is the best Wi-Fi 7 mesh router for the home we've tested techradar.com",
       "published_at": "2026-09-25T17:37:45Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -109,9 +109,9 @@
     },
     {
       "id": "96f5d8134438ce96733e6ef5",
-      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - TechRadar",
+      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - techradar.com",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaXUycWF5aTlOMkxXOWRIS3Vqd2NIRC1zcGN4ZlRuOGZTSWlRblJjUlM3RTdxV1IyNUdIVThSb1REdUFwZnIxdEtoS0RvT29OMHRKTmd1VlN5eUw4SGtzQS16aVV4VlBxeGlwMkx3WU5LSGloN1FRRkgwbzJWV2FySW5WaERFVzlTMnU3UnBUVnFGLTZrSjVpOW05Y3BKbHJoZzlUQnVJTGtsWUZaaEI4a2NpNGZ3bDBQRDdSTkRBMnNEUmljVWthUXdDdUpiZ3Q1NDZHcFIwWnNTSHhhbzlYRS1teFBXZTF3OGFUNlJ3?oc=5",
-      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable TechRadar",
+      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable techradar.com",
       "published_at": "2026-09-21T09:58:53Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",

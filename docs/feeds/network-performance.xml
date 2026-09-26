@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:35:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] 【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE56amNTZ1ppM2xPOHdJZ0hjdTdIbGVRV1B0dEpfTkE2Z1J6X2gzYTlhRnpMQmtFc1dwWUlfNkJtbTl1UHZFYmpxcThJbkl0aHRZUW9fNC14aEl2dmtubEwtbg?oc=5</link>
-      <guid isPermaLink="false">00da68cd85f5e2fe95bd99ae</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-23 10:45
-【復旧】JCOMで大規模な通信障害が発生、DNS設定変更での改善事例も（2026/09/23） 24Wireless</description>
-      <pubDate>Wed, 23 Sep 2026 06:38:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-23T06:38:44.161235Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T01:45:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] These 10 states lead the U.S. in internet outage searches: Did yours make the list? - NJ.com</title>
       <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZYLXNCQTdsTjMwVlBSUWJhVjB6MjhlaW56Sk5wZ2JHeWNCbi1vVHAwTzQ2YkhYX0toZkVfQV9HdkVFemdmRnNzNnhMTXR1ZWdMSTZDQXZZVXVHWDN6TW16X1VGOU5HcGxCWEFJX1JqTWF5WDh0VWVEcG9JOHd1YkxYTmhETmhCNGVQU2dDTk9MWXlERG12SWxZS0pXVFZOV1hsUXUtWmNFT3lyWjRlblBreF9lcG_SAcsBQVVfeXFMTjlmeDJjZDJqV1lNSUNjTUFzdll6ellJZDIzR3JRSUw1c3B0TFVndk9fOTNYRGVfdkoxek90U0ZlTzg2OE52Q1FOM3hhN1BnSGpadmtnVXNvRnhGeENHMVdpbUZEb291SEduUlR0R0tqeUgycVhJN3FaczVMZjFJVzdueG9NZ0FfSEhCU2dQRW1hTlRFbFQwM2wxTU5TM0psbHZDSXotZTBZUURxRksyMXkyNnluUngyQVZLbzI2VWpzMEVQZldyNVRfSTg?oc=5</link>
@@ -120,13 +106,13 @@ Fiber-optic line ‘intentionally cut,’ leading to South Pittsburgh internet o
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp</title>
+      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5</link>
       <guid isPermaLink="false">dac40e126ebc9d0485fcd57b</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 20:06
-となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp</description>
+となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T11:06:01Z</sqm:sourcePublishedDate>
@@ -144,6 +130,20 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <pubDate>Sat, 26 Sep 2026 18:01:25 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-26T18:01:25.853218Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T09:32:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE5RX0luWXl5TmRzLUZ3QlpxM3dhUnEwNUF5eWNYaXFabW1DaDZOR20yRFFxMFVqejBoMFBmMGZzV2VKWE0tLWlkYzlIU004SW1qMXRmeUM0Z1JqQ2FLdEsxdkV2VEk2QVBwdGpBNHpUSFdtWENjZElsNkFCOWs?oc=5</link>
+      <guid isPermaLink="false">1ea09286e92f352d660055b6</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-23 18:30
+JCOMのインターネット接続サービスで23日午前から通信障害が発生（2026年9月23日掲載）｜日テレNEWS NNN 日テレNEWS NNN</description>
+      <pubDate>Sat, 26 Sep 2026 23:35:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-26T23:35:42.895422Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-23T09:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
