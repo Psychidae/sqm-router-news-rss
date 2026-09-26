@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-26T09:50:28.686581Z",
+  "generated_at": "2026-09-26T14:27:25.686013Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "b0fbc42837480aec355b8ed1",
-      "title": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? - nj.com",
+      "title": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? - NJ.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZYLXNCQTdsTjMwVlBSUWJhVjB6MjhlaW56Sk5wZ2JHeWNCbi1vVHAwTzQ2YkhYX0toZkVfQV9HdkVFemdmRnNzNnhMTXR1ZWdMSTZDQXZZVXVHWDN6TW16X1VGOU5HcGxCWEFJX1JqTWF5WDh0VWVEcG9JOHd1YkxYTmhETmhCNGVQU2dDTk9MWXlERG12SWxZS0pXVFZOV1hsUXUtWmNFT3lyWjRlblBreF9lcG_SAcsBQVVfeXFMTjlmeDJjZDJqV1lNSUNjTUFzdll6ellJZDIzR3JRSUw1c3B0TFVndk9fOTNYRGVfdkoxek90U0ZlTzg2OE52Q1FOM3hhN1BnSGpadmtnVXNvRnhGeENHMVdpbUZEb291SEduUlR0R0tqeUgycVhJN3FaczVMZjFJVzdueG9NZ0FfSEhCU2dQRW1hTlRFbFQwM2wxTU5TM0psbHZDSXotZTBZUURxRksyMXkyNnluUngyQVZLbzI2VWpzMEVQZldyNVRfSTg?oc=5",
-      "summary": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? nj.com",
+      "summary": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? NJ.com",
       "published_at": "2026-09-25T18:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -32,32 +32,21 @@
     },
     {
       "id": "efb611f16ca397c1ba84c3b9",
-      "title": "St Petersburg sees widespread internet outage, residents say - caliber.az",
+      "title": "St Petersburg sees widespread internet outage, residents say - Caliber.Az",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGx1S25FeG1xaENWN2FzcktMc1VzaGM2cjFzZUtiUERrT0poT25WYlRRdk9VUVRVMFV1XzByYUhhdTRtNVQwbVplaC1HX09GQ29aS1lHSlNhNnhaYzRjVW1lV0dfb2h4RE03YWVCUlJiNzNDbXU2S1hkVk5FTnNBaHdDS0gyOEJGYmw3UjY2WQ?oc=5",
-      "summary": "St Petersburg sees widespread internet outage, residents say caliber.az",
+      "summary": "St Petersburg sees widespread internet outage, residents say Caliber.Az",
       "published_at": "2026-09-25T14:07:02Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "b391627923394bf1c640a2ff",
-      "title": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 - BCN Retail",
+      "title": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 - bcnretail.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02QVVUajRaemtMUzBydmpGTFNJZ0x0XzBGNTJ6cUZIUGFhTXMzTFhybDIxcEZYdWhzbm0zNVBSV3FpLWk0LU5iQ0JXVEdtdFlTRVh5bVlGMVJ6aFBuZ21PWndqWG5FZkNEVlE?oc=5",
-      "summary": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 BCN Retail",
+      "summary": "災害時にスマホが使えなかったら？ 通信障害に強いラジオの実力 bcnretail.com",
       "published_at": "2026-09-25T09:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "dac40e126ebc9d0485fcd57b",
-      "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5",
-      "summary": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp",
-      "published_at": "2026-09-23T11:06:01Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -76,9 +65,9 @@
     },
     {
       "id": "0bda07b43425c2091846433b",
-      "title": "Eagle Mountain residents react after internet outage over the weekend - ABC4 Utah",
+      "title": "Eagle Mountain residents react after internet outage over the weekend - abc4.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkdZYVRtOFhXUHpRNXB4MW5wT2FzeWdseXI4WmhiM3dsT19ZZDZ6dzVQTkNnRFlXMm9NYXhmZ0lzYzRldHNOUHYtMDBzb3U0Y3BLSUNxNTl2MjlOZHVFQzdEMUs4UTAtU3l1b2VrRjBWNmdJSnVqYnVFRDlzTnlLcE1IWWRBbFNka0pKVkxoQjhhMG5mVldQMGRBalE3djBqQUc3YnBYdXZRZw?oc=5",
-      "summary": "Eagle Mountain residents react after internet outage over the weekend ABC4 Utah",
+      "summary": "Eagle Mountain residents react after internet outage over the weekend abc4.com",
       "published_at": "2026-09-21T23:57:27Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -87,9 +76,9 @@
     },
     {
       "id": "12acb20ee331068f9d30acfb",
-      "title": "Xplore internet outage in Sundre left residents seeking alternative connections - thealbertan.com",
+      "title": "Xplore internet outage in Sundre left residents seeking alternative connections - The Albertan",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVE94SklWaEdnVXA2YzdjdllROHAyQmc0WVlWVFJTRXJCUFdmR19nSUtoMnVwdFlFNlhxdThydHV3SHB2ZzVxRG1nVDNsUFVTZzRlQkllUjUyWG1GSWtZUlQ4RmNGdWY0Y3dsNVhCaVZNNzd4QU1sYTFzU09YeWpBVnNSckQ5cUtqSkczbHBLNTV4ZmhqQTJwRWltU0lObzdFdWg1V0lSQWJvcVJSdGRTazZqUzl0enZDQkVqQ1FnVEpyQzI0bV9N?oc=5",
-      "summary": "Xplore internet outage in Sundre left residents seeking alternative connections thealbertan.com",
+      "summary": "Xplore internet outage in Sundre left residents seeking alternative connections The Albertan",
       "published_at": "2026-09-21T23:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
+    },
+    {
+      "id": "dac40e126ebc9d0485fcd57b",
+      "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5",
+      "summary": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース",
+      "published_at": "2026-09-23T11:06:01Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
     }
   ]
 }

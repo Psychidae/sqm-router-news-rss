@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-26T09:50:26.505850Z",
+  "generated_at": "2026-09-26T14:27:23.676225Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,17 +64,6 @@
       "score": 12
     },
     {
-      "id": "4dede3bfd58435419fee9faa",
-      "title": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform - Wi-Fi NOW Global",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcG1kSGI2TDNwbjBZclZtUXRFTE5rOG9zMmdEQXlpWVN2eEh1d1I1WGRLQmtlWUl1a1pyYm4yeXZLM0xSbXdiNUNhWWI2dmtwZVlTS2hfcFlVOEFhQVVkNE5SaWpUazhHb3pIXzNSWExsRXVaeGpUdHphV2ZkcXJ5UmhPZ05URVZZeUZ1NElPTUlDTXI4ZGdHSFZoU0MzcmpsaGJON2VodmZPRXJxTzZZeXlWVk9CRnl6ZnJtVy1KZ2I3cUdfTXZNV2g0TjdfVUQwalJjdEVPbVBPRWs?oc=5",
-      "summary": "Roundup: Starlink's first Wi-Fi 7 router, GSMA pushes for 6 GHz spectrum, Ceva & LG combine for new UWB platform Wi-Fi NOW Global",
-      "published_at": "2026-09-12T13:27:02Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "e90fac48ba2ec57f21d879a3",
       "title": "Upgrade to Wi-Fi 7 With This Limited-Time TP-Link Early October Prime Day Deal - CNET",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fVnNSR0FuRnJIbHJHT21KOXN6Y1B0SFRQM2F0dkc4TTBXOF91RGEzMmZib0FNNlh1NVIta0dkbEw4dlZRM0ViN3pBWjZFTHRXZkZTRVhaZndfN0lHN1hLLWZEb3oxUQ?oc=5",
@@ -83,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "31bafc9dfa57b425ff172842",
@@ -115,6 +104,17 @@
       "published_at": "2026-09-22T07:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
+    },
+    {
+      "id": "96f5d8134438ce96733e6ef5",
+      "title": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaXUycWF5aTlOMkxXOWRIS3Vqd2NIRC1zcGN4ZlRuOGZTSWlRblJjUlM3RTdxV1IyNUdIVThSb1REdUFwZnIxdEtoS0RvT29OMHRKTmd1VlN5eUw4SGtzQS16aVV4VlBxeGlwMkx3WU5LSGloN1FRRkgwbzJWV2FySW5WaERFVzlTMnU3UnBUVnFGLTZrSjVpOW05Y3BKbHJoZzlUQnVJTGtsWUZaaEI4a2NpNGZ3bDBQRDdSTkRBMnNEUmljVWthUXdDdUpiZ3Q1NDZHcFIwWnNTSHhhbzlYRS1teFBXZTF3OGFUNlJ3?oc=5",
+      "summary": "TP-Link Deco 7 Pro deal makes whole-home Wi-Fi 7 more affordable TechRadar",
+      "published_at": "2026-09-21T09:58:53Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 7
     }
