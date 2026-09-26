@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 04:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:50:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com</title>
@@ -36,13 +36,13 @@ Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Log
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 - 合同会社ロケットボーイズ</title>
+      <title>[セキュリティ] Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 - rocket-boys.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTZwMFltNTNqb2xySm1Ga01ORVhiYmpfdng0V2FkcWRRbDJsNlFVV0dqbXVVelRjSXNpRXFNRDhHRVk1RHZGVVhWQTluYWwyZ2FhaFkteDhHUFR1RVZNUk5hWGNsT0FOUGJSMmZyZTBmb0k2YWxwSTl6ZHdJa25fX3FMYnNkZzhMM2gzOUVrWjEtTkpNVEQ1TA?oc=5</link>
       <guid isPermaLink="false">a9b0c6291a6211f882dfd95b</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-24 07:00
-Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 合同会社ロケットボーイズ</description>
+Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確認 Spark顧客を世界的に攻撃、CISA KEV追加 rocket-boys.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 23:09:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T23:09:22.044587Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T22:00:55Z</sqm:sourcePublishedDate>
@@ -78,13 +78,13 @@ ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Critical CVE-2026-85102: Active Exploit in Spark Firewalls - SecNews.gr</title>
+      <title>[セキュリティ] Critical CVE-2026-85102: Active Exploit in Spark Firewalls - secnews.gr</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9jdUV2eGt4VG16LTNmNV9wbFlYSjNHN2xJU2djOGxTN1pRSjBxME9ucVlXcVNDVDhTVEVxTDJ4VnNSNXo5R2I5MEh0c2EtWmtTTTR0THNiWjJxSnp3SVh0eDhDLWpxVktqc3JoN1dFcEp1Zw?oc=5</link>
       <guid isPermaLink="false">0d2879e1df8be324993d045d</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
 元記事日付: 2026-09-24 07:40
-Critical CVE-2026-85102: Active Exploit in Spark Firewalls SecNews.gr</description>
+Critical CVE-2026-85102: Active Exploit in Spark Firewalls secnews.gr</description>
       <pubDate>Thu, 24 Sep 2026 23:26:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-24T23:26:26.399620Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T22:40:01Z</sqm:sourcePublishedDate>
