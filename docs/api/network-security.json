@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-27T13:55:19.982297Z",
+  "generated_at": "2026-09-27T18:20:29.225875Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
-    {
-      "id": "376c9ad6c884926aa58a4331",
-      "title": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTZBX0FYaDRsVDZWYlpfMWNwT2M1eEktaGJDb2NWbEE4ZmdUeklYZlZ5cTBmRlNIdVdMMV9ZeVo2Y1drdE1KWGtndVNYTmpDeUpRbE95bTZmR083VjlOajBoYWJpaGhocmJRc3dNa29rZ3NyRGZEcUQwSzIzRzRuaEJtX1pGZk1FUFHSAY8BQVVfeXFMTnY0NjVmVDhfcllRbzZXMUttU1pSdHZzb2xvdU9Idl9wQXVHZFdhVC1qaFQ5ZGJiNnZFVHhKenBzVnRTRjdqQnJuZ1k3UnhtU1MtcVowZVFwbmNQbE5VR05Id3RaZmp3d25Cd3NHWUtETHFFeDVZZVFoaEtsc3NQdS1vaV9lYTM1V0FnbEFxZVU?oc=5",
-      "summary": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers.com",
-      "published_at": "2026-09-24T10:21:04Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 17
-    },
     {
       "id": "173d0691eedd4db3042fcbc3",
       "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews",
