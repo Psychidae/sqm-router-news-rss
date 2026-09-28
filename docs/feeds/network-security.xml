@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 11:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:39:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com</title>
@@ -36,13 +36,13 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ascii.jp</title>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbGlqT2ZmN1huUTM1Si1heHZNMFZQYURqTDBBQjUyT3hXMlRxbWtUYkUzaWRIVC1LeWZPN2xRX3hzWHZ5aWc0LWFiRXNiTDVnWnFzSg?oc=5</link>
       <guid isPermaLink="false">c6661d2a71ec3bd32c36df9d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ascii.jp</description>
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ASCII.jp</description>
       <pubDate>Mon, 28 Sep 2026 05:18:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T05:18:26.184537Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
