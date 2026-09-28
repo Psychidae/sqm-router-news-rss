@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 23:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:18:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net</title>
@@ -64,6 +64,20 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
+      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
+      <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-25 00:54
+Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
+      <pubDate>Sat, 26 Sep 2026 09:50:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-26T09:50:28.686015Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-24T15:54:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Japan's JCOM Hit by Nationwide Internet Outage, No Timeline for Restoration - finance.biggo.com</title>
       <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5mWjByaUdaVVZ4dGgtalpyeVBMVUlFeFlGRUpLWml4eU5OQlBiRnNEblliWG02SEZuUWF5TGExM3Zlei1iRVAxZHE3NFl2dWlUdzRKclQ0LXYzMEFOZ0dHTU1lOVBjSUZHM3NGb181YXBicTFXeHc?oc=5</link>
       <guid isPermaLink="false">eee343a35c6b2957c5db0af8</guid>
@@ -78,27 +92,13 @@ Japan's JCOM Hit by Nationwide Internet Outage, No Timeline for Restoration fina
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Spectrum customers in Kerrville experience internet outage - DailyTimes.com</title>
-      <link>https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRXAxMkRnb2dXdW92OVFsTTVUZkdnOHZxc0JZQ25ucHlTYmRuM2otU2d5TjJzYnBDeTJIN1A0eFpyaXowMmgtaEJnWE80UzNuR21SdWNDWmlJckVldGg5eVhVTWI3c3lQcmt5VmZDWnkzQzBRcWxmRXJITEJIRDItSmV3bDN4aGwyTFBaUE1xdUZpTlJPUExIVmtFTGdBQUgwcTBGTlJkeUhVcldIWTU3dGhIalk2dWNST2NTdVFiWEx6bHZBeXhIUGFfOHh2VTdvRHc?oc=5</link>
-      <guid isPermaLink="false">4d8a154805a6a3f8f8b457bc</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-23 01:46
-Spectrum customers in Kerrville experience internet outage DailyTimes.com</description>
-      <pubDate>Sat, 26 Sep 2026 09:50:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-26T09:50:28.686015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T16:46:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Eagle Mountain residents react after internet outage over the weekend - abc4.com</title>
+      <title>[性能・障害] Eagle Mountain residents react after internet outage over the weekend - ABC4 Utah</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkdZYVRtOFhXUHpRNXB4MW5wT2FzeWdseXI4WmhiM3dsT19ZZDZ6dzVQTkNnRFlXMm9NYXhmZ0lzYzRldHNOUHYtMDBzb3U0Y3BLSUNxNTl2MjlOZHVFQzdEMUs4UTAtU3l1b2VrRjBWNmdJSnVqYnVFRDlzTnlLcE1IWWRBbFNka0pKVkxoQjhhMG5mVldQMGRBalE3djBqQUc3YnBYdXZRZw?oc=5</link>
       <guid isPermaLink="false">0bda07b43425c2091846433b</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-22 08:57
-Eagle Mountain residents react after internet outage over the weekend abc4.com</description>
+Eagle Mountain residents react after internet outage over the weekend ABC4 Utah</description>
       <pubDate>Sat, 26 Sep 2026 09:50:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-26T09:50:28.686015Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-21T23:57:27Z</sqm:sourcePublishedDate>

@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-27T23:57:30.955156Z",
+  "generated_at": "2026-09-28T05:18:26.185502Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 6,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "376c9ad6c884926aa58a4331",
+      "title": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTZBX0FYaDRsVDZWYlpfMWNwT2M1eEktaGJDb2NWbEE4ZmdUeklYZlZ5cTBmRlNIdVdMMV9ZeVo2Y1drdE1KWGtndVNYTmpDeUpRbE95bTZmR083VjlOajBoYWJpaGhocmJRc3dNa29rZ3NyRGZEcUQwSzIzRzRuaEJtX1pGZk1FUFHSAY8BQVVfeXFMTnY0NjVmVDhfcllRbzZXMUttU1pSdHZzb2xvdU9Idl9wQXVHZFdhVC1qaFQ5ZGJiNnZFVHhKenBzVnRTRjdqQnJuZ1k3UnhtU1MtcVowZVFwbmNQbE5VR05Id3RaZmp3d25Cd3NHWUtETHFFeDVZZVFoaEtsc3NQdS1vaV9lYTM1V0FnbEFxZVU?oc=5",
+      "summary": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers.com",
+      "published_at": "2026-09-24T10:21:04Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 17
+    },
+    {
+      "id": "c6661d2a71ec3bd32c36df9d",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbGlqT2ZmN1huUTM1Si1heHZNMFZQYURqTDBBQjUyT3hXMlRxbWtUYkUzaWRIVC1LeWZPN2xRX3hzWHZ5aWc0LWFiRXNiTDVnWnFzSg?oc=5",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ASCII.jp",
+      "published_at": "2026-09-28T05:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "173d0691eedd4db3042fcbc3",
       "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews",
@@ -43,9 +65,9 @@
     },
     {
       "id": "c2be6702fa029599abf42136",
-      "title": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 - itmedia.co.jp",
+      "title": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 - ITmedia",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Mm5Yc3VSN21Xbk5CT3VIelpJNlRMWFNvbGdmaTRqM2J4WGRqOWpWbUgzSENHbTU4RmZRelRNZURlRDFkWjZ6Y0hrd2JLTzJPNWtLVjlIeWZHQjkwN1NTeXJlQ2VQS1J6NHBWajFsWDBVQmx6?oc=5",
-      "summary": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 itmedia.co.jp",
+      "summary": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 ITmedia",
       "published_at": "2026-09-22T22:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
