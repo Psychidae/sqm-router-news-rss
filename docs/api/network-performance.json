@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-28T19:39:13.313473Z",
+  "generated_at": "2026-09-28T23:55:53.896234Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,25 +10,14 @@
   "items": [
     {
       "id": "6b1608ce111911a806266c41",
-      "title": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net",
+      "title": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - voicepk.net",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5",
-      "summary": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net",
+      "summary": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi voicepk.net",
       "published_at": "2026-09-26T12:06:35Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "b0fbc42837480aec355b8ed1",
-      "title": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? - NJ.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZYLXNCQTdsTjMwVlBSUWJhVjB6MjhlaW56Sk5wZ2JHeWNCbi1vVHAwTzQ2YkhYX0toZkVfQV9HdkVFemdmRnNzNnhMTXR1ZWdMSTZDQXZZVXVHWDN6TW16X1VGOU5HcGxCWEFJX1JqTWF5WDh0VWVEcG9JOHd1YkxYTmhETmhCNGVQU2dDTk9MWXlERG12SWxZS0pXVFZOV1hsUXUtWmNFT3lyWjRlblBreF9lcG_SAcsBQVVfeXFMTjlmeDJjZDJqV1lNSUNjTUFzdll6ellJZDIzR3JRSUw1c3B0TFVndk9fOTNYRGVfdkoxek90U0ZlTzg2OE52Q1FOM3hhN1BnSGpadmtnVXNvRnhGeENHMVdpbUZEb291SEduUlR0R0tqeUgycVhJN3FaczVMZjFJVzdueG9NZ0FfSEhCU2dQRW1hTlRFbFQwM2wxTU5TM0psbHZDSXotZTBZUURxRksyMXkyNnluUngyQVZLbzI2VWpzMEVQZldyNVRfSTg?oc=5",
-      "summary": "These 10 states lead the U.S. in internet outage searches: Did yours make the list? NJ.com",
-      "published_at": "2026-09-25T18:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "4d8a154805a6a3f8f8b457bc",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uakNZY2NCRDhXVVo3LWIwVGduWEozcEdYc3VqY18xa1g0VlhBQTBZR09BV1hyWWRhaEFYZXl6aDB3UWQ2S1ZHaS1nV1MybUdTbG11NTVjNVRQS3o3bmlxa0Q0MnBZQTFLT04td1lvQVRKUQ?oc=5",
       "summary": "【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless",
       "published_at": "2026-09-23T05:34:48Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "f22d41170e7f6e5b3220ffa7",
+      "title": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - nikkei.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5",
+      "summary": "ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 nikkei.com",
+      "published_at": "2026-09-22T01:21:45Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

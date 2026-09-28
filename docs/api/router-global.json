@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-09-28T19:39:11.134086Z",
+  "generated_at": "2026-09-28T23:55:51.760066Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,10 +31,10 @@
       "score": 17
     },
     {
-      "id": "60f60a6c5f2c4f9137bbf48a",
-      "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - au.pcmag.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01kUFp4RlRrUC1neVNlbXdya09BTk9aWUNGR1U3MTFka3VCOWRfdmQtc09WckJacmtLeXlMM3djRTJJMm5rYWVTZ1VMMk0wd0MwQjJfM0FxaWVrajBzYXJSWEJpREhNRV9NY29EWXpMSXp4eDQ3RkdsdXNUNUc5bUdyV0VWUkx4Wk1CVHIxeEJ5ZEVFbzcxTnV1eHRtNzMyU0NuZkN5bVo4b2lCRFp0Q09TVzdFOHpkajIyLVNkbnQ5M1ViY19r?oc=5",
-      "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics au.pcmag.com",
+      "id": "a333c1249098d761787d8f50",
+      "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - PCMag UK",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZW94N1dfbm02YWN3bktOZGU1eDZuUXU1V1hjSmZ1bUh0MmFWZ1FvMi02WFF2X1ViRE45d0Q1WFp1UkZXUHhOcVo5YXRYdnJXQm5ObDItNVBJZ0Z2dF9UTVFEY1N1VmstQ19HSWIzRWJjbkRmeFBfQWh6Qk5NUXhQQmc5UUxfZXI1QlZwTEIwRC1URlk2WmdHNVZSVVhoaWx5WnZUeU14T0lDck85cXlXU0x2ajZWOXM4aDRSVFJTNFFRNEFtYy1J?oc=5",
+      "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics PCMag UK",
       "published_at": "2026-09-28T18:28:36Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
@@ -98,9 +98,9 @@
     },
     {
       "id": "9b3312623dbb6c9abb3fa1f1",
-      "title": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN - digitalreviews.net",
+      "title": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN - Digital Reviews Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUTVVR2hFM2VOdFo3U3hIdXlYNTBRVDBzSGRpWm43TTF4RkVvaF9MMlN1eGVhWV96UGFrWGZ4dEI2clhMcnM2dFZLMHdhTmJNN0dCaTlDR29Fa3FmNlBIMFREOHFqaURvbzNNSmRKZkswMmtyMUFjTXFjSHN3MWo3b2pDQ1Vfa1NCNGthTFNUVGNfVTRKUURJYVpMbHBZbXlUOXNjdw?oc=5",
-      "summary": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN digitalreviews.net",
+      "summary": "ExpressVPN Fortify Review: OpenWrt Power Meets Easy VPN Digital Reviews Network",
       "published_at": "2026-09-22T22:46:20Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -116,7 +116,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     }
   ]
 }
