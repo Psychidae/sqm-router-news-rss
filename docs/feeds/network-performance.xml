@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:39:58 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - voicepk.net</title>
+      <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlppSE1jV2U1Sjlmc3BBc0ZEem9kODJWNWFCVjE2V0IyQW1BcmQxOTFGZXJZS0tYemRiRzBHVTVsblpYTEJXZmJPeURhTEViMUdOUEF2UVdyaFc4YnBYcXdEV3dZNWVsZVc5MXZ0bXJheDUyY1dKWkFJR2EwbXFWNUVOZzRVcmhzWHhCM0JZYjNFa01aUUNIRzlXMVVxcmQxaHlUV3JB?oc=5</link>
+      <guid isPermaLink="false">c3d64768f821d6dc049ed118</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-29 06:17
+Improving Lambda function latency with scalable network bandwidth Amazon Web Services (AWS)</description>
+      <pubDate>Tue, 29 Sep 2026 05:39:58 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-29T05:39:58.761473Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-28T21:17:09Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5</link>
       <guid isPermaLink="false">6b1608ce111911a806266c41</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-26 21:06
-Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi voicepk.net</description>
+Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net</description>
       <pubDate>Sun, 27 Sep 2026 01:47:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-27T01:47:16.339193Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-26T12:06:35Z</sqm:sourcePublishedDate>
@@ -36,20 +50,6 @@ Spectrum customers in Kerrville experience internet outage DailyTimes.com</descr
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Eagle Mountain residents react after internet outage over the weekend - ABC4 Utah</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkdZYVRtOFhXUHpRNXB4MW5wT2FzeWdseXI4WmhiM3dsT19ZZDZ6dzVQTkNnRFlXMm9NYXhmZ0lzYzRldHNOUHYtMDBzb3U0Y3BLSUNxNTl2MjlOZHVFQzdEMUs4UTAtU3l1b2VrRjBWNmdJSnVqYnVFRDlzTnlLcE1IWWRBbFNka0pKVkxoQjhhMG5mVldQMGRBalE3djBqQUc3YnBYdXZRZw?oc=5</link>
-      <guid isPermaLink="false">0bda07b43425c2091846433b</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-22 08:57
-Eagle Mountain residents react after internet outage over the weekend ABC4 Utah</description>
-      <pubDate>Sat, 26 Sep 2026 09:50:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-26T09:50:28.686015Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-21T23:57:27Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
       <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
@@ -64,13 +64,13 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース</title>
+      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5</link>
       <guid isPermaLink="false">dac40e126ebc9d0485fcd57b</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 20:06
-となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース</description>
+となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T11:06:01Z</sqm:sourcePublishedDate>
@@ -130,20 +130,6 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <pubDate>Mon, 28 Sep 2026 19:39:13 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T19:39:13.311595Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T05:34:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 - nikkei.com</title>
-      <link>https://news.google.com/rss/articles/CBMibEFVX3lxTE5BV0lja0dnNDZST3k4Z1d2aGMxZjdYQ2hyaWdjMWR4bnJnSk9aSENyNmk3ODl4U1lZOE5jdFJGVUE4RTJNV29hNWpVOHl4ckVJaGExRDEwVVdEVEJha1liRWlNdGNuemZZa1lIYQ?oc=5</link>
-      <guid isPermaLink="false">f22d41170e7f6e5b3220ffa7</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-22 10:21
-ニューヨーク周辺の空港、通信障害で一時混乱 光回線を誤って切断 nikkei.com</description>
-      <pubDate>Mon, 28 Sep 2026 23:55:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-28T23:55:53.895264Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-22T01:21:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

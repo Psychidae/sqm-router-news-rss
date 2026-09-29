@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-28T23:55:52.877437Z",
+  "generated_at": "2026-09-29T05:39:57.620981Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -21,21 +21,10 @@
     },
     {
       "id": "97a530907c4c04831302ca05",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - Yahoo!ニュース",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - news.yahoo.co.jp",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1XWFlWZi1rVUdab01GNGNOVFE4UmpyZVFPTDRMVnJyRGQ4S28wS1liUWJWMWdEVUFCV2ZQcVB3MzBDYndsMXNOdUU4X0pJQVUwTVVJY0pzaklxdDZkMnNfVUpsd2d3X1BwUHJyTXJNV0U1X1k0U01JbWFVSmdmdjJvTlQybWRuMjBYNGdR?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) Yahoo!ニュース",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) news.yahoo.co.jp",
       "published_at": "2026-09-28T06:16:29Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "74bdbca1a6270147d69788c2",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を（アスキー） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzQUZUYVd5MUpiTTdBd0N5VktjRXI5M01aZHZsSTZIRWZ1ellGakVfdEw1OWxURG9UNjZBVGlZdEhJdWNCeEpXZWR3VlJReHU1NVJnTWZJVVBxc0ZFQjQyYUUzd2FoaVJkUkptWWhEaGpWaVdNcFlLeDlvVE1BM0k?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を（アスキー） Yahoo!ニュース",
-      "published_at": "2026-09-28T05:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -50,7 +39,18 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "c6661d2a71ec3bd32c36df9d",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbGlqT2ZmN1huUTM1Si1heHZNMFZQYURqTDBBQjUyT3hXMlRxbWtUYkUzaWRIVC1LeWZPN2xRX3hzWHZ5aWc0LWFiRXNiTDVnWnFzSg?oc=5",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ASCII.jp",
+      "published_at": "2026-09-28T05:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
     },
     {
       "id": "173d0691eedd4db3042fcbc3",
@@ -87,9 +87,9 @@
     },
     {
       "id": "c2be6702fa029599abf42136",
-      "title": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 - ITmedia",
+      "title": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 - itmedia.co.jp",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Mm5Yc3VSN21Xbk5CT3VIelpJNlRMWFNvbGdmaTRqM2J4WGRqOWpWbUgzSENHbTU4RmZRelRNZURlRDFkWjZ6Y0hrd2JLTzJPNWtLVjlIeWZHQjkwN1NTeXJlQ2VQS1J6NHBWajFsWDBVQmx6?oc=5",
-      "summary": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 ITmedia",
+      "summary": "ClickFixからホテルWi-Fiの異変まで 2026年度上期セキュリティ記事トップ5 itmedia.co.jp",
       "published_at": "2026-09-22T22:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -97,26 +97,26 @@
       "score": 11
     },
     {
-      "id": "3759b0bc75de3d11dded0a71",
-      "title": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZXQ3ejZBT25JRm9JVV9RX3EtLTVBZFczU1JsX1QtQnNfR0hkVG5SS1VoMFV4NGNqTkF0QmVITU12VnQxd1JrQW9jV000RWw1QlR3YU5BT1lTeFFvVU5wTXJqVjlhWnAyS19j?oc=5",
-      "summary": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 INTERNET Watch",
-      "published_at": "2026-09-28T21:15:00Z",
+      "id": "fca098a650283ec1a3481207",
+      "title": "「量子コンピュータと人工知能（AI）の発展でサイバー攻撃も進化しています。 25年間蓄積したネットワークセキュリティ技術に量子·AI·ゼロトラストを結合し、セキュリティ技術を引き上げます」KXNEXG.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLejZuV2c5bkp5UjVSZHh1REpBR3JwZUVEYWNMS3J6blNReGNDY1hpdzlfMURIb3ZZbS1CeEl5ZUg1aW9Fa25nSlFtd2E5blBySE04?oc=5",
+      "summary": "「量子コンピュータと人工知能（AI）の発展でサイバー攻撃も進化しています。 25年間蓄積したネットワークセキュリティ技術に量子·AI·ゼロトラストを結合し、セキュリティ技術を引き上げます」KXNEXG.. 매일경제",
+      "published_at": "2026-09-29T05:24:14Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 8
     },
     {
-      "id": "0d2879e1df8be324993d045d",
-      "title": "Critical CVE-2026-85102: Active Exploit in Spark Firewalls - SecNews.gr",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jdUV2eGt4VG16LTNmNV9wbFlYSjNHN2xJU2djOGxTN1pRSjBxME9ucVlXcVNDVDhTVEVxTDJ4VnNSNXo5R2I5MEh0c2EtWmtTTTR0THNiWjJxSnp3SVh0eDhDLWpxVktqc3JoN1dFcEp1Zw?oc=5",
-      "summary": "Critical CVE-2026-85102: Active Exploit in Spark Firewalls SecNews.gr",
-      "published_at": "2026-09-23T22:40:01Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "f9ca7ed0cdc9b3ac3457138a",
+      "title": "アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xanh4NjI5Wkoyb0xnc2JEZk9IenRzYmUzc1p5UW9Jc2xKTFdYNG1rMHVOZjl6TjlPQThRdWVtQmxqSE9LQjY2YlR1aHNrR19XcndDOA?oc=5",
+      "summary": "アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を ASCII.jp",
+      "published_at": "2026-09-29T03:05:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 7
+      "score": 8
     }
   ]
 }
