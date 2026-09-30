@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:45:08 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
@@ -22,13 +22,13 @@ Improving Lambda function latency with scalable network bandwidth Amazon Web Ser
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net</title>
+      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - voicepk.net</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5</link>
       <guid isPermaLink="false">6b1608ce111911a806266c41</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-26 21:06
-Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net</description>
+Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi voicepk.net</description>
       <pubDate>Sun, 27 Sep 2026 01:47:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-27T01:47:16.339193Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-26T12:06:35Z</sqm:sourcePublishedDate>
@@ -78,13 +78,13 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp</title>
+      <title>[性能・障害] となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5</link>
       <guid isPermaLink="false">dac40e126ebc9d0485fcd57b</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-23 20:06
-となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp</description>
+となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース</description>
       <pubDate>Wed, 23 Sep 2026 12:08:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-23T12:08:54.804293Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T11:06:01Z</sqm:sourcePublishedDate>

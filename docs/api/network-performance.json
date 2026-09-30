@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-29T21:23:10.720182Z",
+  "generated_at": "2026-09-30T00:45:08.064282Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "6b1608ce111911a806266c41",
-      "title": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net",
+      "title": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - voicepk.net",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5",
-      "summary": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net",
+      "summary": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi voicepk.net",
       "published_at": "2026-09-26T12:06:35Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -65,9 +65,9 @@
     },
     {
       "id": "dac40e126ebc9d0485fcd57b",
-      "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - news.yahoo.co.jp",
+      "title": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42STc2ZExEU0lQZjI5eTI0bTNXMFJadVIteUVpZ1VXNlp0Yjl3Y0h3LTBfQjhqc2tGNk53eWFYSXFwUGVkbl96cVFrZWw3VnlQdzliUm9ZaXQ0SGdCNkh2OE5lZFlpZTN6cm9odERwLUdVWnVqMjlTaWNNWGFzT2c?oc=5",
-      "summary": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） news.yahoo.co.jp",
+      "summary": "となみ衛星通信テレビのインターネット回線で一時通信障害発生…「JCOM」サーバートラブルが原因（富山テレビ） Yahoo!ニュース",
       "published_at": "2026-09-23T11:06:01Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
