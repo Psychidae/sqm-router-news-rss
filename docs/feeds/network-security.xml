@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:29:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:07:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com</title>
@@ -22,16 +22,16 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ga21SSXNQZDZjMW9yNS01RlZBV05XSVIxLVFJdWVjOGtCbHRkQmEyX0k5d0VMU25lODlNY1Fvc0g1SEEzN0lhaUNMUlg2dXFCZUNFYlBOb3ZuenpfV1hsTHpOMEVCNzJyYU5rZm1XRTdLM2NZbnpWLTJuWQ?oc=5</link>
-      <guid isPermaLink="false">17bd7ff3a63a5ef646af79d8</guid>
+      <title>[セキュリティ] 【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G KIT」 10月29日に販売開始 - techno-edge.net</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9LeEtmZlNCU251bnlObENlamJWWVZFR2liMk5Ra3ltQ2Q0aXhTOWZvVmQwRnIxWnYzb0kzM3hwSjlWM002T2pYVm1UR1ZoZGxfX3ItTzBVQjRjZDN5LUFTQ09reGxmMHRFWXl6S1BEbWRadw?oc=5</link>
+      <guid isPermaLink="false">2d989b49d5ddbd074c71c257</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-09-30 19:15
-【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G ニコニコニュース</description>
-      <pubDate>Wed, 30 Sep 2026 12:29:16 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-30T12:29:16.402289Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-30T10:15:42Z</sqm:sourcePublishedDate>
+元記事日付: 2026-09-30 11:00
+【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G KIT」 10月29日に販売開始 techno-edge.net</description>
+      <pubDate>Wed, 30 Sep 2026 18:07:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-30T18:07:12.248020Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-30T02:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -64,13 +64,13 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek</title>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - news.infoseek.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5</link>
       <guid isPermaLink="false">b124df41bf09cffa43608834</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek</description>
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を news.infoseek.co.jp</description>
       <pubDate>Mon, 28 Sep 2026 23:55:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T23:55:52.876468Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>

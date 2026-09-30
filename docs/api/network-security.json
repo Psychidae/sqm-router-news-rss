@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-30T12:29:16.403285Z",
+  "generated_at": "2026-09-30T18:07:12.248731Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -20,11 +20,11 @@
       "score": 17
     },
     {
-      "id": "17bd7ff3a63a5ef646af79d8",
-      "title": "【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ga21SSXNQZDZjMW9yNS01RlZBV05XSVIxLVFJdWVjOGtCbHRkQmEyX0k5d0VMU25lODlNY1Fvc0g1SEEzN0lhaUNMUlg2dXFCZUNFYlBOb3ZuenpfV1hsTHpOMEVCNzJyYU5rZm1XRTdLM2NZbnpWLTJuWQ?oc=5",
-      "summary": "【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G ニコニコニュース",
-      "published_at": "2026-09-30T10:15:42Z",
+      "id": "2d989b49d5ddbd074c71c257",
+      "title": "【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G KIT」 10月29日に販売開始 - techno-edge.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LeEtmZlNCU251bnlObENlamJWWVZFR2liMk5Ra3ltQ2Q0aXhTOWZvVmQwRnIxWnYzb0kzM3hwSjlWM002T2pYVm1UR1ZoZGxfX3ItTzBVQjRjZDN5LUFTQ09reGxmMHRFWXl6S1BEbWRadw?oc=5",
+      "summary": "【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G KIT」 10月29日に販売開始 techno-edge.net",
+      "published_at": "2026-09-30T02:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -54,9 +54,9 @@
     },
     {
       "id": "b124df41bf09cffa43608834",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - news.infoseek.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を news.infoseek.co.jp",
       "published_at": "2026-09-28T05:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
