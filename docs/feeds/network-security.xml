@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:59:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:29:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com</title>
@@ -19,6 +19,20 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
       <sqm:firstSeenDate>2026-09-28T05:18:26.184537Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-24T10:21:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ga21SSXNQZDZjMW9yNS01RlZBV05XSVIxLVFJdWVjOGtCbHRkQmEyX0k5d0VMU25lODlNY1Fvc0g1SEEzN0lhaUNMUlg2dXFCZUNFYlBOb3ZuenpfV1hsTHpOMEVCNzJyYU5rZm1XRTdLM2NZbnpWLTJuWQ?oc=5</link>
+      <guid isPermaLink="false">17bd7ff3a63a5ef646af79d8</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-30 19:15
+【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G ニコニコニュース</description>
+      <pubDate>Wed, 30 Sep 2026 12:29:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-30T12:29:16.402289Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-30T10:15:42Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -50,20 +64,6 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbGlqT2ZmN1huUTM1Si1heHZNMFZQYURqTDBBQjUyT3hXMlRxbWtUYkUzaWRIVC1LeWZPN2xRX3hzWHZ5aWc0LWFiRXNiTDVnWnFzSg?oc=5</link>
-      <guid isPermaLink="false">c6661d2a71ec3bd32c36df9d</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ASCII.jp</description>
-      <pubDate>Tue, 29 Sep 2026 05:39:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-29T05:39:57.620187Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5</link>
       <guid isPermaLink="false">b124df41bf09cffa43608834</guid>
@@ -73,6 +73,20 @@ Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers
 バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek</description>
       <pubDate>Mon, 28 Sep 2026 23:55:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T23:55:52.876468Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TbGlqT2ZmN1huUTM1Si1heHZNMFZQYURqTDBBQjUyT3hXMlRxbWtUYkUzaWRIVC1LeWZPN2xRX3hzWHZ5aWc0LWFiRXNiTDVnWnFzSg?oc=5</link>
+      <guid isPermaLink="false">c6661d2a71ec3bd32c36df9d</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-28 14:00
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を ASCII.jp</description>
+      <pubDate>Tue, 29 Sep 2026 05:39:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-29T05:39:57.620187Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
@@ -106,6 +120,20 @@ Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確�
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] Google Chromeに"重大"な脆弱性 - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtV1YwR2ZFZkFjZDF4NEVhaEl0S3NCOGU4bWFUZ1hIOUIzYUViUHJObmZaVXZYUkFiWnEzZXVNTEhucDNMNEh1QmZ3Wk9LNm9WS3hTUA?oc=5</link>
+      <guid isPermaLink="false">10f8ba5789d9b74df80b91b6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-30 16:50
+Google Chromeに"重大"な脆弱性 ASCII.jp</description>
+      <pubDate>Wed, 30 Sep 2026 12:29:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-30T12:29:16.402289Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-30T07:50:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xanh4NjI5Wkoyb0xnc2JEZk9IenRzYmUzc1p5UW9Jc2xKTFdYNG1rMHVOZjl6TjlPQThRdWVtQmxqSE9LQjY2YlR1aHNrR19XcndDOA?oc=5</link>
       <guid isPermaLink="false">f9ca7ed0cdc9b3ac3457138a</guid>
@@ -117,34 +145,6 @@ Check Point VPNに脆弱性 CVE-2026-85102-サイバー攻撃への悪用を確�
       <sqm:firstSeenDate>2026-09-29T05:39:57.620187Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-29T03:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 - INTERNET Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZXQ3ejZBT25JRm9JVV9RX3EtLTVBZFczU1JsX1QtQnNfR0hkVG5SS1VoMFV4NGNqTkF0QmVITU12VnQxd1JrQW9jV000RWw1QlR3YU5BT1lTeFFvVU5wTXJqVjlhWnAyS19j?oc=5</link>
-      <guid isPermaLink="false">3759b0bc75de3d11dded0a71</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-29 06:15
-バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 INTERNET Watch</description>
-      <pubDate>Wed, 30 Sep 2026 00:45:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-30T00:45:06.962817Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T21:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Critical CVE-2026-85102: Active Exploit in Spark Firewalls - SecNews.gr</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9jdUV2eGt4VG16LTNmNV9wbFlYSjNHN2xJU2djOGxTN1pRSjBxME9ucVlXcVNDVDhTVEVxTDJ4VnNSNXo5R2I5MEh0c2EtWmtTTTR0THNiWjJxSnp3SVh0eDhDLWpxVktqc3JoN1dFcEp1Zw?oc=5</link>
-      <guid isPermaLink="false">0d2879e1df8be324993d045d</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-09-24 07:40
-Critical CVE-2026-85102: Active Exploit in Spark Firewalls SecNews.gr</description>
-      <pubDate>Wed, 30 Sep 2026 05:59:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-30T05:59:29.319901Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T22:40:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
   </channel>
