@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 18:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:12:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - WSLS</title>
@@ -46,20 +46,6 @@ Improving Lambda function latency with scalable network bandwidth Amazon Web Ser
       <pubDate>Tue, 29 Sep 2026 05:39:58 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-29T05:39:58.761473Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T21:17:09Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net</title>
-      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5</link>
-      <guid isPermaLink="false">6b1608ce111911a806266c41</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-26 21:06
-Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net</description>
-      <pubDate>Sun, 27 Sep 2026 01:47:16 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-27T01:47:16.339193Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-26T12:06:35Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

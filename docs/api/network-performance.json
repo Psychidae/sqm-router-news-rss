@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-09-30T18:07:13.570574Z",
+  "generated_at": "2026-09-30T22:12:13.324745Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -40,17 +40,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "6b1608ce111911a806266c41",
-      "title": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5",
-      "summary": "Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net",
-      "published_at": "2026-09-26T12:06:35Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "b0fbc42837480aec355b8ed1",
