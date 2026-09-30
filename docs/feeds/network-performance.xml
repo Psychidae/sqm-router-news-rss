@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 00:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:59:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - WSLS</title>
+      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW9CUFdoQ1M5RVhGWHBLbXFJdXhGU0djLXBWM0JVSnhYNXl0YU5ycVk5UTZFa3ZGUEhXXzZXS0hzLWN3Y2ZSQWt0d1ZQQWxzZGdFYkxrd0YyMXJOcEdpSERvd2paakRYSHJxOWo3TTl5Z2FVQTE4M0VnbWxqd0ZuSEdJQjdKVXI0aWR5UllqRDlhbjltMkFUVVlPRXRtQmVTQU90YWVSeFdaTWhISVdQQjgzSUdrQTA4?oc=5</link>
+      <guid isPermaLink="false">4558b33a02fc63f883dc5ccf</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-30 09:48
+City of Radford experiencing internet outage after possible ‘data incident’ WSLS</description>
+      <pubDate>Wed, 30 Sep 2026 05:59:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-30T05:59:30.335224Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-30T00:48:26Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlppSE1jV2U1Sjlmc3BBc0ZEem9kODJWNWFCVjE2V0IyQW1BcmQxOTFGZXJZS0tYemRiRzBHVTVsblpYTEJXZmJPeURhTEViMUdOUEF2UVdyaFc4YnBYcXdEV3dZNWVsZVc5MXZ0bXJheDUyY1dKWkFJR2EwbXFWNUVOZzRVcmhzWHhCM0JZYjNFa01aUUNIRzlXMVVxcmQxaHlUV3JB?oc=5</link>
@@ -22,13 +36,13 @@ Improving Lambda function latency with scalable network bandwidth Amazon Web Ser
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - voicepk.net</title>
+      <title>[性能・障害] Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi - Voicepk.net</title>
       <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxOY2JsV1RkSE9wSWJ3ZWhGSFVobmFlNEoxNDdhNlo3RDVrV3JYMkdfMzBGYzZ4Z1lBbjg0S1I4TXVLYWxEQ0ZLZWlxVnAxYVNuNXdabnNScUNhSExkSElqLTNFR0ZLdEpsazQ4eURHU2x2U0ZnbWdzSDg0Z3J5MjdPRkpxNGxxZEZWRTZUY1ItX0dybUhZbFptZ3lrRVFWcnhKOE55SWRYMVhxcDdE?oc=5</link>
       <guid isPermaLink="false">6b1608ce111911a806266c41</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-26 21:06
-Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi voicepk.net</description>
+Internet outage at Adiala Jail prevents video link appearance of Imaan and Hadi Voicepk.net</description>
       <pubDate>Sun, 27 Sep 2026 01:47:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-27T01:47:16.339193Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-26T12:06:35Z</sqm:sourcePublishedDate>
@@ -116,34 +130,6 @@ JCOMのインターネット接続サービスで23日午前から通信障害�
       <pubDate>Mon, 28 Sep 2026 11:58:51 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T11:58:51.565883Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-23T09:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 - FNNプライムオンライン</title>
-      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UT250LXpidEZfNzlOS0VsYndtc2hIWTd2MGJqME9laHdpaUNzanBFOE00OVZYeFRFNlYxc0R6aFA2ekhlZ0hfWUpMaFFKZw?oc=5</link>
-      <guid isPermaLink="false">d59952ecf495aac6d7b222a4</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-23 14:46
-【続報】「JCOM」のインターネットサービスで大規模通信障害 ネットにつながらず…全国で影響か 提供事業者「外部からの攻撃」表記は削除 FNNプライムオンライン</description>
-      <pubDate>Mon, 28 Sep 2026 19:39:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-28T19:39:13.311595Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T05:46:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE1uakNZY2NCRDhXVVo3LWIwVGduWEozcEdYc3VqY18xa1g0VlhBQTBZR09BV1hyWWRhaEFYZXl6aDB3UWQ2S1ZHaS1nV1MybUdTbG11NTVjNVRQS3o3bmlxa0Q0MnBZQTFLT04td1lvQVRKUQ?oc=5</link>
-      <guid isPermaLink="false">53946e0bf9df1a031f2fa57f</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-23 14:34
-【復旧】各地のCATVでインターネット/メールに障害が発生中、JCOMの通信障害に起因（2026/09/23） 24Wireless</description>
-      <pubDate>Tue, 29 Sep 2026 21:23:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-29T21:23:10.719159Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-23T05:34:48Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

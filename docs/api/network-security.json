@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-09-30T00:45:06.963795Z",
+  "generated_at": "2026-09-30T05:59:29.320949Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -86,17 +86,6 @@
       "score": 11
     },
     {
-      "id": "d07f415fb97fb8c33dbc8c89",
-      "title": "「量子コンピュータと人工知能(AI)の発展でサイバー攻撃が進化しています。 25年間蓄積したネットワークセキュリティ技術に量子·AI·ゼロトラストを結合し、セキュリティ技術を引き上げます。」 KXNE.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZWm9TUXpfSWRzTmpCSzdHNVV1YUhDTlcwRWpNNFIwdWtNOVcyYlh1TThFZGdmdWpvcFNmT3NoTTh6b1FsQzQxZmprMWIwN2hLQ1A0?oc=5",
-      "summary": "「量子コンピュータと人工知能(AI)の発展でサイバー攻撃が進化しています。 25年間蓄積したネットワークセキュリティ技術に量子·AI·ゼロトラストを結合し、セキュリティ技術を引き上げます。」 KXNE.. 매일경제",
-      "published_at": "2026-09-29T08:01:42Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
       "id": "f9ca7ed0cdc9b3ac3457138a",
       "title": "アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xanh4NjI5Wkoyb0xnc2JEZk9IenRzYmUzc1p5UW9Jc2xKTFdYNG1rMHVOZjl6TjlPQThRdWVtQmxqSE9LQjY2YlR1aHNrR19XcndDOA?oc=5",
@@ -105,7 +94,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "3759b0bc75de3d11dded0a71",
@@ -115,6 +104,17 @@
       "published_at": "2026-09-28T21:15:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "0d2879e1df8be324993d045d",
+      "title": "Critical CVE-2026-85102: Active Exploit in Spark Firewalls - SecNews.gr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jdUV2eGt4VG16LTNmNV9wbFlYSjNHN2xJU2djOGxTN1pRSjBxME9ucVlXcVNDVDhTVEVxTDJ4VnNSNXo5R2I5MEh0c2EtWmtTTTR0THNiWjJxSnp3SVh0eDhDLWpxVktqc3JoN1dFcEp1Zw?oc=5",
+      "summary": "Critical CVE-2026-85102: Active Exploit in Spark Firewalls SecNews.gr",
+      "published_at": "2026-09-23T22:40:01Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 7
     }
