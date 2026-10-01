@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-01T07:12:12.602030Z",
+  "generated_at": "2026-10-01T14:25:56.026513Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "376c9ad6c884926aa58a4331",
-      "title": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks - gbhackers.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTZBX0FYaDRsVDZWYlpfMWNwT2M1eEktaGJDb2NWbEE4ZmdUeklYZlZ5cTBmRlNIdVdMMV9ZeVo2Y1drdE1KWGtndVNYTmpDeUpRbE95bTZmR083VjlOajBoYWJpaGhocmJRc3dNa29rZ3NyRGZEcUQwSzIzRzRuaEJtX1pGZk1FUFHSAY8BQVVfeXFMTnY0NjVmVDhfcllRbzZXMUttU1pSdHZzb2xvdU9Idl9wQXVHZFdhVC1qaFQ5ZGJiNnZFVHhKenBzVnRTRjdqQnJuZ1k3UnhtU1MtcVowZVFwbmNQbE5VR05Id3RaZmp3d25Cd3NHWUtETHFFeDVZZVFoaEtsc3NQdS1vaV9lYTM1V0FnbEFxZVU?oc=5",
-      "summary": "Hackers Exploit Check Point VPN RCE and Management Zero-Day in Attacks gbhackers.com",
-      "published_at": "2026-09-24T10:21:04Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 17
-    },
     {
       "id": "17bd7ff3a63a5ef646af79d8",
       "title": "【Wi-Fi＆電源がない場所も見守り！】Tapoシリーズ初の4G LTE対応セキュリティカメラ「Tapo C665G - ニコニコニュース",
@@ -28,7 +17,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "70f8c0a12dda2fb2794192b7",
@@ -38,17 +27,6 @@
       "published_at": "2026-09-29T07:34:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "173d0691eedd4db3042fcbc3",
-      "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login - CyberSecurityNews",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWZaUTJNaUZzeDI1U3JHYV9CeHA5b1ptMDBnbDdzM2NkNFpjdkhYWUVZX0tUbXAwYld4akNrQ2RweTlIaTBqNGx3dk9yQWhLaFQ5c1RDOEp5dEVJZ21ObTZzcVBUYWVMMWc3emJZNHo2S3lBX2o2TWJpWTVEd280UGJSVdIBiAFBVV95cUxOWnowZ1hwZkdaM1dMZkxJVWU2Y1dxVlpvd3l2Qmt4NGdqOHF4Zy0zUmlodnVwWFgybDdTMHpRZm1TNG9TbGh2XzR1S05TR2VNcHctT19HZlhFX0x2enNtSlhPYVRFS3RyM1d0UTJfNTdzd3FJcmd6ajFtMUgyMy01UFVCSVVKMkp5?oc=5",
-      "summary": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login CyberSecurityNews",
-      "published_at": "2026-09-24T07:35:19Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 12
     },
@@ -86,11 +64,22 @@
       "score": 11
     },
     {
-      "id": "360088298b4b7a2e968e0fee",
-      "title": "『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLVU8xbHl1OFFLaGF2RHNjVUFLVmpwMmFZQ1hRZjRTSE1FUUpYX091X3JUNDd2R2E3UFpmMHJvaDZsNmlOWXEyWlp1YUxQc2I3NFVQYUc5MHo0M2RDZDRTMW16a1ZkR1RjLWwteThLQl9hU0VDUmx5eA?oc=5",
-      "summary": "『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 RBB TODAY",
-      "published_at": "2026-10-01T02:16:19Z",
+      "id": "d92262e68ce3674b8a3e7fc2",
+      "title": "TP-Link、4G・ソーラー給電・パンチルト対応セキュリティカメラキット「Tapo C665G KIT」 - news.kakaku.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTmQ1dDY5UEpyNVROU1dNOE42N2FNdS1iNFVVN0I2LUJCakZ0TUFnV3EtaUM5Ti01VmZtZHBneVdJeldGV2hOMzdmajd1WHd4ZU9YekNOcVEwdGR4SWtaNmhtUjJDdHNudnRGc0xOYw?oc=5",
+      "summary": "TP-Link、4G・ソーラー給電・パンチルト対応セキュリティカメラキット「Tapo C665G KIT」 news.kakaku.com",
+      "published_at": "2026-10-01T08:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
+      "id": "4dd4b99c8a478dd30eb5d748",
+      "title": "『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UNGdfZldxU1NZOEJaSkxldzJ3enZkVnlpUENybkRRbGpPOV80REZjVFI4UkF4M1JVanVsWWVjSWFPWG9QWlItRnhlYnBXTHc0NHdSQVh1aFZHRVIxNlQ3NjFPYlVwQk5KeGcyeW8tRkd2UQ?oc=5",
+      "summary": "『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 Infoseek",
+      "published_at": "2026-10-01T00:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -105,7 +94,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "f9ca7ed0cdc9b3ac3457138a",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xanh4NjI5Wkoyb0xnc2JEZk9IenRzYmUzc1p5UW9Jc2xKTFdYNG1rMHVOZjl6TjlPQThRdWVtQmxqSE9LQjY2YlR1aHNrR19XcndDOA?oc=5",
       "summary": "アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を ASCII.jp",
       "published_at": "2026-09-29T03:05:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "46d94829f7340968da8f0fb6",
+      "title": "両毛システムズのランサムウェアによるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市3,789件・名張近鉄ガス約6,800件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObV9tYVRTWURxYklXWGNXYjRseHhaSlY5VDVEX211cWRUNVdHMktiTjROOTFiVnlFdjhhQ0FSRGc3dnl0SXYyVC1TMG4tZlpidDNDV3lGR2ZiZ3dfdHNqNzBuMkRQbGlWOHdaZ3FCdHVSNjNlaTBSZFZGeDJnazRjaXZoeUZsTmR0SExCSGlBNXNoTEljOFpPUEhwM1RoYzVBMGtIdFkyRmRhdw?oc=5",
+      "summary": "両毛システムズのランサムウェアによるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市3,789件・名張近鉄ガス約6,800件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-09-28T23:56:50Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
