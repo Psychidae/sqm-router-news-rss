@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 19:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 23:51:59 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Passport Department services affected by internet outage - OnlineKhabar English News</title>
@@ -78,20 +78,6 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlppSE1jV2U1Sjlmc3BBc0ZEem9kODJWNWFCVjE2V0IyQW1BcmQxOTFGZXJZS0tYemRiRzBHVTVsblpYTEJXZmJPeURhTEViMUdOUEF2UVdyaFc4YnBYcXdEV3dZNWVsZVc5MXZ0bXJheDUyY1dKWkFJR2EwbXFWNUVOZzRVcmhzWHhCM0JZYjNFa01aUUNIRzlXMVVxcmQxaHlUV3JB?oc=5</link>
-      <guid isPermaLink="false">c3d64768f821d6dc049ed118</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-29 06:17
-Improving Lambda function latency with scalable network bandwidth Amazon Web Services (AWS)</description>
-      <pubDate>Tue, 29 Sep 2026 05:39:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-29T05:39:58.761473Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T21:17:09Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnNHOEpOZWUwVlVqNlBZNmh6QUZydG5USlJKSlVycWxteGRTNHBiVk44cHljc0RJaFBiNDVVTENGaFlvb0xqLUoxM0ttQWV6TVY4aTZ1VDJuX1NBQm9FMlNZMVM3MFB3TllSTkxtU0FvZFQ2UDlILU1QSlV3Zmc0MUNYTGIybG93S2dtQU81U3dTYl9SYlFsbDdsRDh3YVdtYUZ6Um1JNko?oc=5</link>
       <guid isPermaLink="false">fcafe69c9efdda212729f8ef</guid>
@@ -117,6 +103,20 @@ Improving Lambda function latency with scalable network bandwidth Amazon Web Ser
       <sqm:firstSeenDate>2026-10-01T14:25:57.538254Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-30T09:23:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlppSE1jV2U1Sjlmc3BBc0ZEem9kODJWNWFCVjE2V0IyQW1BcmQxOTFGZXJZS0tYemRiRzBHVTVsblpYTEJXZmJPeURhTEViMUdOUEF2UVdyaFc4YnBYcXdEV3dZNWVsZVc5MXZ0bXJheDUyY1dKWkFJR2EwbXFWNUVOZzRVcmhzWHhCM0JZYjNFa01aUUNIRzlXMVVxcmQxaHlUV3JB?oc=5</link>
+      <guid isPermaLink="false">c3d64768f821d6dc049ed118</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-09-29 06:17
+Improving Lambda function latency with scalable network bandwidth Amazon Web Services (AWS)</description>
+      <pubDate>Tue, 29 Sep 2026 05:39:58 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-29T05:39:58.761473Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-28T21:17:09Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
