@@ -5,8 +5,36 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:12:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlRMmRXUE04Rk1sQkVTN1dPMUg4aXFhRU5WaTdrYUVWWVA1Q1BzRXY0Y2tQUUJDdllScVV0WHNOaUtVbm5ubm5Kak1HSTF4RDFhTl9nekhBSmhJX19hcHlQeDRycjVxNUZRMkp6NzlxZ1JDMXVhczJya0JKY05wNzJyTUpkVkhNVExhRzFTRDFKU1VId2FqQkR2RQ?oc=5</link>
+      <guid isPermaLink="false">413526641f056831ec9cd918</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-01 12:01
+ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 Vietnam.vn</description>
+      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-01T03:01:39Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ハノイはインターネットインフラのIPv6への移行を加速させている。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE8za2dUSDB0bEpZU0RPUTBpXzM5SlU2VjRIZm5KbUMwcmRCeFpWVFVuakJlQnZSV240ZlQyVGVnelROeExrSm5HbVBleG55TzY1SXZKUGJ1b3ZGdDZsSGgtU2hLUkduOHRvd1RqRFloaTVhSlIxb0I4WVNWMmhDeXBJQzh3dw?oc=5</link>
+      <guid isPermaLink="false">92fcce23e32729ed3318dc70</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-01 10:40
+ハノイはインターネットインフラのIPv6への移行を加速させている。 Vietnam.vn</description>
+      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-01T01:40:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnNHOEpOZWUwVlVqNlBZNmh6QUZydG5USlJKSlVycWxteGRTNHBiVk44cHljc0RJaFBiNDVVTENGaFlvb0xqLUoxM0ttQWV6TVY4aTZ1VDJuX1NBQm9FMlNZMVM3MFB3TllSTkxtU0FvZFQ2UDlILU1QSlV3Zmc0MUNYTGIybG93S2dtQU81U3dTYl9SYlFsbDdsRDh3YVdtYUZ6Um1JNko?oc=5</link>
@@ -22,13 +50,13 @@
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - wsls.com</title>
+      <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - WSLS</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW9CUFdoQ1M5RVhGWHBLbXFJdXhGU0djLXBWM0JVSnhYNXl0YU5ycVk5UTZFa3ZGUEhXXzZXS0hzLWN3Y2ZSQWt0d1ZQQWxzZGdFYkxrd0YyMXJOcEdpSERvd2paakRYSHJxOWo3TTl5Z2FVQTE4M0VnbWxqd0ZuSEdJQjdKVXI0aWR5UllqRDlhbjltMkFUVVlPRXRtQmVTQU90YWVSeFdaTWhISVdQQjgzSUdrQTA4?oc=5</link>
       <guid isPermaLink="false">4558b33a02fc63f883dc5ccf</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-30 09:49
-City of Radford experiencing internet outage after possible ‘data incident’ wsls.com</description>
+City of Radford experiencing internet outage after possible ‘data incident’ WSLS</description>
       <pubDate>Wed, 30 Sep 2026 05:59:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-30T05:59:30.335224Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-30T00:49:34Z</sqm:sourcePublishedDate>
