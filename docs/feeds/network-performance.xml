@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 23:51:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:31:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Radford internet outage follows possible data incident, investigators involved - wdbj7.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPQW9OTDl1M0xfRGo4VFNkeFN4eWszOU5XQkRYdUdZeDFHaDF2WmVWaFpzaHdzaVFhN0l0YzJZSzd6Um9VcmxvSUR3U0xzVVdPX01HQ0NrWkpWdTRRTHRaQUw2WWpfekNjV2RiU1JCTFJwUXFOa2FXcDlEQ3A4dlp1T2xtemY2VXo4UVVhWmlud0tMVTNjYm9oMFVudTNMTFJGbUZ4b2d5dURSQ21CS1NLb9IBxAFBVV95cUxNejY0M0ozR3hHNlg0Y0xhcDZ5OUxjMU81T2tYd2JkbWZNdk5EMDhxYWF1ZHk5WFphWEhjUzliblJSdUNKV09EVkdsUF9sNDhZSEt1eS13SlNtMHJVUE5wSERjYlBVRWdJUzZWWERJMXVvR2VXMk5lLUFmejdmOUFFc0htSldnN0JabEdYX05pV1prMUVOOHhVaTJraUVHeUdKb1dKai1Ja1ZITlFQWnJHOFZRT3h0TDdDRmtwN21EQmtub25G?oc=5</link>
+      <guid isPermaLink="false">8e93446790093e345a0d0e61</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-02 11:23
+Radford internet outage follows possible data incident, investigators involved wdbj7.com</description>
+      <pubDate>Fri, 02 Oct 2026 05:31:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-02T02:23:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Passport Department services affected by internet outage - OnlineKhabar English News</title>
       <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBKYlV4NF9FQk5yaHhkVkR2RVgwdTl3N2ZPaHBaUDhMaFRMUWdIMXcwOHJDUVV5UnU5emdvQ3ktVXhEby1lWUo4Q0VOVUZYUVVTUkhyMFpmNDZhNVZxS3BSd183N1A2RmYwUFdoUVBWTTYta21JdjlNcHJvUU91QQ?oc=5</link>
@@ -22,44 +36,16 @@ Passport Department services affected by internet outage OnlineKhabar English Ne
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - Vietnam.vn</title>
+      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkJnTXVsYUJKVS1LYTQ4c25YdFFSd281dVFaQTAwV3FZVTlZZkN3OE9mSXFOekFWNlF2MDV2cXZJRjJad182TTlZZl9lV0p2TWR0XzlPakNyUGdMbEVnYTFsQVA0V3NGUkNsU0Q0MnhvbDRxQWdjU1RLTU5TWnM1VGNoVERhWEdOWHlTaXh1Tm4wcmFKdXFFazlqZGxzVU5hZEV1ZQ?oc=5</link>
       <guid isPermaLink="false">b1f62aa09f62ab526d4ce58e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-02 01:38
-ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 Vietnam.vn</description>
+ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 vietnam.vn</description>
       <pubDate>Thu, 01 Oct 2026 19:48:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-01T19:48:32.596700Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T16:38:46Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlRMmRXUE04Rk1sQkVTN1dPMUg4aXFhRU5WaTdrYUVWWVA1Q1BzRXY0Y2tQUUJDdllScVV0WHNOaUtVbm5ubm5Kak1HSTF4RDFhTl9nekhBSmhJX19hcHlQeDRycjVxNUZRMkp6NzlxZ1JDMXVhczJya0JKY05wNzJyTUpkVkhNVExhRzFTRDFKU1VId2FqQkR2RQ?oc=5</link>
-      <guid isPermaLink="false">413526641f056831ec9cd918</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-01 12:01
-ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 Vietnam.vn</description>
-      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T03:01:39Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ハノイはインターネットインフラのIPv6への移行を加速させている。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE8za2dUSDB0bEpZU0RPUTBpXzM5SlU2VjRIZm5KbUMwcmRCeFpWVFVuakJlQnZSV240ZlQyVGVnelROeExrSm5HbVBleG55TzY1SXZKUGJ1b3ZGdDZsSGgtU2hLUkduOHRvd1RqRFloaTVhSlIxb0I4WVNWMmhDeXBJQzh3dw?oc=5</link>
-      <guid isPermaLink="false">92fcce23e32729ed3318dc70</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-01 10:40
-ハノイはインターネットインフラのIPv6への移行を加速させている。 Vietnam.vn</description>
-      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T01:40:30Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -78,13 +64,41 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 - Vietnam.vn</title>
+      <title>[性能・障害] ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 - vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlRMmRXUE04Rk1sQkVTN1dPMUg4aXFhRU5WaTdrYUVWWVA1Q1BzRXY0Y2tQUUJDdllScVV0WHNOaUtVbm5ubm5Kak1HSTF4RDFhTl9nekhBSmhJX19hcHlQeDRycjVxNUZRMkp6NzlxZ1JDMXVhczJya0JKY05wNzJyTUpkVkhNVExhRzFTRDFKU1VId2FqQkR2RQ?oc=5</link>
+      <guid isPermaLink="false">413526641f056831ec9cd918</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-01 12:01
+ハノイは、インターネットインフラとサービスのIPv6への移行を加速させている。 vietnam.vn</description>
+      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-01T03:01:39Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ハノイはインターネットインフラのIPv6への移行を加速させている。 - vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPNE8za2dUSDB0bEpZU0RPUTBpXzM5SlU2VjRIZm5KbUMwcmRCeFpWVFVuakJlQnZSV240ZlQyVGVnelROeExrSm5HbVBleG55TzY1SXZKUGJ1b3ZGdDZsSGgtU2hLUkduOHRvd1RqRFloaTVhSlIxb0I4WVNWMmhDeXBJQzh3dw?oc=5</link>
+      <guid isPermaLink="false">92fcce23e32729ed3318dc70</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-01 10:40
+ハノイはインターネットインフラのIPv6への移行を加速させている。 vietnam.vn</description>
+      <pubDate>Thu, 01 Oct 2026 07:12:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-01T07:12:13.628692Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-01T01:40:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 - vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnNHOEpOZWUwVlVqNlBZNmh6QUZydG5USlJKSlVycWxteGRTNHBiVk44cHljc0RJaFBiNDVVTENGaFlvb0xqLUoxM0ttQWV6TVY4aTZ1VDJuX1NBQm9FMlNZMVM3MFB3TllSTkxtU0FvZFQ2UDlILU1QSlV3Zmc0MUNYTGIybG93S2dtQU81U3dTYl9SYlFsbDdsRDh3YVdtYUZ6Um1JNko?oc=5</link>
       <guid isPermaLink="false">fcafe69c9efdda212729f8ef</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-01 00:26
-ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 Vietnam.vn</description>
+ハノイは、ネットワークインフラとインターネットサービスをIPv6のみに移行する作業を加速させている。 vietnam.vn</description>
       <pubDate>Wed, 30 Sep 2026 18:07:13 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-30T18:07:13.569968Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-30T15:26:18Z</sqm:sourcePublishedDate>
@@ -92,13 +106,13 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ベトナムは、次世代インターネットプロトコルであるIPv6への移行において、世界トップ7に入る先進国の一つである。 - Vietnam.vn</title>
+      <title>[性能・障害] ベトナムは、次世代インターネットプロトコルであるIPv6への移行において、世界トップ7に入る先進国の一つである。 - vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlVlckZaVk9ya3Atc0xYT0ZxOUlrLW00OTk3T1Nvdkd6ODU0a0M4M0o3YzhGcVprT0tjYmVQb2ZOVUstcUZrbWRUQmh6TDR3WFIwb0ExeXBsUnc2OFd4djZiZmlzMFFBTU1EM1JCdDZOMG5PX1lEcm1GMGZNSXhWUld3eWxTQW13b0RQeTN1cmlnMmo0QUFsSER5bXkwR3NQY25OVkRnYXJ4MXZ0R0hrcWVZNW5mclVKd3JvWjZR?oc=5</link>
       <guid isPermaLink="false">e04eb9029f0c44667c334237</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-09-30 18:23
-ベトナムは、次世代インターネットプロトコルであるIPv6への移行において、世界トップ7に入る先進国の一つである。 Vietnam.vn</description>
+ベトナムは、次世代インターネットプロトコルであるIPv6への移行において、世界トップ7に入る先進国の一つである。 vietnam.vn</description>
       <pubDate>Thu, 01 Oct 2026 14:25:57 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-01T14:25:57.538254Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-30T09:23:18Z</sqm:sourcePublishedDate>
@@ -106,45 +120,31 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - Amazon Web Services (AWS)</title>
+      <title>[性能・障害] KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - thinkit.co.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5</link>
+      <guid isPermaLink="false">a4ee1d0b5a3ed021f71fe6a9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-09-30 08:01
+KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp</description>
+      <pubDate>Fri, 02 Oct 2026 05:31:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-29T23:01:10Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Improving Lambda function latency with scalable network bandwidth - aws.amazon.com</title>
       <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxNQlppSE1jV2U1Sjlmc3BBc0ZEem9kODJWNWFCVjE2V0IyQW1BcmQxOTFGZXJZS0tYemRiRzBHVTVsblpYTEJXZmJPeURhTEViMUdOUEF2UVdyaFc4YnBYcXdEV3dZNWVsZVc5MXZ0bXJheDUyY1dKWkFJR2EwbXFWNUVOZzRVcmhzWHhCM0JZYjNFa01aUUNIRzlXMVVxcmQxaHlUV3JB?oc=5</link>
       <guid isPermaLink="false">c3d64768f821d6dc049ed118</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-09-29 06:17
-Improving Lambda function latency with scalable network bandwidth Amazon Web Services (AWS)</description>
+Improving Lambda function latency with scalable network bandwidth aws.amazon.com</description>
       <pubDate>Tue, 29 Sep 2026 05:39:58 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-29T05:39:58.761473Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T21:17:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] These 10 states lead the U.S. in internet outage searches: Did yours make the list? - NJ.com</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWZYLXNCQTdsTjMwVlBSUWJhVjB6MjhlaW56Sk5wZ2JHeWNCbi1vVHAwTzQ2YkhYX0toZkVfQV9HdkVFemdmRnNzNnhMTXR1ZWdMSTZDQXZZVXVHWDN6TW16X1VGOU5HcGxCWEFJX1JqTWF5WDh0VWVEcG9JOHd1YkxYTmhETmhCNGVQU2dDTk9MWXlERG12SWxZS0pXVFZOV1hsUXUtWmNFT3lyWjRlblBreF9lcG_SAcsBQVVfeXFMTjlmeDJjZDJqV1lNSUNjTUFzdll6ellJZDIzR3JRSUw1c3B0TFVndk9fOTNYRGVfdkoxek90U0ZlTzg2OE52Q1FOM3hhN1BnSGpadmtnVXNvRnhGeENHMVdpbUZEb291SEduUlR0R0tqeUgycVhJN3FaczVMZjFJVzdueG9NZ0FfSEhCU2dQRW1hTlRFbFQwM2wxTU5TM0psbHZDSXotZTBZUURxRksyMXkyNnluUngyQVZLbzI2VWpzMEVQZldyNVRfSTg?oc=5</link>
-      <guid isPermaLink="false">b0fbc42837480aec355b8ed1</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-26 03:00
-These 10 states lead the U.S. in internet outage searches: Did yours make the list? NJ.com</description>
-      <pubDate>Tue, 29 Sep 2026 21:23:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-29T21:23:10.719159Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-25T18:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dhWm9HWWdDZnJEem9Hand0NEYwOVZScnF3OFZXWmZGQmNJc2hoMjQ0TDJvWkFPbkxIcVktMlZhMUZ6SEpIWEUycThQdU45Q3k3M01GNTI1dEE4REY0YXJ0VkZ2Y1BnZEY5MW56Vk5BRUxLUm13OTVQbE5kRkRTTjhyY2R0VWRsQWNvdHI4ZGk3QQ?oc=5</link>
-      <guid isPermaLink="false">2f369a23b3343205bd8a4c5e</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-09-28 17:38
-ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 Vietnam.vn</description>
-      <pubDate>Thu, 01 Oct 2026 14:25:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-01T14:25:57.538254Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T08:38:48Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>

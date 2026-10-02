@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-01T23:51:57.199492Z",
+  "generated_at": "2026-10-02T05:31:38.855808Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
-    },
-    {
-      "id": "c3fee8d0d1804a15c1a01745",
-      "title": "This surprise Amazon eero Pro 7 Wi-Fi 7 mesh router deal is the lowest price I've seen yet ahead of Prime Day - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTmZwcGFjUWhJeTg1LUloQkh2Yll1dHkyV2FqWGR3b0N1QXlndkd3ZkFqYnRCUTFWaE9rM2p5WVpDRWEydzhPdVBRem1qTU9iaTlrMGJDLVVpcVRxb0J5b0V3LUNvTVdzNTViS0t2LUtBNEt4Vk1lSWFPb3M1alhtMjhmR2MtdkV2dWEyMjU1TVNoZktZQnJjYzVGd1h4MjdqQ18wVE9aeHVOeU1mMjFGM1ZuaE5WbnRrSTFsVEpxWHRIUjVKbG5vY1pFd0V0RjQwcGdWVFp1ZlZIVm8?oc=5",
-      "summary": "This surprise Amazon eero Pro 7 Wi-Fi 7 mesh router deal is the lowest price I've seen yet ahead of Prime Day TechRadar",
-      "published_at": "2026-09-29T17:48:35Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
     },
     {
       "id": "e7e96f4e39d0b34404432a22",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "f99106ae8db477aed453ffbd",
+      "title": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 - ServeTheHome",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGViUWRZblg0bVBfZVNZRTNWNlhrRmxfRkNWSWhaR2hUT3I3ZmhqN3BLVkNHM29GRjhoRjJ5ZnY4ME9nZFVRQlB1UllJdnlMXzR4cUZiT3Q2dnA4Yy1EcGlSNG52UVk4ODdYOFltek0yYzVMUUdtMmpHVXRMOWZUS1FlT1AzRmtISEdVLVUtSWhJR1l2eFhRVGtSeS1vT3J3OUJ0ZFl1NS1aeEc0ZWc?oc=5",
+      "summary": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 ServeTheHome",
+      "published_at": "2026-10-01T00:05:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
     }
   ]
 }
