@@ -5,16 +5,16 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:18:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） - news.yahoo.co.jp</title>
+      <title>[セキュリティ] バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1QMlplRzBwMmVwNENINEd3ZTllNUplU1puLWh1UHNTUVNKazRjekttVnVsTmk3UlV6MjRfeUZUaG5RaGl4QWpIci1FZTg4UzJYU0l6dkVYOUlLWWYwM0wwR1VDMGdFNXJMRmRyS0NDbWpkWGtZZEZvLWdSWWNZbGM?oc=5</link>
       <guid isPermaLink="false">020b7795612e557861904f99</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-10-02 08:00
-バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） news.yahoo.co.jp</description>
+バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） Yahoo!ニュース</description>
       <pubDate>Thu, 01 Oct 2026 23:51:58 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-01T23:51:58.516363Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T23:00:09Z</sqm:sourcePublishedDate>
@@ -64,13 +64,13 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - news.yahoo.co.jp</title>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1XWFlWZi1rVUdab01GNGNOVFE4UmpyZVFPTDRMVnJyRGQ4S28wS1liUWJWMWdEVUFCV2ZQcVB3MzBDYndsMXNOdUU4X0pJQVUwTVVJY0pzaklxdDZkMnNfVUpsd2d3X1BwUHJyTXJNV0U1X1k0U01JbWFVSmdmdjJvTlQybWRuMjBYNGdR?oc=5</link>
       <guid isPermaLink="false">97a530907c4c04831302ca05</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) news.yahoo.co.jp</description>
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) Yahoo!ニュース</description>
       <pubDate>Mon, 28 Sep 2026 11:58:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T11:58:50.482557Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
@@ -106,20 +106,6 @@ WatchGuard Fireboxに15件の脆弱性、Critical RCE「CVE-2026-86131」など�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Google Chromeに"重大"な脆弱性 - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtV1YwR2ZFZkFjZDF4NEVhaEl0S3NCOGU4bWFUZ1hIOUIzYUViUHJObmZaVXZYUkFiWnEzZXVNTEhucDNMNEh1QmZ3Wk9LNm9WS3hTUA?oc=5</link>
-      <guid isPermaLink="false">10f8ba5789d9b74df80b91b6</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-30 16:50
-Google Chromeに"重大"な脆弱性 ASCII.jp</description>
-      <pubDate>Wed, 30 Sep 2026 12:29:16 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-30T12:29:16.402289Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-30T07:50:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] アップル「iOS 26.7.1」配信 iPhoneの脆弱性を修正、早めに更新を - ASCII.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xanh4NjI5Wkoyb0xnc2JEZk9IenRzYmUzc1p5UW9Jc2xKTFdYNG1rMHVOZjl6TjlPQThRdWVtQmxqSE9LQjY2YlR1aHNrR19XcndDOA?oc=5</link>
       <guid isPermaLink="false">f9ca7ed0cdc9b3ac3457138a</guid>
@@ -144,6 +130,20 @@ Google Chromeに"重大"な脆弱性 ASCII.jp</description>
       <pubDate>Fri, 02 Oct 2026 05:31:40 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T05:31:40.069852Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T23:56:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZXQ3ejZBT25JRm9JVV9RX3EtLTVBZFczU1JsX1QtQnNfR0hkVG5SS1VoMFV4NGNqTkF0QmVITU12VnQxd1JrQW9jV000RWw1QlR3YU5BT1lTeFFvVU5wTXJqVjlhWnAyS19j?oc=5</link>
+      <guid isPermaLink="false">3759b0bc75de3d11dded0a71</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-29 06:15
+バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 INTERNET Watch</description>
+      <pubDate>Fri, 02 Oct 2026 21:18:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-02T21:18:27.782790Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-28T21:15:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

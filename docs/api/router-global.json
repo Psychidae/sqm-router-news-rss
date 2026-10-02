@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-02T16:48:54.652369Z",
+  "generated_at": "2026-10-02T21:18:26.706960Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,7 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "804a6a0312ca90b71e1759fb",
@@ -90,7 +90,7 @@
       "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - PCMag",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Rd3oxaG93U1dKQzBoNXVtYUFiTDh1cU0yS0NxZjNSNnBwdEtqUWV0Mnk4NWg4TjRTTWxIckdLY3YxMlpSSVZmX01UUkFVN1BoVy11LVZCek9iUnBQRHYwYTFEbEhnU2YxZU5SbURWTTI4cWhJV044Yg?oc=5",
       "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics PCMag",
-      "published_at": "2026-09-28T19:10:02Z",
+      "published_at": "2026-09-28T18:29:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -109,9 +109,9 @@
     },
     {
       "id": "2250bc7da7b087bb3ca0da14",
-      "title": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada - iphoneincanada.ca",
+      "title": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada - iPhone in Canada",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQVp3NEY0MlhKcWdjbTA3MTBmd3VLVGhuVjZXZF9qcVlTMzVDUVRleTkwZTN5X3YwVExXWFdzeDJ1bXFyM0xSU2ZMcVhMcmV1ZHd3THFXSnpwZERycDNSb2J3TGJ0bnRjZlBkbGdhLTRGTTEwZ0pSM3puYkdhNTQ?oc=5",
-      "summary": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada iphoneincanada.ca",
+      "summary": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada iPhone in Canada",
       "published_at": "2026-09-28T13:02:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
