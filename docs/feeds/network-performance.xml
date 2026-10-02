@@ -5,16 +5,30 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:48:57 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Radford internet outage follows possible data incident, investigators involved - WDBJ7</title>
+      <title>[性能・障害] Radford Internet Outage Follows Possible Data Incident - wdbj7.com</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWlBd2hDMk9BVTN3dUNlRWFnZFpWZzZ0cndJazY5amNsODJrX3M1ZUtBUnVwWXE5X1lPZVNlT0kydWM4U3lOZWg0Mm1taDBJMEdZUXVMYnVRTVJ1T2JHdkh5bVFscEl4VF9GdndNTEwxVU10YWJWUmZ3YUc4dWtpY0FaQmhDTk1yMmZ2ckx1OG9TVUhtZHpTQ3d3?oc=5</link>
+      <guid isPermaLink="false">a4d3333f687777971dc323e3</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-02 12:27
+Radford Internet Outage Follows Possible Data Incident wdbj7.com</description>
+      <pubDate>Fri, 02 Oct 2026 16:48:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-02T16:48:57.250148Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-02T03:27:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Radford internet outage follows possible data incident, investigators involved - wdbj7.com</title>
       <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPQW9OTDl1M0xfRGo4VFNkeFN4eWszOU5XQkRYdUdZeDFHaDF2WmVWaFpzaHdzaVFhN0l0YzJZSzd6Um9VcmxvSUR3U0xzVVdPX01HQ0NrWkpWdTRRTHRaQUw2WWpfekNjV2RiU1JCTFJwUXFOa2FXcDlEQ3A4dlp1T2xtemY2VXo4UVVhWmlud0tMVTNjYm9oMFVudTNMTFJGbUZ4b2d5dURSQ21CS1NLb9IBxAFBVV95cUxNejY0M0ozR3hHNlg0Y0xhcDZ5OUxjMU81T2tYd2JkbWZNdk5EMDhxYWF1ZHk5WFphWEhjUzliblJSdUNKV09EVkdsUF9sNDhZSEt1eS13SlNtMHJVUE5wSERjYlBVRWdJUzZWWERJMXVvR2VXMk5lLUFmejdmOUFFc0htSldnN0JabEdYX05pV1prMUVOOHhVaTJraUVHeUdKb1dKai1Ja1ZITlFQWnJHOFZRT3h0TDdDRmtwN21EQmtub25G?oc=5</link>
       <guid isPermaLink="false">8e93446790093e345a0d0e61</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-10-02 11:23
-Radford internet outage follows possible data incident, investigators involved WDBJ7</description>
+Radford internet outage follows possible data incident, investigators involved wdbj7.com</description>
       <pubDate>Fri, 02 Oct 2026 05:31:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T02:23:00Z</sqm:sourcePublishedDate>
@@ -50,34 +64,6 @@ Preble County 911 services routed to Darke County after internet outage Dayton D
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkJnTXVsYUJKVS1LYTQ4c25YdFFSd281dVFaQTAwV3FZVTlZZkN3OE9mSXFOekFWNlF2MDV2cXZJRjJad182TTlZZl9lV0p2TWR0XzlPakNyUGdMbEVnYTFsQVA0V3NGUkNsU0Q0MnhvbDRxQWdjU1RLTU5TWnM1VGNoVERhWEdOWHlTaXh1Tm4wcmFKdXFFazlqZGxzVU5hZEV1ZQ?oc=5</link>
-      <guid isPermaLink="false">b1f62aa09f62ab526d4ce58e</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-02 01:38
-ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 vietnam.vn</description>
-      <pubDate>Thu, 01 Oct 2026 19:48:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-01T19:48:32.596700Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T16:38:46Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Passport Department services affected by internet outage - OnlineKhabar English News</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBKYlV4NF9FQk5yaHhkVkR2RVgwdTl3N2ZPaHBaUDhMaFRMUWdIMXcwOHJDUVV5UnU5emdvQ3ktVXhEby1lWUo4Q0VOVUZYUVVTUkhyMFpmNDZhNVZxS3BSd183N1A2RmYwUFdoUVBWTTYta21JdjlNcHJvUU91QQ?oc=5</link>
-      <guid isPermaLink="false">f0a3f1c0261d986f5049c707</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-01 19:46
-Passport Department services affected by internet outage OnlineKhabar English News</description>
-      <pubDate>Thu, 01 Oct 2026 14:25:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-01T14:25:57.538254Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T10:46:03Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - wsls.com</title>
       <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW9CUFdoQ1M5RVhGWHBLbXFJdXhGU0djLXBWM0JVSnhYNXl0YU5ycVk5UTZFa3ZGUEhXXzZXS0hzLWN3Y2ZSQWt0d1ZQQWxzZGdFYkxrd0YyMXJOcEdpSERvd2paakRYSHJxOWo3TTl5Z2FVQTE4M0VnbWxqd0ZuSEdJQjdKVXI0aWR5UllqRDlhbjltMkFUVVlPRXRtQmVTQU90YWVSeFdaTWhISVdQQjgzSUdrQTA4?oc=5</link>
       <guid isPermaLink="false">4558b33a02fc63f883dc5ccf</guid>
@@ -89,6 +75,20 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <sqm:firstSeenDate>2026-09-30T05:59:30.335224Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-30T00:49:34Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkJnTXVsYUJKVS1LYTQ4c25YdFFSd281dVFaQTAwV3FZVTlZZkN3OE9mSXFOekFWNlF2MDV2cXZJRjJad182TTlZZl9lV0p2TWR0XzlPakNyUGdMbEVnYTFsQVA0V3NGUkNsU0Q0MnhvbDRxQWdjU1RLTU5TWnM1VGNoVERhWEdOWHlTaXh1Tm4wcmFKdXFFazlqZGxzVU5hZEV1ZQ?oc=5</link>
+      <guid isPermaLink="false">b1f62aa09f62ab526d4ce58e</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-02 01:38
+ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 vietnam.vn</description>
+      <pubDate>Thu, 01 Oct 2026 19:48:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-01T19:48:32.596700Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-01T16:38:46Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
