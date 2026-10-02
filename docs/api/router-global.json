@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-02T05:31:38.855808Z",
+  "generated_at": "2026-10-02T11:20:35.814211Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,11 +20,22 @@
       "score": 22
     },
     {
-      "id": "e7e96f4e39d0b34404432a22",
-      "title": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTHB0NlNIUlpCRllPSzRXS0duWEowaEU1cllXNTFPR2gwV3YzUkE3NGx0YXozWmJidUh1SkJZS1NhYnVrV0VwNURVQk1VSDFZczY5TTNDWXBXbUpkanc3Mk5KU2FrWmVYQ0tjUUpLcHMzWGdIenpPVlJsSFUtLVUxUmV6WjVoNGZYOGdpcHJOR0NMTlVNNHZsRzBSbk1adUxRUzBfWjVET0RmeWliT3o2S3lTWEJ2ZjRFZ1dR?oc=5",
-      "summary": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras PCMag UK",
-      "published_at": "2026-09-28T18:26:02Z",
+      "id": "c3fee8d0d1804a15c1a01745",
+      "title": "This surprise Amazon eero Pro 7 Wi-Fi 7 mesh router deal is the lowest price I've seen yet ahead of Prime Day - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTmZwcGFjUWhJeTg1LUloQkh2Yll1dHkyV2FqWGR3b0N1QXlndkd3ZkFqYnRCUTFWaE9rM2p5WVpDRWEydzhPdVBRem1qTU9iaTlrMGJDLVVpcVRxb0J5b0V3LUNvTVdzNTViS0t2LUtBNEt4Vk1lSWFPb3M1alhtMjhmR2MtdkV2dWEyMjU1TVNoZktZQnJjYzVGd1h4MjdqQ18wVE9aeHVOeU1mMjFGM1ZuaE5WbnRrSTFsVEpxWHRIUjVKbG5vY1pFd0V0RjQwcGdWVFp1ZlZIVm8?oc=5",
+      "summary": "This surprise Amazon eero Pro 7 Wi-Fi 7 mesh router deal is the lowest price I've seen yet ahead of Prime Day TechRadar",
+      "published_at": "2026-09-29T17:48:35Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
+    },
+    {
+      "id": "804a6a0312ca90b71e1759fb",
+      "title": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkloMGpDSjFDYS0zLUo1c0JGcktOTzl3cG9pd3E1alJZSEE0MmxZRFNyZWllZlVzbWpqclpIYndkMDJJZ19oWkp4MTAxZlhTNG9MZW5pODJQaFNyYUc4ZVo2bVhaSDdDYmZrY01Pc2ZUNDRCQy1uNk5wZHg3eUpVRlFB?oc=5",
+      "summary": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras PCMag",
+      "published_at": "2026-09-28T18:27:04Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -39,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "54500ba2a1ecbccda2c693aa",
@@ -58,17 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5",
       "summary": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar",
       "published_at": "2026-09-28T16:31:02Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "2250bc7da7b087bb3ca0da14",
-      "title": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada - iPhone in Canada",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZQVp3NEY0MlhKcWdjbTA3MTBmd3VLVGhuVjZXZF9qcVlTMzVDUVRleTkwZTN5X3YwVExXWFdzeDJ1bXFyM0xSU2ZMcVhMcmV1ZHd3THFXSnpwZERycDNSb2J3TGJ0bnRjZlBkbGdhLTRGTTEwZ0pSM3puYkdhNTQ?oc=5",
-      "summary": "eero Max 7 Mesh Wi-Fi Router Drops by 30% in Canada iPhone in Canada",
-      "published_at": "2026-09-28T13:02:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -109,9 +109,9 @@
     },
     {
       "id": "f99106ae8db477aed453ffbd",
-      "title": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 - ServeTheHome",
+      "title": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 - servethehome.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGViUWRZblg0bVBfZVNZRTNWNlhrRmxfRkNWSWhaR2hUT3I3ZmhqN3BLVkNHM29GRjhoRjJ5ZnY4ME9nZFVRQlB1UllJdnlMXzR4cUZiT3Q2dnA4Yy1EcGlSNG52UVk4ODdYOFltek0yYzVMUUdtMmpHVXRMOWZUS1FlT1AzRmtISEdVLVUtSWhJR1l2eFhRVGtSeS1vT3J3OUJ0ZFl1NS1aeEc0ZWc?oc=5",
-      "summary": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 ServeTheHome",
+      "summary": "Gigabyte TRX50 AERO D-Wi-Fi 7 Antena 2 servethehome.com",
       "published_at": "2026-10-01T00:05:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
