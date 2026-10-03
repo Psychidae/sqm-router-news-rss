@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-03T14:54:34.827312Z",
+  "generated_at": "2026-10-03T18:40:03.687911Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -31,11 +31,11 @@
       "score": 18
     },
     {
-      "id": "25f8cbafd67122ada98eadf9",
+      "id": "b2278729039f00a3eb39e519",
       "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjM0R0lUNFhwbWJvUk5naEwzOHBqeTBKQ2VDV1Zza3ZkYllDNW1tQ2tMRFpfdWUyaDZhdl9aNmJiN0dxanROVHV1V195R2hUX1RpcWoxVl8wSEJUU29ESExJS0t6aXNBNWZuTVZkMlRjV3ZWZ19BSnhKV3FYMXZpRWJB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3phcVRUWGdhQnBqS1l6YlFDMHlyd2pMOHJQMzVkeVJoN2FtUll6Nl8yRmJ6VzRnRWFQV1M5NEpQMDgtMjZfTVROczRDelpjLTcxRkZpeUhLWVFiWmljaXpsLXZvM29wQ0RhcFJWb1dXa29YRG1RSkljb3kwUGJtRjJ3?oc=5",
       "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
-      "published_at": "2026-10-02T09:14:15Z",
+      "published_at": "2026-10-02T09:10:57Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -54,9 +54,9 @@
     },
     {
       "id": "7bb1c9e4b7f5745a3bceced3",
-      "title": "10ギガ回線にもオススメ!! WANもLANも10GbEで、しかもトライバンドなのに驚きの価格のエレコムWi-Fi 7ルーターを動画で解説 - internet.watch.impress.co.jp",
+      "title": "10ギガ回線にもオススメ!! WANもLANも10GbEで、しかもトライバンドなのに驚きの価格のエレコムWi-Fi 7ルーターを動画で解説 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FeUJYR21EdDRGcy1kSlRjZFFHRHBybWtZT0RhMXRKYllSd3NwcDA2clhGaFQ2NHBpdmY3SnBsTnJIUXdNUWFUUHk2V2VJQTE4NWk5TzJSU1ZkTklBbmtDZ3N1b2xTVWxRZUZkWmw4VDB6a1BNbDEzUFVnQmxzeU0?oc=5",
-      "summary": "10ギガ回線にもオススメ!! WANもLANも10GbEで、しかもトライバンドなのに驚きの価格のエレコムWi-Fi 7ルーターを動画で解説 internet.watch.impress.co.jp",
+      "summary": "10ギガ回線にもオススメ!! WANもLANも10GbEで、しかもトライバンドなのに驚きの価格のエレコムWi-Fi 7ルーターを動画で解説 INTERNET Watch",
       "published_at": "2026-09-28T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -87,9 +87,9 @@
     },
     {
       "id": "b124df41bf09cffa43608834",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - news.infoseek.co.jp",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を news.infoseek.co.jp",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek",
       "published_at": "2026-09-28T05:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
