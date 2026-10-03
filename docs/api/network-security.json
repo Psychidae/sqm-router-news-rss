@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-03T00:43:36.837454Z",
+  "generated_at": "2026-10-03T05:44:59.864049Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -21,9 +21,9 @@
     },
     {
       "id": "70f8c0a12dda2fb2794192b7",
-      "title": "バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを - news.mynavi.jp",
+      "title": "バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYS13U1Z0MDJiT1NvR2NvWC1weXZoVXl1RmVrQ1NFQjcxT0h2WmRHSU16ZjZrR3kxZDdtMzRSa1F5WjdTRnJQNHB3b2dFTG1SWE9NYjJNTXZHVjVfUUdhekhnLTVvZ2hF?oc=5",
-      "summary": "バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを news.mynavi.jp",
+      "summary": "バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを マイナビニュース",
       "published_at": "2026-09-29T07:34:02Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -72,7 +72,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "4dd4b99c8a478dd30eb5d748",
@@ -80,6 +80,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UNGdfZldxU1NZOEJaSkxldzJ3enZkVnlpUENybkRRbGpPOV80REZjVFI4UkF4M1JVanVsWWVjSWFPWG9QWlItRnhlYnBXTHc0NHdSQVh1aFZHRVIxNlQ3NjFPYlVwQk5KeGcyeW8tRkd2UQ?oc=5",
       "summary": "『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 Infoseek",
       "published_at": "2026-10-01T00:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "10f8ba5789d9b74df80b91b6",
+      "title": "Google Chromeに\"重大\"な脆弱性 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtV1YwR2ZFZkFjZDF4NEVhaEl0S3NCOGU4bWFUZ1hIOUIzYUViUHJObmZaVXZYUkFiWnEzZXVNTEhucDNMNEh1QmZ3Wk9LNm9WS3hTUA?oc=5",
+      "summary": "Google Chromeに\"重大\"な脆弱性 ASCII.jp",
+      "published_at": "2026-09-30T07:50:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObV9tYVRTWURxYklXWGNXYjRseHhaSlY5VDVEX211cWRUNVdHMktiTjROOTFiVnlFdjhhQ0FSRGc3dnl0SXYyVC1TMG4tZlpidDNDV3lGR2ZiZ3dfdHNqNzBuMkRQbGlWOHdaZ3FCdHVSNjNlaTBSZFZGeDJnazRjaXZoeUZsTmR0SExCSGlBNXNoTEljOFpPUEhwM1RoYzVBMGtIdFkyRmRhdw?oc=5",
       "summary": "両毛システムズのランサムウェアによるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市3,789件・名張近鉄ガス約6,800件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
       "published_at": "2026-09-28T23:56:50Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "3759b0bc75de3d11dded0a71",
-      "title": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51ZXQ3ejZBT25JRm9JVV9RX3EtLTVBZFczU1JsX1QtQnNfR0hkVG5SS1VoMFV4NGNqTkF0QmVITU12VnQxd1JrQW9jV000RWw1QlR3YU5BT1lTeFFvVU5wTXJqVjlhWnAyS19j?oc=5",
-      "summary": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中 INTERNET Watch",
-      "published_at": "2026-09-28T21:15:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
