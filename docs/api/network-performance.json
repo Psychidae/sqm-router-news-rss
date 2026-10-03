@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-02T21:18:28.802543Z",
+  "generated_at": "2026-10-03T00:43:37.902172Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,17 +31,6 @@
       "score": 9
     },
     {
-      "id": "5d836e3d8ae0047bf0fd0585",
-      "title": "Preble County 911 services routed to Darke County after internet outage - Dayton Daily News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWEyQmM0RTFHdVBlNW1MbGpkd1RiTDhvbmFmVmg5Rk1ISW1hVFBEWU5nY09qempTbklVcDB3U0JObDBzYWVzdV9INjhCakI4V0h4bjlkLWtpcHEtc3ExY1Y2c1lSbDN4Zm5QR08tSFFoYTU2eUJmcjhIMkE3Y2M0STFSZDU2V2o4T2ptWDd6NVQtWkR2MkpQd3J4cnhodlQyeXhvYW9KU2lKVHZvbWdMTTJ6VHYwVEdhNnVvcG90ZVIwVWExTlljTXhlLXlHMkg4dDdkUUpNUm1HcFBSYS1idU9fcEFURXkxcjZocEgyUFk?oc=5",
-      "summary": "Preble County 911 services routed to Darke County after internet outage Dayton Daily News",
-      "published_at": "2026-10-02T00:10:04Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
       "id": "ca162366623dbcc5e7e3f17a",
       "title": "ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFlKdlVhRjRfdGVsczdSOS1NeHdtbmR6X1ZxekkwbEVJMm91RHFHZ240eFRPa2ZMbWo5ODZnQjhKYW4tc2dVRWpWTmtScXU0bk5zeVJGaTlZX2lwLVBnZDEyWXJPVXJaMW5wWGxQTERPVUhrNG5nenNIVnBadnRSNHB6SlNzaWZkZE9JMUdocmthQ2c4OF82cVkwNVJsS1duTDZJbENMdEFuNnBXa3c?oc=5",
@@ -49,6 +38,17 @@
       "published_at": "2026-10-02T08:14:33Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "5d836e3d8ae0047bf0fd0585",
+      "title": "Preble County 911 services routed to Darke County after internet outage - Dayton Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWEyQmM0RTFHdVBlNW1MbGpkd1RiTDhvbmFmVmg5Rk1ISW1hVFBEWU5nY09qempTbklVcDB3U0JObDBzYWVzdV9INjhCakI4V0h4bjlkLWtpcHEtc3ExY1Y2c1lSbDN4Zm5QR08tSFFoYTU2eUJmcjhIMkE3Y2M0STFSZDU2V2o4T2ptWDd6NVQtWkR2MkpQd3J4cnhodlQyeXhvYW9KU2lKVHZvbWdMTTJ6VHYwVEdhNnVvcG90ZVIwVWExTlljTXhlLXlHMkg4dDdkUUpNUm1HcFBSYS1idU9fcEFURXkxcjZocEgyUFk?oc=5",
+      "summary": "Preble County 911 services routed to Darke County after internet outage Dayton Daily News",
+      "published_at": "2026-10-02T00:10:04Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
