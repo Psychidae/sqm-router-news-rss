@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 05:44:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:38:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
@@ -50,13 +50,13 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek</title>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - news.infoseek.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5</link>
       <guid isPermaLink="false">b124df41bf09cffa43608834</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek</description>
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を news.infoseek.co.jp</description>
       <pubDate>Mon, 28 Sep 2026 23:55:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-28T23:55:52.876468Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
@@ -92,13 +92,13 @@ WatchGuard Fireboxに15件の脆弱性、Critical RCE「CVE-2026-86131」など�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 - Infoseek</title>
+      <title>[セキュリティ] 『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 - news.infoseek.co.jp</title>
       <link>https://news.google.com/rss/articles/CBMickFVX3lxTE9UNGdfZldxU1NZOEJaSkxldzJ3enZkVnlpUENybkRRbGpPOV80REZjVFI4UkF4M1JVanVsWWVjSWFPWG9QWlItRnhlYnBXTHc0NHdSQVh1aFZHRVIxNlQ3NjFPYlVwQk5KeGcyeW8tRkd2UQ?oc=5</link>
       <guid isPermaLink="false">4dd4b99c8a478dd30eb5d748</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-10-01 09:00
-『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 Infoseek</description>
+『【再放送】脆弱性診断だけで十分ですか？』というテーマのウェビナーを開催 news.infoseek.co.jp</description>
       <pubDate>Fri, 02 Oct 2026 16:48:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T16:48:55.850550Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T00:00:00Z</sqm:sourcePublishedDate>

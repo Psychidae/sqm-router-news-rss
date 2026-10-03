@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-03T05:44:57.475538Z",
+  "generated_at": "2026-10-03T10:38:04.449923Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,15 +20,15 @@
       "score": 20
     },
     {
-      "id": "51be2814ce9005c3d94ad19e",
+      "id": "b2278729039f00a3eb39e519",
       "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObzcydnoxRmpmdklZTUJGcW9mR3JCQUtITlo3bk1GWjQwMGdFUXRITUJmcFVObzlLRF9hc3VxbTJSOVlWM0lnTEs5Nk5uU0tGakVyMEU3VjVuVV9QTFBSS0pfY2JBM2hvZ1BwTWFVQXFBODdlUjNFUTFsMlltNE1NSnJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3phcVRUWGdhQnBqS1l6YlFDMHlyd2pMOHJQMzVkeVJoN2FtUll6Nl8yRmJ6VzRnRWFQV1M5NEpQMDgtMjZfTVROczRDelpjLTcxRkZpeUhLWVFiWmljaXpsLXZvM29wQ0RhcFJWb1dXa29YRG1RSkljb3kwUGJtRjJ3?oc=5",
       "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
-      "published_at": "2026-10-02T09:59:29Z",
+      "published_at": "2026-10-02T09:10:57Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 18
+      "score": 17
     },
     {
       "id": "d722b83bf3fffc7476ff4132",
@@ -39,7 +39,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 18
+      "score": 17
     },
     {
       "id": "7bb1c9e4b7f5745a3bceced3",
@@ -76,9 +76,9 @@
     },
     {
       "id": "b124df41bf09cffa43608834",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - Infoseek",
+      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を - news.infoseek.co.jp",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lT2drRm1BcjcyV2xiUVlab1ZDM1A0T1YtZzIyQnFHaExjTXJmczlNRjJENXEyVEtwR1JucmZsQlJXVXdZQy1mWVppQ3ZWNHJQUnBQb1R5N01rUjFiWnl3cA?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を Infoseek",
+      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を news.infoseek.co.jp",
       "published_at": "2026-09-28T05:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
