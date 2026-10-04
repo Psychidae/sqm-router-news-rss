@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 20:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 23:06:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
@@ -22,16 +22,30 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを - news.mynavi.jp</title>
+      <title>[セキュリティ] バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを - マイナビニュース</title>
       <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYS13U1Z0MDJiT1NvR2NvWC1weXZoVXl1RmVrQ1NFQjcxT0h2WmRHSU16ZjZrR3kxZDdtMzRSa1F5WjdTRnJQNHB3b2dFTG1SWE9NYjJNTXZHVjVfUUdhekhnLTVvZ2hF?oc=5</link>
       <guid isPermaLink="false">70f8c0a12dda2fb2794192b7</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-09-29 16:34
-バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを news.mynavi.jp</description>
+バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを マイナビニュース</description>
       <pubDate>Tue, 29 Sep 2026 11:33:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-29T11:33:55.764006Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-29T07:34:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1XWFlWZi1rVUdab01GNGNOVFE4UmpyZVFPTDRMVnJyRGQ4S28wS1liUWJWMWdEVUFCV2ZQcVB3MzBDYndsMXNOdUU4X0pJQVUwTVVJY0pzaklxdDZkMnNfVUpsd2d3X1BwUHJyTXJNV0U1X1k0U01JbWFVSmdmdjJvTlQybWRuMjBYNGdR?oc=5</link>
+      <guid isPermaLink="false">97a530907c4c04831302ca05</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-09-28 15:16
+バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) Yahoo!ニュース</description>
+      <pubDate>Mon, 28 Sep 2026 11:58:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-09-28T11:58:50.482557Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-09-28T06:16:29Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -64,20 +78,6 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1XWFlWZi1rVUdab01GNGNOVFE4UmpyZVFPTDRMVnJyRGQ4S28wS1liUWJWMWdEVUFCV2ZQcVB3MzBDYndsMXNOdUU4X0pJQVUwTVVJY0pzaklxdDZkMnNfVUpsd2d3X1BwUHJyTXJNV0U1X1k0U01JbWFVSmdmdjJvTlQybWRuMjBYNGdR?oc=5</link>
-      <guid isPermaLink="false">97a530907c4c04831302ca05</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-28 14:00
-バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) Yahoo!ニュース</description>
-      <pubDate>Mon, 28 Sep 2026 11:58:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-28T11:58:50.482557Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T05:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] ASUS製ルーターには深刻な脆弱性があります。ユーザーはファームウェアをアップデートする必要があります。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1RtdldGT1BuS0pVRWktUmcyeDEzZ1ppN2RBUHF3ZTVONE1OMHNXbXc3RFlJckNDS0xRdXJfcFpYU3BodnlCU3lxamFMZllzV3ozazgyVHJ3Y2p5WlNnZlFETnRmRmcyTlctd1diRXdRTGJpMnVmSWgycHo4Nm9DY0g2ZUVnVXRBVDhWdXFRelBwRkRyTGlfRGFyNTA?oc=5</link>
       <guid isPermaLink="false">883979207ff29b8faa8e1449</guid>
@@ -102,20 +102,6 @@ ASUS製ルーターには深刻な脆弱性があります。ユーザーはフ�
       <pubDate>Fri, 02 Oct 2026 16:48:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T16:48:55.850550Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T00:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 両毛システムズのランサムウェアによるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市3,789件・名張近鉄ガス約6,800件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxObV9tYVRTWURxYklXWGNXYjRseHhaSlY5VDVEX211cWRUNVdHMktiTjROOTFiVnlFdjhhQ0FSRGc3dnl0SXYyVC1TMG4tZlpidDNDV3lGR2ZiZ3dfdHNqNzBuMkRQbGlWOHdaZ3FCdHVSNjNlaTBSZFZGeDJnazRjaXZoeUZsTmR0SExCSGlBNXNoTEljOFpPUEhwM1RoYzVBMGtIdFkyRmRhdw?oc=5</link>
-      <guid isPermaLink="false">46d94829f7340968da8f0fb6</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-09-29 08:56
-両毛システムズのランサムウェアによるサイバー攻撃 被害 まとめ-大東ガス約12.4万件・伊勢崎市3,789件・名張近鉄ガス約6,800件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Fri, 02 Oct 2026 05:31:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T05:31:40.069852Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T23:56:50Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
