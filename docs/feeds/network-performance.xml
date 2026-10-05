@@ -5,8 +5,36 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 08:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:23:18 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] BCCS updates communication practices following internet outage, school closure - hometownsource.com</title>
+      <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxQN3Vranc0TE1kUmE5enJFdlljaU9IZVdMM0o2UlR3Y2RSSGpJX3FNcGtvQ1RpZE9yNHROMEtiRHpFX2Z4cXE4Mktral93SXk3dHYzWlp1U1VEYklKcnlyWi1MMmdYNHdYTl9vSVh4MkFVUjRrQVJqYmQzTU0yTGZ2dXNOSHB3X0ducEh3NVFCbkp2Q3FlS3lYNUtXdkp4d2d2Ul9KYXBOcy1HT2Foc2VEbzNxWmRyLWpDVC1YZmh5VUxPRmZJXzVyZU04WnA3VDVKelNRTlRScXV3dkQ2ZjRkQ210R09kRVQzY2U2YlBWMklnRk5KQUxiR0F0NkxtVVlGck5DOHI3NXRCRTZleUpaTHRYbk1nVzJueWJv?oc=5</link>
+      <guid isPermaLink="false">6cae1c3f404d2cc39b40669f</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-06 03:01
+BCCS updates communication practices following internet outage, school closure hometownsource.com</description>
+      <pubDate>Mon, 05 Oct 2026 18:23:18 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-05T18:23:18.742937Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-05T18:01:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Converge’s subsea cables spare Filipinos from internet outage - Philstar.com</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlZKSUFwSXkwMkF6R3lZRTR0Vm0xRjA0ekY2WWNkTzMtSUlkY25BTUp0VHdDMzRqTmFCMDNYWE9kdDFaSXk1UmtIMHBQVVlHU3FQcHdyVVZFcjVIaVpiYl90Vm14N0ZaZS1LNVg1aGRnazZjY2ZtNFBqWlc2Y3ZqRUkxYnR5cjJsZVNBMUFnRHZYeDlTMWVpalhmV3hCNDZfc2NDbFFmQXRrOWNU0gGzAUFVX3lxTE82d1k0SnVrU1g4Yy1SWkU4WTNxV3p4cFNsM1BmdjRaRUhsT0ZLWHBkSERoaE1HMlp6UGRLNmVYVGRsMnVBbGR4WUlJdmZYZ0ZkQk9kQ3F3aVowc21kMjVRSWVCNTZ2TW5WUVVTVlJRdXpJRFlBbDVMRV8tczBTa1ZEUFotdFNmcHF2VDdYVWV2N0Y5dHFCc0V0SWdMOXhpOE1QanFROHhYcWp4UjlWWkxCTlhn?oc=5</link>
+      <guid isPermaLink="false">558a8ffe1c04271c7e791d3d</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-06 01:00
+Converge’s subsea cables spare Filipinos from internet outage Philstar.com</description>
+      <pubDate>Mon, 05 Oct 2026 18:23:18 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-05T18:23:18.742937Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-05T16:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Radford Internet Outage Follows Possible Data Incident - WDBJ7</title>
       <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWlBd2hDMk9BVTN3dUNlRWFnZFpWZzZ0cndJazY5amNsODJrX3M1ZUtBUnVwWXE5X1lPZVNlT0kydWM4U3lOZWg0Mm1taDBJMEdZUXVMYnVRTVJ1T2JHdkh5bVFscEl4VF9GdndNTEwxVU10YWJWUmZ3YUc4dWtpY0FaQmhDTk1yMmZ2ckx1OG9TVUhtZHpTQ3d3?oc=5</link>
@@ -46,20 +74,6 @@ Preble County 911 services routed to Darke County after internet outage Dayton D
       <pubDate>Fri, 02 Oct 2026 11:20:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T11:20:38.046429Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T00:10:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Passport Department services affected by internet outage - OnlineKhabar English News</title>
-      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBKYlV4NF9FQk5yaHhkVkR2RVgwdTl3N2ZPaHBaUDhMaFRMUWdIMXcwOHJDUVV5UnU5emdvQ3ktVXhEby1lWUo4Q0VOVUZYUVVTUkhyMFpmNDZhNVZxS3BSd183N1A2RmYwUFdoUVBWTTYta21JdjlNcHJvUU91QQ?oc=5</link>
-      <guid isPermaLink="false">f0a3f1c0261d986f5049c707</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-01 19:46
-Passport Department services affected by internet outage OnlineKhabar English News</description>
-      <pubDate>Sun, 04 Oct 2026 05:47:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-04T05:47:35.583040Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T10:46:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -130,20 +144,6 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <pubDate>Fri, 02 Oct 2026 21:18:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T21:18:28.801545Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T11:14:32Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dhWm9HWWdDZnJEem9Hand0NEYwOVZScnF3OFZXWmZGQmNJc2hoMjQ0TDJvWkFPbkxIcVktMlZhMUZ6SEpIWEUycThQdU45Q3k3M01GNTI1dEE4REY0YXJ0VkZ2Y1BnZEY5MW56Vk5BRUxLUm13OTVQbE5kRkRTTjhyY2R0VWRsQWNvdHI4ZGk3QQ?oc=5</link>
-      <guid isPermaLink="false">2f369a23b3343205bd8a4c5e</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-01 19:34
-ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 Vietnam.vn</description>
-      <pubDate>Sun, 04 Oct 2026 17:01:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-04T17:01:41.623800Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T10:34:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

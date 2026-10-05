@@ -1,13 +1,35 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-05T08:58:18.583018Z",
+  "generated_at": "2026-10-05T18:23:18.743931Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "6cae1c3f404d2cc39b40669f",
+      "title": "BCCS updates communication practices following internet outage, school closure - hometownsource.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQN3Vranc0TE1kUmE5enJFdlljaU9IZVdMM0o2UlR3Y2RSSGpJX3FNcGtvQ1RpZE9yNHROMEtiRHpFX2Z4cXE4Mktral93SXk3dHYzWlp1U1VEYklKcnlyWi1MMmdYNHdYTl9vSVh4MkFVUjRrQVJqYmQzTU0yTGZ2dXNOSHB3X0ducEh3NVFCbkp2Q3FlS3lYNUtXdkp4d2d2Ul9KYXBOcy1HT2Foc2VEbzNxWmRyLWpDVC1YZmh5VUxPRmZJXzVyZU04WnA3VDVKelNRTlRScXV3dkQ2ZjRkQ210R09kRVQzY2U2YlBWMklnRk5KQUxiR0F0NkxtVVlGck5DOHI3NXRCRTZleUpaTHRYbk1nVzJueWJv?oc=5",
+      "summary": "BCCS updates communication practices following internet outage, school closure hometownsource.com",
+      "published_at": "2026-10-05T18:01:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "558a8ffe1c04271c7e791d3d",
+      "title": "Converge’s subsea cables spare Filipinos from internet outage - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlZKSUFwSXkwMkF6R3lZRTR0Vm0xRjA0ekY2WWNkTzMtSUlkY25BTUp0VHdDMzRqTmFCMDNYWE9kdDFaSXk1UmtIMHBQVVlHU3FQcHdyVVZFcjVIaVpiYl90Vm14N0ZaZS1LNVg1aGRnazZjY2ZtNFBqWlc2Y3ZqRUkxYnR5cjJsZVNBMUFnRHZYeDlTMWVpalhmV3hCNDZfc2NDbFFmQXRrOWNU0gGzAUFVX3lxTE82d1k0SnVrU1g4Yy1SWkU4WTNxV3p4cFNsM1BmdjRaRUhsT0ZLWHBkSERoaE1HMlp6UGRLNmVYVGRsMnVBbGR4WUlJdmZYZ0ZkQk9kQ3F3aVowc21kMjVRSWVCNTZ2TW5WUVVTVlJRdXpJRFlBbDVMRV8tczBTa1ZEUFotdFNmcHF2VDdYVWV2N0Y5dHFCc0V0SWdMOXhpOE1QanFROHhYcWp4UjlWWkxCTlhn?oc=5",
+      "summary": "Converge’s subsea cables spare Filipinos from internet outage Philstar.com",
+      "published_at": "2026-10-05T16:00:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "a4d3333f687777971dc323e3",
       "title": "Radford Internet Outage Follows Possible Data Incident - WDBJ7",
@@ -36,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOWEyQmM0RTFHdVBlNW1MbGpkd1RiTDhvbmFmVmg5Rk1ISW1hVFBEWU5nY09qempTbklVcDB3U0JObDBzYWVzdV9INjhCakI4V0h4bjlkLWtpcHEtc3ExY1Y2c1lSbDN4Zm5QR08tSFFoYTU2eUJmcjhIMkE3Y2M0STFSZDU2V2o4T2ptWDd6NVQtWkR2MkpQd3J4cnhodlQyeXhvYW9KU2lKVHZvbWdMTTJ6VHYwVEdhNnVvcG90ZVIwVWExTlljTXhlLXlHMkg4dDdkUUpNUm1HcFBSYS1idU9fcEFURXkxcjZocEgyUFk?oc=5",
       "summary": "Preble County 911 services routed to Darke County after internet outage Dayton Daily News",
       "published_at": "2026-10-02T00:10:04Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "f0a3f1c0261d986f5049c707",
-      "title": "Passport Department services affected by internet outage - OnlineKhabar English News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKYlV4NF9FQk5yaHhkVkR2RVgwdTl3N2ZPaHBaUDhMaFRMUWdIMXcwOHJDUVV5UnU5emdvQ3ktVXhEby1lWUo4Q0VOVUZYUVVTUkhyMFpmNDZhNVZxS3BSd183N1A2RmYwUFdoUVBWTTYta21JdjlNcHJvUU91QQ?oc=5",
-      "summary": "Passport Department services affected by internet outage OnlineKhabar English News",
-      "published_at": "2026-10-01T10:46:03Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
       "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 thinkit.co.jp",
       "published_at": "2026-10-01T11:14:32Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "2f369a23b3343205bd8a4c5e",
-      "title": "ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dhWm9HWWdDZnJEem9Hand0NEYwOVZScnF3OFZXWmZGQmNJc2hoMjQ0TDJvWkFPbkxIcVktMlZhMUZ6SEpIWEUycThQdU45Q3k3M01GNTI1dEE4REY0YXJ0VkZ2Y1BnZEY5MW56Vk5BRUxLUm13OTVQbE5kRkRTTjhyY2R0VWRsQWNvdHI4ZGk3QQ?oc=5",
-      "summary": "ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 Vietnam.vn",
-      "published_at": "2026-10-01T10:34:31Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
