@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:58:18 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Radford Internet Outage Follows Possible Data Incident - WDBJ7</title>
@@ -33,20 +33,6 @@ Radford internet outage follows possible data incident, investigators involved W
       <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T02:23:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 - vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFlKdlVhRjRfdGVsczdSOS1NeHdtbmR6X1ZxekkwbEVJMm91RHFHZ240eFRPa2ZMbWo5ODZnQjhKYW4tc2dVRWpWTmtScXU0bk5zeVJGaTlZX2lwLVBnZDEyWXJPVXJaMW5wWGxQTERPVUhrNG5nenNIVnBadnRSNHB6SlNzaWZkZE9JMUdocmthQ2c4OF82cVkwNVJsS1duTDZJbENMdEFuNnBXa3c?oc=5</link>
-      <guid isPermaLink="false">ca162366623dbcc5e7e3f17a</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-02 17:14
-ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 vietnam.vn</description>
-      <pubDate>Fri, 02 Oct 2026 11:20:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T11:20:38.046429Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T08:14:33Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -106,13 +92,27 @@ Improving Lambda function latency with scalable network bandwidth Amazon Web Ser
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - vietnam.vn</title>
+      <title>[性能・障害] ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFlKdlVhRjRfdGVsczdSOS1NeHdtbmR6X1ZxekkwbEVJMm91RHFHZ240eFRPa2ZMbWo5ODZnQjhKYW4tc2dVRWpWTmtScXU0bk5zeVJGaTlZX2lwLVBnZDEyWXJPVXJaMW5wWGxQTERPVUhrNG5nenNIVnBadnRSNHB6SlNzaWZkZE9JMUdocmthQ2c4OF82cVkwNVJsS1duTDZJbENMdEFuNnBXa3c?oc=5</link>
+      <guid isPermaLink="false">ca162366623dbcc5e7e3f17a</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-02 17:14
+ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 Vietnam.vn</description>
+      <pubDate>Fri, 02 Oct 2026 11:20:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-02T11:20:38.046429Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-02T08:14:33Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkJnTXVsYUJKVS1LYTQ4c25YdFFSd281dVFaQTAwV3FZVTlZZkN3OE9mSXFOekFWNlF2MDV2cXZJRjJad182TTlZZl9lV0p2TWR0XzlPakNyUGdMbEVnYTFsQVA0V3NGUkNsU0Q0MnhvbDRxQWdjU1RLTU5TWnM1VGNoVERhWEdOWHlTaXh1Tm4wcmFKdXFFazlqZGxzVU5hZEV1ZQ?oc=5</link>
       <guid isPermaLink="false">b1f62aa09f62ab526d4ce58e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-02 01:38
-ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 vietnam.vn</description>
+ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 Vietnam.vn</description>
       <pubDate>Thu, 01 Oct 2026 19:48:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-01T19:48:32.596700Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T16:38:46Z</sqm:sourcePublishedDate>
@@ -134,13 +134,13 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - vietnam.vn</title>
+      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dhWm9HWWdDZnJEem9Hand0NEYwOVZScnF3OFZXWmZGQmNJc2hoMjQ0TDJvWkFPbkxIcVktMlZhMUZ6SEpIWEUycThQdU45Q3k3M01GNTI1dEE4REY0YXJ0VkZ2Y1BnZEY5MW56Vk5BRUxLUm13OTVQbE5kRkRTTjhyY2R0VWRsQWNvdHI4ZGk3QQ?oc=5</link>
       <guid isPermaLink="false">2f369a23b3343205bd8a4c5e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-01 19:34
-ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 vietnam.vn</description>
+ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 Vietnam.vn</description>
       <pubDate>Sun, 04 Oct 2026 17:01:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-04T17:01:41.623800Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T10:34:31Z</sqm:sourcePublishedDate>
