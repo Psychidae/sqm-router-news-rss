@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 00:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:50:54 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] BCCS updates communication practices following internet outage, school closure - hometownsource.com</title>
-      <link>https://news.google.com/rss/articles/CBMimwJBVV95cUxQN3Vranc0TE1kUmE5enJFdlljaU9IZVdMM0o2UlR3Y2RSSGpJX3FNcGtvQ1RpZE9yNHROMEtiRHpFX2Z4cXE4Mktral93SXk3dHYzWlp1U1VEYklKcnlyWi1MMmdYNHdYTl9vSVh4MkFVUjRrQVJqYmQzTU0yTGZ2dXNOSHB3X0ducEh3NVFCbkp2Q3FlS3lYNUtXdkp4d2d2Ul9KYXBOcy1HT2Foc2VEbzNxWmRyLWpDVC1YZmh5VUxPRmZJXzVyZU04WnA3VDVKelNRTlRScXV3dkQ2ZjRkQ210R09kRVQzY2U2YlBWMklnRk5KQUxiR0F0NkxtVVlGck5DOHI3NXRCRTZleUpaTHRYbk1nVzJueWJv?oc=5</link>
-      <guid isPermaLink="false">6cae1c3f404d2cc39b40669f</guid>
+      <title>[性能・障害] Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnNCU2JMWGRadW5MbVNaZTR5cWozaXBuTENFWWo5Qm5Tb2FHQ18tSXFRVlJEaUUtY1lpN3pNbWpyZlRCblhVSnBhWEFUVERtUFQzUHU1OWRuNi1TNm5lV1ZkUWZHNnZUMTRqRTJINDJ0Z2k2d01YSXZSUHg1VmdXSnJLajZtWFdvOGpCRkZEZENGX3VGcWlER25QbUJxaUpmUXQ4cmVLM214Y3RpcE9UWmRDWS1lck1RQk9IWGFncw?oc=5</link>
+      <guid isPermaLink="false">cf3e181028d3fcc134253a85</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-06 03:01
-BCCS updates communication practices following internet outage, school closure hometownsource.com</description>
-      <pubDate>Mon, 05 Oct 2026 18:23:18 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-05T18:23:18.742937Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-05T18:01:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-06 03:14
+Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto</description>
+      <pubDate>Tue, 06 Oct 2026 06:50:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-06T06:50:54.360064Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-05T18:14:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,13 +92,13 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 - vietnam.vn</title>
+      <title>[性能・障害] ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxNMFlKdlVhRjRfdGVsczdSOS1NeHdtbmR6X1ZxekkwbEVJMm91RHFHZ240eFRPa2ZMbWo5ODZnQjhKYW4tc2dVRWpWTmtScXU0bk5zeVJGaTlZX2lwLVBnZDEyWXJPVXJaMW5wWGxQTERPVUhrNG5nenNIVnBadnRSNHB6SlNzaWZkZE9JMUdocmthQ2c4OF82cVkwNVJsS1duTDZJbENMdEFuNnBXa3c?oc=5</link>
       <guid isPermaLink="false">ca162366623dbcc5e7e3f17a</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-02 17:14
-ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 vietnam.vn</description>
+ハノイは、ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させている。 Vietnam.vn</description>
       <pubDate>Fri, 02 Oct 2026 11:20:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T11:20:38.046429Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T08:14:33Z</sqm:sourcePublishedDate>
@@ -106,13 +106,13 @@ City of Radford experiencing internet outage after possible ‘data incident’ 
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - vietnam.vn</title>
+      <title>[性能・障害] ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOWkJnTXVsYUJKVS1LYTQ4c25YdFFSd281dVFaQTAwV3FZVTlZZkN3OE9mSXFOekFWNlF2MDV2cXZJRjJad182TTlZZl9lV0p2TWR0XzlPakNyUGdMbEVnYTFsQVA0V3NGUkNsU0Q0MnhvbDRxQWdjU1RLTU5TWnM1VGNoVERhWEdOWHlTaXh1Tm4wcmFKdXFFazlqZGxzVU5hZEV1ZQ?oc=5</link>
       <guid isPermaLink="false">b1f62aa09f62ab526d4ce58e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-02 01:38
-ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 vietnam.vn</description>
+ネットワークインフラ、システム、インターネットサービスのIPv6への移行を加速させる。 Vietnam.vn</description>
       <pubDate>Thu, 01 Oct 2026 19:48:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-01T19:48:32.596700Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T16:38:46Z</sqm:sourcePublishedDate>
@@ -134,13 +134,13 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - vietnam.vn</title>
+      <title>[性能・障害] ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 - Vietnam.vn</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1dhWm9HWWdDZnJEem9Hand0NEYwOVZScnF3OFZXWmZGQmNJc2hoMjQ0TDJvWkFPbkxIcVktMlZhMUZ6SEpIWEUycThQdU45Q3k3M01GNTI1dEE4REY0YXJ0VkZ2Y1BnZEY5MW56Vk5BRUxLUm13OTVQbE5kRkRTTjhyY2R0VWRsQWNvdHI4ZGk3QQ?oc=5</link>
       <guid isPermaLink="false">2f369a23b3343205bd8a4c5e</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-01 19:34
-ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 vietnam.vn</description>
+ハノイは、インターネットサービスのIPv6専用化への移行を加速させている。 Vietnam.vn</description>
       <pubDate>Tue, 06 Oct 2026 00:19:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-06T00:19:30.078037Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-01T10:34:31Z</sqm:sourcePublishedDate>
