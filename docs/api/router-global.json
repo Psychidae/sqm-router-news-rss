@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-06T14:09:08.444170Z",
+  "generated_at": "2026-10-06T19:30:16.095395Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -10,9 +10,9 @@
   "items": [
     {
       "id": "eadedc9eb4c50639aa2710e0",
-      "title": "Asus ROG Rapture GT-BE19000AI Gaming Router Review - powerup-gaming.com",
+      "title": "Asus ROG Rapture GT-BE19000AI Gaming Router Review - PowerUp!",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1JudnlfdUFuOG1OdU5hZVFWTjRvdEhMU01Kd05GS2ZHbFVTaTdnb2pQWUJjdEE2RUh1dDBtcXNnZ3JGNDM5V09EV1BjRHBzdUQ3ekNzRGJ6dEtEdnlaVGxvWU5QckJ1R1pWNVJGR2VCc3NCQ0JGYXdqd0VPbzZ4ZG03ZlA?oc=5",
-      "summary": "Asus ROG Rapture GT-BE19000AI Gaming Router Review powerup-gaming.com",
+      "summary": "Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!",
       "published_at": "2026-10-06T04:20:23Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
@@ -24,7 +24,7 @@
       "title": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkloMGpDSjFDYS0zLUo1c0JGcktOTzl3cG9pd3E1alJZSEE0MmxZRFNyZWllZlVzbWpqclpIYndkMDJJZ19oWkp4MTAxZlhTNG9MZW5pODJQaFNyYUc4ZVo2bVhaSDdDYmZrY01Pc2ZUNDRCQy1uNk5wZHg3eUpVRlFB?oc=5",
       "summary": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras PCMag",
-      "published_at": "2026-09-28T18:27:04Z",
+      "published_at": "2026-09-28T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -39,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "aa02e68bc97778f1bc9280a0",
@@ -97,22 +97,22 @@
       "score": 11
     },
     {
-      "id": "54500ba2a1ecbccda2c693aa",
-      "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Rd3oxaG93U1dKQzBoNXVtYUFiTDh1cU0yS0NxZjNSNnBwdEtqUWV0Mnk4NWg4TjRTTWxIckdLY3YxMlpSSVZmX01UUkFVN1BoVy11LVZCek9iUnBQRHYwYTFEbEhnU2YxZU5SbURWTTI4cWhJV044Yg?oc=5",
-      "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics PCMag",
-      "published_at": "2026-09-28T18:29:16Z",
+      "id": "47143f568aba59e87956ac99",
+      "title": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5",
+      "summary": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar",
+      "published_at": "2026-09-28T16:26:58Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
     {
-      "id": "47143f568aba59e87956ac99",
-      "title": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5",
-      "summary": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar",
-      "published_at": "2026-09-28T16:26:58Z",
+      "id": "99bdac4e5a9e44d51b377ec6",
+      "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - PCMag Middle East",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW5WOWJzbzNxYXo3djR5VTdqRTdRNDd2cHBiYWg5MHBQcEVSZVRrZ1J1VnBiblM2MzhxeUdSSkZRVjd5eGVoMm9hTzR0blozNUFjYzZjMnJHZWJqR2FnN2xPWFVZUXkwbG9FNkdsc2tfY3ZpdEJQVG40dzVGM0ZLTmhWVnRxb3FELWNQaXBDTEdrTGl6MDJXREhBMFMxZHF5NHhoWnZFSXNHdks0NHMySHlwMW9KUEQxaEFmQ2xTQUpiazhrUC1LcEFB?oc=5",
+      "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics PCMag Middle East",
+      "published_at": "2026-09-28T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
