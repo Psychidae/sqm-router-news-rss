@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-06T06:50:51.064009Z",
+  "generated_at": "2026-10-06T14:09:07.174878Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,9 +42,9 @@
       "score": 16
     },
     {
-      "id": "b2278729039f00a3eb39e519",
+      "id": "4538f06a10abc3f7cefb90ec",
       "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN3phcVRUWGdhQnBqS1l6YlFDMHlyd2pMOHJQMzVkeVJoN2FtUll6Nl8yRmJ6VzRnRWFQV1M5NEpQMDgtMjZfTVROczRDelpjLTcxRkZpeUhLWVFiWmljaXpsLXZvM29wQ0RhcFJWb1dXa29YRG1RSkljb3kwUGJtRjJ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHF5X0h2NDZPdkpwdXdmTHdmWktHUjR5cVFFc0prQnB4bkZJQ29CeU5GczFkTTVRNHN3QmVXblJUZUN2VW9OR1J3b296S0xYVFllOUt0Qi1WS0EtU3N4Z1ZORF9HUDVVNzBQaHMtbUpsZUdGUWwyLWpwY3N4cDdhWmxR?oc=5",
       "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
       "published_at": "2026-10-02T08:34:00Z",
       "source": "Google News JP: router vendors",
@@ -86,11 +86,11 @@
       "score": 11
     },
     {
-      "id": "97a530907c4c04831302ca05",
-      "title": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWU1XWFlWZi1rVUdab01GNGNOVFE4UmpyZVFPTDRMVnJyRGQ4S28wS1liUWJWMWdEVUFCV2ZQcVB3MzBDYndsMXNOdUU4X0pJQVUwTVVJY0pzaklxdDZkMnNfVUpsd2d3X1BwUHJyTXJNV0U1X1k0U01JbWFVSmdmdjJvTlQybWRuMjBYNGdR?oc=5",
-      "summary": "バッファローのWi-Fiルーターに脆弱性 「WSR-300HP」など2製品、利用者は更新を (アスキー) Yahoo!ニュース",
-      "published_at": "2026-09-28T06:16:29Z",
+      "id": "c3daeab72524506c32a925b5",
+      "title": "TP-LinkがTOP3にランクイン 無線LANルーター人気ランキングTOP10 2026/9/28（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tZk04MVV2WERFVTg3T01VMWlKN0Fvc0k3NHJGTVdvdWtmMzRlTEJidmlGd1liX1BGSmh5X2VjbmNjSHp4b0xrS19GX095c2FOOVo2OTlhVHJJVzBQRTlnZzZhZVFSSHpXd09lS2diNFJoU2NtUFlsUzVZNUhVZjA?oc=5",
+      "summary": "TP-LinkがTOP3にランクイン 無線LANルーター人気ランキングTOP10 2026/9/28（BCN） Yahoo!ニュース",
+      "published_at": "2026-09-28T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

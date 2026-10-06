@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:09:09 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] バッファロー製 Wi-Fi 製品に複数の脆弱性（ScanNetSecurity） - Yahoo!ニュース</title>
@@ -22,16 +22,16 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを - マイナビニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JYS13U1Z0MDJiT1NvR2NvWC1weXZoVXl1RmVrQ1NFQjcxT0h2WmRHSU16ZjZrR3kxZDdtMzRSa1F5WjdTRnJQNHB3b2dFTG1SWE9NYjJNTXZHVjVfUUdhekhnLTVvZ2hF?oc=5</link>
-      <guid isPermaLink="false">70f8c0a12dda2fb2794192b7</guid>
+      <title>[セキュリティ] 「チケット流通センター」Androidアプリに脆弱性 最新版にアップデートを - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSXFkQWxHczNBZDFQQWtER2tWbGRMYzRvSS1NNl9xc0lpRjhLYmkwSER5WVl2bzhWbDBuZ1ZUUW40MnVqcjdEbUt4VHNrR053cjB0Tw?oc=5</link>
+      <guid isPermaLink="false">28c213d079ab6e1ea32365af</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-09-29 16:34
-バッファローのWi-Fi製品に複数の脆弱性、速やかにアップデートを マイナビニュース</description>
-      <pubDate>Tue, 29 Sep 2026 11:33:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-29T11:33:55.764006Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-29T07:34:02Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-06 14:45
+「チケット流通センター」Androidアプリに脆弱性 最新版にアップデートを ASCII.jp</description>
+      <pubDate>Tue, 06 Oct 2026 14:09:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-06T14:09:09.567146Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-06T05:45:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -46,20 +46,6 @@ ASUS製ルーターには深刻な脆弱性があります。ユーザーはフ�
       <pubDate>Sun, 04 Oct 2026 12:17:17 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-04T12:17:17.608011Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-04T08:15:39Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] TP-Link、4G・ソーラー給電・パンチルト対応セキュリティカメラキット「Tapo C665G KIT」 - kakaku.com</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBjTmQ1dDY5UEpyNVROU1dNOE42N2FNdS1iNFVVN0I2LUJCakZ0TUFnV3EtaUM5Ti01VmZtZHBneVdJeldGV2hOMzdmajd1WHd4ZU9YekNOcVEwdGR4SWtaNmhtUjJDdHNudnRGc0xOYw?oc=5</link>
-      <guid isPermaLink="false">d92262e68ce3674b8a3e7fc2</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-01 17:30
-TP-Link、4G・ソーラー給電・パンチルト対応セキュリティカメラキット「Tapo C665G KIT」 kakaku.com</description>
-      <pubDate>Mon, 05 Oct 2026 18:23:17 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-05T18:23:17.585080Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-01T08:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
