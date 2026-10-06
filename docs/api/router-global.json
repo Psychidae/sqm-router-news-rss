@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-06T19:30:16.095395Z",
+  "generated_at": "2026-10-06T23:14:04.164800Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "e8d12438a7a0e0f38e1eb1b2",
+      "title": "This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pWUWl6NkNPamh1a0tJUl9xekZkQXZfRzd1by1mUktFOUloZXdBYm5OOUxpYU1TbEtlREhQN09XeFk4dndhck9mUTBNeEk3eHEyanFScV9WYU1wY3hxXzRNWHYtSnNITHg5RnVmaW9sd2pkaE5RekdnR3k5S2tybS1nOGlOY3B3dFVVanpSYjBsNFpQeFE?oc=5",
+      "summary": "This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker",
+      "published_at": "2026-10-06T22:18:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "b974805aed889f6128010bd0",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5",
       "summary": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar",
       "published_at": "2026-09-28T16:26:58Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "99bdac4e5a9e44d51b377ec6",
-      "title": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaW5WOWJzbzNxYXo3djR5VTdqRTdRNDd2cHBiYWg5MHBQcEVSZVRrZ1J1VnBiblM2MzhxeUdSSkZRVjd5eGVoMm9hTzR0blozNUFjYzZjMnJHZWJqR2FnN2xPWFVZUXkwbG9FNkdsc2tfY3ZpdEJQVG40dzVGM0ZLTmhWVnRxb3FELWNQaXBDTEdrTGl6MDJXREhBMFMxZHF5NHhoWnZFSXNHdks0NHMySHlwMW9KUEQxaEFmQ2xTQUpiazhrUC1LcEFB?oc=5",
-      "summary": "Tenda ME6 Pro Review: This Budget Wi-Fi 7 Mesh Delivers Just the Basics PCMag Middle East",
-      "published_at": "2026-09-28T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
