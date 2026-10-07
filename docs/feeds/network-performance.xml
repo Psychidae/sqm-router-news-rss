@@ -5,18 +5,18 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 23:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:22:39 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnNCU2JMWGRadW5MbVNaZTR5cWozaXBuTENFWWo5Qm5Tb2FHQ18tSXFRVlJEaUUtY1lpN3pNbWpyZlRCblhVSnBhWEFUVERtUFQzUHU1OWRuNi1TNm5lV1ZkUWZHNnZUMTRqRTJINDJ0Z2k2d01YSXZSUHg1VmdXSnJLajZtWFdvOGpCRkZEZENGX3VGcWlER25QbUJxaUpmUXQ4cmVLM214Y3RpcE9UWmRDWS1lck1RQk9IWGFncw?oc=5</link>
-      <guid isPermaLink="false">cf3e181028d3fcc134253a85</guid>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1VLOV81RGJEMm54QzdYX1MxRUcwa2JIckUwbHY5YkVBd0JiS2lrUEs3TnBjWkE1Umt2STNQTkxEMHg4empQenBVUldzbmZMNTQ2UXRnOWxXZ0hvY1E1V1FhMlIyZlZsRG5tRkJPa1FuSlRMRlRlejVBQkkwbk43eTdLNEt6X25JUUQ1ZTQwd3E2S3F1TTVyQkxMenV5WEFGWkQ0U0ZJUzZZazUtLWJMTFoxWXlsRlAzbWc3Q0RqQ2hFVmVNOWRKbU1rOE0wdmx2WnBqaUF6Vl9UZw?oc=5</link>
+      <guid isPermaLink="false">935793f0cd9919a79a2691af</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-10-06 03:14
 Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto</description>
-      <pubDate>Tue, 06 Oct 2026 06:50:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-06T06:50:54.360064Z</sqm:firstSeenDate>
+      <pubDate>Wed, 07 Oct 2026 02:22:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T02:22:39.799086Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-05T18:14:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
@@ -33,6 +33,20 @@ Converge’s subsea cables spare Filipinos from internet outage Philstar.com</de
       <sqm:firstSeenDate>2026-10-05T18:23:18.742937Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-05T16:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる - GIGAZINE</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9IRzRyMEVEd2pybDl3NnJCNG43VXBwZWJGQy1YZVNWbmJMSXZsdDFMdlZkTmtDWFYzZEJpVXh4elVpb2ROcWZOTVphbGUzYzh2Qk8wYlZjdG80T2hYRWpfU2xqS0xHcV9KSng2akdR?oc=5</link>
+      <guid isPermaLink="false">6b1ca2fd1fec3184cbdf62d3</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-06 08:05
+TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる GIGAZINE</description>
+      <pubDate>Wed, 07 Oct 2026 02:22:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T02:22:39.799086Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-05T23:05:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -60,20 +74,6 @@ Radford internet outage follows possible data incident, investigators involved W
       <pubDate>Fri, 02 Oct 2026 05:31:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T02:23:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] City of Radford experiencing internet outage after possible ‘data incident’ - WSLS</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW9CUFdoQ1M5RVhGWHBLbXFJdXhGU0djLXBWM0JVSnhYNXl0YU5ycVk5UTZFa3ZGUEhXXzZXS0hzLWN3Y2ZSQWt0d1ZQQWxzZGdFYkxrd0YyMXJOcEdpSERvd2paakRYSHJxOWo3TTl5Z2FVQTE4M0VnbWxqd0ZuSEdJQjdKVXI0aWR5UllqRDlhbjltMkFUVVlPRXRtQmVTQU90YWVSeFdaTWhISVdQQjgzSUdrQTA4?oc=5</link>
-      <guid isPermaLink="false">4558b33a02fc63f883dc5ccf</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-09-30 09:48
-City of Radford experiencing internet outage after possible ‘data incident’ WSLS</description>
-      <pubDate>Sat, 03 Oct 2026 14:54:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-03T14:54:38.315122Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-30T00:48:26Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
