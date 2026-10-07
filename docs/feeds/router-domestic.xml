@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:33:52 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] TP-LinkのWi-Fi 7/10GbE対応ゲーミングルーターが25%オフ、全ポートマルチギガでSFP+も利用可 - 24Wireless</title>
@@ -13,12 +13,40 @@
       <guid isPermaLink="false">2184d35a2557afa06b8832c7</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router products
-元記事日付: 2026-09-25 20:03
+元記事日付: 2026-09-25 16:00
 TP-LinkのWi-Fi 7/10GbE対応ゲーミングルーターが25%オフ、全ポートマルチギガでSFP+も利用可 24Wireless</description>
       <pubDate>Sat, 03 Oct 2026 05:44:57 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-03T05:44:57.474462Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-25T11:03:33Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-09-25T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] バッファロー、最大1536台同時接続可能な法人向けWi-Fi 7アクセスポイント「WAPM-BETR」発売 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFA4NFktSDhkNDJIOXhqcHNzVlhNRGRPSDFFZlVfcFRmWXFjY0NrMVY4aGN1Xy1qdVNOc0FVa2ZnR25tN2VaaXRVS0NJbkNGNVNRUFNjUUs3N3pNLVd2T3hNT1FHeE5LN05aQmRF?oc=5</link>
+      <guid isPermaLink="false">fb02b0e825fb22f6a68df30e</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-10-08 06:30
+バッファロー、最大1536台同時接続可能な法人向けWi-Fi 7アクセスポイント「WAPM-BETR」発売 INTERNET Watch</description>
+      <pubDate>Wed, 07 Oct 2026 21:33:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T21:33:52.690641Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-07T21:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - au Webポータル</title>
+      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBuQVNucTRQOEhjd2QxclBDMlBlNWFiTzNDLVRVZ09tZGFrWUpWN2NIZ0ZMLWxjSGdTcDV6azVta3RabVMxc2E3YjFVWG1nMkw0d056X3JGUXg3Q3BGSHRvazRJMUJ0MWZUVGdlcmx3?oc=5</link>
+      <guid isPermaLink="false">147e0e062b3c96a9d4fbf44e</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-10-07 18:16
+ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター au Webポータル</description>
+      <pubDate>Wed, 07 Oct 2026 21:33:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T21:33:52.690641Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-07T09:16:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
     <item>
@@ -78,45 +106,17 @@ ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター J-CAST ニュー�
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] ASUSのROG20周年記念Wi-Fi 7ルーターが14万円台で国内発売、ゴールドが特徴的な専用デザインで登場 - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE16S1lrQlpzRy1YNjFoR1RuYUE2RHRrYnoyVTRFVHdJd0FjSy0wSmFyWEtQYmRCcC1WNHlUWlljdnFjSXN0N1RIeW1jaHAxN19CYVpKSnVzLVNXeUl1UGdubEZzME8?oc=5</link>
-      <guid isPermaLink="false">7d040c5f900e62c6df7255d8</guid>
+      <title>[国内ルーター市場] ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxQQk55MlhNLWszdXNleko5SExseG1ZTjJGMmI5WTRUaGZFc0RSeURDTnVxOXBzMHRCZG91Z1VrZVZVazktOFBkY2lOdWNQa0FBZ2ZvU0JCeDBGYy1SWU4wWF9kVmIxTHFCTWpkNjBZZk5DWU0yNjhqWVFFaV9yX2NrZ05B?oc=5</link>
+      <guid isPermaLink="false">96cfe6321d0b5ddd59276a6d</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
-元記事日付: 2026-10-03 23:31
-ASUSのROG20周年記念Wi-Fi 7ルーターが14万円台で国内発売、ゴールドが特徴的な専用デザインで登場 24Wireless</description>
-      <pubDate>Sat, 03 Oct 2026 14:54:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-03T14:54:34.821202Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-03T14:31:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGFVVGhQeWR6V3BWYWc5NkJJTWRtX1RQbURUTUJZOXgtWFBDTzhKdlhCdkZkaWFDWUV5ZE5vRW5DWjhndTMxVmVTbjVYVGJIT284MExOcjV0ZHc4bUZlc05yWjJ1WmVsZ2ZBV28wNi1wa2hjQWtnc05ZaVU5b2VHSWJ3?oc=5</link>
-      <guid isPermaLink="false">8b05719b997c79ab1f108015</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-10-02 18:13
+元記事日付: 2026-10-02 18:14
 ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net</description>
-      <pubDate>Wed, 07 Oct 2026 16:28:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-07T16:28:04.619379Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T09:13:07Z</sqm:sourcePublishedDate>
+      <pubDate>Wed, 07 Oct 2026 21:33:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T21:33:52.690641Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-02T09:14:15Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net</title>
-      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sTUJsUGEzcUNoS2MzZ3NRdXZpLWdzN1Zlck50SW04RXNTYzMxcW5rZmRGckhxdk5mR2RjZDF2Y0hJckpxcmNYaDdxMUFQaXB2ZS1janFISVh6S005NFNNYzZKRQ?oc=5</link>
-      <guid isPermaLink="false">d722b83bf3fffc7476ff4132</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router products
-元記事日付: 2026-10-02 17:34
-ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net</description>
-      <pubDate>Fri, 02 Oct 2026 11:20:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T11:20:34.753023Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T08:34:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
       <category>国内ルーター市場</category>
     </item>
   </channel>

@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-07T16:28:07.317431Z",
+  "generated_at": "2026-10-07T21:33:53.925319Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "46392f1aa6d2ed7e6a79984b",
+      "title": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzcyeVUzZll0MlpTb2hJSmU1VUlDTlBPQkRCYklPbEpBTlliTnI0UTBMSFlyYWJIeEZXeDdGdTdTMjYzWjNrRkRHSXhGZ0l6bi0tWHZnNXlkOVRrajZUUjhZb19VMXpVQ0haS1JObk5GcnpIU0drbWNuOUhUQ05JMl9pbw?oc=5",
+      "summary": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 Android Authority",
+      "published_at": "2026-10-07T17:12:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
+    },
     {
       "id": "eadedc9eb4c50639aa2710e0",
       "title": "Asus ROG Rapture GT-BE19000AI Gaming Router Review - PowerUp!",
@@ -29,6 +40,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "5a5b1d2f59a4136195f17bb5",
+      "title": "Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHlfaHdIdW5RdXRXQkhKaGJoNDNLNXgwYnN2NkVqNFllNVI5THV6SGFTdjViUWF6SUhDc0FkTEFNLTFqUzd3dU81bU50UlQxR05RTlF6UmZUTWtScUMxSFNzTTBLejBNeVNuZ1hSRFh1bUxHVEVCUmVaYWtrcXpHRmREM2NldWRTTlpzQmptZXc3NUhkRjBQSzh1amRGSmlQUkxZV2hnM3JQU21PRXNWVXppSXNhaHc?oc=5",
+      "summary": "Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime Gizmodo",
+      "published_at": "2026-10-07T17:10:49Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "8178e93cc207fb9476ae47c1",
+      "title": "TP-Link cuts Wi-Fi 6E and Wi-Fi 7 router prices for Amazon Prime Big Deals Day - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDJJWUFkdzNwNjl3WDZ5ZExrdU5Tb0duZ1pNTFlSUjRZanM2S285VG03bGVsR0xCc2xGa0pmcm5tUHpZOS1hQU1YRGExT2xmd0U1UDFXRG9fcjFaVmtzbXBJNU9UOE5RSjlKa2xqUW4xVEd0OHZ3OG9vMmg1SzNRcEtDNWt6QVc2RlBYMUpkaTR0RkxIV2l6YjJNWHVJOVFqeG1zNGl1UGw3LWc?oc=5",
+      "summary": "TP-Link cuts Wi-Fi 6E and Wi-Fi 7 router prices for Amazon Prime Big Deals Day news.lavx.hu",
+      "published_at": "2026-10-07T16:12:33Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "e8d12438a7a0e0f38e1eb1b2",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "9435a6147c709c4425608bc7",
-      "title": "Grab an $80 discount on this TP-Link Wi-Fi 7 router with five 2.5G Ethernet ports — limited-time deal on the Archer BE550 nets a tri-band router with fast speeds to upgrade your home network - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMEJHMkd5bmtucGFHQjVvYjQ1RWNiaElnS0pMT3NjR2pDbzNJbTBJSUs0YXBINThIUUNCYjFNVV9ZLXlOd0I3VGo4NFRwQUJkZmRvNzRRQ0RpNFU5WE5jY2M2dzJQU1dpN3l6YW00aXN3cGRQemJOWFFWZlI5QlR5MWtCbE96akdGS3daa3hKNS16RmxBRkFFdUxuN1N4LWh0cmZxaW9TTXFadUd4TWZaYUhfeDg5bG9WckhtdWZEYzZ6M1ViRThrN0ZreGNZWmMySWRxU2dDbUlyWmZvWXdaV3RiSDhqX3VLRUZQT2ZNMVFOQXJXMnY4Y1k2SXc0cW0wZ3VFdVJmS3NXX3ppWG9FUkJWd3l4LWdzZThvRmVpNEhzNEF2OHd0WnZEYTJSSVJJTGlWQi1Rc1BMakEtc2RVZG9YU1RHMGR0Nktldkh3dDF4U19lRGhjb09B?oc=5",
-      "summary": "Grab an $80 discount on this TP-Link Wi-Fi 7 router with five 2.5G Ethernet ports — limited-time deal on the Archer BE550 nets a tri-band router with fast speeds to upgrade your home network Tom's Ha...",
-      "published_at": "2026-10-02T12:20:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "dfe13c0b41694f48bdad0ac1",
-      "title": "TP-Link GE550 Router Video Review - Root-Nation.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2VU92aWFJbGgyNUlMR1ZrTTNPYjI1MjhQdU9adGQ3aDZ1dFU1ajhzYjV2RGE0MzFRSnpuWTNoVFNzQ0JMTzhpb1RNRkxzNHlTdDhJUUFhVS1JT2JETXFxTEF1S2JLanY0dUFUbW42VmU0SEFscXc?oc=5",
-      "summary": "TP-Link GE550 Router Video Review Root-Nation.com",
-      "published_at": "2026-10-01T10:28:07Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "fb3a5496e02d7e36ceaa4e3a",
-      "title": "Vodafone Germany starts to market Fritz!Box Wi-Fi 7 router with fibre plans - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBod2VRb3ZPVUd6S211ZEg2cmtjdDZreXNnRVBpNlVSOFNUWHk1dWtGMGN4NDN1T29MYmVnYTBla1IxUUR6NWp1NnZfdjRlQVFDTVBvTnlBUzhzQTB1eTNucXIxa1BiX2JqNFJyVnp1cUFEN2JPSEZqWk8wOF9MLVFUdS11ZHI2aW9oWEpSR24wMGxfeHpkdk4wd01BQ1h1TjVfWldMUUJfa1U3NHBrNllUUDhfWDNF?oc=5",
-      "summary": "Vodafone Germany starts to market Fritz!Box Wi-Fi 7 router with fibre plans Telecompaper",
-      "published_at": "2026-09-29T07:49:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
