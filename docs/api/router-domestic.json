@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-07T09:14:51.964302Z",
+  "generated_at": "2026-10-07T16:28:04.620494Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,13 +20,24 @@
       "score": 20
     },
     {
-      "id": "f2604a35db7e77736d0737d3",
-      "title": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkM1Ytek1NaURZWFRxQjVFTEZuekFVZVF0Wkh1dWpHZXB6blVUblZjbm5LUzUwc2FwNjQ3bVBIaUlzQVJhS1JzeUxuS0lKdXNfNEZDXzFFYzZqN1QxcUJGODNiM3ludUlhal8w?oc=5",
-      "summary": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター Infoseek",
+      "id": "e590bc8eee3de9e0cb25d648",
+      "title": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDS2ttMG9aZU9BZlNSclBlUDdNZFVCV1pIYVljdE1CVUpaSEVOcExsN1dMaHllR3dMS3RnVHluSG9NX0E4QVFTNkdmRnF2dkdMQUgwOWlaX2g5M0F0TnlZM3g2MGdRZEZBV29yM1lrV3otcUdib1pn0gF3QVVfeXFMUENLa20wb1plT0FmU1JyUGVQN01kVUJXWkhhWWN0TUJVSlpIRU5wTGw3V0xoeWVHd0xLdGdUeW5Ib01fQThBUVM2R2ZGcXZ2R0xBSDA5aVpfaDkzQXROeVkzeDYwZ1FkRkFXb3IzWWtXei1xR2JvWmc?oc=5",
+      "summary": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター ｄメニューニュース",
       "published_at": "2026-10-07T09:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
+    {
+      "id": "0fee9917982ef511638f8f54",
+      "title": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - J-CAST ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uS1NLTmpuTXU5N2hrZ19ZT2d6SDZwNlpGcG4wSks1Z0U2LUlVbmxZOXhSNkM3WDdqNjAxblRwYkh2V2J3MUJVODdVZTdna0l0NU9jVEZRdnZfOFlsNWk1R1NKWHDSAWRBVV95cUxPbktTS05qbk11OTdoa2dfWU9nekg2cDZaRnBuMEpLNWdFNi1JVW5sWTl4UjZDN1g3ajYwMW5UcGJIdldidzFCVTg3VWU3Z2tJdDVPY1RGUXZ2XzhZbDVpNUdTSlhw?oc=5",
+      "summary": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター J-CAST ニュース",
+      "published_at": "2026-10-07T09:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 18
     },
@@ -35,7 +46,7 @@
       "title": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも - 電波タイムズ",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UjNFaHk2alpWMDU2ZWZOSF85dW1nU2NZWUxYU1J6NHhGZ19tbzJWMlhNbGRCckd1Q2RyTDFMWjBJVkNaQlBwa2RYUjRMVEZ1LTFkVEhCSkRYbU0?oc=5",
       "summary": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも 電波タイムズ",
-      "published_at": "2026-10-07T04:18:03Z",
+      "published_at": "2026-10-07T04:19:45Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -64,6 +75,17 @@
       "score": 16
     },
     {
+      "id": "8b05719b997c79ab1f108015",
+      "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGFVVGhQeWR6V3BWYWc5NkJJTWRtX1RQbURUTUJZOXgtWFBDTzhKdlhCdkZkaWFDWUV5ZE5vRW5DWjhndTMxVmVTbjVYVGJIT284MExOcjV0ZHc4bUZlc05yWjJ1WmVsZ2ZBV28wNi1wa2hjQWtnc05ZaVU5b2VHSWJ3?oc=5",
+      "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
+      "published_at": "2026-10-02T09:13:07Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 16
+    },
+    {
       "id": "d722b83bf3fffc7476ff4132",
       "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sTUJsUGEzcUNoS2MzZ3NRdXZpLWdzN1Zlck50SW04RXNTYzMxcW5rZmRGckhxdk5mR2RjZDF2Y0hJckpxcmNYaDdxMUFQaXB2ZS1janFISVh6S005NFNNYzZKRQ?oc=5",
@@ -73,28 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
-    },
-    {
-      "id": "4538f06a10abc3f7cefb90ec",
-      "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHF5X0h2NDZPdkpwdXdmTHdmWktHUjR5cVFFc0prQnB4bkZJQ29CeU5GczFkTTVRNHN3QmVXblJUZUN2VW9OR1J3b296S0xYVFllOUt0Qi1WS0EtU3N4Z1ZORF9HUDVVNzBQaHMtbUpsZUdGUWwyLWpwY3N4cDdhWmxR?oc=5",
-      "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
-      "published_at": "2026-10-02T08:34:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
-      "id": "66d2671392881ce3ff716ac6",
-      "title": "TP-LinkのWi-Fi 7ルーターがAmazonセールで安い！ 最大2882＋688Mbpsの「Archer BE220」は8680円 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ndHN4LU5ubno1Q2V5VHhiOWV3WGREaDJGZVltU05seFZQeEZVZEpDWmJiTmFMSnpxMDBtOFA1X1dCUDh0eWV4b3lsUTdIMVVDbGdPSGJBNm1lQlFodDdRVFFIcERNb1NzTFhMd1V2dWY?oc=5",
-      "summary": "TP-LinkのWi-Fi 7ルーターがAmazonセールで安い！ 最大2882＋688Mbpsの「Archer BE220」は8680円 INTERNET Watch",
-      "published_at": "2026-10-07T02:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
     }
   ]
 }
