@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-07T02:22:37.696608Z",
+  "generated_at": "2026-10-07T09:14:53.065396Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "804a6a0312ca90b71e1759fb",
@@ -40,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
+    },
+    {
+      "id": "b3ef013aad6aca288a2210c3",
+      "title": "Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5",
+      "summary": "Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk",
+      "published_at": "2026-10-07T01:59:46Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "b974805aed889f6128010bd0",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMVBod2VRb3ZPVUd6S211ZEg2cmtjdDZreXNnRVBpNlVSOFNUWHk1dWtGMGN4NDN1T29MYmVnYTBla1IxUUR6NWp1NnZfdjRlQVFDTVBvTnlBUzhzQTB1eTNucXIxa1BiX2JqNFJyVnp1cUFEN2JPSEZqWk8wOF9MLVFUdS11ZHI2aW9oWEpSR24wMGxfeHpkdk4wd01BQ1h1TjVfWldMUUJfa1U3NHBrNllUUDhfWDNF?oc=5",
       "summary": "Vodafone Germany starts to market Fritz!Box Wi-Fi 7 router with fibre plans Telecompaper",
       "published_at": "2026-09-29T07:49:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "47143f568aba59e87956ac99",
-      "title": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5",
-      "summary": "TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar",
-      "published_at": "2026-09-28T16:26:58Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:14:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Asus ROG Rapture GT-BE19000AI Gaming Router Review - PowerUp!</title>
@@ -47,6 +47,20 @@ This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker</de
       <sqm:firstSeenDate>2026-10-06T23:14:04.164093Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-06T22:18:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5</link>
+      <guid isPermaLink="false">b3ef013aad6aca288a2210c3</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-10-07 10:59
+Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk</description>
+      <pubDate>Wed, 07 Oct 2026 09:14:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T09:14:53.064413Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-07T01:59:46Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Vodafone Germany starts to market Fritz!Box Wi-Fi 7 router with fibre plans Tele
       <pubDate>Tue, 29 Sep 2026 11:33:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-09-29T11:33:54.590176Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-09-29T07:49:15Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTnJKUnZFbVY0bDBzTURhcFN4aFZGRFVRVWVtVDFMQ1oyQWNDQ1BkREQ0alRWZFNJUjEwQ05ZQ1JUR2lLcU55QjFxSFZDczF5SlRaNFV3amR5UzV6NVoxYTJSaWo0dDJQLUZyQnB5SXhFNUVKX2hHWmc4dlpvb2MtREpVdmJsdEU3b1ROMjl0V2Y3SkZ2RHk5R0tYZFdCSmpLRGJLUmNzci1Kak54WVRva3d6Z2pRWVFoV0xlQVRKRWNmcGQ5bmVQQk9WUVVWRE1taFhFRzNrUnVHc29TOFBv?oc=5</link>
-      <guid isPermaLink="false">47143f568aba59e87956ac99</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-09-29 01:26
-TP-Link’s multi-gig Archer GE550 Wi-Fi 7 router drops to £220 at Amazon — and it beats a lot of rivals on port speeds TechRadar</description>
-      <pubDate>Mon, 28 Sep 2026 19:39:11 GMT</pubDate>
-      <sqm:firstSeenDate>2026-09-28T19:39:11.100313Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-09-28T16:26:58Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
