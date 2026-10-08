@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-08T07:58:11.060100Z",
+  "generated_at": "2026-10-08T15:33:16.497706Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "e7d5f64ae088762337e23ff4",
+      "title": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売（AKIBA PC Hotline!） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdUlia0kwbFUzVE55dXZxRXN0Uk80ZjBDMnpmSXBTZWNOeEYxS042d0lBN3RUMFpCVkl0cDlOWl9oZVZXUnRHbzVMeTZPVU1VSnRlU3RjbDBScUZ3YUs5VXl0eEhIZzhzQ3VXNmkwLTZGdGpMRWNyaFA3OGt1VXM?oc=5",
+      "summary": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売（AKIBA PC Hotline!） Yahoo!ニュース",
+      "published_at": "2026-10-08T15:10:25Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 23
+    },
     {
       "id": "2184d35a2557afa06b8832c7",
       "title": "TP-LinkのWi-Fi 7/10GbE対応ゲーミングルーターが25%オフ、全ポートマルチギガでSFP+も利用可 - 24Wireless",
@@ -18,6 +29,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 20
+    },
+    {
+      "id": "f9111e0bf3585e7872802c23",
+      "title": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも - 電波タイムズ",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UjNFaHk2alpWMDU2ZWZOSF85dW1nU2NZWUxYU1J6NHhGZ19tbzJWMlhNbGRCckd1Q2RyTDFMWjBJVkNaQlBwa2RYUjRMVEZ1LTFkVEhCSkRYbU0?oc=5",
+      "summary": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも 電波タイムズ",
+      "published_at": "2026-10-08T12:55:40Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
+    {
+      "id": "d21f6dff00a1772a66d039e1",
+      "title": "【本日みつけたお買い得品】最大9,700Mbps/10GbE対応のASUS製Wi-Fi 7ルーターが6,990円引き - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nQmtyOC1nMUh5MFhuS2JkOXVGNVJ2SUlOWWc2cE9OZkdMNkktSklBS1FjMTdxTDNuZFpmUkpiWTVfNFVzNkNwSHBEeWRoVEkwei1udm1STHhRYkRsdS1FUkJfVWlDeHotU21RemV6YUU4LVk1?oc=5",
+      "summary": "【本日みつけたお買い得品】最大9,700Mbps/10GbE対応のASUS製Wi-Fi 7ルーターが6,990円引き PC Watch",
+      "published_at": "2026-10-08T11:35:44Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
     },
     {
       "id": "78f486b4337d9ff6e4fd74db",
@@ -50,7 +83,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 18
+      "score": 17
     },
     {
       "id": "e590bc8eee3de9e0cb25d648",
@@ -60,39 +93,6 @@
       "published_at": "2026-10-07T09:00:00Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 18
-    },
-    {
-      "id": "0fee9917982ef511638f8f54",
-      "title": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - J-CAST ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uS1NLTmpuTXU5N2hrZ19ZT2d6SDZwNlpGcG4wSks1Z0U2LUlVbmxZOXhSNkM3WDdqNjAxblRwYkh2V2J3MUJVODdVZTdna0l0NU9jVEZRdnZfOFlsNWk1R1NKWHDSAWRBVV95cUxPbktTS05qbk11OTdoa2dfWU9nekg2cDZaRnBuMEpLNWdFNi1JVW5sWTl4UjZDN1g3ajYwMW5UcGJIdldidzFCVTg3VWU3Z2tJdDVPY1RGUXZ2XzhZbDVpNUdTSlhw?oc=5",
-      "summary": "ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター J-CAST ニュース",
-      "published_at": "2026-10-07T09:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 18
-    },
-    {
-      "id": "f9111e0bf3585e7872802c23",
-      "title": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも - 電波タイムズ",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UjNFaHk2alpWMDU2ZWZOSF85dW1nU2NZWUxYU1J6NHhGZ19tbzJWMlhNbGRCckd1Q2RyTDFMWjBJVkNaQlBwa2RYUjRMVEZ1LTFkVEhCSkRYbU0?oc=5",
-      "summary": "バッファロー、法人向けWi-Fi 7アクセスポイント発売 最大1536台接続、低温対応モデルも 電波タイムズ",
-      "published_at": "2026-10-07T04:19:45Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 17
-    },
-    {
-      "id": "bb5f44a763384df193d6da81",
-      "title": "バッファロー、最大1536台接続対応の法人向けWi-Fi 7アクセスポイントを発売 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42Mi1rTWt4eTctQUJrbURGamY1YkFZWTFTVkl1REtlcU8yVmItcHNuSTc4ZnpkSXZVV0RvOTdmVWJEZXFkSTRmNENNWE9BbmVpMHVnRE1NcklnSldUU0lycHVwRXB1Zw?oc=5",
-      "summary": "バッファロー、最大1536台接続対応の法人向けWi-Fi 7アクセスポイントを発売 RBB TODAY",
-      "published_at": "2026-10-07T02:09:47Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
     }
