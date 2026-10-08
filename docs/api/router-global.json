@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-08T01:18:37.412526Z",
+  "generated_at": "2026-10-08T07:58:12.225817Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,33 +64,11 @@
       "score": 14
     },
     {
-      "id": "8178e93cc207fb9476ae47c1",
-      "title": "TP-Link cuts Wi-Fi 6E and Wi-Fi 7 router prices for Amazon Prime Big Deals Day - news.lavx.hu",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMDJJWUFkdzNwNjl3WDZ5ZExrdU5Tb0duZ1pNTFlSUjRZanM2S285VG03bGVsR0xCc2xGa0pmcm5tUHpZOS1hQU1YRGExT2xmd0U1UDFXRG9fcjFaVmtzbXBJNU9UOE5RSjlKa2xqUW4xVEd0OHZ3OG9vMmg1SzNRcEtDNWt6QVc2RlBYMUpkaTR0RkxIV2l6YjJNWHVJOVFqeG1zNGl1UGw3LWc?oc=5",
-      "summary": "TP-Link cuts Wi-Fi 6E and Wi-Fi 7 router prices for Amazon Prime Big Deals Day news.lavx.hu",
-      "published_at": "2026-10-07T16:12:33Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "b3ef013aad6aca288a2210c3",
-      "title": "Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5",
-      "summary": "Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk",
-      "published_at": "2026-10-07T01:59:46Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "e8d12438a7a0e0f38e1eb1b2",
       "title": "This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 - Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pWUWl6NkNPamh1a0tJUl9xekZkQXZfRzd1by1mUktFOUloZXdBYm5OOUxpYU1TbEtlREhQN09XeFk4dndhck9mUTBNeEk3eHEyanFScV9WYU1wY3hxXzRNWHYtSnNITHg5RnVmaW9sd2pkaE5RekdnR3k5S2tybS1nOGlOY3B3dFVVanpSYjBsNFpQeFE?oc=5",
       "summary": "This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker",
-      "published_at": "2026-10-06T22:24:30Z",
+      "published_at": "2026-10-06T22:18:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -108,11 +86,33 @@
       "score": 13
     },
     {
+      "id": "b3ef013aad6aca288a2210c3",
+      "title": "Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5",
+      "summary": "Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk",
+      "published_at": "2026-10-07T01:59:46Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "aa02e68bc97778f1bc9280a0",
       "title": "This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day - Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPejhiakFEcEZScVRlM0xraFJraFZRX3FROGM1dDQyMTBjYXU2RUdNMHgxYlAtWF85d09vM0o2cFlZMEJBZzNIVlpySThhSHE3YWl4eVlHY1RuUF9tcVh0QUhXTmpIa0l0bHFGYUVJZFkxS1J5elVZV0toc2h1WElJOGJJR1ZwQ1k4WVRXdlBMSm9EY0pqclVmbWdCVS0zZw?oc=5",
       "summary": "This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day Lifehacker",
       "published_at": "2026-10-02T12:30:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "903ecb4dc8cf58a9cfcdff71",
+      "title": "1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWV9lNS1hOFptSWsyM19FNHo4MnJxMGl5dkZzQzFnMkowS0RTbzk3a2Z2Rl8xSVRfTnhfcjNEcEdQbkN5QjByOENWSzByOTdWanY0Q3RnVWVPbU5rVk9pWmhQYXRhXzloczFyMmFGTjByaUp6ZnhXTUZyTjVSZjZyMk5mX1lveDgzcUhxaHI5cWhsQXc0RHktaUNsUVBfN2s?oc=5",
+      "summary": "1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months Telecompaper",
+      "published_at": "2026-10-02T12:20:23Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

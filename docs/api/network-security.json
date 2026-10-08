@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-08T01:18:38.624002Z",
+  "generated_at": "2026-10-08T07:58:13.267108Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -20,6 +20,17 @@
       "score": 11
     },
     {
+      "id": "61b0c25c4b68df0ebbcf554e",
+      "title": "TP-Linkがルーターのセキュリティを偽り中国との関係を開示しなかったとしてアイオワ州など4州が提訴、TP-Linkは中国との関係を真っ向から否定 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EeEN0MGlmRm1XZGlrRVR6VXNMZzZEQ2hKcVZhTjV4QlZNVmZIVzlnWTgtWm1uZFhFYUozLUFyQUdhMFJiRGlTRE51V1I2d2luSHRFU3hFTnZubkVDRVJxeHFFZ285YmlKQUtn?oc=5",
+      "summary": "TP-Linkがルーターのセキュリティを偽り中国との関係を開示しなかったとしてアイオワ州など4州が提訴、TP-Linkは中国との関係を真っ向から否定 GIGAZINE",
+      "published_at": "2026-10-08T07:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
       "id": "28c213d079ab6e1ea32365af",
       "title": "「チケット流通センター」Androidアプリに脆弱性 最新版にアップデートを - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSXFkQWxHczNBZDFQQWtER2tWbGRMYzRvSS1NNl9xc0lpRjhLYmkwSER5WVl2bzhWbDBuZ1ZUUW40MnVqcjdEbUt4VHNrR053cjB0Tw?oc=5",
@@ -36,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1RtdldGT1BuS0pVRWktUmcyeDEzZ1ppN2RBUHF3ZTVONE1OMHNXbXc3RFlJckNDS0xRdXJfcFpYU3BodnlCU3lxamFMZllzV3ozazgyVHJ3Y2p5WlNnZlFETnRmRmcyTlctd1diRXdRTGJpMnVmSWgycHo4Nm9DY0g2ZUVnVXRBVDhWdXFRelBwRkRyTGlfRGFyNTA?oc=5",
       "summary": "ASUS製ルーターには深刻な脆弱性があります。ユーザーはファームウェアをアップデートする必要があります。 Vietnam.vn",
       "published_at": "2026-10-04T08:15:39Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
-    },
-    {
-      "id": "e5bb0fb71ed2d9b77df1552c",
-      "title": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中（INTERNET Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMVdBdUJuWTRkNDdKa2ZDYW04VWtobndqMFhPWDhST2R2bVEzSXgzYWlJTTFIZkFyR0F3bDFTOHRnOEw5a1UxRUpDaUNCZ2tBajhyalItNEpEQ2J2TjVVQUpfMlJoMnN2WjBCWVVMQWh0Rl9RSE5TUmVHeFlISEk?oc=5",
-      "summary": "バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中（INTERNET Watch） Yahoo!ニュース",
-      "published_at": "2026-10-01T01:20:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
