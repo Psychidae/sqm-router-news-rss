@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 21:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:18:37 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
+    <item>
+      <title>[海外ルーターニュース] MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price - TechRadar</title>
+      <link>https://news.google.com/rss/articles/CBMihgJBVV95cUxPTTkxYjJ4T0dsRW1DdzE2RXlMMWIwU3VHSDFpRnByZjhjcV9jeHFZOWZhQ3UtX0Z2VEt2bllFRDR6VC1BbmdWVFdaVzdjaVpVSGphMXpLWFhkWVZ3V1FQUGMzc1RKeDk3REhHQ3ZfZUY2QnFWQVFveG9KdWZFb192Nm1OdXFzM19ENXFPSjgwNndkUnBENlFQakQ1eDhpQWg5bElNX2FSRk5BTHJqVk9LN2xQaU9DazhZcFJrTy1FS2tFSE1SUmdzSy1IenpiZDJoNkJ0RTA2TUl1YTZQTzhFczZyYllXLTRjU09mbEpTc2hFSnFndG1lMlE0SjhuaVlzeTZ4T1V3?oc=5</link>
+      <guid isPermaLink="false">fd4e436fcdf0a663dea42b4c</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-08 07:29
+MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price TechRadar</description>
+      <pubDate>Thu, 08 Oct 2026 01:18:37 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-08T01:18:37.411982Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-07T22:29:16Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
     <item>
       <title>[海外ルーターニュース] Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 - Android Authority</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzcyeVUzZll0MlpTb2hJSmU1VUlDTlBPQkRCYklPbEpBTlliTnI0UTBMSFlyYWJIeEZXeDdGdTdTMjYzWjNrRkRHSXhGZ0l6bi0tWHZnNXlkOVRrajZUUjhZb19VMXpVQ0haS1JObk5GcnpIU0drbWNuOUhUQ05JMl9pbw?oc=5</link>
@@ -78,20 +92,6 @@ TP-Link cuts Wi-Fi 6E and Wi-Fi 7 router prices for Amazon Prime Big Deals Day n
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 - Lifehacker</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pWUWl6NkNPamh1a0tJUl9xekZkQXZfRzd1by1mUktFOUloZXdBYm5OOUxpYU1TbEtlREhQN09XeFk4dndhck9mUTBNeEk3eHEyanFScV9WYU1wY3hxXzRNWHYtSnNITHg5RnVmaW9sd2pkaE5RekdnR3k5S2tybS1nOGlOY3B3dFVVanpSYjBsNFpQeFE?oc=5</link>
-      <guid isPermaLink="false">e8d12438a7a0e0f38e1eb1b2</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-07 07:18
-This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker</description>
-      <pubDate>Tue, 06 Oct 2026 23:14:04 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-06T23:14:04.164093Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-06T22:18:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk</title>
       <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5</link>
       <guid isPermaLink="false">b3ef013aad6aca288a2210c3</guid>
@@ -103,6 +103,20 @@ Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk</description>
       <sqm:firstSeenDate>2026-10-07T09:14:53.064413Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-07T01:59:46Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 - Lifehacker</title>
+      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pWUWl6NkNPamh1a0tJUl9xekZkQXZfRzd1by1mUktFOUloZXdBYm5OOUxpYU1TbEtlREhQN09XeFk4dndhck9mUTBNeEk3eHEyanFScV9WYU1wY3hxXzRNWHYtSnNITHg5RnVmaW9sd2pkaE5RekdnR3k5S2tybS1nOGlOY3B3dFVVanpSYjBsNFpQeFE?oc=5</link>
+      <guid isPermaLink="false">e8d12438a7a0e0f38e1eb1b2</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-07 07:24
+This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker</description>
+      <pubDate>Tue, 06 Oct 2026 23:14:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-06T23:14:04.164093Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-06T22:24:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ This TP-Link Wi-Fi 7 Router Is 32% Off for October Prime Day Lifehacker</descrip
       <pubDate>Fri, 02 Oct 2026 16:48:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-02T16:48:54.651649Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-02T12:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] 1&amp;1 offers Fritz! Wi-Fi 7 router exclusively for 6 months - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxPWV9lNS1hOFptSWsyM19FNHo4MnJxMGl5dkZzQzFnMkowS0RTbzk3a2Z2Rl8xSVRfTnhfcjNEcEdQbkN5QjByOENWSzByOTdWanY0Q3RnVWVPbU5rVk9pWmhQYXRhXzloczFyMmFGTjByaUp6ZnhXTUZyTjVSZjZyMk5mX1lveDgzcUhxaHI5cWhsQXc0RHktaUNsUVBfN2s?oc=5</link>
-      <guid isPermaLink="false">903ecb4dc8cf58a9cfcdff71</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-02 21:20
-1&amp;1 offers Fritz! Wi-Fi 7 router exclusively for 6 months Telecompaper</description>
-      <pubDate>Fri, 02 Oct 2026 16:48:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T16:48:54.651649Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T12:20:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
