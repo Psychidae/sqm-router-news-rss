@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-09T01:11:46.332388Z",
+  "generated_at": "2026-10-09T07:21:10.021674Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 10,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVJxV2puRlpoY0ZhNlZuS3A0em1xQ2ZkNVNPQ09RSG9iNTdfYkdZcXpBTGJtaHFpME9Vc1M2V3hYYzE4TkhIWEJfNVBoblNHcW5aSy0zNDdFSlpybkRYczFwNE5pRV85M1NHcXBTcUNzbldpdDlqRnNPNEhHY1Y2WVV3TWtHd04zS0tiZGJIeVA4S0w4ZHFkWUl3?oc=5",
       "summary": "Widespread internet outage hits Ontario after fibre cables vandalized INsauga",
       "published_at": "2026-10-08T20:05:12Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "34582097547ec13063d50c0e",
-      "title": "Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack - The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXdvWlVYRTN2MVhpaEpQR09nOFNWU0JNNEtzTkRabm9BZ0ZTdnU5WVBrMXAtTG9lUFNtUmFPUEh6dUtUdzdKYU5OQzVlYWRZdWdvLTNnc2RoRy0yQ0JndERfRHVzYVBSY1NvVENuQnNxQVpzQk1FRTVVcnVwd2JteHhIaXhvc3huNDlaYkhSSTc5bnRWdlc1NDNR?oc=5",
-      "summary": "Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack The Kyiv Independent",
-      "published_at": "2026-10-08T03:14:20Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -42,20 +31,20 @@
       "score": 8
     },
     {
-      "id": "c059fbaefbc46aff8cdcd940",
-      "title": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW9YTE5OTUhNd1B2dWJjWXp3cUFpN0FyTFBnYzBka2dwRTFpWEszck4zYzBBWDhDSVZ1SnJ6SFplM2w4ZXhSWi1lUjZMQVkyUkY4dUNRQVlKUS01X3J6RWhBc3ppdHdqX2ttdDlQQXBma19uTFp5cXJQLXFZaUlhQThMd3BXRWNtQlc2LTJCVGxVd00?oc=5",
-      "summary": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 Vietnam.vn",
-      "published_at": "2026-10-06T07:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "34582097547ec13063d50c0e",
+      "title": "Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack - The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXdvWlVYRTN2MVhpaEpQR09nOFNWU0JNNEtzTkRabm9BZ0ZTdnU5WVBrMXAtTG9lUFNtUmFPUEh6dUtUdzdKYU5OQzVlYWRZdWdvLTNnc2RoRy0yQ0JndERfRHVzYVBSY1NvVENuQnNxQVpzQk1FRTVVcnVwd2JteHhIaXhvc3huNDlaYkhSSTc5bnRWdlc1NDNR?oc=5",
+      "summary": "Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack The Kyiv Independent",
+      "published_at": "2026-10-08T03:14:20Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 7
+      "score": 8
     },
     {
-      "id": "cf3e181028d3fcc134253a85",
+      "id": "935793f0cd9919a79a2691af",
       "title": "Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnNCU2JMWGRadW5MbVNaZTR5cWozaXBuTENFWWo5Qm5Tb2FHQ18tSXFRVlJEaUUtY1lpN3pNbWpyZlRCblhVSnBhWEFUVERtUFQzUHU1OWRuNi1TNm5lV1ZkUWZHNnZUMTRqRTJINDJ0Z2k2d01YSXZSUHg1VmdXSnJLajZtWFdvOGpCRkZEZENGX3VGcWlER25QbUJxaUpmUXQ4cmVLM214Y3RpcE9UWmRDWS1lck1RQk9IWGFncw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1VLOV81RGJEMm54QzdYX1MxRUcwa2JIckUwbHY5YkVBd0JiS2lrUEs3TnBjWkE1Umt2STNQTkxEMHg4empQenBVUldzbmZMNTQ2UXRnOWxXZ0hvY1E1V1FhMlIyZlZsRG5tRkJPa1FuSlRMRlRlejVBQkkwbk43eTdLNEt6X25JUUQ1ZTQwd3E2S3F1TTVyQkxMenV5WEFGWkQ0U0ZJUzZZazUtLWJMTFoxWXlsRlAzbWc3Q0RqQ2hFVmVNOWRKbU1rOE0wdmx2WnBqaUF6Vl9UZw?oc=5",
       "summary": "Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto",
       "published_at": "2026-10-05T18:14:12Z",
       "source": "Google News Global: network performance",
@@ -86,26 +75,15 @@
       "score": 7
     },
     {
-      "id": "a4d3333f687777971dc323e3",
-      "title": "Radford Internet Outage Follows Possible Data Incident - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWlBd2hDMk9BVTN3dUNlRWFnZFpWZzZ0cndJazY5amNsODJrX3M1ZUtBUnVwWXE5X1lPZVNlT0kydWM4U3lOZWg0Mm1taDBJMEdZUXVMYnVRTVJ1T2JHdkh5bVFscEl4VF9GdndNTEwxVU10YWJWUmZ3YUc4dWtpY0FaQmhDTk1yMmZ2ckx1OG9TVUhtZHpTQ3d3?oc=5",
-      "summary": "Radford Internet Outage Follows Possible Data Incident WDBJ7",
-      "published_at": "2026-10-02T03:27:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "c059fbaefbc46aff8cdcd940",
+      "title": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW9YTE5OTUhNd1B2dWJjWXp3cUFpN0FyTFBnYzBka2dwRTFpWEszck4zYzBBWDhDSVZ1SnJ6SFplM2w4ZXhSWi1lUjZMQVkyUkY4dUNRQVlKUS01X3J6RWhBc3ppdHdqX2ttdDlQQXBma19uTFp5cXJQLXFZaUlhQThMd3BXRWNtQlc2LTJCVGxVd00?oc=5",
+      "summary": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 Vietnam.vn",
+      "published_at": "2026-10-06T07:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "8e93446790093e345a0d0e61",
-      "title": "Radford internet outage follows possible data incident, investigators involved - WDBJ7",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQW9OTDl1M0xfRGo4VFNkeFN4eWszOU5XQkRYdUdZeDFHaDF2WmVWaFpzaHdzaVFhN0l0YzJZSzd6Um9VcmxvSUR3U0xzVVdPX01HQ0NrWkpWdTRRTHRaQUw2WWpfekNjV2RiU1JCTFJwUXFOa2FXcDlEQ3A4dlp1T2xtemY2VXo4UVVhWmlud0tMVTNjYm9oMFVudTNMTFJGbUZ4b2d5dURSQ21CS1NLb9IBxAFBVV95cUxNejY0M0ozR3hHNlg0Y0xhcDZ5OUxjMU81T2tYd2JkbWZNdk5EMDhxYWF1ZHk5WFphWEhjUzliblJSdUNKV09EVkdsUF9sNDhZSEt1eS13SlNtMHJVUE5wSERjYlBVRWdJUzZWWERJMXVvR2VXMk5lLUFmejdmOUFFc0htSldnN0JabEdYX05pV1prMUVOOHhVaTJraUVHeUdKb1dKai1Ja1ZITlFQWnJHOFZRT3h0TDdDRmtwN21EQmtub25G?oc=5",
-      "summary": "Radford internet outage follows possible data incident, investigators involved WDBJ7",
-      "published_at": "2026-10-02T02:23:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
+      "score": 6
     },
     {
       "id": "ca162366623dbcc5e7e3f17a",

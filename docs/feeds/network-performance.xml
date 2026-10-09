@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:21:10 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Widespread internet outage hits Ontario after fibre cables vandalized - INsauga</title>
@@ -18,20 +18,6 @@ Widespread internet outage hits Ontario after fibre cables vandalized INsauga</d
       <pubDate>Fri, 09 Oct 2026 01:11:46 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-09T01:11:46.331397Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-08T20:05:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack - The Kyiv Independent</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXdvWlVYRTN2MVhpaEpQR09nOFNWU0JNNEtzTkRabm9BZ0ZTdnU5WVBrMXAtTG9lUFNtUmFPUEh6dUtUdzdKYU5OQzVlYWRZdWdvLTNnc2RoRy0yQ0JndERfRHVzYVBSY1NvVENuQnNxQVpzQk1FRTVVcnVwd2JteHhIaXhvc3huNDlaYkhSSTc5bnRWdlc1NDNR?oc=5</link>
-      <guid isPermaLink="false">34582097547ec13063d50c0e</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-08 12:14
-Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack The Kyiv Independent</description>
-      <pubDate>Thu, 08 Oct 2026 20:48:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-08T20:48:28.886238Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-08T03:14:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,29 +36,29 @@ Massive internet outage in Russia after Ukraine reportedly hits largest Yandex d
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW9YTE5OTUhNd1B2dWJjWXp3cUFpN0FyTFBnYzBka2dwRTFpWEszck4zYzBBWDhDSVZ1SnJ6SFplM2w4ZXhSWi1lUjZMQVkyUkY4dUNRQVlKUS01X3J6RWhBc3ppdHdqX2ttdDlQQXBma19uTFp5cXJQLXFZaUlhQThMd3BXRWNtQlc2LTJCVGxVd00?oc=5</link>
-      <guid isPermaLink="false">c059fbaefbc46aff8cdcd940</guid>
+      <title>[性能・障害] Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack - The Kyiv Independent</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPbXdvWlVYRTN2MVhpaEpQR09nOFNWU0JNNEtzTkRabm9BZ0ZTdnU5WVBrMXAtTG9lUFNtUmFPUEh6dUtUdzdKYU5OQzVlYWRZdWdvLTNnc2RoRy0yQ0JndERfRHVzYVBSY1NvVENuQnNxQVpzQk1FRTVVcnVwd2JteHhIaXhvc3huNDlaYkhSSTc5bnRWdlc1NDNR?oc=5</link>
+      <guid isPermaLink="false">34582097547ec13063d50c0e</guid>
       <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-06 16:00
-VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 Vietnam.vn</description>
+ソース: Google News Global: network performance
+元記事日付: 2026-10-08 12:14
+Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack The Kyiv Independent</description>
       <pubDate>Thu, 08 Oct 2026 20:48:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-08T20:48:28.886238Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-06T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <sqm:sourcePublishedDate>2026-10-08T03:14:20Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
       <title>[性能・障害] Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto</title>
-      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnNCU2JMWGRadW5MbVNaZTR5cWozaXBuTENFWWo5Qm5Tb2FHQ18tSXFRVlJEaUUtY1lpN3pNbWpyZlRCblhVSnBhWEFUVERtUFQzUHU1OWRuNi1TNm5lV1ZkUWZHNnZUMTRqRTJINDJ0Z2k2d01YSXZSUHg1VmdXSnJLajZtWFdvOGpCRkZEZENGX3VGcWlER25QbUJxaUpmUXQ4cmVLM214Y3RpcE9UWmRDWS1lck1RQk9IWGFncw?oc=5</link>
-      <guid isPermaLink="false">cf3e181028d3fcc134253a85</guid>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1VLOV81RGJEMm54QzdYX1MxRUcwa2JIckUwbHY5YkVBd0JiS2lrUEs3TnBjWkE1Umt2STNQTkxEMHg4empQenBVUldzbmZMNTQ2UXRnOWxXZ0hvY1E1V1FhMlIyZlZsRG5tRkJPa1FuSlRMRlRlejVBQkkwbk43eTdLNEt6X25JUUQ1ZTQwd3E2S3F1TTVyQkxMenV5WEFGWkQ0U0ZJUzZZazUtLWJMTFoxWXlsRlAzbWc3Q0RqQ2hFVmVNOWRKbU1rOE0wdmx2WnBqaUF6Vl9UZw?oc=5</link>
+      <guid isPermaLink="false">935793f0cd9919a79a2691af</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
 元記事日付: 2026-10-06 03:14
 Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto</description>
-      <pubDate>Thu, 08 Oct 2026 01:18:39 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-08T01:18:39.916719Z</sqm:firstSeenDate>
+      <pubDate>Fri, 09 Oct 2026 07:21:10 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-09T07:21:10.020792Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-05T18:14:12Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
@@ -106,31 +92,17 @@ Converge’s subsea cables spare Filipinos from internet outage Philstar.com</de
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Radford Internet Outage Follows Possible Data Incident - WDBJ7</title>
-      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWlBd2hDMk9BVTN3dUNlRWFnZFpWZzZ0cndJazY5amNsODJrX3M1ZUtBUnVwWXE5X1lPZVNlT0kydWM4U3lOZWg0Mm1taDBJMEdZUXVMYnVRTVJ1T2JHdkh5bVFscEl4VF9GdndNTEwxVU10YWJWUmZ3YUc4dWtpY0FaQmhDTk1yMmZ2ckx1OG9TVUhtZHpTQ3d3?oc=5</link>
-      <guid isPermaLink="false">a4d3333f687777971dc323e3</guid>
+      <title>[性能・障害] VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW9YTE5OTUhNd1B2dWJjWXp3cUFpN0FyTFBnYzBka2dwRTFpWEszck4zYzBBWDhDSVZ1SnJ6SFplM2w4ZXhSWi1lUjZMQVkyUkY4dUNRQVlKUS01X3J6RWhBc3ppdHdqX2ttdDlQQXBma19uTFp5cXJQLXFZaUlhQThMd3BXRWNtQlc2LTJCVGxVd00?oc=5</link>
+      <guid isPermaLink="false">c059fbaefbc46aff8cdcd940</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-02 12:27
-Radford Internet Outage Follows Possible Data Incident WDBJ7</description>
-      <pubDate>Fri, 02 Oct 2026 16:48:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T16:48:57.250148Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T03:27:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Radford internet outage follows possible data incident, investigators involved - WDBJ7</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPQW9OTDl1M0xfRGo4VFNkeFN4eWszOU5XQkRYdUdZeDFHaDF2WmVWaFpzaHdzaVFhN0l0YzJZSzd6Um9VcmxvSUR3U0xzVVdPX01HQ0NrWkpWdTRRTHRaQUw2WWpfekNjV2RiU1JCTFJwUXFOa2FXcDlEQ3A4dlp1T2xtemY2VXo4UVVhWmlud0tMVTNjYm9oMFVudTNMTFJGbUZ4b2d5dURSQ21CS1NLb9IBxAFBVV95cUxNejY0M0ozR3hHNlg0Y0xhcDZ5OUxjMU81T2tYd2JkbWZNdk5EMDhxYWF1ZHk5WFphWEhjUzliblJSdUNKV09EVkdsUF9sNDhZSEt1eS13SlNtMHJVUE5wSERjYlBVRWdJUzZWWERJMXVvR2VXMk5lLUFmejdmOUFFc0htSldnN0JabEdYX05pV1prMUVOOHhVaTJraUVHeUdKb1dKai1Ja1ZITlFQWnJHOFZRT3h0TDdDRmtwN21EQmtub25G?oc=5</link>
-      <guid isPermaLink="false">8e93446790093e345a0d0e61</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-02 11:23
-Radford internet outage follows possible data incident, investigators involved WDBJ7</description>
-      <pubDate>Fri, 02 Oct 2026 05:31:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-02T05:31:41.188178Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-02T02:23:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-10-06 16:00
+VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 Vietnam.vn</description>
+      <pubDate>Thu, 08 Oct 2026 20:48:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-08T20:48:28.886238Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-06T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
