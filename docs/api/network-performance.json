@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-09T14:39:41.098727Z",
+  "generated_at": "2026-10-09T19:45:03.597712Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "09109663f27446e39904a49e",
+      "title": "Phone and internet outage impacts North Platte City Hall, Lincoln County Courthouse - KNOP",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDhiaVlSZVc0d1NfeTlOY1NMNnBlNkxoOVMwS01DSkpZeGE0WHVveklmSF9yQWlkSXUyUXgyVnd3Um9VcjlFTFN3Vjg0a2R0VjJYekNvUDk4Z3dYcTllVXNVU2Q4Z1dzWkFta0VrTkV4U25aRTAySFY5aFVzYjdwUG9aSlh6aml6V0hjXzZEdFNCX2xxSjRycjE3anZycWxsU1ZmbzBXbEZtV3FxenYyT05xeXJxS1nSAcsBQVVfeXFMTVIxUEctQkRMSjc4aGw5dEdWc1hzeV9LcGNVcGVCZVZlTWQxenZ6MGVzRHFfdkZ0M0NaX2tGY1I0N1MzSm9tbXg2MmVrd1lKTm84b2doQk9lcU5nR3hOd0VOd0VxalctYzB0RHZ2NkxIcEhvWkJCSTdtbTZlRW9pYnM5VGhDMmw0aDVtdFdSM2lHS0FBcmsxZ05fNTU3YUNlSjI5dFphc3dNa1Uxak40VDdFX3V0aWRIdVRndXR0NUxLWDJYVWoxMXh1REU?oc=5",
+      "summary": "Phone and internet outage impacts North Platte City Hall, Lincoln County Courthouse KNOP",
+      "published_at": "2026-10-09T15:10:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "1966e7df18b4652c89d06f0f",
       "title": "Widespread internet outage hits Ontario after fibre cables vandalized - INsauga",
