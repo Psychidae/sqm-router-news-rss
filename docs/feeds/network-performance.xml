@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:30:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Can AI detect a silent internet outage before it occurs? - Tech Xplore</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9xelBmVGNLTWY1d1ZDcy1NNC12WGxXQTJWbm44R253M1pKZmlrWG8xNzJHQUtoZld2ZXh1ZWtVWjhxVzl2Q2R2dGZqMXVDVFdNVlFjbncwcEx6MnkzTllPMndMX0FqUGJrV3dBTUFBUUtSVVMw?oc=5</link>
+      <guid isPermaLink="false">23e7a9970151c4b29ab781bf</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-10 22:40
+Can AI detect a silent internet outage before it occurs? Tech Xplore</description>
+      <pubDate>Sat, 10 Oct 2026 19:30:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-10T19:30:28.270418Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-10T13:40:15Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Up to 500 Xfinity customers, airport experiencing internet outage - WANE 15</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDZSRHFzbVVUSWU4ck5LUm11REI0b3ZndEVoNWg5dTVBVjIyOVZCMG1iQi1WSjRiZ2Rkc0QwUHlRb0hXNFY2dk9ZTTNGeHZ3LTI0ZmNMaEF3TzEwWVlIMzROT3hvUC1yWFkxOE85bWRjbGZYbTVyZlFnQm9aQnhfaGN5VENhcHh5elZJalhyOTVRX24zcTZibENMU3R3bDDSAaQBQVVfeXFMTUFmNnBhOG1iRGtmY29lTkhreHdJd19MeUs4N2VleXNTS3F0UDVFaDc5TUpsT3p3Q3ROYThDVU5ZTVpWZmtuV3FBVzM2QjZiTmdaWjZFUTBsUFNMZE8wc0IxWE9UeDhfNWFMZUt4WmN3dmRvZkhSNE8zV3E3UVJYSllOX2RjSndtVS1XdU9JUnFHZ1FOQ0hKc3hYUGxYYTg5SjZ5aHg?oc=5</link>
@@ -131,20 +145,6 @@ Massive internet outage in Russia after Ukraine reportedly hits largest Yandex d
       <sqm:firstSeenDate>2026-10-09T01:11:46.331397Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-08T22:28:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto</title>
-      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1VLOV81RGJEMm54QzdYX1MxRUcwa2JIckUwbHY5YkVBd0JiS2lrUEs3TnBjWkE1Umt2STNQTkxEMHg4empQenBVUldzbmZMNTQ2UXRnOWxXZ0hvY1E1V1FhMlIyZlZsRG5tRkJPa1FuSlRMRlRlejVBQkkwbk43eTdLNEt6X25JUUQ1ZTQwd3E2S3F1TTVyQkxMenV5WEFGWkQ0U0ZJUzZZazUtLWJMTFoxWXlsRlAzbWc3Q0RqQ2hFVmVNOWRKbU1rOE0wdmx2WnBqaUF6Vl9UZw?oc=5</link>
-      <guid isPermaLink="false">935793f0cd9919a79a2691af</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-06 03:14
-Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto</description>
-      <pubDate>Fri, 09 Oct 2026 07:21:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-09T07:21:10.020792Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-05T18:14:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>

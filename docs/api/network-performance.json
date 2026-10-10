@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-10T15:20:28.974199Z",
+  "generated_at": "2026-10-10T19:30:28.332854Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "23e7a9970151c4b29ab781bf",
+      "title": "Can AI detect a silent internet outage before it occurs? - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xelBmVGNLTWY1d1ZDcy1NNC12WGxXQTJWbm44R253M1pKZmlrWG8xNzJHQUtoZld2ZXh1ZWtVWjhxVzl2Q2R2dGZqMXVDVFdNVlFjbncwcEx6MnkzTllPMndMX0FqUGJrV3dBTUFBUUtSVVMw?oc=5",
+      "summary": "Can AI detect a silent internet outage before it occurs? Tech Xplore",
+      "published_at": "2026-10-10T13:40:15Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "f425f7217bef1cca7a8f77f5",
       "title": "Up to 500 Xfinity customers, airport experiencing internet outage - WANE 15",
@@ -104,17 +115,6 @@
       "published_at": "2026-10-08T22:28:54Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "935793f0cd9919a79a2691af",
-      "title": "Coconut Creek City Website Goes Down; Officials Report Internet Outage - TAPinto",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX1VLOV81RGJEMm54QzdYX1MxRUcwa2JIckUwbHY5YkVBd0JiS2lrUEs3TnBjWkE1Umt2STNQTkxEMHg4empQenBVUldzbmZMNTQ2UXRnOWxXZ0hvY1E1V1FhMlIyZlZsRG5tRkJPa1FuSlRMRlRlejVBQkkwbk43eTdLNEt6X25JUUQ1ZTQwd3E2S3F1TTVyQkxMenV5WEFGWkQ0U0ZJUzZZazUtLWJMTFoxWXlsRlAzbWc3Q0RqQ2hFVmVNOWRKbU1rOE0wdmx2WnBqaUF6Vl9UZw?oc=5",
-      "summary": "Coconut Creek City Website Goes Down; Officials Report Internet Outage TAPinto",
-      "published_at": "2026-10-05T18:14:12Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     }

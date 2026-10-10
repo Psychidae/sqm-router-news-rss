@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 15:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:30:25 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price - TechRadar</title>
@@ -78,16 +78,16 @@ Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Res
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHlfaHdIdW5RdXRXQkhKaGJoNDNLNXgwYnN2NkVqNFllNVI5THV6SGFTdjViUWF6SUhDc0FkTEFNLTFqUzd3dU81bU50UlQxR05RTlF6UmZUTWtScUMxSFNzTTBLejBNeVNuZ1hSRFh1bUxHVEVCUmVaYWtrcXpHRmREM2NldWRTTlpzQmptZXc3NUhkRjBQSzh1amRGSmlQUkxZV2hnM3JQU21PRXNWVXppSXNhaHc?oc=5</link>
-      <guid isPermaLink="false">5a5b1d2f59a4136195f17bb5</guid>
+      <title>[海外ルーターニュース] Devolo introduces Wi-Fi 7 BE9300 router - Telecompaper</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHMxRUJuWFBSOGNteTNxbklMUGk2dkRvR2xDdDZ6bUhtcnhhSW1vTWE4dHBaanEwbmFkQzBWRWtpTVhRdXp1SjlOTkMzbmdmMWpEazRST0lmQ2tRdXFBU2gzV01NZExDRUgyTk1hVG0zQnV2VE5KRzZURUJGRDVoREM4VkZTRzBkdVE?oc=5</link>
+      <guid isPermaLink="false">b0f973e3c7716ab3a9d954c4</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-10-08 02:10
-Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime Gizmodo</description>
-      <pubDate>Wed, 07 Oct 2026 21:33:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-07T21:33:53.924566Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-07T17:10:49Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-08 17:41
+Devolo introduces Wi-Fi 7 BE9300 router Telecompaper</description>
+      <pubDate>Sat, 10 Oct 2026 19:30:25 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-10T19:30:25.627748Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-08T08:41:35Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -120,6 +120,20 @@ Alleged China ties put America’s favorite Wi-Fi router brand under fire MakeUs
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime - Gizmodo</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHlfaHdIdW5RdXRXQkhKaGJoNDNLNXgwYnN2NkVqNFllNVI5THV6SGFTdjViUWF6SUhDc0FkTEFNLTFqUzd3dU81bU50UlQxR05RTlF6UmZUTWtScUMxSFNzTTBLejBNeVNuZ1hSRFh1bUxHVEVCUmVaYWtrcXpHRmREM2NldWRTTlpzQmptZXc3NUhkRjBQSzh1amRGSmlQUkxZV2hnM3JQU21PRXNWVXppSXNhaHc?oc=5</link>
+      <guid isPermaLink="false">5a5b1d2f59a4136195f17bb5</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-08 02:10
+Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime Gizmodo</description>
+      <pubDate>Wed, 07 Oct 2026 21:33:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-07T21:33:53.924566Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-07T17:10:49Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 - Lifehacker</title>
       <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0pWUWl6NkNPamh1a0tJUl9xekZkQXZfRzd1by1mUktFOUloZXdBYm5OOUxpYU1TbEtlREhQN09XeFk4dndhck9mUTBNeEk3eHEyanFScV9WYU1wY3hxXzRNWHYtSnNITHg5RnVmaW9sd2pkaE5RekdnR3k5S2tybS1nOGlOY3B3dFVVanpSYjBsNFpQeFE?oc=5</link>
       <guid isPermaLink="false">e8d12438a7a0e0f38e1eb1b2</guid>
@@ -131,20 +145,6 @@ This TP-Link Wi-Fi 7 Router Is 40% Off for October Prime Day 2026 Lifehacker</de
       <sqm:firstSeenDate>2026-10-06T23:14:04.164093Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-06T22:18:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5</link>
-      <guid isPermaLink="false">b3ef013aad6aca288a2210c3</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-10-07 10:59
-Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk</description>
-      <pubDate>Wed, 07 Oct 2026 09:14:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-07T09:14:53.064413Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-07T01:59:46Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
