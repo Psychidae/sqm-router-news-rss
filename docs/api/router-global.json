@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-10T02:45:03.687273Z",
+  "generated_at": "2026-10-10T09:02:07.041124Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,17 +31,6 @@
       "score": 18
     },
     {
-      "id": "eadedc9eb4c50639aa2710e0",
-      "title": "Asus ROG Rapture GT-BE19000AI Gaming Router Review - PowerUp!",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1JudnlfdUFuOG1OdU5hZVFWTjRvdEhMU01Kd05GS2ZHbFVTaTdnb2pQWUJjdEE2RUh1dDBtcXNnZ3JGNDM5V09EV1BjRHBzdUQ3ekNzRGJ6dEtEdnlaVGxvWU5QckJ1R1pWNVJGR2VCc3NCQ0JGYXdqd0VPbzZ4ZG03ZlA?oc=5",
-      "summary": "Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!",
-      "published_at": "2026-10-06T04:20:23Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
       "id": "804a6a0312ca90b71e1759fb",
       "title": "Tenda BE12 Pro Review: This Cheap, Fast Wi-Fi 7 Router Claws Away the Extras - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkloMGpDSjFDYS0zLUo1c0JGcktOTzl3cG9pd3E1alJZSEE0MmxZRFNyZWllZlVzbWpqclpIYndkMDJJZ19oWkp4MTAxZlhTNG9MZW5pODJQaFNyYUc4ZVo2bVhaSDdDYmZrY01Pc2ZUNDRCQy1uNk5wZHg3eUpVRlFB?oc=5",
@@ -51,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
+    },
+    {
+      "id": "888809d0ce4686b651d45f3a",
+      "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy0gGUAUFVX3lxTE1TS0U0dVBVM3dVa196YlVLNkVtcDBkeVdtU0pQM1lfeGlNY2EyMUU4dmt0aWZmOEJlWF8tQld6NEJTbkFLWTVxSEFpVUJjdTVJQlZsQXVrQ1pkaWZRNDVNWWVsdkxpd3p1UnpreXJ1VTdDNWE3R3ZzTGlaUWFDTGhwTHB5VHp1RFBiM08tMnk3NDFxR3I?oc=5",
+      "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
+      "published_at": "2026-10-09T23:12:13Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "aca703ae82a0879f5f8d624d",

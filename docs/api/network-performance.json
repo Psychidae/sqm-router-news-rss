@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-10T02:45:06.130479Z",
+  "generated_at": "2026-10-10T09:02:09.412519Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,10 +9,32 @@
   "errors": [],
   "items": [
     {
-      "id": "7b2277951e6939bc4638d806",
-      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KNOP",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1hOSUcxdkd2ZTJPTUJOSDlhOFdiUWtJajRHRzdmWXAycnQwakplaWdJUjNBMlR2ampibVVnbWRDVkZMT2JtSWpxZWZGakpXVUVvaUNTLU9oTm96VWo1a2FNSUlYUXJpbVpPdkhjTUZ4Ykd5Z0U0SllBeWs4MDh4VWxYWTVybVgwSWhJU2JYZm1yekx4OHB2cklzVER1MjJ5T1Q1bnNycElXbDI1Z2JBeDJFV2pkYWtEdGlXYWYxWdIB0wFBVV95cUxNNVdJUk96UWx4a2RDak5sVnNpYWNIbW1WWkY3OFR4YWFvSF93MjRLMEhtQ3RrZGEtOE5WVWwwQ25MSmMwRkgzU1daR2JJek41cm11clE5THB0NzFzTDJMdW9Lb29HWWVrUDhGTW5DU0xUQkl0dFRuUGVkT1ZJVjVpbHFlYUFiQl9abkNpcGE1UTVpUzF3Z3ZhSU9ZSllsSmFxQ1lMQ0VVSE5tVEhhMXN3QW5GSGN2T0tFa2dyWk04UFZPNVVOTnI3UzN3ekdJeG9oSjNv?oc=5",
-      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KNOP",
+      "id": "f425f7217bef1cca7a8f77f5",
+      "title": "Up to 500 Xfinity customers, airport experiencing internet outage - WANE 15",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDZSRHFzbVVUSWU4ck5LUm11REI0b3ZndEVoNWg5dTVBVjIyOVZCMG1iQi1WSjRiZ2Rkc0QwUHlRb0hXNFY2dk9ZTTNGeHZ3LTI0ZmNMaEF3TzEwWVlIMzROT3hvUC1yWFkxOE85bWRjbGZYbTVyZlFnQm9aQnhfaGN5VENhcHh5elZJalhyOTVRX24zcTZibENMU3R3bDDSAaQBQVVfeXFMTUFmNnBhOG1iRGtmY29lTkhreHdJd19MeUs4N2VleXNTS3F0UDVFaDc5TUpsT3p3Q3ROYThDVU5ZTVpWZmtuV3FBVzM2QjZiTmdaWjZFUTBsUFNMZE8wc0IxWE9UeDhfNWFMZUt4WmN3dmRvZkhSNE8zV3E3UVJYSllOX2RjSndtVS1XdU9JUnFHZ1FOQ0hKc3hYUGxYYTg5SjZ5aHg?oc=5",
+      "summary": "Up to 500 Xfinity customers, airport experiencing internet outage WANE 15",
+      "published_at": "2026-10-10T02:00:41Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "4156cbf64bfd0c27cd0c208c",
+      "title": "FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGZOS2tHSlMtdW9UNHptQ1BlMWNHcUtrcU4tb09nUjBLWlVYTlVKeVJjaGZBWjQ5Nm5iYWc3T3A3NEU5Z2dpQmhMek83Z2cxZ2IwMlp1V2hpTHo3R2JJUnNManJQcHp0TjNOcEp5RXVuNmJlb1ZrcF85TXJZQ2YxR0JObExMc283ZVZueFhqTmlHY1BiTzY4TnJzMENyQklBWXlDRWRaYVQ1UQ?oc=5",
+      "summary": "FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN",
+      "published_at": "2026-10-10T01:36:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "f6c20426e320e4f0601517b1",
+      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlZBdVA2RVBaRVRQR2YyZlFxV0pFTkRXaS11VjBUempJWVBfSDU1SVpxdUtfVHU4dmxwR1kwMDRuV0ZlSFFpNEtGdnh6NVRVZzU1allQb1RhU1R4VllZdFQ0ZUlESzFWTDF2WHF6dnpJNDU1RUFyT0dNRDlkeGJIMFQ2UlZ3dDQzTjA4a1VsWmJQVmxPZEFzVllOVk1TSEc2Y1RQaFFqQUowYmszaTR0dm9sVHU0MDBnR19kbdIB0AFBVV95cUxPOWtHQkZ1M1NQMEFCZzFVR3JGZk16T3lfbHhqalhQR0RpMTJEbF9qbDhhdlZCMFlfbmplMEtXRlhVb2w5NUc5OG5zU2lxZ2FGQlZ3aWhEVmhRNXF0TERwd3lvdEgyRHpoWVp3N0MzOFFGVjNZR0Y4WUZudmwwZjB4Q2VOM29USDF3R1p3eVpFTHdDOXotSnlBWWNzVkxUbXJ2Zm44UFhhRFFSVkV3dk54TkZFeDNJVHk4OExBc05wUEtQT1M5TklKcUV2UWE1Mmtl?oc=5",
+      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
       "published_at": "2026-10-09T23:13:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
@@ -29,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "f910103af3c2b2a8e463d0e9",
+      "title": "5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSdTFCMGJVUVhMNWN0Y0RoamlGTWF5eS1SclpyS0lGa1YyQW5udnpSQV9LUkotQjBCcV9IR1I2YWlMM0dyajFtOFkwM1FvTXM?oc=5",
+      "summary": "5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 Newscast.jp",
+      "published_at": "2026-10-10T03:15:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "1966e7df18b4652c89d06f0f",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
-    },
-    {
-      "id": "aba4fc00e227792d5138fa5e",
-      "title": "BCCS updates communication practices following internet outage, school closure - hometownsource.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5",
-      "summary": "BCCS updates communication practices following internet outage, school closure hometownsource.com",
-      "published_at": "2026-10-05T18:01:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "558a8ffe1c04271c7e791d3d",
-      "title": "Converge’s subsea cables spare Filipinos from internet outage - Philstar.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlZKSUFwSXkwMkF6R3lZRTR0Vm0xRjA0ekY2WWNkTzMtSUlkY25BTUp0VHdDMzRqTmFCMDNYWE9kdDFaSXk1UmtIMHBQVVlHU3FQcHdyVVZFcjVIaVpiYl90Vm14N0ZaZS1LNVg1aGRnazZjY2ZtNFBqWlc2Y3ZqRUkxYnR5cjJsZVNBMUFnRHZYeDlTMWVpalhmV3hCNDZfc2NDbFFmQXRrOWNU0gGzAUFVX3lxTE82d1k0SnVrU1g4Yy1SWkU4WTNxV3p4cFNsM1BmdjRaRUhsT0ZLWHBkSERoaE1HMlp6UGRLNmVYVGRsMnVBbGR4WUlJdmZYZ0ZkQk9kQ3F3aVowc21kMjVRSWVCNTZ2TW5WUVVTVlJRdXpJRFlBbDVMRV8tczBTa1ZEUFotdFNmcHF2VDdYVWV2N0Y5dHFCc0V0SWdMOXhpOE1QanFROHhYcWp4UjlWWkxCTlhn?oc=5",
-      "summary": "Converge’s subsea cables spare Filipinos from internet outage Philstar.com",
-      "published_at": "2026-10-05T16:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "c059fbaefbc46aff8cdcd940",
-      "title": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWW9YTE5OTUhNd1B2dWJjWXp3cUFpN0FyTFBnYzBka2dwRTFpWEszck4zYzBBWDhDSVZ1SnJ6SFplM2w4ZXhSWi1lUjZMQVkyUkY4dUNRQVlKUS01X3J6RWhBc3ppdHdqX2ttdDlQQXBma19uTFp5cXJQLXFZaUlhQThMd3BXRWNtQlc2LTJCVGxVd00?oc=5",
-      "summary": "VNNICは、IPv4ネットワークの段階的廃止を目指し、IPv6への移行に関する研修を実施している。 Vietnam.vn",
-      "published_at": "2026-10-06T07:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }
