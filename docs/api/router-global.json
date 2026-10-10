@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-10T19:30:25.628427Z",
+  "generated_at": "2026-10-10T22:55:35.486394Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,15 +53,15 @@
       "score": 16
     },
     {
-      "id": "888809d0ce4686b651d45f3a",
+      "id": "51daef24f4016fe683c43343",
       "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy0gGUAUFVX3lxTE1TS0U0dVBVM3dVa196YlVLNkVtcDBkeVdtU0pQM1lfeGlNY2EyMUU4dmt0aWZmOEJlWF8tQld6NEJTbkFLWTVxSEFpVUJjdTVJQlZsQXVrQ1pkaWZRNDVNWWVsdkxpd3p1UnpreXJ1VTdDNWE3R3ZzTGlaUWFDTGhwTHB5VHp1RFBiM08tMnk3NDFxR3I?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
       "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
-      "published_at": "2026-10-09T23:12:13Z",
+      "published_at": "2026-10-09T20:00:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "b0f973e3c7716ab3a9d954c4",

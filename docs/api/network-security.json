@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-10T19:30:26.959382Z",
+  "generated_at": "2026-10-10T22:55:36.695222Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 6,
   "errors": [],
   "items": [
+    {
+      "id": "9eb10d1e03bdbc66dded669f",
+      "title": "Androidに深刻度”重大”の脆弱性 セキュリティー公開情報（2026年10月分） - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OVUxsOVNOQTY4YUR4N0lTS0VwbGs3WklyVW9kQVMxM1lqZW1KTmljNFJ1Z0lpdFlvZTRjeEF2TWt4Y0gydk1lS0RIV1VuRk5KVXhibQ?oc=5",
+      "summary": "Androidに深刻度”重大”の脆弱性 セキュリティー公開情報（2026年10月分） ASCII.jp",
+      "published_at": "2026-10-06T03:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
     {
       "id": "c9c41ab703d4421c6c5bb649",
       "title": "月額5000円で「自社のセキュリティリスク可視化」と「経営視点の評価」を実現するASMサービス「Mitokude .pub」 - INTERNET Watch",
@@ -40,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
+    },
+    {
+      "id": "28c213d079ab6e1ea32365af",
+      "title": "「チケット流通センター」Androidアプリに脆弱性 最新版にアップデートを - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNSXFkQWxHczNBZDFQQWtER2tWbGRMYzRvSS1NNl9xc0lpRjhLYmkwSER5WVl2bzhWbDBuZ1ZUUW40MnVqcjdEbUt4VHNrR053cjB0Tw?oc=5",
+      "summary": "「チケット流通センター」Androidアプリに脆弱性 最新版にアップデートを ASCII.jp",
+      "published_at": "2026-10-06T05:45:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
     },
     {
       "id": "883979207ff29b8faa8e1449",
