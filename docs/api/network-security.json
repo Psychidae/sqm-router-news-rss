@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-11T08:45:25.154758Z",
+  "generated_at": "2026-10-11T15:05:27.227966Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 5,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlpvVUV4RXdiUDloVzlDVEFWaTlSMnowbzB6YTZTOXFSTEVSU3JKdk1mQUxVY3JIUFNqZGRuRG1UZWlwMjhqWGo3dUlwQm04bDdlWFJfMWRaaWdfbldfZFJhVnhUTC1jbzBsMXhOamdxRWVSczN3RllzOC1uSW1rWVg1a3FudWpRUzNjTVpyd2I4UEpfaW1zdGlibGdkckRCSUdpcGtGODNUNkotTDhvMW04Mi1OYld2bDhoQ1ZpRFpNSmJWOVhZV0dod1JLUDNaMWFyZFNOTW5sMjJXNlhHZ0tzLU5mekRtZjJfZnR5Umh2cklZ?oc=5",
       "summary": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 SOC Prime",
       "published_at": "2026-10-06T07:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "9eb10d1e03bdbc66dded669f",
-      "title": "Androidに深刻度”重大”の脆弱性 セキュリティー公開情報（2026年10月分） - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OVUxsOVNOQTY4YUR4N0lTS0VwbGs3WklyVW9kQVMxM1lqZW1KTmljNFJ1Z0lpdFlvZTRjeEF2TWt4Y0gydk1lS0RIV1VuRk5KVXhibQ?oc=5",
-      "summary": "Androidに深刻度”重大”の脆弱性 セキュリティー公開情報（2026年10月分） ASCII.jp",
-      "published_at": "2026-10-06T03:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",

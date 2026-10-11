@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-11T08:45:24.001513Z",
+  "generated_at": "2026-10-11T15:05:25.973077Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-09T14:43:57Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 23
+    },
     {
       "id": "fd4e436fcdf0a663dea42b4c",
       "title": "MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price - TechRadar",
@@ -69,17 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TU5SRHczSERseHFWYVhkMEtWejJKbGpYakN4UUV3cTdPdzNPbjNqd3pmdUVIMXhjbWxnNXhBaEJJOEJwbDBGWDRPa2tIWUlfV2Zyck03aF9uLTZ3aXVSbDFRWmE?oc=5",
       "summary": "The Wi-Fi router in your living room could be a national risk geekspin",
       "published_at": "2026-10-09T11:30:28Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "e810feddf8ac460d9d559f2d",
-      "title": "Alleged China ties put America’s favorite Wi-Fi router brand under fire - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ERy1GU24ybzFNdjQzb0QtM0l4OGVjemFaemhYOVFVNkFXMTdLZnNPOGpkZlZhTEVlTzRub2lwNzJIVE1sSF9zcTNHUmNtREhScDJrOFVIZEhMbVI3OWo4R2MwTi15SWRZdzRlRHJSNjQzaHF3MlVn?oc=5",
-      "summary": "Alleged China ties put America’s favorite Wi-Fi router brand under fire MakeUseOf",
-      "published_at": "2026-10-08T11:05:42Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
