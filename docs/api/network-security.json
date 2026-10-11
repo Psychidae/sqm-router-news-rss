@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-11T01:50:23.382374Z",
+  "generated_at": "2026-10-11T08:45:25.154758Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 5,
   "errors": [],
   "items": [
+    {
+      "id": "dcd1238933d8b96235b1eff7",
+      "title": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlpvVUV4RXdiUDloVzlDVEFWaTlSMnowbzB6YTZTOXFSTEVSU3JKdk1mQUxVY3JIUFNqZGRuRG1UZWlwMjhqWGo3dUlwQm04bDdlWFJfMWRaaWdfbldfZFJhVnhUTC1jbzBsMXhOamdxRWVSczN3RllzOC1uSW1rWVg1a3FudWpRUzNjTVpyd2I4UEpfaW1zdGlibGdkckRCSUdpcGtGODNUNkotTDhvMW04Mi1OYld2bDhoQ1ZpRFpNSmJWOVhZV0dod1JLUDNaMWFyZFNOTW5sMjJXNlhHZ0tzLU5mekRtZjJfZnR5Umh2cklZ?oc=5",
+      "summary": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 SOC Prime",
+      "published_at": "2026-10-06T07:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
     {
       "id": "9eb10d1e03bdbc66dded669f",
       "title": "Androidに深刻度”重大”の脆弱性 セキュリティー公開情報（2026年10月分） - ASCII.jp",
@@ -47,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EeEN0MGlmRm1XZGlrRVR6VXNMZzZEQ2hKcVZhTjV4QlZNVmZIVzlnWTgtWm1uZFhFYUozLUFyQUdhMFJiRGlTRE51V1I2d2luSHRFU3hFTnZubkVDRVJxeHFFZ285YmlKQUtn?oc=5",
       "summary": "TP-Linkがルーターのセキュリティを偽り中国との関係を開示しなかったとしてアイオワ州など4州が提訴、TP-Linkは中国との関係を真っ向から否定 GIGAZINE",
       "published_at": "2026-10-08T07:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
-    },
-    {
-      "id": "883979207ff29b8faa8e1449",
-      "title": "ASUS製ルーターには深刻な脆弱性があります。ユーザーはファームウェアをアップデートする必要があります。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa1RtdldGT1BuS0pVRWktUmcyeDEzZ1ppN2RBUHF3ZTVONE1OMHNXbXc3RFlJckNDS0xRdXJfcFpYU3BodnlCU3lxamFMZllzV3ozazgyVHJ3Y2p5WlNnZlFETnRmRmcyTlctd1diRXdRTGJpMnVmSWgycHo4Nm9DY0g2ZUVnVXRBVDhWdXFRelBwRkRyTGlfRGFyNTA?oc=5",
-      "summary": "ASUS製ルーターには深刻な脆弱性があります。ユーザーはファームウェアをアップデートする必要があります。 Vietnam.vn",
-      "published_at": "2026-10-04T08:15:39Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
