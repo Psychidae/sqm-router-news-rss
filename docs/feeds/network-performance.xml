@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 22:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:50:24 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm91cVQ1a2lvZlRVaWY2SXFDNGxkM1dvU190UnJiSVdJaEdIcHFZYUdyaXdnM1RCQUxGR0N6RGpWLXROeXljRW5uaVAzRk41WUNnaGpQLTNmdmlBSUFjdmhtMk8yRXBkeWdGTHZ0Q1Qxa2lnSEtGeFVkUFpzcjZzTUhsUFFOQmFBbk52dEt5eTB5UWJEbWQwZE5rY0dUUlk3MHFScXRydEd6Ry1wSmcwZWF3?oc=5</link>
+      <guid isPermaLink="false">9d7f54794c1980f8acd1f385</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-11 03:34
+FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN</description>
+      <pubDate>Sun, 11 Oct 2026 01:50:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-11T01:50:24.395709Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-10T18:34:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Can AI detect a silent internet outage before it occurs? - Tech Xplore</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9xelBmVGNLTWY1d1ZDcy1NNC12WGxXQTJWbm44R253M1pKZmlrWG8xNzJHQUtoZld2ZXh1ZWtVWjhxVzl2Q2R2dGZqMXVDVFdNVlFjbncwcEx6MnkzTllPMndMX0FqUGJrV3dBTUFBUUtSVVMw?oc=5</link>
@@ -36,6 +50,20 @@ Up to 500 Xfinity customers, airport experiencing internet outage WANE 15</descr
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] 5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 - Newscast.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSdTFCMGJVUVhMNWN0Y0RoamlGTWF5eS1SclpyS0lGa1YyQW5udnpSQV9LUkotQjBCcV9IR1I2YWlMM0dyajFtOFkwM1FvTXM?oc=5</link>
+      <guid isPermaLink="false">f910103af3c2b2a8e463d0e9</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-10 12:15
+5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 Newscast.jp</description>
+      <pubDate>Sat, 10 Oct 2026 09:02:09 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-10T09:02:09.411620Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-10T03:15:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN</title>
       <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGZOS2tHSlMtdW9UNHptQ1BlMWNHcUtrcU4tb09nUjBLWlVYTlVKeVJjaGZBWjQ5Nm5iYWc3T3A3NEU5Z2dpQmhMek83Z2cxZ2IwMlp1V2hpTHo3R2JJUnNManJQcHp0TjNOcEp5RXVuNmJlb1ZrcF85TXJZQ2YxR0JObExMc283ZVZueFhqTmlHY1BiTzY4TnJzMENyQklBWXlDRWRaYVQ1UQ?oc=5</link>
       <guid isPermaLink="false">4156cbf64bfd0c27cd0c208c</guid>
@@ -61,20 +89,6 @@ Nebraska National Guard cyber team deployed after internet outage impacts North 
       <sqm:firstSeenDate>2026-10-10T09:02:09.411620Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-09T23:13:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 - Newscast.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSdTFCMGJVUVhMNWN0Y0RoamlGTWF5eS1SclpyS0lGa1YyQW5udnpSQV9LUkotQjBCcV9IR1I2YWlMM0dyajFtOFkwM1FvTXM?oc=5</link>
-      <guid isPermaLink="false">f910103af3c2b2a8e463d0e9</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-10 12:15
-5Gサービス市場、2035年に10兆9,304億2,000万米ドルへ拡大｜CAGR 45.31％、超高速通信・低遅延ネットワーク・IoT活用が次世代デジタル産業を加速 Newscast.jp</description>
-      <pubDate>Sat, 10 Oct 2026 09:02:09 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-10T09:02:09.411620Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-10T03:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Massive internet outage in Russia after Ukraine reportedly hits largest Yandex d
       <pubDate>Thu, 08 Oct 2026 20:48:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-08T20:48:28.886238Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-08T03:14:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMilgFBVV95cUxORzBLc0E4YVNZVEdKTExVYXRSdE1yYkxZMFBYSXo3TWFXbkNXTnFuNXRmWl9uZmRQaGpCZXROZjNuUkl5SWxDUTZMbW1vaGtFTGV3ZndBVklnb1lVdUFGMzBPOTBMWGtwSURhRFZQSG5UeWR6aUNXU3ZvRExGY1hGYU96U2dEUmhpblpodGhVa1I2eG5kY3c?oc=5</link>
-      <guid isPermaLink="false">4b1e23dfc7ed0ad4acb59a86</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-08 12:14
-Massive internet outage in Russia after Ukraine reportedly hits largest Yandex data center in drone attack Yahoo</description>
-      <pubDate>Fri, 09 Oct 2026 14:39:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-09T14:39:41.097851Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-08T03:14:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
