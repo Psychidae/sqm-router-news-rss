@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-12T02:21:22.945771Z",
+  "generated_at": "2026-10-12T09:44:40.997308Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -53,10 +53,10 @@
       "score": 8
     },
     {
-      "id": "f6c20426e320e4f0601517b1",
-      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZlZBdVA2RVBaRVRQR2YyZlFxV0pFTkRXaS11VjBUempJWVBfSDU1SVpxdUtfVHU4dmxwR1kwMDRuV0ZlSFFpNEtGdnh6NVRVZzU1allQb1RhU1R4VllZdFQ0ZUlESzFWTDF2WHF6dnpJNDU1RUFyT0dNRDlkeGJIMFQ2UlZ3dDQzTjA4a1VsWmJQVmxPZEFzVllOVk1TSEc2Y1RQaFFqQUowYmszaTR0dm9sVHU0MDBnR19kbdIB0AFBVV95cUxPOWtHQkZ1M1NQMEFCZzFVR3JGZk16T3lfbHhqalhQR0RpMTJEbF9qbDhhdlZCMFlfbmplMEtXRlhVb2w5NUc5OG5zU2lxZ2FGQlZ3aWhEVmhRNXF0TERwd3lvdEgyRHpoWVp3N0MzOFFGVjNZR0Y4WUZudmwwZjB4Q2VOM29USDF3R1p3eVpFTHdDOXotSnlBWWNzVkxUbXJ2Zm44UFhhRFFSVkV3dk54TkZFeDNJVHk4OExBc05wUEtQT1M5TklKcUV2UWE1Mmtl?oc=5",
-      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "id": "7b2277951e6939bc4638d806",
+      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KNOP",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1hOSUcxdkd2ZTJPTUJOSDlhOFdiUWtJajRHRzdmWXAycnQwakplaWdJUjNBMlR2ampibVVnbWRDVkZMT2JtSWpxZWZGakpXVUVvaUNTLU9oTm96VWo1a2FNSUlYUXJpbVpPdkhjTUZ4Ykd5Z0U0SllBeWs4MDh4VWxYWTVybVgwSWhJU2JYZm1yekx4OHB2cklzVER1MjJ5T1Q1bnNycElXbDI1Z2JBeDJFV2pkYWtEdGlXYWYxWdIB0wFBVV95cUxNNVdJUk96UWx4a2RDak5sVnNpYWNIbW1WWkY3OFR4YWFvSF93MjRLMEhtQ3RrZGEtOE5WVWwwQ25MSmMwRkgzU1daR2JJek41cm11clE5THB0NzFzTDJMdW9Lb29HWWVrUDhGTW5DU0xUQkl0dFRuUGVkT1ZJVjVpbHFlYUFiQl9abkNpcGE1UTVpUzF3Z3ZhSU9ZSllsSmFxQ1lMQ0VVSE5tVEhhMXN3QW5GSGN2T0tFa2dyWk04UFZPNVVOTnI3UzN3ekdJeG9oSjNv?oc=5",
+      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KNOP",
       "published_at": "2026-10-09T23:13:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
