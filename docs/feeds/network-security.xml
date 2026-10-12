@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Oct 2026 09:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:19:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups - Infosecurity Magazine</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTR4bjFoTjBvZ0o4a1JUVTZ5c3lEOUkySFpCTGZtVFc0NHZoejNudFRxaUpSZGNBUmNYcUtCSE4tclduQnJyZ1FQNzExLVZDbkQwcS0zYUNPMVgtaVdRWEdJa1JnTFdLZHZPMlBtWXZtRE1qUVZfNzlKZGMxV0Zlemx5TTE?oc=5</link>
+      <guid isPermaLink="false">f734bd07eee7bc71e088168d</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-12 18:15
+Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups Infosecurity Magazine</description>
+      <pubDate>Mon, 12 Oct 2026 19:19:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-12T19:19:56.529558Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-12T09:15:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 - SOC Prime</title>
       <link>https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlpvVUV4RXdiUDloVzlDVEFWaTlSMnowbzB6YTZTOXFSTEVSU3JKdk1mQUxVY3JIUFNqZGRuRG1UZWlwMjhqWGo3dUlwQm04bDdlWFJfMWRaaWdfbldfZFJhVnhUTC1jbzBsMXhOamdxRWVSczN3RllzOC1uSW1rWVg1a3FudWpRUzNjTVpyd2I4UEpfaW1zdGlibGdkckRCSUdpcGtGODNUNkotTDhvMW04Mi1OYld2bDhoQ1ZpRFpNSmJWOVhZV0dod1JLUDNaMWFyZFNOTW5sMjJXNlhHZ0tzLU5mekRtZjJfZnR5Umh2cklZ?oc=5</link>

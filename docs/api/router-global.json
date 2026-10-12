@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-12T09:44:38.636269Z",
+  "generated_at": "2026-10-12T19:19:55.071669Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,18 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 23
+      "score": 22
+    },
+    {
+      "id": "786f198bcf58f2c47d510181",
+      "title": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5",
+      "summary": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK",
+      "published_at": "2026-10-12T12:06:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 19
     },
     {
       "id": "fd4e436fcdf0a663dea42b4c",
@@ -53,6 +64,28 @@
       "score": 16
     },
     {
+      "id": "2b52845527102b42734d8c8e",
+      "title": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5",
+      "summary": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 TechRadar",
+      "published_at": "2026-10-12T17:11:45Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "3f30dc1493e712a4e9310a1f",
+      "title": "Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers - Expert Reviews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVlDdVFfWVdkbWR5bk5VeTM5WjJveFJNblFjaVFkYnhLNEZZQ1ZFemwxVHVPSGs5bnY4dUtJek5RM244MFc1ZE9IMWRTRV9uS0xuYWgyU0lBaTdFMjBBVWdELXFGVjJIUWwzT2JBZkxaYUlWOS1ZRlYtckF6ZmtBRENIam1pXzkwNmNFLWdhd1pqMDJqcGdCTUNGYw?oc=5",
+      "summary": "Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers Expert Reviews",
+      "published_at": "2026-10-12T11:33:47Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "51daef24f4016fe683c43343",
       "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
@@ -64,13 +97,13 @@
       "score": 13
     },
     {
-      "id": "aca703ae82a0879f5f8d624d",
-      "title": "The Wi-Fi router in your living room could be a national risk - geekspin",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TU5SRHczSERseHFWYVhkMEtWejJKbGpYakN4UUV3cTdPdzNPbjNqd3pmdUVIMXhjbWxnNXhBaEJJOEJwbDBGWDRPa2tIWUlfV2Zyck03aF9uLTZ3aXVSbDFRWmE?oc=5",
-      "summary": "The Wi-Fi router in your living room could be a national risk geekspin",
-      "published_at": "2026-10-09T11:30:28Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "b0f973e3c7716ab3a9d954c4",
+      "title": "Devolo introduces Wi-Fi 7 BE9300 router - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHMxRUJuWFBSOGNteTNxbklMUGk2dkRvR2xDdDZ6bUhtcnhhSW1vTWE4dHBaanEwbmFkQzBWRWtpTVhRdXp1SjlOTkMzbmdmMWpEazRST0lmQ2tRdXFBU2gzV01NZExDRUgyTk1hVG0zQnV2VE5KRzZURUJGRDVoREM4VkZTRzBkdVE?oc=5",
+      "summary": "Devolo introduces Wi-Fi 7 BE9300 router Telecompaper",
+      "published_at": "2026-10-08T08:41:35Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "e810feddf8ac460d9d559f2d",
-      "title": "Alleged China ties put America’s favorite Wi-Fi router brand under fire - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ERy1GU24ybzFNdjQzb0QtM0l4OGVjemFaemhYOVFVNkFXMTdLZnNPOGpkZlZhTEVlTzRub2lwNzJIVE1sSF9zcTNHUmNtREhScDJrOFVIZEhMbVI3OWo4R2MwTi15SWRZdzRlRHJSNjQzaHF3MlVn?oc=5",
-      "summary": "Alleged China ties put America’s favorite Wi-Fi router brand under fire MakeUseOf",
-      "published_at": "2026-10-08T11:05:42Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "b3ef013aad6aca288a2210c3",
-      "title": "Reliance Jio AX3000 Mesh Router Launched in India - TelecomTalk",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlYyZTI0YWFMMWQzRjR4X20zRXNPRzhlY0JDRWlPdW9vck8zaWxBLXh0cFdBNVpoOWtfZ0RPVFM5XzNqYkZqek5EQ29FTndoWUJKLW1EcHJ3UHRlc192YWtxeVlkdlV2SDNCa1VPS2xwck1nWU9wVlpsQ3U2RDV5S0hyeUdSejQ?oc=5",
-      "summary": "Reliance Jio AX3000 Mesh Router Launched in India TelecomTalk",
-      "published_at": "2026-10-07T01:59:46Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "903ecb4dc8cf58a9cfcdff71",
-      "title": "1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWV9lNS1hOFptSWsyM19FNHo4MnJxMGl5dkZzQzFnMkowS0RTbzk3a2Z2Rl8xSVRfTnhfcjNEcEdQbkN5QjByOENWSzByOTdWanY0Q3RnVWVPbU5rVk9pWmhQYXRhXzloczFyMmFGTjByaUp6ZnhXTUZyTjVSZjZyMk5mX1lveDgzcUhxaHI5cWhsQXc0RHktaUNsUVBfN2s?oc=5",
-      "summary": "1&1 offers Fritz! Wi-Fi 7 router exclusively for 6 months Telecompaper",
-      "published_at": "2026-10-02T12:20:52Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
