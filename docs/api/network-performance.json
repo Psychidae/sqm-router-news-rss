@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-12T19:19:57.851038Z",
+  "generated_at": "2026-10-13T01:36:44.163610Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "7cb87cde51cda332164b8221",
+      "title": "VNNICは、メディア企業、コンテンツサービスプロバイダー、IDCプロバイダー、クラウドプロバイダーを対象に、IPv6およびIPv6 Onlyに関する研修会を開催した。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0xJb1djR1BjaVB5R3BvLWlubUxQWW90UmVITnk5bExsMWhCS1hmZ0pRLXRMV1lvV1NRR2tBUFRoZHlqbFVTZndPc25zY2wzSW5OMVUtazRROGpwcnlkSGZwNi1tSFNqUmhtSlZtb09rNTVTTGhGR1BoOEpSNWt3Uk1YZHpvZ21GeF92clJ1M0FfNTc0RTZiQ3ZsT25Fc1VhYU9vVHJhQ2RkWHU5THVVcU1wOVRzUjREZThvT1lIbDRuSXdYbXFhVWJSSFNRejFzRTU3TEFSZ3o2SkE?oc=5",
+      "summary": "VNNICは、メディア企業、コンテンツサービスプロバイダー、IDCプロバイダー、クラウドプロバイダーを対象に、IPv6およびIPv6 Onlyに関する研修会を開催した。 Vietnam.vn",
+      "published_at": "2026-10-12T14:12:21Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "9d7f54794c1980f8acd1f385",
       "title": "FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN",
@@ -42,33 +53,11 @@
       "score": 8
     },
     {
-      "id": "4156cbf64bfd0c27cd0c208c",
-      "title": "FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGZOS2tHSlMtdW9UNHptQ1BlMWNHcUtrcU4tb09nUjBLWlVYTlVKeVJjaGZBWjQ5Nm5iYWc3T3A3NEU5Z2dpQmhMek83Z2cxZ2IwMlp1V2hpTHo3R2JJUnNManJQcHp0TjNOcEp5RXVuNmJlb1ZrcF85TXJZQ2YxR0JObExMc283ZVZueFhqTmlHY1BiTzY4TnJzMENyQklBWXlDRWRaYVQ1UQ?oc=5",
-      "summary": "FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN",
-      "published_at": "2026-10-10T01:36:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "7b2277951e6939bc4638d806",
-      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KNOP",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1hOSUcxdkd2ZTJPTUJOSDlhOFdiUWtJajRHRzdmWXAycnQwakplaWdJUjNBMlR2ampibVVnbWRDVkZMT2JtSWpxZWZGakpXVUVvaUNTLU9oTm96VWo1a2FNSUlYUXJpbVpPdkhjTUZ4Ykd5Z0U0SllBeWs4MDh4VWxYWTVybVgwSWhJU2JYZm1yekx4OHB2cklzVER1MjJ5T1Q1bnNycElXbDI1Z2JBeDJFV2pkYWtEdGlXYWYxWdIB0wFBVV95cUxNNVdJUk96UWx4a2RDak5sVnNpYWNIbW1WWkY3OFR4YWFvSF93MjRLMEhtQ3RrZGEtOE5WVWwwQ25MSmMwRkgzU1daR2JJek41cm11clE5THB0NzFzTDJMdW9Lb29HWWVrUDhGTW5DU0xUQkl0dFRuUGVkT1ZJVjVpbHFlYUFiQl9abkNpcGE1UTVpUzF3Z3ZhSU9ZSllsSmFxQ1lMQ0VVSE5tVEhhMXN3QW5GSGN2T0tFa2dyWk04UFZPNVVOTnI3UzN3ekdJeG9oSjNv?oc=5",
-      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KNOP",
-      "published_at": "2026-10-09T23:13:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "3da24a7dd935aeedb1f3ab13",
       "title": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 - ThinkIT",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pR0hFQ19SdXg2bU9Pa0xSUEFfcEt3VC1DaTJGQ243R1p3TS1xWE4tYTctTU1oSGQ0YnpaMTR1YnI5TUdQc2Y0V1Rvcw?oc=5",
       "summary": "【CNDW2025】containerlab×kindでひもとくBGP＋Kubernetes検証環境の作り方とサイボウズでの実践 ThinkIT",
-      "published_at": "2026-10-10T16:50:59Z",
+      "published_at": "2026-10-11T19:01:24Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -82,6 +71,28 @@
       "published_at": "2026-10-10T03:15:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "4156cbf64bfd0c27cd0c208c",
+      "title": "FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRGZOS2tHSlMtdW9UNHptQ1BlMWNHcUtrcU4tb09nUjBLWlVYTlVKeVJjaGZBWjQ5Nm5iYWc3T3A3NEU5Z2dpQmhMek83Z2cxZ2IwMlp1V2hpTHo3R2JJUnNManJQcHp0TjNOcEp5RXVuNmJlb1ZrcF85TXJZQ2YxR0JObExMc283ZVZueFhqTmlHY1BiTzY4TnJzMENyQklBWXlDRWRaYVQ1UQ?oc=5",
+      "summary": "FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN",
+      "published_at": "2026-10-10T01:36:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "7b2277951e6939bc4638d806",
+      "title": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County - KNOP",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU1hOSUcxdkd2ZTJPTUJOSDlhOFdiUWtJajRHRzdmWXAycnQwakplaWdJUjNBMlR2ampibVVnbWRDVkZMT2JtSWpxZWZGakpXVUVvaUNTLU9oTm96VWo1a2FNSUlYUXJpbVpPdkhjTUZ4Ykd5Z0U0SllBeWs4MDh4VWxYWTVybVgwSWhJU2JYZm1yekx4OHB2cklzVER1MjJ5T1Q1bnNycElXbDI1Z2JBeDJFV2pkYWtEdGlXYWYxWdIB0wFBVV95cUxNNVdJUk96UWx4a2RDak5sVnNpYWNIbW1WWkY3OFR4YWFvSF93MjRLMEhtQ3RrZGEtOE5WVWwwQ25MSmMwRkgzU1daR2JJek41cm11clE5THB0NzFzTDJMdW9Lb29HWWVrUDhGTW5DU0xUQkl0dFRuUGVkT1ZJVjVpbHFlYUFiQl9abkNpcGE1UTVpUzF3Z3ZhSU9ZSllsSmFxQ1lMQ0VVSE5tVEhhMXN3QW5GSGN2T0tFa2dyWk04UFZPNVVOTnI3UzN3ekdJeG9oSjNv?oc=5",
+      "summary": "Nebraska National Guard cyber team deployed after internet outage impacts North Platte, Lincoln County KNOP",
+      "published_at": "2026-10-09T23:13:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVJxV2puRlpoY0ZhNlZuS3A0em1xQ2ZkNVNPQ09RSG9iNTdfYkdZcXpBTGJtaHFpME9Vc1M2V3hYYzE4TkhIWEJfNVBoblNHcW5aSy0zNDdFSlpybkRYczFwNE5pRV85M1NHcXBTcUNzbldpdDlqRnNPNEhHY1Y2WVV3TWtHd04zS0tiZGJIeVA4S0w4ZHFkWUl3?oc=5",
       "summary": "Widespread internet outage hits Ontario after fibre cables vandalized INsauga",
       "published_at": "2026-10-08T20:05:12Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "d29078cd042b38fd987284fc",
-      "title": "Major internet outage hits Russia after strike on Yandex data center - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajVsMHh2R0hmclNHT0Y0S0paYXEwbnVfb3NybVRtOTJ6Nnd5VmpRU0h3b2Z3cWx1UlBfdm40bVNDTnhEVUlpRUduWkU4WWcxWEFpMnJaWXBORWx4Z2EzVHFzdGczVmphX1QzQkdJOXB2eHdLTlQ1UmR3N1dJeTkyNmY1M1oybzRSSS1lSnJncVRZcW83VnBzMGFKZVdIOGZNdjBKcHJudDVuYXFUdndpVElMMmZXXzJCb3fSAb8BQVVfeXFMUENmUlpMRFE0UkxRYUNWOHlsdHdxYW93MUFsX2xzQUlxSDEwWS1CbDhJalRDbXR1Qi1Ldmp6R2Y4cnRNb1lQeHVSeS1KN2g4OFFzZTJjaHY5cTZiR3pVVHZ3QmJNNHRFbXhuelZ1R20tWUVNb1UwSWdCNHdRQm5NWkduMFVkUUNmRjZTM2p0QWJzUG5CbHBoQl9faTl5ZlZEbWQ0dUVkRzNXSC1WbF9GbUlYSVVSSHUwTmwxcS1QRHM?oc=5",
-      "summary": "Major internet outage hits Russia after strike on Yandex data center Ukrinform",
-      "published_at": "2026-10-08T16:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

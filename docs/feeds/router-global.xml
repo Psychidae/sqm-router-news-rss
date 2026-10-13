@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:36:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -78,6 +78,20 @@ Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!</description>
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router - TechEBlog -</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjFGN0lZSUQ2LWk3U2tMSWljcXlHbEFXNTUyc3lidUE3T3o4ZkVsWENOSEdSMVlQc1I2YzM4TW85VHlHVUd6MWltWXZKbThfaDBFeEkwa2E1UmxVR2hFV0RQV084aGlPYWR6NUxKR241OUhIbmVVY29GbzBoU1dYai04ZC1VOUYtZ25IWklicjg?oc=5</link>
+      <guid isPermaLink="false">9c3c8bc4735f4424d3c151a5</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-13 07:42
+TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router TechEBlog -</description>
+      <pubDate>Tue, 13 Oct 2026 01:36:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-13T01:36:41.745211Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-12T22:42:20Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar</title>
       <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5</link>
       <guid isPermaLink="false">2b52845527102b42734d8c8e</guid>
@@ -130,20 +144,6 @@ Devolo introduces Wi-Fi 7 BE9300 router Telecompaper</description>
       <pubDate>Mon, 12 Oct 2026 19:19:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-12T19:19:55.070620Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-08T08:41:35Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHlfaHdIdW5RdXRXQkhKaGJoNDNLNXgwYnN2NkVqNFllNVI5THV6SGFTdjViUWF6SUhDc0FkTEFNLTFqUzd3dU81bU50UlQxR05RTlF6UmZUTWtScUMxSFNzTTBLejBNeVNuZ1hSRFh1bUxHVEVCUmVaYWtrcXpHRmREM2NldWRTTlpzQmptZXc3NUhkRjBQSzh1amRGSmlQUkxZV2hnM3JQU21PRXNWVXppSXNhaHc?oc=5</link>
-      <guid isPermaLink="false">5a5b1d2f59a4136195f17bb5</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-08 02:10
-Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime Gizmodo</description>
-      <pubDate>Wed, 07 Oct 2026 21:33:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-07T21:33:53.924566Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-07T17:10:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
