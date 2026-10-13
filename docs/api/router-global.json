@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-13T16:25:47.885326Z",
+  "generated_at": "2026-10-13T21:32:15.883755Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "d9fcbe4a674b2f19bed2b3eb",
+      "title": "Turning a Wi-Fi 7 router into a wideband software-defined receiver - Adafruit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZ1dzZVRS1MNVFvQkRaSFhoSmpvRUo1QXRCMEc4ekUtSTBFZEdWeEdLRkE1ODZkal9MeXVPbVV3Z2tDaENaa2ZrWnJWQTI4ZmRnVzdXTnh3ZXFNNUFXbnVvb2tOUlNEYk9xWTI5UHVpUUlsTVZUeFlBWWF1UHZmZldMR2dIMnJKTk96YVAtLWxQSWxaNHdvZl9wRlZRQktxcGVleDFTbw?oc=5",
+      "summary": "Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit",
+      "published_at": "2026-10-13T16:25:20Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "c38fef4a659b51a5c825898d",
       "title": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
       "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
       "published_at": "2026-10-09T20:00:18Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "b0f973e3c7716ab3a9d954c4",
-      "title": "Devolo introduces Wi-Fi 7 BE9300 router - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHMxRUJuWFBSOGNteTNxbklMUGk2dkRvR2xDdDZ6bUhtcnhhSW1vTWE4dHBaanEwbmFkQzBWRWtpTVhRdXp1SjlOTkMzbmdmMWpEazRST0lmQ2tRdXFBU2gzV01NZExDRUgyTk1hVG0zQnV2VE5KRzZURUJGRDVoREM4VkZTRzBkdVE?oc=5",
-      "summary": "Devolo introduces Wi-Fi 7 BE9300 router Telecompaper",
-      "published_at": "2026-10-08T08:41:35Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
