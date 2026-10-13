@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 08:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:25:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -32,20 +32,6 @@ Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDAT
       <pubDate>Mon, 12 Oct 2026 19:19:55 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-12T19:19:55.070620Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-12T12:06:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMihgJBVV95cUxPTTkxYjJ4T0dsRW1DdzE2RXlMMWIwU3VHSDFpRnByZjhjcV9jeHFZOWZhQ3UtX0Z2VEt2bllFRDR6VC1BbmdWVFdaVzdjaVpVSGphMXpLWFhkWVZ3V1FQUGMzc1RKeDk3REhHQ3ZfZUY2QnFWQVFveG9KdWZFb192Nm1OdXFzM19ENXFPSjgwNndkUnBENlFQakQ1eDhpQWg5bElNX2FSRk5BTHJqVk9LN2xQaU9DazhZcFJrTy1FS2tFSE1SUmdzSy1IenpiZDJoNkJ0RTA2TUl1YTZQTzhFczZyYllXLTRjU09mbEpTc2hFSnFndG1lMlE0SjhuaVlzeTZ4T1V3?oc=5</link>
-      <guid isPermaLink="false">fd4e436fcdf0a663dea42b4c</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-09 07:43
-MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price TechRadar</description>
-      <pubDate>Thu, 08 Oct 2026 01:18:37 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-08T01:18:37.411982Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-08T22:43:24Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -78,6 +64,34 @@ Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!</description>
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5</link>
+      <guid isPermaLink="false">c38fef4a659b51a5c825898d</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-13 21:40
+Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo</description>
+      <pubDate>Tue, 13 Oct 2026 16:25:47 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-13T16:25:47.884376Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-13T12:40:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar</title>
+      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5</link>
+      <guid isPermaLink="false">2b52845527102b42734d8c8e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-13 18:01
+TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 TechRadar</description>
+      <pubDate>Mon, 12 Oct 2026 19:19:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-12T19:19:55.070620Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-13T09:01:38Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router - TechEBlog -</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjFGN0lZSUQ2LWk3U2tMSWljcXlHbEFXNTUyc3lidUE3T3o4ZkVsWENOSEdSMVlQc1I2YzM4TW85VHlHVUd6MWltWXZKbThfaDBFeEkwa2E1UmxVR2hFV0RQV084aGlPYWR6NUxKR241OUhIbmVVY29GbzBoU1dYai04ZC1VOUYtZ25IWklicjg?oc=5</link>
       <guid isPermaLink="false">9c3c8bc4735f4424d3c151a5</guid>
@@ -88,20 +102,6 @@ TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router 
       <pubDate>Tue, 13 Oct 2026 01:36:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-13T01:36:41.745211Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-12T22:42:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar</title>
-      <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5</link>
-      <guid isPermaLink="false">2b52845527102b42734d8c8e</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-13 02:11
-TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 TechRadar</description>
-      <pubDate>Mon, 12 Oct 2026 19:19:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-12T19:19:55.070620Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-12T17:11:45Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

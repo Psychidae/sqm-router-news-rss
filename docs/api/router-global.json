@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-13T08:25:25.269088Z",
+  "generated_at": "2026-10-13T16:25:47.885326Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,18 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
-    },
-    {
-      "id": "fd4e436fcdf0a663dea42b4c",
-      "title": "MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTTkxYjJ4T0dsRW1DdzE2RXlMMWIwU3VHSDFpRnByZjhjcV9jeHFZOWZhQ3UtX0Z2VEt2bllFRDR6VC1BbmdWVFdaVzdjaVpVSGphMXpLWFhkWVZ3V1FQUGMzc1RKeDk3REhHQ3ZfZUY2QnFWQVFveG9KdWZFb192Nm1OdXFzM19ENXFPSjgwNndkUnBENlFQakQ1eDhpQWg5bElNX2FSRk5BTHJqVk9LN2xQaU9DazhZcFJrTy1FS2tFSE1SUmdzSy1IenpiZDJoNkJ0RTA2TUl1YTZQTzhFczZyYllXLTRjU09mbEpTc2hFSnFndG1lMlE0SjhuaVlzeTZ4T1V3?oc=5",
-      "summary": "MSI's Wi-Fi 7 mesh router beats the Amazon eero for half the price TechRadar",
-      "published_at": "2026-10-08T22:43:24Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 18
     },
     {
       "id": "46392f1aa6d2ed7e6a79984b",
@@ -64,11 +53,11 @@
       "score": 15
     },
     {
-      "id": "9c3c8bc4735f4424d3c151a5",
-      "title": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router - TechEBlog -",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjFGN0lZSUQ2LWk3U2tMSWljcXlHbEFXNTUyc3lidUE3T3o4ZkVsWENOSEdSMVlQc1I2YzM4TW85VHlHVUd6MWltWXZKbThfaDBFeEkwa2E1UmxVR2hFV0RQV084aGlPYWR6NUxKR241OUhIbmVVY29GbzBoU1dYai04ZC1VOUYtZ25IWklicjg?oc=5",
-      "summary": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router TechEBlog -",
-      "published_at": "2026-10-12T22:42:20Z",
+      "id": "c38fef4a659b51a5c825898d",
+      "title": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5",
+      "summary": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo",
+      "published_at": "2026-10-13T12:40:22Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -79,7 +68,18 @@
       "title": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5",
       "summary": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 TechRadar",
-      "published_at": "2026-10-12T17:11:45Z",
+      "published_at": "2026-10-13T09:01:38Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "9c3c8bc4735f4424d3c151a5",
+      "title": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router - TechEBlog -",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjFGN0lZSUQ2LWk3U2tMSWljcXlHbEFXNTUyc3lidUE3T3o4ZkVsWENOSEdSMVlQc1I2YzM4TW85VHlHVUd6MWltWXZKbThfaDBFeEkwa2E1UmxVR2hFV0RQV084aGlPYWR6NUxKR241OUhIbmVVY29GbzBoU1dYai04ZC1VOUYtZ25IWklicjg?oc=5",
+      "summary": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router TechEBlog -",
+      "published_at": "2026-10-12T22:42:20Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -94,7 +94,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "51daef24f4016fe683c43343",
