@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:35:36 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売 - AKIBA PC Hotline!</title>
@@ -92,20 +92,6 @@ NECのWi-Fiルーター「Aterm」がAmazonプライム感謝祭に登場！ Wi-
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - au Webポータル</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBuQVNucTRQOEhjd2QxclBDMlBlNWFiTzNDLVRVZ09tZGFrWUpWN2NIZ0ZMLWxjSGdTcDV6azVta3RabVMxc2E3YjFVWG1nMkw0d056X3JGUXg3Q3BGSHRvazRJMUJ0MWZUVGdlcmx3?oc=5</link>
-      <guid isPermaLink="false">147e0e062b3c96a9d4fbf44e</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-10-07 18:16
-ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター au Webポータル</description>
-      <pubDate>Wed, 07 Oct 2026 21:33:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-07T21:33:52.690641Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-07T09:16:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
       <title>[国内ルーター市場] ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター - J-CAST ニュース</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DVEhkUlR5b3JqQU9LWS1YR2d1Um1YT0ttQUZJMDJLUnhVdGdjYnhLeUZOVm9NSkl1RERZYlppRk8zekM2VkdHTkZjLVRTcjJPbUUzZV9sV3k4U2Z6eERFMHZKQi1yVk3SAWRBVV95cUxPbktTS05qbk11OTdoa2dfWU9nekg2cDZaRnBuMEpLNWdFNi1JVW5sWTl4UjZDN1g3ajYwMW5UcGJIdldidzFCVTg3VWU3Z2tJdDVPY1RGUXZ2XzhZbDVpNUdTSlhw?oc=5</link>
       <guid isPermaLink="false">1a0a2137d1f099ed931715aa</guid>
@@ -116,6 +102,20 @@ ASUSから「Wi-Fi 7」対応ゲーミングWi-Fiルーター J-CAST ニュー�
       <pubDate>Wed, 14 Oct 2026 05:23:02 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-14T05:23:02.660529Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-07T09:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net</title>
+      <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sTUJsUGEzcUNoS2MzZ3NRdXZpLWdzN1Zlck50SW04RXNTYzMxcW5rZmRGckhxdk5mR2RjZDF2Y0hJckpxcmNYaDdxMUFQaXB2ZS1janFISVh6S005NFNNYzZKRQ?oc=5</link>
+      <guid isPermaLink="false">d722b83bf3fffc7476ff4132</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router products
+元記事日付: 2026-10-02 16:00
+ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net</description>
+      <pubDate>Wed, 14 Oct 2026 10:35:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-14T10:35:36.118370Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-02T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
       <category>国内ルーター市場</category>
     </item>
