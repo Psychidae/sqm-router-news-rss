@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:40:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Ivanti Connect Secureのゼロデイ脆弱性が悪用中、VPNは今すぐ更新を - Pasquale Pillitteri</title>
+      <link>https://news.google.com/rss/articles/CBMiqgFBVV95cUxONkd6dmhlaGY5R0hUSy1zSG5oUUFMbG5nODk3VWNsRk1DQ0NxN1Y2WktNaDdpTnNTOUJacm5lM3FhZEVSeElaaWliYjIzVkNrYkFweHllLWIxRTROaDdHQzZfN3hiNW1EWDM3TW5naWZjSVJKY3YtQTBFcFVHZHZyYVEzLW8wZTZVSVpQWkxPeDdEMFZyYjdmcXpqOS1XT0VTY3JDSHFWdnY4Zw?oc=5</link>
+      <guid isPermaLink="false">1cabfa48a9fc8b9f0e7270c2</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-15 03:52
+Ivanti Connect Secureのゼロデイ脆弱性が悪用中、VPNは今すぐ更新を Pasquale Pillitteri</description>
+      <pubDate>Wed, 14 Oct 2026 19:40:51 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-14T19:40:51.652012Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-14T18:52:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups - Infosecurity Magazine</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTR4bjFoTjBvZ0o4a1JUVTZ5c3lEOUkySFpCTGZtVFc0NHZoejNudFRxaUpSZGNBUmNYcUtCSE4tclduQnJyZ1FQNzExLVZDbkQwcS0zYUNPMVgtaVdRWEdJa1JnTFdLZHZPMlBtWXZtRE1qUVZfNzlKZGMxV0Zlemx5TTE?oc=5</link>
