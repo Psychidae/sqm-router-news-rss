@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-14T10:35:40.401655Z",
+  "generated_at": "2026-10-14T15:28:15.982875Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,14 +10,14 @@
   "items": [
     {
       "id": "b31e0f7f82e9d4bf594ac098",
-      "title": "Two Oakland County school districts closed due to internet outage - The Oakland Press",
+      "title": "Two Oakland County school districts reopen after internet outage - The Oakland Press",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmNOSTVLYWdudFpWZV9LbTFFXzFqa2h2Z1VkamRibGVhTmY4WHcydWpSNk80bUJhMThKOHZhZ0h6LU9lbU10T2Rta3RhQVNZZGRNRl82QmE2cEJrUE9jR213c1VtR0J6MFBMMzhwWHhZbmVXY1pCN2MwTlRoZXZjd1VZRmUxYXp4ZE1xVjdMc1U2Z3gtWEpGMEFGSkdjdlBMdkRQTnRZUl9mcU9LbEE?oc=5",
-      "summary": "Two Oakland County school districts closed due to internet outage The Oakland Press",
+      "summary": "Two Oakland County school districts reopen after internet outage The Oakland Press",
       "published_at": "2026-10-13T11:33:33Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "977bb408db78f178b3c7b192",
