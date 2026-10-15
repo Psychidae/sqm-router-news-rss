@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-15T00:51:34.082112Z",
+  "generated_at": "2026-10-15T05:52:21.714633Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 22
-    },
-    {
-      "id": "786f198bcf58f2c47d510181",
-      "title": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5",
-      "summary": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK",
-      "published_at": "2026-10-12T12:06:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
     },
     {
       "id": "46392f1aa6d2ed7e6a79984b",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "51daef24f4016fe683c43343",
+      "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
+      "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
+      "published_at": "2026-10-09T20:00:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     }
   ]
 }
