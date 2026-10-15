@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-15T11:22:31.769424Z",
+  "generated_at": "2026-10-15T15:43:07.831640Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -17,7 +17,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 21
+      "score": 20
     },
     {
       "id": "dad47ff42ce593f77d11fe4f",
@@ -50,7 +50,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 16
+      "score": 15
     },
     {
       "id": "78f486b4337d9ff6e4fd74db",
@@ -86,11 +86,11 @@
       "score": 15
     },
     {
-      "id": "e521d0636572c9847d2c6925",
-      "title": "ASUS製Wi-Fi 7ルーターが1万円台前半からとお買い得！ Amazonプライム感謝祭 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVGpWZmR4em9WeVQ2dzNNb3M2MEpWc0dZMktabmhwZTl2c0NBVGIzODRCMjNvQXJfcUFocndQMTNGYktkVHY0NXJkdDVHb3pwejF5Z1lDdlBwdDMwazRJYWoyLVpENlFjNk4tX0NMNG0?oc=5",
-      "summary": "ASUS製Wi-Fi 7ルーターが1万円台前半からとお買い得！ Amazonプライム感謝祭 INTERNET Watch",
-      "published_at": "2026-10-15T02:30:00Z",
+      "id": "f4605a328bd6635f0321e81c",
+      "title": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fVzBRaWpPU1VyVzdQWGszLXUtNTRSYk16SDZnT3lsbEZDQThRYlBncWhSQnUwV0M4S0piU0JkU3NqUHUtSlJoUWRlOFlKMXNwMlhhbzVrUWhBanpwd1hCTEVabDl6aHhC?oc=5",
+      "summary": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） 毎日新聞",
+      "published_at": "2026-10-15T11:52:52Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

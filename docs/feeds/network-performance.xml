@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:43:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike - TODAY.com</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQTGFVXy1STFVXSlRBbUQ5MGRiYlRTVkxMMUtEdkxVMVBueERHbXctY1VjV1ZMUm0wZUtDeFdBWnVYUWV6b0lra3NGWU1TX1U5S2N1bnFOMVFwODhVRlN3Y1hRbXpDRnVzNS1CNzhpeEFoVEV0c0F2WXQzUTVNVVNjOUNVbE5RSDNkRHgzZWg0WWU1bnpOSTJJTFI0bmZ4dw?oc=5</link>
+      <guid isPermaLink="false">96b62d4e1718e890c7bdd011</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-15 20:42
+Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com</description>
+      <pubDate>Thu, 15 Oct 2026 15:43:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-15T15:43:12.261064Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-15T11:42:04Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform</title>
       <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5</link>
@@ -102,20 +116,6 @@ KT、超高速・超低遅延の「AI専用回線」を発表…AIデータセ�
       <pubDate>Thu, 15 Oct 2026 05:52:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-15T05:52:23.747665Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-14T00:08:10Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] VNNICは、メディア企業、コンテンツサービスプロバイダー、IDCプロバイダー、クラウドプロバイダーを対象に、IPv6およびIPv6 Onlyに関する研修会を開催した。 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0xJb1djR1BjaVB5R3BvLWlubUxQWW90UmVITnk5bExsMWhCS1hmZ0pRLXRMV1lvV1NRR2tBUFRoZHlqbFVTZndPc25zY2wzSW5OMVUtazRROGpwcnlkSGZwNi1tSFNqUmhtSlZtb09rNTVTTGhGR1BoOEpSNWt3Uk1YZHpvZ21GeF92clJ1M0FfNTc0RTZiQ3ZsT25Fc1VhYU9vVHJhQ2RkWHU5THVVcU1wOVRzUjREZThvT1lIbDRuSXdYbXFhVWJSSFNRejFzRTU3TEFSZ3o2SkE?oc=5</link>
-      <guid isPermaLink="false">7cb87cde51cda332164b8221</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-12 23:12
-VNNICは、メディア企業、コンテンツサービスプロバイダー、IDCプロバイダー、クラウドプロバイダーを対象に、IPv6およびIPv6 Onlyに関する研修会を開催した。 Vietnam.vn</description>
-      <pubDate>Tue, 13 Oct 2026 01:36:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-13T01:36:44.162849Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-12T14:12:21Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
