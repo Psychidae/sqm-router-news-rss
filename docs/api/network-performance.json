@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-15T15:43:12.262025Z",
+  "generated_at": "2026-10-15T19:22:30.591856Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,33 +9,22 @@
   "errors": [],
   "items": [
     {
+      "id": "3c4710c6e33935370d8d0873",
+      "title": "Internet outage caused by theft affecting some Okotoks residents - Western Wheel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmZKTzhkOWZ2cXg0ekQyRURBVy1Bamt4MHJDaC1YSFplQ21zWkR2eDJ0YS1wYklFNkdKMFNaaERkb0toR1B4VE9EYmV4aHYtQXM2R3dwelhsSlZXVWN4c3BibWdHbEdkdWpGZmVBNkktSnJzQlpqYUc1UUlrM3k1TmJBSVpaX1QzRjh4ckZEbGRQWVNPQmpqd0xTbjd6eTNPeVV1Q3B1SW5VRlY5OEhoLUpB?oc=5",
+      "summary": "Internet outage caused by theft affecting some Okotoks residents Western Wheel",
+      "published_at": "2026-10-15T15:06:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "96b62d4e1718e890c7bdd011",
       "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike - TODAY.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGFVXy1STFVXSlRBbUQ5MGRiYlRTVkxMMUtEdkxVMVBueERHbXctY1VjV1ZMUm0wZUtDeFdBWnVYUWV6b0lra3NGWU1TX1U5S2N1bnFOMVFwODhVRlN3Y1hRbXpDRnVzNS1CNzhpeEFoVEV0c0F2WXQzUTVNVVNjOUNVbE5RSDNkRHgzZWg0WWU1bnpOSTJJTFI0bmZ4dw?oc=5",
       "summary": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com",
       "published_at": "2026-10-15T11:42:04Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "c4ca68d41d6ae6e7f5b318c3",
-      "title": "Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5",
-      "summary": "Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform",
-      "published_at": "2026-10-14T17:37:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "64246da1db1605303de5de42",
-      "title": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5",
-      "summary": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS",
-      "published_at": "2026-10-14T16:23:49Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -60,6 +49,28 @@
       "published_at": "2026-10-15T08:39:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "c4ca68d41d6ae6e7f5b318c3",
+      "title": "Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5",
+      "summary": "Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform",
+      "published_at": "2026-10-14T17:37:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "64246da1db1605303de5de42",
+      "title": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5",
+      "summary": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS",
+      "published_at": "2026-10-14T16:23:49Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm91cVQ1a2lvZlRVaWY2SXFDNGxkM1dvU190UnJiSVdJaEdIcHFZYUdyaXdnM1RCQUxGR0N6RGpWLXROeXljRW5uaVAzRk41WUNnaGpQLTNmdmlBSUFjdmhtMk8yRXBkeWdGTHZ0Q1Qxa2lnSEtGeFVkUFpzcjZzTUhsUFFOQmFBbk52dEt5eTB5UWJEbWQwZE5rY0dUUlk3MHFScXRydEd6Ry1wSmcwZWF3?oc=5",
       "summary": "FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN",
       "published_at": "2026-10-10T18:34:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "23e7a9970151c4b29ab781bf",
-      "title": "Can AI detect a silent internet outage before it occurs? - Tech Xplore",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xelBmVGNLTWY1d1ZDcy1NNC12WGxXQTJWbm44R253M1pKZmlrWG8xNzJHQUtoZld2ZXh1ZWtVWjhxVzl2Q2R2dGZqMXVDVFdNVlFjbncwcEx6MnkzTllPMndMX0FqUGJrV3dBTUFBUUtSVVMw?oc=5",
-      "summary": "Can AI detect a silent internet outage before it occurs? Tech Xplore",
-      "published_at": "2026-10-10T13:40:15Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

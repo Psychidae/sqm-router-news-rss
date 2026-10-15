@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-15T15:43:09.418925Z",
+  "generated_at": "2026-10-15T19:22:28.057199Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -61,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "d9fcbe4a674b2f19bed2b3eb",
@@ -86,28 +86,6 @@
       "score": 13
     },
     {
-      "id": "2b52845527102b42734d8c8e",
-      "title": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 - TechRadar",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPenNlN05ySG9PTjNUVjdhajRWMUpSdmZLTEdaT1lLS3gzTFhGM3M0VGl1ZXg1OWRGY3JiczdwWkRKc2xWeG5QRjRjMjRvRTM4SDBLU2xtNGZfdmRHcy1ScWl0MlU3X3l6cG0wNjFnVHhLbjU1dl9zWDl4SjdjZmI1UjBLUzZZMEtLNTJwUXp0MnhCN0p4aHZJX3luYWJxSkdRTTBIelBpeGVKT0V4MjA5RGYtMlpSUl96V3JRZENlcTFoWmFPdlB6YUVaNjhqdjkxTkNqc0dfOA?oc=5",
-      "summary": "TP-Link's Archer BE670 tri-band Wi-Fi 7 router with a 10Gbps port is a future-proof multi-gig upgrade at $250 TechRadar",
-      "published_at": "2026-10-13T09:01:38Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "9c3c8bc4735f4424d3c151a5",
-      "title": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router - TechEBlog -",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjFGN0lZSUQ2LWk3U2tMSWljcXlHbEFXNTUyc3lidUE3T3o4ZkVsWENOSEdSMVlQc1I2YzM4TW85VHlHVUd6MWltWXZKbThfaDBFeEkwa2E1UmxVR2hFV0RQV084aGlPYWR6NUxKR241OUhIbmVVY29GbzBoU1dYai04ZC1VOUYtZ25IWklicjg?oc=5",
-      "summary": "TP-Link Roam 7 BE3600 Packs Fast Dual Band Wi-Fi 7 Into a Compact Travel Router TechEBlog -",
-      "published_at": "2026-10-12T22:42:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "3f30dc1493e712a4e9310a1f",
       "title": "Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers - Expert Reviews",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVlDdVFfWVdkbWR5bk5VeTM5WjJveFJNblFjaVFkYnhLNEZZQ1ZFemwxVHVPSGs5bnY4dUtJek5RM244MFc1ZE9IMWRTRV9uS0xuYWgyU0lBaTdFMjBBVWdELXFGVjJIUWwzT2JBZkxaYUlWOS1ZRlYtckF6ZmtBRENIam1pXzkwNmNFLWdhd1pqMDJqcGdCTUNGYw?oc=5",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "51daef24f4016fe683c43343",
+      "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
+      "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
+      "published_at": "2026-10-09T20:00:18Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "aca703ae82a0879f5f8d624d",
+      "title": "The Wi-Fi router in your living room could be a national risk - geekspin",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04TU5SRHczSERseHFWYVhkMEtWejJKbGpYakN4UUV3cTdPdzNPbjNqd3pmdUVIMXhjbWxnNXhBaEJJOEJwbDBGWDRPa2tIWUlfV2Zyck03aF9uLTZ3aXVSbDFRWmE?oc=5",
+      "summary": "The Wi-Fi router in your living room could be a national risk geekspin",
+      "published_at": "2026-10-09T11:30:28Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     }
   ]
 }

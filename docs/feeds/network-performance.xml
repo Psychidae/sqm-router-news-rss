@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:43:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:22:30 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Internet outage caused by theft affecting some Okotoks residents - Western Wheel</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmZKTzhkOWZ2cXg0ekQyRURBVy1Bamt4MHJDaC1YSFplQ21zWkR2eDJ0YS1wYklFNkdKMFNaaERkb0toR1B4VE9EYmV4aHYtQXM2R3dwelhsSlZXVWN4c3BibWdHbEdkdWpGZmVBNkktSnJzQlpqYUc1UUlrM3k1TmJBSVpaX1QzRjh4ckZEbGRQWVNPQmpqd0xTbjd6eTNPeVV1Q3B1SW5VRlY5OEhoLUpB?oc=5</link>
+      <guid isPermaLink="false">3c4710c6e33935370d8d0873</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-16 00:06
+Internet outage caused by theft affecting some Okotoks residents Western Wheel</description>
+      <pubDate>Thu, 15 Oct 2026 19:22:30 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-15T19:22:30.590911Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-15T15:06:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike - TODAY.com</title>
       <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQTGFVXy1STFVXSlRBbUQ5MGRiYlRTVkxMMUtEdkxVMVBueERHbXctY1VjV1ZMUm0wZUtDeFdBWnVYUWV6b0lra3NGWU1TX1U5S2N1bnFOMVFwODhVRlN3Y1hRbXpDRnVzNS1CNzhpeEFoVEV0c0F2WXQzUTVNVVNjOUNVbE5RSDNkRHgzZWg0WWU1bnpOSTJJTFI0bmZ4dw?oc=5</link>
@@ -18,34 +32,6 @@ Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com</desc
       <pubDate>Thu, 15 Oct 2026 15:43:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-15T15:43:12.261064Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-15T11:42:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform</title>
-      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5</link>
-      <guid isPermaLink="false">c4ca68d41d6ae6e7f5b318c3</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-15 02:37
-Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform</description>
-      <pubDate>Wed, 14 Oct 2026 19:40:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-14T19:40:52.915978Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-14T17:37:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5</link>
-      <guid isPermaLink="false">64246da1db1605303de5de42</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-15 01:23
-A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS</description>
-      <pubDate>Wed, 14 Oct 2026 19:40:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-14T19:40:52.915978Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-14T16:23:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -75,6 +61,34 @@ Coltテクノロジーサービス、東阪間の遅延を約30％低減する�
       <sqm:firstSeenDate>2026-10-15T11:22:35.120536Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-15T08:39:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5</link>
+      <guid isPermaLink="false">c4ca68d41d6ae6e7f5b318c3</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-15 02:37
+Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform</description>
+      <pubDate>Wed, 14 Oct 2026 19:40:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-14T19:40:52.915978Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-14T17:37:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5</link>
+      <guid isPermaLink="false">64246da1db1605303de5de42</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-15 01:23
+A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS</description>
+      <pubDate>Wed, 14 Oct 2026 19:40:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-14T19:40:52.915978Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-14T16:23:49Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Ali
       <pubDate>Sun, 11 Oct 2026 01:50:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-11T01:50:24.395709Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-10T18:34:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Can AI detect a silent internet outage before it occurs? - Tech Xplore</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9xelBmVGNLTWY1d1ZDcy1NNC12WGxXQTJWbm44R253M1pKZmlrWG8xNzJHQUtoZld2ZXh1ZWtVWjhxVzl2Q2R2dGZqMXVDVFdNVlFjbncwcEx6MnkzTllPMndMX0FqUGJrV3dBTUFBUUtSVVMw?oc=5</link>
-      <guid isPermaLink="false">23e7a9970151c4b29ab781bf</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-10 22:40
-Can AI detect a silent internet outage before it occurs? Tech Xplore</description>
-      <pubDate>Sat, 10 Oct 2026 19:30:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-10T19:30:28.270418Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-10T13:40:15Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
