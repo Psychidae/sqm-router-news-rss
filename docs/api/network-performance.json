@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-15T19:22:30.591856Z",
+  "generated_at": "2026-10-15T22:39:44.883175Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -31,6 +31,17 @@
       "score": 9
     },
     {
+      "id": "1902b5892392ebd7e5fcf2f3",
+      "title": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5",
+      "summary": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center Daily Kos",
+      "published_at": "2026-10-15T04:02:23Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "6fe8c3bec3a638c1de50765b",
       "title": "Colt、東京―大阪間に第3の通信ルートを新設 - 遅延約30%削減、容量25Tbps - ニコニコニュース",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tUEM5dXFrTUpWLUxoY3ExNm5Fdzg4YnF1WjU2czdIX2Z6LXY0ZjdMYTQ3Z2xGcldLNnNKVGVyX2U2RHB3UHRYWElpMXhVa0lnRVk4a0tuS0lxQ0Q5ZlFZdFJ5UE12T19GOFNjM1VnRUQxaVktVXNNTU1aRQ?oc=5",
@@ -53,9 +64,9 @@
       "score": 8
     },
     {
-      "id": "c4ca68d41d6ae6e7f5b318c3",
+      "id": "d19fda64a69c4380026f0491",
       "title": "Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdzFPTThPQ1BONGxhRzRNMnFIZ2VCTWFkeExfQ2dnY0dJYmRqcy1STW02SE1SMEZDeTVTei1CNnBINFpJakQzTGV4UkFGbEY5QVllRlZXanpUcVZqU3llZDBUMHdLc1JMa2VFakFRZVZVemxZb3F4ekg2OW16V3dtNFZaVDhsb0YyV1M5VVBOTkp0UFpyVTIwU3R3OWpJbFZLaTdveVBud3ZfUWF5bS10Q2ZVWi03eThidVQ4VDVnVktQampHZGJfWkFuQ1FPaGxxOGFkeUNB0gHbAUFVX3lxTE43LWcyQ3BLRVpoc2lnMEx4bUZneTNpYVJHMkE5cFduVkptT0tmNHZaUXRiR3BZallGd05CY3ZudmlaVkVlVVNDQVVVRUNMMWlRaGZXRmV1cWh1V0R2MXVGTjVLMVAtb1NxQ0FtbjRZSzNHaUl0WGlCbHhaSVd0X21DZ09JajJfWUZ0Snk2VWpDNTZSNE8tOGh5SVoyaGR4NHRzTVFSUktiME5RNDVvUU9yM2FSMWUxc01rRUhVa3kwZkhIS3prSDkyWWRuU2ZqWkJOOVlNbEVmOEJWMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONy1nMkNwS0VaaHNpZzBMeG1GZ3kzaWFSRzJBOXBXblZKbU9LZjR2WlF0YkdwWWpZRndOQmN2bnZpWlZFZVVTQ0FVVUVDTDFpUWhmV0ZldXFodVdEdjF1Rk41SzFQLW9TcUNBbW40WUszR2lJdFhpQmx4WklXdF9tQ2dPSWoyX1lGdEp5NlVqQzU2UjRPLThoeUlaMmhkeDR0c01RUlJLYjBOUTQ1b1FPcjNhUjFlMXNNa0VIVWt5MGZISEt6a0g5MllkblNmalpCTjlZTWxFZjhCVjDSAdsBQVVfeXFMTjctZzJDcEtFWmhzaWcwTHhtRmd5M2lhUkcyQTlwV25WSm1PS2Y0dlpRdGJHcFlqWUZ3TkJjdm52aVpWRWVVU0NBVVVFQ0wxaVFoZldGZXVxaHVXRHYxdUZONUsxUC1vU3FDQW1uNFlLM0dpSXRYaUJseFpJV3RfbUNnT0lqMl9ZRnRKeTZVakM1NlI0Ty04aHlJWjJoZHg0dHNNUVJSS2IwTlE0NW9RT3IzYVIxZTFzTWtFSFVreTBmSEhLemtIOTJZZG5TZmpaQk45WU1sRWY4QlYw?oc=5",
       "summary": "Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform",
       "published_at": "2026-10-14T17:37:00Z",
       "source": "Google News Global: network performance",
@@ -86,17 +97,6 @@
       "score": 8
     },
     {
-      "id": "977bb408db78f178b3c7b192",
-      "title": "Haitians slam Digicel after third internet outage in about 3 weeks - The Haitian Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1dkdDFmZVlJbE0yUjBadGIwOER3cUlhcGpZektTNWowRHlkQm54eW03alFHcWF2RFhTWTNwYXJJb0xHUjJsRnE0YkozQmRHV1F6LU1xTlFBOUFmSFBFNEVDVWpKRVktemZ6SWNmaGszb1JnWWdxa19VVHpDTkswdDVMNFVzc0c2cVZfZkcweEVxTE1VSjVuWEFwOG4zcmtsWGVncQ?oc=5",
-      "summary": "Haitians slam Digicel after third internet outage in about 3 weeks The Haitian Times",
-      "published_at": "2026-10-12T20:44:53Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "814e3afd06e7fe3b4ebb09a4",
       "title": "KT、超高速・超低遅延の「AI専用回線」を発表…AIデータセンターインフラの革新 - 아주경제",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwS0cwSWJUOGFxa0x0NEp2SG5HckloaE1UN1dpdVYxcGJ6WW1kSGF6U1NxZ2ZNajFwY3ZRejNGejJLVzZRX1FLVC1PY0dXNTJ5Z3ZpdFhOOFlEdFE?oc=5",
@@ -108,11 +108,11 @@
       "score": 7
     },
     {
-      "id": "9d7f54794c1980f8acd1f385",
-      "title": "FWA experiencing internet outage, recommend passengers arrive early - WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcm91cVQ1a2lvZlRVaWY2SXFDNGxkM1dvU190UnJiSVdJaEdIcHFZYUdyaXdnM1RCQUxGR0N6RGpWLXROeXljRW5uaVAzRk41WUNnaGpQLTNmdmlBSUFjdmhtMk8yRXBkeWdGTHZ0Q1Qxa2lnSEtGeFVkUFpzcjZzTUhsUFFOQmFBbk52dEt5eTB5UWJEbWQwZE5rY0dUUlk3MHFScXRydEd6Ry1wSmcwZWF3?oc=5",
-      "summary": "FWA experiencing internet outage, recommend passengers arrive early WPTA | 21Alive | Fort Wayne, IN",
-      "published_at": "2026-10-10T18:34:00Z",
+      "id": "977bb408db78f178b3c7b192",
+      "title": "Haitians slam Digicel after third internet outage in about 3 weeks - The Haitian Times",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX1dkdDFmZVlJbE0yUjBadGIwOER3cUlhcGpZektTNWowRHlkQm54eW03alFHcWF2RFhTWTNwYXJJb0xHUjJsRnE0YkozQmRHV1F6LU1xTlFBOUFmSFBFNEVDVWpKRVktemZ6SWNmaGszb1JnWWdxa19VVHpDTkswdDVMNFVzc0c2cVZfZkcweEVxTE1VSjVuWEFwOG4zcmtsWGVncQ?oc=5",
+      "summary": "Haitians slam Digicel after third internet outage in about 3 weeks The Haitian Times",
+      "published_at": "2026-10-12T20:44:53Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
