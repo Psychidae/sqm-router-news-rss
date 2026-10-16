@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:33:16 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage affects campus - The Farmville Herald</title>
@@ -18,6 +18,20 @@ Internet outage affects campus The Farmville Herald</description>
       <pubDate>Fri, 16 Oct 2026 21:03:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-16T21:03:28.165332Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-16T20:51:19Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Lassen County Sheriff Warns of Lengthy Phone and Internet Outage Affecting 911 Services - SierraDailyNews.com</title>
+      <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxOME1RZlM1UElVRlZlaGp3bUNFb0tjOTR6NXA2RUJ5YkxQdGxRMG1MNkJQT3ZCUXN0aklHV3dzcEU3SEhOX0IyenhjQmZhWTVuU3dJemNSTjk1TkRHakV0LU4xektGNndSNVF3RjJTOWZXSzBaODMxNkdmUGlKUlZVWFo4WWczenJlOF9jMkRBWnVFMzBCQ0Iwc0VFUnd0ZVgyb3gtZ19wUmdBT1ROTm12TXU3djcxZDZkTUNPQzA3YVNMWEoy?oc=5</link>
+      <guid isPermaLink="false">5322aa9e0c7c428f80565dc3</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-17 01:58
+Lassen County Sheriff Warns of Lengthy Phone and Internet Outage Affecting 911 Services SierraDailyNews.com</description>
+      <pubDate>Fri, 16 Oct 2026 23:33:16 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-16T23:33:16.013217Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-16T16:58:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -130,20 +144,6 @@ Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com</desc
       <pubDate>Thu, 15 Oct 2026 15:43:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-15T15:43:12.261064Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-15T11:42:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5</link>
-      <guid isPermaLink="false">1902b5892392ebd7e5fcf2f3</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-15 13:02
-Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center Daily Kos</description>
-      <pubDate>Thu, 15 Oct 2026 22:39:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-15T22:39:44.882216Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-15T04:02:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
