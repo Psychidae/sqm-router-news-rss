@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-16T00:45:15.518087Z",
+  "generated_at": "2026-10-16T05:02:06.908823Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -13,7 +13,18 @@
       "title": "Suspected copper thieves cause major internet outage in Bay of Islands - RNZ",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktnNWZGZUdRM0lfSk9SZGhpTDBsNkNKbVVEa3dQUmp3WmsxWm5BWlVmcjBQOG43UTNWZHJYVm41bGJGTVBtQXBkcVFhM1RXSUY4dmpibmQyemcybXlkbHVFOUU1THMweExpSlJUWjhUdUduWTZfRzlTOUo0VjhsSlJIRTJodWtFQzBJVjlSc250YkgtTFRHdjB4MURSUTNnb1NHUk5qaHlTU3FnSVF4dGJ2dlhxMFBlbUphYWhPODI?oc=5",
       "summary": "Suspected copper thieves cause major internet outage in Bay of Islands RNZ",
-      "published_at": "2026-10-15T22:59:11Z",
+      "published_at": "2026-10-16T03:01:05Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "da56866df92f6f05d09c7f51",
+      "title": "Apple Home Collection During an Internet Outage: Confirmed Features and Limits - AppleMagazine - AppleMagazine",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpc2x2N0xESUhSMGxFTDlNb2FLR3VsWHJaODA5OUh2Q21hMm1WTU9rUlJVMVBGWHA0Nm5uVG1qUEhScTRmdTd3VGw5a01rNFZGYlgtSEgyMWhXb0RtcnBodDUwdGhjNlQtVzhWdVlrV0laZ9IBd0FVX3lxTFBDWDQ1WlVBQlpIejBYd196dFktc2tiYnJnUXh5eXpqMXo4QmlGRG1lZXp0SGxwQzhnZGltOUxWMVBEdHlDWVZmYlAySHhielgyVjJCRWxMSXlwR3FKZmxaTXR3ZVJRSk5sVm9XS0FiMXRDRk4tanpN?oc=5",
+      "summary": "Apple Home Collection During an Internet Outage: Confirmed Features and Limits - AppleMagazine AppleMagazine",
+      "published_at": "2026-10-15T19:06:03Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -42,15 +53,15 @@
       "score": 9
     },
     {
-      "id": "1902b5892392ebd7e5fcf2f3",
-      "title": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5",
-      "summary": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center Daily Kos",
-      "published_at": "2026-10-15T04:02:23Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "ecefd2472b45d9fea2ddae10",
+      "title": "WindowsのIPv6環境でネットワークエラーが発生中、原因はIntelの最適化ツール？【やじうまWatch】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhdldKcEdIeWo4UGt1TTVnQjE3aC15UVJCbThIdjdhLUtKUHVfSENKRHJYWklESENoaHZrQlVRQXgyUFRmZmUxY0VYSzNKd1JONWxzQVM5TGJrNVN4QzRZajhENlRRckVDVkQwSnFHMA?oc=5",
+      "summary": "WindowsのIPv6環境でネットワークエラーが発生中、原因はIntelの最適化ツール？【やじうまWatch】 INTERNET Watch",
+      "published_at": "2026-10-16T03:03:30Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "6fe8c3bec3a638c1de50765b",
@@ -75,6 +86,17 @@
       "score": 8
     },
     {
+      "id": "1902b5892392ebd7e5fcf2f3",
+      "title": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5",
+      "summary": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center Daily Kos",
+      "published_at": "2026-10-15T04:02:23Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
       "id": "d19fda64a69c4380026f0491",
       "title": "Major internet outage hits Russia after drone attack on Sberbank data center, media report - Ukrinform",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONy1nMkNwS0VaaHNpZzBMeG1GZ3kzaWFSRzJBOXBXblZKbU9LZjR2WlF0YkdwWWpZRndOQmN2bnZpWlZFZVVTQ0FVVUVDTDFpUWhmV0ZldXFodVdEdjF1Rk41SzFQLW9TcUNBbW40WUszR2lJdFhpQmx4WklXdF9tQ2dPSWoyX1lGdEp5NlVqQzU2UjRPLThoeUlaMmhkeDR0c01RUlJLYjBOUTQ1b1FPcjNhUjFlMXNNa0VIVWt5MGZISEt6a0g5MllkblNmalpCTjlZTWxFZjhCVjDSAdsBQVVfeXFMTjctZzJDcEtFWmhzaWcwTHhtRmd5M2lhUkcyQTlwV25WSm1PS2Y0dlpRdGJHcFlqWUZ3TkJjdm52aVpWRWVVU0NBVVVFQ0wxaVFoZldGZXVxaHVXRHYxdUZONUsxUC1vU3FDQW1uNFlLM0dpSXRYaUJseFpJV3RfbUNnT0lqMl9ZRnRKeTZVakM1NlI0Ty04aHlJWjJoZHg0dHNNUVJSS2IwTlE0NW9RT3IzYVIxZTFzTWtFSFVreTBmSEhLemtIOTJZZG5TZmpaQk45WU1sRWY4QlYw?oc=5",
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "b31e0f7f82e9d4bf594ac098",
-      "title": "Two Oakland County school districts reopen after internet outage - The Oakland Press",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmNOSTVLYWdudFpWZV9LbTFFXzFqa2h2Z1VkamRibGVhTmY4WHcydWpSNk80bUJhMThKOHZhZ0h6LU9lbU10T2Rta3RhQVNZZGRNRl82QmE2cEJrUE9jR213c1VtR0J6MFBMMzhwWHhZbmVXY1pCN2MwTlRoZXZjd1VZRmUxYXp4ZE1xVjdMc1U2Z3gtWEpGMEFGSkdjdlBMdkRQTnRZUl9mcU9LbEE?oc=5",
-      "summary": "Two Oakland County school districts reopen after internet outage The Oakland Press",
-      "published_at": "2026-10-13T11:33:33Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "814e3afd06e7fe3b4ebb09a4",
-      "title": "KT、超高速・超低遅延の「AI専用回線」を発表…AIデータセンターインフラの革新 - 아주경제",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwS0cwSWJUOGFxa0x0NEp2SG5HckloaE1UN1dpdVYxcGJ6WW1kSGF6U1NxZ2ZNajFwY3ZRejNGejJLVzZRX1FLVC1PY0dXNTJ5Z3ZpdFhOOFlEdFE?oc=5",
-      "summary": "KT、超高速・超低遅延の「AI専用回線」を発表…AIデータセンターインフラの革新 아주경제",
-      "published_at": "2026-10-14T00:08:10Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
     }
   ]
 }
