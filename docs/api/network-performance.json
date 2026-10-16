@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-16T09:44:55.512230Z",
+  "generated_at": "2026-10-16T14:16:22.798937Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -64,17 +64,6 @@
       "score": 9
     },
     {
-      "id": "96b62d4e1718e890c7bdd011",
-      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike - TODAY.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGFVXy1STFVXSlRBbUQ5MGRiYlRTVkxMMUtEdkxVMVBueERHbXctY1VjV1ZMUm0wZUtDeFdBWnVYUWV6b0lra3NGWU1TX1U5S2N1bnFOMVFwODhVRlN3Y1hRbXpDRnVzNS1CNzhpeEFoVEV0c0F2WXQzUTVNVVNjOUNVbE5RSDNkRHgzZWg0WWU1bnpOSTJJTFI0bmZ4dw?oc=5",
-      "summary": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com",
-      "published_at": "2026-10-15T11:42:04Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
       "id": "ecefd2472b45d9fea2ddae10",
       "title": "WindowsのIPv6環境でネットワークエラーが発生中、原因はIntelの最適化ツール？【やじうまWatch】 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhdldKcEdIeWo4UGt1TTVnQjE3aC15UVJCbThIdjdhLUtKUHVfSENKRHJYWklESENoaHZrQlVRQXgyUFRmZmUxY0VYSzNKd1JONWxzQVM5TGJrNVN4QzRZajhENlRRckVDVkQwSnFHMA?oc=5",
@@ -86,13 +75,13 @@
       "score": 8
     },
     {
-      "id": "6fe8c3bec3a638c1de50765b",
-      "title": "Colt、東京―大阪間に第3の通信ルートを新設 - 遅延約30%削減、容量25Tbps - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tUEM5dXFrTUpWLUxoY3ExNm5Fdzg4YnF1WjU2czdIX2Z6LXY0ZjdMYTQ3Z2xGcldLNnNKVGVyX2U2RHB3UHRYWElpMXhVa0lnRVk4a0tuS0lxQ0Q5ZlFZdFJ5UE12T19GOFNjM1VnRUQxaVktVXNNTU1aRQ?oc=5",
-      "summary": "Colt、東京―大阪間に第3の通信ルートを新設 - 遅延約30%削減、容量25Tbps ニコニコニュース",
-      "published_at": "2026-10-15T10:27:25Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "96b62d4e1718e890c7bdd011",
+      "title": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike - TODAY.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGFVXy1STFVXSlRBbUQ5MGRiYlRTVkxMMUtEdkxVMVBueERHbXctY1VjV1ZMUm0wZUtDeFdBWnVYUWV6b0lra3NGWU1TX1U5S2N1bnFOMVFwODhVRlN3Y1hRbXpDRnVzNS1CNzhpeEFoVEV0c0F2WXQzUTVNVVNjOUNVbE5RSDNkRHgzZWg0WWU1bnpOSTJJTFI0bmZ4dw?oc=5",
+      "summary": "Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com",
+      "published_at": "2026-10-15T11:42:04Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONy1nMkNwS0VaaHNpZzBMeG1GZ3kzaWFSRzJBOXBXblZKbU9LZjR2WlF0YkdwWWpZRndOQmN2bnZpWlZFZVVTQ0FVVUVDTDFpUWhmV0ZldXFodVdEdjF1Rk41SzFQLW9TcUNBbW40WUszR2lJdFhpQmx4WklXdF9tQ2dPSWoyX1lGdEp5NlVqQzU2UjRPLThoeUlaMmhkeDR0c01RUlJLYjBOUTQ1b1FPcjNhUjFlMXNNa0VIVWt5MGZISEt6a0g5MllkblNmalpCTjlZTWxFZjhCVjDSAdsBQVVfeXFMTjctZzJDcEtFWmhzaWcwTHhtRmd5M2lhUkcyQTlwV25WSm1PS2Y0dlpRdGJHcFlqWUZ3TkJjdm52aVpWRWVVU0NBVVVFQ0wxaVFoZldGZXVxaHVXRHYxdUZONUsxUC1vU3FDQW1uNFlLM0dpSXRYaUJseFpJV3RfbUNnT0lqMl9ZRnRKeTZVakM1NlI0Ty04aHlJWjJoZHg0dHNNUVJSS2IwTlE0NW9RT3IzYVIxZTFzTWtFSFVreTBmSEhLemtIOTJZZG5TZmpaQk45WU1sRWY4QlYw?oc=5",
       "summary": "Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform",
       "published_at": "2026-10-14T17:37:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "64246da1db1605303de5de42",
+      "title": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5",
+      "summary": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS",
+      "published_at": "2026-10-14T16:23:49Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
