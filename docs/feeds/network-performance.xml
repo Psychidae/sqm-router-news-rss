@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:44:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Suspected copper thieves cause internet outage - RNZ</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXFmem01Ny1LQXZ4b2EzX3ZBWlFndjhRcUZpNWhlM0RBLUpES2xmUE9NcFg5a1V3RWxLNnJvcTZZN2JKSnVOVGYwcFA0QXA4R3RtY2JRSk85LWkzSy1mcUtjRGtLdGRsWTVRQnE4QnRBRE5WMmJ5N2xrcXpCb2FpT2tIY05qYmRSYlB5dVlVeHBFQXkxQ3F2ZkZhOW5taGNKbFRYRnJXM2Q0VHJLenZGYkstbHgwS28?oc=5</link>
+      <guid isPermaLink="false">c7788f66569d341079eff258</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-16 13:55
+Suspected copper thieves cause internet outage RNZ</description>
+      <pubDate>Fri, 16 Oct 2026 09:44:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-16T09:44:55.511250Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-16T04:55:48Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Suspected copper thieves cause major internet outage in Bay of Islands - RNZ</title>
       <link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktnNWZGZUdRM0lfSk9SZGhpTDBsNkNKbVVEa3dQUmp3WmsxWm5BWlVmcjBQOG43UTNWZHJYVm41bGJGTVBtQXBkcVFhM1RXSUY4dmpibmQyemcybXlkbHVFOUU1THMweExpSlJUWjhUdUduWTZfRzlTOUo0VjhsSlJIRTJodWtFQzBJVjlSc250YkgtTFRHdjB4MURSUTNnb1NHUk5qaHlTU3FnSVF4dGJ2dlhxMFBlbUphYWhPODI?oc=5</link>
@@ -18,6 +32,20 @@ Suspected copper thieves cause major internet outage in Bay of Islands RNZ</desc
       <pubDate>Fri, 16 Oct 2026 00:45:15 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-16T00:45:15.517397Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-16T03:01:05Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Suspected copper thieves cause major internet outage in Bay of Islands - NZ Herald</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0NIYi13LWFHMDBYeGpNV29FQlVERU1VNVNuR3M5SE1SVkJFcmlUTTEyU3h2MkdHLVZOWkpKLTFLSXhNdnNMZEdXb0tBUnJOeDRiQzk2MTVrZ3ZqWGlvT3pWbTNGWlNxOXR0LWhZRzZ1RkszZ0ItcnFKNEFZRFZfdVg5dWtBNDdNWmx6c3RIRDI2aWpxUjRvSWpfeXpReVlWZG1QcC1hS082aFg5SDlybFJKcEJ1OElQSHNyUWpIVFBFYmw1STlvSGtqdklLY0luZG9qOW9tWDQ5VnFRZElzd1p3?oc=5</link>
+      <guid isPermaLink="false">c08a5a011b4a06e74e34bea4</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-16 11:25
+Suspected copper thieves cause major internet outage in Bay of Islands NZ Herald</description>
+      <pubDate>Fri, 16 Oct 2026 09:44:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-16T09:44:55.511250Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-16T02:25:53Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,20 +120,6 @@ Colt、東京―大阪間に第3の通信ルートを新設 - 遅延約30%削減
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Coltテクノロジーサービス、東阪間の遅延を約30％低減する「東阪プラチナコネクト」を開設 - ZDNET Japan</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oRThxUEF6MkhqWUJOSmtqeG9McGpUN0VxQWJXRTdrZkNWb0pHYU9oNGxKVURZRlJBNUktd3dNZFd4dmh6NWhNb0Z2cUdDemtrUFpJ?oc=5</link>
-      <guid isPermaLink="false">8820be16e015185ec9598214</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-15 17:39
-Coltテクノロジーサービス、東阪間の遅延を約30％低減する「東阪プラチナコネクト」を開設 ZDNET Japan</description>
-      <pubDate>Thu, 15 Oct 2026 11:22:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-15T11:22:35.120536Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-15T08:39:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5</link>
       <guid isPermaLink="false">1902b5892392ebd7e5fcf2f3</guid>
@@ -130,20 +144,6 @@ Major internet outage hits Russia after drone attack on Sberbank data center, me
       <pubDate>Thu, 15 Oct 2026 22:39:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-15T22:39:44.882216Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-14T17:37:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5</link>
-      <guid isPermaLink="false">64246da1db1605303de5de42</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-15 01:23
-A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS</description>
-      <pubDate>Wed, 14 Oct 2026 19:40:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-14T19:40:52.915978Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-14T16:23:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

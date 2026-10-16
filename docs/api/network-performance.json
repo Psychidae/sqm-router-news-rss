@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-16T05:02:06.908823Z",
+  "generated_at": "2026-10-16T09:44:55.512230Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,11 +9,33 @@
   "errors": [],
   "items": [
     {
+      "id": "c7788f66569d341079eff258",
+      "title": "Suspected copper thieves cause internet outage - RNZ",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXFmem01Ny1LQXZ4b2EzX3ZBWlFndjhRcUZpNWhlM0RBLUpES2xmUE9NcFg5a1V3RWxLNnJvcTZZN2JKSnVOVGYwcFA0QXA4R3RtY2JRSk85LWkzSy1mcUtjRGtLdGRsWTVRQnE4QnRBRE5WMmJ5N2xrcXpCb2FpT2tIY05qYmRSYlB5dVlVeHBFQXkxQ3F2ZkZhOW5taGNKbFRYRnJXM2Q0VHJLenZGYkstbHgwS28?oc=5",
+      "summary": "Suspected copper thieves cause internet outage RNZ",
+      "published_at": "2026-10-16T04:55:48Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "0d3cc7b92e55e73bcb90f169",
       "title": "Suspected copper thieves cause major internet outage in Bay of Islands - RNZ",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktnNWZGZUdRM0lfSk9SZGhpTDBsNkNKbVVEa3dQUmp3WmsxWm5BWlVmcjBQOG43UTNWZHJYVm41bGJGTVBtQXBkcVFhM1RXSUY4dmpibmQyemcybXlkbHVFOUU1THMweExpSlJUWjhUdUduWTZfRzlTOUo0VjhsSlJIRTJodWtFQzBJVjlSc250YkgtTFRHdjB4MURSUTNnb1NHUk5qaHlTU3FnSVF4dGJ2dlhxMFBlbUphYWhPODI?oc=5",
       "summary": "Suspected copper thieves cause major internet outage in Bay of Islands RNZ",
       "published_at": "2026-10-16T03:01:05Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "c08a5a011b4a06e74e34bea4",
+      "title": "Suspected copper thieves cause major internet outage in Bay of Islands - NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0NIYi13LWFHMDBYeGpNV29FQlVERU1VNVNuR3M5SE1SVkJFcmlUTTEyU3h2MkdHLVZOWkpKLTFLSXhNdnNMZEdXb0tBUnJOeDRiQzk2MTVrZ3ZqWGlvT3pWbTNGWlNxOXR0LWhZRzZ1RkszZ0ItcnFKNEFZRFZfdVg5dWtBNDdNWmx6c3RIRDI2aWpxUjRvSWpfeXpReVlWZG1QcC1hS082aFg5SDlybFJKcEJ1OElQSHNyUWpIVFBFYmw1STlvSGtqdklLY0luZG9qOW9tWDQ5VnFRZElzd1p3?oc=5",
+      "summary": "Suspected copper thieves cause major internet outage in Bay of Islands NZ Herald",
+      "published_at": "2026-10-16T02:25:53Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -75,17 +97,6 @@
       "score": 8
     },
     {
-      "id": "8820be16e015185ec9598214",
-      "title": "Coltテクノロジーサービス、東阪間の遅延を約30％低減する「東阪プラチナコネクト」を開設 - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oRThxUEF6MkhqWUJOSmtqeG9McGpUN0VxQWJXRTdrZkNWb0pHYU9oNGxKVURZRlJBNUktd3dNZFd4dmh6NWhNb0Z2cUdDemtrUFpJ?oc=5",
-      "summary": "Coltテクノロジーサービス、東阪間の遅延を約30％低減する「東阪プラチナコネクト」を開設 ZDNET Japan",
-      "published_at": "2026-10-15T08:39:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "1902b5892392ebd7e5fcf2f3",
       "title": "Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONy1nMkNwS0VaaHNpZzBMeG1GZ3kzaWFSRzJBOXBXblZKbU9LZjR2WlF0YkdwWWpZRndOQmN2bnZpWlZFZVVTQ0FVVUVDTDFpUWhmV0ZldXFodVdEdjF1Rk41SzFQLW9TcUNBbW40WUszR2lJdFhpQmx4WklXdF9tQ2dPSWoyX1lGdEp5NlVqQzU2UjRPLThoeUlaMmhkeDR0c01RUlJLYjBOUTQ1b1FPcjNhUjFlMXNNa0VIVWt5MGZISEt6a0g5MllkblNmalpCTjlZTWxFZjhCVjDSAdsBQVVfeXFMTjctZzJDcEtFWmhzaWcwTHhtRmd5M2lhUkcyQTlwV25WSm1PS2Y0dlpRdGJHcFlqWUZ3TkJjdm52aVpWRWVVU0NBVVVFQ0wxaVFoZldGZXVxaHVXRHYxdUZONUsxUC1vU3FDQW1uNFlLM0dpSXRYaUJseFpJV3RfbUNnT0lqMl9ZRnRKeTZVakM1NlI0Ty04aHlJWjJoZHg0dHNNUVJSS2IwTlE0NW9RT3IzYVIxZTFzTWtFSFVreTBmSEhLemtIOTJZZG5TZmpaQk45WU1sRWY4QlYw?oc=5",
       "summary": "Major internet outage hits Russia after drone attack on Sberbank data center, media report Ukrinform",
       "published_at": "2026-10-14T17:37:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "64246da1db1605303de5de42",
-      "title": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcno0X0RkUThmX1VBY2Q2QUF0UWlNWjZCeWtTU1dxRllCMkpRc0hZTjYtTmZSQjFFZmRPLUFBOEpqcjZRc215TXBYdzZ3U3JXUGJvdGRHSlhpeGprcDJVZEZTSlY0TTA4OXplMTVLelNzYkhtWllIOFRCV1M0MDN4QkRKN2VsbTZDNkRSZE1EU0MxNmNuVURTUXctS01Ya3llZGNPZVpGNFRuWFRYaXFhMjZIS3NLSVU?oc=5",
-      "summary": "A large-scale internet outage occurred in Russia following a drone attack on Sberbank's data center UA.NEWS",
-      "published_at": "2026-10-14T16:23:49Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

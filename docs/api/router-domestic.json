@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-16T05:02:02.994634Z",
+  "generated_at": "2026-10-16T09:44:51.879493Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -46,7 +46,7 @@
       "title": "【本日みつけたお買い得品】最大9,700Mbps/10GbE対応のASUS製Wi-Fi 7ルーターが6,990円引き - PC Watch",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nQmtyOC1nMUh5MFhuS2JkOXVGNVJ2SUlOWWc2cE9OZkdMNkktSklBS1FjMTdxTDNuZFpmUkpiWTVfNFVzNkNwSHBEeWRoVEkwei1udm1STHhRYkRsdS1FUkJfVWlDeHotU21RemV6YUU4LVk1?oc=5",
       "summary": "【本日みつけたお買い得品】最大9,700Mbps/10GbE対応のASUS製Wi-Fi 7ルーターが6,990円引き PC Watch",
-      "published_at": "2026-10-08T11:35:44Z",
+      "published_at": "2026-10-08T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -75,22 +75,22 @@
       "score": 15
     },
     {
-      "id": "d722b83bf3fffc7476ff4132",
-      "title": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 - 4Gamer.net",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5sTUJsUGEzcUNoS2MzZ3NRdXZpLWdzN1Zlck50SW04RXNTYzMxcW5rZmRGckhxdk5mR2RjZDF2Y0hJckpxcmNYaDdxMUFQaXB2ZS1janFISVh6S005NFNNYzZKRQ?oc=5",
-      "summary": "ASUS ROG 20周年記念モデルのグラフィックスカードやマザーボード，無線LANルーターなど6製品が国内発売 4Gamer.net",
-      "published_at": "2026-10-02T07:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
       "id": "985c6e5cc55a2e1b50d2f338",
       "title": "ZTE、「Sora」シリーズのWi-Fi 7/6ルーターのメッシュセットを発売 - ｄメニューニュース",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXIwbzhDYW1GbE5rZWNhSURRbjU0elduTHhjUkRXS3hhTVBFdTlpSjRha2dhdWFQWVhsN0lGVHlwbnRzVTg1Mjl2cEE4VjZOcm1MM3IxYUNEVEd3TjlvRXhUYzM0akFLMHlhZ1FRa2NyS3RRa3ZaU0dRT3lkeTFPOS1xWTZEdU54LXlR0gGQAUFVX3lxTE14S3hWMjBvSVFuVzR3OGJJSnRvYjg4SXpqNVoxaGFpSzJkYm42RHhtbGQ3WE9lb2dhNjFPc1JhYk55bm80ZHl1a3R3WjJCN2dHY19abGNsaUdjYnRVbWRwNEl4a21CRS1QY0ZMQUxmQnJnbFItRkx4bHJVajR2bEt3cGRVajJ1NGg5LVFZZHRPQQ?oc=5",
       "summary": "ZTE、「Sora」シリーズのWi-Fi 7/6ルーターのメッシュセットを発売 ｄメニューニュース",
       "published_at": "2026-10-15T23:51:35Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "f4605a328bd6635f0321e81c",
+      "title": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fVzBRaWpPU1VyVzdQWGszLXUtNTRSYk16SDZnT3lsbEZDQThRYlBncWhSQnUwV0M4S0piU0JkU3NqUHUtSlJoUWRlOFlKMXNwMlhhbzVrUWhBanpwd1hCTEVabDl6aHhC?oc=5",
+      "summary": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） 毎日新聞",
+      "published_at": "2026-10-15T11:52:52Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

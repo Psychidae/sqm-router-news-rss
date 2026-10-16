@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:44:53 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -61,6 +61,20 @@ Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!</description>
       <sqm:firstSeenDate>2026-10-10T15:20:26.255282Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-06T04:20:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver - CNX Software</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFzQW5kUm9SbU9TSjd3N3Exc2tSQUJSQlNxMkRmakdnNjVNR1ppZ1QtT1BHV1IzMzlXU29JZVlRZTlqQU1Bd295U2JGaFlJcDVCWDJlQ196MzJGSC05ZmxzeGlzdE9GelRzVWo0d1pXRHVPX3JGalFJYlZNbFNreHlPdlVqbW9rN2s1Y1gwMV9yOW1xSUlaWC1HaF9zZ0tVakpjYURaOHVxZnBuMjQ3RDBOYW94UV9mY0w1M09kY9IBxwFBVV95cUxQTkhvenhibzhDV2Zud24tSmJEcXlvbmdCUUkzc3JOaDdOaWZ5OGxrZ2U0ZXcxbmlVZnI0OGptQ1FRdVRHUHFudXc2SXR1Wlg5Z1VSODNkWVpYMndwcVlRUkllWmozWnZRLUZFQXpxM1d6U0xwSy1ab09WblNRaUEyOUp0MUFqc0lNa0Jqb3ZIOGxOaWU5dFEzSjhvbW5lSXh0QTg3Tk1qSWdCVklWbkFoY01feFpYZWNvcUx0TVJMSjlJN21XZS00?oc=5</link>
+      <guid isPermaLink="false">4c49f7f441a18a77173df19c</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-16 02:01
+W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver CNX Software</description>
+      <pubDate>Fri, 16 Oct 2026 09:44:53 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-16T09:44:53.162189Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-15T17:01:01Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Res
       <pubDate>Thu, 15 Oct 2026 19:22:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-15T19:22:28.056239Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-09T20:00:18Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHlfaHdIdW5RdXRXQkhKaGJoNDNLNXgwYnN2NkVqNFllNVI5THV6SGFTdjViUWF6SUhDc0FkTEFNLTFqUzd3dU81bU50UlQxR05RTlF6UmZUTWtScUMxSFNzTTBLejBNeVNuZ1hSRFh1bUxHVEVCUmVaYWtrcXpHRmREM2NldWRTTlpzQmptZXc3NUhkRjBQSzh1amRGSmlQUkxZV2hnM3JQU21PRXNWVXppSXNhaHc?oc=5</link>
-      <guid isPermaLink="false">5a5b1d2f59a4136195f17bb5</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-08 02:10
-Your ISP’s Router Has Its Limits, TP-Link’s Wi-Fi 7 BE550 Wipes Out Dead Zones for Prime Gizmodo</description>
-      <pubDate>Fri, 16 Oct 2026 00:45:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-16T00:45:12.943661Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-07T17:10:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
