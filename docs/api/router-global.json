@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-17T17:07:10.482546Z",
+  "generated_at": "2026-10-17T19:21:20.637268Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,11 +20,11 @@
       "score": 21
     },
     {
-      "id": "30087559fad568f7d1aeb14e",
-      "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag UK",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmRhcTBPN2hQSkJtODdRVGNDcjdERGlleVdVcjVlQ013cWtITTZ2V1hnQ0I2V0ZfS0ZkcXgzYjdDS2ZXT3BYT0FrYnNtRmdodGFfaWV5azU5cndGQVhuOVIxelUzTDVkSUV3NnBPcUozSVlPOGNxZWlna2plRDBDbHFWRlhTVGVhWTFuODgxMjdmNXc3MnVvLW5JMWpaZVBZWHFCLW1FcmtFRjdFZVI5QnBhNDhZdkFoQ0poVTZQLUg4WVpI?oc=5",
-      "summary": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag UK",
-      "published_at": "2026-10-17T16:00:00Z",
+      "id": "5c2636196a2feba708a780c9",
+      "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5",
+      "summary": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag",
+      "published_at": "2026-10-17T16:00:32Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -64,9 +64,9 @@
       "score": 15
     },
     {
-      "id": "4c49f7f441a18a77173df19c",
+      "id": "1f271cb0904d9f82246d8082",
       "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver - CNX Software",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFzQW5kUm9SbU9TSjd3N3Exc2tSQUJSQlNxMkRmakdnNjVNR1ppZ1QtT1BHV1IzMzlXU29JZVlRZTlqQU1Bd295U2JGaFlJcDVCWDJlQ196MzJGSC05ZmxzeGlzdE9GelRzVWo0d1pXRHVPX3JGalFJYlZNbFNreHlPdlVqbW9rN2s1Y1gwMV9yOW1xSUlaWC1HaF9zZ0tVakpjYURaOHVxZnBuMjQ3RDBOYW94UV9mY0w1M09kY9IBxwFBVV95cUxQTkhvenhibzhDV2Zud24tSmJEcXlvbmdCUUkzc3JOaDdOaWZ5OGxrZ2U0ZXcxbmlVZnI0OGptQ1FRdVRHUHFudXc2SXR1Wlg5Z1VSODNkWVpYMndwcVlRUkllWmozWnZRLUZFQXpxM1d6U0xwSy1ab09WblNRaUEyOUp0MUFqc0lNa0Jqb3ZIOGxOaWU5dFEzSjhvbW5lSXh0QTg3Tk1qSWdCVklWbkFoY01feFpYZWNvcUx0TVJMSjlJN21XZS00?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFzQW5kUm9SbU9TSjd3N3Exc2tSQUJSQlNxMkRmakdnNjVNR1ppZ1QtT1BHV1IzMzlXU29JZVlRZTlqQU1Bd295U2JGaFlJcDVCWDJlQ196MzJGSC05ZmxzeGlzdE9GelRzVWo0d1pXRHVPX3JGalFJYlZNbFNreHlPdlVqbW9rN2s1Y1gwMV9yOW1xSUlaWC1HaF9zZ0tVakpjYURaOHVxZnBuMjQ3RDBOYW94UV9mY0w1M09kYw?oc=5",
       "summary": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver CNX Software",
       "published_at": "2026-10-15T17:01:01Z",
       "source": "Google News Global: home networking",
@@ -83,7 +83,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "d9fcbe4a674b2f19bed2b3eb",
