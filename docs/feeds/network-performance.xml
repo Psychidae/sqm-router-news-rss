@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 01:30:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:34:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage affects campus - The Farmville Herald</title>
@@ -120,20 +120,6 @@ Ukraine Blames Elon Musk for Internet Outage Amid Russian Strike TODAY.com</desc
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center - Daily Kos</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE95cUxFUkZ4bXh0cU1vN1BWTEdmbzZfTGhhYVUycFhSeUdIYm1BVGF6UHpxbmlURElsaTdhZGhqWW41N3pRMWczanB4YjZfeXZWWGlCZnJ1VFVqTGs1MXlFa0NrYUdqQW5ocEx1SklzdllQVDFD?oc=5</link>
-      <guid isPermaLink="false">1902b5892392ebd7e5fcf2f3</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-15 13:02
-Ukraine Invasion Day 1,694: Major RU internet outage after UKR strikes Sberbank data center Daily Kos</description>
-      <pubDate>Sat, 17 Oct 2026 23:25:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-17T23:25:53.612771Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-15T04:02:23Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] NTTドコモ 来月から通信障害時にKDDI回線使えるように…月額429円～ 副回線サービスとして｜TBS NEWS DIG Cambodia (cHeyvdr0nM) - Unisba Media</title>
       <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOVi1leHRBZmF3Tm8zeTJhdHUtczR5S0RPdklkMm1ySmtmQWNldTZsWVFyQWVxNlNhbVFVQlFaVG9WaDFDTUE4RVJVWFZKWFRoZDRUS1pYcjY1a0MxZUFwQ0RrQUZQTk5UM1RmMkY5RkxiUGNDN0JiMlZtd05udUdOUjBn?oc=5</link>
       <guid isPermaLink="false">04407455754d982fea5b270d</guid>
@@ -144,6 +130,20 @@ NTTドコモ 来月から通信障害時にKDDI回線使えるように…月額
       <pubDate>Sat, 17 Oct 2026 19:21:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-17T19:21:22.837186Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-16T11:00:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] WindowsのIPv6環境でネットワークエラーが発生中、原因はIntelの最適化ツール？【やじうまWatch】 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBhdldKcEdIeWo4UGt1TTVnQjE3aC15UVJCbThIdjdhLUtKUHVfSENKRHJYWklESENoaHZrQlVRQXgyUFRmZmUxY0VYSzNKd1JONWxzQVM5TGJrNVN4QzRZajhENlRRckVDVkQwSnFHMA?oc=5</link>
+      <guid isPermaLink="false">ecefd2472b45d9fea2ddae10</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-16 12:03
+WindowsのIPv6環境でネットワークエラーが発生中、原因はIntelの最適化ツール？【やじうまWatch】 INTERNET Watch</description>
+      <pubDate>Sun, 18 Oct 2026 06:34:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-18T06:34:26.578466Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-16T03:03:30Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
