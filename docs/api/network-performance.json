@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-18T14:48:24.884431Z",
+  "generated_at": "2026-10-18T18:03:44.076791Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -75,17 +75,6 @@
       "score": 8
     },
     {
-      "id": "3c4710c6e33935370d8d0873",
-      "title": "Internet outage caused by theft affecting some Okotoks residents - Western Wheel",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmZKTzhkOWZ2cXg0ekQyRURBVy1Bamt4MHJDaC1YSFplQ21zWkR2eDJ0YS1wYklFNkdKMFNaaERkb0toR1B4VE9EYmV4aHYtQXM2R3dwelhsSlZXVWN4c3BibWdHbEdkdWpGZmVBNkktSnJzQlpqYUc1UUlrM3k1TmJBSVpaX1QzRjh4ckZEbGRQWVNPQmpqd0xTbjd6eTNPeVV1Q3B1SW5VRlY5OEhoLUpB?oc=5",
-      "summary": "Internet outage caused by theft affecting some Okotoks residents Western Wheel",
-      "published_at": "2026-10-15T15:06:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "2f071ae914242a51bf55db58",
       "title": "NTTドコモ 来月から通信障害時にKDDI回線使えるように…月額429円～ 副回線サービスとして｜TBS NEWS DIG Bc Rcmp Snowmobiler Search (bqyyYoscMb) - Unisba Media",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXZRdjhac3hYbXJWM0RyTkY1dnNXU083ZnRDUTY3ZmhoNHptT1pzdXVEVExnb1RaUEtzd04wNEVvZGJBeTJ4SHFnMVBHc1YyNW5id21Za25RMnVuckN3Tm1ObEJDSHFZYlBwaVZQVDNQTlFXZTdhWHdsVXpaQXlNOTVB?oc=5",
@@ -104,6 +93,17 @@
       "published_at": "2026-10-16T03:03:30Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "3c4710c6e33935370d8d0873",
+      "title": "Internet outage caused by theft affecting some Okotoks residents - Western Wheel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmZKTzhkOWZ2cXg0ekQyRURBVy1Bamt4MHJDaC1YSFplQ21zWkR2eDJ0YS1wYklFNkdKMFNaaERkb0toR1B4VE9EYmV4aHYtQXM2R3dwelhsSlZXVWN4c3BibWdHbEdkdWpGZmVBNkktSnJzQlpqYUc1UUlrM3k1TmJBSVpaX1QzRjh4ckZEbGRQWVNPQmpqd0xTbjd6eTNPeVV1Q3B1SW5VRlY5OEhoLUpB?oc=5",
+      "summary": "Internet outage caused by theft affecting some Okotoks residents Western Wheel",
+      "published_at": "2026-10-15T15:06:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
