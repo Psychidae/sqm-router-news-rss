@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:14:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Large internet outage affects Bella Vista customers - KNWA FOX24</title>
@@ -22,16 +22,16 @@ Large internet outage affects Bella Vista customers KNWA FOX24</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] IPv6専用環境における高度なルーティングに関する知識と実践例の共有 - Vietnam.vn</title>
-      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEdpOFU0VThOOXRWREFaR29RZGg1RXg3X3ZRSzZ1Y2hKaEtuN0JFNlBvNFVscmVQOGJrS3QteUo0Z3lZdHBGS2JuR1JrcXJIZEJ4TlFOMk1QU3o3eE1QMkVKSkpuUE45VFpXWF9mZ3pFbmdya1pHa0R0dFhiamE1bno5Q3owZlNDMkg0MTBSTU92ZnlZMHV1WGtpdE5DSXJSeHZqRGF3?oc=5</link>
-      <guid isPermaLink="false">1f40a172849abeb5389cf916</guid>
+      <title>[性能・障害] 国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ (1/2) - ASCII.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSWZPUC1QdnFUckxpU2ptNTVCcDVRR3lteTllY2VwR091Zi02R3VLUzdTYjJjNl9NM1dXcWswS3gyYTQxQUpBVEtXeXFYcGNkV2tHaQ?oc=5</link>
+      <guid isPermaLink="false">3294bf94a60b6470dc132b6c</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-10-18 14:35
-IPv6専用環境における高度なルーティングに関する知識と実践例の共有 Vietnam.vn</description>
-      <pubDate>Mon, 19 Oct 2026 00:29:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T00:29:02.856784Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-18T05:35:10Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-19 09:00
+国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ (1/2) ASCII.jp</description>
+      <pubDate>Mon, 19 Oct 2026 11:14:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-19T11:14:55.232681Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-19T00:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -61,6 +61,20 @@ Lassen County Sheriff Warns of Lengthy Phone and Internet Outage Affecting 911 S
       <sqm:firstSeenDate>2026-10-16T23:33:16.013217Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-16T16:58:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] IPv6専用環境における高度なルーティングに関する知識と実践例の共有 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEdpOFU0VThOOXRWREFaR29RZGg1RXg3X3ZRSzZ1Y2hKaEtuN0JFNlBvNFVscmVQOGJrS3QteUo0Z3lZdHBGS2JuR1JrcXJIZEJ4TlFOMk1QU3o3eE1QMkVKSkpuUE45VFpXWF9mZ3pFbmdya1pHa0R0dFhiamE1bno5Q3owZlNDMkg0MTBSTU92ZnlZMHV1WGtpdE5DSXJSeHZqRGF3?oc=5</link>
+      <guid isPermaLink="false">1f40a172849abeb5389cf916</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-18 14:35
+IPv6専用環境における高度なルーティングに関する知識と実践例の共有 Vietnam.vn</description>
+      <pubDate>Mon, 19 Oct 2026 00:29:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-19T00:29:02.856784Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-18T05:35:10Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Apple Home Collection During an Internet Outage: Confirmed Features and Limits -
       <pubDate>Fri, 16 Oct 2026 05:02:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-16T05:02:06.908148Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-15T19:06:03Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage caused by theft affecting some Okotoks residents - Western Wheel</title>
-      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmZKTzhkOWZ2cXg0ekQyRURBVy1Bamt4MHJDaC1YSFplQ21zWkR2eDJ0YS1wYklFNkdKMFNaaERkb0toR1B4VE9EYmV4aHYtQXM2R3dwelhsSlZXVWN4c3BibWdHbEdkdWpGZmVBNkktSnJzQlpqYUc1UUlrM3k1TmJBSVpaX1QzRjh4ckZEbGRQWVNPQmpqd0xTbjd6eTNPeVV1Q3B1SW5VRlY5OEhoLUpB?oc=5</link>
-      <guid isPermaLink="false">3c4710c6e33935370d8d0873</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-16 00:06
-Internet outage caused by theft affecting some Okotoks residents Western Wheel</description>
-      <pubDate>Thu, 15 Oct 2026 19:22:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-15T19:22:30.590911Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-15T15:06:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
