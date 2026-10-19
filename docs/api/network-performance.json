@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-19T17:28:06.378232Z",
+  "generated_at": "2026-10-19T21:44:06.690136Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "5f6b803132dcfb0aa3bfd42b",
+      "title": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamxzNkN6LS1Sc3BiZHpqdzI1Sl9PVlNWNjdtdU42TlRNb09ZaktuZmtWclNtcjE5ZTA5Qlo0Y2p4clVjRHdUcl90VmEteS0tMzZSTXpwMkJBMUpkUWw5QU1faDdNS1puRENsNkg4aFJJaXU4Y1NncXNieWpzYkctdllucnU4ZXU1Q2o4M2N4YlFHWGpNdDFUejEwZkRaU1Q5UWFVbnN4RVhBVkZXYi1GQldFZUt2YVp3N0xTeTBtNkhtUQ?oc=5",
+      "summary": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN",
+      "published_at": "2026-10-19T17:50:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "7371cffe8542dd3ccb24b97a",
       "title": "Could your business pass an internet outage drill? - www.thepost.co.nz",
@@ -42,17 +53,6 @@
       "score": 8
     },
     {
-      "id": "46eee77de48efde090a45431",
-      "title": "Internet outage affects campus - The Farmville Herald",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWTVtT3k2T2NXYnhZbDc3M1AtUUkwY3Y2TXB1SURZcVRtcF90Zkt5RFV2OHZfbkxReEZ4Zng0dmh4TC1jTDhEb3VtdlRkLXk4OXo1Y215WDI2MlJpemlzMHB3Z04zUVZ1YU1GRDMtQTFsRjJEUGc?oc=5",
-      "summary": "Internet outage affects campus The Farmville Herald",
-      "published_at": "2026-10-16T20:51:19Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "1f40a172849abeb5389cf916",
       "title": "IPv6専用環境における高度なルーティングに関する知識と実践例の共有 - Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEdpOFU0VThOOXRWREFaR29RZGg1RXg3X3ZRSzZ1Y2hKaEtuN0JFNlBvNFVscmVQOGJrS3QteUo0Z3lZdHBGS2JuR1JrcXJIZEJ4TlFOMk1QU3o3eE1QMkVKSkpuUE45VFpXWF9mZ3pFbmdya1pHa0R0dFhiamE1bno5Q3owZlNDMkg0MTBSTU92ZnlZMHV1WGtpdE5DSXJSeHZqRGF3?oc=5",
@@ -71,6 +71,17 @@
       "published_at": "2026-10-17T11:36:52Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "46eee77de48efde090a45431",
+      "title": "Internet outage affects campus - The Farmville Herald",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWTVtT3k2T2NXYnhZbDc3M1AtUUkwY3Y2TXB1SURZcVRtcF90Zkt5RFV2OHZfbkxReEZ4Zng0dmh4TC1jTDhEb3VtdlRkLXk4OXo1Y215WDI2MlJpemlzMHB3Z04zUVZ1YU1GRDMtQTFsRjJEUGc?oc=5",
+      "summary": "Internet outage affects campus The Farmville Herald",
+      "published_at": "2026-10-16T20:51:19Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktnNWZGZUdRM0lfSk9SZGhpTDBsNkNKbVVEa3dQUmp3WmsxWm5BWlVmcjBQOG43UTNWZHJYVm41bGJGTVBtQXBkcVFhM1RXSUY4dmpibmQyemcybXlkbHVFOUU1THMweExpSlJUWjhUdUduWTZfRzlTOUo0VjhsSlJIRTJodWtFQzBJVjlSc250YkgtTFRHdjB4MURSUTNnb1NHUk5qaHlTU3FnSVF4dGJ2dlhxMFBlbUphYWhPODI?oc=5",
       "summary": "Suspected copper thieves cause major internet outage in Bay of Islands RNZ",
       "published_at": "2026-10-16T03:01:05Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "c08a5a011b4a06e74e34bea4",
-      "title": "Suspected copper thieves cause major internet outage in Bay of Islands - NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd0NIYi13LWFHMDBYeGpNV29FQlVERU1VNVNuR3M5SE1SVkJFcmlUTTEyU3h2MkdHLVZOWkpKLTFLSXhNdnNMZEdXb0tBUnJOeDRiQzk2MTVrZ3ZqWGlvT3pWbTNGWlNxOXR0LWhZRzZ1RkszZ0ItcnFKNEFZRFZfdVg5dWtBNDdNWmx6c3RIRDI2aWpxUjRvSWpfeXpReVlWZG1QcC1hS082aFg5SDlybFJKcEJ1OElQSHNyUWpIVFBFYmw1STlvSGtqdklLY0luZG9qOW9tWDQ5VnFRZElzd1p3?oc=5",
-      "summary": "Suspected copper thieves cause major internet outage in Bay of Islands NZ Herald",
-      "published_at": "2026-10-16T02:25:53Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
