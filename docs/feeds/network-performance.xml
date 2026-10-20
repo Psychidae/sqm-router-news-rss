@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:12:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - Belfast News Letter</title>
+      <link>https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcGJBN0NSYUIzOHliaFJ4SlcxQ0ZIVzBrRFBkYnprSVJpVVg1YnFocVlndm9YbFU0MmhwNjRGRXdSaXpWZWhBMXgtb3hhLTVKajhlZXFJUERRc0FnSTN2S0IwNnVSY0lBNFpqZ2o4UTFaeTMzdW1tR1BRdzFQU3E3c2pXMFFYYUVzOWNTWG14VUJ4S2lXZ3FFVXVVWHdJaEJPWHoyU09wTFJYVHVMdUVveXlTdEZkS3pLTU8zeUhsdVZMR25WbUdmb0hSWXlaRW1LVFV0VDV2Z1kwZw?oc=5</link>
+      <guid isPermaLink="false">5fd6592c61b5bc832dadb142</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-21 01:31
+Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England Belfast News Letter</description>
+      <pubDate>Tue, 20 Oct 2026 19:12:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-20T19:12:05.944808Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T16:31:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] What is Google Cloud? Everything we know amid major internet outage - The Independent</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5</link>
@@ -131,20 +145,6 @@ IPv6専用環境における高度なルーティングに関する知識と実�
       <sqm:firstSeenDate>2026-10-19T00:29:02.856784Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-18T05:35:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage affects campus - The Farmville Herald</title>
-      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTE5WWTVtT3k2T2NXYnhZbDc3M1AtUUkwY3Y2TXB1SURZcVRtcF90Zkt5RFV2OHZfbkxReEZ4Zng0dmh4TC1jTDhEb3VtdlRkLXk4OXo1Y215WDI2MlJpemlzMHB3Z04zUVZ1YU1GRDMtQTFsRjJEUGc?oc=5</link>
-      <guid isPermaLink="false">46eee77de48efde090a45431</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-17 05:51
-Internet outage affects campus The Farmville Herald</description>
-      <pubDate>Fri, 16 Oct 2026 21:03:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-16T21:03:28.165332Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-16T20:51:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
   </channel>
