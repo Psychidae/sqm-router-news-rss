@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-20T00:39:58.704115Z",
+  "generated_at": "2026-10-20T05:16:53.473489Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -50,7 +50,18 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
+    },
+    {
+      "id": "969e0987d6970f12eb311a89",
+      "title": "Symbolネットワークの障害に伴うXYM入金遅延の可能性について - Zaif",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RNFhXeTh2Y1pZdXBMaE9FTnY3RmRVTVh3UXVoY3dmZERsUWZCbmpsdHlhNDQzYTVtb19kZTFmZ0hJOHZRNTRuY1dROE9RN0t3ZjNQUGln0gFmQVVfeXFMUEs0ZkwtT3prMnctME8wVWkyMFF5dkY5WHRReEt6OHdIcXB4aU1wU0xUVzlGRExFeTZZNTlyc2NFTEo0NTFyWVp3NDVOSjdqZG5kdGNSQTQ2bmxjdUM4ZkxFRVgtNmtn?oc=5",
+      "summary": "Symbolネットワークの障害に伴うXYM入金遅延の可能性について Zaif",
+      "published_at": "2026-10-19T00:09:18Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
     },
     {
       "id": "3294bf94a60b6470dc132b6c",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOME1RZlM1UElVRlZlaGp3bUNFb0tjOTR6NXA2RUJ5YkxQdGxRMG1MNkJQT3ZCUXN0aklHV3dzcEU3SEhOX0IyenhjQmZhWTVuU3dJemNSTjk1TkRHakV0LU4xektGNndSNVF3RjJTOWZXSzBaODMxNkdmUGlKUlZVWFo4WWczenJlOF9jMkRBWnVFMzBCQ0Iwc0VFUnd0ZVgyb3gtZ19wUmdBT1ROTm12TXU3djcxZDZkTUNPQzA3YVNMWEoy?oc=5",
       "summary": "Lassen County Sheriff Warns of Lengthy Phone and Internet Outage Affecting 911 Services SierraDailyNews.com",
       "published_at": "2026-10-16T16:58:09Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "c7788f66569d341079eff258",
-      "title": "Suspected copper thieves cause internet outage - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXFmem01Ny1LQXZ4b2EzX3ZBWlFndjhRcUZpNWhlM0RBLUpES2xmUE9NcFg5a1V3RWxLNnJvcTZZN2JKSnVOVGYwcFA0QXA4R3RtY2JRSk85LWkzSy1mcUtjRGtLdGRsWTVRQnE4QnRBRE5WMmJ5N2xrcXpCb2FpT2tIY05qYmRSYlB5dVlVeHBFQXkxQ3F2ZkZhOW5taGNKbFRYRnJXM2Q0VHJLenZGYkstbHgwS28?oc=5",
-      "summary": "Suspected copper thieves cause internet outage RNZ",
-      "published_at": "2026-10-16T04:55:48Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
