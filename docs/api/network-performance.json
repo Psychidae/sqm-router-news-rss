@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-19T21:44:06.690136Z",
+  "generated_at": "2026-10-20T00:39:58.704115Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "900194d334ab5c835cb03d03",
+      "title": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmdRdDdPSFJwbkxfXzRtemVXMGJxSzlnZjhUUGpqUnl2WHBjdHZINVFKeTA3V3ZKM3ctcVlTZ1pHaFd5ZGNxbnp5MTUxeXE2UnVxTW5HcUJHSEYycEpHOE9jR3dxZnVPYUdOMVk3SzhJYTBWTVo3TUZjU1Y4SERpcUc3RC1hTWRCal9OLVI4NmFOMEFrSjg1dzJ2QURRN3VVdDhETU5VSmFPbk04R2NVVV9YdU1SeEVncW5rNGQ5SHhIbUZERTdsZERn?oc=5",
+      "summary": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN",
+      "published_at": "2026-10-19T18:52:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "5f6b803132dcfb0aa3bfd42b",
       "title": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN",
@@ -50,7 +61,7 @@
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "1f40a172849abeb5389cf916",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXFmem01Ny1LQXZ4b2EzX3ZBWlFndjhRcUZpNWhlM0RBLUpES2xmUE9NcFg5a1V3RWxLNnJvcTZZN2JKSnVOVGYwcFA0QXA4R3RtY2JRSk85LWkzSy1mcUtjRGtLdGRsWTVRQnE4QnRBRE5WMmJ5N2xrcXpCb2FpT2tIY05qYmRSYlB5dVlVeHBFQXkxQ3F2ZkZhOW5taGNKbFRYRnJXM2Q0VHJLenZGYkstbHgwS28?oc=5",
       "summary": "Suspected copper thieves cause internet outage RNZ",
       "published_at": "2026-10-16T04:55:48Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "0d3cc7b92e55e73bcb90f169",
-      "title": "Suspected copper thieves cause major internet outage in Bay of Islands - RNZ",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktnNWZGZUdRM0lfSk9SZGhpTDBsNkNKbVVEa3dQUmp3WmsxWm5BWlVmcjBQOG43UTNWZHJYVm41bGJGTVBtQXBkcVFhM1RXSUY4dmpibmQyemcybXlkbHVFOUU1THMweExpSlJUWjhUdUduWTZfRzlTOUo0VjhsSlJIRTJodWtFQzBJVjlSc250YkgtTFRHdjB4MURSUTNnb1NHUk5qaHlTU3FnSVF4dGJ2dlhxMFBlbUphYWhPODI?oc=5",
-      "summary": "Suspected copper thieves cause major internet outage in Bay of Islands RNZ",
-      "published_at": "2026-10-16T03:01:05Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

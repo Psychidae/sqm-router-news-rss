@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-19T21:44:04.432549Z",
+  "generated_at": "2026-10-20T00:39:56.334701Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 15
     },
     {
+      "id": "fbb38dc973b317394ec00e48",
+      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
+      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
+      "published_at": "2026-10-19T22:30:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "56ebe675fa77bfc08ee5784d",
       "title": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWZpSWZpUUVQS3NmcnVCajBxM1VRTWZEQXQ0bDVpSWtieFB3bUNaUzhLbXhjbWpvRndXTWNaWWZLVHRERG9YYW1JbnkzeGlySW1VNFo5cVZiRjdpazVvQ2hWSVUwWDB2Z0VxVklGWW13aVZmTUxXX1c5ZUhNYmNRVFgxU3NJbzdHRVVzVk44a2poa28xZjZNTG5td1M0Y29HOXRaUlF6QklDekRETmIxa3hlb2dkTm1EdzRPWGlvQjUzUVlvZWpLaUs2TzlIQzdwZWRJX094VkpNY1l5QmxwakJpbw?oc=5",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVlDdVFfWVdkbWR5bk5VeTM5WjJveFJNblFjaVFkYnhLNEZZQ1ZFemwxVHVPSGs5bnY4dUtJek5RM244MFc1ZE9IMWRTRV9uS0xuYWgyU0lBaTdFMjBBVWdELXFGVjJIUWwzT2JBZkxaYUlWOS1ZRlYtckF6ZmtBRENIam1pXzkwNmNFLWdhd1pqMDJqcGdCTUNGYw?oc=5",
       "summary": "Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers Expert Reviews",
       "published_at": "2026-10-12T11:33:47Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "51daef24f4016fe683c43343",
-      "title": "Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5",
-      "summary": "Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News",
-      "published_at": "2026-10-09T20:00:18Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

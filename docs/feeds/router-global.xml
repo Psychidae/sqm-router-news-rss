@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:39:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -61,6 +61,20 @@ Asus ROG Rapture GT-BE19000AI Gaming Router Review PowerUp!</description>
       <sqm:firstSeenDate>2026-10-10T15:20:26.255282Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-06T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5</link>
+      <guid isPermaLink="false">fbb38dc973b317394ec00e48</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-20 07:30
+Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget</description>
+      <pubDate>Tue, 20 Oct 2026 00:39:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-20T00:39:56.333725Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-19T22:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great
       <pubDate>Sun, 18 Oct 2026 22:35:13 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-18T22:35:13.744386Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-12T11:33:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Grandstream Introduces Tri-Band Wi-Fi 7 Router - Telecom Reseller / Technology Reseller News</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJEVUZENE10M01fWXlmMDd4ZFFkcjFKWDRkTlhaRFVvMTZnVGhKQVVrb3NPemxJWWlyVWFnTmVrcnhxNUNVQ2NGaVV2YmZQZ0FzcFJJOERRRWxILUlfdnktQUJSRUl4cUpKSlllbHB4Sk9iRVhzaWVuRlVVUlZ4NHpnRUdJa1B1UWNwZklVWdIBlAFBVV95cUxNU0tFNHVQVTN3VWtfemJVSzZFbXAwZHlXbVNKUDNZX3hpTWNhMjFFOHZrdGlmZjhCZVhfLUJXejRCU25BS1k1cUhBaVVCY3U1SUJWbEF1a0NaZGlmUTQ1TVllbHZMaXd6dVJ6a3lydVU3QzVhN0d2c0xpWlFhQ0xocExweVR6dURQYjNPLTJ5NzQxcUdy?oc=5</link>
-      <guid isPermaLink="false">51daef24f4016fe683c43343</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-10 05:00
-Grandstream Introduces Tri-Band Wi-Fi 7 Router Telecom Reseller / Technology Reseller News</description>
-      <pubDate>Mon, 19 Oct 2026 17:28:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T17:28:03.959142Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-09T20:00:18Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
