@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-20T10:06:27.279857Z",
+  "generated_at": "2026-10-20T15:01:28.250649Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "ebf7d3cac44d455bce051d00",
+      "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
+      "summary": "What is Google Cloud? Everything we know amid major internet outage The Independent",
+      "published_at": "2026-10-20T09:52:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "c5d39b32515cc0e002b014c3",
       "title": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent",
@@ -50,7 +61,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "82a8a14772b968f119d64340",
@@ -91,17 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEdpOFU0VThOOXRWREFaR29RZGg1RXg3X3ZRSzZ1Y2hKaEtuN0JFNlBvNFVscmVQOGJrS3QteUo0Z3lZdHBGS2JuR1JrcXJIZEJ4TlFOMk1QU3o3eE1QMkVKSkpuUE45VFpXWF9mZ3pFbmdya1pHa0R0dFhiamE1bno5Q3owZlNDMkg0MTBSTU92ZnlZMHV1WGtpdE5DSXJSeHZqRGF3?oc=5",
       "summary": "IPv6専用環境における高度なルーティングに関する知識と実践例の共有 Vietnam.vn",
       "published_at": "2026-10-18T05:35:10Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "2f071ae914242a51bf55db58",
-      "title": "NTTドコモ 来月から通信障害時にKDDI回線使えるように…月額429円～ 副回線サービスとして｜TBS NEWS DIG Bc Rcmp Snowmobiler Search (bqyyYoscMb) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXZRdjhac3hYbXJWM0RyTkY1dnNXU083ZnRDUTY3ZmhoNHptT1pzdXVEVExnb1RaUEtzd04wNEVvZGJBeTJ4SHFnMVBHc1YyNW5id21Za25RMnVuckN3Tm1ObEJDSHFZYlBwaVZQVDNQTlFXZTdhWHdsVXpaQXlNOTVB?oc=5",
-      "summary": "NTTドコモ 来月から通信障害時にKDDI回線使えるように…月額429円～ 副回線サービスとして｜TBS NEWS DIG Bc Rcmp Snowmobiler Search (bqyyYoscMb) Unisba Media",
-      "published_at": "2026-10-17T11:36:52Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

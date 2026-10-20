@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:01:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Broadcom - A 16-year-old Wi-Fi flaw still has no CVE - Korben</title>
@@ -22,31 +22,31 @@ Broadcom - A 16-year-old Wi-Fi flaw still has no CVE Korben</description>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 - マイナビニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUTVGSEs1ZnNfRTFyeTJ0azh6VXRyLV94d3ZuSl9JRVRLZTBILWx1enY4SGpMOTdwbUl2SHhfS3FVZnJtZmk5b3FGVGhtenhYRG5PZGN3amZyZ2NENWtlNlFsZWZ1SUpX?oc=5</link>
-      <guid isPermaLink="false">28ebfd0cec4e98a98374c4eb</guid>
+      <title>[セキュリティ] BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 - ニコニコニュース</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1RbGV5ZzhOMzhnR1A4WTBWZjVWeGxSc0xxUzl3R0tPOFBnb0VKUU5fd2t3YXhFMVJoRUJrRGNDRWRHcnZWNWlKdkp6Z3hqZnlrVXNlM24tbVE5T3VTa0lWdHhxNWxTVXZ3djdTWFRJNnlWYW5oV0lCQXZNaw?oc=5</link>
+      <guid isPermaLink="false">9462080a42acde582122ae61</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-10-20 18:01
-BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 マイナビニュース</description>
-      <pubDate>Tue, 20 Oct 2026 10:06:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-20T10:06:26.066498Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:01:31Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-20 19:03
+BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 ニコニコニュース</description>
+      <pubDate>Tue, 20 Oct 2026 15:01:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-20T15:01:27.188695Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T10:03:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Broadcom router vulnerability: reported WPS flaw - NeoTeo</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzFjVlJfdW1EMlpyNDBucDE5VkE2dnVneEY1QlY2bDl0ZktWeXNvTWNLREw2eHdrQURBUFhNN01HaVd3dVpYdlNGZjB5bWVKcWZTY016OWdOV3FtbmQ3Rm1OUGJqdVRFSXhKXzlncXcyTW1aV0V0UnZJTnREU1ZnOURB?oc=5</link>
-      <guid isPermaLink="false">7444c92b01a1e1b3b5cbb69b</guid>
+      <title>[セキュリティ] Broadcomの16年前のWi-Fi脆弱性、いまだにCVEが付かないまま - Korben</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaE95SkU4T1N4RXdyR19RSzZGUHlpNnF1eEt2V2lZVWZSOFM4eG9ZSlUxVkZuc0kyblRod3I0TG8tRkd3UTFkQURRaW9iRW9MTW9aZTFkNkFyVGtaQXVJcWF5MHAtVjdqSUM1QjA1NjA0YU5xVks1TWVLUQ?oc=5</link>
+      <guid isPermaLink="false">f8c106d9597917013ad1182c</guid>
       <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-19 20:14
-Broadcom router vulnerability: reported WPS flaw NeoTeo</description>
-      <pubDate>Mon, 19 Oct 2026 17:28:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T17:28:05.271968Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T11:14:15Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+ソース: Google News JP: network security
+元記事日付: 2026-10-20 16:51
+Broadcomの16年前のWi-Fi脆弱性、いまだにCVEが付かないまま Korben</description>
+      <pubDate>Tue, 20 Oct 2026 15:01:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-20T15:01:27.188695Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T07:51:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -60,6 +60,20 @@ Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution The Cryptonomist<
       <pubDate>Mon, 19 Oct 2026 11:14:54 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-19T11:14:54.032937Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-19T07:56:47Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Broadcom router vulnerability: reported WPS flaw - NeoTeo</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzFjVlJfdW1EMlpyNDBucDE5VkE2dnVneEY1QlY2bDl0ZktWeXNvTWNLREw2eHdrQURBUFhNN01HaVd3dVpYdlNGZjB5bWVKcWZTY016OWdOV3FtbmQ3Rm1OUGJqdVRFSXhKXzlncXcyTW1aV0V0UnZJTnREU1ZnOURB?oc=5</link>
+      <guid isPermaLink="false">7444c92b01a1e1b3b5cbb69b</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-19 20:14
+Broadcom router vulnerability: reported WPS flaw NeoTeo</description>
+      <pubDate>Mon, 19 Oct 2026 17:28:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-19T17:28:05.271968Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-19T11:14:15Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
