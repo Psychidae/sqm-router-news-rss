@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-20T22:15:39.967673Z",
+  "generated_at": "2026-10-21T00:37:33.671894Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-10-09T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 21
-    },
     {
       "id": "5c2636196a2feba708a780c9",
       "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
@@ -46,7 +35,7 @@
       "title": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 - Android Authority",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzcyeVUzZll0MlpTb2hJSmU1VUlDTlBPQkRCYklPbEpBTlliTnI0UTBMSFlyYWJIeEZXeDdGdTdTMjYzWjNrRkRHSXhGZ0l6bi0tWHZnNXlkOVRrajZUUjhZb19VMXpVQ0haS1JObk5GcnpIU0drbWNuOUhUQ05JMl9pbw?oc=5",
       "summary": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 Android Authority",
-      "published_at": "2026-10-07T17:12:00Z",
+      "published_at": "2026-10-07T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -86,22 +75,22 @@
       "score": 14
     },
     {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T22:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "292d597a36a1ba1abe755875",
       "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
       "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
       "published_at": "2026-10-20T14:00:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "fbb38dc973b317394ec00e48",
+      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
+      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
+      "published_at": "2026-10-19T22:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
+    },
+    {
+      "id": "4c49f7f441a18a77173df19c",
+      "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver - CNX Software",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFzQW5kUm9SbU9TSjd3N3Exc2tSQUJSQlNxMkRmakdnNjVNR1ppZ1QtT1BHV1IzMzlXU29JZVlRZTlqQU1Bd295U2JGaFlJcDVCWDJlQ196MzJGSC05ZmxzeGlzdE9GelRzVWo0d1pXRHVPX3JGalFJYlZNbFNreHlPdlVqbW9rN2s1Y1gwMV9yOW1xSUlaWC1HaF9zZ0tVakpjYURaOHVxZnBuMjQ3RDBOYW94UV9mY0w1M09kY9IBxwFBVV95cUxQTkhvenhibzhDV2Zud24tSmJEcXlvbmdCUUkzc3JOaDdOaWZ5OGxrZ2U0ZXcxbmlVZnI0OGptQ1FRdVRHUHFudXc2SXR1Wlg5Z1VSODNkWVpYMndwcVlRUkllWmozWnZRLUZFQXpxM1d6U0xwSy1ab09WblNRaUEyOUp0MUFqc0lNa0Jqb3ZIOGxOaWU5dFEzSjhvbW5lSXh0QTg3Tk1qSWdCVklWbkFoY01feFpYZWNvcUx0TVJMSjlJN21XZS00?oc=5",
+      "summary": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver CNX Software",
+      "published_at": "2026-10-15T17:01:01Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
     }
   ]
 }
