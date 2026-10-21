@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-21T05:18:30.427393Z",
+  "generated_at": "2026-10-21T15:36:13.220220Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,33 +9,22 @@
   "errors": [],
   "items": [
     {
+      "id": "2c0cef278f4cd29830f6cd23",
+      "title": "France's Orange network hit by phone and internet outage - The Local France",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzBuZUxkOHowbDVoNGVGWERGN2NWbVpHVmVxeUQ3SFJIWUVjM1g2Zm5lRWp6VGxBRkNfNHRwS0pHdVZZbTYzaUkyM0gwSjNlUGpfRG41bzV4a05NOUEwcnFDZGFWRmk2eEJJMS14ZElieTJHZ25na2NwUE5sdDFqRmhZYW1kZ2ZEdXhXT0IzRV9DZw?oc=5",
+      "summary": "France's Orange network hit by phone and internet outage The Local France",
+      "published_at": "2026-10-21T12:51:40Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
       "id": "5fd6592c61b5bc832dadb142",
       "title": "Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - Belfast News Letter",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcGJBN0NSYUIzOHliaFJ4SlcxQ0ZIVzBrRFBkYnprSVJpVVg1YnFocVlndm9YbFU0MmhwNjRGRXdSaXpWZWhBMXgtb3hhLTVKajhlZXFJUERRc0FnSTN2S0IwNnVSY0lBNFpqZ2o4UTFaeTMzdW1tR1BRdzFQU3E3c2pXMFFYYUVzOWNTWG14VUJ4S2lXZ3FFVXVVWHdJaEJPWHoyU09wTFJYVHVMdUVveXlTdEZkS3pLTU8zeUhsdVZMR25WbUdmb0hSWXlaRW1LVFV0VDV2Z1kwZw?oc=5",
       "summary": "Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England Belfast News Letter",
       "published_at": "2026-10-20T16:31:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "ebf7d3cac44d455bce051d00",
-      "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
-      "summary": "What is Google Cloud? Everything we know amid major internet outage The Independent",
-      "published_at": "2026-10-20T09:52:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "c5d39b32515cc0e002b014c3",
-      "title": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdzLTVnT3ZFYzl5TUd2TVZKVmVZeURWTmJCNnlHVEkyOVdzbWFCdTlkbms5QndPa2ktc2lEU0x6Z3Bkcm5xc3JtOUF2UHM4cTV1UDhaWW9nNTAxYWpUOTJqaTRhcUpzS0hSZ1ZkZUJmWFhPbzFadUlFLXBzczUwd1FqUFlNem1SaXNCNW9Rd184SlBVeXQtSkQwX2dfSzls?oc=5",
-      "summary": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more The Independent",
-      "published_at": "2026-10-20T09:14:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -49,6 +38,28 @@
       "published_at": "2026-10-21T02:30:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "ebf7d3cac44d455bce051d00",
+      "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
+      "summary": "What is Google Cloud? Everything we know amid major internet outage The Independent",
+      "published_at": "2026-10-20T09:52:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "c5d39b32515cc0e002b014c3",
+      "title": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdzLTVnT3ZFYzl5TUd2TVZKVmVZeURWTmJCNnlHVEkyOVdzbWFCdTlkbms5QndPa2ktc2lEU0x6Z3Bkcm5xc3JtOUF2UHM4cTV1UDhaWW9nNTAxYWpUOTJqaTRhcUpzS0hSZ1ZkZUJmWFhPbzFadUlFLXBzczUwd1FqUFlNem1SaXNCNW9Rd184SlBVeXQtSkQwX2dfSzls?oc=5",
+      "summary": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more The Independent",
+      "published_at": "2026-10-20T09:14:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSWZPUC1QdnFUckxpU2ptNTVCcDVRR3lteTllY2VwR091Zi02R3VLUzdTYjJjNl9NM1dXcWswS3gyYTQxQUpBVEtXeXFYcGNkV2tHaQ?oc=5",
       "summary": "国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ (1/2) ASCII.jp",
       "published_at": "2026-10-19T00:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "1f40a172849abeb5389cf916",
-      "title": "IPv6専用環境における高度なルーティングに関する知識と実践例の共有 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEdpOFU0VThOOXRWREFaR29RZGg1RXg3X3ZRSzZ1Y2hKaEtuN0JFNlBvNFVscmVQOGJrS3QteUo0Z3lZdHBGS2JuR1JrcXJIZEJ4TlFOMk1QU3o3eE1QMkVKSkpuUE45VFpXWF9mZ3pFbmdya1pHa0R0dFhiamE1bno5Q3owZlNDMkg0MTBSTU92ZnlZMHV1WGtpdE5DSXJSeHZqRGF3?oc=5",
-      "summary": "IPv6専用環境における高度なルーティングに関する知識と実践例の共有 Vietnam.vn",
-      "published_at": "2026-10-18T05:35:10Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

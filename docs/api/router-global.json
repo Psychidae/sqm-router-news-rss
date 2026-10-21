@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-21T05:18:28.225150Z",
+  "generated_at": "2026-10-21T15:36:10.832287Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,26 +20,15 @@
       "score": 17
     },
     {
-      "id": "786f198bcf58f2c47d510181",
-      "title": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5",
-      "summary": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK",
-      "published_at": "2026-10-12T12:06:00Z",
+      "id": "41d8d78a0f74b4a5523f878b",
+      "title": "Huawei Router X2 Series: Wi-Fi 7+ and 3D-Printable Panels - hi-Tech.ua",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXRLd3B5X1lRandJdURsY0ZkZnphVlp6MzFZNWxkSlR5cGJObFVyMmJBb0gyMGtfZlBneUp5ODk3ZDdkaVBPSUdOODJEMV9lbVVPbW5OdW45UHBHVUY2Y0RscjVWQ1VWZUc0S1RCZ2ZFZVZUeXFoUzJsQVNoZUdwVktsaUo?oc=5",
+      "summary": "Huawei Router X2 Series: Wi-Fi 7+ and 3D-Printable Panels hi-Tech.ua",
+      "published_at": "2026-10-21T14:13:15Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
-      "id": "46392f1aa6d2ed7e6a79984b",
-      "title": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzcyeVUzZll0MlpTb2hJSmU1VUlDTlBPQkRCYklPbEpBTlliTnI0UTBMSFlyYWJIeEZXeDdGdTdTMjYzWjNrRkRHSXhGZ0l6bi0tWHZnNXlkOVRrajZUUjhZb19VMXpVQ0haS1JObk5GcnpIU0drbWNuOUhUQ05JMl9pbw?oc=5",
-      "summary": "Prime Day pick: TP-Link Deco 7 Pro Wi-Fi 7 mesh router is a steal at $179.99 Android Authority",
-      "published_at": "2026-10-07T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 14
     },
     {
       "id": "38de339d852ad2d88cf06339",
@@ -50,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "127f38229d78f07c0d6914fc",
@@ -61,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "1020271239c7f80e56bcaf36",
@@ -69,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5",
       "summary": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com",
       "published_at": "2026-10-20T09:52:16Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "292d597a36a1ba1abe755875",
-      "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
-      "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
-      "published_at": "2026-10-20T14:00:19Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -108,6 +86,17 @@
       "score": 13
     },
     {
+      "id": "292d597a36a1ba1abe755875",
+      "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
+      "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
+      "published_at": "2026-10-20T14:00:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "4c49f7f441a18a77173df19c",
       "title": "W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receiver - CNX Software",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYUFzQW5kUm9SbU9TSjd3N3Exc2tSQUJSQlNxMkRmakdnNjVNR1ppZ1QtT1BHV1IzMzlXU29JZVlRZTlqQU1Bd295U2JGaFlJcDVCWDJlQ196MzJGSC05ZmxzeGlzdE9GelRzVWo0d1pXRHVPX3JGalFJYlZNbFNreHlPdlVqbW9rN2s1Y1gwMV9yOW1xSUlaWC1HaF9zZ0tVakpjYURaOHVxZnBuMjQ3RDBOYW94UV9mY0w1M09kY9IBxwFBVV95cUxQTkhvenhibzhDV2Zud24tSmJEcXlvbmdCUUkzc3JOaDdOaWZ5OGxrZ2U0ZXcxbmlVZnI0OGptQ1FRdVRHUHFudXc2SXR1Wlg5Z1VSODNkWVpYMndwcVlRUkllWmozWnZRLUZFQXpxM1d6U0xwSy1ab09WblNRaUEyOUp0MUFqc0lNa0Jqb3ZIOGxOaWU5dFEzSjhvbW5lSXh0QTg3Tk1qSWdCVklWbkFoY01feFpYZWNvcUx0TVJMSjlJN21XZS00?oc=5",
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "c38fef4a659b51a5c825898d",
+      "title": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5",
+      "summary": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo",
+      "published_at": "2026-10-13T12:40:22Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     }
   ]
 }

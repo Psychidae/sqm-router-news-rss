@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-21T05:18:29.268601Z",
+  "generated_at": "2026-10-21T15:36:12.047128Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "436a09d133556935ed3648e0",
+      "title": "ブロードコム製Wi-Fiに16年放置の脆弱性、数百万台のルーターが乗っ取り可能に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FYU9qWXlHX01ScHVNTGFRWTl6cS04SXJWV3dQLTRwRW1reWxYVGhNSEV1bkJVUW9ZOUJYbHBONTBOVEdaeWxkbUExVUtCaTBIRnI0X0JrWElVdlpsQlVjS2FzY0J3ZU1KUUljUUE3Tjc3TTJG?oc=5",
+      "summary": "ブロードコム製Wi-Fiに16年放置の脆弱性、数百万台のルーターが乗っ取り可能に BigGo ファイナンス",
+      "published_at": "2026-10-21T13:05:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "3b2d71adaf9d68f07ca27223",
       "title": "Broadcom - A 16-year-old Wi-Fi flaw still has no CVE - Korben",
@@ -16,28 +27,6 @@
       "published_at": "2026-10-20T07:51:56Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 14
-    },
-    {
-      "id": "9462080a42acde582122ae61",
-      "title": "BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RbGV5ZzhOMzhnR1A4WTBWZjVWeGxSc0xxUzl3R0tPOFBnb0VKUU5fd2t3YXhFMVJoRUJrRGNDRWRHcnZWNWlKdkp6Z3hqZnlrVXNlM24tbVE5T3VTa0lWdHhxNWxTVXZ3djdTWFRJNnlWYW5oV0lCQXZNaw?oc=5",
-      "summary": "BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 ニコニコニュース",
-      "published_at": "2026-10-20T10:03:09Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "f8c106d9597917013ad1182c",
-      "title": "Broadcomの16年前のWi-Fi脆弱性、いまだにCVEが付かないまま - Korben",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaE95SkU4T1N4RXdyR19RSzZGUHlpNnF1eEt2V2lZVWZSOFM4eG9ZSlUxVkZuc0kyblRod3I0TG8tRkd3UTFkQURRaW9iRW9MTW9aZTFkNkFyVGtaQXVJcWF5MHAtVjdqSUM1QjA1NjA0YU5xVks1TWVLUQ?oc=5",
-      "summary": "Broadcomの16年前のWi-Fi脆弱性、いまだにCVEが付かないまま Korben",
-      "published_at": "2026-10-20T07:51:56Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 13
     },
@@ -51,6 +40,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 13
+    },
+    {
+      "id": "9462080a42acde582122ae61",
+      "title": "BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RbGV5ZzhOMzhnR1A4WTBWZjVWeGxSc0xxUzl3R0tPOFBnb0VKUU5fd2t3YXhFMVJoRUJrRGNDRWRHcnZWNWlKdkp6Z3hqZnlrVXNlM24tbVE5T3VTa0lWdHhxNWxTVXZ3djdTWFRJNnlWYW5oV0lCQXZNaw?oc=5",
+      "summary": "BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 ニコニコニュース",
+      "published_at": "2026-10-20T10:03:09Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
+      "id": "f8c106d9597917013ad1182c",
+      "title": "Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし - Korben",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaE95SkU4T1N4RXdyR19RSzZGUHlpNnF1eEt2V2lZVWZSOFM4eG9ZSlUxVkZuc0kyblRod3I0TG8tRkd3UTFkQURRaW9iRW9MTW9aZTFkNkFyVGtaQXVJcWF5MHAtVjdqSUM1QjA1NjA0YU5xVks1TWVLUQ?oc=5",
+      "summary": "Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし Korben",
+      "published_at": "2026-10-20T07:51:56Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
     },
     {
       "id": "7444c92b01a1e1b3b5cbb69b",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnNhdjRTZ1VPeWZYdEdOLW1FZHU1cVpEOFVYZU9sY1hRb0xuTzUxbHJDS3hwancxRDhpQWVuLXROSlExdjlrckdqWGRBb0U5WFpKd0Z5eFZ2Nm5vTVc4NWxKR2Z0eXd4MnVtZkhDWnFvRkVmd2VpOGYwbTFtbG1QVzZ0ejc?oc=5",
       "summary": "悪用されたFortinetの脆弱性、通信事業者への攻撃で展開されたFortiGate用インプラントとの関連が指摘される（CVE-2025-61624） 株式会社マキナレコード",
       "published_at": "2026-10-20T05:20:44Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "461ccf712f9611f49acaa969",
-      "title": "【サイバーセキュリティ講座】ファイアーウォールとUTM①ファイアウォールとUTMを基礎から学ぶ Violet Affleck New Hairstyle Bob (nwTlMyhn6H) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nWjJzWUY4RndMX1c3S2RadlNXWlRZNG1BRmdpSllNWE9ITnVQeUVzZ283c0FqXy03QVJCVFd4UGFlOXlvdFc3OGwybkFHRnIzVF9oTTBWalZwU1pSRWZIUGxMcXlfZw?oc=5",
-      "summary": "【サイバーセキュリティ講座】ファイアーウォールとUTM①ファイアウォールとUTMを基礎から学ぶ Violet Affleck New Hairstyle Bob (nwTlMyhn6H) Unisba Media",
-      "published_at": "2026-10-18T08:31:41Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
