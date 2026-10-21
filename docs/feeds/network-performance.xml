@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:44:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] France's Orange network hit by phone and internet outage - The Local France</title>
@@ -22,17 +22,31 @@ France's Orange network hit by phone and internet outage The Local France</descr
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - アットプレス</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVU84ekJ4eXRpVV9WS01LeVdEMDRGZHpkSWQtQzhOUk1IZHk3b2ZSYWdhVHlIbTQ5dGwzMDIzdmdfYS1XMzljSHpRdVFiajA?oc=5</link>
-      <guid isPermaLink="false">44672d534cc7b73c85bcd351</guid>
+      <title>[性能・障害] 2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - Newscast.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BQnl4dkZwdzVrN1c3cWs3SnVqYmVXX0piTGNLb2g0eDllLW0ybWVsOW04Q0lCLUdlOEhYblFfeDZaQVVYTXk1b0UtdWNybGc?oc=5</link>
+      <guid isPermaLink="false">5f30f3f342aa5c3dd3185721</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-21 11:30
-2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 アットプレス</description>
-      <pubDate>Wed, 21 Oct 2026 05:18:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-21T05:18:30.426696Z</sqm:firstSeenDate>
+2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 Newscast.jp</description>
+      <pubDate>Wed, 21 Oct 2026 22:44:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-21T22:44:05.513981Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-21T02:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - cedarnews.net</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRPR3FHTnNKbE1lR0p3M1pwbmJkV0tPdnIxV0FsdUdXQWtmZDRCbENlSHdQYjhPWjhEQlVLQjJrek5jMWkwNmdWRVphZW5NdENmZGxOakRCUDczTDFaZ0luS3FFUXRFQ1htck80QWRYdU1iMXhDN2JONmdqbG1IZGtld0dNV0ZXTDE2Y0NydzNJaHpSRENlSA?oc=5</link>
+      <guid isPermaLink="false">4909312e84141149dccec9e7</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-21 02:17
+Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England cedarnews.net</description>
+      <pubDate>Wed, 21 Oct 2026 22:44:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-21T22:44:05.513981Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T17:17:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -50,6 +64,20 @@ Northern Ireland dodges worst of Google internet outage chaos, as banks and cour
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut - Express and Star</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHFRU1RIMjNuQnUyNnNpdERQc0FSOHJXRzhFQlpva3pqZDNDT2k5dmoyc1RrN1kyR1Y2VzRlVzhJd21PMFJnTDdRSkZFcjBBRWludzVDN3JVWmI5cnR5RWhUcDJuMUJvV1FhNnptZzNlNl90LThFQWwtOUF1d0hZNktCQ1ZLemRnb0k5b3pURUYxTVN0MWpDejZvRkVjQXVRRWNFMDJXbktiNDhVSEw1Q0ZRN2RpbUthd0w5QzVTdXdIR1AzUXFhcTVn?oc=5</link>
+      <guid isPermaLink="false">44cf8bbbe06ef63318e7360d</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-20 18:57
+Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut Express and Star</description>
+      <pubDate>Wed, 21 Oct 2026 22:44:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-21T22:44:05.513981Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:57:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] What is Google Cloud? Everything we know amid major internet outage - The Independent</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5</link>
       <guid isPermaLink="false">ebf7d3cac44d455bce051d00</guid>
@@ -60,6 +88,20 @@ What is Google Cloud? Everything we know amid major internet outage The Independ
       <pubDate>Tue, 20 Oct 2026 15:01:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-20T15:01:28.249696Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T09:52:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues - SSBCrack</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFhWS3NUMjVKV0VvTHJoTkdfQXN0ODNFbERqbDg0V2VxMUgzTDgwVlYwX0RRXzBCVlFma1VzQktCS2E4MmV3d2ZyRXVyTUxDdTBHTFFwWUo2LTVxV1Roa3FzVXBCOWhhRmp6cm5VVTBpMWtrLTdxWTVncmNsMGZvUjdacGs2bWRxTml4Mk9BR1U5emJyRmtKN1p6T1Z3Z2c5UE9RVlNSTUo3OXpmMTU0?oc=5</link>
+      <guid isPermaLink="false">baac800802f6cead890cb537</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-20 18:21
+Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues SSBCrack</description>
+      <pubDate>Wed, 21 Oct 2026 22:44:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-21T22:44:05.513981Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:21:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -79,20 +121,6 @@ Major internet outage appears to have taken down Lloyds Bank, HSBC and more The 
     </item>
     <item>
       <title>[性能・障害] Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxPNmdRdDdPSFJwbkxfXzRtemVXMGJxSzlnZjhUUGpqUnl2WHBjdHZINVFKeTA3V3ZKM3ctcVlTZ1pHaFd5ZGNxbnp5MTUxeXE2UnVxTW5HcUJHSEYycEpHOE9jR3dxZnVPYUdOMVk3SzhJYTBWTVo3TUZjU1Y4SERpcUc3RC1hTWRCal9OLVI4NmFOMEFrSjg1dzJ2QURRN3VVdDhETU5VSmFPbk04R2NVVV9YdU1SeEVncW5rNGQ5SHhIbUZERTdsZERn?oc=5</link>
-      <guid isPermaLink="false">900194d334ab5c835cb03d03</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-20 03:52
-Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN</description>
-      <pubDate>Tue, 20 Oct 2026 00:39:58 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-20T00:39:58.703145Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T18:52:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN</title>
       <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamxzNkN6LS1Sc3BiZHpqdzI1Sl9PVlNWNjdtdU42TlRNb09ZaktuZmtWclNtcjE5ZTA5Qlo0Y2p4clVjRHdUcl90VmEteS0tMzZSTXpwMkJBMUpkUWw5QU1faDdNS1puRENsNkg4aFJJaXU4Y1NncXNieWpzYkctdllucnU4ZXU1Q2o4M2N4YlFHWGpNdDFUejEwZkRaU1Q5UWFVbnN4RVhBVkZXYi1GQldFZUt2YVp3N0xTeTBtNkhtUQ?oc=5</link>
       <guid isPermaLink="false">5f6b803132dcfb0aa3bfd42b</guid>
       <description>種別: 性能・障害
@@ -102,20 +130,6 @@ Parkview says there’s ‘no indication’ of data being compromised in ‘syst
       <pubDate>Mon, 19 Oct 2026 21:44:06 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-19T21:44:06.689226Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-19T17:50:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Could your business pass an internet outage drill? - www.thepost.co.nz</title>
-      <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE9fNEx1a2dZQWljZEcyQmp0NlZHd0c2S0hwSGFHMGF0R2IwblNCZ2h0MVNMb0FiQ1VEMElOVE9IM2dlWTMyZmFTNUYyMU1acjItRnJ0N0pqdXJMRXByeU5adVJ6UTZjYU9OVm5CaTNXal9rcUNFOHVWbXdiOTVqc3c2YmJFNFY2VkxCMG9yU0hHWWN4?oc=5</link>
-      <guid isPermaLink="false">7371cffe8542dd3ccb24b97a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-20 00:00
-Could your business pass an internet outage drill? www.thepost.co.nz</description>
-      <pubDate>Mon, 19 Oct 2026 17:28:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T17:28:06.377245Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T15:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -131,20 +145,6 @@ Large internet outage affects Bella Vista customers KNWA FOX24</description>
       <sqm:firstSeenDate>2026-10-19T05:18:38.001787Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-19T03:50:51Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] 国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ (1/2) - ASCII.jp</title>
-      <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iSWZPUC1QdnFUckxpU2ptNTVCcDVRR3lteTllY2VwR091Zi02R3VLUzdTYjJjNl9NM1dXcWswS3gyYTQxQUpBVEtXeXFYcGNkV2tHaQ?oc=5</link>
-      <guid isPermaLink="false">3294bf94a60b6470dc132b6c</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-19 09:00
-国内バックボーンNWを大幅増強したColt 東京－大阪間の低遅延サービスも提供へ (1/2) ASCII.jp</description>
-      <pubDate>Mon, 19 Oct 2026 11:14:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T11:14:55.232681Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T00:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
