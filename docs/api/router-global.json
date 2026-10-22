@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-22T20:04:23.711212Z",
+  "generated_at": "2026-10-22T23:20:09.901967Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "ff61668a52e189b8858249bf",
-      "title": "D-Link BE7200 10G Wi-Fi 7 Mesh Router Review – Fast, stable, and built for Power Users - Craving Tech",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTV9FOVpTWl9TcmlGd2RwT3JBcVB6ZElWb0xWb09TSHJSV0NYajVneWRRNkhhSXpZdGpKaHJWOUx0SG1vWG1ZRDZ0d2NOLVh1N2hqeENkUVZmdW1iMGZ2Snl1cm5Idlk3MlFnUFhYY09zM3JRbi15cWlSSEZCWVE1N0VpeGNyTHQzM3hhT1l5NEJoM1Vwb3lwR3B5ZUNWeGZPQk43dzZvNVJUdzdZajBLNkxDMnF1Zw?oc=5",
-      "summary": "D-Link BE7200 10G Wi-Fi 7 Mesh Router Review – Fast, stable, and built for Power Users Craving Tech",
-      "published_at": "2026-10-19T15:13:39Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 22
-    },
     {
       "id": "5c2636196a2feba708a780c9",
       "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
@@ -42,6 +31,17 @@
       "score": 13
     },
     {
+      "id": "38de339d852ad2d88cf06339",
+      "title": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5",
+      "summary": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/",
+      "published_at": "2026-10-20T10:31:05Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "127f38229d78f07c0d6914fc",
       "title": "Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNa19rZHFwUHFMSF9Nb2Q2ZnhrUXJiVWoya3FHN0dLM1FISG5JdC1JR1cxOEozaUdSQzUtNHhFVjhpX2dLbVRyUEQzQTFYVWNoS1UzQzB6WjQ1MlNNWUlTWENYdDhMSzlfbDRhYWdMbDZUcUF6cWtxNkpPMkh0UXpaUExMYl8zV0FFWTA4UGNkeU9OS0Z1QXNxQ2FCNVJrWUJ2bVFIU2N0STBWYUcwaFJaUDlQbXVRXzV3UDd1TEFydW9HV1JuckVxSlVKbHR0bklGaVVwNHhfLUJmaDN4czdFRWIwTWdxWS1fM0RMNjRYN3A3MEx2emdPWnByWjZGNjZnZHhuV0dJWkpHM1BURnJsNWZ4Y1UxdWxSbFk5TnlqMjRXOGo4clN2TmViZXFCdnZuYkVBNWM5RGkwQzhVeUVQV1o2VWhhRERMMlRfRmxaWWtGWnJ1MllhNmtWQQ?oc=5",
@@ -53,11 +53,11 @@
       "score": 13
     },
     {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T22:30:00Z",
+      "id": "1020271239c7f80e56bcaf36",
+      "title": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost - Gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5",
+      "summary": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com",
+      "published_at": "2026-10-20T09:52:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -75,6 +75,17 @@
       "score": 12
     },
     {
+      "id": "fbb38dc973b317394ec00e48",
+      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
+      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
+      "published_at": "2026-10-19T22:30:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
       "id": "56ebe675fa77bfc08ee5784d",
       "title": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! - TweakTown",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWZpSWZpUUVQS3NmcnVCajBxM1VRTWZEQXQ0bDVpSWtieFB3bUNaUzhLbXhjbWpvRndXTWNaWWZLVHRERG9YYW1JbnkzeGlySW1VNFo5cVZiRjdpazVvQ2hWSVUwWDB2Z0VxVklGWW13aVZmTUxXX1c5ZUhNYmNRVFgxU3NJbzdHRVVzVk44a2poa28xZjZNTG5td1M0Y29HOXRaUlF6QklDekRETmIxa3hlb2dkTm1EdzRPWGlvQjUzUVlvZWpLaUs2TzlIQzdwZWRJX094VkpNY1l5QmxwakJpbw?oc=5",
@@ -86,37 +97,26 @@
       "score": 12
     },
     {
-      "id": "2314edeb46610e42e0c305da",
-      "title": "Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ - Technetbook",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkJvSkxFYkVfTGRIWjlDcGl6OVVlOGdXWWtpdzFXeUozb3ByZVd0TmtPWWRBQjd2MEh2dnNsZjBrejVVYUwzQXhLTXFqU3pyODZTUk83TXVYcVJjVHk4YmpPQ1hKQTZPRWhUYXY3QTNVY1dXSWhWUG56OUV5ZHJ5bVZn?oc=5",
-      "summary": "Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ Technetbook",
-      "published_at": "2026-10-21T17:09:00Z",
+      "id": "d9fcbe4a674b2f19bed2b3eb",
+      "title": "Turning a Wi-Fi 7 router into a wideband software-defined receiver - Adafruit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZ1dzZVRS1MNVFvQkRaSFhoSmpvRUo1QXRCMEc4ekUtSTBFZEdWeEdLRkE1ODZkal9MeXVPbVV3Z2tDaENaa2ZrWnJWQTI4ZmRnVzdXTnh3ZXFNNUFXbnVvb2tOUlNEYk9xWTI5UHVpUUlsTVZUeFlBWWF1UHZmZldMR2dIMnJKTk96YVAtLWxQSWxaNHdvZl9wRlZRQktxcGVleDFTbw?oc=5",
+      "summary": "Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit",
+      "published_at": "2026-10-13T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
+      "score": 11
     },
     {
-      "id": "87c578ae5bbc1bc86b5281ef",
-      "title": "Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 - Popular Science",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0E0aXczeGhxcW9tMEZORmpuV1VNQVdmS3hlNTRlZkdLckNzVXFCX2dvZlp6WHdNVEctbEpFRnRncUFLVHhPQWdSUnB4SVRBMTRncVQ2VVRIOS04WUU5d0VIbTN4ZUhrUUJld3liNkpYM0s4R0ZVWUdEODk1RGRJb1FkZnNTUQ?oc=5",
-      "summary": "Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 Popular Science",
-      "published_at": "2026-10-20T20:23:42Z",
+      "id": "c38fef4a659b51a5c825898d",
+      "title": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5",
+      "summary": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo",
+      "published_at": "2026-10-13T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "72c281aae22b0c23bc1b0e26",
-      "title": "TP-Link BE10000 Wi-Fi 7 Tri-Band Range Extender discounted to $169.98 - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDlUQXlqazlIZmhicmUyTVdSanJySkltX0l3QWdESlNBNUhNMFdqbk9pcmdDS1BXT0NBcEhTSzVKVFdlTnFPR0Z1TWVPaEpYeUdOZjRDT19PMEZJSnBoZEN6MF9LYjgzSGQxcnpsblFuemtmZ0pYZVNTR1FhNzFGeDUwb1NSRmE5M0VVZy1EdXRrbGZzb1pZcnRLMWZxbTNCNnc?oc=5",
-      "summary": "TP-Link BE10000 Wi-Fi 7 Tri-Band Range Extender discounted to $169.98 Technobezz",
-      "published_at": "2026-10-16T14:19:38Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 11
     }
   ]
 }
