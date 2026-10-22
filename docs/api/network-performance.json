@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-22T11:45:49.216540Z",
+  "generated_at": "2026-10-22T16:02:23.876798Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "a4ee1d0b5a3ed021f71fe6a9",
+      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
+      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 ThinkIT",
+      "published_at": "2026-10-22T10:42:06Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "2c0cef278f4cd29830f6cd23",
       "title": "France's Orange network hit by phone and internet outage - The Local France",
@@ -17,7 +28,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "5fd6592c61b5bc832dadb142",
@@ -86,21 +97,10 @@
       "score": 8
     },
     {
-      "id": "7371cffe8542dd3ccb24b97a",
-      "title": "Could your business pass an internet outage drill? - www.thepost.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE9fNEx1a2dZQWljZEcyQmp0NlZHd0c2S0hwSGFHMGF0R2IwblNCZ2h0MVNMb0FiQ1VEMElOVE9IM2dlWTMyZmFTNUYyMU1acjItRnJ0N0pqdXJMRXByeU5adVJ6UTZjYU9OVm5CaTNXal9rcUNFOHVWbXdiOTVqc3c2YmJFNFY2VkxCMG9yU0hHWWN4?oc=5",
-      "summary": "Could your business pass an internet outage drill? www.thepost.co.nz",
-      "published_at": "2026-10-19T15:00:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "5f30f3f342aa5c3dd3185721",
-      "title": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BQnl4dkZwdzVrN1c3cWs3SnVqYmVXX0piTGNLb2g0eDllLW0ybWVsOW04Q0lCLUdlOEhYblFfeDZaQVVYTXk1b0UtdWNybGc?oc=5",
-      "summary": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 Newscast.jp",
+      "id": "44672d534cc7b73c85bcd351",
+      "title": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVU84ekJ4eXRpVV9WS01LeVdEMDRGZHpkSWQtQzhOUk1IZHk3b2ZSYWdhVHlIbTQ5dGwzMDIzdmdfYS1XMzljSHpRdVFiajA?oc=5",
+      "summary": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 アットプレス",
       "published_at": "2026-10-21T02:30:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -108,11 +108,11 @@
       "score": 7
     },
     {
-      "id": "82a8a14772b968f119d64340",
-      "title": "Large internet outage affects Bella Vista customers - KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEw5V1U0NGdyLXVPWWZyQS1jM0lWY21LNkROZmxvY0ZKSUZjVUxqRl9KaVlwcGxYallOeGVEODlQNnBOdl9YZ1NzYmw5LWoyQjFuU0M1alBqZmM1M3VGUGFCblRnXzN0cDFCQndjZE5Tdm01WlZxaU5rSUR6ZzdxNFh6a04wN05yck5aRHh6blpTUmtRZnl3N1hmUHhtRVBPTGZsNXlTb9IBrAFBVV95cUxOZGFwbU5sVzVoWmxtNVpEOVc3cDJ3alJBMENaOGFPMlo4U2xLNWROb2xwRVdmWDRLeDVYQVVseHR5LUpiWkFPUFY0T051d1ZRMjhsWjBfLUNaajh4NU5La1lfN2JkZWZVcTFvR2xtVXBDS0ZEdjhING83b3NObVRPQXBkQUY1TVpaY2RzVUJlMVAxSGpQdEFHcERVQmpEQlZvaUpFRDVmVHNCLUt2?oc=5",
-      "summary": "Large internet outage affects Bella Vista customers KNWA FOX24",
-      "published_at": "2026-10-19T03:50:51Z",
+      "id": "7371cffe8542dd3ccb24b97a",
+      "title": "Could your business pass an internet outage drill? - www.thepost.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE9fNEx1a2dZQWljZEcyQmp0NlZHd0c2S0hwSGFHMGF0R2IwblNCZ2h0MVNMb0FiQ1VEMElOVE9IM2dlWTMyZmFTNUYyMU1acjItRnJ0N0pqdXJMRXByeU5adVJ6UTZjYU9OVm5CaTNXal9rcUNFOHVWbXdiOTVqc3c2YmJFNFY2VkxCMG9yU0hHWWN4?oc=5",
+      "summary": "Could your business pass an internet outage drill? www.thepost.co.nz",
+      "published_at": "2026-10-19T15:00:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

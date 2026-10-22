@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 11:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:02:21 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag</title>
@@ -32,20 +32,6 @@ Huawei Router X2 Series: Wi-Fi 7+ and 3D-Printable Panels hi-Tech.ua</descriptio
       <pubDate>Wed, 21 Oct 2026 15:36:10 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-21T15:36:10.831496Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-21T14:13:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5</link>
-      <guid isPermaLink="false">38de339d852ad2d88cf06339</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-20 19:31
-devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/</description>
-      <pubDate>Tue, 20 Oct 2026 15:01:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-20T15:01:26.097426Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T10:31:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -120,20 +106,6 @@ TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that o
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5</link>
-      <guid isPermaLink="false">c38fef4a659b51a5c825898d</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-13 21:40
-Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo</description>
-      <pubDate>Thu, 22 Oct 2026 06:05:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-22T06:05:43.865198Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-13T12:40:22Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Turning a Wi-Fi 7 router into a wideband software-defined receiver - Adafruit</title>
       <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZ1dzZVRS1MNVFvQkRaSFhoSmpvRUo1QXRCMEc4ekUtSTBFZEdWeEdLRkE1ODZkal9MeXVPbVV3Z2tDaENaa2ZrWnJWQTI4ZmRnVzdXTnh3ZXFNNUFXbnVvb2tOUlNEYk9xWTI5UHVpUUlsTVZUeFlBWWF1UHZmZldMR2dIMnJKTk96YVAtLWxQSWxaNHdvZl9wRlZRQktxcGVleDFTbw?oc=5</link>
       <guid isPermaLink="false">d9fcbe4a674b2f19bed2b3eb</guid>
@@ -144,6 +116,34 @@ Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit</des
       <pubDate>Thu, 22 Oct 2026 06:05:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-22T06:05:43.865198Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-13T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo</title>
+      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5</link>
+      <guid isPermaLink="false">c38fef4a659b51a5c825898d</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-13 16:00
+Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo</description>
+      <pubDate>Thu, 22 Oct 2026 06:05:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T06:05:43.865198Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-13T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers - Expert Reviews</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPaVlDdVFfWVdkbWR5bk5VeTM5WjJveFJNblFjaVFkYnhLNEZZQ1ZFemwxVHVPSGs5bnY4dUtJek5RM244MFc1ZE9IMWRTRV9uS0xuYWgyU0lBaTdFMjBBVWdELXFGVjJIUWwzT2JBZkxaYUlWOS1ZRlYtckF6ZmtBRENIam1pXzkwNmNFLWdhd1pqMDJqcGdCTUNGYw?oc=5</link>
+      <guid isPermaLink="false">3f30dc1493e712a4e9310a1f</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-12 16:00
+Asus ROG Strix GS-BE7200 review: A lightning-fast router that’s not just great for gamers Expert Reviews</description>
+      <pubDate>Thu, 22 Oct 2026 16:02:21 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T16:02:21.521147Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-12T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
