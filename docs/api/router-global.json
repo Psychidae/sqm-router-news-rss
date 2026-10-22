@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-22T06:05:43.866155Z",
+  "generated_at": "2026-10-22T11:45:46.979212Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -75,22 +75,22 @@
       "score": 13
     },
     {
-      "id": "56ebe675fa77bfc08ee5784d",
-      "title": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! - TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWZpSWZpUUVQS3NmcnVCajBxM1VRTWZEQXQ0bDVpSWtieFB3bUNaUzhLbXhjbWpvRndXTWNaWWZLVHRERG9YYW1JbnkzeGlySW1VNFo5cVZiRjdpazVvQ2hWSVUwWDB2Z0VxVklGWW13aVZmTUxXX1c5ZUhNYmNRVFgxU3NJbzdHRVVzVk44a2poa28xZjZNTG5td1M0Y29HOXRaUlF6QklDekRETmIxa3hlb2dkTm1EdzRPWGlvQjUzUVlvZWpLaUs2TzlIQzdwZWRJX094VkpNY1l5QmxwakJpbw?oc=5",
-      "summary": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! TweakTown",
-      "published_at": "2026-10-19T11:39:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "292d597a36a1ba1abe755875",
       "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
       "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
       "published_at": "2026-10-20T14:00:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "56ebe675fa77bfc08ee5784d",
+      "title": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWZpSWZpUUVQS3NmcnVCajBxM1VRTWZEQXQ0bDVpSWtieFB3bUNaUzhLbXhjbWpvRndXTWNaWWZLVHRERG9YYW1JbnkzeGlySW1VNFo5cVZiRjdpazVvQ2hWSVUwWDB2Z0VxVklGWW13aVZmTUxXX1c5ZUhNYmNRVFgxU3NJbzdHRVVzVk44a2poa28xZjZNTG5td1M0Y29HOXRaUlF6QklDekRETmIxa3hlb2dkTm1EdzRPWGlvQjUzUVlvZWpLaUs2TzlIQzdwZWRJX094VkpNY1l5QmxwakJpbw?oc=5",
+      "summary": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! TweakTown",
+      "published_at": "2026-10-19T11:39:15Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

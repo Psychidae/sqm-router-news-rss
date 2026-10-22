@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:45:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 16年前から存在していた脆弱性が発見され、数億台のWi-Fiルーターが脅威にさらされている。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOck5tSWV1eGtVRUxEZU5ZSGNTUFluR203dTh5aU1MOVN0c3luWUQzMTBmV2ZJRXAzVU9rdGJhSWg3cHZvN0owVmM0TDlseW50blJEdGp4TkE0dXpfQU9BQWFlLXVSTGNoNWpIZkZaWjVqUFVHcThPY3dOUGUzNjRob2tRckJBWkwzeXQwV3ZpYw?oc=5</link>
+      <guid isPermaLink="false">c5eb48481dfc56345de5ad54</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-22 18:22
+16年前から存在していた脆弱性が発見され、数億台のWi-Fiルーターが脅威にさらされている。 Vietnam.vn</description>
+      <pubDate>Thu, 22 Oct 2026 11:45:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T11:45:48.015880Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-22T09:22:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] ブロードコム製Wi-Fiに16年放置の脆弱性、数百万台のルーターが乗っ取り可能に - BigGo ファイナンス</title>
       <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1FYU9qWXlHX01ScHVNTGFRWTl6cS04SXJWV3dQLTRwRW1reWxYVGhNSEV1bkJVUW9ZOUJYbHBONTBOVEdaeWxkbUExVUtCaTBIRnI0X0JrWElVdlpsQlVjS2FzY0J3ZU1KUUljUUE3Tjc3TTJG?oc=5</link>
@@ -18,20 +32,6 @@
       <pubDate>Wed, 21 Oct 2026 15:36:12 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-21T15:36:12.046348Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-21T13:05:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] VPNのセキュリティ監査で初めて、WindscribeはAIを利用したのか？ - Mezha.net</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWEteTd3QmZhaXVNN29VWUZ1N1Bzd1FBMXQ5S3BlTG5DVkZLWmdFUnJqR3RGX1pxcDhyUy14V21zdEp4ZTNPS3hPbldqWTE5cGZFaUQ1R1Jld3dDR2dISEREVFFZV2U1NlFxYjAwbVJ2aXpCQnpoNFhmTWFPbXFtUnlQd3dCMzFhaWozUExEeVk?oc=5</link>
-      <guid isPermaLink="false">a19ee654f7857346544d2ec9</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-21 18:30
-VPNのセキュリティ監査で初めて、WindscribeはAIを利用したのか？ Mezha.net</description>
-      <pubDate>Wed, 21 Oct 2026 19:36:21 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-21T19:36:21.054326Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-21T09:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -50,17 +50,17 @@ Broadcom - A 16-year-old Wi-Fi flaw still has no CVE Korben</description>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution - The Cryptonomist</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBsd2hjTEM5MGZJQ1dTa2tlSzlUaWRXRzdqcVdwVFF3QTJXTjhSdDVyZGRDLVdrVW5mUkJ3MGlhMEF0aEhSSWVaNUFLazZGcGVCWVpVblpUaEhKaHkyb3AtWk8zTEFhLUQ0ajJpQ3ZET0NNUHZQQWlHMXYzSQ?oc=5</link>
-      <guid isPermaLink="false">df42d644b5390c6605c512c6</guid>
+      <title>[セキュリティ] VPNのセキュリティ監査で初めて、WindscribeはAIを利用したのか？ - Mezha.net</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWEteTd3QmZhaXVNN29VWUZ1N1Bzd1FBMXQ5S3BlTG5DVkZLWmdFUnJqR3RGX1pxcDhyUy14V21zdEp4ZTNPS3hPbldqWTE5cGZFaUQ1R1Jld3dDR2dISEREVFFZV2U1NlFxYjAwbVJ2aXpCQnpoNFhmTWFPbXFtUnlQd3dCMzFhaWozUExEeVk?oc=5</link>
+      <guid isPermaLink="false">a19ee654f7857346544d2ec9</guid>
       <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-19 16:56
-Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution The Cryptonomist</description>
-      <pubDate>Mon, 19 Oct 2026 11:14:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T11:14:54.032937Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T07:56:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+ソース: Google News JP: network security
+元記事日付: 2026-10-21 18:30
+VPNのセキュリティ監査で初めて、WindscribeはAIを利用したのか？ Mezha.net</description>
+      <pubDate>Wed, 21 Oct 2026 19:36:21 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-21T19:36:21.054326Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-21T09:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -89,6 +89,20 @@ Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし Korben</description
       <sqm:firstSeenDate>2026-10-20T15:01:27.188695Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T07:51:56Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution - The Cryptonomist</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBsd2hjTEM5MGZJQ1dTa2tlSzlUaWRXRzdqcVdwVFF3QTJXTjhSdDVyZGRDLVdrVW5mUkJ3MGlhMEF0aEhSSWVaNUFLazZGcGVCWVpVblpUaEhKaHkyb3AtWk8zTEFhLUQ0ajJpQ3ZET0NNUHZQQWlHMXYzSQ?oc=5</link>
+      <guid isPermaLink="false">df42d644b5390c6605c512c6</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-19 16:56
+Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution The Cryptonomist</description>
+      <pubDate>Mon, 19 Oct 2026 11:14:54 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-19T11:14:54.032937Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-19T07:56:47Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>
