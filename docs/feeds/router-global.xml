@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:54:06 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag</title>
@@ -60,20 +60,6 @@ Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $1
       <pubDate>Tue, 20 Oct 2026 15:01:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-20T15:01:26.097426Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T10:29:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost - Gagadget.com</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5</link>
-      <guid isPermaLink="false">1020271239c7f80e56bcaf36</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-20 18:52
-Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com</description>
-      <pubDate>Tue, 20 Oct 2026 15:01:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-20T15:01:26.097426Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:52:16Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -134,16 +120,30 @@ W1700K SDR turns a Wi-Fi 7 router into a 320 MSps software-defined radio receive
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5</link>
-      <guid isPermaLink="false">c38fef4a659b51a5c825898d</guid>
+      <title>[海外ルーターニュース] Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ - Technetbook</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkJvSkxFYkVfTGRIWjlDcGl6OVVlOGdXWWtpdzFXeUozb3ByZVd0TmtPWWRBQjd2MEh2dnNsZjBrejVVYUwzQXhLTXFqU3pyODZTUk83TXVYcVJjVHk4YmpPQ1hKQTZPRWhUYXY3QTNVY1dXSWhWUG56OUV5ZHJ5bVZn?oc=5</link>
+      <guid isPermaLink="false">2314edeb46610e42e0c305da</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-10-13 21:40
-Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo</description>
-      <pubDate>Wed, 21 Oct 2026 15:36:10 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-21T15:36:10.831496Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-13T12:40:22Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-22 02:09
+Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ Technetbook</description>
+      <pubDate>Thu, 22 Oct 2026 00:54:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T00:54:06.123963Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-21T17:09:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 - Popular Science</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0E0aXczeGhxcW9tMEZORmpuV1VNQVdmS3hlNTRlZkdLckNzVXFCX2dvZlp6WHdNVEctbEpFRnRncUFLVHhPQWdSUnB4SVRBMTRncVQ2VVRIOS04WUU5d0VIbTN4ZUhrUUJld3liNkpYM0s4R0ZVWUdEODk1RGRJb1FkZnNTUQ?oc=5</link>
+      <guid isPermaLink="false">87c578ae5bbc1bc86b5281ef</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-21 05:23
+Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 Popular Science</description>
+      <pubDate>Thu, 22 Oct 2026 00:54:06 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T00:54:06.123963Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T20:23:42Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
