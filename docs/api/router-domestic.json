@@ -1,35 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-23T01:57:09.194863Z",
+  "generated_at": "2026-10-23T07:26:27.490651Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "a4395712f0d54fc44b52ea2b",
-      "title": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売 - AKIBA PC Hotline!",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ILUdQSkp1VlN2MXRQT2xfZHFkVnh5bVFDZmZCckw4UmtwcHVUZDJYaFhkSlJIU2MtWXhlSmZ6R3F0U2VSdk5zOW5QMjNZR0hpTjBTQ2d1ZXl2TnhneDNqSnlOTTZwOWwxaGh6TU9jSzNUdw?oc=5",
-      "summary": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売 AKIBA PC Hotline!",
-      "published_at": "2026-10-09T07:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 20
-    },
-    {
-      "id": "b4742ddc7f49a5fba4cf48ad",
-      "title": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売 (AKIBA PC Hotline!) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlNUb0RIN21RNlF3TjBuUHVsS0tIaE1zbnhaTUtPN09kZDlRczMtd3dhaDhpSl9LOTdqbkN2ZXZKaGRVMUZ4QTc1ZFNjS0lGb3lCRzhQTDlSVmFqN283eWtkTVFnRThBcEtabHVBSXNsWndmZldadExMSmIzaEtvSlJCdlJmbXk1TW9zVTNB?oc=5",
-      "summary": "ASUSのWi-Fi 7対応ゲーミングルーター「TUF Gaming BE3600」が発売 (AKIBA PC Hotline!) Yahoo!ニュース",
-      "published_at": "2026-10-09T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 20
-    },
     {
       "id": "dad47ff42ce593f77d11fe4f",
       "title": "NECのWi-Fiルーター「Aterm」がAmazonプライム感謝祭に登場！ Wi-Fi 7対応の「AM-7200D8BE」が4万1589円など - INTERNET Watch",
@@ -42,17 +20,6 @@
       "score": 15
     },
     {
-      "id": "5ea05bd1c9e7ba287ec0760f",
-      "title": "(アキバ取材班) ゴールド仕様のASUS ROG20周年記念、Wi-Fi 7ルーター「GT-BE98 Edition 20」発売 - エルミタージュ秋葉原",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ENU0wN2Uyb19xRUt6bkNzeXZmdW52Y3JhOVJEMTVCU05UWHNuYU5sSkRXclgwQ2EyUWpOX19WdXVoa1JhamJPX0U4djRQRUdZUGxEajln?oc=5",
-      "summary": "(アキバ取材班) ゴールド仕様のASUS ROG20周年記念、Wi-Fi 7ルーター「GT-BE98 Edition 20」発売 エルミタージュ秋葉原",
-      "published_at": "2026-10-09T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
-    {
       "id": "57f433bf77b39685abc53d8f",
       "title": "povo、「ConnectIN povo」ラインアップ追加 10GB（1年間）付属のモバイルWi-Fiルーター「+F FS045W」発売 - ケータイ Watch",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81WHYtUWk3dU9YSUpLeDl4VWJoVk1sZTktT2lYMmhfeTdlR0lqOHp1Y3N4UG91RDdORk90VGNrVUhrZjE5TVF0c2R2aWJ4WmFlZHlkYUZYbmo1YU5lbHlvNGJ6SWozMzA?oc=5",
@@ -61,7 +28,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 12
+      "score": 11
     },
     {
       "id": "44e9efee27693ab14d2b1e19",
@@ -95,6 +62,39 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 11
+    },
+    {
+      "id": "f4605a328bd6635f0321e81c",
+      "title": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fVzBRaWpPU1VyVzdQWGszLXUtNTRSYk16SDZnT3lsbEZDQThRYlBncWhSQnUwV0M4S0piU0JkU3NqUHUtSlJoUWRlOFlKMXNwMlhhbzVrUWhBanpwd1hCTEVabDl6aHhC?oc=5",
+      "summary": "プレスリリース：バッファローの法人向けWi-Fiルーターがリコージャパンのネットワークワンストップサービス「NETBegin BBパック Next」に採用（PR TIMES） 毎日新聞",
+      "published_at": "2026-10-15T11:52:52Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "e521d0636572c9847d2c6925",
+      "title": "ASUS製Wi-Fi 7ルーターが1万円台前半からとお買い得！ Amazonプライム感謝祭 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVGpWZmR4em9WeVQ2dzNNb3M2MEpWc0dZMktabmhwZTl2c0NBVGIzODRCMjNvQXJfcUFocndQMTNGYktkVHY0NXJkdDVHb3pwejF5Z1lDdlBwdDMwazRJYWoyLVpENlFjNk4tX0NMNG0?oc=5",
+      "summary": "ASUS製Wi-Fi 7ルーターが1万円台前半からとお買い得！ Amazonプライム感謝祭 INTERNET Watch",
+      "published_at": "2026-10-15T02:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "07e2b15f0f38c8ced9398e33",
+      "title": "見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭 - AKIBA PC Hotline!",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEVWck13YjhJZVZlWTNEOHZiSkkyblNYNFhIcWpfRXA1eTZGZ1MyWURMUDdvbHRxRFJMV0N0alJWRFU2RWZuMDVzVTM0dmFkMzN2b2g4V3JreExrdFBGd1pfcVNSaDlZS05JYkROM2pWbjVHLTBZc1pqZkdpUUVxRw?oc=5",
+      "summary": "見守りカメラやWi-Fi 7ルーターなどTP-Link製品が最大45%オフ！Amazonプライム感謝祭 AKIBA PC Hotline!",
+      "published_at": "2026-10-15T00:30:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
     }
   ]
 }

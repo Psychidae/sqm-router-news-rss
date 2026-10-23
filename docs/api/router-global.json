@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-23T01:57:10.400948Z",
+  "generated_at": "2026-10-23T07:26:28.487993Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,17 +53,6 @@
       "score": 13
     },
     {
-      "id": "1020271239c7f80e56bcaf36",
-      "title": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost - Gagadget.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5",
-      "summary": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com",
-      "published_at": "2026-10-20T09:52:16Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "292d597a36a1ba1abe755875",
       "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
@@ -97,26 +86,37 @@
       "score": 12
     },
     {
-      "id": "d9fcbe4a674b2f19bed2b3eb",
-      "title": "Turning a Wi-Fi 7 router into a wideband software-defined receiver - Adafruit",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZ1dzZVRS1MNVFvQkRaSFhoSmpvRUo1QXRCMEc4ekUtSTBFZEdWeEdLRkE1ODZkal9MeXVPbVV3Z2tDaENaa2ZrWnJWQTI4ZmRnVzdXTnh3ZXFNNUFXbnVvb2tOUlNEYk9xWTI5UHVpUUlsTVZUeFlBWWF1UHZmZldMR2dIMnJKTk96YVAtLWxQSWxaNHdvZl9wRlZRQktxcGVleDFTbw?oc=5",
-      "summary": "Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit",
-      "published_at": "2026-10-13T07:00:00Z",
+      "id": "2314edeb46610e42e0c305da",
+      "title": "Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ - Technetbook",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZkJvSkxFYkVfTGRIWjlDcGl6OVVlOGdXWWtpdzFXeUozb3ByZVd0TmtPWWRBQjd2MEh2dnNsZjBrejVVYUwzQXhLTXFqU3pyODZTUk83TXVYcVJjVHk4YmpPQ1hKQTZPRWhUYXY3QTNVY1dXSWhWUG56OUV5ZHJ5bVZn?oc=5",
+      "summary": "Huawei Router X2 Pro Features Book Style Design and Wi Fi 7+ Technetbook",
+      "published_at": "2026-10-21T17:09:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 8
     },
     {
-      "id": "c38fef4a659b51a5c825898d",
-      "title": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5",
-      "summary": "Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo",
-      "published_at": "2026-10-13T07:00:00Z",
+      "id": "87c578ae5bbc1bc86b5281ef",
+      "title": "Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 - Popular Science",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ0E0aXczeGhxcW9tMEZORmpuV1VNQVdmS3hlNTRlZkdLckNzVXFCX2dvZlp6WHdNVEctbEpFRnRncUFLVHhPQWdSUnB4SVRBMTRncVQ2VVRIOS04WUU5d0VIbTN4ZUhrUUJld3liNkpYM0s4R0ZVWUdEODk1RGRJb1FkZnNTUQ?oc=5",
+      "summary": "Amazon’s TP-Link router deals include a WiFi 7 model for less than $100 Popular Science",
+      "published_at": "2026-10-20T20:23:42Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 8
+    },
+    {
+      "id": "72c281aae22b0c23bc1b0e26",
+      "title": "TP-Link BE10000 Wi-Fi 7 Tri-Band Range Extender discounted to $169.98 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSDlUQXlqazlIZmhicmUyTVdSanJySkltX0l3QWdESlNBNUhNMFdqbk9pcmdDS1BXT0NBcEhTSzVKVFdlTnFPR0Z1TWVPaEpYeUdOZjRDT19PMEZJSnBoZEN6MF9LYjgzSGQxcnpsblFuemtmZ0pYZVNTR1FhNzFGeDUwb1NSRmE5M0VVZy1EdXRrbGZzb1pZcnRLMWZxbTNCNnc?oc=5",
+      "summary": "TP-Link BE10000 Wi-Fi 7 Tri-Band Range Extender discounted to $169.98 Technobezz",
+      "published_at": "2026-10-16T14:19:38Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
     }
   ]
 }
