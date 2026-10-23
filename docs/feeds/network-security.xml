@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 12:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:51:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 16年前から存在していた脆弱性が発見され、数億台のWi-Fiルーターが脅威にさらされている。 - Vietnam.vn</title>
@@ -120,6 +120,20 @@ Broadcom router vulnerability: reported WPS flaw NeoTeo</description>
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り - Pasquale Pillitteri</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t6b3JSd1UzOGpKOGxyeFotZWEyVFdaOUxJNDNpRWZyQ1p5dUN4OXJUaDJ5NzgycXl6OWg3SEhlTTIxRnZtTlJaTlg3NlMxQTZnSWFKS1NYWW5TNHlFZWt1MDdUb1pXLUkxak9aa3F0a3UxZ0V5YV9CWEVhTG53YjZuVzhrNmhIa3I0cXMtUWZSSnlrNEtMUVB5dF8?oc=5</link>
+      <guid isPermaLink="false">e2dae70b760127f891bacc24</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-23 23:58
+WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り Pasquale Pillitteri</description>
+      <pubDate>Fri, 23 Oct 2026 17:51:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-23T17:51:42.499798Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-23T14:58:32Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化 - GIGAZINE</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4yYVpMV2tnOTZCVm55Q01uemF3YVdFT3dRbUFPYkZtYU12RlBCa2FzQ3hhdVZtTEZHZC1pUk14RTRkdGlQNGNvNGNmamFnRTNXekwzekVNNU1qa1Y1dXduTzJWczB1ZVB5ZVZiSnZodzlxVHBNUG5aYlIyZw?oc=5</link>
       <guid isPermaLink="false">e9c0e83bfed7acdf1fbc467f</guid>
@@ -130,20 +144,6 @@ Broadcom router vulnerability: reported WPS flaw NeoTeo</description>
       <pubDate>Fri, 23 Oct 2026 12:51:25 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-23T12:51:25.696444Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-23T04:06:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 悪用されたFortinetの脆弱性、通信事業者への攻撃で展開されたFortiGate用インプラントとの関連が指摘される（CVE-2025-61624） - 株式会社マキナレコード</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnNhdjRTZ1VPeWZYdEdOLW1FZHU1cVpEOFVYZU9sY1hRb0xuTzUxbHJDS3hwancxRDhpQWVuLXROSlExdjlrckdqWGRBb0U5WFpKd0Z5eFZ2Nm5vTVc4NWxKR2Z0eXd4MnVtZkhDWnFvRkVmd2VpOGYwbTFtbG1QVzZ0ejc?oc=5</link>
-      <guid isPermaLink="false">c7ec5be0516623ccc3f11c86</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-20 14:20
-悪用されたFortinetの脆弱性、通信事業者への攻撃で展開されたFortiGate用インプラントとの関連が指摘される（CVE-2025-61624） 株式会社マキナレコード</description>
-      <pubDate>Wed, 21 Oct 2026 05:18:29 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-21T05:18:29.267885Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T05:20:44Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

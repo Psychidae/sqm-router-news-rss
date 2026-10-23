@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-23T12:51:24.433193Z",
+  "generated_at": "2026-10-23T17:51:41.397247Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,26 +20,15 @@
       "score": 17
     },
     {
-      "id": "41d8d78a0f74b4a5523f878b",
-      "title": "Huawei Router X2 Series: Wi-Fi 7+ and 3D-Printable Panels - hi-Tech.ua",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXRLd3B5X1lRandJdURsY0ZkZnphVlp6MzFZNWxkSlR5cGJObFVyMmJBb0gyMGtfZlBneUp5ODk3ZDdkaVBPSUdOODJEMV9lbVVPbW5OdW45UHBHVUY2Y0RscjVWQ1VWZUc0S1RCZ2ZFZVZUeXFoUzJsQVNoZUdwVktsaUo?oc=5",
-      "summary": "Huawei Router X2 Series: Wi-Fi 7+ and 3D-Printable Panels hi-Tech.ua",
-      "published_at": "2026-10-21T14:13:11Z",
+      "id": "fb8c73e31095fda8f3827e62",
+      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
+      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
+      "published_at": "2026-10-23T15:07:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "292d597a36a1ba1abe755875",
-      "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
-      "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
-      "published_at": "2026-10-20T14:00:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 14
     },
     {
       "id": "38de339d852ad2d88cf06339",
@@ -95,6 +84,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "292d597a36a1ba1abe755875",
+      "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
+      "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
+      "published_at": "2026-10-20T14:00:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     },
     {
       "id": "d9fcbe4a674b2f19bed2b3eb",
