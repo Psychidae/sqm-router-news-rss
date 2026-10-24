@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-24T13:17:45.964319Z",
+  "generated_at": "2026-10-24T16:57:04.933466Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-20T12:21:02Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 22
+    },
     {
       "id": "d65c92fcf17fa498f7f9ea4a",
       "title": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability - TechPowerUp",
@@ -28,18 +39,29 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "fb8c73e31095fda8f3827e62",
-      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
-      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
-      "published_at": "2026-10-23T15:07:28Z",
+      "id": "786f198bcf58f2c47d510181",
+      "title": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5",
+      "summary": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK",
+      "published_at": "2026-10-12T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 16
+    },
+    {
+      "id": "c5d16054feb27a15b81d92cf",
+      "title": "Asus releases urgent router firmware to fix critical security flaws - news.lavx.hu",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTc5MkFka3k5YnluY0VlV3cxV2dwcXFBNDZGTXZadHBrN2w5UUpXcDlWM0dMTlpBMnJnZVVDOHJkMjRfLURyd09XSTBodWxwUnd0OWRTcmw5SmRhSl9IMnF5UnBOdnE1dlRFb2hHN29lTHpRT2c3S0UzVzMwdTJDcVJxajVIOGFvRW1fNjVuSlpDT19YLVBPNUczQnA?oc=5",
+      "summary": "Asus releases urgent router firmware to fix critical security flaws news.lavx.hu",
+      "published_at": "2026-10-24T12:17:11Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "6b91c5bc56ec5e927357386f",
@@ -49,6 +71,17 @@
       "published_at": "2026-10-24T11:15:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "fb8c73e31095fda8f3827e62",
+      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
+      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
+      "published_at": "2026-10-23T15:07:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
     },
@@ -64,11 +97,11 @@
       "score": 12
     },
     {
-      "id": "127f38229d78f07c0d6914fc",
-      "title": "Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNa19rZHFwUHFMSF9Nb2Q2ZnhrUXJiVWoya3FHN0dLM1FISG5JdC1JR1cxOEozaUdSQzUtNHhFVjhpX2dLbVRyUEQzQTFYVWNoS1UzQzB6WjQ1MlNNWUlTWENYdDhMSzlfbDRhYWdMbDZUcUF6cWtxNkpPMkh0UXpaUExMYl8zV0FFWTA4UGNkeU9OS0Z1QXNxQ2FCNVJrWUJ2bVFIU2N0STBWYUcwaFJaUDlQbXVRXzV3UDd1TEFydW9HV1JuckVxSlVKbHR0bklGaVVwNHhfLUJmaDN4czdFRWIwTWdxWS1fM0RMNjRYN3A3MEx2emdPWnByWjZGNjZnZHhuV0dJWkpHM1BURnJsNWZ4Y1UxdWxSbFk5TnlqMjRXOGo4clN2TmViZXFCdnZuYkVBNWM5RGkwQzhVeUVQV1o2VWhhRERMMlRfRmxaWWtGWnJ1MllhNmtWQQ?oc=5",
-      "summary": "Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network Tom's...",
-      "published_at": "2026-10-20T10:29:58Z",
+      "id": "1020271239c7f80e56bcaf36",
+      "title": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost - Gagadget.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5",
+      "summary": "Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com",
+      "published_at": "2026-10-20T09:52:16Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -84,39 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "56ebe675fa77bfc08ee5784d",
-      "title": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! - TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVWZpSWZpUUVQS3NmcnVCajBxM1VRTWZEQXQ0bDVpSWtieFB3bUNaUzhLbXhjbWpvRndXTWNaWWZLVHRERG9YYW1JbnkzeGlySW1VNFo5cVZiRjdpazVvQ2hWSVUwWDB2Z0VxVklGWW13aVZmTUxXX1c5ZUhNYmNRVFgxU3NJbzdHRVVzVk44a2poa28xZjZNTG5td1M0Y29HOXRaUlF6QklDekRETmIxa3hlb2dkTm1EdzRPWGlvQjUzUVlvZWpLaUs2TzlIQzdwZWRJX094VkpNY1l5QmxwakJpbw?oc=5",
-      "summary": "TP-link's Wi-Fi 7 router is just $79 at Amazon for a limited time - ditch that old clunker router! TweakTown",
-      "published_at": "2026-10-19T11:39:15Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "292d597a36a1ba1abe755875",
-      "title": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes - XDA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT1VwbW9LN1hUWkhKc2ZqNWxablVfVzU3MnZzcUpmYXZtTjNjOWl2bHk2aG9rSkgxVWkxdWlIMnhwRDV3Nk1vYXpVcVpQV2hHWmRxeFF6aEktZHVlOWNHb3Z6RWxYUjIydXVsZ0Z3SXZJQzVQVm90YmlEUjNhU3NlQkhmdWd1U1pMN1Z5XzRR?oc=5",
-      "summary": "Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 routers for most homes XDA",
-      "published_at": "2026-10-20T14:00:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "7dfb058eecf77ddbd8a076be",
-      "title": "Apple class action alleges false Wi-Fi 7 advertising for iPhone 17 and 18 - Claim Depot",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSE5aa2JNTFZoMFVwR1hXNEFpLXJOckJqYnZ0Nng1MVFqVWJYS2tfdFBmOHE0eU0tWWFBWEFCMHBHdTFocEpsWno3a3l2blR5N2VhLVBybDZrZXNlR3UyWi01Rlh6Um5LVnB3SWJWZU01UHdpclNyUEtxaUZtQTFNa0R2V284SC11TnU0ODlNSzVJM1lHcTl4WWhNdHVSQk1NaWZFYTM2V19NWlVYWGlYOUNqa0k4Zw?oc=5",
-      "summary": "Apple class action alleges false Wi-Fi 7 advertising for iPhone 17 and 18 Claim Depot",
-      "published_at": "2026-10-23T15:55:17Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     }
   ]
 }
