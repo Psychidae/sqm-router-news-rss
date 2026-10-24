@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 04:30:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:06:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
+    <item>
+      <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5</link>
+      <guid isPermaLink="false">39de90d6315cfd4b1b74d81e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-20 21:21
+Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware</description>
+      <pubDate>Sat, 24 Oct 2026 09:06:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-24T09:06:41.331397Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T12:21:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag</title>
       <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5</link>
@@ -130,20 +144,6 @@ Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 router
       <pubDate>Tue, 20 Oct 2026 15:01:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-20T15:01:26.097426Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T14:00:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Turning a Wi-Fi 7 router into a wideband software-defined receiver - Adafruit</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxPamZ1dzZVRS1MNVFvQkRaSFhoSmpvRUo1QXRCMEc4ekUtSTBFZEdWeEdLRkE1ODZkal9MeXVPbVV3Z2tDaENaa2ZrWnJWQTI4ZmRnVzdXTnh3ZXFNNUFXbnVvb2tOUlNEYk9xWTI5UHVpUUlsTVZUeFlBWWF1UHZmZldMR2dIMnJKTk96YVAtLWxQSWxaNHdvZl9wRlZRQktxcGVleDFTbw?oc=5</link>
-      <guid isPermaLink="false">d9fcbe4a674b2f19bed2b3eb</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-13 16:00
-Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit</description>
-      <pubDate>Fri, 23 Oct 2026 12:51:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-23T12:51:24.432196Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-13T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
