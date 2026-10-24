@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 00:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 04:30:56 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag</title>
@@ -18,6 +18,20 @@ TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Intern
       <pubDate>Sat, 17 Oct 2026 19:21:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-17T19:21:20.636322Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-17T16:01:16Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5</link>
+      <guid isPermaLink="false">786f198bcf58f2c47d510181</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-12 16:00
+Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK</description>
+      <pubDate>Sat, 24 Oct 2026 04:30:56 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-24T04:30:56.276132Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-12T07:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -127,20 +141,6 @@ Used Wi-Fi 6 routers are still a better home networking deal than Wi-Fi 7 router
 ソース: Google News Global: home networking
 元記事日付: 2026-10-13 16:00
 Turning a Wi-Fi 7 router into a wideband software-defined receiver Adafruit</description>
-      <pubDate>Fri, 23 Oct 2026 12:51:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-23T12:51:24.432196Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-13T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price - Gizmodo</title>
-      <link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDg4Zlg5WHZLeGNveHNOUEQ0Y2hYMDc5MUtuR1d0bnVMdExSZGdERDY2OHFvTkRDMF9vU2dtdmxOd3dxZkQ1SHRfZ2pwYV9MYnpoclVKNHVvajQ1MnFpdnFIa1hBUW8xWks3UUc5a29Cd3pHeXBkLXpWMUItUzlqb1YzTDlxWmpJdVZqVERPLVdFQ2x5anpDZWp1MHViV0hGcmZLSFB5eXVfX1FONUIyVWd4b3JwSTZqWXZ4N2JmTUpYTW1VVEpTNQ?oc=5</link>
-      <guid isPermaLink="false">c38fef4a659b51a5c825898d</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-13 16:00
-Amazon Goes Big on Its Wi-Fi 7 Router Deal, Dropping the TP-Link BE3600 to a Near Zero-Margin Price Gizmodo</description>
       <pubDate>Fri, 23 Oct 2026 12:51:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-23T12:51:24.432196Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-13T07:00:00Z</sqm:sourcePublishedDate>
