@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:00:45 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ (窓の杜) - Yahoo!ニュース</title>
@@ -36,20 +36,6 @@ Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ - 窓の杜</title>
-      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1VRk1QZG1EWnV2RjIyeDUwVUxaMmxXakJwVk45RV9DUGtaVEtYdm94RUo1VXk2Y0R4eHA0RVF6NG5ZUmVYTkExcXdDU3lEaE9ydExsQjlLeU1NQ3ZGVEJhbm9nTDRzMmJBTnJ1cmlWRjY3eTFBQzZj?oc=5</link>
-      <guid isPermaLink="false">77759ee4968ce5c71ca5baf2</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-23 06:45
-Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ 窓の杜</description>
-      <pubDate>Thu, 22 Oct 2026 23:20:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-22T23:20:12.204227Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-22T21:45:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] France's Orange network hit by phone and internet outage - The Local France</title>
       <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzBuZUxkOHowbDVoNGVGWERGN2NWbVpHVmVxeUQ3SFJIWUVjM1g2Zm5lRWp6VGxBRkNfNHRwS0pHdVZZbTYzaUkyM0gwSjNlUGpfRG41bzV4a05NOUEwcnFDZGFWRmk2eEJJMS14ZElieTJHZ25na2NwUE5sdDFqRmhZYW1kZ2ZEdXhXT0IzRV9DZw?oc=5</link>
       <guid isPermaLink="false">2c0cef278f4cd29830f6cd23</guid>
@@ -61,6 +47,20 @@ France's Orange network hit by phone and internet outage The Local France</descr
       <sqm:firstSeenDate>2026-10-21T15:36:13.219434Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-21T12:51:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ - 窓の杜</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1VRk1QZG1EWnV2RjIyeDUwVUxaMmxXakJwVk45RV9DUGtaVEtYdm94RUo1VXk2Y0R4eHA0RVF6NG5ZUmVYTkExcXdDU3lEaE9ydExsQjlLeU1NQ3ZGVEJhbm9nTDRzMmJBTnJ1cmlWRjY3eTFBQzZj?oc=5</link>
+      <guid isPermaLink="false">77759ee4968ce5c71ca5baf2</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-23 06:45
+Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ 窓の杜</description>
+      <pubDate>Thu, 22 Oct 2026 23:20:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-22T23:20:12.204227Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-22T21:45:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -92,17 +92,31 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] 2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - アットプレス</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVU84ekJ4eXRpVV9WS01LeVdEMDRGZHpkSWQtQzhOUk1IZHk3b2ZSYWdhVHlIbTQ5dGwzMDIzdmdfYS1XMzljSHpRdVFiajA?oc=5</link>
-      <guid isPermaLink="false">44672d534cc7b73c85bcd351</guid>
+      <title>[性能・障害] 2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - Newscast.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BQnl4dkZwdzVrN1c3cWs3SnVqYmVXX0piTGNLb2g0eDllLW0ybWVsOW04Q0lCLUdlOEhYblFfeDZaQVVYTXk1b0UtdWNybGc?oc=5</link>
+      <guid isPermaLink="false">5f30f3f342aa5c3dd3185721</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-10-21 11:30
-2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 アットプレス</description>
-      <pubDate>Thu, 22 Oct 2026 23:20:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-22T23:20:12.204227Z</sqm:firstSeenDate>
+2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 Newscast.jp</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-24T00:00:45.249109Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-21T02:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] BCCS updates communication practices following internet outage, school closure - hometownsource.com</title>
+      <link>https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5</link>
+      <guid isPermaLink="false">aba4fc00e227792d5138fa5e</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-21 07:53
+BCCS updates communication practices following internet outage, school closure hometownsource.com</description>
+      <pubDate>Sat, 24 Oct 2026 00:00:45 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-24T00:00:45.249109Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T22:53:07Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ What is Google Cloud? Everything we know amid major internet outage The Independ
       <pubDate>Tue, 20 Oct 2026 15:01:28 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-20T15:01:28.249696Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T09:52:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Huge internet outage takes down many of the biggest websites - AOL.com</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVncjhzaDNVNW5hSnIwa2NDY3pTSkpDYUR6RzhTZ2FXQWZIRUdwVlBzN0FWYlpvRGYxTmY3Rm9kZ1NfRVQ0U292NkgzdkFVam96am03SjJ3QmlCdUxRUDdQMHB1b3hJUFdPbkNUbTYtQ1ItTzRqUnRZOHg0aWJkUmY2WQ?oc=5</link>
-      <guid isPermaLink="false">611d086953a5628393184d7c</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-20 18:17
-Huge internet outage takes down many of the biggest websites AOL.com</description>
-      <pubDate>Thu, 22 Oct 2026 00:54:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-22T00:54:08.448807Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:17:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
