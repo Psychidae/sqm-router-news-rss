@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-25T10:07:58.338762Z",
+  "generated_at": "2026-10-25T14:20:35.145459Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -64,17 +64,6 @@
       "score": 7
     },
     {
-      "id": "a4ee1d0b5a3ed021f71fe6a9",
-      "title": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 - ThinkIT",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Bcld4N19ZemZrS2wxeGFHRVB1emNiNTVaZVRCMzFEcFpQNlFKSkRxczJIWHN2ZGxJOWtkUkNIdGhvd251Z0NqcG4wZw?oc=5",
-      "summary": "KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行した苦労を解説するセッションを紹介 ThinkIT",
-      "published_at": "2026-10-22T10:42:06Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "aba4fc00e227792d5138fa5e",
       "title": "BCCS updates communication practices following internet outage, school closure - hometownsource.com",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVncjhzaDNVNW5hSnIwa2NDY3pTSkpDYUR6RzhTZ2FXQWZIRUdwVlBzN0FWYlpvRGYxTmY3Rm9kZ1NfRVQ0U292NkgzdkFVam96am03SjJ3QmlCdUxRUDdQMHB1b3hJUFdPbkNUbTYtQ1ItTzRqUnRZOHg0aWJkUmY2WQ?oc=5",
       "summary": "Huge internet outage takes down many of the biggest websites AOL.com",
       "published_at": "2026-10-20T09:17:05Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "c5d39b32515cc0e002b014c3",
+      "title": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdzLTVnT3ZFYzl5TUd2TVZKVmVZeURWTmJCNnlHVEkyOVdzbWFCdTlkbms5QndPa2ktc2lEU0x6Z3Bkcm5xc3JtOUF2UHM4cTV1UDhaWW9nNTAxYWpUOTJqaTRhcUpzS0hSZ1ZkZUJmWFhPbzFadUlFLXBzczUwd1FqUFlNem1SaXNCNW9Rd184SlBVeXQtSkQwX2dfSzls?oc=5",
+      "summary": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more The Independent",
+      "published_at": "2026-10-20T09:14:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
