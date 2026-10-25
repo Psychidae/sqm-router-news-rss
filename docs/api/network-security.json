@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-25T17:50:59.911234Z",
+  "generated_at": "2026-10-25T20:47:06.682580Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -97,22 +97,22 @@
       "score": 11
     },
     {
-      "id": "5628b6aee2597603411a4c3c",
-      "title": "【 バッファロー 】wifiルーターSSIDとパスワードの変更方法。初期設定セキュリティ Nhl Score (WF46ZRCW7c) - Unisba Media",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yMXozb1A0MVJ2OTYyOXdGVTJrTzVrSkxwZmJiSVFEeHdnM3ZDb3VyQ0NSTFJBWW41UDE3dGJwX2N3NlVXejAwQ2dnSFpORmNZbHd4QWd6Z2QtU2ZMT3RwZ0hXdndSVWx1cmRj?oc=5",
-      "summary": "【 バッファロー 】wifiルーターSSIDとパスワードの変更方法。初期設定セキュリティ Nhl Score (WF46ZRCW7c) Unisba Media",
-      "published_at": "2026-10-25T12:36:40Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
       "id": "e2dae70b760127f891bacc24",
       "title": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り - Pasquale Pillitteri",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t6b3JSd1UzOGpKOGxyeFotZWEyVFdaOUxJNDNpRWZyQ1p5dUN4OXJUaDJ5NzgycXl6OWg3SEhlTTIxRnZtTlJaTlg3NlMxQTZnSWFKS1NYWW5TNHlFZWt1MDdUb1pXLUkxak9aa3F0a3UxZ0V5YV9CWEVhTG53YjZuVzhrNmhIa3I0cXMtUWZSSnlrNEtMUVB5dF8?oc=5",
       "summary": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り Pasquale Pillitteri",
       "published_at": "2026-10-23T14:58:32Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 7
+    },
+    {
+      "id": "e9c0e83bfed7acdf1fbc467f",
+      "title": "「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yYVpMV2tnOTZCVm55Q01uemF3YVdFT3dRbUFPYkZtYU12RlBCa2FzQ3hhdVZtTEZHZC1pUk14RTRkdGlQNGNvNGNmamFnRTNXekwzekVNNU1qa1Y1dXduTzJWczB1ZVB5ZVZiSnZodzlxVHBNUG5aYlIyZw?oc=5",
+      "summary": "「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化 GIGAZINE",
+      "published_at": "2026-10-23T04:06:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
