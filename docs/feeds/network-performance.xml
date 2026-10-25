@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 21:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:19:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 - Vietnam.vn</title>
@@ -106,16 +106,16 @@ KubeCon North America 2025、TikTokがネットワークをCilium/IPv6に移行�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] BCCS updates communication practices following internet outage, school closure - hometownsource.com</title>
-      <link>https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5</link>
-      <guid isPermaLink="false">aba4fc00e227792d5138fa5e</guid>
+      <title>[性能・障害] Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - cedarnews.net</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRPR3FHTnNKbE1lR0p3M1pwbmJkV0tPdnIxV0FsdUdXQWtmZDRCbENlSHdQYjhPWjhEQlVLQjJrek5jMWkwNmdWRVphZW5NdENmZGxOakRCUDczTDFaZ0luS3FFUXRFQ1htck80QWRYdU1iMXhDN2JONmdqbG1IZGtld0dNV0ZXTDE2Y0NydzNJaHpSRENlSA?oc=5</link>
+      <guid isPermaLink="false">4909312e84141149dccec9e7</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-21 07:53
-BCCS updates communication practices following internet outage, school closure hometownsource.com</description>
-      <pubDate>Sat, 24 Oct 2026 00:00:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-24T00:00:45.249109Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T22:53:07Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-21 02:17
+Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England cedarnews.net</description>
+      <pubDate>Sun, 25 Oct 2026 00:19:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-25T00:19:00.418650Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T17:17:50Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -134,16 +134,16 @@ Northern Ireland dodges worst of Google internet outage chaos, as banks and cour
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] What is Google Cloud? Everything we know amid major internet outage - The Independent</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5</link>
-      <guid isPermaLink="false">ebf7d3cac44d455bce051d00</guid>
+      <title>[性能・障害] Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut - Express and Star</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHFRU1RIMjNuQnUyNnNpdERQc0FSOHJXRzhFQlpva3pqZDNDT2k5dmoyc1RrN1kyR1Y2VzRlVzhJd21PMFJnTDdRSkZFcjBBRWludzVDN3JVWmI5cnR5RWhUcDJuMUJvV1FhNnptZzNlNl90LThFQWwtOUF1d0hZNktCQ1ZLemRnb0k5b3pURUYxTVN0MWpDejZvRkVjQXVRRWNFMDJXbktiNDhVSEw1Q0ZRN2RpbUthd0w5QzVTdXdIR1AzUXFhcTVn?oc=5</link>
+      <guid isPermaLink="false">44cf8bbbe06ef63318e7360d</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-20 18:52
-What is Google Cloud? Everything we know amid major internet outage The Independent</description>
-      <pubDate>Tue, 20 Oct 2026 15:01:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-20T15:01:28.249696Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:52:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-20 18:57
+Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut Express and Star</description>
+      <pubDate>Sun, 25 Oct 2026 00:19:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-25T00:19:00.418650Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:57:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
