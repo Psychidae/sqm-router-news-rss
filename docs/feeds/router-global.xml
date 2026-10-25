@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:47:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:49:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
@@ -19,6 +19,20 @@ Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router dea
       <sqm:firstSeenDate>2026-10-25T10:07:56.218102Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T12:21:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5</link>
+      <guid isPermaLink="false">a9a2917671fb20fcef3fbbdd</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-10-25 01:16
+Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider</description>
+      <pubDate>Sun, 25 Oct 2026 22:49:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-25T22:49:12.073088Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-24T16:16:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -78,6 +92,34 @@ Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Asus releases urgent router firmware to fix critical security flaws - news.lavx.hu</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTc5MkFka3k5YnluY0VlV3cxV2dwcXFBNDZGTXZadHBrN2w5UUpXcDlWM0dMTlpBMnJnZVVDOHJkMjRfLURyd09XSTBodWxwUnd0OWRTcmw5SmRhSl9IMnF5UnBOdnE1dlRFb2hHN29lTHpRT2c3S0UzVzMwdTJDcVJxajVIOGFvRW1fNjVuSlpDT19YLVBPNUczQnA?oc=5</link>
+      <guid isPermaLink="false">c5d16054feb27a15b81d92cf</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-10-24 21:17
+Asus releases urgent router firmware to fix critical security flaws news.lavx.hu</description>
+      <pubDate>Sun, 25 Oct 2026 22:49:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-25T22:49:12.073088Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-24T12:17:11Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Asus issues urgent router firmware update for three security flaws - Mezha.net</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxONjlXRGFmME16eDN5Y1NidzRtWGM2eklfYTh6QXF6ZGxWRnhCVTRYWjJ6NGFjdThmYnJwZTd2RzdkdlI4eHZLeG5sV0o3a2ZFcnUtTUEzQkFya3lQMTJXNWVZR0ZiSng5aXpvNkJJVTRHbXc0bFBDVHJvSTlUQWhlb1I3bw?oc=5</link>
+      <guid isPermaLink="false">a620d7e4a020d63422e51a95</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-10-24 20:39
+Asus issues urgent router firmware update for three security flaws Mezha.net</description>
+      <pubDate>Sun, 25 Oct 2026 22:49:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-25T22:49:12.073088Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-24T11:39:28Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Asus rushes out router firmware update to fix critical vulnerabilities - Notebookcheck</title>
       <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxPczlraHlxdWhNYXY2MkNNRGhMc0R6UXptM3JlNzBxem5FbEZHS21rdU91SGlvcFRVQXpBcGdXc0ttMFFRSE80cXZrMmJtZF9HYlhNSFQ5cldocnVSS0plU1dYY1pwOEVtWTltY3NySC1xVGh4aFZHMGpfTmxwREd6WWhvV1dQNUpYbC1fc2RjMDBVcmJ5SERSQXFpcy1NcnBaQkhUQ1QzU000Vlo1OW45QlliellBZw?oc=5</link>
       <guid isPermaLink="false">6b91c5bc56ec5e927357386f</guid>
@@ -102,48 +144,6 @@ devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.o
       <pubDate>Thu, 22 Oct 2026 23:20:09 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-22T23:20:09.901004Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T10:31:05Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMi2wJBVV95cUxNa19rZHFwUHFMSF9Nb2Q2ZnhrUXJiVWoya3FHN0dLM1FISG5JdC1JR1cxOEozaUdSQzUtNHhFVjhpX2dLbVRyUEQzQTFYVWNoS1UzQzB6WjQ1MlNNWUlTWENYdDhMSzlfbDRhYWdMbDZUcUF6cWtxNkpPMkh0UXpaUExMYl8zV0FFWTA4UGNkeU9OS0Z1QXNxQ2FCNVJrWUJ2bVFIU2N0STBWYUcwaFJaUDlQbXVRXzV3UDd1TEFydW9HV1JuckVxSlVKbHR0bklGaVVwNHhfLUJmaDN4czdFRWIwTWdxWS1fM0RMNjRYN3A3MEx2emdPWnByWjZGNjZnZHhuV0dJWkpHM1BURnJsNWZ4Y1UxdWxSbFk5TnlqMjRXOGo4clN2TmViZXFCdnZuYkVBNWM5RGkwQzhVeUVQV1o2VWhhRERMMlRfRmxaWWtGWnJ1MllhNmtWQQ?oc=5</link>
-      <guid isPermaLink="false">127f38229d78f07c0d6914fc</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-20 19:29
-Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network Tom's...</description>
-      <pubDate>Sun, 25 Oct 2026 20:47:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T20:47:05.386631Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T10:29:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost - Gagadget.com</title>
-      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3JMSl8yTzBVYktaTkZIZkRSQVUxdWxhWk10NTRsVlVialhmeXZ6OVBEdzd3SGE3SE03cTNQVUMzZnJYdnBJTjlCTDZ4LUtyU3R4Q0pmTE9oZFZhbHNfLXhUWWlOME9VUVQydEZQWF9yM2p5QVZsRml6VVJpY1JRaEktaHdHOUxrYnc5b2l6NElEc2pYZHE4RWFIV3d1M3FpREY2YndtTW81SHJqR19IcjU2Nk9WQlYySzczN05MNEM1c1nSAcgBQVVfeXFMUHJEeHF0VFVmbWtydXVNR1lzYXJzUFFwSVVUaUlDRmpzb1ltWGxxdkI5dTVNdkhNNHQzWVJuZjltdDNBOEJaMG9PRkw0LVJfWFdUcXN5VVkxRkgxNVRSRlZ1czQyWldBQlR6QUI4LWVjQXNkbnJTbWFPRUdlMGV0UVVybXNHM0E4c3FjNFYxcUdSeTJjeTkxZXRZNXlCdVJoM3BuZUFGam5TZUQyeEJXQVBvRXJtb1JJMG45S2w5SzgtSl92RHdZemQ?oc=5</link>
-      <guid isPermaLink="false">1020271239c7f80e56bcaf36</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-20 18:52
-Huawei's New Router X2 Pro: Customize with 3D-Printed Panels and Experience Wi-Fi 7+ Speed Boost Gagadget.com</description>
-      <pubDate>Sun, 25 Oct 2026 20:47:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T20:47:05.386631Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:52:16Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5</link>
-      <guid isPermaLink="false">fbb38dc973b317394ec00e48</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-20 07:30
-Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget</description>
-      <pubDate>Sun, 25 Oct 2026 20:47:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T20:47:05.386631Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T22:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
