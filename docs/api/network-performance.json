@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-26T12:54:06.445017Z",
+  "generated_at": "2026-10-26T19:14:50.669744Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 10,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -42,61 +42,6 @@
       "score": 7
     },
     {
-      "id": "aba4fc00e227792d5138fa5e",
-      "title": "BCCS updates communication practices following internet outage, school closure - hometownsource.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5",
-      "summary": "BCCS updates communication practices following internet outage, school closure hometownsource.com",
-      "published_at": "2026-10-20T22:53:07Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "ebf7d3cac44d455bce051d00",
-      "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
-      "summary": "What is Google Cloud? Everything we know amid major internet outage The Independent",
-      "published_at": "2026-10-20T09:52:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "611d086953a5628393184d7c",
-      "title": "Huge internet outage takes down many of the biggest websites - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVncjhzaDNVNW5hSnIwa2NDY3pTSkpDYUR6RzhTZ2FXQWZIRUdwVlBzN0FWYlpvRGYxTmY3Rm9kZ1NfRVQ0U292NkgzdkFVam96am03SjJ3QmlCdUxRUDdQMHB1b3hJUFdPbkNUbTYtQ1ItTzRqUnRZOHg0aWJkUmY2WQ?oc=5",
-      "summary": "Huge internet outage takes down many of the biggest websites AOL.com",
-      "published_at": "2026-10-20T09:17:05Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "5f6b803132dcfb0aa3bfd42b",
-      "title": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamxzNkN6LS1Sc3BiZHpqdzI1Sl9PVlNWNjdtdU42TlRNb09ZaktuZmtWclNtcjE5ZTA5Qlo0Y2p4clVjRHdUcl90VmEteS0tMzZSTXpwMkJBMUpkUWw5QU1faDdNS1puRENsNkg4aFJJaXU4Y1NncXNieWpzYkctdllucnU4ZXU1Q2o4M2N4YlFHWGpNdDFUejEwZkRaU1Q5UWFVbnN4RVhBVkZXYi1GQldFZUt2YVp3N0xTeTBtNkhtUQ?oc=5",
-      "summary": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN",
-      "published_at": "2026-10-19T17:50:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "634eaa77ef8c00f8b0fbca79",
-      "title": "Large internet outage affects Bella Vista customers - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVdMLXd4STV3LWFwWVBmU3FIZ0RnekVabElHcDhJRGl6eXg0RG5Ub05nb3hUTm1tLUVrblZoVUFLdjFPaXhMbDlIalBTaVAtVVd4VVhoUW1leDhtNVFNc0FLT2syQWVnTGswamFhWjVPeTdPQzNkcE5OZ280ZUlFcFEwdWt0UQ?oc=5",
-      "summary": "Large internet outage affects Bella Vista customers AOL.com",
-      "published_at": "2026-10-19T16:21:46Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "14de0ae3850f5713cdbba38b",
       "title": "Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ (窓の杜) - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzhxQ2Y4THRRdkd4NVFjTlZDUTctYlpNdmRUWjhscUl4OVJzRTB5VkRWT1l6VmFmNk51RGhDWjlabkVzUjFhN3UzUWxwaWNYTXhfeTV2cTBwZTZ0SWZidzZPQkJoRERfUlp0RGQ2ajNvblg3THZwSHA4TEJFZGNLeVdvSk5xUVo1OUlCZTln?oc=5",
@@ -113,6 +58,39 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNmRPbUNkYTc0NXd3aV9EZ3ptb2pBTkN0RmlxazRTZ3o3WGd0T3dLVGlkeC1YTmVUSFI3WFVEV0VkRVlyZnA4SmNhZ3FrdTBWU2NHU0kyTnNQTDVmN20wVk4zZ193T1k4amx4cGYxbl9TYlljaFZEVg?oc=5",
       "summary": "ラポルテ五泉のインターネット通信障害について 五泉市",
       "published_at": "2026-10-23T07:20:21Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "77759ee4968ce5c71ca5baf2",
+      "title": "Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VRk1QZG1EWnV2RjIyeDUwVUxaMmxXakJwVk45RV9DUGtaVEtYdm94RUo1VXk2Y0R4eHA0RVF6NG5ZUmVYTkExcXdDU3lEaE9ydExsQjlLeU1NQ3ZGVEJhbm9nTDRzMmJBTnJ1cmlWRjY3eTFBQzZj?oc=5",
+      "summary": "Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ 窓の杜",
+      "published_at": "2026-10-22T21:45:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "5c651950f29cf4b078b5ddbe",
+      "title": "党組織のデジタルインフラの近代化にIPv6を適用する。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbDZDTG5WSTFGd1NxRG5kZUdkaUk4TTNYSG1VYi1PTXNOQlMzRmktc2Y1OWFlaWI3Z3BFbUdFSWpaZi05ckhMVDMweklXNFlKZ01xNEFjTURxQzFiMUFmbHhvS25DM1RZRnJTdzIxRktiS25aNEZOcmExR3I2RnBWRTNuTVF3a2twZHE2dg?oc=5",
+      "summary": "党組織のデジタルインフラの近代化にIPv6を適用する。 Vietnam.vn",
+      "published_at": "2026-10-22T07:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 6
+    },
+    {
+      "id": "44672d534cc7b73c85bcd351",
+      "title": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mVU84ekJ4eXRpVV9WS01LeVdEMDRGZHpkSWQtQzhOUk1IZHk3b2ZSYWdhVHlIbTQ5dGwzMDIzdmdfYS1XMzljSHpRdVFiajA?oc=5",
+      "summary": "2035年に向け、低遅延接続がグローバルネットワークに革命をもたらす中、LEO衛星バックホール市場は爆発的な成長を遂げる見通しです。 アットプレス",
+      "published_at": "2026-10-21T02:30:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",

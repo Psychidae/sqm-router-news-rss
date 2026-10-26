@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-26T12:54:03.877645Z",
+  "generated_at": "2026-10-26T19:14:48.778111Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -57,22 +57,11 @@
       "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5",
       "summary": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag",
-      "published_at": "2026-10-17T16:01:16Z",
+      "published_at": "2026-10-17T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 16
-    },
-    {
-      "id": "fb8c73e31095fda8f3827e62",
-      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
-      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
-      "published_at": "2026-10-23T15:07:28Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
     },
     {
       "id": "c5d16054feb27a15b81d92cf",
@@ -104,6 +93,17 @@
       "published_at": "2026-10-24T11:15:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "fb8c73e31095fda8f3827e62",
+      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
+      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
+      "published_at": "2026-10-23T15:07:28Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
