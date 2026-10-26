@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-26T01:07:12.644041Z",
+  "generated_at": "2026-10-26T06:08:16.372066Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "80de5704b1324903dd6301d7",
+      "title": "”ラグ問題”にVTuberが挑んだ低遅延セッションアプリ「SyncueSong」。モニターと配信音声を別々に処理 - AV Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrVWxZcDV0cDJwOTl3WGJCTDlaS0NWcDNGdTJzMjlZWFl3RXdrQ1hpSDlDYWY2NmtDSlh2OG1NZC1hRjFSU3pDVFhKb1JyYTJyLXhESE02WlZjNEF2enQ5V3lxMjFONUROa1pR?oc=5",
+      "summary": "”ラグ問題”にVTuberが挑んだ低遅延セッションアプリ「SyncueSong」。モニターと配信音声を別々に処理 AV Watch",
+      "published_at": "2026-10-25T23:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "1a8886c1bf9727b5bcb4da15",
       "title": "ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 - Vietnam.vn",
@@ -36,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNmRPbUNkYTc0NXd3aV9EZ3ptb2pBTkN0RmlxazRTZ3o3WGd0T3dLVGlkeC1YTmVUSFI3WFVEV0VkRVlyZnA4SmNhZ3FrdTBWU2NHU0kyTnNQTDVmN20wVk4zZ193T1k4amx4cGYxbl9TYlljaFZEVg?oc=5",
       "summary": "ラポルテ五泉のインターネット通信障害について 五泉市",
       "published_at": "2026-10-23T07:20:21Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "73241e487bff93db0970904f",
-      "title": "Object Storageが最新のクラウド・アクセスに対応するIPv6デュアルスタック・エンドポイントをサポート - Oracle Blogs",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTk83amVyLWRhbjlDV3U1UExfakxUTS1zY09UbW1OMkVaelR1ZS02VFlQeTFndW5PWEQ2eThDNENCdHZvSXdOb1hCVHAwRktiZzJUcGM0MW9rQ2pybl9UWVRFVFBtSWNpWXBqcWd6a2dEUnE1WngyS0xON1RPbUNfQ2VHNXBIeWtzVEFYVw?oc=5",
-      "summary": "Object Storageが最新のクラウド・アクセスに対応するIPv6デュアルスタック・エンドポイントをサポート Oracle Blogs",
-      "published_at": "2026-10-23T01:26:17Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
