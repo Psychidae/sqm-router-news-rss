@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-26T06:08:14.424508Z",
+  "generated_at": "2026-10-26T12:54:03.877645Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,17 +64,6 @@
       "score": 16
     },
     {
-      "id": "786f198bcf58f2c47d510181",
-      "title": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbXNZcjFuYl9Makw4Y29zYVVyZHBfV3ZfNVYzRFFWd1NYOEVEckRyMk4zMmlJRFZ6WjdyYXdXaFBydUozNzE0SHo2NEpZY3BMYlNBV2JHX1czd3ExSnBXQlF1RjJyQmxzTHBrNGFBWnR6SGxLUzFmSkpINm5LZDhDU1FlenZzbUt6X1Z6RGVPVWQydlQxRERvTFlORUdFbmhaSEt5R09BRkVISGJCV2VlMkhoRURYOUFMUVBvSkl5YWpQRkk?oc=5",
-      "summary": "Fibrus launch Wi-Fi 7 router and 2Gbps speeds on UK FTTP broadband network UPDATE ISPreview UK",
-      "published_at": "2026-10-12T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
       "id": "fb8c73e31095fda8f3827e62",
       "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
@@ -115,6 +104,17 @@
       "published_at": "2026-10-24T11:15:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "38de339d852ad2d88cf06339",
+      "title": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5",
+      "summary": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/",
+      "published_at": "2026-10-20T10:31:05Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     }

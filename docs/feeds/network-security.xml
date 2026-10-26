@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:54:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Broadcom - A 16-year-old Wi-Fi flaw still has no CVE - Korben</title>
@@ -18,20 +18,6 @@ Broadcom - A 16-year-old Wi-Fi flaw still has no CVE Korben</description>
       <pubDate>Tue, 20 Oct 2026 10:06:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-20T10:06:26.066498Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T07:51:56Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution - The Cryptonomist</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBsd2hjTEM5MGZJQ1dTa2tlSzlUaWRXRzdqcVdwVFF3QTJXTjhSdDVyZGRDLVdrVW5mUkJ3MGlhMEF0aEhSSWVaNUFLazZGcGVCWVpVblpUaEhKaHkyb3AtWk8zTEFhLUQ0ajJpQ3ZET0NNUHZQQWlHMXYzSQ?oc=5</link>
-      <guid isPermaLink="false">df42d644b5390c6605c512c6</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-19 16:56
-Broadcom Wi-Fi Vulnerability Exposes Routers to Code Execution The Cryptonomist</description>
-      <pubDate>Mon, 19 Oct 2026 11:14:54 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T11:14:54.032937Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T07:56:47Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
@@ -92,17 +78,17 @@ Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし Korben</description
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Broadcom router vulnerability: reported WPS flaw - NeoTeo</title>
-      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOMzFjVlJfdW1EMlpyNDBucDE5VkE2dnVneEY1QlY2bDl0ZktWeXNvTWNLREw2eHdrQURBUFhNN01HaVd3dVpYdlNGZjB5bWVKcWZTY016OWdOV3FtbmQ3Rm1OUGJqdVRFSXhKXzlncXcyTW1aV0V0UnZJTnREU1ZnOURB?oc=5</link>
-      <guid isPermaLink="false">7444c92b01a1e1b3b5cbb69b</guid>
+      <title>[セキュリティ] Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9DbmlHbzVTTHV6WFZhSFNXc09Da3FpY0tYTUFsMnluV2R2T3paSndmTXFHNDh4RVZCdWZSRFBnMlZGbEV2NE83R19ac19aNllhaW9EREd5ZUdXcEV5Rnh6RzdybVgtbWE0dFE?oc=5</link>
+      <guid isPermaLink="false">d8d24c38e5a9ca6013919ce8</guid>
       <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-19 20:14
-Broadcom router vulnerability: reported WPS flaw NeoTeo</description>
-      <pubDate>Mon, 19 Oct 2026 17:28:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-19T17:28:05.271968Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-19T11:14:15Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+ソース: Google News JP: network security
+元記事日付: 2026-10-26 17:00
+Cohesity、PHPの深刻な脆弱性「PHP2Shell」の影響と企業が講じるべき対策を解説 PR TIMES</description>
+      <pubDate>Mon, 26 Oct 2026 12:54:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-26T12:54:05.143138Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-26T08:00:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
