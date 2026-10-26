@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-25T22:49:14.127890Z",
+  "generated_at": "2026-10-26T01:07:12.644041Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -53,11 +53,11 @@
       "score": 7
     },
     {
-      "id": "4909312e84141149dccec9e7",
-      "title": "Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - cedarnews.net",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRPR3FHTnNKbE1lR0p3M1pwbmJkV0tPdnIxV0FsdUdXQWtmZDRCbENlSHdQYjhPWjhEQlVLQjJrek5jMWkwNmdWRVphZW5NdENmZGxOakRCUDczTDFaZ0luS3FFUXRFQ1htck80QWRYdU1iMXhDN2JONmdqbG1IZGtld0dNV0ZXTDE2Y0NydzNJaHpSRENlSA?oc=5",
-      "summary": "Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England cedarnews.net",
-      "published_at": "2026-10-20T17:17:50Z",
+      "id": "aba4fc00e227792d5138fa5e",
+      "title": "BCCS updates communication practices following internet outage, school closure - hometownsource.com",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5",
+      "summary": "BCCS updates communication practices following internet outage, school closure hometownsource.com",
+      "published_at": "2026-10-20T22:53:07Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -75,17 +75,6 @@
       "score": 7
     },
     {
-      "id": "44cf8bbbe06ef63318e7360d",
-      "title": "Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut - Express and Star",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHFRU1RIMjNuQnUyNnNpdERQc0FSOHJXRzhFQlpva3pqZDNDT2k5dmoyc1RrN1kyR1Y2VzRlVzhJd21PMFJnTDdRSkZFcjBBRWludzVDN3JVWmI5cnR5RWhUcDJuMUJvV1FhNnptZzNlNl90LThFQWwtOUF1d0hZNktCQ1ZLemRnb0k5b3pURUYxTVN0MWpDejZvRkVjQXVRRWNFMDJXbktiNDhVSEw1Q0ZRN2RpbUthd0w5QzVTdXdIR1AzUXFhcTVn?oc=5",
-      "summary": "Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut Express and Star",
-      "published_at": "2026-10-20T09:57:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
       "id": "ebf7d3cac44d455bce051d00",
       "title": "What is Google Cloud? Everything we know amid major internet outage - The Independent",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5",
@@ -97,22 +86,33 @@
       "score": 7
     },
     {
-      "id": "baac800802f6cead890cb537",
-      "title": "Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues - SSBCrack",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFhWS3NUMjVKV0VvTHJoTkdfQXN0ODNFbERqbDg0V2VxMUgzTDgwVlYwX0RRXzBCVlFma1VzQktCS2E4MmV3d2ZyRXVyTUxDdTBHTFFwWUo2LTVxV1Roa3FzVXBCOWhhRmp6cm5VVTBpMWtrLTdxWTVncmNsMGZvUjdacGs2bWRxTml4Mk9BR1U5emJyRmtKN1p6T1Z3Z2c5UE9RVlNSTUo3OXpmMTU0?oc=5",
-      "summary": "Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues SSBCrack",
-      "published_at": "2026-10-20T09:21:47Z",
+      "id": "611d086953a5628393184d7c",
+      "title": "Huge internet outage takes down many of the biggest websites - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVncjhzaDNVNW5hSnIwa2NDY3pTSkpDYUR6RzhTZ2FXQWZIRUdwVlBzN0FWYlpvRGYxTmY3Rm9kZ1NfRVQ0U292NkgzdkFVam96am03SjJ3QmlCdUxRUDdQMHB1b3hJUFdPbkNUbTYtQ1ItTzRqUnRZOHg0aWJkUmY2WQ?oc=5",
+      "summary": "Huge internet outage takes down many of the biggest websites AOL.com",
+      "published_at": "2026-10-20T09:17:05Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
     {
-      "id": "94aa51d960e68df65991410e",
-      "title": "Huge internet outage takes down many of the biggest websites - AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlRtQlpuOWlJLXVpZU5NbzZJbnFOWDVENFRHbm5iOG1nb3kzOE1NbEpyYjNkVjRvZU4yS2kyOWFMQi1ZTFpkR3R0aFllNU00MTBNRmJqMGw4dUxvSzhKdFNubV9NMjh5aGs3VElHcU1BUGhqTjdnSjdVazVRbllFR2x0M29odw?oc=5",
-      "summary": "Huge internet outage takes down many of the biggest websites AOL.co.uk",
-      "published_at": "2026-10-20T09:17:05Z",
+      "id": "c5d39b32515cc0e002b014c3",
+      "title": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdzLTVnT3ZFYzl5TUd2TVZKVmVZeURWTmJCNnlHVEkyOVdzbWFCdTlkbms5QndPa2ktc2lEU0x6Z3Bkcm5xc3JtOUF2UHM4cTV1UDhaWW9nNTAxYWpUOTJqaTRhcUpzS0hSZ1ZkZUJmWFhPbzFadUlFLXBzczUwd1FqUFlNem1SaXNCNW9Rd184SlBVeXQtSkQwX2dfSzls?oc=5",
+      "summary": "Major internet outage appears to have taken down Lloyds Bank, HSBC and more The Independent",
+      "published_at": "2026-10-20T09:14:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "5f6b803132dcfb0aa3bfd42b",
+      "title": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamxzNkN6LS1Sc3BiZHpqdzI1Sl9PVlNWNjdtdU42TlRNb09ZaktuZmtWclNtcjE5ZTA5Qlo0Y2p4clVjRHdUcl90VmEteS0tMzZSTXpwMkJBMUpkUWw5QU1faDdNS1puRENsNkg4aFJJaXU4Y1NncXNieWpzYkctdllucnU4ZXU1Q2o4M2N4YlFHWGpNdDFUejEwZkRaU1Q5UWFVbnN4RVhBVkZXYi1GQldFZUt2YVp3N0xTeTBtNkhtUQ?oc=5",
+      "summary": "Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN",
+      "published_at": "2026-10-19T17:50:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

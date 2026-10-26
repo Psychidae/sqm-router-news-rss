@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:49:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:07:12 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 - Vietnam.vn</title>
@@ -64,16 +64,16 @@ Object Storageが最新のクラウド・アクセスに対応するIPv6デュ�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England - cedarnews.net</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXRPR3FHTnNKbE1lR0p3M1pwbmJkV0tPdnIxV0FsdUdXQWtmZDRCbENlSHdQYjhPWjhEQlVLQjJrek5jMWkwNmdWRVphZW5NdENmZGxOakRCUDczTDFaZ0luS3FFUXRFQ1htck80QWRYdU1iMXhDN2JONmdqbG1IZGtld0dNV0ZXTDE2Y0NydzNJaHpSRENlSA?oc=5</link>
-      <guid isPermaLink="false">4909312e84141149dccec9e7</guid>
+      <title>[性能・障害] BCCS updates communication practices following internet outage, school closure - hometownsource.com</title>
+      <link>https://news.google.com/rss/articles/CBMinAJBVV95cUxPWlVuMnZxd1c2UHV1RDltQ2YwQ0p4MXJ0RnpyZ0dJV0tvQlBBalVHOGJOMEhFZWNOX2VzdXJ2Z3J0OXE4VVpoRWtIa1REa1dMYVdYYjRJTW9OdGNkWHpfcE51bjFWM1pWZzR4SUNBQWNWazFQMzBUREQza0NfcVRmSnRrSFcyWS1tWjNlV0swdGtObUVTS0h0Z3NyUWZqWW9Ea21SMGFzZ0hLdmtDQlRmVkIyMmlSbGppamMyTTlPVUl5RktBVmd1UkJuZjhtZFp5Zi1MR3FORUdhZHB1dWVSRlMwdW5ocTRwek9CQVpwbmsteEc1ZzA5QVE4bXFqMDNCaV9ySDdsb2V6ekJaZ1NibnF0TVVJMTB3eDZKSA?oc=5</link>
+      <guid isPermaLink="false">aba4fc00e227792d5138fa5e</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-21 02:17
-Northern Ireland dodges worst of Google internet outage chaos, as banks and courts hit in England cedarnews.net</description>
-      <pubDate>Sun, 25 Oct 2026 22:49:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T22:49:14.126909Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T17:17:50Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-21 07:53
+BCCS updates communication practices following internet outage, school closure hometownsource.com</description>
+      <pubDate>Mon, 26 Oct 2026 01:07:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-26T01:07:12.643262Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T22:53:07Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,20 +92,6 @@ Northern Ireland dodges worst of Google internet outage chaos, as banks and cour
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut - Express and Star</title>
-      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHFRU1RIMjNuQnUyNnNpdERQc0FSOHJXRzhFQlpva3pqZDNDT2k5dmoyc1RrN1kyR1Y2VzRlVzhJd21PMFJnTDdRSkZFcjBBRWludzVDN3JVWmI5cnR5RWhUcDJuMUJvV1FhNnptZzNlNl90LThFQWwtOUF1d0hZNktCQ1ZLemRnb0k5b3pURUYxTVN0MWpDejZvRkVjQXVRRWNFMDJXbktiNDhVSEw1Q0ZRN2RpbUthd0w5QzVTdXdIR1AzUXFhcTVn?oc=5</link>
-      <guid isPermaLink="false">44cf8bbbe06ef63318e7360d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-20 18:57
-Major internet outage hits banking apps and websites including Lloyds, HSBC and Revolut Express and Star</description>
-      <pubDate>Sun, 25 Oct 2026 22:49:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T22:49:14.126909Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:57:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] What is Google Cloud? Everything we know amid major internet outage - The Independent</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUjVXaDZCNjRzdUhXSmljZFNBSDh6ZzdOc21wakpuMXllRGtpQ2haNG9oSk1LYUZiN0tmMDV2cXA2bGhya2djTFlxWlh6VjRGbXlfU3NjM1VBcEZmVDkxMk1fRy1hQS1fTGZVMk15R2JqU243ZDUtcG9zRDBBY3ViQ3l0dWFnWXhBSDRMbWJuWGZBVHZGSGNoMFpuOGQ?oc=5</link>
       <guid isPermaLink="false">ebf7d3cac44d455bce051d00</guid>
@@ -120,30 +106,44 @@ What is Google Cloud? Everything we know amid major internet outage The Independ
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues - SSBCrack</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFhWS3NUMjVKV0VvTHJoTkdfQXN0ODNFbERqbDg0V2VxMUgzTDgwVlYwX0RRXzBCVlFma1VzQktCS2E4MmV3d2ZyRXVyTUxDdTBHTFFwWUo2LTVxV1Roa3FzVXBCOWhhRmp6cm5VVTBpMWtrLTdxWTVncmNsMGZvUjdacGs2bWRxTml4Mk9BR1U5emJyRmtKN1p6T1Z3Z2c5UE9RVlNSTUo3OXpmMTU0?oc=5</link>
-      <guid isPermaLink="false">baac800802f6cead890cb537</guid>
+      <title>[性能・障害] Huge internet outage takes down many of the biggest websites - AOL.com</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzVncjhzaDNVNW5hSnIwa2NDY3pTSkpDYUR6RzhTZ2FXQWZIRUdwVlBzN0FWYlpvRGYxTmY3Rm9kZ1NfRVQ0U292NkgzdkFVam96am03SjJ3QmlCdUxRUDdQMHB1b3hJUFdPbkNUbTYtQ1ItTzRqUnRZOHg0aWJkUmY2WQ?oc=5</link>
+      <guid isPermaLink="false">611d086953a5628393184d7c</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-20 18:21
-Major Internet Outage Affects Multiple Websites and Apps Due to Google Cloud Issues SSBCrack</description>
-      <pubDate>Sun, 25 Oct 2026 22:49:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T22:49:14.126909Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:21:47Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-20 18:17
+Huge internet outage takes down many of the biggest websites AOL.com</description>
+      <pubDate>Mon, 26 Oct 2026 01:07:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-26T01:07:12.643262Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:17:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Huge internet outage takes down many of the biggest websites - AOL.co.uk</title>
-      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlRtQlpuOWlJLXVpZU5NbzZJbnFOWDVENFRHbm5iOG1nb3kzOE1NbEpyYjNkVjRvZU4yS2kyOWFMQi1ZTFpkR3R0aFllNU00MTBNRmJqMGw4dUxvSzhKdFNubV9NMjh5aGs3VElHcU1BUGhqTjdnSjdVazVRbllFR2x0M29odw?oc=5</link>
-      <guid isPermaLink="false">94aa51d960e68df65991410e</guid>
+      <title>[性能・障害] Major internet outage appears to have taken down Lloyds Bank, HSBC and more - The Independent</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdzLTVnT3ZFYzl5TUd2TVZKVmVZeURWTmJCNnlHVEkyOVdzbWFCdTlkbms5QndPa2ktc2lEU0x6Z3Bkcm5xc3JtOUF2UHM4cTV1UDhaWW9nNTAxYWpUOTJqaTRhcUpzS0hSZ1ZkZUJmWFhPbzFadUlFLXBzczUwd1FqUFlNem1SaXNCNW9Rd184SlBVeXQtSkQwX2dfSzls?oc=5</link>
+      <guid isPermaLink="false">c5d39b32515cc0e002b014c3</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-10-20 18:17
-Huge internet outage takes down many of the biggest websites AOL.co.uk</description>
-      <pubDate>Sun, 25 Oct 2026 22:49:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T22:49:14.126909Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-20T09:17:05Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-20 18:14
+Major internet outage appears to have taken down Lloyds Bank, HSBC and more The Independent</description>
+      <pubDate>Mon, 26 Oct 2026 01:07:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-26T01:07:12.643262Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:14:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ - WPTA | 21Alive | Fort Wayne, IN</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNamxzNkN6LS1Sc3BiZHpqdzI1Sl9PVlNWNjdtdU42TlRNb09ZaktuZmtWclNtcjE5ZTA5Qlo0Y2p4clVjRHdUcl90VmEteS0tMzZSTXpwMkJBMUpkUWw5QU1faDdNS1puRENsNkg4aFJJaXU4Y1NncXNieWpzYkctdllucnU4ZXU1Q2o4M2N4YlFHWGpNdDFUejEwZkRaU1Q5UWFVbnN4RVhBVkZXYi1GQldFZUt2YVp3N0xTeTBtNkhtUQ?oc=5</link>
+      <guid isPermaLink="false">5f6b803132dcfb0aa3bfd42b</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-20 02:50
+Parkview says there’s ‘no indication’ of data being compromised in ‘systemwide internet outage’ WPTA | 21Alive | Fort Wayne, IN</description>
+      <pubDate>Mon, 26 Oct 2026 01:07:12 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-26T01:07:12.643262Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-19T17:50:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
