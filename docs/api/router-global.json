@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-27T02:02:05.379927Z",
+  "generated_at": "2026-10-27T07:46:47.813944Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-20T12:21:02Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 22
+    },
     {
       "id": "14531d5e920bb379cb250799",
       "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
@@ -17,7 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 19
+      "score": 18
     },
     {
       "id": "a9a2917671fb20fcef3fbbdd",
@@ -35,11 +46,44 @@
       "title": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A2RGE1N0VIQk0wUG80MUFka0Mwb3prTEhScFZPZnJoNGtPbGgtdkhCVm8wQjY3aTN5Z3dZRHQwb3dRWTZ2X3lyQ3QxdlRYcmx6Mm1Wc05DRnFNNXNIcE8zQ2ZtNlZEWnZscFRESEQ0eXhaZTFDWjBFczdJU3ltZDVOYnNYTnY5Z05SRDljSURiTFdCa01WV3A3eUdGMFdFRmJuZEhJN3dZUWY2MkRCRNIBtgFBVV95cUxNZ21UeVhrRTZnY01GdTZHUlNRVDg3ZllTWjZzYjBHeWF3ekRObjFyUW14SXZnNXlieGNyblVOQUs4ZUF5NjZWSVZpcmJsREpDMlNRMHRlanlTUnBWTzBna0htR2ctMU5hUlRnTkVZQzV0UjlYSHNKZk5oSEVsUEszVmNaV3VhYjlLdHgwZWtOTU5FNll1UVkzMmN5dnFkd0NkUi04UTRYdjlvQ01FcHZLalZORy1fdw?oc=5",
       "summary": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability TechPowerUp",
-      "published_at": "2026-10-24T08:11:13Z",
+      "published_at": "2026-10-24T07:19:10Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "5c2636196a2feba708a780c9",
+      "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5",
+      "summary": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag",
+      "published_at": "2026-10-17T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "f5492f1efc9001fd548833d6",
+      "title": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFAzZGRCMTJKZVVMZE9MNkM0emlSWUFMTDh0eG9Uak80SlZ5cHZPbHVzNjd5dWNBMnFYczNHUm42anQyLTF1SVZxeHYwN1BwcEE3U0RlOUhKN0V1Wl9tUk1GVDg2cF9IT3JfVVVnZWd2RVdzZWNOaDJqUHNjSEJ2bg?oc=5",
+      "summary": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear https://tech-insider.org/",
+      "published_at": "2026-10-27T05:49:23Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "70c3f7b5c4e7d65f23b6618d",
+      "title": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMkktUGR5dXZMN1IyX1QzTEZBWGxRUzlZSGx3YzJQVzIxYVZUcGpNMWNsalZQTTRMRW4xRF9ZQ3R4TWFNdVlvS2UxYWE1R1dtQXFnOW1aSUpIMWZUQ2FfbVBJNGVkRllwdUtvaWhTdmQxYjdVMHdqWS14eFAzd2R2NjdXTGN4ejNWWW42LXE4dDN0NG0tOWdRMEllR0xadmpWUThmdmd3dVFRcWQ5Zi14cEdlcWM0aVNmWUJrRVVfSGRUQVV4dDJfNEdGNU5ibUpPNk0zQU5vWHBqQjNNWDNNS0EtZ1hNZXAwOWM4OWZ5WE85dw?oc=5",
+      "summary": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router FinancialContent",
+      "published_at": "2026-10-27T04:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "c5d16054feb27a15b81d92cf",
@@ -73,50 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "fb8c73e31095fda8f3827e62",
-      "title": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRmpCQU5EV2VLWXRmOEU0b2tsaEpoalEzTnhpQ0dpMkNuX043SEdYaEpZd0k1bmVwcnpGWHJqVlVjbHluZ0poVmJkUGlSalhXTEdiby1FMHJ0YjVsWFBXRFlxSXpTWjZUeUFJQXF6TFpPaTdUU3ZUMHZVSDRNc08wQzJIeWxJQjRfbkNvdXJEYmlQU1lQZDhGUEZmSzhHXy1xUU9SSng0VlYxa0hEbDJPXzFzYnppellKaG9vQXd3?oc=5",
-      "summary": "Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal at Amazon PC Guide",
-      "published_at": "2026-10-23T15:07:28Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "38de339d852ad2d88cf06339",
-      "title": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5",
-      "summary": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/",
-      "published_at": "2026-10-20T10:31:05Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "127f38229d78f07c0d6914fc",
-      "title": "Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNa19rZHFwUHFMSF9Nb2Q2ZnhrUXJiVWoya3FHN0dLM1FISG5JdC1JR1cxOEozaUdSQzUtNHhFVjhpX2dLbVRyUEQzQTFYVWNoS1UzQzB6WjQ1MlNNWUlTWENYdDhMSzlfbDRhYWdMbDZUcUF6cWtxNkpPMkh0UXpaUExMYl8zV0FFWTA4UGNkeU9OS0Z1QXNxQ2FCNVJrWUJ2bVFIU2N0STBWYUcwaFJaUDlQbXVRXzV3UDd1TEFydW9HV1JuckVxSlVKbHR0bklGaVVwNHhfLUJmaDN4czdFRWIwTWdxWS1fM0RMNjRYN3A3MEx2emdPWnByWjZGNjZnZHhuV0dJWkpHM1BURnJsNWZ4Y1UxdWxSbFk5TnlqMjRXOGo4clN2TmViZXFCdnZuYkVBNWM5RGkwQzhVeUVQV1o2VWhhRERMMlRfRmxaWWtGWnJ1MllhNmtWQQ?oc=5",
-      "summary": "Save $60 on this TP-Link wireless router with ultra-fast Wi-Fi 7 support, now $189.98 — Archer BE9700 ships with six antennas and 'class-leading' 6 GHz performance to upgrade your home network Tom's...",
-      "published_at": "2026-10-20T10:29:58Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T22:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }

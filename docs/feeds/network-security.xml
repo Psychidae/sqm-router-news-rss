@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 02:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:46:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5</link>
+      <guid isPermaLink="false">c877547ff0fef938ad4ae0a6</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-27 00:13
+BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-26T15:13:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] Broadcom - A 16-year-old Wi-Fi flaw still has no CVE - Korben</title>
       <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE44OXVYcEstajBIYUQxdjJ6aF9TQUd0OHVmSUtoZDVyVE5yMDN6b0ZzYUhSUGFfU3hRSWJvQmlFamJUM0xRX1ZnNi1vU3RwYlZYTUZjaGhsaldiVC1BZXVldjhWbHpwM1FIRW5Xcnl0WWhfMlFzSkp1Z0lxZw?oc=5</link>
@@ -22,44 +36,86 @@ Broadcom - A 16-year-old Wi-Fi flaw still has no CVE Korben</description>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] NEC-PF、PHPの脆弱性によるAtermルーターへの影響がない旨を公表 - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMjRvTk5LTS1vdkRUYVhBTWhxSk1QNm51ZmlGS1R6dm92V3QybXd4UlM1dkJ0dlc3bjE1aEtPb1dNUlZrUGlqcDBIZi16bngwNE0zOEVWaUhxQQ?oc=5</link>
-      <guid isPermaLink="false">7a6ee00bdf024684cb9aa00f</guid>
+      <title>[セキュリティ] 16年前から存在していた脆弱性が発見され、数億台のWi-Fiルーターが脅威にさらされている。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxOck5tSWV1eGtVRUxEZU5ZSGNTUFluR203dTh5aU1MOVN0c3luWUQzMTBmV2ZJRXAzVU9rdGJhSWg3cHZvN0owVmM0TDlseW50blJEdGp4TkE0dXpfQU9BQWFlLXVSTGNoNWpIZkZaWjVqUFVHcThPY3dOUGUzNjRob2tRckJBWkwzeXQwV3ZpYw?oc=5</link>
+      <guid isPermaLink="false">c5eb48481dfc56345de5ad54</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-10-26 20:31
-NEC-PF、PHPの脆弱性によるAtermルーターへの影響がない旨を公表 24Wireless</description>
-      <pubDate>Tue, 27 Oct 2026 02:02:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-27T02:02:06.403093Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-26T11:31:21Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-22 18:22
+16年前から存在していた脆弱性が発見され、数億台のWi-Fiルーターが脅威にさらされている。 Vietnam.vn</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-22T09:22:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] ASUS製ルーターに管理者権限取得の脆弱性など。修正ファームウェアをリリース。CVE-2026-93489等に対処。アップデートを - ニッチなPCゲーマーの環境構築Z</title>
-      <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHQzNvUzdRbmFlYXNfa3MxV2hvZ191ZmhKMFMxVk4tWkNWdF9RZklrMWR4b2lOYndDRGhSUGJ1YWpKZ0pKMEFzZ1l0cE5YeVdSR0RHeGlWeXo5Q01CMkJLTC1TeFk?oc=5</link>
-      <guid isPermaLink="false">2d4e0e1cd9d08b7f18acdcfc</guid>
+      <title>[セキュリティ] ブロードコム製Wi-Fiに16年放置の脆弱性、数百万台のルーターが乗っ取り可能に - BigGo ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE1FYU9qWXlHX01ScHVNTGFRWTl6cS04SXJWV3dQLTRwRW1reWxYVGhNSEV1bkJVUW9ZOUJYbHBONTBOVEdaeWxkbUExVUtCaTBIRnI0X0JrWElVdlpsQlVjS2FzY0J3ZU1KUUljUUE3Tjc3TTJG?oc=5</link>
+      <guid isPermaLink="false">436a09d133556935ed3648e0</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-10-25 00:03
-ASUS製ルーターに管理者権限取得の脆弱性など。修正ファームウェアをリリース。CVE-2026-93489等に対処。アップデートを ニッチなPCゲーマーの環境構築Z</description>
-      <pubDate>Tue, 27 Oct 2026 02:02:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-27T02:02:06.403093Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-24T15:03:57Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-21 22:05
+ブロードコム製Wi-Fiに16年放置の脆弱性、数百万台のルーターが乗っ取り可能に BigGo ファイナンス</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-21T13:05:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化 - GIGAZINE</title>
-      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4yYVpMV2tnOTZCVm55Q01uemF3YVdFT3dRbUFPYkZtYU12RlBCa2FzQ3hhdVZtTEZHZC1pUk14RTRkdGlQNGNvNGNmamFnRTNXekwzekVNNU1qa1Y1dXduTzJWczB1ZVB5ZVZiSnZodzlxVHBNUG5aYlIyZw?oc=5</link>
-      <guid isPermaLink="false">e9c0e83bfed7acdf1fbc467f</guid>
+      <title>[セキュリティ] BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 - マイナビニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mUTVGSEs1ZnNfRTFyeTJ0azh6VXRyLV94d3ZuSl9JRVRLZTBILWx1enY4SGpMOTdwbUl2SHhfS3FVZnJtZmk5b3FGVGhtenhYRG5PZGN3amZyZ2NENWtlNlFsZWZ1SUpX?oc=5</link>
+      <guid isPermaLink="false">28ebfd0cec4e98a98374c4eb</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-10-23 13:06
-「PHP2Shell」脆弱性公表後に悪用試行が数百万件単位に増加したとCloudflareが報告、顧客向けには新ファイアウォールを開発して有効化 GIGAZINE</description>
-      <pubDate>Sun, 25 Oct 2026 20:47:06 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-25T20:47:06.681909Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-23T04:06:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-20 18:01
+BroadcomのWi-Fiソフトに重大な脆弱性、CiscoやTP-Linkなどのルーターに影響 マイナビニュース</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T09:01:31Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし - Korben</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE8zaE95SkU4T1N4RXdyR19RSzZGUHlpNnF1eEt2V2lZVWZSOFM4eG9ZSlUxVkZuc0kyblRod3I0TG8tRkd3UTFkQURRaW9iRW9MTW9aZTFkNkFyVGtaQXVJcWF5MHAtVjdqSUM1QjA1NjA0YU5xVks1TWVLUQ?oc=5</link>
+      <guid isPermaLink="false">f8c106d9597917013ad1182c</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-20 16:51
+Broadcomの16年前のWi-Fi脆弱性、いまだにCVEなし Korben</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T07:51:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619) - Sophos</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTBLbC1JTXlGa2tLTDVvakhzOEpFTEVzR1YwYTRLbUpnQXhpc2Y1UGZ3dm4zRHdEb0toWFJ0UW9uT2xpdGN5OXFlM0piU0Z4aVZqWVV0NFBwNU9zVWFqLUtfU19iMHpsa0hTcGRSRjg5c090Q1pfMG5femZTTW5XRFZrQzgxaGVIcjZKUS1sWWJyc2xOY0lRZTdYMHBtcWNHRTRPOHdidHM?oc=5</link>
+      <guid isPermaLink="false">bd87f7690dc5816b6a79befc</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-21 22:06
+Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619) Sophos</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-21T13:06:04Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り - Pasquale Pillitteri</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t6b3JSd1UzOGpKOGxyeFotZWEyVFdaOUxJNDNpRWZyQ1p5dUN4OXJUaDJ5NzgycXl6OWg3SEhlTTIxRnZtTlJaTlg3NlMxQTZnSWFKS1NYWW5TNHlFZWt1MDdUb1pXLUkxak9aa3F0a3UxZ0V5YV9CWEVhTG53YjZuVzhrNmhIa3I0cXMtUWZSSnlrNEtMUVB5dF8?oc=5</link>
+      <guid isPermaLink="false">e2dae70b760127f891bacc24</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-23 23:58
+WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り Pasquale Pillitteri</description>
+      <pubDate>Tue, 27 Oct 2026 07:46:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T07:46:50.272312Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-23T14:58:32Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
