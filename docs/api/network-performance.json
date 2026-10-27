@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-26T23:06:46.065261Z",
+  "generated_at": "2026-10-27T02:02:07.848434Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -10,14 +10,25 @@
   "items": [
     {
       "id": "c8ea41d1e55871c9606eb5d7",
-      "title": "AT&T reports internet outage in Washington County - 5newsonline.com",
+      "title": "AT&T reports internet outage in Northwest Arkansas - 5newsonline.com",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUl6R3VqLVNkOVI2V2JTenZnZWRfYjVXS2VmVUdFQ0Q1bGhSZU1DZ2M3bjBIUXhyQVh2NmU3Z1ctVlh5Vkt6LW1VZ3JyV3gyZ0RwM2JXemFxQ25OVkpxNVgxNnJlZ2VDR1lGNGhxY2V1TDFtUDRmV2RMOUJxV091aXc5OFBfUG1MdTZEek80bHhwNjBrdGVRX0hpbjJCWXJBWHZnVXlhZ1dfNktPNEZrX25qeVlFWkFDZFhhVWFBNmpaeDNLUC1LUUhtQTVwWFN3a0VN?oc=5",
-      "summary": "AT&T reports internet outage in Washington County 5newsonline.com",
+      "summary": "AT&T reports internet outage in Northwest Arkansas 5newsonline.com",
       "published_at": "2026-10-26T21:34:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "614a013767474e43f6b6da13",
+      "title": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBneDA0Q2hxWENobE03RmtDbEZJY182dzRYMDRJMGliMi01UGx3VE1BZjA4NGwyOGN1U1FSMVJwMWNkYXpDT1VOM0FzZG1zQWo3OTRsOW1BdXVzNFhCem15N1pFQUNvVEJweGhyOERUaTdtZw?oc=5",
+      "summary": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会（1/2 ページ） ITmedia",
+      "published_at": "2026-10-26T22:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "10c774d973058d4cc12ca7ba",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNmRPbUNkYTc0NXd3aV9EZ3ptb2pBTkN0RmlxazRTZ3o3WGd0T3dLVGlkeC1YTmVUSFI3WFVEV0VkRVlyZnA4SmNhZ3FrdTBWU2NHU0kyTnNQTDVmN20wVk4zZ193T1k4amx4cGYxbl9TYlljaFZEVg?oc=5",
       "summary": "ラポルテ五泉のインターネット通信障害について 五泉市",
       "published_at": "2026-10-23T07:20:21Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
-    },
-    {
-      "id": "77759ee4968ce5c71ca5baf2",
-      "title": "Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ - 窓の杜",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VRk1QZG1EWnV2RjIyeDUwVUxaMmxXakJwVk45RV9DUGtaVEtYdm94RUo1VXk2Y0R4eHA0RVF6NG5ZUmVYTkExcXdDU3lEaE9ydExsQjlLeU1NQ3ZGVEJhbm9nTDRzMmJBTnJ1cmlWRjY3eTFBQzZj?oc=5",
-      "summary": "Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ 窓の杜",
-      "published_at": "2026-10-22T21:45:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
