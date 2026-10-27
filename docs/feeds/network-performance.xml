@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 13:37:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:57:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] AT&amp;T internet outage hits Northwest Arkansas reaching nearly 400 customers - KNWA FOX24</title>
@@ -18,20 +18,6 @@ AT&amp;T internet outage hits Northwest Arkansas reaching nearly 400 customers K
       <pubDate>Tue, 27 Oct 2026 07:46:52 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-27T07:46:52.318395Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-27T01:01:24Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] AT&amp;T reports internet outage in Northwest Arkansas - 5newsonline.com</title>
-      <link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUl6R3VqLVNkOVI2V2JTenZnZWRfYjVXS2VmVUdFQ0Q1bGhSZU1DZ2M3bjBIUXhyQVh2NmU3Z1ctVlh5Vkt6LW1VZ3JyV3gyZ0RwM2JXemFxQ25OVkpxNVgxNnJlZ2VDR1lGNGhxY2V1TDFtUDRmV2RMOUJxV091aXc5OFBfUG1MdTZEek80bHhwNjBrdGVRX0hpbjJCWXJBWHZnVXlhZ1dfNktPNEZrX25qeVlFWkFDZFhhVWFBNmpaeDNLUC1LUUhtQTVwWFN3a0VN?oc=5</link>
-      <guid isPermaLink="false">c8ea41d1e55871c9606eb5d7</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-27 06:34
-AT&amp;T reports internet outage in Northwest Arkansas 5newsonline.com</description>
-      <pubDate>Mon, 26 Oct 2026 23:06:46 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-26T23:06:46.064498Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-26T21:34:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -89,6 +75,20 @@ BCCS updates communication practices following internet outage, school closure h
       <sqm:firstSeenDate>2026-10-27T13:37:16.783010Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-20T22:53:07Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONTV4Y19pNDU5MFFzVEdQSHB5LVF2R0JpOGFQbjYzaWI5ZTA1aF8xdHAzNlpieGxiaXhMSExCV3pLZkRudmhQU3ZDQU0tVG9pOTI1elpQS3U2Q3VVNEJpbnZKbUlmS0NhR0draDhSRkZYOGhVU3VNZUQ3RFJQeFpwcEIxNXJBU2ZoZnZtcEZZX3dOOE9YaDFiWjdLVm5NUkZQZm42WVgwRURpaVdSMWY1VzVLNHBRdw?oc=5</link>
+      <guid isPermaLink="false">1a8886c1bf9727b5bcb4da15</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-24 12:33
+ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 Vietnam.vn</description>
+      <pubDate>Tue, 27 Oct 2026 18:57:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-27T18:57:48.317809Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-24T03:33:17Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>

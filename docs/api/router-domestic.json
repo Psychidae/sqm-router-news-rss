@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-27T13:37:12.537062Z",
+  "generated_at": "2026-10-27T18:57:44.523515Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
+    },
+    {
+      "id": "8f00e86197c8e5fc8e1f0c53",
+      "title": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82ZGtPX3ZhZ2hsdm12YVZPUm9PbG9sN3Y3SkdLenhJV0xyajBOaGMxWU90cXBKWW5jUEJHVGpQUE0zc2R1VF9WOU8zNnc0VTUyXzd2ZlVuazVWcHRKYURlT0d5U3VLMFhaVlFWVzh2ekE3dFJVblB5MnZ4SEo?oc=5",
+      "summary": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ Excite エキサイト",
+      "published_at": "2026-10-27T02:39:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "620897f60e9ff7c92cb52b09",
@@ -42,20 +53,9 @@
       "score": 12
     },
     {
-      "id": "bc231f25bd72d841715b39e6",
-      "title": "バッファローがTOP4まで独占 無線LANルーター人気ランキングTOP10 2026/10/26 (BCN) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkNZTThTdjBhTXZ3Tm1kUGlURVRVZC0ycGpoSzNNbmN6X1BtM05yODkxLUZFMGFTRDlaek1ZQmZKS2RnX2VlWTROMElsWXd3LVdEdnJYekQxdGdaZXlEM0tndkJSbHhEVkJTRVJjVjBFTFpPY0FOdjFjX0t2Z2pqQXREN1RaYnlrc2J4Q0xR?oc=5",
-      "summary": "バッファローがTOP4まで独占 無線LANルーター人気ランキングTOP10 2026/10/26 (BCN) Yahoo!ニュース",
-      "published_at": "2026-10-26T09:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
-      "id": "fe542117826aaea55c909214",
+      "id": "42d88bab0ed5ea04ec7bb45e",
       "title": "バッファローがTOP4まで独占 無線LANルーター人気ランキングTOP10 2026/10/26 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DNVJ2cFNISkY1aWo5SE5UVWgzX3JiOThvT2NiZm91ZEl2Y1RuZkxzVjhOZTg4RzlqZ0FxN0hPemVxbzdaU1gzbHZJRUFFQklCMjZzRTRJaC1EWEtyNUM2MEFSYW5uaGs0VGxxNEZpbWdPdEs5SVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeC1XdjdyT1dtRVFwNGEzWkEtR28ybDBLRk96ZzNvMG5RelJUeFo2LXd0Z29wS3BsenBybUhSNGViN0dMRXlHRnlGdXBfZ0tGM0V6ZDl1cWpLMXRzZ2NGd3UwVTNNT0lSREJUaThnMklSd1FzQ3pPeHQ2bFFURUl5MEtCSVU?oc=5",
       "summary": "バッファローがTOP4まで独占 無線LANルーター人気ランキングTOP10 2026/10/26 BCN Retail",
       "published_at": "2026-10-26T09:30:00Z",
       "source": "Google News JP: router vendors",
@@ -75,17 +75,6 @@
       "score": 10
     },
     {
-      "id": "ecef78d3e8783aa9e30967ff",
-      "title": "TP-Link、ミシシッピ州でWi-Fiルーター組み立てへ 米Key Tronicと提携 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EdlpQWDQ4eDl6cTk0bW16ODlSaU5qVW9UdWVuTkdidnVOZ01vMGN2anQ5NjFwbWRPaUtPTlBuOEVpMjJYSHhuMjRJcmdCaU5IMldqMDI5aXI1RUEtbzhfNnZlZ0VWMjBqVFZIekRnLWFPUlh4?oc=5",
-      "summary": "TP-Link、ミシシッピ州でWi-Fiルーター組み立てへ 米Key Tronicと提携 BigGo ファイナンス",
-      "published_at": "2026-10-19T18:19:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
       "id": "44e9efee27693ab14d2b1e19",
       "title": "ゲーミングルーターおすすめ8選【2026】最強のWi-Fi 7も - GameWith",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YbTNGZVZVZ0ljY2U5ZHBJUDNzeXBJTExvYXBCUi1tVDZTNnU4NDhFWEdEc2NmT3BaYUJodUpVa2tRM0V6RUFlSEVjUU8?oc=5",
@@ -93,6 +82,17 @@
       "published_at": "2026-10-19T17:10:37Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "bd78afc8d9123d87c6bee5f2",
+      "title": "ASUSのWi-Fi 7ルーター「RT-BE3600J Pro」、2.5Gbps対応で実力はもちろんコスパも優秀なモデル【イニシャルB】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xdk1hUXJOMFF6YkFkRVZSTU1TVUJVa3VKZnpaZ3dVdXVIdE1WdU8wWVNFSjNocHZLMFhEd1ZiZ2pIQjZkUVlrQnNkRFBReGhXQ1E5ak91MkJsMWd5X0N4VGVPeW9IN3dMMnhHdDVDSERYUUt5MXdJWg?oc=5",
+      "summary": "ASUSのWi-Fi 7ルーター「RT-BE3600J Pro」、2.5Gbps対応で実力はもちろんコスパも優秀なモデル【イニシャルB】 INTERNET Watch",
+      "published_at": "2026-10-18T21:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 10
     }
