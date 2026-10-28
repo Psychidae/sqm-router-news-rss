@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:32:47 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Brits urged to keep cash at home as internet outage could leave some areas exposed - NationalWorld</title>
-      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxOSjlHM1lTcHp6TVZla191SWVMM1dIdDRzSk02TW1BenNVdHlTWEdFMDBETHdDUVktTkx0LTktY29ES1l1N0NiVFVvWHZYY2NsbmhjYW5VaEFXYktqTDJ5VXpVTzI4X0IycUxidGNWem5CR1YtY2J0dnVVSkxfOWVhZjJ1QnJySEQ2RjVHMkRjM1BPc054VUhBRHR1V204ZmxZMC1nTVo3eXF2OXNVQVpyQ0JBMlU3OE1aZm1tMVJtMGdWSVhEM2x1a0lOaVd5SG4xRWZlWk9zeGlDUDJHdVVmVFU1aHB5aUlXbUIzdEpFWDhHcDBuSWlIeHRMWDhUYXRGQlo4NmJFWDhLSnJsNmVyTFE2TUI?oc=5</link>
-      <guid isPermaLink="false">6d3f83994563f08b99deda2a</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-28 20:16
-Brits urged to keep cash at home as internet outage could leave some areas exposed NationalWorld</description>
-      <pubDate>Wed, 28 Oct 2026 15:25:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-28T15:25:57.611885Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-28T11:16:06Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] A weeklong internet outage has preppers recommending an unusual backup supply: Entertainment - The Cool Down</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxORGVuOXhRQjg3cU9DSDNRWlplZWczVjF6R2hZTXFqNXRMbWNVV245VDF1enQwclpRX2hqaGxPRGt5NVNuelhpbk8telRfVkwxQ3RBNWhzUEJfdDktMWlKNzRkcjNoWExGRWhjQjJKOXczbFVQNmtadlI5ZS1FenJ4aEZQaFpYT2NaNUluaXBOZk44eXFK?oc=5</link>
