@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:11:48 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
+    <item>
+      <title>[海外ルーターニュース] Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware</title>
+      <link>https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5</link>
+      <guid isPermaLink="false">39de90d6315cfd4b1b74d81e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-20 21:21
+Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware</description>
+      <pubDate>Wed, 28 Oct 2026 02:11:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-28T02:11:48.752120Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-20T12:21:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
     <item>
       <title>[海外ルーターニュース] Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK</title>
       <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5</link>
@@ -47,6 +61,20 @@ ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability Tec
       <sqm:firstSeenDate>2026-10-24T13:17:45.963295Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-24T07:19:10Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5</link>
+      <guid isPermaLink="false">5c2636196a2feba708a780c9</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-17 16:00
+TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag</description>
+      <pubDate>Wed, 28 Oct 2026 02:11:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-28T02:11:48.752120Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-17T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -92,16 +120,16 @@ Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear https://tech-insider.org/</
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - The Globe and Mail</title>
-      <link>https://news.google.com/rss/articles/CBMilwJBVV95cUxPV29rdnhXT1JaOWVjVkZUTEJzTkdxNENINTdjWGVWNnNfVEtYNjNqZzhPQkN4UzBhUmIteExKeFRmanUzbGh5ZmdKMDYzbWFWV29HVjl2VjBvR2M3WWJ6TDJfYUxmQlZ5OWZqNk5YLUhQckxhd3MtNnJJWDQwbzE2dlI2amFaR19rc2dQR1ZQS2EtcTBVLXVFTnQ3dnpzLU9RTmZjbjNmRUlVMUtSRDZYRkxkd3B1dDVPQjgtVmdVU095YlFYejU5TGdVenJQV1BTMGZmVXVaa2RxM3pKMmlMQW1uVlAxYnZRbnBXRUNxdnhJQ2NKMTB3WFJfWEJBUFlELTF6bC1qdG1tS0kxMjM3VG9JelZMOTg?oc=5</link>
-      <guid isPermaLink="false">28df980b21b7ce3168f970dd</guid>
+      <title>[海外ルーターニュース] InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - Digital Journal</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPZTJFejR0MGtmNWh6dWdBLUVPQUFwTjJhWVFfLU4ydFRqaWxhNU43VnQ0SVpWdk0wenBhbUlWNTRWN2RPY19kWnEzX29XS2xmS2VFQjFORnpzQlZfVnlBWFg4enNuN0RKY193aTcxMVFIMjkxWElqLVd1NndYUnpfS1ZKTXR4TGlsVzlPWjNWSzZwcFBvbTFvaDYzbHE4TzRZQUxNdQ?oc=5</link>
+      <guid isPermaLink="false">7f7a6f6c69704163e2969128</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-10-27 13:09
-InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router The Globe and Mail</description>
-      <pubDate>Tue, 27 Oct 2026 22:55:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-27T22:55:59.338618Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-27T04:09:54Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-27 14:41
+InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router Digital Journal</description>
+      <pubDate>Wed, 28 Oct 2026 02:11:48 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-28T02:11:48.752120Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-27T05:41:39Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -117,34 +145,6 @@ Less than 24 hours left to grab this budget-friendly TP-Link Wi-Fi 7 router deal
       <sqm:firstSeenDate>2026-10-27T13:37:14.052740Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-23T15:07:28Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] ASUS Wi-Fi 7 router patch: advice for three CVEs - NeoTeo</title>
-      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkRfSHllV2dQSmg0WjJ5dlVlVEVRSU1MNVM0bGpqbjdyNjUtUU1BLXY2c0ozLTlvaE1JYnZCcTdhU2l2VkdRZUJEX2w3YS14bHBJZlE2LTFnbURabVZxVEplNTh4UE9KTHI0amlBaDAzOUZlOVNFcDNrWEJuN01OSGI3c05KaVBlU005N2g3TEhNOEk?oc=5</link>
-      <guid isPermaLink="false">dd7394bf0c96fe6ffaccbed0</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-23 16:00
-ASUS Wi-Fi 7 router patch: advice for three CVEs NeoTeo</description>
-      <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-27T13:37:14.052740Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-23T07:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Asus releases urgent router firmware to fix critical security flaws - news.lavx.hu</title>
-      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTc5MkFka3k5YnluY0VlV3cxV2dwcXFBNDZGTXZadHBrN2w5UUpXcDlWM0dMTlpBMnJnZVVDOHJkMjRfLURyd09XSTBodWxwUnd0OWRTcmw5SmRhSl9IMnF5UnBOdnE1dlRFb2hHN29lTHpRT2c3S0UzVzMwdTJDcVJxajVIOGFvRW1fNjVuSlpDT19YLVBPNUczQnA?oc=5</link>
-      <guid isPermaLink="false">c5d16054feb27a15b81d92cf</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-10-24 21:17
-Asus releases urgent router firmware to fix critical security flaws news.lavx.hu</description>
-      <pubDate>Tue, 27 Oct 2026 22:55:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-27T22:55:59.338618Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-24T12:17:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
