@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-28T08:24:18.182685Z",
+  "generated_at": "2026-10-28T15:25:55.389931Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-20T12:21:02Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 21
+    },
     {
       "id": "14531d5e920bb379cb250799",
       "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
@@ -18,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 18
+    },
+    {
+      "id": "a9a2917671fb20fcef3fbbdd",
+      "title": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5",
+      "summary": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider",
+      "published_at": "2026-10-24T16:16:22Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
     },
     {
       "id": "d65c92fcf17fa498f7f9ea4a",
@@ -31,11 +53,55 @@
       "score": 16
     },
     {
+      "id": "5c2636196a2feba708a780c9",
+      "title": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVRGWmxWeXhsZHBobEJwTWtUQWdfLWZyMUR1MnRiRzBndW5IVExXTlVWYlh0NWFsa0V5ajZ6QWtvZ01weWV1UzA4dXE2QkhRUjRlZDdiTlFSV1NBQnFheWlfTjRVQUJnNzhfc3NETmQ4TXA4UkE1ejZ1VjBkNWV0R0lNTHhORWN2WlE?oc=5",
+      "summary": "TP-Link Archer BE770 Review: The Wi-Fi 7 Router for People With Multi-Gig Internet PCMag",
+      "published_at": "2026-10-17T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
+      "id": "c516f4bfe2dd0bd2dd49b87e",
+      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
+      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
+      "published_at": "2026-10-28T12:02:40Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "8c3da731450f99ebd3175dad",
+      "title": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 - mediasat.info",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXVEQlFLRlFUeVphZzJZdUItbi1pSG04UWtVbkJKSHZxM3Btb1dfTm1xRWN6cWhmVjNkVEc2cWswVEkzXzJJSzVtV3g3VDRqVW00Tjh0MUtkOTZ2M0lrZ0hyT2RiYUd1bFo5Y0NmWUhORWlMY3pfUURGeEk3aVRRLWkzZ2s0SGI2QVh2bXdGZ3pPaTlZRDFxc0pDZm96TzA?oc=5",
+      "summary": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 mediasat.info",
+      "published_at": "2026-10-28T07:53:04Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "87f1d7251c973822085a3437",
       "title": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports - MIXED News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMDM4YnhZSHYzajV6dlN1bkZZSHRJRXVsSlRkc2ZwUGEwQmwtek91cW1iLUJlbS1NQjRrN0dpSXpHeUVIUF9WTG5iMHJ2R044dmJYNW1XUXRkcTBZZ2FXNno3OFhyWTh2SThZbkFYODV4bDdkbEhBWTJTcw?oc=5",
       "summary": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports MIXED News",
       "published_at": "2026-10-27T21:46:22Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "0a9830e156f4410b02a26303",
+      "title": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TTnctUnFzVjZNTnNpQVl1M3JsLTU1Q19IcVpRZUNpRUtUT3BkSFEwN3BzV0xqX1JjNXYxUnBzSGV0UFZlNlloZUpfRjlyRHNQUm84aFQ0WlVpanZsbEVXNlhtUXIweUZZZzY5M0FmVU11OHY0SFNnN3hRWThFdw?oc=5",
+      "summary": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router Dong Knows Tech",
+      "published_at": "2026-10-27T21:44:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -51,72 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
-    },
-    {
-      "id": "f5492f1efc9001fd548833d6",
-      "title": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFAzZGRCMTJKZVVMZE9MNkM0emlSWUFMTDh0eG9Uak80SlZ5cHZPbHVzNjd5dWNBMnFYczNHUm42anQyLTF1SVZxeHYwN1BwcEE3U0RlOUhKN0V1Wl9tUk1GVDg2cF9IT3JfVVVnZWd2RVdzZWNOaDJqUHNjSEJ2bg?oc=5",
-      "summary": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear https://tech-insider.org/",
-      "published_at": "2026-10-27T05:49:23Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "28df980b21b7ce3168f970dd",
-      "title": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV29rdnhXT1JaOWVjVkZUTEJzTkdxNENINTdjWGVWNnNfVEtYNjNqZzhPQkN4UzBhUmIteExKeFRmanUzbGh5ZmdKMDYzbWFWV29HVjl2VjBvR2M3WWJ6TDJfYUxmQlZ5OWZqNk5YLUhQckxhd3MtNnJJWDQwbzE2dlI2amFaR19rc2dQR1ZQS2EtcTBVLXVFTnQ3dnpzLU9RTmZjbjNmRUlVMUtSRDZYRkxkd3B1dDVPQjgtVmdVU095YlFYejU5TGdVenJQV1BTMGZmVXVaa2RxM3pKMmlMQW1uVlAxYnZRbnBXRUNxdnhJQ2NKMTB3WFJfWEJBUFlELTF6bC1qdG1tS0kxMjM3VG9JelZMOTg?oc=5",
-      "summary": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router The Globe and Mail",
-      "published_at": "2026-10-27T04:09:54Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "6b91c5bc56ec5e927357386f",
-      "title": "Asus rushes out router firmware update to fix critical vulnerabilities - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczlraHlxdWhNYXY2MkNNRGhMc0R6UXptM3JlNzBxem5FbEZHS21rdU91SGlvcFRVQXpBcGdXc0ttMFFRSE80cXZrMmJtZF9HYlhNSFQ5cldocnVSS0plU1dYY1pwOEVtWTltY3NySC1xVGh4aFZHMGpfTmxwREd6WWhvV1dQNUpYbC1fc2RjMDBVcmJ5SERSQXFpcy1NcnBaQkhUQ1QzU000Vlo1OW45QlliellBZw?oc=5",
-      "summary": "Asus rushes out router firmware update to fix critical vulnerabilities Notebookcheck",
-      "published_at": "2026-10-24T11:15:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "38de339d852ad2d88cf06339",
-      "title": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5",
-      "summary": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/",
-      "published_at": "2026-10-20T10:31:05Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "b5988a6ad939c7103401f1d1",
-      "title": "6 reasons your brand new router is making your Wi-Fi worse - How-To Geek",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVC1yaTRid1B1UWpLckItdG5fRTFMTDRPTTAyQlZhRTdTbmhReWlvZVJCZnBRdnJPaUlOR0pXRFpLVWotOTJidkFudUFQdW5jX3RCWmJjbDRYR01JRTVYTzZzbzRBNFI1ZHBwT3RfN3dCakk5RlR5OTFqRk5vcFFoNkpwbmZNaWd1d25GemJ6MA?oc=5",
-      "summary": "6 reasons your brand new router is making your Wi-Fi worse How-To Geek",
-      "published_at": "2026-10-23T18:31:18Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 7
     }
   ]
 }
