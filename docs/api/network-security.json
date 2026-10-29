@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-29T19:12:32.272437Z",
+  "generated_at": "2026-10-29T23:15:52.900615Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -18,6 +18,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 19
+    },
+    {
+      "id": "b7dcbd4691e1ef12dc0aab95",
+      "title": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5",
+      "summary": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-10-29T23:00:12Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 18
     },
     {
       "id": "c770dbc7bada947261cc79b0",
@@ -42,6 +53,17 @@
       "score": 14
     },
     {
+      "id": "315f40966e7b8bc81367823c",
+      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JR245MFNEVm16aWYyRjNmdzc0cWd3VGg2NDgtZ2hvY2pTS3lQNXFuWnloQXZkSHI5eUhEUzNzOW9YQzJRUmUzN1BZOFRzYy1TUWZ6a1k5U0locFRqcEV3TDR5NnhVNTRoQUhjV015MzRaWmNKQk8zajhfZDE?oc=5",
+      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を Excite エキサイト",
+      "published_at": "2026-10-28T05:55:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
       "id": "a21fc7512b6544888e009927",
       "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5",
@@ -53,33 +75,22 @@
       "score": 12
     },
     {
-      "id": "d348d81060ef64fe35903d8f",
-      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5",
-      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-10-28T05:41:00Z",
+      "id": "2a1db53b77fcc375bfce10e9",
+      "title": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md1N5OGdvYTdZbmZJWTRXYmx6N1hxUGJXQzBoNHlCc0tMMEFwY3Y0eXBtOEZNdVVwTkJVdEtZWlVZUDJHZFNXam1pQXVmZmM3bC1hSy0zNk9mcXpCR2RRdnZqWVNlQ1U0S0E?oc=5",
+      "summary": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 24Wireless",
+      "published_at": "2026-10-28T12:39:21Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 12
+      "score": 7
     },
     {
-      "id": "c877547ff0fef938ad4ae0a6",
-      "title": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5",
-      "summary": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net",
-      "published_at": "2026-10-26T15:13:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "e2dae70b760127f891bacc24",
-      "title": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t6b3JSd1UzOGpKOGxyeFotZWEyVFdaOUxJNDNpRWZyQ1p5dUN4OXJUaDJ5NzgycXl6OWg3SEhlTTIxRnZtTlJaTlg3NlMxQTZnSWFKS1NYWW5TNHlFZWt1MDdUb1pXLUkxak9aa3F0a3UxZ0V5YV9CWEVhTG53YjZuVzhrNmhIa3I0cXMtUWZSSnlrNEtMUVB5dF8?oc=5",
-      "summary": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り Pasquale Pillitteri",
-      "published_at": "2026-10-23T14:58:32Z",
+      "id": "7a6ee00bdf024684cb9aa00f",
+      "title": "NEC-PF、PHPの脆弱性によるAtermルーターへの影響がない旨を公表 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvMjRvTk5LTS1vdkRUYVhBTWhxSk1QNm51ZmlGS1R6dm92V3QybXd4UlM1dkJ0dlc3bjE1aEtPb1dNUlZrUGlqcDBIZi16bngwNE0zOEVWaUhxQQ?oc=5",
+      "summary": "NEC-PF、PHPの脆弱性によるAtermルーターへの影響がない旨を公表 24Wireless",
+      "published_at": "2026-10-26T11:31:21Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
