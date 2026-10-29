@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:12:32 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime</title>
@@ -22,16 +22,30 @@ CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks SOC 
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] New Cisco firewall zero-day exploited to crash SSL VPN devices - BleepingComputer</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0RWZmFqOE9ZWlFfblhyOFdiak9yZ2JMYmJYOHZ6ZXhUd1NUVDdxTXVYZEw2RzdjZ1U3XzgzVXF0TTlpbmVPWWZtcnJsa3pkY05UdFVia0toLTI1anlZUEE2b0FwV3RzRWthSE9ENFo1LTUtZS0wYlhxUGYxTXBfS0FlWVpFbFhPSk1BSTNJZ3JqSW9sd0hjeTFqelk5MkdzeEYxT05kbzNiYjZEeHp2Q0FxWEVYUQ?oc=5</link>
-      <guid isPermaLink="false">2eeabdc4d78dbc469ffd786f</guid>
+      <title>[セキュリティ] Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5</link>
+      <guid isPermaLink="false">c770dbc7bada947261cc79b0</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-10-29 20:10
-New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer</description>
-      <pubDate>Thu, 29 Oct 2026 13:42:49 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T13:42:49.301712Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T11:10:13Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-29 21:22
+Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls GBHackers News</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:32.271762Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-29T12:22:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks - Cyber Press</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQdIBb0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQQ?oc=5</link>
+      <guid isPermaLink="false">74fad2f3d888a162dce7362f</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-29 17:52
+Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks Cyber Press</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:32.271762Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-29T08:52:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>

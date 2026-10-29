@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:12:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Bara Internet Outage Disrupts Businesses and Online Education - PhoneWorld</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxPTWJKR183WEtkWTFFaUlCVkdyT3JHQXdKMnpYZ1UzSkE2Ujcyejc0MXpOMHR6dWg2YTc3R2RNb0pvWXVObU5NODNDTGZ5QWcwT3NmQk82elZFa2RFTWctVWZ4X3FZSUx4WHZiNjM3emVYdE5mN0Z4TGFyekgyZm9XVGRWTHNKeTdWTlhuVVVQM3ZEeEFDUXBN?oc=5</link>
-      <guid isPermaLink="false">a296c897a9101f39656d817c</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-10-29 19:53
-Bara Internet Outage Disrupts Businesses and Online Education PhoneWorld</description>
-      <pubDate>Thu, 29 Oct 2026 13:42:50 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T13:42:50.087800Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T10:53:34Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] Bara internet outage hits businesses hard - The Express Tribune</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNenhGM3g2TE1wU3dJM3ZtRlcyMk95T0FoWTd1b1NKMjBFSDB1V1lFbG05NUhsM3BHTVdZbl96QjZfTFMzNTFfVU9fM1VSRjhsOXllc0s2STNSTk1raFQ4MDdia0lpeDQ1YjdpRUNNdTN5YWVHUnhoSmhDdWFBdnBhc2x5a0LSAYwBQVVfeXFMUEdENE8yMEhWcFlTOWNWcXpoSm5va2xuWTNTTTQwaDFRV3JsUEtBbS1MLUFCUXlNWm9EdUVMQWQtYVVIYkZDVE1KVkRpX0IwRFVpVU4tVnNqVEtFM1Vfdlp1Q09sODdIeXVITUw3WkJ5UEVvR3MxdzN4NUhsdnNzWVVFOTBiOGtqblFxcGs?oc=5</link>
@@ -88,6 +74,62 @@ AT&amp;T internet outage hits Northwest Arkansas reaching nearly 400 customers K
       <pubDate>Mon, 26 Oct 2026 06:08:16 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-26T06:08:16.371073Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-25T23:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 - Vietnam.vn</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxONTV4Y19pNDU5MFFzVEdQSHB5LVF2R0JpOGFQbjYzaWI5ZTA1aF8xdHAzNlpieGxiaXhMSExCV3pLZkRudmhQU3ZDQU0tVG9pOTI1elpQS3U2Q3VVNEJpbnZKbUlmS0NhR0draDhSRkZYOGhVU3VNZUQ3RFJQeFpwcEIxNXJBU2ZoZnZtcEZZX3dOOE9YaDFiWjdLVm5NUkZQZm42WVgwRURpaVdSMWY1VzVLNHBRdw?oc=5</link>
+      <guid isPermaLink="false">1a8886c1bf9727b5bcb4da15</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-24 12:33
+ドンタップ省党委員会は、オンラインビデオ会議システムにIPv6を導入した先駆者である。 Vietnam.vn</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:33.460656Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-24T03:33:17Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ (窓の杜) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxORzhxQ2Y4THRRdkd4NVFjTlZDUTctYlpNdmRUWjhscUl4OVJzRTB5VkRWT1l6VmFmNk51RGhDWjlabkVzUjFhN3UzUWxwaWNYTXhfeTV2cTBwZTZ0SWZidzZPQkJoRERfUlp0RGQ2ajNvblg3THZwSHA4TEJFZGNLeVdvSk5xUVo1OUlCZTln?oc=5</link>
+      <guid isPermaLink="false">14de0ae3850f5713cdbba38b</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-23 16:45
+Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ (窓の杜) Yahoo!ニュース</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:33.460656Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-23T07:45:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ラポルテ五泉のインターネット通信障害について - 五泉市</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5nNmRPbUNkYTc0NXd3aV9EZ3ptb2pBTkN0RmlxazRTZ3o3WGd0T3dLVGlkeC1YTmVUSFI3WFVEV0VkRVlyZnA4SmNhZ3FrdTBWU2NHU0kyTnNQTDVmN20wVk4zZ193T1k4amx4cGYxbl9TYlljaFZEVg?oc=5</link>
+      <guid isPermaLink="false">fa6ad2791711328190476a38</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-23 16:20
+ラポルテ五泉のインターネット通信障害について 五泉市</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:33.460656Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-23T07:20:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ - 窓の杜</title>
+      <link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1VRk1QZG1EWnV2RjIyeDUwVUxaMmxXakJwVk45RV9DUGtaVEtYdm94RUo1VXk2Y0R4eHA0RVF6NG5ZUmVYTkExcXdDU3lEaE9ydExsQjlLeU1NQ3ZGVEJhbm9nTDRzMmJBTnJ1cmlWRjY3eTFBQzZj?oc=5</link>
+      <guid isPermaLink="false">77759ee4968ce5c71ca5baf2</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-23 06:45
+Windows 11、IPv6専用ネットワークでもIPv4アプリが使える「CLAT」に対応へ 窓の杜</description>
+      <pubDate>Thu, 29 Oct 2026 19:12:33 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T19:12:33.460656Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-22T21:45:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
