@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-29T06:27:04.098078Z",
+  "generated_at": "2026-10-29T13:42:48.438139Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,28 +20,6 @@
       "score": 16
     },
     {
-      "id": "c516f4bfe2dd0bd2dd49b87e",
-      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
-      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
-      "published_at": "2026-10-28T12:27:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "8c3da731450f99ebd3175dad",
-      "title": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 - mediasat.info",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXVEQlFLRlFUeVphZzJZdUItbi1pSG04UWtVbkJKSHZxM3Btb1dfTm1xRWN6cWhmVjNkVEc2cWswVEkzXzJJSzVtV3g3VDRqVW00Tjh0MUtkOTZ2M0lrZ0hyT2RiYUd1bFo5Y0NmWUhORWlMY3pfUURGeEk3aVRRLWkzZ2s0SGI2QVh2bXdGZ3pPaTlZRDFxc0pDZm96TzA?oc=5",
-      "summary": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 mediasat.info",
-      "published_at": "2026-10-28T07:53:04Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
       "id": "33aa6b5ceb9995bd48643486",
       "title": "Your Wi-Fi router has an expiration date - Pocket-lint",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwb3NVV25TNEZCU1c0c0I5eW1tbFZRY2UwSjF1YkczUjRoQ2hIcmxhMXpuOEdYeFN2dmFpX0s2bHF5UHJtczJkR3NtRUZUMFB3cXFxaG9obDFuN1pXbFRwaTQwcHVzRVJOZ25rTll5eTNwajI2dVRBZw?oc=5",
@@ -53,11 +31,22 @@
       "score": 13
     },
     {
-      "id": "87f1d7251c973822085a3437",
-      "title": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports - MIXED News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMDM4YnhZSHYzajV6dlN1bkZZSHRJRXVsSlRkc2ZwUGEwQmwtek91cW1iLUJlbS1NQjRrN0dpSXpHeUVIUF9WTG5iMHJ2R044dmJYNW1XUXRkcTBZZ2FXNno3OFhyWTh2SThZbkFYODV4bDdkbEhBWTJTcw?oc=5",
-      "summary": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports MIXED News",
-      "published_at": "2026-10-27T21:46:22Z",
+      "id": "c516f4bfe2dd0bd2dd49b87e",
+      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
+      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
+      "published_at": "2026-10-28T12:27:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "8c3da731450f99ebd3175dad",
+      "title": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 - mediasat.info",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXVEQlFLRlFUeVphZzJZdUItbi1pSG04UWtVbkJKSHZxM3Btb1dfTm1xRWN6cWhmVjNkVEc2cWswVEkzXzJJSzVtV3g3VDRqVW00Tjh0MUtkOTZ2M0lrZ0hyT2RiYUd1bFo5Y0NmWUhORWlMY3pfUURGeEk3aVRRLWkzZ2s0SGI2QVh2bXdGZ3pPaTlZRDFxc0pDZm96TzA?oc=5",
+      "summary": "Huawei’s book-shaped Router X2 and Router X2 Pro bring Wi-Fi 7 mediasat.info",
+      "published_at": "2026-10-28T07:53:04Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -115,6 +104,17 @@
       "published_at": "2026-10-24T11:15:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "38de339d852ad2d88cf06339",
+      "title": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUajFBWjAtb2NRblJBUUNUTF9ObWpua2pUSDd2a2Rvd2lLRTFXdjgwNzZTd1ZvOC1NWXJlWDFGbTFMOGVyUTY0TV8zcWRNYmtGX1Nybi1PNjJXdmJfRnVKNnd1RFBsbjYwYnktVkRrTVBLTzg?oc=5",
+      "summary": "devolo BE9300 Wi-Fi 7 Router Hits 9.3Gbps for $280 [2026] https://tech-insider.org/",
+      "published_at": "2026-10-20T10:31:05Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }
