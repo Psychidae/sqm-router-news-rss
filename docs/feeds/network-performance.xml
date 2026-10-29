@@ -5,8 +5,36 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:32:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:24:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Brits urged to keep cash at home as internet outage could leave some areas exposed - NationalWorld</title>
+      <link>https://news.google.com/rss/articles/CBMilAJBVV95cUxOSjlHM1lTcHp6TVZla191SWVMM1dIdDRzSk02TW1BenNVdHlTWEdFMDBETHdDUVktTkx0LTktY29ES1l1N0NiVFVvWHZYY2NsbmhjYW5VaEFXYktqTDJ5VXpVTzI4X0IycUxidGNWem5CR1YtY2J0dnVVSkxfOWVhZjJ1QnJySEQ2RjVHMkRjM1BPc054VUhBRHR1V204ZmxZMC1nTVo3eXF2OXNVQVpyQ0JBMlU3OE1aZm1tMVJtMGdWSVhEM2x1a0lOaVd5SG4xRWZlWk9zeGlDUDJHdVVmVFU1aHB5aUlXbUIzdEpFWDhHcDBuSWlIeHRMWDhUYXRGQlo4NmJFWDhLSnJsNmVyTFE2TUI?oc=5</link>
+      <guid isPermaLink="false">6d3f83994563f08b99deda2a</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-10-28 20:16
+Brits urged to keep cash at home as internet outage could leave some areas exposed NationalWorld</description>
+      <pubDate>Thu, 29 Oct 2026 00:24:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T00:24:04.208910Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-28T11:16:06Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Colt、東京・大阪間の通信に新ルート 70km短い回線で遅延を約3割低減 - 日経クロステック</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE8yQlpydEZUZ3MxTXc4azBoSUFGRy1oeWNEQkxRejUza1FacWIzcUU5OFdnMkktQjVzMUhKckwtSTh4LVZYX0VyT1Y1UHZ2UDdwb3lhWmRaX3lwV1lGdEd6c3ZaUnVmSnpXaUJLcUxieG8ydw?oc=5</link>
+      <guid isPermaLink="false">bedc2c4fa38d429e90002dc8</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-10-29 07:04
+Colt、東京・大阪間の通信に新ルート 70km短い回線で遅延を約3割低減 日経クロステック</description>
+      <pubDate>Thu, 29 Oct 2026 00:24:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T00:24:04.208910Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-28T22:04:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] A weeklong internet outage has preppers recommending an unusual backup supply: Entertainment - The Cool Down</title>
       <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxORGVuOXhRQjg3cU9DSDNRWlplZWczVjF6R2hZTXFqNXRMbWNVV245VDF1enQwclpRX2hqaGxPRGt5NVNuelhpbk8telRfVkwxQ3RBNWhzUEJfdDktMWlKNzRkcjNoWExGRWhjQjJKOXczbFVQNmtadlI5ZS1FenJ4aEZQaFpYT2NaNUluaXBOZk44eXFK?oc=5</link>
