@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 08:58:35 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Bara internet outage hits businesses hard - The Express Tribune</title>
@@ -60,20 +60,6 @@ AT&amp;T internet outage hits Northwest Arkansas reaching nearly 400 customers K
       <pubDate>Tue, 27 Oct 2026 02:02:07 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-27T02:02:07.847691Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-26T22:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ”ラグ問題”にVTuberが挑んだ低遅延セッションアプリ「SyncueSong」。モニターと配信音声を別々に処理 - AV Watch</title>
-      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTFBrVWxZcDV0cDJwOTl3WGJCTDlaS0NWcDNGdTJzMjlZWFl3RXdrQ1hpSDlDYWY2NmtDSlh2OG1NZC1hRjFSU3pDVFhKb1JyYTJyLXhESE02WlZjNEF2enQ5V3lxMjFONUROa1pR?oc=5</link>
-      <guid isPermaLink="false">80de5704b1324903dd6301d7</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-10-26 08:00
-”ラグ問題”にVTuberが挑んだ低遅延セッションアプリ「SyncueSong」。モニターと配信音声を別々に処理 AV Watch</description>
-      <pubDate>Mon, 26 Oct 2026 06:08:16 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-26T06:08:16.371073Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-25T23:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>

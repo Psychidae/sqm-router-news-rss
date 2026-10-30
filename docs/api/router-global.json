@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-30T02:36:45.074240Z",
+  "generated_at": "2026-10-30T08:58:33.183621Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-20T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 21
+    },
     {
       "id": "3fca2189a8ffe4d30ae2c310",
       "title": "Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review",
@@ -18,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
+    },
+    {
+      "id": "14531d5e920bb379cb250799",
+      "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5",
+      "summary": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK",
+      "published_at": "2026-10-26T03:01:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
     },
     {
       "id": "a9a2917671fb20fcef3fbbdd",
@@ -53,22 +75,22 @@
       "score": 16
     },
     {
-      "id": "99dcbd04b24e5f5b0eeafa56",
-      "title": "ZTE launches budget Wi-Fi 7 router with 3.57Gbps speeds, AI Mesh and dual WAN support - Gizmochina",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYXRQbDE0OWJjMzdLanRRQ2F3NjMxUVZINEZzQ2hMSURSZzZyV0xKU3lQRFdMZTBVdFV1VDhlRXdFM1A2b0UycktUS0Z1TEt2Y2hwTFRJVGxwNnB4WHg2Rk9zZkhtTFhCNlphQmE0bjB4ZlhocjJNRGtsWmI3ZGZHbHU1WFYxRjFtT3RpdVozeUhwMW55c0thYw?oc=5",
-      "summary": "ZTE launches budget Wi-Fi 7 router with 3.57Gbps speeds, AI Mesh and dual WAN support Gizmochina",
-      "published_at": "2026-10-29T18:18:33Z",
+      "id": "34e139687dafdc1b7b21e279",
+      "title": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBqblItSGVqd1RGaS1xSXpOdldLLTR1bXo0amxaT19udXRfRnFIZ3FiNERaNHNQZlBxb1hCS05xdzhkdGZCN1BPMS1Nek4zXzhJUEFnTm9Yd3RSQjVjMXRTVDlUS1lqZC1Qc2xkeFNsbFJHSzYzRVliSXVIWk1GbDhRWnk?oc=5",
+      "summary": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support Mezha.net",
+      "published_at": "2026-10-29T18:35:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
     },
     {
-      "id": "c516f4bfe2dd0bd2dd49b87e",
+      "id": "6e58ed077be993ae1ddcc4d2",
       "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUdIBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
       "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
-      "published_at": "2026-10-28T12:27:19Z",
+      "published_at": "2026-10-28T12:09:10Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -91,28 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMDM4YnhZSHYzajV6dlN1bkZZSHRJRXVsSlRkc2ZwUGEwQmwtek91cW1iLUJlbS1NQjRrN0dpSXpHeUVIUF9WTG5iMHJ2R044dmJYNW1XUXRkcTBZZ2FXNno3OFhyWTh2SThZbkFYODV4bDdkbEhBWTJTcw?oc=5",
       "summary": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports MIXED News",
       "published_at": "2026-10-27T21:46:22Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "0a9830e156f4410b02a26303",
-      "title": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router - Dong Knows Tech",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TTnctUnFzVjZNTnNpQVl1M3JsLTU1Q19IcVpRZUNpRUtUT3BkSFEwN3BzV0xqX1JjNXYxUnBzSGV0UFZlNlloZUpfRjlyRHNQUm84aFQ0WlVpanZsbEVXNlhtUXIweUZZZzY5M0FmVU11OHY0SFNnN3hRWThFdw?oc=5",
-      "summary": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router Dong Knows Tech",
-      "published_at": "2026-10-27T21:44:47Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "d2462bc83096a1f1a6146510",
-      "title": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5",
-      "summary": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell Gadget Review",
-      "published_at": "2026-10-27T19:02:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

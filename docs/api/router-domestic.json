@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-30T02:36:43.838990Z",
+  "generated_at": "2026-10-30T08:58:31.876807Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "e7dd5a8565d9ccfa1bd77a7b",
+      "title": "ASUS、次世代Wi-Fi 8対応ゲーミングルーター 18万円台でAmazon限定発売 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92S0pxYkp6U1o3bjd1VjF3VFp2R2dNUkNTdlZHMmRqdlVEUlBzVmdQMGthMU9vcjRhTUtGM3JyeVdLbm5aaVRXMmdVTDZoR2dvTHlXSnBSQzRsMk1TMHlTUDJ4c0NRWHItMHF1U3BJTndwbEhQ?oc=5",
+      "summary": "ASUS、次世代Wi-Fi 8対応ゲーミングルーター 18万円台でAmazon限定発売 BigGo ファイナンス",
+      "published_at": "2026-10-30T06:56:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
     {
       "id": "405396edc1d0735e0a93e404",
       "title": "今度のASUSの新製品はコスパもスゴい!! 最新Wi-Fi 7ルーター「RT-BE3600J Pro」の実力を動画で検証 - INTERNET Watch",
@@ -18,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
+    },
+    {
+      "id": "714953ece3f22932b12164dc",
+      "title": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 - ITmedia PC USER - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fY3NoaVBlVDNZcTJKQWQ5OXpvemJpUzJiOTZhTVFFWjdCUHpEWFdJY1lfbFY0VUVzSklweVRvUFJIOXpid0tZc1NiODVBdnR4UGpBUXR4WjNjSEVHQ0I1QmhiTlZSTVdGV3lDQnNVMNIBaEFVX3lxTE5RTHc4OTluZzRwZ0ltbldid3R2c042ZGRZeDRSVGJCUlM4VUl2ejlTSFRndjF3RWZJUnFfMEFUcC05VnpDOXVWOEUzeUZzOHplVlh3UW9uMEFVQmFqLUU0T3dwd09GVVhZ?oc=5",
+      "summary": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 - ITmedia PC USER ITmedia",
+      "published_at": "2026-10-30T06:04:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "64d54cab0300256e465dfde4",
@@ -53,6 +75,17 @@
       "score": 13
     },
     {
+      "id": "e4b97cd3d6cd4e2fa9a60fa6",
+      "title": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qbnRJN181TEpvbGhGdDlsTVNZZ181VlJDSXo4bDRzOUxDRVF6R2plcWRCaFhEVGFxUW03OTlwX1JBdjlQOVk4TGY2cktyY0hwMmRKX2NTY0xQZnFiLUU2M09fT1JBWGlBXzE5WlU5ZGNkWVVKSFBmSDR4Ylc?oc=5",
+      "summary": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売 Excite エキサイト",
+      "published_at": "2026-10-29T08:09:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
       "id": "3771195f02eeb9e67c2776b4",
       "title": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売 - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZdTFpdGlSR2Zqb2wwOUlsaHE4YmlRZ3d4NVBlMnVnQ0h2QU1QY1RWNy04aUI2YzFHejd6WDByWGo0aDdpUlBZVzk5X0FkRFJubFR1TTRZNll2RDRTb0NEb002R1M5ckVuVTRF?oc=5",
@@ -61,40 +94,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "af3cede6e989b137582671fe",
-      "title": "ASUS、次世代無線規格WiFi 8対応のゲーミングルーター「ROG Rapture GT-BN98」 - kakaku.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pNFBfRF81cG9YbFpNSFl3dHVUcGhzWTZEcktEZmxWZFZacVJSU3BHaUYwS2FMZF9XMFRhMWxYc3BsVnZHM01nWElMcFJCbmtDbmMzZGlBdWMyT0xmZHhZR2pSTmpFdXBHU1E?oc=5",
-      "summary": "ASUS、次世代無線規格WiFi 8対応のゲーミングルーター「ROG Rapture GT-BN98」 kakaku.com",
-      "published_at": "2026-10-29T07:23:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "646f269fe908233e2417df36",
-      "title": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQck53Mk90em03UmhRbWQzckpQQkVCWVBGenpZUkdZeklrYmZramROLUIwSXJKLXAtSHpoOGJzUWtZekg0U1RyY0gzSFB0cGpZZ2V4UGNLN2tJSVpHaVZYTS1wMXZxSVdJeDB5Z296UmFuU3QzdTYyQ1NzcmhkSm5RVHNpb2pnTU84MFR30gGQAUFVX3lxTE1mcU05OElQa0VDSERIN2FZYlBlQ2ZXUzRjN3lVZVpRZ0V1aWxMOEJYQ0Q4OVM0UjF3aWdEckppZ0tTYWhBZjdzTzVsaXhjNHBmQ3U1ZnQ4VGU0WGVsRjMxTjFQSVlma1JPMVUzc1BTMjdaT1dSd3Z1UDFNeE9uTzBHX2VCUEZVMUNhREtDeVlrYQ?oc=5",
-      "summary": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ ｄメニューニュース",
-      "published_at": "2026-10-27T02:30:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "620897f60e9ff7c92cb52b09",
-      "title": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xdUs3SkdobEh6bVZyTklIUVc1VEN6T09RbE9ZM01xeXdmeXhjcmVTeWNIWW5yNC1BMjJfTDYyN1U5Nm1fSXBENDQ4NlhIOTBhamNmUHdwWmFua3FweEZOekExNUNaNWpPNlR3UFd5bE4?oc=5",
-      "summary": "バッファロー製のWi-FiルーターやNASがAmazonでお買い得に！ INTERNET Watch",
-      "published_at": "2026-10-27T02:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
+      "score": 12
     }
   ]
 }
