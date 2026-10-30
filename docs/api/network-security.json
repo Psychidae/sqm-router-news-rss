@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-30T15:53:34.762526Z",
+  "generated_at": "2026-10-30T20:44:32.768882Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -53,17 +53,6 @@
       "score": 13
     },
     {
-      "id": "315f40966e7b8bc81367823c",
-      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JR245MFNEVm16aWYyRjNmdzc0cWd3VGg2NDgtZ2hvY2pTS3lQNXFuWnloQXZkSHI5eUhEUzNzOW9YQzJRUmUzN1BZOFRzYy1TUWZ6a1k5U0locFRqcEV3TDR5NnhVNTRoQUhjV015MzRaWmNKQk8zajhfZDE?oc=5",
-      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を Excite エキサイト",
-      "published_at": "2026-10-28T05:55:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "a21fc7512b6544888e009927",
       "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5",
@@ -73,6 +62,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 12
+    },
+    {
+      "id": "d348d81060ef64fe35903d8f",
+      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5",
+      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-10-28T05:41:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
+      "id": "c877547ff0fef938ad4ae0a6",
+      "title": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5",
+      "summary": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net",
+      "published_at": "2026-10-26T15:13:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
     },
     {
       "id": "4ff8968e4ce75f306633ce0e",
@@ -86,11 +97,11 @@
       "score": 8
     },
     {
-      "id": "2a1db53b77fcc375bfce10e9",
-      "title": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md1N5OGdvYTdZbmZJWTRXYmx6N1hxUGJXQzBoNHlCc0tMMEFwY3Y0eXBtOEZNdVVwTkJVdEtZWlVZUDJHZFNXam1pQXVmZmM3bC1hSy0zNk9mcXpCR2RRdnZqWVNlQ1U0S0E?oc=5",
-      "summary": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 24Wireless",
-      "published_at": "2026-10-28T12:39:21Z",
+      "id": "1ab7d07d12e2b85b5621d489",
+      "title": "CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYOER1R0tmaGc0LV9mSmlxZENYOG0tUXZ3SVhleXJtMmdkNlZXTFp4OUZNVVRnNGxTcUZKM2pJRXFyOWREZlluOHRmS0lDaTl5c1pQWU1zWjg0eHBQcnJGVlB3?oc=5",
+      "summary": "CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される SOC Prime",
+      "published_at": "2026-10-28T07:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
