@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-30T08:58:33.183621Z",
+  "generated_at": "2026-10-30T15:53:33.831232Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 19
-    },
-    {
-      "id": "14531d5e920bb379cb250799",
-      "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5",
-      "summary": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK",
-      "published_at": "2026-10-26T03:01:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 17
     },
     {
       "id": "a9a2917671fb20fcef3fbbdd",
@@ -113,6 +102,17 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMDM4YnhZSHYzajV6dlN1bkZZSHRJRXVsSlRkc2ZwUGEwQmwtek91cW1iLUJlbS1NQjRrN0dpSXpHeUVIUF9WTG5iMHJ2R044dmJYNW1XUXRkcTBZZ2FXNno3OFhyWTh2SThZbkFYODV4bDdkbEhBWTJTcw?oc=5",
       "summary": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports MIXED News",
       "published_at": "2026-10-27T21:46:22Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "0a9830e156f4410b02a26303",
+      "title": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router - Dong Knows Tech",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TTnctUnFzVjZNTnNpQVl1M3JsLTU1Q19IcVpRZUNpRUtUT3BkSFEwN3BzV0xqX1JjNXYxUnBzSGV0UFZlNlloZUpfRjlyRHNQUm84aFQ0WlVpanZsbEVXNlhtUXIweUZZZzY5M0FmVU11OHY0SFNnN3hRWThFdw?oc=5",
+      "summary": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router Dong Knows Tech",
+      "published_at": "2026-10-27T21:44:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

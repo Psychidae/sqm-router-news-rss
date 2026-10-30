@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-30T08:58:34.223098Z",
+  "generated_at": "2026-10-30T15:53:34.762526Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 9,
+  "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "005a02b864be30aada1b20c7",
-      "title": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wd3VVYTVybThKejJwZEJEZkpUWlFsa0xTRkRDQUhNRXlHUHhSWVpWSGxvMlFHV1p5YU5KdV9kdDAwdFA1ajdHbEd6OWNadTVOWG9HVDlDZlhjRGhwN2tNUzZQQnFOSDlyNk5uM0NWamxUSkd4MVpyeldWTTA?oc=5",
-      "summary": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks SOC Prime",
-      "published_at": "2026-10-29T13:11:26Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 19
-    },
     {
       "id": "b7dcbd4691e1ef12dc0aab95",
       "title": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -31,6 +20,17 @@
       "score": 18
     },
     {
+      "id": "005a02b864be30aada1b20c7",
+      "title": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wd3VVYTVybThKejJwZEJEZkpUWlFsa0xTRkRDQUhNRXlHUHhSWVpWSGxvMlFHV1p5YU5KdV9kdDAwdFA1ajdHbEd6OWNadTVOWG9HVDlDZlhjRGhwN2tNUzZQQnFOSDlyNk5uM0NWamxUSkd4MVpyeldWTTA?oc=5",
+      "summary": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks SOC Prime",
+      "published_at": "2026-10-29T13:11:26Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
       "id": "c770dbc7bada947261cc79b0",
       "title": "Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5",
@@ -39,7 +39,7 @@
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 14
+      "score": 13
     },
     {
       "id": "74fad2f3d888a162dce7362f",
@@ -53,6 +53,17 @@
       "score": 13
     },
     {
+      "id": "315f40966e7b8bc81367823c",
+      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JR245MFNEVm16aWYyRjNmdzc0cWd3VGg2NDgtZ2hvY2pTS3lQNXFuWnloQXZkSHI5eUhEUzNzOW9YQzJRUmUzN1BZOFRzYy1TUWZ6a1k5U0locFRqcEV3TDR5NnhVNTRoQUhjV015MzRaWmNKQk8zajhfZDE?oc=5",
+      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を Excite エキサイト",
+      "published_at": "2026-10-28T05:55:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
       "id": "a21fc7512b6544888e009927",
       "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5",
@@ -62,28 +73,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 12
-    },
-    {
-      "id": "d348d81060ef64fe35903d8f",
-      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5",
-      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-10-28T05:41:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "c877547ff0fef938ad4ae0a6",
-      "title": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5",
-      "summary": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net",
-      "published_at": "2026-10-26T15:13:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
     },
     {
       "id": "4ff8968e4ce75f306633ce0e",
@@ -97,15 +86,15 @@
       "score": 8
     },
     {
-      "id": "e2dae70b760127f891bacc24",
-      "title": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2t6b3JSd1UzOGpKOGxyeFotZWEyVFdaOUxJNDNpRWZyQ1p5dUN4OXJUaDJ5NzgycXl6OWg3SEhlTTIxRnZtTlJaTlg3NlMxQTZnSWFKS1NYWW5TNHlFZWt1MDdUb1pXLUkxak9aa3F0a3UxZ0V5YV9CWEVhTG53YjZuVzhrNmhIa3I0cXMtUWZSSnlrNEtMUVB5dF8?oc=5",
-      "summary": "WPSplinter、16年前からあるBroadcomの脆弱性、パスワード不要でルーターを乗っ取り Pasquale Pillitteri",
-      "published_at": "2026-10-23T14:58:32Z",
+      "id": "2a1db53b77fcc375bfce10e9",
+      "title": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md1N5OGdvYTdZbmZJWTRXYmx6N1hxUGJXQzBoNHlCc0tMMEFwY3Y0eXBtOEZNdVVwTkJVdEtZWlVZUDJHZFNXam1pQXVmZmM3bC1hSy0zNk9mcXpCR2RRdnZqWVNlQ1U0S0E?oc=5",
+      "summary": "ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 24Wireless",
+      "published_at": "2026-10-28T12:39:21Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 6
+      "score": 7
     }
   ]
 }
