@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-10-29T23:15:53.953377Z",
+  "generated_at": "2026-10-30T02:36:46.964268Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -20,17 +20,6 @@
       "score": 9
     },
     {
-      "id": "88c92020f6b88288396f9940",
-      "title": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers - KNWA FOX24",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVZLcWxDMGxpQl9GWUV5cDdyOXZydGhpUVJudy1sdlJfQ3Q5UVdoMjhuWGNUV1JjamJpejBaZHpkYWx6WTlJWERTV0hCbW8xQ19HdzNmVm83ZjgwLVQzQXZ1VGRVSXhRXzNEcGRYMFE2LUc0R0dvUFUtaXNfVG9oVURoY3hIdDBSb2MzVFNuOHd4TnhSemx2d2ozX3hjbXh1NXh6YnZxMVFjbzU1UFlIeVdqNDVxVnRWMndWMWJVeE9RcWE30gHKAUFVX3lxTFBpVEJXRnBVUHJvSk9BV3pzV3R1RHE2N29uOFBMZl9fdVZIdTMyekRYeG9OeVkzUE95TDZObURFSG1fWlRvM0FMZ3UyS3N4b1RNYkQ4eC1OY2JtelNwaDFocWR2R2dfY2s2bi1vdU9nNWtJaEdZdnFQRFNTSmRMTG5rd0lGN3JDNGM3YzdLeHJIRktSVEF0OEdvYTQ2bjdNRVdraWxaY05pc1NTVURKT0UzQS1fM2FJRDU5M2pUR3dvdXpLcDVNSFBWdUE?oc=5",
-      "summary": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers KNWA FOX24",
-      "published_at": "2026-10-27T01:01:24Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "bedc2c4fa38d429e90002dc8",
       "title": "Colt、東京・大阪間の通信に新ルート 70km短い回線で遅延を約3割低減 - 日経クロステック",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yQlpydEZUZ3MxTXc4azBoSUFGRy1oeWNEQkxRejUza1FacWIzcUU5OFdnMkktQjVzMUhKckwtSTh4LVZYX0VyT1Y1UHZ2UDdwb3lhWmRaX3lwV1lGdEd6c3ZaUnVmSnpXaUJLcUxieG8ydw?oc=5",
@@ -38,6 +27,17 @@
       "published_at": "2026-10-28T22:04:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "88c92020f6b88288396f9940",
+      "title": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers - KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVZLcWxDMGxpQl9GWUV5cDdyOXZydGhpUVJudy1sdlJfQ3Q5UVdoMjhuWGNUV1JjamJpejBaZHpkYWx6WTlJWERTV0hCbW8xQ19HdzNmVm83ZjgwLVQzQXZ1VGRVSXhRXzNEcGRYMFE2LUc0R0dvUFUtaXNfVG9oVURoY3hIdDBSb2MzVFNuOHd4TnhSemx2d2ozX3hjbXh1NXh6YnZxMVFjbzU1UFlIeVdqNDVxVnRWMndWMWJVeE9RcWE30gHKAUFVX3lxTFBpVEJXRnBVUHJvSk9BV3pzV3R1RHE2N29uOFBMZl9fdVZIdTMyekRYeG9OeVkzUE95TDZObURFSG1fWlRvM0FMZ3UyS3N4b1RNYkQ4eC1OY2JtelNwaDFocWR2R2dfY2s2bi1vdU9nNWtJaEdZdnFQRFNTSmRMTG5rd0lGN3JDNGM3YzdLeHJIRktSVEF0OEdvYTQ2bjdNRVdraWxaY05pc1NTVURKT0UzQS1fM2FJRDU5M2pUR3dvdXpLcDVNSFBWdUE?oc=5",
+      "summary": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers KNWA FOX24",
+      "published_at": "2026-10-27T01:01:24Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 7
     },
