@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 00:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:33:46 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime</title>
@@ -64,6 +64,20 @@ Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Fir
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - Excite エキサイト</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1JR245MFNEVm16aWYyRjNmdzc0cWd3VGg2NDgtZ2hvY2pTS3lQNXFuWnloQXZkSHI5eUhEUzNzOW9YQzJRUmUzN1BZOFRzYy1TUWZ6a1k5U0locFRqcEV3TDR5NnhVNTRoQUhjV015MzRaWmNKQk8zajhfZDE?oc=5</link>
+      <guid isPermaLink="false">315f40966e7b8bc81367823c</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-28 14:55
+ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を Excite エキサイト</description>
+      <pubDate>Sat, 31 Oct 2026 05:33:46 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-31T05:33:46.106606Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-28T05:55:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5</link>
       <guid isPermaLink="false">a21fc7512b6544888e009927</guid>
@@ -74,34 +88,6 @@ Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Fir
       <pubDate>Wed, 28 Oct 2026 15:25:56 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-28T15:25:56.658539Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-28T05:41:07Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5</link>
-      <guid isPermaLink="false">d348d81060ef64fe35903d8f</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-28 14:41
-ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース</description>
-      <pubDate>Fri, 30 Oct 2026 20:44:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-30T20:44:32.768060Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-28T05:41:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5</link>
-      <guid isPermaLink="false">c877547ff0fef938ad4ae0a6</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-27 00:13
-BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net</description>
-      <pubDate>Fri, 30 Oct 2026 20:44:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-30T20:44:32.768060Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-26T15:13:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -120,16 +106,16 @@ Genians「企業内部ネットワークのPHP機器96%、『PHP2Shell』脆弱�
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される - SOC Prime</title>
-      <link>https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYOER1R0tmaGc0LV9mSmlxZENYOG0tUXZ3SVhleXJtMmdkNlZXTFp4OUZNVVRnNGxTcUZKM2pJRXFyOWREZlluOHRmS0lDaTl5c1pQWU1zWjg0eHBQcnJGVlB3?oc=5</link>
-      <guid isPermaLink="false">1ab7d07d12e2b85b5621d489</guid>
+      <title>[セキュリティ] ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 - 24Wireless</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md1N5OGdvYTdZbmZJWTRXYmx6N1hxUGJXQzBoNHlCc0tMMEFwY3Y0eXBtOEZNdVVwTkJVdEtZWlVZUDJHZFNXam1pQXVmZmM3bC1hSy0zNk9mcXpCR2RRdnZqWVNlQ1U0S0E?oc=5</link>
+      <guid isPermaLink="false">2a1db53b77fcc375bfce10e9</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-10-28 16:00
-CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される SOC Prime</description>
-      <pubDate>Fri, 30 Oct 2026 20:44:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-30T20:44:32.768060Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-28T07:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-28 21:39
+ヤマハ「NWR100」にOSコマンドインジェクション等の脆弱性、FW更新で対処可 24Wireless</description>
+      <pubDate>Sat, 31 Oct 2026 05:33:46 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-31T05:33:46.106606Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-28T12:39:21Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
