@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-10-31T05:33:44.571367Z",
+  "generated_at": "2026-10-31T11:13:35.548549Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -17,7 +17,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 18
+      "score": 17
     },
     {
       "id": "3367341da45169c35fdaa54f",
@@ -25,28 +25,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcnN0VU54UkY4ak1RTFFSSkVtLXBtOXJKVmlYQzRQMkhaMDZxZng3QjVTczdTZDR1SkI4bzNya1g0eTVnOWZMNWI4aC1SbHBaaUZlam1VNDZXaE84WGFHSEJKV2xoR1dSQjA2TmprQWprQQ?oc=5",
       "summary": "ASUSのWi-Fi 8対応ゲーミングWi-Fiルーター「ROG Rapture GT-BN98」が登場、約18万円 AKIBA PC Hotline!",
       "published_at": "2026-10-30T15:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "d25280f1e4e1eb3cbc269834",
-      "title": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 (ITmedia PC USER) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUVjRHZjdjBLbU91Uk5xSG5UbE50T1hkcnNXUGp1ejl0TVhwTkJkNGRPVWVGdTlHVmNVOGp6NWpVQmtLQnNwZ2p0MG04OE8wWmNqZzhSYVJVMXNRZkVaTmRkam04T0tEcU1xVjYzRGotWVUtNm8zYVpnRjBHZzh3NnN4ZDBqWmtudmxjVUVR?oc=5",
-      "summary": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 (ITmedia PC USER) Yahoo!ニュース",
-      "published_at": "2026-10-30T08:06:09Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "cbf2b65e58b4e24d6b859415",
-      "title": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwbjh5S3ljbmtuSHhpTnlRNXBWLWxuMWE1UmduaGRvTGU3NUFtX2lZLVpJYk43TzZ6RU12dE11dkJkVVlnS21UQjdXNVlhY21iWFFVelBGQ2hSTU1jWmlHYlMyVlRfdG5lZ1I1VmsxaDkzWnczbFHSAXZBVV95cUxQMG44eUt5Y25rbkh4aU55UTVwVi1sbjFhNVJnbmhkb0xlNzVBbV9pWS1aSWJON082ekVNdnRNdXZCZFVZZ0ttVEI3VzVZYWNtYlhRVXpQRkNoUk1NY1ppR2JTMlZUX3RuZWdSNVZrMWg5M1p3M2xR?oc=5",
-      "summary": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 Infoseek",
-      "published_at": "2026-10-30T08:06:09Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -61,7 +39,7 @@
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "fc38788b2798056f774e1794",
@@ -93,6 +71,28 @@
       "published_at": "2026-10-29T09:52:10Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "3771195f02eeb9e67c2776b4",
+      "title": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZdTFpdGlSR2Zqb2wwOUlsaHE4YmlRZ3d4NVBlMnVnQ0h2QU1QY1RWNy04aUI2YzFHejd6WDByWGo0aDdpUlBZVzk5X0FkRFJubFR1TTRZNll2RDRTb0NEb002R1M5ckVuVTRF?oc=5",
+      "summary": "ASUS、Wi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」を10月30日発売 INTERNET Watch",
+      "published_at": "2026-10-29T07:55:25Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "09ca9e23cf52cd9a2ebd1446",
+      "title": "国内初のWi-Fi 8ルーター「ROG Rapture GT-BN98」がAmazonで発売、デュアル10GbE対応 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qcDQ2c3ZZM2VnWkxRWW1HR3NDQkc5andNNkJLd3pvTk82X2d4MzJFLWE1Y09vdmJHdVZMYTZ2MmljOFJ4dEQ2Rms4MFpyXzN1UzR3SC03aUktRnhUYXhYWXl6cmg?oc=5",
+      "summary": "国内初のWi-Fi 8ルーター「ROG Rapture GT-BN98」がAmazonで発売、デュアル10GbE対応 24Wireless",
+      "published_at": "2026-10-29T07:27:39Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
     }
