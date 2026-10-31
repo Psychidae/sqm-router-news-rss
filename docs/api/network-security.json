@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-31T11:13:37.524240Z",
+  "generated_at": "2026-10-31T16:04:42.997250Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 6,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -14,6 +14,17 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wd3VVYTVybThKejJwZEJEZkpUWlFsa0xTRkRDQUhNRXlHUHhSWVpWSGxvMlFHV1p5YU5KdV9kdDAwdFA1ajdHbEd6OWNadTVOWG9HVDlDZlhjRGhwN2tNUzZQQnFOSDlyNk5uM0NWamxUSkd4MVpyeldWTTA?oc=5",
       "summary": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks SOC Prime",
       "published_at": "2026-10-29T13:11:26Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "2eeabdc4d78dbc469ffd786f",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0RWZmFqOE9ZWlFfblhyOFdiak9yZ2JMYmJYOHZ6ZXhUd1NUVDdxTXVYZEw2RzdjZ1U3XzgzVXF0TTlpbmVPWWZtcnJsa3pkY05UdFVia0toLTI1anlZUEE2b0FwV3RzRWthSE9ENFo1LTUtZS0wYlhxUGYxTXBfS0FlWVpFbFhPSk1BSTNJZ3JqSW9sd0hjeTFqelk5MkdzeEYxT05kbzNiYjZEeHp2Q0FxWEVYUQ?oc=5",
+      "summary": "New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer",
+      "published_at": "2026-10-29T11:10:13Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
@@ -42,22 +53,33 @@
       "score": 13
     },
     {
-      "id": "74fad2f3d888a162dce7362f",
-      "title": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks - Cyber Press",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQdIBb0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQQ?oc=5",
-      "summary": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks Cyber Press",
-      "published_at": "2026-10-29T08:52:04Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
       "id": "a21fc7512b6544888e009927",
       "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5",
       "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を INTERNET Watch",
       "published_at": "2026-10-28T05:41:07Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
+    {
+      "id": "d348d81060ef64fe35903d8f",
+      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5",
+      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
+      "published_at": "2026-10-28T05:41:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
+    {
+      "id": "c877547ff0fef938ad4ae0a6",
+      "title": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTBHMmU3VlJhaHVmc21uSzc1cDhFZWotX3BsQUExSzUyNDZQS0RTeEkzSDBmRl84ZE5MaUdsZFdQQkJqSjJzZEpOektwWmVzSWREY0Q2b2RoLTMwYlFpYVJTUTZ2cU9XN0JkOGVnRy1yWGNlX0prSlZMSkJwdUVINVpoMzhMcW5Dc0ZZ?oc=5",
+      "summary": "BroadcomのWi-Fiにある16年ものの脆弱性 – 同社が2018に修正を適用したと説明しているにもかかわらず、ルーターが危険にさらされる可能性がある Mezha.net",
+      "published_at": "2026-10-26T15:13:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -73,6 +95,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
+    },
+    {
+      "id": "1ab7d07d12e2b85b5621d489",
+      "title": "CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYOER1R0tmaGc0LV9mSmlxZENYOG0tUXZ3SVhleXJtMmdkNlZXTFp4OUZNVVRnNGxTcUZKM2pJRXFyOWREZlluOHRmS0lDaTl5c1pQWU1zWjg0eHBQcnJGVlB3?oc=5",
+      "summary": "CVE-2026-0322: PAN-OS RCEの脆弱性が実際に悪用される SOC Prime",
+      "published_at": "2026-10-28T07:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 6
     }
   ]
 }

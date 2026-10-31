@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-10-31T11:13:36.702695Z",
+  "generated_at": "2026-10-31T16:04:42.126301Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 21
-    },
-    {
-      "id": "a9a2917671fb20fcef3fbbdd",
-      "title": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5",
-      "summary": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider",
-      "published_at": "2026-10-30T20:04:43Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 18
     },
     {
       "id": "3fca2189a8ffe4d30ae2c310",
@@ -53,6 +42,17 @@
       "score": 17
     },
     {
+      "id": "a9a2917671fb20fcef3fbbdd",
+      "title": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5",
+      "summary": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider",
+      "published_at": "2026-10-24T16:16:22Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
       "id": "d65c92fcf17fa498f7f9ea4a",
       "title": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A2RGE1N0VIQk0wUG80MUFka0Mwb3prTEhScFZPZnJoNGtPbGgtdkhCVm8wQjY3aTN5Z3dZRHQwb3dRWTZ2X3lyQ3QxdlRYcmx6Mm1Wc05DRnFNNXNIcE8zQ2ZtNlZEWnZscFRESEQ0eXhaZTFDWjBFczdJU3ltZDVOYnNYTnY5Z05SRDljSURiTFdCa01WV3A3eUdGMFdFRmJuZEhJN3dZUWY2MkRCRNIBtgFBVV95cUxNZ21UeVhrRTZnY01GdTZHUlNRVDg3ZllTWjZzYjBHeWF3ekRObjFyUW14SXZnNXlieGNyblVOQUs4ZUF5NjZWSVZpcmJsREpDMlNRMHRlanlTUnBWTzBna0htR2ctMU5hUlRnTkVZQzV0UjlYSHNKZk5oSEVsUEszVmNaV3VhYjlLdHgwZWtOTU5FNll1UVkzMmN5dnFkd0NkUi04UTRYdjlvQ01FcHZLalZORy1fdw?oc=5",
@@ -75,17 +75,6 @@
       "score": 13
     },
     {
-      "id": "c516f4bfe2dd0bd2dd49b87e",
-      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
-      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
-      "published_at": "2026-10-28T12:27:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "33aa6b5ceb9995bd48643486",
       "title": "Your Wi-Fi router has an expiration date - Pocket-lint",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwb3NVV25TNEZCU1c0c0I5eW1tbFZRY2UwSjF1YkczUjRoQ2hIcmxhMXpuOEdYeFN2dmFpX0s2bHF5UHJtczJkR3NtRUZUMFB3cXFxaG9obDFuN1pXbFRwaTQwcHVzRVJOZ25rTll5eTNwajI2dVRBZw?oc=5",
@@ -93,6 +82,17 @@
       "published_at": "2026-10-28T16:07:40Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "c516f4bfe2dd0bd2dd49b87e",
+      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
+      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
+      "published_at": "2026-10-28T12:27:19Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
