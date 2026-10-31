@@ -1,24 +1,13 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-10-30T20:44:32.768882Z",
+  "generated_at": "2026-10-31T00:05:28.192277Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 9,
   "errors": [],
   "items": [
-    {
-      "id": "b7dcbd4691e1ef12dc0aab95",
-      "title": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5",
-      "summary": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
-      "published_at": "2026-10-29T23:00:12Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 18
-    },
     {
       "id": "005a02b864be30aada1b20c7",
       "title": "CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime",
@@ -31,22 +20,33 @@
       "score": 18
     },
     {
+      "id": "2eeabdc4d78dbc469ffd786f",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices - BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0RWZmFqOE9ZWlFfblhyOFdiak9yZ2JMYmJYOHZ6ZXhUd1NUVDdxTXVYZEw2RzdjZ1U3XzgzVXF0TTlpbmVPWWZtcnJsa3pkY05UdFVia0toLTI1anlZUEE2b0FwV3RzRWthSE9ENFo1LTUtZS0wYlhxUGYxTXBfS0FlWVpFbFhPSk1BSTNJZ3JqSW9sd0hjeTFqelk5MkdzeEYxT05kbzNiYjZEeHp2Q0FxWEVYUQ?oc=5",
+      "summary": "New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer",
+      "published_at": "2026-10-29T11:10:13Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "b7dcbd4691e1ef12dc0aab95",
+      "title": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5",
+      "summary": "ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
+      "published_at": "2026-10-29T23:00:12Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 17
+    },
+    {
       "id": "c770dbc7bada947261cc79b0",
       "title": "Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5",
       "summary": "Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls GBHackers News",
       "published_at": "2026-10-29T12:24:47Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "74fad2f3d888a162dce7362f",
-      "title": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks - Cyber Press",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQdIBb0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQQ?oc=5",
-      "summary": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks Cyber Press",
-      "published_at": "2026-10-29T08:52:04Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",

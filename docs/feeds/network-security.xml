@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:44:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:05:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
-    <item>
-      <title>[セキュリティ] ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5</link>
-      <guid isPermaLink="false">b7dcbd4691e1ef12dc0aab95</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-30 08:00
-ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Thu, 29 Oct 2026 23:15:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T23:15:52.899864Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T23:00:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
     <item>
       <title>[セキュリティ] CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE9wd3VVYTVybThKejJwZEJEZkpUWlFsa0xTRkRDQUhNRXlHUHhSWVpWSGxvMlFHV1p5YU5KdV9kdDAwdFA1ajdHbEd6OWNadTVOWG9HVDlDZlhjRGhwN2tNUzZQQnFOSDlyNk5uM0NWamxUSkd4MVpyeldWTTA?oc=5</link>
@@ -36,6 +22,34 @@ CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks SOC 
       <category>セキュリティ</category>
     </item>
     <item>
+      <title>[セキュリティ] New Cisco firewall zero-day exploited to crash SSL VPN devices - BleepingComputer</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0RWZmFqOE9ZWlFfblhyOFdiak9yZ2JMYmJYOHZ6ZXhUd1NUVDdxTXVYZEw2RzdjZ1U3XzgzVXF0TTlpbmVPWWZtcnJsa3pkY05UdFVia0toLTI1anlZUEE2b0FwV3RzRWthSE9ENFo1LTUtZS0wYlhxUGYxTXBfS0FlWVpFbFhPSk1BSTNJZ3JqSW9sd0hjeTFqelk5MkdzeEYxT05kbzNiYjZEeHp2Q0FxWEVYUQ?oc=5</link>
+      <guid isPermaLink="false">2eeabdc4d78dbc469ffd786f</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-10-29 20:10
+New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer</description>
+      <pubDate>Sat, 31 Oct 2026 00:05:28 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-31T00:05:28.191311Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-29T11:10:13Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5</link>
+      <guid isPermaLink="false">b7dcbd4691e1ef12dc0aab95</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-10-30 08:00
+ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+      <pubDate>Thu, 29 Oct 2026 23:15:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-10-29T23:15:52.899864Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-29T23:00:12Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
       <title>[セキュリティ] Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5</link>
       <guid isPermaLink="false">c770dbc7bada947261cc79b0</guid>
@@ -46,20 +60,6 @@ Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Fir
       <pubDate>Thu, 29 Oct 2026 19:12:32 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-29T19:12:32.271762Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-29T12:24:47Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks - Cyber Press</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQdIBb0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQQ?oc=5</link>
-      <guid isPermaLink="false">74fad2f3d888a162dce7362f</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-29 17:52
-Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks Cyber Press</description>
-      <pubDate>Thu, 29 Oct 2026 19:12:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T19:12:32.271762Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T08:52:04Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
