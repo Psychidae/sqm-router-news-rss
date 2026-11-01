@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-01T09:42:29.497864Z",
+  "generated_at": "2026-11-01T16:22:38.707215Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "39de90d6315cfd4b1b74d81e",
+      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
+      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
+      "published_at": "2026-10-20T07:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 21
+    },
     {
       "id": "3fca2189a8ffe4d30ae2c310",
       "title": "Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review",
@@ -31,6 +42,17 @@
       "score": 17
     },
     {
+      "id": "14531d5e920bb379cb250799",
+      "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5",
+      "summary": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK",
+      "published_at": "2026-10-26T03:01:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
+    {
       "id": "d65c92fcf17fa498f7f9ea4a",
       "title": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability - TechPowerUp",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A2RGE1N0VIQk0wUG80MUFka0Mwb3prTEhScFZPZnJoNGtPbGgtdkhCVm8wQjY3aTN5Z3dZRHQwb3dRWTZ2X3lyQ3QxdlRYcmx6Mm1Wc05DRnFNNXNIcE8zQ2ZtNlZEWnZscFRESEQ0eXhaZTFDWjBFczdJU3ltZDVOYnNYTnY5Z05SRDljSURiTFdCa01WV3A3eUdGMFdFRmJuZEhJN3dZUWY2MkRCRNIBtgFBVV95cUxNZ21UeVhrRTZnY01GdTZHUlNRVDg3ZllTWjZzYjBHeWF3ekRObjFyUW14SXZnNXlieGNyblVOQUs4ZUF5NjZWSVZpcmJsREpDMlNRMHRlanlTUnBWTzBna0htR2ctMU5hUlRnTkVZQzV0UjlYSHNKZk5oSEVsUEszVmNaV3VhYjlLdHgwZWtOTU5FNll1UVkzMmN5dnFkd0NkUi04UTRYdjlvQ01FcHZLalZORy1fdw?oc=5",
@@ -42,15 +64,15 @@
       "score": 15
     },
     {
-      "id": "c516f4bfe2dd0bd2dd49b87e",
-      "title": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking - Huawei Central",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fT3JlXy1sYjJ3ZEJTYUI0NjJQQXA3LVFBcFZ0TlAteG9GMk1DblFCNkhEU2RLWGgzRkJFUmxXb0VIbElHM0dCQUFLQWdKeW9YeDBBdkZBeWQ0Wm9hSVNGU3o0TjY2Ym1NRS14a9IBckFVX3lxTFB0bHdGVlowUUxKOF9ZRGlYZDVrRm42OGtWVG00dWFjSXZPcU9tZXl5bzlEWHoxRnluenV6RUllQzhzbGJFeEUyRDJZLWNQSHFsZC1SdjM1dWo0V2hqZ29YT1FEMGMybW5LQllEbDZsS3lNUQ?oc=5",
-      "summary": "Huawei Router X2 Pro launched with unique design, Wi-Fi 7+, AI Mesh Networking Huawei Central",
-      "published_at": "2026-10-28T12:27:19Z",
+      "id": "34e139687dafdc1b7b21e279",
+      "title": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBqblItSGVqd1RGaS1xSXpOdldLLTR1bXo0amxaT19udXRfRnFIZ3FiNERaNHNQZlBxb1hCS05xdzhkdGZCN1BPMS1Nek4zXzhJUEFnTm9Yd3RSQjVjMXRTVDlUS1lqZC1Qc2xkeFNsbFJHSzYzRVliSXVIWk1GbDhRWnk?oc=5",
+      "summary": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support Mezha.net",
+      "published_at": "2026-10-29T18:35:28Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
     },
     {
       "id": "87f1d7251c973822085a3437",
@@ -86,37 +108,15 @@
       "score": 12
     },
     {
-      "id": "28df980b21b7ce3168f970dd",
-      "title": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPV29rdnhXT1JaOWVjVkZUTEJzTkdxNENINTdjWGVWNnNfVEtYNjNqZzhPQkN4UzBhUmIteExKeFRmanUzbGh5ZmdKMDYzbWFWV29HVjl2VjBvR2M3WWJ6TDJfYUxmQlZ5OWZqNk5YLUhQckxhd3MtNnJJWDQwbzE2dlI2amFaR19rc2dQR1ZQS2EtcTBVLXVFTnQ3dnpzLU9RTmZjbjNmRUlVMUtSRDZYRkxkd3B1dDVPQjgtVmdVU095YlFYejU5TGdVenJQV1BTMGZmVXVaa2RxM3pKMmlMQW1uVlAxYnZRbnBXRUNxdnhJQ2NKMTB3WFJfWEJBUFlELTF6bC1qdG1tS0kxMjM3VG9JelZMOTg?oc=5",
-      "summary": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router The Globe and Mail",
-      "published_at": "2026-10-27T04:09:54Z",
+      "id": "70c3f7b5c4e7d65f23b6618d",
+      "title": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - FinancialContent",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMkktUGR5dXZMN1IyX1QzTEZBWGxRUzlZSGx3YzJQVzIxYVZUcGpNMWNsalZQTTRMRW4xRF9ZQ3R4TWFNdVlvS2UxYWE1R1dtQXFnOW1aSUpIMWZUQ2FfbVBJNGVkRllwdUtvaWhTdmQxYjdVMHdqWS14eFAzd2R2NjdXTGN4ejNWWW42LXE4dDN0NG0tOWdRMEllR0xadmpWUThmdmd3dVFRcWQ5Zi14cEdlcWM0aVNmWUJrRVVfSGRUQVV4dDJfNEdGNU5ibUpPNk0zQU5vWHBqQjNNWDNNS0EtZ1hNZXAwOWM4OWZ5WE85dw?oc=5",
+      "summary": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router FinancialContent",
+      "published_at": "2026-10-27T04:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
-    },
-    {
-      "id": "33aa6b5ceb9995bd48643486",
-      "title": "Your Wi-Fi router has an expiration date - Pocket-lint",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwb3NVV25TNEZCU1c0c0I5eW1tbFZRY2UwSjF1YkczUjRoQ2hIcmxhMXpuOEdYeFN2dmFpX0s2bHF5UHJtczJkR3NtRUZUMFB3cXFxaG9obDFuN1pXbFRwaTQwcHVzRVJOZ25rTll5eTNwajI2dVRBZw?oc=5",
-      "summary": "Your Wi-Fi router has an expiration date Pocket-lint",
-      "published_at": "2026-10-28T16:07:40Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
     }
   ]
 }
