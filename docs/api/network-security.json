@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-02T17:00:55.334288Z",
+  "generated_at": "2026-11-02T23:51:46.664729Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -53,17 +53,6 @@
       "score": 12
     },
     {
-      "id": "74fad2f3d888a162dce7362f",
-      "title": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks - Cyber Press",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQdIBb0FVX3lxTE1oZWdhUFFDQmpidmZmNFV2MV9pdlhxWWd2cktvc2dPQWMwbTVTM1FMdktiY2F4ZkdUV01faVFLcy1zTnF5WkRiQURmQVExZ1lrRVhhdW9JN1Q0RlFGMGFxdzNubUpOa2E4VU84M1ozQQ?oc=5",
-      "summary": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks Cyber Press",
-      "published_at": "2026-10-29T08:52:04Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
       "id": "a21fc7512b6544888e009927",
       "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZV3ZuaDNDNGtnbVA4N3pDM1JGSzhGREdNclB2VFpheDNVX1RFZzk4a2hHRWlvR2xGUVVsVXR5RFg1T2wzN0gyeUQ3OWpIdnozMDJqdW9QYkxWXy16RndmYVhCVGdsSTVaSmV3?oc=5",
@@ -75,32 +64,10 @@
       "score": 11
     },
     {
-      "id": "d348d81060ef64fe35903d8f",
-      "title": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNXZibnJWOU5id1BNaHoxdm8weHl5UGxoOHAtWWhqOXR0Sm9qV0FsWGVQQk5GNWVDLThad3dTdEcwaWdhX1l1bXprUkVldjN5ZzBQVWZZQjFnb1VXNHFBSXpGVVp0QXpxWHJERndkcXdfZFQtUnM2T2VfSFIxaGRtSjlKaDJnSDVjTU13Mmh3?oc=5",
-      "summary": "ヤマハの法人向けWi-Fiルーター「NWR100」に複数の脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-10-28T05:41:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
       "id": "6bd4a52726b09af1e2bbf446",
       "title": "NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を - ZDNET Japan",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Uc2F3SUFWcF9JeXRsVTFNOFBHQUU2U2FuVGVfT01ISU5rdkFKS1ZqZC0wNmtuRVZfMnoybHZSZUt5MndWdi01VGd0ZW90RlJ1RDlJ?oc=5",
       "summary": "NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を ZDNET Japan",
-      "published_at": "2026-11-02T01:08:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "4037381976d426840f2ea17a",
-      "title": "NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTAwU3UtaFIwYVhjeDZseDJjcUQxQ0gyRnVCX2s1R3c3Zm53VWxjUkp0SmpYUDFpazhOV3ZCRUFqc1pXR1kzaUZtbXIyZTZwcjdtaGdPVWhKOF8yWXJBd05FNkVqQXRBUXlqaUpESlhZcFZhaUxZbDNvMWVlcnk3Y085aDlVajFRNG44X3lB?oc=5",
-      "summary": "NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を Yahoo!ニュース",
       "published_at": "2026-11-02T01:08:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
