@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-01T20:49:10.650760Z",
+  "generated_at": "2026-11-02T00:39:14.382563Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "a9a2917671fb20fcef3fbbdd",
+      "title": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5",
+      "summary": "Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider",
+      "published_at": "2026-10-30T20:04:43Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 17
+    },
     {
       "id": "3fca2189a8ffe4d30ae2c310",
       "title": "Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review",
@@ -104,17 +115,6 @@
       "published_at": "2026-10-28T16:07:40Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "fbb38dc973b317394ec00e48",
-      "title": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds - Engadget",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObTR3dVlwSmVkY3RCcWRueHE0YzVJYkRMRW9yQ2xOUV9GVjF2OFhodVVrenh3NTl6cks0aWxkMm5iOUhPX0RlYW1GVlJxZTFiQXBpM29MLTd6N0o0dGtXejRldF9jWFlOSHZzSlNUUGtKWlhhRmxqTm1UNzBCYnBhbVp5eGxGZw?oc=5",
-      "summary": "Why Your Expensive Wi-Fi 7 Router Could Be Delivering Slower Speeds Engadget",
-      "published_at": "2026-10-19T07:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     }

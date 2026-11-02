@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-01T20:49:12.062133Z",
+  "generated_at": "2026-11-02T00:39:16.318339Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 4,
   "errors": [],
   "items": [
     {
@@ -31,11 +31,22 @@
       "score": 7
     },
     {
-      "id": "0427d56daad28970f690b7cf",
-      "title": "Bara internet outage hits businesses hard - The Express Tribune",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNenhGM3g2TE1wU3dJM3ZtRlcyMk95T0FoWTd1b1NKMjBFSDB1V1lFbG05NUhsM3BHTVdZbl96QjZfTFMzNTFfVU9fM1VSRjhsOXllc0s2STNSTk1raFQ4MDdia0lpeDQ1YjdpRUNNdTN5YWVHUnhoSmhDdWFBdnBhc2x5a0LSAYwBQVVfeXFMUEdENE8yMEhWcFlTOWNWcXpoSm5va2xuWTNTTTQwaDFRV3JsUEtBbS1MLUFCUXlNWm9EdUVMQWQtYVVIYkZDVE1KVkRpX0IwRFVpVU4tVnNqVEtFM1Vfdlp1Q09sODdIeXVITUw3WkJ5UEVvR3MxdzN4NUhsdnNzWVVFOTBiOGtqblFxcGs?oc=5",
-      "summary": "Bara internet outage hits businesses hard The Express Tribune",
-      "published_at": "2026-10-29T03:41:50Z",
+      "id": "88c92020f6b88288396f9940",
+      "title": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers - KNWA FOX24",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbVZLcWxDMGxpQl9GWUV5cDdyOXZydGhpUVJudy1sdlJfQ3Q5UVdoMjhuWGNUV1JjamJpejBaZHpkYWx6WTlJWERTV0hCbW8xQ19HdzNmVm83ZjgwLVQzQXZ1VGRVSXhRXzNEcGRYMFE2LUc0R0dvUFUtaXNfVG9oVURoY3hIdDBSb2MzVFNuOHd4TnhSemx2d2ozX3hjbXh1NXh6YnZxMVFjbzU1UFlIeVdqNDVxVnRWMndWMWJVeE9RcWE30gHKAUFVX3lxTFBpVEJXRnBVUHJvSk9BV3pzV3R1RHE2N29uOFBMZl9fdVZIdTMyekRYeG9OeVkzUE95TDZObURFSG1fWlRvM0FMZ3UyS3N4b1RNYkQ4eC1OY2JtelNwaDFocWR2R2dfY2s2bi1vdU9nNWtJaEdZdnFQRFNTSmRMTG5rd0lGN3JDNGM3YzdLeHJIRktSVEF0OEdvYTQ2bjdNRVdraWxaY05pc1NTVURKT0UzQS1fM2FJRDU5M2pUR3dvdXpLcDVNSFBWdUE?oc=5",
+      "summary": "AT&T internet outage hits Northwest Arkansas reaching nearly 400 customers KNWA FOX24",
+      "published_at": "2026-10-27T01:01:24Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "c8ea41d1e55871c9606eb5d7",
+      "title": "AT&T internet outage impacts Northwest Arkansas | Service now restored - 5newsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWUl6R3VqLVNkOVI2V2JTenZnZWRfYjVXS2VmVUdFQ0Q1bGhSZU1DZ2M3bjBIUXhyQVh2NmU3Z1ctVlh5Vkt6LW1VZ3JyV3gyZ0RwM2JXemFxQ25OVkpxNVgxNnJlZ2VDR1lGNGhxY2V1TDFtUDRmV2RMOUJxV091aXc5OFBfUG1MdTZEek80bHhwNjBrdGVRX0hpbjJCWXJBWHZnVXlhZ1dfNktPNEZrX25qeVlFWkFDZFhhVWFBNmpaeDNLUC1LUUhtQTVwWFN3a0VN?oc=5",
+      "summary": "AT&T internet outage impacts Northwest Arkansas | Service now restored 5newsonline.com",
+      "published_at": "2026-10-26T21:34:00Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
