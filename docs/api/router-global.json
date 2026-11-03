@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-03T06:42:03.232941Z",
+  "generated_at": "2026-11-03T14:38:59.314997Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,48 +9,59 @@
   "errors": [],
   "items": [
     {
-      "id": "39de90d6315cfd4b1b74d81e",
-      "title": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xQXZqMnczZ19MdkRIRzRDRzhyeW1aSFJWVXhYanJPVWtPTkFybzdrOV9yZjY5OFU5bkNEd2didEJlNTNJS1Nmd2tWOFMzcmVVLV92M19VT2l4RFE4VzRXQm15ZkxRVXJUUHNfcklxT1RGR2MxdW12ZV9tNA?oc=5",
-      "summary": "Best Wi-Fi router deals 2026 — Wi-Fi 7, Wi-Fi 6E, Wi-Fi 6, and mesh router deals Tom's Hardware",
-      "published_at": "2026-10-20T07:00:00Z",
+      "id": "9c7dd7ce2f42a57947fa73b7",
+      "title": "Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDVOQ1YtYWktNmlSZE1LeS1qMm1ZbFl0am91aU1FSEhIa1VwRHNsV0pHd0N1OHE4WXhZRGFzWkZUM2xudlU0YmZOcDg3cV85SHc4R2UzM3ZhUzNoZXR1ZzI3OVpDd0FHQWpEVURoWU8xZmFaQlhuVFltVVY5SDBBc2p2RFQ4MFcyWGNMc1k1amNhT1hDTFhvTWVZT04yOU5SVmxlYW1rWUdXUkNzOFhCaHNFS0JmQQ?oc=5",
+      "summary": "Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece Telecompaper",
+      "published_at": "2026-11-03T07:41:20Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 21
+      "score": 14
     },
     {
-      "id": "3fca2189a8ffe4d30ae2c310",
-      "title": "Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQblE2T3FOSWpZalVPS09sVEM2SDJhMUdRRmNqU0lRMlZCZERZM0NEOXI0VGpSUzJqN185NXQ0bXVPQmo2ZktCVXVzNVFzQkc5M3N3RkY3c09BU2xTdGpXYmkzUjltaV9JU0dYam9QeUNZbTJmVUNfajVSRTJjVUZCc1J5ajduN0pkMnAyU0hsejM?oc=5",
-      "summary": "Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book Gadget Review",
-      "published_at": "2026-10-29T16:49:57Z",
+      "id": "d93dd23346cf5df5d11f9106",
+      "title": "TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEJsYTlQZHZId2hiY3hkUzFWUlRxcnpGWExNb3dJY2RqZW9fOElMQkdqVkpLaE5XYk9TM3d3dGRkemZtTnNWRFgwYm9yb0FTelNHR1hMMlBQSlk2OWU4d0ZQN3ZvRzZhZ1NsN1NKTGVmVGJ3RnBOU2F6aFpHUkRNV0YyZUtwUGU1cmc0TnRpUTBxVHFOQ3VaNWRMeDJVaXZt?oc=5",
+      "summary": "TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 Technobezz",
+      "published_at": "2026-11-03T04:53:56Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 14
     },
     {
-      "id": "14531d5e920bb379cb250799",
-      "title": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5",
-      "summary": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK",
-      "published_at": "2026-10-26T03:01:00Z",
+      "id": "0c632a074b445faecca89be7",
+      "title": "Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWpQcHhGUFNBa2NvdHdCbzF6RHczNXd2YjZQTVpFbnoxVVotaUdxUV82cEdfM2FyRlhQR1dLUUNKTFlMbkVUdnFlTGQ0NldQalBhR1VyQU9ZNlYzblQ1eGVaZzd2Y1dodW4yTXlfMFVmbDdlMWZJYlVpTWV2NENRcUVwelR5RFRONHJ2LTZLTGVDZDBzeWFUMjAyOWZXdHM?oc=5",
+      "summary": "Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 Technobezz",
+      "published_at": "2026-11-02T20:57:23Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "34e139687dafdc1b7b21e279",
-      "title": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBqblItSGVqd1RGaS1xSXpOdldLLTR1bXo0amxaT19udXRfRnFIZ3FiNERaNHNQZlBxb1hCS05xdzhkdGZCN1BPMS1Nek4zXzhJUEFnTm9Yd3RSQjVjMXRTVDlUS1lqZC1Qc2xkeFNsbFJHSzYzRVliSXVIWk1GbDhRWnk?oc=5",
-      "summary": "ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support Mezha.net",
-      "published_at": "2026-10-29T18:35:28Z",
+      "id": "ae156a0a13d6716c7d333263",
+      "title": "TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGFNb3Nyek03LTZ2R2JSRTlrYkRKRGthS1J5Z2VZY1MxRG11dElXZkNNOXZhWjVsOWtlWkMxck1FR1hIU0NIZFN4VWNXYkVoWEVnMi1qbmhUbWsyNXNDeVpqNlFaUWFZUU1YVkNMcW1adEUyT3NRa2sxRlI2TG44Y2RDRS0yQS1ra1hoa3Rn?oc=5",
+      "summary": "TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 Technobezz",
+      "published_at": "2026-11-02T14:37:21Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 13
+    },
+    {
+      "id": "3fe1b7cbfd2ddd79bf9a3828",
+      "title": "TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1dXbjBvak93Z21pc3VCdzJxZ2dfaUZTTDFxTGdKeFd5RlNEWFlQYWk0YVlCUV9FQW8yanNUTHZSWF9JQjR0SnhnZERNSjlyVXQ4UGhWbm9EdWdaRDB4aTRJVlZjMFViR0VoMlpMeFcwTFlSVFJqOFlmUjZhRXRQN2IwU1BNVktBaHBnN1lFQjE0N3VuNVR2WA?oc=5",
+      "summary": "TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 Technobezz",
+      "published_at": "2026-11-02T14:37:20Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "87f1d7251c973822085a3437",
@@ -97,26 +108,15 @@
       "score": 11
     },
     {
-      "id": "f5492f1efc9001fd548833d6",
-      "title": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFAzZGRCMTJKZVVMZE9MNkM0emlSWUFMTDh0eG9Uak80SlZ5cHZPbHVzNjd5dWNBMnFYczNHUm42anQyLTF1SVZxeHYwN1BwcEE3U0RlOUhKN0V1Wl9tUk1GVDg2cF9IT3JfVVVnZWd2RVdzZWNOaDJqUHNjSEJ2bg?oc=5",
-      "summary": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear https://tech-insider.org/",
-      "published_at": "2026-10-27T05:49:23Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "6b91c5bc56ec5e927357386f",
+      "title": "Asus rushes out router firmware update to fix critical vulnerabilities - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczlraHlxdWhNYXY2MkNNRGhMc0R6UXptM3JlNzBxem5FbEZHS21rdU91SGlvcFRVQXpBcGdXc0ttMFFRSE80cXZrMmJtZF9HYlhNSFQ5cldocnVSS0plU1dYY1pwOEVtWTltY3NySC1xVGh4aFZHMGpfTmxwREd6WWhvV1dQNUpYbC1fc2RjMDBVcmJ5SERSQXFpcy1NcnBaQkhUQ1QzU000Vlo1OW45QlliellBZw?oc=5",
+      "summary": "Asus rushes out router firmware update to fix critical vulnerabilities Notebookcheck",
+      "published_at": "2026-10-24T11:15:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "70c3f7b5c4e7d65f23b6618d",
-      "title": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - FinancialContent",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMkktUGR5dXZMN1IyX1QzTEZBWGxRUzlZSGx3YzJQVzIxYVZUcGpNMWNsalZQTTRMRW4xRF9ZQ3R4TWFNdVlvS2UxYWE1R1dtQXFnOW1aSUpIMWZUQ2FfbVBJNGVkRllwdUtvaWhTdmQxYjdVMHdqWS14eFAzd2R2NjdXTGN4ejNWWW42LXE4dDN0NG0tOWdRMEllR0xadmpWUThmdmd3dVFRcWQ5Zi14cEdlcWM0aVNmWUJrRVVfSGRUQVV4dDJfNEdGNU5ibUpPNk0zQU5vWHBqQjNNWDNNS0EtZ1hNZXAwOWM4OWZ5WE85dw?oc=5",
-      "summary": "InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router FinancialContent",
-      "published_at": "2026-10-27T04:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
+      "score": 10
     }
   ]
 }
