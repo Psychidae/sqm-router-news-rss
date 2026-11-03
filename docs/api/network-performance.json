@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-03T14:39:01.282052Z",
+  "generated_at": "2026-11-03T20:37:03.202861Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,26 +9,26 @@
   "errors": [],
   "items": [
     {
-      "id": "b743e74954b032824fa9bd81",
-      "title": "McKay Brothers expands low latency wireless network to US cloud hubs - Vietnam Investment Review - VIR",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGM0LUxkMjlTSEVFMFBTQmxYaDdybXNWMDhrUHF4c2poTC0xUWM3LVlKdmFUTkNvdUJSRUxKWXNvbjhJek1RekEyVkIxZVhRRkU1X3RkZ25Zb2NpZzBGTzhNUVItcjRnaTJfNFlDdHF0RkE2SEk0OF9OeW9xUG1OcEhOMi1Qd3FaUnYzblBCNWlZanFHRGNIRXJHS0tHM1o5?oc=5",
-      "summary": "McKay Brothers expands low latency wireless network to US cloud hubs Vietnam Investment Review - VIR",
-      "published_at": "2026-11-02T04:45:24Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "5aa211b4f2b625094027d264",
+      "title": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGX1RTVDdmdTRUclhGNFpZTjNnMWZFNmNueFlRVzg5VnA3STZnT1RKT19MdktWSEd1NEVLSHpMdzlXTlNYQUVyUE5SNEJ3OVJRMkNuOXFONmhmZ2R6MUw5Ymh2SHZwQ1hyTktkR0RhLUFVQ0tvVFhJZ0FmcEtLWGs?oc=5",
+      "summary": "「遅延なきネットワーク」ソブリンAIの鍵に NTT川添氏が語る「IOWN」実装後の社会（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "published_at": "2026-10-31T11:55:27Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 6
     },
     {
-      "id": "6c0aeca23b9c6024da51917f",
-      "title": "Internet outage roils peninsula homes, businesses - Chinook Observer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVRlRGNQOHRDaXZHYW1hUVJPZ0syRjVqbmFKRnNvbF94YzM0MFhSclhoaDZUY3ptcFlvR3lEZl9Yd2hPMkFNa2NaTTBXcUlCTWozMXE1YnI2ckdvdDB6VC02anBValdDTTBHb0hSUlFpaVpadFdTY3VjVmkxREdsSmptZlRwODFoLXBONUNVbWtqQQ?oc=5",
-      "summary": "Internet outage roils peninsula homes, businesses Chinook Observer",
-      "published_at": "2026-11-01T23:50:54Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "7fc3a9623a8b9eb5b5c1ec92",
+      "title": "仁川空港 航空会社ネットワーク障害…13社の発券に遅延 - 亜州日報",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVG9lc3g2Vy1KOEpranhFN3pXTlBqWkQzQkc3ZjNDeUhYNTFFX3ZSY2I0Z002b0JXUHFtZmZBZ29ISnlIdHZJeWVCZnhSOW1DUjJOQUJsbzNyek0?oc=5",
+      "summary": "仁川空港 航空会社ネットワーク障害…13社の発券に遅延 亜州日報",
+      "published_at": "2026-10-30T05:40:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 6
     }
   ]
 }

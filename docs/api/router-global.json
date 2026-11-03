@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-03T14:38:59.314997Z",
+  "generated_at": "2026-11-03T20:37:01.212579Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "928e14417478323c76c99209",
+      "title": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5",
+      "summary": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price Android Authority",
+      "published_at": "2026-11-03T16:10:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
     {
       "id": "9c7dd7ce2f42a57947fa73b7",
       "title": "Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece - Telecompaper",
@@ -64,33 +75,11 @@
       "score": 13
     },
     {
-      "id": "87f1d7251c973822085a3437",
-      "title": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports - MIXED News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sMDM4YnhZSHYzajV6dlN1bkZZSHRJRXVsSlRkc2ZwUGEwQmwtek91cW1iLUJlbS1NQjRrN0dpSXpHeUVIUF9WTG5iMHJ2R044dmJYNW1XUXRkcTBZZ2FXNno3OFhyWTh2SThZbkFYODV4bDdkbEhBWTJTcw?oc=5",
-      "summary": "Netgear’s RS700S Wi-Fi 7 router drops to $539.99 with two 10Gbps Ethernet ports MIXED News",
-      "published_at": "2026-10-27T21:46:22Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "0a9830e156f4410b02a26303",
       "title": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router - Dong Knows Tech",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TTnctUnFzVjZNTnNpQVl1M3JsLTU1Q19IcVpRZUNpRUtUT3BkSFEwN3BzV0xqX1JjNXYxUnBzSGV0UFZlNlloZUpfRjlyRHNQUm84aFQ0WlVpanZsbEVXNlhtUXIweUZZZzY5M0FmVU11OHY0SFNnN3hRWThFdw?oc=5",
       "summary": "ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Performing Wi-Fi 8 Router Dong Knows Tech",
       "published_at": "2026-10-27T21:44:47Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "d2462bc83096a1f1a6146510",
-      "title": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5",
-      "summary": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell Gadget Review",
-      "published_at": "2026-10-27T19:02:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -108,15 +97,26 @@
       "score": 11
     },
     {
-      "id": "6b91c5bc56ec5e927357386f",
-      "title": "Asus rushes out router firmware update to fix critical vulnerabilities - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPczlraHlxdWhNYXY2MkNNRGhMc0R6UXptM3JlNzBxem5FbEZHS21rdU91SGlvcFRVQXpBcGdXc0ttMFFRSE80cXZrMmJtZF9HYlhNSFQ5cldocnVSS0plU1dYY1pwOEVtWTltY3NySC1xVGh4aFZHMGpfTmxwREd6WWhvV1dQNUpYbC1fc2RjMDBVcmJ5SERSQXFpcy1NcnBaQkhUQ1QzU000Vlo1OW45QlliellBZw?oc=5",
-      "summary": "Asus rushes out router firmware update to fix critical vulnerabilities Notebookcheck",
-      "published_at": "2026-10-24T11:15:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "d2462bc83096a1f1a6146510",
+      "title": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5",
+      "summary": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell Gadget Review",
+      "published_at": "2026-10-27T19:02:25Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 10
+      "score": 11
+    },
+    {
+      "id": "b78c9606fdb863df47f1d194",
+      "title": "You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 - XDA",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVEQUxnRjhfZlNWdXFqSzFjSUdXUXJ3QVlRMDV6SEJJNUxXME9qbWZjdl9oQ3VTM0JQMjBpaGNUek9hNHlSVVdiLXNXM0FOclAwTWJiRnRac09WS1NOZVc0QnZ2SkxJRHAydmNFZm9zNno2VEJwVktJYUZnR1IyNWVQZ29ReWFYcWRjRA?oc=5",
+      "summary": "You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 XDA",
+      "published_at": "2026-11-02T19:31:21Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
     }
   ]
 }
