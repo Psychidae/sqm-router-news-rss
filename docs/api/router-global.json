@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-02T23:51:45.973053Z",
+  "generated_at": "2026-11-03T06:42:03.232941Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -36,17 +36,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5",
       "summary": "Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK",
       "published_at": "2026-10-26T03:01:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
-    {
-      "id": "d65c92fcf17fa498f7f9ea4a",
-      "title": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability - TechPowerUp",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1A2RGE1N0VIQk0wUG80MUFka0Mwb3prTEhScFZPZnJoNGtPbGgtdkhCVm8wQjY3aTN5Z3dZRHQwb3dRWTZ2X3lyQ3QxdlRYcmx6Mm1Wc05DRnFNNXNIcE8zQ2ZtNlZEWnZscFRESEQ0eXhaZTFDWjBFczdJU3ltZDVOYnNYTnY5Z05SRDljSURiTFdCa01WV3A3eUdGMFdFRmJuZEhJN3dZUWY2MkRCRNIBtgFBVV95cUxNZ21UeVhrRTZnY01GdTZHUlNRVDg3ZllTWjZzYjBHeWF3ekRObjFyUW14SXZnNXlieGNyblVOQUs4ZUF5NjZWSVZpcmJsREpDMlNRMHRlanlTUnBWTzBna0htR2ctMU5hUlRnTkVZQzV0UjlYSHNKZk5oSEVsUEszVmNaV3VhYjlLdHgwZWtOTU5FNll1UVkzMmN5dnFkd0NkUi04UTRYdjlvQ01FcHZLalZORy1fdw?oc=5",
-      "summary": "ASUS Rushes Out Wi-Fi 7 Router Firmware Update to Fix Critical Vulnerability TechPowerUp",
-      "published_at": "2026-10-24T07:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -97,6 +86,17 @@
       "score": 12
     },
     {
+      "id": "33aa6b5ceb9995bd48643486",
+      "title": "Your Wi-Fi router has an expiration date - Pocket-lint",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwb3NVV25TNEZCU1c0c0I5eW1tbFZRY2UwSjF1YkczUjRoQ2hIcmxhMXpuOEdYeFN2dmFpX0s2bHF5UHJtczJkR3NtRUZUMFB3cXFxaG9obDFuN1pXbFRwaTQwcHVzRVJOZ25rTll5eTNwajI2dVRBZw?oc=5",
+      "summary": "Your Wi-Fi router has an expiration date Pocket-lint",
+      "published_at": "2026-10-28T16:07:40Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "f5492f1efc9001fd548833d6",
       "title": "Best Wi-Fi 7 Router 2026: ASUS vs TP-Link vs Netgear - https://tech-insider.org/",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFAzZGRCMTJKZVVMZE9MNkM0emlSWUFMTDh0eG9Uak80SlZ5cHZPbHVzNjd5dWNBMnFYczNHUm42anQyLTF1SVZxeHYwN1BwcEE3U0RlOUhKN0V1Wl9tUk1GVDg2cF9IT3JfVVVnZWd2RVdzZWNOaDJqUHNjSEJ2bg?oc=5",
@@ -105,7 +105,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     },
     {
       "id": "70c3f7b5c4e7d65f23b6618d",
@@ -116,7 +116,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 11
     }
   ]
 }
