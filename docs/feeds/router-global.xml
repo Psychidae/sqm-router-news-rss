@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 15:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:30:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
-    <item>
-      <title>[海外ルーターニュース] Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQblE2T3FOSWpZalVPS09sVEM2SDJhMUdRRmNqU0lRMlZCZERZM0NEOXI0VGpSUzJqN185NXQ0bXVPQmo2ZktCVXVzNVFzQkc5M3N3RkY3c09BU2xTdGpXYmkzUjltaV9JU0dYam9QeUNZbTJmVUNfajVSRTJjVUZCc1J5ajduN0pkMnAyU0hsejM?oc=5</link>
-      <guid isPermaLink="false">3fca2189a8ffe4d30ae2c310</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-10-30 01:49
-Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book Gadget Review</description>
-      <pubDate>Wed, 04 Nov 2026 00:53:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-04T00:53:32.582297Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T16:49:57Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
     <item>
       <title>[海外ルーターニュース] This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5</link>
@@ -32,20 +18,6 @@ This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price Andr
       <pubDate>Tue, 03 Nov 2026 20:37:01 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-03T20:37:01.211812Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-03T16:10:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece - Telecompaper</title>
-      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQTDVOQ1YtYWktNmlSZE1LeS1qMm1ZbFl0am91aU1FSEhIa1VwRHNsV0pHd0N1OHE4WXhZRGFzWkZUM2xudlU0YmZOcDg3cV85SHc4R2UzM3ZhUzNoZXR1ZzI3OVpDd0FHQWpEVURoWU8xZmFaQlhuVFltVVY5SDBBc2p2RFQ4MFcyWGNMc1k1amNhT1hDTFhvTWVZT04yOU5SVmxlYW1rWUdXUkNzOFhCaHNFS0JmQQ?oc=5</link>
-      <guid isPermaLink="false">9c7dd7ce2f42a57947fa73b7</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-03 16:41
-Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece Telecompaper</description>
-      <pubDate>Tue, 03 Nov 2026 14:38:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-03T14:38:59.314227Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-03T07:41:20Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -92,20 +64,6 @@ TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 Technobezz</descr
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Your Wi-Fi router has an expiration date - Pocket-lint</title>
-      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTFAwb3NVV25TNEZCU1c0c0I5eW1tbFZRY2UwSjF1YkczUjRoQ2hIcmxhMXpuOEdYeFN2dmFpX0s2bHF5UHJtczJkR3NtRUZUMFB3cXFxaG9obDFuN1pXbFRwaTQwcHVzRVJOZ25rTll5eTNwajI2dVRBZw?oc=5</link>
-      <guid isPermaLink="false">33aa6b5ceb9995bd48643486</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-10-29 01:07
-Your Wi-Fi router has an expiration date Pocket-lint</description>
-      <pubDate>Tue, 03 Nov 2026 06:42:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-03T06:42:03.231898Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-28T16:07:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review</title>
       <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5</link>
       <guid isPermaLink="false">d2462bc83096a1f1a6146510</guid>
@@ -144,6 +102,48 @@ NETGEAR Nighthawk WiFi 7 Router RS180 sees price cut to $149.95 Technobezz</desc
       <pubDate>Wed, 04 Nov 2026 15:45:24 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-04T15:45:24.077475Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-03T03:28:39Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 - XDA</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVEQUxnRjhfZlNWdXFqSzFjSUdXUXJ3QVlRMDV6SEJJNUxXME9qbWZjdl9oQ3VTM0JQMjBpaGNUek9hNHlSVVdiLXNXM0FOclAwTWJiRnRac09WS1NOZVc0QnZ2SkxJRHAydmNFZm9zNno2VEJwVktJYUZnR1IyNWVQZ29ReWFYcWRjRA?oc=5</link>
+      <guid isPermaLink="false">b78c9606fdb863df47f1d194</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-03 04:31
+You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 XDA</description>
+      <pubDate>Wed, 04 Nov 2026 21:30:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T21:30:43.285713Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T19:31:21Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link Tri-Band BE15000 WiFi 7 Router Archer drops to $249.97 - Technobezz</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkVveWZBemgtU25xNE9SUmJSV1BlbktSV2ZNTkE4OGlKazBteU1CVlNUSFFUZjRfMWVnS3c1NXNQY1EydXdwUEl5bGdpN1l6c21WVWNvSTlLREJ3QmNCTFIwclNGSlJ5OUhLdG5ka09IRHZFcVR5TUVXTGctb0xuZkgySjVER2V2YmYtUjJmdjZmU2ozYzh5WA?oc=5</link>
+      <guid isPermaLink="false">1df9064c8ae994dfa5b9e6dd</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-02 23:37
+TP-Link Tri-Band BE15000 WiFi 7 Router Archer drops to $249.97 Technobezz</description>
+      <pubDate>Wed, 04 Nov 2026 21:30:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T21:30:43.285713Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T14:37:19Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link’s Archer BE230 &amp; Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon - Wccftech</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5lUVdNRDRacF9VSkk3YTVzS3BZVzdnWXFCckljREdEYjQ2c0h3ZnpYalJ0SFZ5NDJERXFMaGQ3Q3JDSWpiaWljMjNfTnBPbkU0VTQtTXRodENJcmd4Mk1KM1JWaDJLRkVidWhqYjRUU3NjNmJETnZyRlBR0gF_QVVfeXFMTm9FOHh2N0tja0huNURPLXo4VVI4OW9BZmEzNU1QNnpWN3ZSVE5xUDBsTUlCaTNlV1o3dHFFV2E4UFZFZ0JUdmY4Z0VxR2RhLXhzdmVBa3FoblZqQm5kaGxmREx2QzU3ZXNpUzRkRklIOFJRSWhiVm5MaUlUVm9tVQ?oc=5</link>
+      <guid isPermaLink="false">282135c4e105d6866bbc3b7e</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-02 19:32
+TP-Link’s Archer BE230 &amp; Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon Wccftech</description>
+      <pubDate>Wed, 04 Nov 2026 21:30:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T21:30:43.285713Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T10:32:30Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
