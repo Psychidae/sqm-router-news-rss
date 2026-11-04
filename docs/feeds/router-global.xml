@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:27:57 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book - Gadget Review</title>
@@ -22,17 +22,17 @@ Huawei Built a Wi-Fi 7 Router Designed to Look Like a Book Gadget Review</descri
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets - AppleInsider</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2YyTG5IVmQ3OHFQYVB5RDk5a3lqSWpMa0hpM0hndkN5SjVPVERYZ0V5TVJSZnBmZG96TW5vczc0clRUSDhUQmk5MXo3M1B1bDBsNUpUNGdTdzhGQkxCR0FFOUdISGZISDhLUEwtdHRPV2VZWmdRTTlkOFFxeHlVbGRZMUhsTkMyOExXTG5IWVVxR3pSRGVMeW9xY0JzMjR5MnhiYVo5MHBhZlE?oc=5</link>
-      <guid isPermaLink="false">a9a2917671fb20fcef3fbbdd</guid>
+      <title>[海外ルーターニュース] Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router - ISPreview UK</title>
+      <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZGeUY0bWhoSDN4amd2eTZwaWdVbE9wTVdaUTlwUkxZSVQ4cG1Wc09QWHhPWnhEd2ozT3dBNkFVNFo1UmNzUnBmUW0tSVQ2VjJDN0xkWEtvZFpMeHRwMDdxbWFEZ2ZvMUd1akIwa0ZNSXBhcUlnYmlxZlNnWHE4N1hMYXRjOTl3ejFhNmhGY0J0VnFJUnZBaVA4V18tNUNtczQtQUNsZnNzb1duUjVkUmp0RGM2WHMyTXJlTA?oc=5</link>
+      <guid isPermaLink="false">14531d5e920bb379cb250799</guid>
       <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-10-31 05:04
-Review: Linksys MX10 Velop AX Wi-Fi 6 Mesh Router is as Fast as it Gets AppleInsider</description>
-      <pubDate>Wed, 04 Nov 2026 00:53:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-04T00:53:32.582297Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-30T20:04:43Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+ソース: Google News Global: home networking
+元記事日付: 2026-10-26 16:00
+Broadband ISP Nufibre launch UK 5G home broadband with Wi-Fi 7 router ISPreview UK</description>
+      <pubDate>Wed, 04 Nov 2026 07:27:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T07:27:57.773437Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-26T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -64,59 +64,17 @@ Telekom launches Wi-Fi 7 router, Mesh home connectivity service in Greece Teleco
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 - Technobezz</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEJsYTlQZHZId2hiY3hkUzFWUlRxcnpGWExNb3dJY2RqZW9fOElMQkdqVkpLaE5XYk9TM3d3dGRkemZtTnNWRFgwYm9yb0FTelNHR1hMMlBQSlk2OWU4d0ZQN3ZvRzZhZ1NsN1NKTGVmVGJ3RnBOU2F6aFpHUkRNV0YyZUtwUGU1cmc0TnRpUTBxVHFOQ3VaNWRMeDJVaXZt?oc=5</link>
-      <guid isPermaLink="false">d93dd23346cf5df5d11f9106</guid>
+      <title>[海外ルーターニュース] ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support - Mezha.net</title>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBqblItSGVqd1RGaS1xSXpOdldLLTR1bXo0amxaT19udXRfRnFIZ3FiNERaNHNQZlBxb1hCS05xdzhkdGZCN1BPMS1Nek4zXzhJUEFnTm9Yd3RSQjVjMXRTVDlUS1lqZC1Qc2xkeFNsbFJHSzYzRVliSXVIWk1GbDhRWnk?oc=5</link>
+      <guid isPermaLink="false">34e139687dafdc1b7b21e279</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-11-03 13:53
-TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 Technobezz</description>
-      <pubDate>Tue, 03 Nov 2026 14:38:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-03T14:38:59.314227Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-03T04:53:56Z</sqm:sourcePublishedDate>
+元記事日付: 2026-10-30 03:35
+ZTE launches budget Wi-Fi 7 router with speeds up to 3.57Gbps, AI mesh and dual-WAN support Mezha.net</description>
+      <pubDate>Wed, 04 Nov 2026 07:27:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T07:27:57.773437Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-29T18:35:28Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 - Technobezz</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGFNb3Nyek03LTZ2R2JSRTlrYkRKRGthS1J5Z2VZY1MxRG11dElXZkNNOXZhWjVsOWtlWkMxck1FR1hIU0NIZFN4VWNXYkVoWEVnMi1qbmhUbWsyNXNDeVpqNlFaUWFZUU1YVkNMcW1adEUyT3NRa2sxRlI2TG44Y2RDRS0yQS1ra1hoa3Rn?oc=5</link>
-      <guid isPermaLink="false">ae156a0a13d6716c7d333263</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-02 23:37
-TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 Technobezz</description>
-      <pubDate>Tue, 03 Nov 2026 14:38:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-03T14:38:59.314227Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-02T14:37:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 - Technobezz</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1dXbjBvak93Z21pc3VCdzJxZ2dfaUZTTDFxTGdKeFd5RlNEWFlQYWk0YVlCUV9FQW8yanNUTHZSWF9JQjR0SnhnZERNSjlyVXQ4UGhWbm9EdWdaRDB4aTRJVlZjMFViR0VoMlpMeFcwTFlSVFJqOFlmUjZhRXRQN2IwU1BNVktBaHBnN1lFQjE0N3VuNVR2WA?oc=5</link>
-      <guid isPermaLink="false">3fe1b7cbfd2ddd79bf9a3828</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-02 23:37
-TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 Technobezz</description>
-      <pubDate>Tue, 03 Nov 2026 14:38:59 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-03T14:38:59.314227Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-02T14:37:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Your Home Wi-Fi Router Has a Security Setting You May Have Never Checked - AOL.com</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5naVJtdFBZU2NjMi0weUVHZjNvaG1PWGNjLWVZbk9zb1BsVm5mV0ltWFBiZUNJTERUblluLWFKS1hkYVpXLWVyM09YMFlrZmtzOEZaZWJ0MHV0aFU0MDhYSFVJbUhPcllhWUsyT1NQUWlra2JjdkV6YXZn?oc=5</link>
-      <guid isPermaLink="false">75d071096220c86263167975</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-11-02 00:48
-Your Home Wi-Fi Router Has a Security Setting You May Have Never Checked AOL.com</description>
-      <pubDate>Wed, 04 Nov 2026 00:53:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-04T00:53:32.582297Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-01T15:48:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -144,6 +102,48 @@ ASUS ROG Rapture GT-BN98 Pro Review (vs. GT-BE98 Pro): A Powerful and Well-Perfo
       <pubDate>Mon, 02 Nov 2026 06:48:31 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-02T06:48:31.741895Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-27T21:44:47Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review</title>
+      <link>https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5</link>
+      <guid isPermaLink="false">d2462bc83096a1f1a6146510</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-28 04:02
+Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell Gadget Review</description>
+      <pubDate>Wed, 04 Nov 2026 07:27:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T07:27:57.773437Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-27T19:02:25Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router - FinancialContent</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMkktUGR5dXZMN1IyX1QzTEZBWGxRUzlZSGx3YzJQVzIxYVZUcGpNMWNsalZQTTRMRW4xRF9ZQ3R4TWFNdVlvS2UxYWE1R1dtQXFnOW1aSUpIMWZUQ2FfbVBJNGVkRllwdUtvaWhTdmQxYjdVMHdqWS14eFAzd2R2NjdXTGN4ejNWWW42LXE4dDN0NG0tOWdRMEllR0xadmpWUThmdmd3dVFRcWQ5Zi14cEdlcWM0aVNmWUJrRVVfSGRUQVV4dDJfNEdGNU5ibUpPNk0zQU5vWHBqQjNNWDNNS0EtZ1hNZXAwOWM4OWZ5WE85dw?oc=5</link>
+      <guid isPermaLink="false">70c3f7b5c4e7d65f23b6618d</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-10-27 13:00
+InHand Networks Brings 5G and Wi-Fi 7 to Outdoor Commercial Venues with the ODU12 AI-Native Router FinancialContent</description>
+      <pubDate>Wed, 04 Nov 2026 07:27:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T07:27:57.773437Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-10-27T04:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 - XDA</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjVEQUxnRjhfZlNWdXFqSzFjSUdXUXJ3QVlRMDV6SEJJNUxXME9qbWZjdl9oQ3VTM0JQMjBpaGNUek9hNHlSVVdiLXNXM0FOclAwTWJiRnRac09WS1NOZVc0QnZ2SkxJRHAydmNFZm9zNno2VEJwVktJYUZnR1IyNWVQZ29ReWFYcWRjRA?oc=5</link>
+      <guid isPermaLink="false">b78c9606fdb863df47f1d194</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-03 04:31
+You can ignore the hype around Wi-Fi 8 and even Wi-Fi 7 if you're already on Wi-Fi 6 XDA</description>
+      <pubDate>Wed, 04 Nov 2026 07:27:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-04T07:27:57.773437Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T19:31:21Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
