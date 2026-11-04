@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-03T20:37:00.440322Z",
+  "generated_at": "2026-11-04T00:53:31.553351Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
+    },
+    {
+      "id": "7af2e8a0d2999eabefc7507d",
+      "title": "Wi-Fi 8はまだ完成していないのに…ASUSがルーターをフライング発売。日本でも買えます - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DcDZYcHdtQ1NUUFFhUGR5TXZNUnF5OFh1bXpHSENOc1EtWmFualNzMG9lbTE4UWhOMTZpWVBWT1JEUlhCUHp2bW1xQ2QxOF9wdnFIOHVhWnpLTEE0UDhGRm1uVTl6bXcwYlU2eHZFc0N2MU9hbkJZ?oc=5",
+      "summary": "Wi-Fi 8はまだ完成していないのに…ASUSがルーターをフライング発売。日本でも買えます Gizmodo",
+      "published_at": "2026-11-03T23:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
     },
     {
       "id": "74a4ed33d14d5ef163335c2f",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcnN0VU54UkY4ak1RTFFSSkVtLXBtOXJKVmlYQzRQMkhaMDZxZng3QjVTczdTZDR1SkI4bzNya1g0eTVnOWZMNWI4aC1SbHBaaUZlam1VNDZXaE84WGFHSEJKV2xoR1dSQjA2TmprQWprQQ?oc=5",
       "summary": "ASUSのWi-Fi 8対応ゲーミングWi-Fiルーター「ROG Rapture GT-BN98」が登場、約18万円 AKIBA PC Hotline!",
       "published_at": "2026-10-30T15:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "d25280f1e4e1eb3cbc269834",
-      "title": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 (ITmedia PC USER) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUVjRHZjdjBLbU91Uk5xSG5UbE50T1hkcnNXUGp1ejl0TVhwTkJkNGRPVWVGdTlHVmNVOGp6NWpVQmtLQnNwZ2p0MG04OE8wWmNqZzhSYVJVMXNRZkVaTmRkam04T0tEcU1xVjYzRGotWVUtNm8zYVpnRjBHZzh3NnN4ZDBqWmtudmxjVUVR?oc=5",
-      "summary": "ASUS、Wi-Fi 8にドラフト対応した高機能ゲーミングルーター「ROG Rapture GT-BN98」 (ITmedia PC USER) Yahoo!ニュース",
-      "published_at": "2026-10-30T08:06:09Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
