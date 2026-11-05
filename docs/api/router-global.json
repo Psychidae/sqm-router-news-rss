@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-05T17:38:03.797528Z",
+  "generated_at": "2026-11-05T22:50:53.098071Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,11 +9,22 @@
   "errors": [],
   "items": [
     {
+      "id": "849e34420948831bd215cdb9",
+      "title": "Huawei’s book-shaped Wi-Fi 7 router costs about $88 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGdqVllmOEdRWk5JNmRhamF5SGJaTW1YWjh5R2sxcHZoOVo5VkFTZjJuZzhmazZCYVFFSnA2MnpPbXVLX1lkSG1lZDdfODNaaG5mWmFCRDdtWHQ1NHRfdlMwSGw1YlhRQ0tHb1NCbHBoUWdYOERrVzFCWmNJV0RLX2xNY0JOUFVpazRQM2NR?oc=5",
+      "summary": "Huawei’s book-shaped Wi-Fi 7 router costs about $88 Mezha.net",
+      "published_at": "2026-11-05T20:33:42Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "bac119499e3ada6e2c78d6f1",
       "title": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
       "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
-      "published_at": "2026-11-05T14:00:00Z",
+      "published_at": "2026-11-05T14:07:11Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -61,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "ae156a0a13d6716c7d333263",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzh0VGNzQnVmdHpUY0ZTcVZpT2RmSXFpYlpKbVMxR3pLa1p5dEpyTFRlajFqYTJaRXJTWWdhOHpHVG9kZjVOV3FRLTYxeF82cnVUU1hZT0NRdUVxOTF4Zi1QVHRNOXo1NEpNNnFfcnlFOTdkSVpYY2ZfYWZwTUZ0eEVIUVFCVUlxMW5hQmJkQU80Q1g5aG0xeg?oc=5",
       "summary": "This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now Lifehacker",
       "published_at": "2026-11-04T14:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "5b37457481ffed6ef1c3e863",
-      "title": "Wi-Fi 4 to Wi-Fi 7: Asia-Pacific’s Uneven Home Upgrade - Ookla",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leEI4dzlObUF1R2xsX2xRaks5Vi1kZGkwYmE5MFF0b2V0aWJScFdQMjEtQWEwblJRNUVhTXRkY0xaWlA1dmJjamkxcngybGlidTdYaGVuRXdQNUg4UTVURXVxS0lQUQ?oc=5",
-      "summary": "Wi-Fi 4 to Wi-Fi 7: Asia-Pacific’s Uneven Home Upgrade Ookla",
-      "published_at": "2026-11-03T21:36:20Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
