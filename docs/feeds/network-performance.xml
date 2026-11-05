@@ -5,19 +5,75 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:47:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:25:26 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Amador internet outage suspects hid in woods after cutting cables, deputies say - Sacramento Bee</title>
-      <link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5TLTFoR3lkTG1LYVRfYlRuZGY5bGJxM0xWVmNkSDNNendJTzZkY09xY3RpaVItb0FnZ05oNlJkZUZOVHl5NGlFSDJtTzNVemxzQ0JfaGJoN0l1LURWRFNZTWF4bW10Zzg2UXFSb2V30gFuQVVfeXFMTVg3VkFXZlVWc1o2dHNadUExMDRESWZ1cERLQWkyRmFQLTVaOHh1eURLQ2V0SzduSTZLemZmS05MeFBobDhheVhlSzVTWWhKTmNlS3VlcnVyaVcybWFmRWl0RGVNT25iS2paZG5nVHc?oc=5</link>
-      <guid isPermaLink="false">93af761dd3abf0166e4520a2</guid>
+      <title>[性能・障害] NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) - ライブドアニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDZ5RDBwVFhrOUxWUS1ZMTBOeEsxY2xNbjM2dUdmWlowMHgyU1E2OVdvZnk2QTctbkZZc0RnNXhVenZSUnJaWlZ5ZVd4eVU4bjBfWFMwcktJaENhclE?oc=5</link>
+      <guid isPermaLink="false">1148d7a338809bc6dd02eb01</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 15:56
+NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) ライブドアニュース</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T06:56:05Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も - ITmedia Mobile - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE50eG1wdXpXZzdHRUxhR0Z1ZnpCdGF1NFplRVBrTFZYRUJfZUI4MzUxcmxUZVFBMnFjeFR6NVpRWUt3bjZ4X19sdE16U1pYN0dDR3FZc1FBWFhfTzkwVEV0WDBtOGlxX3JSeFdwUHBWMNIBaEFVX3lxTFBjeHdHelJDUFh2OG9nWFJ5X2FLZDM3NDBUd0Z2V3laZDNaUElFUDVyQU1NbVN3TUdRREN4N041ZDdXdDI2a1kxWlFBVjYtX1M1a2NsUFdKOER3QTFmREhVdmFQc3lzN2x2?oc=5</link>
+      <guid isPermaLink="false">4124223ee9ce8f745a6fb571</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 13:34
+ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も - ITmedia Mobile ITmedia</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T04:34:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドコモ携帯、全国で通信障害（共同通信） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbmhRNTZZbktuQi1ISTRTLVNuaW1DdE5PZVZqMlREeHVUWUljdm1qUXZ4UW84SHZ4TDg4Rm1ZRnVsYlo2MHZtdThENHYwZEVNY25HOWM2Vm9fRkpmQ3hXQURtWVZRTWs1Q3lSTVVPQjFRWnB1bHpodldQemVKSFE?oc=5</link>
+      <guid isPermaLink="false">bffa6836ed6e3d95b91ac7db</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 12:44
+ドコモ携帯、全国で通信障害（共同通信） Yahoo!ニュース</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T03:44:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドコモで通信障害、全国に影響 5日昼～【更新】 - ケータイ Watch</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1dW51LUE2Y09oUGpoNjhZbzV6MGwyQ3E4TTdMZE9RbmszcTV1TW1Yc3NJSzFDNUhueW9WUVk5TlVsQ0I5UjRDYk5wNzhlZ1RXRERwUkw2dmZ6bE9PZGw5MWZNWWhhMTQ?oc=5</link>
+      <guid isPermaLink="false">4627538720a94d7d15206cca</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 12:26
+ドコモで通信障害、全国に影響 5日昼～【更新】 ケータイ Watch</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T03:26:12Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet outage roils peninsula homes, businesses - Chinook Observer</title>
+      <link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVRlRGNQOHRDaXZHYW1hUVJPZ0syRjVqbmFKRnNvbF94YzM0MFhSclhoaDZUY3ptcFlvR3lEZl9Yd2hPMkFNa2NaTTBXcUlCTWozMXE1YnI2ckdvdDB6VC02anBValdDTTBHb0hSUlFpaVpadFdTY3VjVmkxREdsSmptZlRwODFoLXBONUNVbWtqQQ?oc=5</link>
+      <guid isPermaLink="false">6c0aeca23b9c6024da51917f</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-11-05 07:31
-Amador internet outage suspects hid in woods after cutting cables, deputies say Sacramento Bee</description>
-      <pubDate>Thu, 05 Nov 2026 01:47:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-05T01:47:41.131431Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-04T22:31:08Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-02 08:50
+Internet outage roils peninsula homes, businesses Chinook Observer</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-01T23:50:54Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

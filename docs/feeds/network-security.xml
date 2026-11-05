@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:25:25 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime</title>
@@ -32,20 +32,6 @@ New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer<
       <pubDate>Sat, 31 Oct 2026 16:04:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-10-31T16:04:42.996276Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-10-29T11:10:13Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News</title>
-      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5</link>
-      <guid isPermaLink="false">c770dbc7bada947261cc79b0</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-10-29 17:22
-Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls GBHackers News</description>
-      <pubDate>Thu, 29 Oct 2026 19:12:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T19:12:32.271762Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T08:22:46Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>

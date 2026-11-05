@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-05T01:47:39.640543Z",
+  "generated_at": "2026-11-05T09:25:24.446441Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
     {
@@ -42,28 +42,6 @@
       "score": 13
     },
     {
-      "id": "ae156a0a13d6716c7d333263",
-      "title": "TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGFNb3Nyek03LTZ2R2JSRTlrYkRKRGthS1J5Z2VZY1MxRG11dElXZkNNOXZhWjVsOWtlWkMxck1FR1hIU0NIZFN4VWNXYkVoWEVnMi1qbmhUbWsyNXNDeVpqNlFaUWFZUU1YVkNMcW1adEUyT3NRa2sxRlI2TG44Y2RDRS0yQS1ra1hoa3Rn?oc=5",
-      "summary": "TP-Link Dual-Band BE3600 Wi-Fi 7 Router dips to $79.98 Technobezz",
-      "published_at": "2026-11-02T14:37:21Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "3fe1b7cbfd2ddd79bf9a3828",
-      "title": "TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1dXbjBvak93Z21pc3VCdzJxZ2dfaUZTTDFxTGdKeFd5RlNEWFlQYWk0YVlCUV9FQW8yanNUTHZSWF9JQjR0SnhnZERNSjlyVXQ4UGhWbm9EdWdaRDB4aTRJVlZjMFViR0VoMlpMeFcwTFlSVFJqOFlmUjZhRXRQN2IwU1BNVktBaHBnN1lFQjE0N3VuNVR2WA?oc=5",
-      "summary": "TP-Link BE6300 Dual-Band Wi-Fi 7 Router price drops to $161.99 Technobezz",
-      "published_at": "2026-11-02T14:37:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
       "id": "d2462bc83096a1f1a6146510",
       "title": "Apple’s 14-Inch MacBook Pro Gets M6 and Wi-Fi 7, Keeps the Same Shell - Gadget Review",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb0pzemVVMklrcjI1V3c1UXlZZ0lPRTBYR21CeUxlc3hGLXJBWm9adjBzZDVqeHJsNi1WWTFsVzFyMm1xazZXa2pnMGM5NmM5UEJzNkdqZnNtLWFBQjJYR3FZdklNZkZUdmRhZVRqdFFXcVUzeFpkOVR0Z09pS2lCUVQ4eVF6NktHRmZtN1ZzNEZpLTMxNWR3TUFNZlk?oc=5",
@@ -80,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5leEI4dzlObUF1R2xsX2xRaks5Vi1kZGkwYmE5MFF0b2V0aWJScFdQMjEtQWEwblJRNUVhTXRkY0xaWlA1dmJjamkxcngybGlidTdYaGVuRXdQNUg4UTVURXVxS0lQUQ?oc=5",
       "summary": "Wi-Fi 4 to Wi-Fi 7: Asia-Pacific’s Uneven Home Upgrade Ookla",
       "published_at": "2026-11-03T21:36:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "194da251dbf960b224cdfc33",
-      "title": "NETGEAR Nighthawk WiFi 7 Router RS180 sees price cut to $149.95 - Technobezz",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPalhEdUhZLVlld2ZGcWFFaVd5ZXRlMWZxZVNoTTVmdHp3NEdyQTkxR2JDTEROUzU4d1NNLThKcDk5WHhSQVNFbkowbFAyUDdxVXJqdUdlck9qV2VYeDAwZ3ZxZ0E3ZFdvSzBqcnBuUUtwZG9SalFNRE5BeWY1R1d5SWxzS0o3YXJSejAwczBkR0VxTXplTC1ISzVB?oc=5",
-      "summary": "NETGEAR Nighthawk WiFi 7 Router RS180 sees price cut to $149.95 Technobezz",
-      "published_at": "2026-11-03T03:28:39Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -117,6 +84,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
+    },
+    {
+      "id": "282135c4e105d6866bbc3b7e",
+      "title": "TP-Link’s Archer BE230 & Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lUVdNRDRacF9VSkk3YTVzS3BZVzdnWXFCckljREdEYjQ2c0h3ZnpYalJ0SFZ5NDJERXFMaGQ3Q3JDSWpiaWljMjNfTnBPbkU0VTQtTXRodENJcmd4Mk1KM1JWaDJLRkVidWhqYjRUU3NjNmJETnZyRlBR0gF_QVVfeXFMTm9FOHh2N0tja0huNURPLXo4VVI4OW9BZmEzNU1QNnpWN3ZSVE5xUDBsTUlCaTNlV1o3dHFFV2E4UFZFZ0JUdmY4Z0VxR2RhLXhzdmVBa3FoblZqQm5kaGxmREx2QzU3ZXNpUzRkRklIOFJRSWhiVm5MaUlUVm9tVQ?oc=5",
+      "summary": "TP-Link’s Archer BE230 & Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon Wccftech",
+      "published_at": "2026-11-02T10:32:30Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "20bb918dcbc7988fa122e596",
+      "title": "Popular Netgear Orbi 770 Wi-Fi 7 mesh system falls close to its best-ever price on Amazon - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS285YlpvVkpoS0JjT3p2dWxsaDhTQmdHTHF2V2tHZFlKaUQtTVlqajQ4S2ZLd04wN3ZNRkVhX3Zod2REYlpYcXhtWXVXNVdSY09ZSUtFazUxX0Q3OGlCb0lXV1hodmFUcVRyVDVhVEN2a3R2ZUd2Z2JfX0VjSV8zM3FDRktNNUNISGRBMGtjVms3cnNkUDNwVGJWUkhXb1gzQkp4aFJna2std25wT3JhWTNnLTlUbElrMVlaNA?oc=5",
+      "summary": "Popular Netgear Orbi 770 Wi-Fi 7 mesh system falls close to its best-ever price on Amazon PC Guide",
+      "published_at": "2026-11-01T10:54:49Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 7
     }
   ]
 }
