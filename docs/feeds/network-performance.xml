@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 09:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:38:05 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDZ5RDBwVFhrOUxWUS1ZMTBOeEsxY2xNbjM2dUdmWlowMHgyU1E2OVdvZnk2QTctbkZZc0RnNXhVenZSUnJaWlZ5ZVd4eVU4bjBfWFMwcktJaENhclE?oc=5</link>
-      <guid isPermaLink="false">1148d7a338809bc6dd02eb01</guid>
+      <title>[性能・障害] ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も【更新】（ITmedia Mobile） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBGT1RvNTRiamlYWkZfWWktSkxqcVpHV3ctSmwtWXlLVmZTUDRQS2VDdjBLdVItQnhOSmJ1c3FKVkdpQ2U5VXZ1MXJlbHNMMTdBZzhSYkVoMkFDeGNIdHlkcWxrTTlVSzFiRUZkZTd1dERkT3lvbTRWNHlDdy1uVXc?oc=5</link>
+      <guid isPermaLink="false">1839417fb01e0e14f4bb45b1</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
-元記事日付: 2026-11-05 15:56
-NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) ライブドアニュース</description>
-      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-05T06:56:05Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-05 13:38
+ドコモ通信障害の対象範囲を特定――「5G SA」契約が対象、4G設定への切り替えで回避も【更新】（ITmedia Mobile） Yahoo!ニュース</description>
+      <pubDate>Thu, 05 Nov 2026 17:38:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T17:38:05.754798Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T04:38:51Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -36,6 +36,20 @@ NTTドコモの回線を利用する携帯電話、通話などで通信障害�
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] 【速報】ドコモ携帯、全国で通信障害 - 47NEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE13R2ZJemU4eEFKbV9LNndUSVBzY0kzaWpmWDkxOXRHQ0xTVjc0UnRNNXluREswZ01JTW1WZVVPZmRUcmNaVDRYOTdpcw?oc=5</link>
+      <guid isPermaLink="false">88d99fcfb19d1a7e3872b9a0</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 12:44
+【速報】ドコモ携帯、全国で通信障害 47NEWS</description>
+      <pubDate>Thu, 05 Nov 2026 17:38:05 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T17:38:05.754798Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T03:44:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] ドコモ携帯、全国で通信障害（共同通信） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbmhRNTZZbktuQi1ISTRTLVNuaW1DdE5PZVZqMlREeHVUWUljdm1qUXZ4UW84SHZ4TDg4Rm1ZRnVsYlo2MHZtdThENHYwZEVNY25HOWM2Vm9fRkpmQ3hXQURtWVZRTWs1Q3lSTVVPQjFRWnB1bHpodldQemVKSFE?oc=5</link>
       <guid isPermaLink="false">bffa6836ed6e3d95b91ac7db</guid>
@@ -43,6 +57,20 @@ NTTドコモの回線を利用する携帯電話、通話などで通信障害�
 ソース: Google News JP: network outage
 元記事日付: 2026-11-05 12:44
 ドコモ携帯、全国で通信障害（共同通信） Yahoo!ニュース</description>
+      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-05T03:44:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) - ライブドアニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDZ5RDBwVFhrOUxWUS1ZMTBOeEsxY2xNbjM2dUdmWlowMHgyU1E2OVdvZnk2QTctbkZZc0RnNXhVenZSUnJaWlZ5ZVd4eVU4bjBfWFMwcktJaENhclE?oc=5</link>
+      <guid isPermaLink="false">1148d7a338809bc6dd02eb01</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-05 12:44
+NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) ライブドアニュース</description>
       <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-05T03:44:35Z</sqm:sourcePublishedDate>
