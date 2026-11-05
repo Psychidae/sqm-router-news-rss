@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:47:40 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] CVE-2026-76418: Cisco Secure Firewall Zero-Day Exploited in SSL VPN Attacks - SOC Prime</title>
@@ -36,20 +36,6 @@ New Cisco firewall zero-day exploited to crash SSL VPN devices BleepingComputer<
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNeWUwRGI3eHpmY29KTEJRaFM3WmhJVEYyeGVsU2ZJb0NkUWdxVzNxbEVudTZrSW9TMFpBdFdzaEluVnhaRGQ1QlhONnpDUFZubk5tZGZremVzUEtULTFTTkNlNC12M3J3UUdac1R6WnF5bzhVSXowcDItZ2M2NDh1WXNjVHd4aUV2elVXUkotRW9kVnMtQ1pwNWdsdTZacURDbnc?oc=5</link>
-      <guid isPermaLink="false">b7dcbd4691e1ef12dc0aab95</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-10-30 08:00
-ファイアウォール・VPNなどで脆弱性の悪用相次ぐ、PHP2Shellは管理画面にも波及|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Thu, 29 Oct 2026 23:15:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-10-29T23:15:52.899864Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-10-29T23:00:12Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls - GBHackers News</title>
       <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNV04xLTJlVkgxeWJuVUtINUl2VEEzbHBSZm9HLVFNVUFBaHZPSG4zQXV4M2FlMWdHeDJJUFQ3ZGlFUUdKLTE0Z2FqSHAwRGRGSmxBeFJFX0p1N3pCV0V1Yk9MOENuN3VUSU0tcXptTHphRmZVUVkxMWx4QkJ0Y2s4VFUxUdIBiAFBVV95cUxNX3Eyam5zaW1NaHFHeVhBY3Nwem1pZU1HaHMwMktQSmMtNUZyMU5TVHFnOGdib18ycXM0X1lpenNoYXVSZTRReHNQUldSWlR3RTdJSGFUSF9iNW9DTHJaSzlYd1RKR19tYzZTT1U4b3prWllYWnRReUFkMW11aTNzb3JpVmE0M2pK?oc=5</link>
       <guid isPermaLink="false">c770dbc7bada947261cc79b0</guid>
@@ -64,15 +50,15 @@ Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Fir
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を - ZDNET Japan</title>
-      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Uc2F3SUFWcF9JeXRsVTFNOFBHQUU2U2FuVGVfT01ISU5rdkFKS1ZqZC0wNmtuRVZfMnoybHZSZUt5MndWdi01VGd0ZW90RlJ1RDlJ?oc=5</link>
-      <guid isPermaLink="false">6bd4a52726b09af1e2bbf446</guid>
+      <title>[セキュリティ] NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1WN0M5bVBoU2sxR25YbGVkdmtpckNDQ1ZiN0Y0c3RtbnJvUWJ3X2Z2LVd4OUFXdWlJZDB1bGdXLVNhSkhlUEo4X2xnd01JN2gwemo4cEZJMmNwUFN1N2ROd2txQVZWZnBZSE1vT2FlRlBUR1hSczlvd3lsZVRVdWc?oc=5</link>
+      <guid isPermaLink="false">043edaa4c63ac03459a24c5d</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-11-02 10:08
-NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を ZDNET Japan</description>
-      <pubDate>Mon, 02 Nov 2026 06:48:32 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-02T06:48:32.704114Z</sqm:firstSeenDate>
+NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を Yahoo!ニュース</description>
+      <pubDate>Thu, 05 Nov 2026 01:47:40 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-05T01:47:40.321967Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-02T01:08:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>

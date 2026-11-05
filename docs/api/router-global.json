@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-04T21:30:43.286698Z",
+  "generated_at": "2026-11-05T01:47:39.640543Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -25,6 +25,17 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEJsYTlQZHZId2hiY3hkUzFWUlRxcnpGWExNb3dJY2RqZW9fOElMQkdqVkpLaE5XYk9TM3d3dGRkemZtTnNWRFgwYm9yb0FTelNHR1hMMlBQSlk2OWU4d0ZQN3ZvRzZhZ1NsN1NKTGVmVGJ3RnBOU2F6aFpHUkRNV0YyZUtwUGU1cmc0TnRpUTBxVHFOQ3VaNWRMeDJVaXZt?oc=5",
       "summary": "TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 Technobezz",
       "published_at": "2026-11-03T04:53:56Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "0c632a074b445faecca89be7",
+      "title": "Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 - Technobezz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWpQcHhGUFNBa2NvdHdCbzF6RHczNXd2YjZQTVpFbnoxVVotaUdxUV82cEdfM2FyRlhQR1dLUUNKTFlMbkVUdnFlTGQ0NldQalBhR1VyQU9ZNlYzblQ1eGVaZzd2Y1dodW4yTXlfMFVmbDdlMWZJYlVpTWV2NENRcUVwelR5RFRONHJ2LTZLTGVDZDBzeWFUMjAyOWZXdHM?oc=5",
+      "summary": "Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 Technobezz",
+      "published_at": "2026-11-02T20:57:23Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -72,7 +83,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 9
+      "score": 8
     },
     {
       "id": "194da251dbf960b224cdfc33",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMkVveWZBemgtU25xNE9SUmJSV1BlbktSV2ZNTkE4OGlKazBteU1CVlNUSFFUZjRfMWVnS3c1NXNQY1EydXdwUEl5bGdpN1l6c21WVWNvSTlLREJ3QmNCTFIwclNGSlJ5OUhLdG5ka09IRHZFcVR5TUVXTGctb0xuZkgySjVER2V2YmYtUjJmdjZmU2ozYzh5WA?oc=5",
       "summary": "TP-Link Tri-Band BE15000 WiFi 7 Router Archer drops to $249.97 Technobezz",
       "published_at": "2026-11-02T14:37:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "282135c4e105d6866bbc3b7e",
-      "title": "TP-Link’s Archer BE230 & Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lUVdNRDRacF9VSkk3YTVzS3BZVzdnWXFCckljREdEYjQ2c0h3ZnpYalJ0SFZ5NDJERXFMaGQ3Q3JDSWpiaWljMjNfTnBPbkU0VTQtTXRodENJcmd4Mk1KM1JWaDJLRkVidWhqYjRUU3NjNmJETnZyRlBR0gF_QVVfeXFMTm9FOHh2N0tja0huNURPLXo4VVI4OW9BZmEzNU1QNnpWN3ZSVE5xUDBsTUlCaTNlV1o3dHFFV2E4UFZFZ0JUdmY4Z0VxR2RhLXhzdmVBa3FoblZqQm5kaGxmREx2QzU3ZXNpUzRkRklIOFJRSWhiVm5MaUlUVm9tVQ?oc=5",
-      "summary": "TP-Link’s Archer BE230 & Archer BE400 Are Dual-Band Wi-Fi 7 Routers That Won’t Break The Bank But Will Boost Your Wireless Speeds, Starting From $80 On Amazon Wccftech",
-      "published_at": "2026-11-02T10:32:30Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
