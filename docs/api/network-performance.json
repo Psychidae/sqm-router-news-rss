@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-06T18:26:36.531017Z",
+  "generated_at": "2026-11-06T23:30:07.842791Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -29,17 +29,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
-    },
-    {
-      "id": "93af761dd3abf0166e4520a2",
-      "title": "Amador internet outage suspects hid in woods after cutting cables, deputies say - Sacramento Bee",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TLTFoR3lkTG1LYVRfYlRuZGY5bGJxM0xWVmNkSDNNendJTzZkY09xY3RpaVItb0FnZ05oNlJkZUZOVHl5NGlFSDJtTzNVemxzQ0JfaGJoN0l1LURWRFNZTWF4bW10Zzg2UXFSb2V30gFuQVVfeXFMTVg3VkFXZlVWc1o2dHNadUExMDRESWZ1cERLQWkyRmFQLTVaOHh1eURLQ2V0SzduSTZLemZmS05MeFBobDhheVhlSzVTWWhKTmNlS3VlcnVyaVcybWFmRWl0RGVNT25iS2paZG5nVHc?oc=5",
-      "summary": "Amador internet outage suspects hid in woods after cutting cables, deputies say Sacramento Bee",
-      "published_at": "2026-11-04T22:31:08Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
     },
     {
       "id": "4124223ee9ce8f745a6fb571",
