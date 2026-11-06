@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-05T22:50:53.098071Z",
+  "generated_at": "2026-11-06T03:24:00.122215Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "3c3b5593864bd95d7fb7b6ff",
+      "title": "Smart home networking gets a stylish upgrade with Huawei's new Wi-Fi router - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVpNUEk2cXlDU1laYno0U1FhMFg1Wi13eTlmVjN3MEtPTzlIRDBkQlc0UlRNUkN0VWZ2aWh0NDJ2V2VZbzI3Z1JkMDl4LU56b2g4TFhOd2EyYUowSW5pUnVvNkVWbnJlX21ENERyUlR0VUdSOUxia3hvdWh5eG4zOEs0SHp2VVQwMVpUWmgzNA?oc=5",
+      "summary": "Smart home networking gets a stylish upgrade with Huawei's new Wi-Fi router Yahoo Tech",
+      "published_at": "2026-11-05T20:20:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
+    },
     {
       "id": "849e34420948831bd215cdb9",
       "title": "Huawei’s book-shaped Wi-Fi 7 router costs about $88 - Mezha.net",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 9
-    },
-    {
-      "id": "958dd426e65affeb099e26da",
-      "title": "This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzh0VGNzQnVmdHpUY0ZTcVZpT2RmSXFpYlpKbVMxR3pLa1p5dEpyTFRlajFqYTJaRXJTWWdhOHpHVG9kZjVOV3FRLTYxeF82cnVUU1hZT0NRdUVxOTF4Zi1QVHRNOXo1NEpNNnFfcnlFOTdkSVpYY2ZfYWZwTUZ0eEVIUVFCVUlxMW5hQmJkQU80Q1g5aG0xeg?oc=5",
-      "summary": "This Netgear Wi-Fi 7 Mesh System Is $100 Off Right Now Lifehacker",
-      "published_at": "2026-11-04T14:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }
