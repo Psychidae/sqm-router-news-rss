@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-07T09:59:36.900621Z",
+  "generated_at": "2026-11-07T16:23:39.874603Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -53,6 +53,17 @@
       "score": 14
     },
     {
+      "id": "dae37a542b059bc44e58b884",
+      "title": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lrSzZBVFZpWS0tWHg1M0NkY0VWY281aUd0V1hralp2YVMzMlF6M0NUWldGT3A2Wk5uWVgyc0tIaUNMNVh3bXBQckNBM0lheEZMcVlja2NjbkdTSlFQTE13ckFRMzF6QkFldC1ReV84R1cxMmpCYkljRkN3ZS16UzVhb1JUMDJzOWV0elE3ZzRMSnJOdDBLM2FBTQ?oc=5",
+      "summary": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router MakeUseOf",
+      "published_at": "2026-11-07T14:31:17Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "4e4e5cc0fdf8176522494d22",
       "title": "Last chance to grab this affordable TP-Link Wi-Fi 7 router deal, with coverage up to 2,600 sq. ft. - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHFhWVZhd3N3WWtOYm1Qb0tpckpPQVl3TUlhUEotVDJrT0g0X2lmNi02N1k4WXJKeE05dXhSbTc2bjdLSGtCcFNVUnIwSnJENHZfX1QzdUI0WVFzRTE2VFM4T2lGT2lRN3lRZ3h1a3JvNllBWm9xckpEUC1abFh3dTVFSk5Md19EVFpQRVF1cjFoaVcxLWVwRlUzQnRWZV9OemRCY1Ixb2xxTmtGY0RvU1dyNkFhRzhhd3dFenFyVXpfcjA?oc=5",
@@ -61,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "bac119499e3ada6e2c78d6f1",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 9
-    },
-    {
-      "id": "91624aef1dca79a432af5ac2",
-      "title": "Wi-Fi 7 vs Wi-Fi 6E: $149.99 vs $219.99 Gear [2026] - shattered.io",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIRGtFZEIxTV9mZG1ldXBSeURCM3JmY01JYkMwX0tSbmV5dXFaZFRGU0g4LW10U3JxSnNtbXlCZ3h2NGJaZ3ZPWWJTSF9XdUx4LUU3bHhSRkVDVEJoS3lDdjc5aFdOYVY1alFsck0waVVKQW9Q?oc=5",
-      "summary": "Wi-Fi 7 vs Wi-Fi 6E: $149.99 vs $219.99 Gear [2026] shattered.io",
-      "published_at": "2026-11-06T09:57:34Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
     }
   ]
 }

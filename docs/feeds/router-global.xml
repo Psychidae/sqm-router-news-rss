@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 16:23:39 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers - Mezha.net</title>
@@ -61,6 +61,20 @@ Starlink Ships Wi-Fi 7 Router 4 With V4 Kits in Canada and the US TeslaNorth.com
       <sqm:firstSeenDate>2026-11-06T23:30:05.628831Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-06T19:22:26Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link’s update deadline is the best reason yet to put OpenWrt on your router - MakeUseOf</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lrSzZBVFZpWS0tWHg1M0NkY0VWY281aUd0V1hralp2YVMzMlF6M0NUWldGT3A2Wk5uWVgyc0tIaUNMNVh3bXBQckNBM0lheEZMcVlja2NjbkdTSlFQTE13ckFRMzF6QkFldC1ReV84R1cxMmpCYkljRkN3ZS16UzVhb1JUMDJzOWV0elE3ZzRMSnJOdDBLM2FBTQ?oc=5</link>
+      <guid isPermaLink="false">dae37a542b059bc44e58b884</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-11-07 23:31
+TP-Link’s update deadline is the best reason yet to put OpenWrt on your router MakeUseOf</description>
+      <pubDate>Sat, 07 Nov 2026 16:23:39 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-07T16:23:39.873641Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-07T14:31:17Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -130,20 +144,6 @@ Starlink Router 4: 6 Details That Matter for New Buyers BASENOR - Tesla Accessor
       <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-06T20:08:03Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Wi-Fi 7 vs Wi-Fi 6E: $149.99 vs $219.99 Gear [2026] - shattered.io</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBIRGtFZEIxTV9mZG1ldXBSeURCM3JmY01JYkMwX0tSbmV5dXFaZFRGU0g4LW10U3JxSnNtbXlCZ3h2NGJaZ3ZPWWJTSF9XdUx4LUU3bHhSRkVDVEJoS3lDdjc5aFdOYVY1alFsck0waVVKQW9Q?oc=5</link>
-      <guid isPermaLink="false">91624aef1dca79a432af5ac2</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-06 18:57
-Wi-Fi 7 vs Wi-Fi 6E: $149.99 vs $219.99 Gear [2026] shattered.io</description>
-      <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T09:57:34Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
