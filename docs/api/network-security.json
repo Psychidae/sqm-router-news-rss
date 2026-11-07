@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-06T23:30:06.907165Z",
+  "generated_at": "2026-11-07T03:11:40.362262Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 5,
+  "count": 6,
   "errors": [],
   "items": [
     {
@@ -28,7 +28,18 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "5976d4fd2ce5da55065bb5b6",
+      "title": "SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 - Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzJmMDBvWnhoSXV4ODE5WUgxQW1XRUNzdUVHTnUzT1BGUTZ6YkVkUy01NExtWE9WdzFvSlVGM1NsOUNGb2lCd2kwSjBDNXlKVml6VDNDNVhPb3FNOXpObXZfaE96aE80UGF3eFg3eHd2TTdLVlUwNm9BZUNmeVVoRUdNU3lESVVURkZFWUFkZVpPWmg0VE04?oc=5",
+      "summary": "SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 Mezha.net",
+      "published_at": "2026-11-06T17:07:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     },
     {
       "id": "68f98b83c9b1f817490215ac",
