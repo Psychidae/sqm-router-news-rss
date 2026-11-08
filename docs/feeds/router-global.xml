@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:56:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:55:42 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers - Mezha.net</title>
@@ -18,20 +18,6 @@ Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers Mezha.net
       <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-07T06:00:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers - Notebookcheck</title>
-      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakcxbGJINHM1TDJLdV9abW1MbUgtdTB0M3k5d3VkMDVLOVJGTW9fQUZ1UkZiZHp1algyNmpOdzVXejR4ek03bHd0RWJXS183bFFJNEU1dnZvcWVpU3FlR2dmbjdLU3FoV2wwZGVMTndUWXRwSkYtLW0ycWwxMldPaFRJWE8ybUpaTXVweU1MTXBrS0JMcEdkQ3EyMGdSb2tXWjdCOTJ6cEhVSURocWF1Qjh6czd3YzRfWGNEamNsbTN0YzY4eWM3cjNUVUxCSDVp?oc=5</link>
-      <guid isPermaLink="false">fb97e75c53aa895ec2bd8624</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-07 14:53
-Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers Notebookcheck</description>
-      <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-07T05:53:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -50,6 +36,20 @@ TP-Link’s update deadline is the best reason yet to put OpenWrt on your router
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers - Notebookcheck</title>
+      <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakcxbGJINHM1TDJLdV9abW1MbUgtdTB0M3k5d3VkMDVLOVJGTW9fQUZ1UkZiZHp1algyNmpOdzVXejR4ek03bHd0RWJXS183bFFJNEU1dnZvcWVpU3FlR2dmbjdLU3FoV2wwZGVMTndUWXRwSkYtLW0ycWwxMldPaFRJWE8ybUpaTXVweU1MTXBrS0JMcEdkQ3EyMGdSb2tXWjdCOTJ6cEhVSURocWF1Qjh6czd3YzRfWGNEamNsbTN0YzY4eWM3cjNUVUxCSDVp?oc=5</link>
+      <guid isPermaLink="false">fb97e75c53aa895ec2bd8624</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-07 14:53
+Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers Notebookcheck</description>
+      <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-07T05:53:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag</title>
       <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5</link>
       <guid isPermaLink="false">2c3843c27e1afe06533cddd0</guid>
@@ -60,20 +60,6 @@ Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag
       <pubDate>Sat, 07 Nov 2026 09:59:36 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T09:59:36.899927Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-06T21:42:20Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Starlink Ships Wi-Fi 7 Router 4 With V4 Kits in Canada and the US - TeslaNorth.com</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlmOHVLTmZFRFB3VFpaOE5oMUlDVTBxcVg1TE5xcy0zNUNjTzdMWWRzSkNXc0VyaG0xN2JfTGUxLURCNnNlYUc5OERZSV8xSkhnV1ozQ3M3UjdNTFM4dW1mcnoyZVBiYnh2OGNMZEZCa2cyTTNvZkFiZzlEZl9MdExRbVFwZTlBMXNFVkw0bDJqM2JMbWNScEJsV2VFRVhZNEE?oc=5</link>
-      <guid isPermaLink="false">014c5b70127fb6a9d9be8ee2</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-07 04:22
-Starlink Ships Wi-Fi 7 Router 4 With V4 Kits in Canada and the US TeslaNorth.com</description>
-      <pubDate>Fri, 06 Nov 2026 23:30:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-06T23:30:05.628831Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T19:22:26Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -97,11 +83,11 @@ Last chance to grab this affordable TP-Link Wi-Fi 7 router deal, with coverage u
       <guid isPermaLink="false">bac119499e3ada6e2c78d6f1</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-11-05 23:07
+元記事日付: 2026-11-05 23:00
 This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker</description>
       <pubDate>Thu, 05 Nov 2026 17:38:03 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-05T17:38:03.796646Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-05T14:07:11Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-05T14:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -144,6 +130,20 @@ TP-Link BE5000 Dual-Band Wi-Fi 7 Router now $143.99, down from $159.99 Technobez
       <pubDate>Sat, 07 Nov 2026 20:29:22 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T20:29:22.625622Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-03T04:53:56Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 - Technobezz</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWpQcHhGUFNBa2NvdHdCbzF6RHczNXd2YjZQTVpFbnoxVVotaUdxUV82cEdfM2FyRlhQR1dLUUNKTFlMbkVUdnFlTGQ0NldQalBhR1VyQU9ZNlYzblQ1eGVaZzd2Y1dodW4yTXlfMFVmbDdlMWZJYlVpTWV2NENRcUVwelR5RFRONHJ2LTZLTGVDZDBzeWFUMjAyOWZXdHM?oc=5</link>
+      <guid isPermaLink="false">0c632a074b445faecca89be7</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-03 05:57
+Roam 7 BE3600 Wi-Fi 7 Portable Travel Router now selling for $87.99 Technobezz</description>
+      <pubDate>Sun, 08 Nov 2026 05:55:42 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-08T05:55:42.303130Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T20:57:23Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
