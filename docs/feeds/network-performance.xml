@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:22:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:28:28 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Hartford officials cast doubt on claim internet outage delayed election results - Yahoo</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1FOWGJjNGdfTmY4TnBXQ1RWSmh0NGpEZDFuUC1BanBrLXk4NDhaYUZydGRSZUNfcnR1a1h0RW9oOFltSWJkRjNhOUJhUGd2b0FBZUZNX1dvU09fRzRXLWY2VnU2ZHMzSTg1SlhpSDJCa2FZQjBhWFVNVDlBRXNJei12UDhIMEI0cTMxaWVVUVU1R0RKVWpvbjZOMA?oc=5</link>
-      <guid isPermaLink="false">d360b307cb2aad9e9f286887</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-07 19:00
-Hartford officials cast doubt on claim internet outage delayed election results Yahoo</description>
-      <pubDate>Sun, 08 Nov 2026 05:55:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-08T05:55:43.838787Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-07T10:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] One hour power and internet outage in UK town cost firms £48.5k in lost productivity - ISPreview UK</title>
       <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDR1STFTclF6U2NjbzY0Qms4b2NYYWVCdzhzWHFLbGtxMGxlNllES0F2UTNTLW8xemJ3NGozZDg3VkVIYTkxaVp1cVNSVXNGOE9kcU1WeDk5Tk5zeGd4TzczQ2w4WEZaMmZ6S3VYaWZ6ZXZZNGR1T2ttOXg3d3lmYkluUDRmVnUtLW9saWx4QkhDVktWX2xvU0JGdGkyZWE1Q21vSUFYNDc5MXZCUllLek1vb2VhTGZNR0JqclByODBQZ2Z4UFpfUVJmeXRWMDQ?oc=5</link>
