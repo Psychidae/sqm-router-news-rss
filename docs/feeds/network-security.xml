@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:22:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks - GBHackers News</title>
@@ -36,20 +36,6 @@ Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentic
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 - Mezha.net</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzJmMDBvWnhoSXV4ODE5WUgxQW1XRUNzdUVHTnUzT1BGUTZ6YkVkUy01NExtWE9WdzFvSlVGM1NsOUNGb2lCd2kwSjBDNXlKVml6VDNDNVhPb3FNOXpObXZfaE96aE80UGF3eFg3eHd2TTdLVlUwNm9BZUNmeVVoRUdNU3lESVVURkZFWUFkZVpPWmg0VE04?oc=5</link>
-      <guid isPermaLink="false">5976d4fd2ce5da55065bb5b6</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-07 02:07
-SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 Mezha.net</description>
-      <pubDate>Sat, 07 Nov 2026 03:11:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-07T03:11:40.361486Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T17:07:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売 中小企業・SOHOのセキュリティ強化を支援 - クラウド Watch</title>
       <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GMDlldHJxWk9DalZtMTFySl8yQmhCUmU2Rkw1ODNJUEN0akxwOWFxaWg3eHpnVFhDY2wzTjNOMEtIR3N2R3V0a250T0VyMzAxZjFMcmlHc1VCQzhMbkMxR2ltUFRXNzQ?oc=5</link>
       <guid isPermaLink="false">68f98b83c9b1f817490215ac</guid>
@@ -74,6 +60,20 @@ NETGEAR、2.5GbE対応セキュリティゲートウェイ「PR30SG」を国内�
       <pubDate>Thu, 05 Nov 2026 17:38:04 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-05T17:38:04.689855Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-05T13:47:30Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を - ZDNET Japan</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Uc2F3SUFWcF9JeXRsVTFNOFBHQUU2U2FuVGVfT01ISU5rdkFKS1ZqZC0wNmtuRVZfMnoybHZSZUt5MndWdi01VGd0ZW90RlJ1RDlJ?oc=5</link>
+      <guid isPermaLink="false">6bd4a52726b09af1e2bbf446</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-02 10:08
+NETGEAR製の一部ルーターにセキュリティ脆弱性--早めの対応を ZDNET Japan</description>
+      <pubDate>Sun, 08 Nov 2026 18:22:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-08T18:22:00.335808Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-02T01:08:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

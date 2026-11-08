@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 13:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:22:01 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] Major Internet Outage Sparked By Alleged Thieves - myMotherLode.com</title>
-      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNaXFBY1hZZ1cxenNmWmkyUnpGbXFNdHBxSTVwRnVLX1ZIQ3hUWmhBS2lfNE54NERRYzIxQWVnOG5rR0FoTmpsLVotZkt6ZFhGV1NRc1poWVMzUmZxbF9uUnhlM1ZZdTIwVjB1YmhlR0lWT1FSX0UyTUN3aDZCVWQ1WmROa1NkSUZVd1hHMl9STzJCcFhVTGlLQ2hkMl9iWFHSAaQBQVVfeXFMTTU4ZlJPSG0zQzFMRjNXbDVqRWRBb01WUEN4b2lEZWxLTTZicHoxOVphRnFpeDE4ZVZZc3U3WHFVRVBObExuTVprUzdna2Jsdl84UFJISVZJYkdHdjJ5SndJcjdRWjdKMXNUTkw0NzY1UXExeVIzUkJ0NnNBa3FYUTYwUjNXaWdXZFNLMkRYUTRSZVRMMHAzbktqQnB5U0dIT0NNSjc?oc=5</link>
-      <guid isPermaLink="false">1292ef253e2a5bb7e997e2c2</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-08 07:30
-Major Internet Outage Sparked By Alleged Thieves myMotherLode.com</description>
-      <pubDate>Sun, 08 Nov 2026 05:55:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-08T05:55:43.838787Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-07T22:30:18Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] Hartford officials cast doubt on claim internet outage delayed election results - Yahoo</title>
       <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1FOWGJjNGdfTmY4TnBXQ1RWSmh0NGpEZDFuUC1BanBrLXk4NDhaYUZydGRSZUNfcnR1a1h0RW9oOFltSWJkRjNhOUJhUGd2b0FBZUZNX1dvU09fRzRXLWY2VnU2ZHMzSTg1SlhpSDJCa2FZQjBhWFVNVDlBRXNJei12UDhIMEI0cTMxaWVVUVU1R0RKVWpvbjZOMA?oc=5</link>
@@ -74,20 +60,6 @@ CoreWeave Announces Global AI Network With No Published Speed or Latency Data as
       <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-05T04:34:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) - ライブドアニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlMDZ5RDBwVFhrOUxWUS1ZMTBOeEsxY2xNbjM2dUdmWlowMHgyU1E2OVdvZnk2QTctbkZZc0RnNXhVenZSUnJaWlZ5ZVd4eVU4bjBfWFMwcktJaENhclE?oc=5</link>
-      <guid isPermaLink="false">1148d7a338809bc6dd02eb01</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-05 12:44
-NTTドコモの回線を利用する携帯電話、通話などで通信障害発生 (2026年11月5日掲載) ライブドアニュース</description>
-      <pubDate>Thu, 05 Nov 2026 09:25:26 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-05T09:25:26.242632Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-05T03:44:35Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
