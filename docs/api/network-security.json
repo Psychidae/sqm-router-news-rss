@@ -1,11 +1,11 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-09T09:43:37.622167Z",
+  "generated_at": "2026-11-09T20:05:55.676336Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
+  "count": 5,
   "errors": [],
   "items": [
     {
@@ -20,6 +20,17 @@
       "score": 13
     },
     {
+      "id": "7d184e7aa3b2734c4d59ee99",
+      "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection - GBHackers News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0RyUmFKdlpWb0hsbEh2amI1TmtNbjhtRVR3bjV3UkJtOUNhQ0p6ei1va090ZHJwMHRTV0lqOFFhcWVPRGdiRWdhNGZvYjlyZ245MUNUTnhITE0td1h1eFdMakJ3RzB2RmtJV2pCdzc4R0JtZ2JLQ0xsZWZjOWFyNmVjRkJXQzFSRnfSAY8BQVVfeXFMT0pRcTk2bTI4R2tQUEdkel9PMjBaQ0lkRTZsV1B5WmYyeXZrNTF6LTZXcjJuY0F1dm9uR2Fubnh3TXo4NXNkRU4wMUxMRDJZX2JqbXV5Z0FoMkNQd1d2WnhhbXZsekdXOTdQOGMtLXdyVEs4WHp1cUxhSzZ2eF9YbmZ4NmRNYnRpU1ZZRjhDLTA?oc=5",
+      "summary": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection GBHackers News",
+      "published_at": "2026-11-09T07:18:41Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 9
+    },
+    {
       "id": "5976d4fd2ce5da55065bb5b6",
       "title": "SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 - Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzJmMDBvWnhoSXV4ODE5WUgxQW1XRUNzdUVHTnUzT1BGUTZ6YkVkUy01NExtWE9WdzFvSlVGM1NsOUNGb2lCd2kwSjBDNXlKVml6VDNDNVhPb3FNOXpObXZfaE96aE80UGF3eFg3eHd2TTdLVlUwNm9BZUNmeVVoRUdNU3lESVVURkZFWUFkZVpPWmg0VE04?oc=5",
@@ -28,7 +39,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 7
+      "score": 6
     },
     {
       "id": "68f98b83c9b1f817490215ac",

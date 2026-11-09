@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 09:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:05:55 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks - GBHackers News</title>
@@ -18,6 +18,20 @@ Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentic
       <pubDate>Sat, 07 Nov 2026 09:59:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T09:59:37.580684Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-07T05:50:14Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection - GBHackers News</title>
+      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0RyUmFKdlpWb0hsbEh2amI1TmtNbjhtRVR3bjV3UkJtOUNhQ0p6ei1va090ZHJwMHRTV0lqOFFhcWVPRGdiRWdhNGZvYjlyZ245MUNUTnhITE0td1h1eFdMakJ3RzB2RmtJV2pCdzc4R0JtZ2JLQ0xsZWZjOWFyNmVjRkJXQzFSRnfSAY8BQVVfeXFMT0pRcTk2bTI4R2tQUEdkel9PMjBaQ0lkRTZsV1B5WmYyeXZrNTF6LTZXcjJuY0F1dm9uR2Fubnh3TXo4NXNkRU4wMUxMRDJZX2JqbXV5Z0FoMkNQd1d2WnhhbXZsekdXOTdQOGMtLXdyVEs4WHp1cUxhSzZ2eF9YbmZ4NmRNYnRpU1ZZRjhDLTA?oc=5</link>
+      <guid isPermaLink="false">7d184e7aa3b2734c4d59ee99</guid>
+      <description>種別: セキュリティ
+ソース: Google News Global: router security
+元記事日付: 2026-11-09 16:18
+SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection GBHackers News</description>
+      <pubDate>Mon, 09 Nov 2026 20:05:55 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-09T20:05:55.675623Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-09T07:18:41Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
