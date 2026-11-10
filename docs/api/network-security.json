@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-10T18:14:36.512391Z",
+  "generated_at": "2026-11-10T23:20:43.324276Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "72f885205e688f441e463ef6",
+      "title": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtUzhseXJLZU1fN3lxcUN6aDhMLVNqamh2WVBPV1NPN3B5MWxpVzljbUtmcGNkY09iTWVlaXRucFRyRUZaRmhhcGJEWGNzWlJoOFdIWGZyOEFXMElydmh5YXFGRkp4SGluTXQ3MXJhSVhlUkxhX3doSkVhNnI?oc=5",
+      "summary": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 Excite エキサイト",
+      "published_at": "2026-11-10T22:08:55Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "0d169244a278436a11381a1c",
+      "title": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04RDFfY0w3aG5IdFhBOWE5ZGdxU0wtUDUwWGFoNVotMU5sbWFUMVBvX18zdFo0QmxVak5NQ0N3NVptWGNNMTJVVlFjQUdjb3duaVBrZkxMM05YNDN6OHBTYlp5VXdLTEQwajNySzVDSQ?oc=5",
+      "summary": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 INTERNET Watch",
+      "published_at": "2026-11-10T21:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "6d35c772894085cfe762ba89",
       "title": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES",

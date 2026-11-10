@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-10T18:14:37.372575Z",
+  "generated_at": "2026-11-10T23:20:44.211482Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 2,
+  "count": 1,
   "errors": [],
   "items": [
     {
@@ -18,17 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
-    },
-    {
-      "id": "24d9560889296e4e49e8547e",
-      "title": "CoreWeave Announces Global AI Network With No Published Speed or Latency Data as Stock Drops - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYVpsUzI3VFNUVHVINlZzMklXVWZ2YnM3TkxtQ20xNXhFczlmbE5PMFh2Z0R3cnQ0RHE5NU56MnYwLVNfT180VlEyc2w1UVBrOEdIM0ZPTklOTDQ1Zk1vT09URFBXUU1VNlBWeWw0Y081TWU0aWNKamd2X2ptdGFwYUZmaTRTYm12QUdDaUVFcmRDQ25lY3NkdVpvQ0p1SU56aVhfdHczQ0lybkZzNHVyNFZzclZ6a3VOdlI1SDk4YVpLNFM3LWpJRk5wT0VPZFNDTkE?oc=5",
-      "summary": "CoreWeave Announces Global AI Network With No Published Speed or Latency Data as Stock Drops Tech Times",
-      "published_at": "2026-11-06T07:35:28Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     }
   ]
 }
