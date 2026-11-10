@@ -1,13 +1,24 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-10T02:42:50.735622Z",
+  "generated_at": "2026-11-10T10:24:52.246658Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "c6d6f06b1d524f03d121225d",
+      "title": "【本日みつけたお買い得品】バッファローの10GbE対応Wi-Fi 7ルーターがAmazonスマイルSale中！ - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wNjRTZ1JBS3VVMjRaWUhvZlZXQnpFOFkzZGVFekktU3lCd25VME9QOVl6X2NWbFVWdnM3T3B5ejA1UnltVll1Tk5uWnFZbi15SVFzUFpmVlpxT1NNTzc0My1BMlkwUmFRYVEyZThOeTZJNnM?oc=5",
+      "summary": "【本日みつけたお買い得品】バッファローの10GbE対応Wi-Fi 7ルーターがAmazonスマイルSale中！ Excite エキサイト",
+      "published_at": "2026-11-10T01:58:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
     {
       "id": "eb64a5cd0f4957982e657344",
       "title": "【本日みつけたお買い得品】バッファローの10GbE対応Wi-Fi 7ルーターがAmazonスマイルSale中！ - PC Watch",
@@ -84,17 +95,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
-    },
-    {
-      "id": "273c4af7ce42ea476908ae49",
-      "title": "【Amazonお買い得情報】Pioneer「車載用Wi-Fiルーター」が特別価格で登場中【11月9日】 - All About ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZcm9FYnFwUUs0eFBqaGhQc1h5SDZYMlBHUFR1UjViUTJPZXdEaXVJdjVrSjFSdXJIcklKc3Rvajd0b1VuZkZXck82Z0pFalZEMmN6QVpRcUd4dw?oc=5",
-      "summary": "【Amazonお買い得情報】Pioneer「車載用Wi-Fiルーター」が特別価格で登場中【11月9日】 All About ニュース",
-      "published_at": "2026-11-09T08:45:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
     }
   ]
 }
