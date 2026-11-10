@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-09T20:05:56.718660Z",
+  "generated_at": "2026-11-10T02:42:53.512772Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -9,11 +9,11 @@
   "errors": [],
   "items": [
     {
-      "id": "50c5bb0958628b91b0f2cd42",
+      "id": "c187b14b6c6d9c59123b280c",
       "title": "\"Lasting resolution\" promised following island’s internet outage - West Coast Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpBT1hHVHdyQ0RhMnRoMjNmUDUtVkxiTVN1empsaVcyZ1hJYWdabllyXzhieTByX3lpeDU2U0VEeFlJV3JaMUYweU9tN19tdmRzQkliWjlpZWxKdjZnUExHTktHcUVYZHVIX05Bekl6STktTlFKQlkwcFhaM2hRclBhOFExLWg1UE9wMl9KbnIxUnEwM0xuWXdBUTdjQld2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjBLRVBKMHpmR3VGTVVTRzFUZVh3aE9wX2VzYUliNHlpUnpGMzNwU2tBdFF6alVKXzhrRURZVF9iVGNYZ0hGWE5EZ29abWxHSGRLZ2dSTThWZ1B1SjN5ODFyTjZWSDFCSXZ3UzVuWlVZTG1LWVhVdHNuZ003VVVsUk1idWlGZ3pibm5HanRmVlFoQTJicHhZekwtWGNYRlpNdmFKVUgyTFFNcWRyczUw?oc=5",
       "summary": "\"Lasting resolution\" promised following island’s internet outage West Coast Today",
-      "published_at": "2026-11-09T12:02:08Z",
+      "published_at": "2026-11-09T23:50:35Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
