@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-11T02:59:43.973108Z",
+  "generated_at": "2026-11-11T10:49:44.026082Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -27,17 +27,6 @@
       "published_at": "2026-11-10T17:06:36Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "a8e9b47f3e0f5a3c496c95f8",
-      "title": "Devolo BE9300 review: Powerful Wi-Fi 7 for those hard-to-reach rooms - NationalWorld",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTB5d3llMG5yY0V0T2MzdjJKcThaX3FaMzlVOWU2SDdHdXJUb3hPMlU0T2FXdHRQbmdRWlVlUDM0Q1VrUGdPSnFRQmFuN2JKWEU5ZVFyRC1KLWt6Y2xuSVVsTFZwTlJ0cGRDNTJmaFJTb3VTNnJDZG5MenRzQlY1N3VPck43ZU9mTkZmVg?oc=5",
-      "summary": "Devolo BE9300 review: Powerful Wi-Fi 7 for those hard-to-reach rooms NationalWorld",
-      "published_at": "2026-11-10T01:06:04Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 13
     },
@@ -117,6 +106,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "dae37a542b059bc44e58b884",
+      "title": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router - MakeUseOf",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lrSzZBVFZpWS0tWHg1M0NkY0VWY281aUd0V1hralp2YVMzMlF6M0NUWldGT3A2Wk5uWVgyc0tIaUNMNVh3bXBQckNBM0lheEZMcVlja2NjbkdTSlFQTE13ckFRMzF6QkFldC1ReV84R1cxMmpCYkljRkN3ZS16UzVhb1JUMDJzOWV0elE3ZzRMSnJOdDBLM2FBTQ?oc=5",
+      "summary": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router MakeUseOf",
+      "published_at": "2026-11-07T14:31:17Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     }
   ]
 }

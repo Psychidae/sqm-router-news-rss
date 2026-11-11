@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:59:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:49:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - 千葉テレビ放送株式会社</title>
@@ -27,11 +27,11 @@
       <guid isPermaLink="false">72f885205e688f441e463ef6</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-11-11 07:08
+元記事日付: 2026-11-11 06:28
 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 Excite エキサイト</description>
       <pubDate>Tue, 10 Nov 2026 23:20:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-10T23:20:43.323642Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T22:08:55Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-10T21:28:27Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -69,25 +69,25 @@
       <guid isPermaLink="false">4bd6e29e2dcf86ffa1e77567</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-11-07 14:50
+元記事日付: 2026-11-07 14:45
 Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks GBHackers News</description>
       <pubDate>Sat, 07 Nov 2026 09:59:37 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-07T09:59:37.580684Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-07T05:50:14Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-07T05:45:37Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] SonicWall「SonicOS」のSSL-VPNにMFA回避の脆弱性 CVE-2026-19868が実際の攻撃で悪用、CISAがKEV登録 - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkVyUEFKSkIxaXRrY1Bia2dkYzJLN0VMUHl1cnl6RXJYQ3BQNXo1TVlJY25vRFoxM2F1UTdZbk5nQVlMcVhMaTJsTnRnR3BlcjY3OERmMHN2amM3SXBMVVViMEJIYlRUdmdkeXQ5cWJKS011XzRKMC13bHVjbnlOOVV4Y2R0ZjBpVFBuYzRodnpoMUMyai1R?oc=5</link>
-      <guid isPermaLink="false">7ab1ad7f1c0427f71047dfa4</guid>
+      <title>[セキュリティ] Piolink、第3四半期営業利益26億ウォン…日本のセキュリティスイッチ・HCI置換需要が牽引 - BigGo ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5uNmt4LUg2M0VqYWUzb2RpT0NaR1ZZUUdxbmRpNzQ2Z1g5TzhSNEJfU0phWEcwTXpRdjd6aTJPcG5HU1cyVjN6ZFpKTnpuUXZjbHppNHhmYnFpVU9ZTTd3Z1FVODMtbWhhdkthd1k3UU9JT0JV?oc=5</link>
+      <guid isPermaLink="false">ab4510bce239f1d78a9c9fae</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-11-10 13:00
-SonicWall「SonicOS」のSSL-VPNにMFA回避の脆弱性 CVE-2026-19868が実際の攻撃で悪用、CISAがKEV登録 合同会社ロケットボーイズ</description>
-      <pubDate>Tue, 10 Nov 2026 10:24:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-10T10:24:53.676808Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T04:00:05Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-11 13:25
+Piolink、第3四半期営業利益26億ウォン…日本のセキュリティスイッチ・HCI置換需要が牽引 BigGo ファイナンス</description>
+      <pubDate>Wed, 11 Nov 2026 10:49:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-11T10:49:44.847746Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-11T04:25:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -106,16 +106,16 @@ SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML a
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 - Mezha.net</title>
-      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxQdzJmMDBvWnhoSXV4ODE5WUgxQW1XRUNzdUVHTnUzT1BGUTZ6YkVkUy01NExtWE9WdzFvSlVGM1NsOUNGb2lCd2kwSjBDNXlKVml6VDNDNVhPb3FNOXpObXZfaE96aE80UGF3eFg3eHd2TTdLVlUwNm9BZUNmeVVoRUdNU3lESVVURkZFWUFkZVpPWmg0VE04?oc=5</link>
-      <guid isPermaLink="false">5976d4fd2ce5da55065bb5b6</guid>
+      <title>[セキュリティ] SonicWall「SonicOS」のSSL-VPNにMFA回避の脆弱性 CVE-2026-19868が実際の攻撃で悪用、CISAがKEV登録 - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkVyUEFKSkIxaXRrY1Bia2dkYzJLN0VMUHl1cnl6RXJYQ3BQNXo1TVlJY25vRFoxM2F1UTdZbk5nQVlMcVhMaTJsTnRnR3BlcjY3OERmMHN2amM3SXBMVVViMEJIYlRUdmdkeXQ5cWJKS011XzRKMC13bHVjbnlOOVV4Y2R0ZjBpVFBuYzRodnpoMUMyai1R?oc=5</link>
+      <guid isPermaLink="false">7ab1ad7f1c0427f71047dfa4</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-11-07 02:07
-SonicWall、攻撃で悪用されたSSL-VPNのMFA回避の脆弱性を修正 Mezha.net</description>
+元記事日付: 2026-11-10 13:00
+SonicWall「SonicOS」のSSL-VPNにMFA回避の脆弱性 CVE-2026-19868が実際の攻撃で悪用、CISAがKEV登録 合同会社ロケットボーイズ</description>
       <pubDate>Tue, 10 Nov 2026 10:24:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-10T10:24:53.676808Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T17:07:00Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-10T04:00:05Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

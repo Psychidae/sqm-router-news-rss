@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:49:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware</title>
@@ -33,20 +33,6 @@ We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times</de
       <sqm:firstSeenDate>2026-11-11T02:59:43.972346Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-10T17:06:36Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Devolo BE9300 review: Powerful Wi-Fi 7 for those hard-to-reach rooms - NationalWorld</title>
-      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTB5d3llMG5yY0V0T2MzdjJKcThaX3FaMzlVOWU2SDdHdXJUb3hPMlU0T2FXdHRQbmdRWlVlUDM0Q1VrUGdPSnFRQmFuN2JKWEU5ZVFyRC1KLWt6Y2xuSVVsTFZwTlJ0cGRDNTJmaFJTb3VTNnJDZG5MenRzQlY1N3VPck43ZU9mTkZmVg?oc=5</link>
-      <guid isPermaLink="false">a8e9b47f3e0f5a3c496c95f8</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-10 10:06
-Devolo BE9300 review: Powerful Wi-Fi 7 for those hard-to-reach rooms NationalWorld</description>
-      <pubDate>Tue, 10 Nov 2026 02:42:51 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-10T02:42:51.728343Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T01:06:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
     <item>
@@ -145,6 +131,20 @@ This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal L
       <sqm:firstSeenDate>2026-11-05T17:38:03.796646Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-05T14:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link’s update deadline is the best reason yet to put OpenWrt on your router - MakeUseOf</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lrSzZBVFZpWS0tWHg1M0NkY0VWY281aUd0V1hralp2YVMzMlF6M0NUWldGT3A2Wk5uWVgyc0tIaUNMNVh3bXBQckNBM0lheEZMcVlja2NjbkdTSlFQTE13ckFRMzF6QkFldC1ReV84R1cxMmpCYkljRkN3ZS16UzVhb1JUMDJzOWV0elE3ZzRMSnJOdDBLM2FBTQ?oc=5</link>
+      <guid isPermaLink="false">dae37a542b059bc44e58b884</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News US: router products
+元記事日付: 2026-11-07 23:31
+TP-Link’s update deadline is the best reason yet to put OpenWrt on your router MakeUseOf</description>
+      <pubDate>Wed, 11 Nov 2026 10:49:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-11T10:49:44.025301Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-07T14:31:17Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
