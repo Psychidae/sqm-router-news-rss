@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-11T10:49:44.026082Z",
+  "generated_at": "2026-11-11T18:39:18.845259Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,18 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "a90e98e432b37c9a0add9a87",
+      "title": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWY2dlRSZ0J1UXVIdTctZ0lDcnREb2ZQeEdQSERqd053YVRFOGtoNm1rOGlwWGwtMGxycHZxYllmcG9IOTdTNUw1bGMzeThqMV9oZjJrTnR6OHVOekJwZHFtckVJLUctMHpsVkZnOW1GYXdJbE13UkxkYkt6NElDalY2VUhwaHlvdkNoNm1Jdnl1aUtRaDc3MzV4b3g1S0JU?oc=5",
+      "summary": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN XiaomiToday",
+      "published_at": "2026-11-11T15:47:40Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "d5e640547d2d6fd75dbb1023",
@@ -27,28 +38,6 @@
       "published_at": "2026-11-10T17:06:36Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "3bf7a6865c12cbfa711a1951",
-      "title": "Starlink Router 4 brings Wi-Fi 7 to new residential kits - The Gadgeteer",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNHdvU3lSaW1wbGl0TkRTenh3QTB4ODliMHNtMW82TjlEVTNoNGdpNEJ2QnlhUlRoY2ZxOG5XdXhvYzZvSlRhcGI5RkRTU09PRW9oYTJ1Si1MZWg4X1k3a0NWazNtWFM3TXpTQTlOdkFDdkMyeDJ0Nkt3eGNJZjZ5YjQ0RVBlZHM?oc=5",
-      "summary": "Starlink Router 4 brings Wi-Fi 7 to new residential kits The Gadgeteer",
-      "published_at": "2026-11-08T13:24:17Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "502cf0e988f72ae277ed67f2",
-      "title": "Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQl9qN2VhblgyWkdUQ1lJY1NWamJObVpZUU9IeHFwUko1R3E4eENSUEhNaUNidlYwZlFLcU53dVNpdzRQUFA5RGtMOGtpcFpMU0I1Sl9SdEZ2MHB2aEU4ejhnYVN4NlFBT3Z4UG9YTXUxaENMV2ptME40UGpvUk5GSGtHQWhoaGo2MjFz?oc=5",
-      "summary": "Starlink starts shipping Wi-Fi 7 Router 4 to new residential customers Mezha.net",
-      "published_at": "2026-11-07T06:00:19Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
     },
@@ -69,17 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
       "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag",
       "published_at": "2026-11-06T21:42:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "014c5b70127fb6a9d9be8ee2",
-      "title": "Starlink Ships Wi-Fi 7 Router 4 With V4 Kits in Canada and the US - TeslaNorth.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlmOHVLTmZFRFB3VFpaOE5oMUlDVTBxcVg1TE5xcy0zNUNjTzdMWWRzSkNXc0VyaG0xN2JfTGUxLURCNnNlYUc5OERZSV8xSkhnV1ozQ3M3UjdNTFM4dW1mcnoyZVBiYnh2OGNMZEZCa2cyTTNvZkFiZzlEZl9MdExRbVFwZTlBMXNFVkw0bDJqM2JMbWNScEJsV2VFRVhZNEE?oc=5",
-      "summary": "Starlink Ships Wi-Fi 7 Router 4 With V4 Kits in Canada and the US TeslaNorth.com",
-      "published_at": "2026-11-06T19:22:26Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -117,6 +95,28 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "928e14417478323c76c99209",
+      "title": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5",
+      "summary": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price Android Authority",
+      "published_at": "2026-11-03T08:00:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "d04416480d9693d35d937c7f",
+      "title": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever - Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZqNGRDSE9zVnhQRVoyZEZ0cjY5Y0dZTUN2c1FUS0dUbGR0ZjdNSHRnOFVMeVREcDNOQk04TG41SFZLZjgzeGVnREpEaENKUW4wQXhDdHBWOHpoZThNRTlFMUtYdjFJYk1SVkFQbTRqVEE2eHg1bnVyeGhLSEctY1hfeHBiTFpDZlVYd2l3WlZFbFluNFl0SXlDU2F3c1ZQdVNDUmZrbWIyLU1iQ29zYVNFRkdYUENHQXhIdy1pNzRHWDRpMkdBWlZ0OUZwUVh5bUh4dmtuc3M?oc=5",
+      "summary": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever Kotaku",
+      "published_at": "2026-11-11T15:45:11Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }

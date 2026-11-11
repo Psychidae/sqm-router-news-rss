@@ -1,13 +1,35 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-11T10:49:45.669635Z",
+  "generated_at": "2026-11-11T18:39:20.670835Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 1,
+  "count": 4,
   "errors": [],
   "items": [
+    {
+      "id": "8ab4fe909ffce6d67f325b01",
+      "title": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5",
+      "summary": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 日テレNEWS NNN",
+      "published_at": "2026-11-11T14:08:01Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "b900d2a0903050b04b124f43",
+      "title": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYTBBYjliNFREMGFLVXdjNWp2M0tYWTFLa3FjbWFUSHFzeVJRMWc1WFJ5a21MQXlTVmExUlM2cUE0SHNyRTNwc05tYm1sVjI5WjRRc1lTSEFrbkwxdUVKMEd0RmJnY3dmYkZiVHlFS0pIa3dYbjFRSndtdUw5Rlk?oc=5",
+      "summary": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） Yahoo!ニュース",
+      "published_at": "2026-11-11T02:26:35Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
     {
       "id": "50c5bb0958628b91b0f2cd42",
       "title": "\"Lasting resolution\" promised following island’s internet outage - West Coast Today",
@@ -18,6 +40,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "24d9560889296e4e49e8547e",
+      "title": "CoreWeave Announces Global AI Network With No Published Speed or Latency Data as Stock Drops - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYVpsUzI3VFNUVHVINlZzMklXVWZ2YnM3TkxtQ20xNXhFczlmbE5PMFh2Z0R3cnQ0RHE5NU56MnYwLVNfT180VlEyc2w1UVBrOEdIM0ZPTklOTDQ1Zk1vT09URFBXUU1VNlBWeWw0Y081TWU0aWNKamd2X2ptdGFwYUZmaTRTYm12QUdDaUVFcmRDQ25lY3NkdVpvQ0p1SU56aVhfdHczQ0lybkZzNHVyNFZzclZ6a3VOdlI1SDk4YVpLNFM3LWpJRk5wT0VPZFNDTkE?oc=5",
+      "summary": "CoreWeave Announces Global AI Network With No Published Speed or Latency Data as Stock Drops Tech Times",
+      "published_at": "2026-11-06T07:35:28Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
     }
   ]
 }
