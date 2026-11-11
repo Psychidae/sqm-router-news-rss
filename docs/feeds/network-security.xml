@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:59:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - 千葉テレビ放送株式会社</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnVlMUV0UFVYYjdnN05wSW1adWVjUXZjWDIwam5aU3EyVFZwMTdoNmxNX2g1aXNDTlFFLTdXT0tCSTlUbmQyRlFDWjdzV3BxNEhsZFpqczlLYmtjelJF?oc=5</link>
+      <guid isPermaLink="false">1abbb32045b2f93a88d9b9fa</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-11 07:56
+家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 千葉テレビ放送株式会社</description>
+      <pubDate>Wed, 11 Nov 2026 02:59:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-11T02:59:44.743680Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-10T22:56:23Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - Excite エキサイト</title>
       <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFAtUzhseXJLZU1fN3lxcUN6aDhMLVNqamh2WVBPV1NPN3B5MWxpVzljbUtmcGNkY09iTWVlaXRucFRyRUZaRmhhcGJEWGNzWlJoOFdIWGZyOEFXMElydmh5YXFGRkp4SGluTXQ3MXJhSVhlUkxhX3doSkVhNnI?oc=5</link>
@@ -61,34 +75,6 @@ Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentic
       <sqm:firstSeenDate>2026-11-07T09:59:37.580684Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-07T05:50:14Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン 氏名・住所・注文情報などが流出、楽天市場店の購入者も対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVdsLWotVUhCd1lFTHNtQmFyWTh5VGN2SGt6VmRXbnVHdzBzQ0tHTFlyN3hzeHRaZUFGMWxaeTh5TVJ5ZFJCWWVjLWlHSVJCdVB6Y0VSV1AyN3JSQm1TNEs0Y0RrYVIyNDUxcGpxLXljMG5KYjJRdDl2U01KYldkS3VtelJYMTZrRWpPa2N1c2RFMXZzclBtdldaY25tVzVIVm9JcEp5Q0d2OUl0SWhoVg?oc=5</link>
-      <guid isPermaLink="false">12f2d9431dc159d3bd455994</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-06 13:46
-ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン 氏名・住所・注文情報などが流出、楽天市場店の購入者も対象|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Tue, 10 Nov 2026 18:14:36 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-10T18:14:36.511670Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T04:46:50Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった - ROOMIE（ルーミー）</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JS3pERjVDV0VPWURMY19rQlMwTjlVWnREak9EZ08xNFF3UlR0bTZrUmtoXzRaVmFtdWFpaHJVR0tRRmF3UkoyR1RDNDZ3UTQ?oc=5</link>
-      <guid isPermaLink="false">d21dd690ef61f93b4ad3cf9e</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-06 12:05
-たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった ROOMIE（ルーミー）</description>
-      <pubDate>Tue, 10 Nov 2026 02:42:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-10T02:42:52.720259Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T03:05:19Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>

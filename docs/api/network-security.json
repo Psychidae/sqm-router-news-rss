@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-10T23:20:43.324276Z",
+  "generated_at": "2026-11-11T02:59:44.744415Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 9,
   "errors": [],
   "items": [
+    {
+      "id": "1abbb32045b2f93a88d9b9fa",
+      "title": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnVlMUV0UFVYYjdnN05wSW1adWVjUXZjWDIwam5aU3EyVFZwMTdoNmxNX2g1aXNDTlFFLTdXT0tCSTlUbmQyRlFDWjdzV3BxNEhsZFpqczlLYmtjelJF?oc=5",
+      "summary": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 千葉テレビ放送株式会社",
+      "published_at": "2026-11-10T22:56:23Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "72f885205e688f441e463ef6",
       "title": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - Excite エキサイト",
@@ -39,7 +50,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4bd6e29e2dcf86ffa1e77567",
@@ -51,28 +62,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 12
-    },
-    {
-      "id": "12f2d9431dc159d3bd455994",
-      "title": "ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン 氏名・住所・注文情報などが流出、楽天市場店の購入者も対象|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVdsLWotVUhCd1lFTHNtQmFyWTh5VGN2SGt6VmRXbnVHdzBzQ0tHTFlyN3hzeHRaZUFGMWxaeTh5TVJ5ZFJCWWVjLWlHSVJCdVB6Y0VSV1AyN3JSQm1TNEs0Y0RrYVIyNDUxcGpxLXljMG5KYjJRdDl2U01KYldkS3VtelJYMTZrRWpPa2N1c2RFMXZzclBtdldaY25tVzVIVm9JcEp5Q0d2OUl0SWhoVg?oc=5",
-      "summary": "ポケットWi-FiやeSIMのecoco、受注管理アカウントに不正ログイン 氏名・住所・注文情報などが流出、楽天市場店の購入者も対象|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
-      "published_at": "2026-11-06T04:46:50Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "d21dd690ef61f93b4ad3cf9e",
-      "title": "たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった - ROOMIE（ルーミー）",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JS3pERjVDV0VPWURMY19rQlMwTjlVWnREak9EZ08xNFF3UlR0bTZrUmtoXzRaVmFtdWFpaHJVR0tRRmF3UkoyR1RDNDZ3UTQ?oc=5",
-      "summary": "たまにしか行かない別荘の防犯対策。Wi-Fiの契約も電源工事も不要なセキュリティカメラ「Tapo C665G KIT」が最適だった ROOMIE（ルーミー）",
-      "published_at": "2026-11-06T03:05:19Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
     },
     {
       "id": "7ab1ad7f1c0427f71047dfa4",

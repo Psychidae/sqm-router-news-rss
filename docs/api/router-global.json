@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-10T23:20:42.389824Z",
+  "generated_at": "2026-11-11T02:59:43.973108Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,17 @@
       "score": 17
     },
     {
+      "id": "d5e640547d2d6fd75dbb1023",
+      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
+      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
+      "published_at": "2026-11-10T17:06:36Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
       "id": "a8e9b47f3e0f5a3c496c95f8",
       "title": "Devolo BE9300 review: Powerful Wi-Fi 7 for those hard-to-reach rooms - NationalWorld",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLTB5d3llMG5yY0V0T2MzdjJKcThaX3FaMzlVOWU2SDdHdXJUb3hPMlU0T2FXdHRQbmdRWlVlUDM0Q1VrUGdPSnFRQmFuN2JKWEU5ZVFyRC1KLWt6Y2xuSVVsTFZwTlJ0cGRDNTJmaFJTb3VTNnJDZG5MenRzQlY1N3VPck43ZU9mTkZmVg?oc=5",
@@ -28,7 +39,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "3bf7a6865c12cbfa711a1951",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
       "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
       "published_at": "2026-11-05T14:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "ba73f28e860a200debd28175",
-      "title": "This $79.98 TP-Link wireless router with Wi-Fi 7 tech is back down to its lowest-ever price — Archer BE3600 unlocks multi-gigabit networking, ideal for gaming or 4K streaming with 33% off - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPZ2oxTzBMOTRXaGlQZF96NGw1SWdvSHVoMm9ZellmN1luNUJjZFQwemNtWk0xT2gzUHc1ZDlOa0hpSTVBU1F2T2lKLVNCX3A1Qk1faXB6NXJSVHNoLVFaaUZYaDFhX3ExamI3dlNyeGNpU2JlS05lUDc1LXJuT1cxdHFGR3JpVjBVaGZiR1dPVDkyRTFnUm0xMkZZdVZTdldXcEJ4RGNhYzJpbGVYSXJMRFNhNXFNaFJZWk5rdnAwX2stOVFmVEhMa3hiZTBta1pZRTFKODZ0TDB2T0RYbmxERTRpX29RZDU1NTFMUU00SzNUenZybXI3dDFmRjAtOUh0YVFDUWdDVkxEdHlUcmR6bHptT29DbkpoZklQUWJuZ1ZMaXNCZzF4VEhVZ2JBOE1BUlN2Rmp2T2tfUk5OM3hiLW9VUEVSRGstazhPVGdXSFAwMlhvcVFTNEhUd1Qydw?oc=5",
-      "summary": "This $79.98 TP-Link wireless router with Wi-Fi 7 tech is back down to its lowest-ever price — Archer BE3600 unlocks multi-gigabit networking, ideal for gaming or 4K streaming with 33% off Tom's Hardw...",
-      "published_at": "2026-11-05T13:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
