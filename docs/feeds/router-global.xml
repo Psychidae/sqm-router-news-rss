@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:42:23 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday</title>
@@ -78,20 +78,6 @@ TP-Link’s update deadline is the best reason yet to put OpenWrt on your router
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker</title>
-      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5</link>
-      <guid isPermaLink="false">bac119499e3ada6e2c78d6f1</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-05 23:07
-This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker</description>
-      <pubDate>Thu, 05 Nov 2026 17:38:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-05T17:38:03.796646Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-05T14:07:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority</title>
       <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5</link>
       <guid isPermaLink="false">928e14417478323c76c99209</guid>
@@ -144,6 +130,20 @@ Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Fr
       <pubDate>Thu, 12 Nov 2026 16:49:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-12T16:49:42.021391Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T19:07:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever - Kotaku</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZqNGRDSE9zVnhQRVoyZEZ0cjY5Y0dZTUN2c1FUS0dUbGR0ZjdNSHRnOFVMeVREcDNOQk04TG41SFZLZjgzeGVnREpEaENKUW4wQXhDdHBWOHpoZThNRTlFMUtYdjFJYk1SVkFQbTRqVEE2eHg1bnVyeGhLSEctY1hfeHBiTFpDZlVYd2l3WlZFbFluNFl0SXlDU2F3c1ZQdVNDUmZrbWIyLU1iQ29zYVNFRkdYUENHQXhIdy1pNzRHWDRpMkdBWlZ0OUZwUVh5bUh4dmtuc3M?oc=5</link>
+      <guid isPermaLink="false">d04416480d9693d35d937c7f</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-12 00:45
+TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever Kotaku</description>
+      <pubDate>Thu, 12 Nov 2026 22:42:23 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-12T22:42:23.231243Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-11T15:45:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>

@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-12T16:49:40.968925Z",
+  "generated_at": "2026-11-12T22:42:22.146290Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -61,7 +61,7 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
     },
     {
       "id": "a15fe32fb9c73176823488d0",
@@ -75,22 +75,22 @@
       "score": 12
     },
     {
-      "id": "fa7b9af61e3ec9191de35db2",
-      "title": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcjBLUTc0aDA5VmVXcXMyQlZVeGJhOGZTeGRyX3ozbVBmQm52dTBrRWtCamoyZzJEZlZ6MC12SjBJNERCMWFUSGI4Wk1sUGNySG1DaHlCblJSOUowR2xMc01NQnN1MWZJV3p2dlF0cw?oc=5",
-      "summary": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで 24Wireless",
-      "published_at": "2026-11-11T09:47:08Z",
+      "id": "346cf1aec2069e0d230497ac",
+      "title": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNTJBVHhYUDZab3NuTVJFZXNrN3FfNzJvaWNObHVWMWhCcWJCM2tmYTVBMVVna0Z5RHRHRnVweWhIc1RQN3RQcmo4eWxEakpVY21kTEFhSFVaeFROWnY3ZHRzaTdyZw?oc=5",
+      "summary": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 RBB TODAY",
+      "published_at": "2026-11-11T08:28:17Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
     },
     {
-      "id": "346cf1aec2069e0d230497ac",
-      "title": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNTJBVHhYUDZab3NuTVJFZXNrN3FfNzJvaWNObHVWMWhCcWJCM2tmYTVBMVVna0Z5RHRHRnVweWhIc1RQN3RQcmo4eWxEakpVY21kTEFhSFVaeFROWnY3ZHRzaTdyZw?oc=5",
-      "summary": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 RBB TODAY",
-      "published_at": "2026-11-11T08:28:17Z",
+      "id": "6c34eb47ee78cc7e07d53f93",
+      "title": "エレコム、Wi-Fi 7対応2.5Gbpsルーター2製品を発売 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xV2xwbWhwVkNKYjRRVmpISjRELUVKOXUyUklhdExFVGpGRDVSQmtRMFBhQ2EwaklYcjhfMEExZlBXckpzTGpHUmdYQ0ROMmpiMkM0VGlCb1hQTm9HWmtZZ2YzZjVfdw?oc=5",
+      "summary": "エレコム、Wi-Fi 7対応2.5Gbpsルーター2製品を発売 RBB TODAY",
+      "published_at": "2026-11-11T04:06:28Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
