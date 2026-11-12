@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-12T08:16:26.350235Z",
+  "generated_at": "2026-11-12T16:49:40.968925Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,17 +42,6 @@
       "score": 17
     },
     {
-      "id": "65c24000311140f6d820821e",
-      "title": "10GbE対応モデルなどバッファローのWi-Fi 7ルーターがお得！AmazonスマイルSale - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmVVV1RFhiU0l4Z2RHQURXeE4xRzVBbUY4T2JNRDlBYzA2eHZlVGxTWWV1WlJsVEZReHY0OEg3LUdsU3BhXzZod2F1dmt0bEVnTVVLOFFCUE9ZZkVEZnkw?oc=5",
-      "summary": "10GbE対応モデルなどバッファローのWi-Fi 7ルーターがお得！AmazonスマイルSale 千葉テレビ放送",
-      "published_at": "2026-11-06T05:57:14Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
       "id": "316fb1f68f43ea9501348921",
       "title": "ASUSのWi-Fi 7ルーターがセール中！ Amazon スマイルSale ゲーミングルーター「TUF Gaming BE3600」は1万8692円に - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jcWhXLUY1bXprX1l3YTdxMGlqZFROaS1Pc1hxeGM0a3VuaDgtc1M5Ylh5dHJOcTNvaUFpMlFZZWpMV3Q5dEx3SkpYZTRfX2lsTnhydDRTU1dWcjNSS0hHYUNyRDV4QVVqTFZGUlZ2U1U?oc=5",
@@ -62,17 +51,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 16
-    },
-    {
-      "id": "20f6d17edfaa83bcbb60537f",
-      "title": "TP-LinkのWi-Fiルーターがセール中！Amazon スマイルSale 10G対応のWi-Fi 7ルーター「Archer BE450」は2万640円 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RV2hSLUJ3RWFobXlES3A1RjlpRjdFOV9pSk1HcWpSYXNmWkxObklrM1d4SDZweXItRGE4TTUxOUd5REtiblVhSFJzNmhLREI1ekNETVRtTkEtUFo1WnN1WDJxVTIwOVJfakVzYnNFS28?oc=5",
-      "summary": "TP-LinkのWi-Fiルーターがセール中！Amazon スマイルSale 10G対応のWi-Fi 7ルーター「Archer BE450」は2万640円 INTERNET Watch",
-      "published_at": "2026-11-05T01:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
     },
     {
       "id": "28172781dc63365ba21511d4",
@@ -94,7 +72,29 @@
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "fa7b9af61e3ec9191de35db2",
+      "title": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcjBLUTc0aDA5VmVXcXMyQlZVeGJhOGZTeGRyX3ozbVBmQm52dTBrRWtCamoyZzJEZlZ6MC12SjBJNERCMWFUSGI4Wk1sUGNySG1DaHlCblJSOUowR2xMc01NQnN1MWZJV3p2dlF0cw?oc=5",
+      "summary": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで 24Wireless",
+      "published_at": "2026-11-11T09:47:08Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
+      "id": "346cf1aec2069e0d230497ac",
+      "title": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNTJBVHhYUDZab3NuTVJFZXNrN3FfNzJvaWNObHVWMWhCcWJCM2tmYTVBMVVna0Z5RHRHRnVweWhIc1RQN3RQcmo4eWxEakpVY21kTEFhSFVaeFROWnY3ZHRzaTdyZw?oc=5",
+      "summary": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 RBB TODAY",
+      "published_at": "2026-11-11T08:28:17Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
     }
   ]
 }

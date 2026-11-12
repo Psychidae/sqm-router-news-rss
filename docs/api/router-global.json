@@ -1,24 +1,13 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-12T08:16:27.203662Z",
+  "generated_at": "2026-11-12T16:49:42.022382Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
-    {
-      "id": "d73e4ad2b1eebb035bf44b2f",
-      "title": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkZnMV9IV212MXFBQTJ1ZXVnTWxjcF9fTVYycHRfRFg2R25keE4zQ3hVeUxBcGtUQmQ3OGx1VTNyaFVYa0xPNG9aRmVwamhUUzBRYTh5cEc3cVA5R0dNT3c5ZjlFeTVIeGpxUUlocmEtcTNLMmlUaktBZU9QSVNibjhsZUZLS3lQSlg4bks4dG9oZ01VWk9J?oc=5",
-      "summary": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals HotHardware",
-      "published_at": "2026-11-08T12:14:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 16
-    },
     {
       "id": "a90e98e432b37c9a0add9a87",
       "title": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday",
@@ -28,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "70204a562e1b63b25afe8fae",
@@ -53,44 +42,11 @@
       "score": 12
     },
     {
-      "id": "fb97e75c53aa895ec2bd8624",
-      "title": "Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers - Notebookcheck",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakcxbGJINHM1TDJLdV9abW1MbUgtdTB0M3k5d3VkMDVLOVJGTW9fQUZ1UkZiZHp1algyNmpOdzVXejR4ek03bHd0RWJXS183bFFJNEU1dnZvcWVpU3FlR2dmbjdLU3FoV2wwZGVMTndUWXRwSkYtLW0ycWwxMldPaFRJWE8ybUpaTXVweU1MTXBrS0JMcEdkQ3EyMGdSb2tXWjdCOTJ6cEhVSURocWF1Qjh6czd3YzRfWGNEamNsbTN0YzY4eWM3cjNUVUxCSDVp?oc=5",
-      "summary": "Starlink launches Wi-Fi 7 Router 4 with 3,500 sq ft coverage for new residential customers Notebookcheck",
-      "published_at": "2026-11-07T05:53:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "2c3843c27e1afe06533cddd0",
       "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
       "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag",
       "published_at": "2026-11-06T21:42:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "4e4e5cc0fdf8176522494d22",
-      "title": "Last chance to grab this affordable TP-Link Wi-Fi 7 router deal, with coverage up to 2,600 sq. ft. - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHFhWVZhd3N3WWtOYm1Qb0tpckpPQVl3TUlhUEotVDJrT0g0X2lmNi02N1k4WXJKeE05dXhSbTc2bjdLSGtCcFNVUnIwSnJENHZfX1QzdUI0WVFzRTE2VFM4T2lGT2lRN3lRZ3h1a3JvNllBWm9xckpEUC1abFh3dTVFSk5Md19EVFpQRVF1cjFoaVcxLWVwRlUzQnRWZV9OemRCY1Ixb2xxTmtGY0RvU1dyNkFhRzhhd3dFenFyVXpfcjA?oc=5",
-      "summary": "Last chance to grab this affordable TP-Link Wi-Fi 7 router deal, with coverage up to 2,600 sq. ft. PC Guide",
-      "published_at": "2026-11-06T11:24:23Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
-      "id": "bac119499e3ada6e2c78d6f1",
-      "title": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
-      "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
-      "published_at": "2026-11-05T14:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -108,6 +64,17 @@
       "score": 11
     },
     {
+      "id": "bac119499e3ada6e2c78d6f1",
+      "title": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
+      "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
+      "published_at": "2026-11-05T14:07:11Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
       "id": "928e14417478323c76c99209",
       "title": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5",
@@ -117,6 +84,39 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
+    },
+    {
+      "id": "cd983e45bb0bf14d9e182925",
+      "title": "Amazon Eero WiFi 7 router gets best price in five months in early Black Friday deal - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVJNQW16TmVOR0VZalNyMlRzUXdiV3BIZlFGYVNDcE5NZTh1SHo4Mk1IRGo3d0xmQnJmNm5VU1NHUjdMZ3pCaVU5XzBKdklBWXhhTndPeUJyM2tZaks4NTE5emZDazVpUEx4bzNJWm5LOE5WWnNKVDVXQTJGeGdTcnpFWkJPWUNfOEYtUnpqaUx2dDZETnhUeVdkU1BqSkdoaWt0ck9QemNva3NsdnEwQXpUUDc?oc=5",
+      "summary": "Amazon Eero WiFi 7 router gets best price in five months in early Black Friday deal PC Guide",
+      "published_at": "2026-11-12T09:30:23Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
+      "id": "9e0f7e79b22cd99801814f7e",
+      "title": "Elecom Launches WRC BE64QS B Wi Fi 7 Router with 2.5GbE WAN - Technetbook",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2Ruenc5eFhPeTJrXzNmZFBJdENiVW5rNHpvNUktUC1YZUx6QVRMUVBXODE4N3Q3dW04bXI0cktyYnhjb0dDMEpzZTh1TlBwcDZEUTJRcXZMVlVMU1JNbFRRNXRSNDI0TkNSYnkyU3RyQUpNV3FyMlBMUjFyTTkwZHU5aU8?oc=5",
+      "summary": "Elecom Launches WRC BE64QS B Wi Fi 7 Router with 2.5GbE WAN Technetbook",
+      "published_at": "2026-11-12T03:01:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
+    },
+    {
+      "id": "919f36904410f993492a34b3",
+      "title": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5",
+      "summary": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys",
+      "published_at": "2026-11-11T19:07:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 9
     }
   ]
 }

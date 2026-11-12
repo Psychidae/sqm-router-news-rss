@@ -1,13 +1,68 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-12T08:16:27.910090Z",
+  "generated_at": "2026-11-12T16:49:43.076243Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "47acd663f27513a587acd690",
+      "title": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xWkdjc3JYLV82cnBmeDdyd2ltNHZwVXlhQ3VwTTgtNE80OEdkWDhTbU5WX0s5enFXTzlDUXU3NEJEbTlRUkJfMUkySnkteFZzN2JwYmppZndEeFhCemtVNDZWbDQtQlVZVDlZS2FIc3pCeFpZTm5nYWQ2amg?oc=5",
+      "summary": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 Excite エキサイト",
+      "published_at": "2026-11-12T10:28:30Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "176c3b99bf50cd302b41a730",
+      "title": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xWTZRNDI1ejVTTERNU3MxOFdsR1RRaDBfM0ZPTktnV0NLY21OWmFwRWVkQlpmelZGRFVieXlYZDZWallDY0lGbjNPa1hFbUw4aXpQckZoaDlnN05rTHdz?oc=5",
+      "summary": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 千葉テレビ放送株式会社",
+      "published_at": "2026-11-12T09:56:26Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "6bf9c139d1599557bfd74b59",
+      "title": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NOFpsV0hLakFOeVp5d1gwMG9BRDBJZmYyQ0tudmU1LXV1clAteGZHajRpekQ5VTFVUGlUX0Mwc0Nza081bzY2d0Z4YnZHNkQzT09ObFduZ1hDdEJpak4yTVl6Nzd4ZnBs?oc=5",
+      "summary": "Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 窓の杜",
+      "published_at": "2026-11-12T09:34:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "20c12184c4118b0486ce3fa3",
+      "title": "インテル、月例で24件の脆弱性情報 Wi-FiとBluetoothは「HIGH」、第10～14世代Coreに影響 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEc2ExWmRVa0NiQWJYSkFQbmNkLVY0UHctUDhYTURTMnZCSU1GUV9FRkYzWnI5eEJJaGxoUGVfM2hkZW9peV91Sko4QWF5WVZNTWF3cnpURFAtQVFpV3AyN01GYXRHUjYtZDUxd28wT0ZmTGhu?oc=5",
+      "summary": "インテル、月例で24件の脆弱性情報 Wi-FiとBluetoothは「HIGH」、第10～14世代Coreに影響 BigGo ファイナンス",
+      "published_at": "2026-11-12T16:39:40Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "8357baa3f84611802a17327d",
+      "title": "インテル、24件のセキュリティ情報を公開 Wi-Fi・BluetoothがHIGH、自社PCは対象か - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fUm1BZUpGNUVNYkxaUzVYY1VFQlM3MEpnSjFPbHlLTEFzajBSOE1OeXA5akptZTFkakRiU0pjYmszZVFQMXBKYzNhUmRfQTItaGU4?oc=5",
+      "summary": "インテル、24件のセキュリティ情報を公開 Wi-Fi・BluetoothがHIGH、自社PCは対象か ビジネス+IT",
+      "published_at": "2026-11-12T15:46:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "c01f4b639a35b76ec047a1bb",
       "title": "サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 - Excite エキサイト",
@@ -62,61 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 12
-    },
-    {
-      "id": "6d35c772894085cfe762ba89",
-      "title": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xR0h1aTIxV3JQNGktZURCaTZYT0dJcTB1Z0tWWjBsQmRBQW53RHR2ZUE1TUpXQ09jNFV1d2JpRF8zUmtXSEdFOEtoVmdWbXlicE5iVTdVUm54clB5MTRRTElUMUo3RXRaTmc?oc=5",
-      "summary": "『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 PR TIMES",
-      "published_at": "2026-11-10T00:00:02Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "4bd6e29e2dcf86ffa1e77567",
-      "title": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks - GBHackers News",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZaHJKUVotLU5PVjBUdUN0NWpBRkhUYTFmWmNYdVVqVWFjazluRTRqR0d5aF9hdnVJT0tmdWNuemVyc3dqWFRPUjlwWEdlUllxOWNzbmNJb3pNc3FNYkE1YWZzVlHSAWpBVV95cUxOMmdaRjR5VjBWNjROV3c5cFBVR3lxX0hVMU1tWGhBa0tWQ0NJa2w4a3pOdnFGUnJqTXhtZEEtRFVRZ05VVlRBWVJkbDZVbGp6MURueTlzNEkya1picFlnWE85OFBGY0JkLURB?oc=5",
-      "summary": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks GBHackers News",
-      "published_at": "2026-11-07T05:45:37Z",
-      "source": "Google News Global: router security",
-      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "ef13a7da7687e907e2c249d0",
-      "title": "ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13VnI0Rk5CMnR1cG5XTVhxZkE1T3U5RHZHeFhwTG5rMm0ydzdyc1NKQnNEbXRmY3FHSlpFWXoycllkTzVMX0pwMzl0ck5RRV9UdTd4bUFNeFhtNGlOM2hUS0VJMzZhaXhuMV9kZERkRmRuSzJITDlsVkJkeGZ3dw?oc=5",
-      "summary": "ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 Excite エキサイト",
-      "published_at": "2026-11-12T06:08:43Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "77371e2a05b3fee02b5a51f9",
-      "title": "ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wamFteEZNb1FkalFValU4Q21wUGxiQXVOSzQyRmpTcGxiSE82eWRNa2tCUTBnU2NWQzE2ajVTTWpsdmZuVlptWEE1YlFWTWIxWXlGREt5X3RRY3FkcDR4SUdfRnE1OG1BZnZJ?oc=5",
-      "summary": "ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 INTERNET Watch",
-      "published_at": "2026-11-12T05:21:21Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 8
-    },
-    {
-      "id": "ab4510bce239f1d78a9c9fae",
-      "title": "Piolink、第3四半期営業利益26億ウォン…日本のセキュリティスイッチ・HCI置換需要が牽引 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uNmt4LUg2M0VqYWUzb2RpT0NaR1ZZUUdxbmRpNzQ2Z1g5TzhSNEJfU0phWEcwTXpRdjd6aTJPcG5HU1cyVjN6ZFpKTnpuUXZjbHppNHhmYnFpVU9ZTTd3Z1FVODMtbWhhdkthd1k3UU9JT0JV?oc=5",
-      "summary": "Piolink、第3四半期営業利益26億ウォン…日本のセキュリティスイッチ・HCI置換需要が牽引 BigGo ファイナンス",
-      "published_at": "2026-11-11T04:25:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
     }
   ]
 }
