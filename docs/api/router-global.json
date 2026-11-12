@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-12T00:59:14.134245Z",
+  "generated_at": "2026-11-12T08:16:27.203662Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 14
+    },
+    {
+      "id": "70204a562e1b63b25afe8fae",
+      "title": "iPhone 18 Pro can Wi-Fi 7. Router on installments until 2031 can Wi-Fi from the time of the iPhone 11 - Jablíčkář.cz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHFFb21MYktTNTNIZmNKZ052NHh6Tno1dzQ4cjEyVWRYTGZaY3prQXh5dW9Ma1RfdGxaNWhWemRKWXVFcVZpNHI5ckhxRlYwNDYtSnNLTnJWNWxBcFVZTGhVMHU2RDk4V0QtQ0FJMmthMGVyLWZkTElYRWl6cDU5X3lqTUZXbVJIRDR6VkpMLTFiRTVuQnJnQlhGTG5KLUYwODBBV3Z2N240M2hQ?oc=5",
+      "summary": "iPhone 18 Pro can Wi-Fi 7. Router on installments until 2031 can Wi-Fi from the time of the iPhone 11 Jablíčkář.cz",
+      "published_at": "2026-11-10T15:18:23Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     },
     {
       "id": "d5e640547d2d6fd75dbb1023",
@@ -106,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
-    },
-    {
-      "id": "919f36904410f993492a34b3",
-      "title": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 - 9to5Toys",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5",
-      "summary": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys",
-      "published_at": "2026-11-11T19:07:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 9
     }
   ]
 }

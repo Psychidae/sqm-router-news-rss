@@ -1,30 +1,52 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-12T00:59:16.074446Z",
+  "generated_at": "2026-11-12T08:16:28.667977Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 6,
   "errors": [],
   "items": [
+    {
+      "id": "6b6202fafbae0052a4ff1a50",
+      "title": "Simulated Fog-Cloud Framework Improves Latency and Security in IoT Task Offloading - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnplZmtoOHJDaFhMcTduMkRKRFN3Rnpldkpjb2NuZ2NZQXVHNlpIMkdjaWtINWRJX1hWdlB6Qm9rbWZIZC0zV3VTWjZoZGxleG50VkRxQTd5MHU0M1BzaGtiWndfWURSNDVnVXpKQzI2RUdzUUwtUmxKYXp5VHZOZzQyYVYyLVlVRlJiRHNwLW13NXFtRXV6TnEzMUlwalNYTFVnV1M2MEpCNTA?oc=5",
+      "summary": "Simulated Fog-Cloud Framework Improves Latency and Security in IoT Task Offloading Bioengineer.org",
+      "published_at": "2026-11-12T07:36:16Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "12299ac57811580061b31e29",
+      "title": "Kenya outperforms US, UK and South Africa in fixed internet latency ranking - Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkR6a1FCSW5tS1NFQjRMbVpVeDQxRmtZQ0xPRVNQSzBDN2hyd08tRkhUejVKZW1qYnhHWGZqOGhrT2hMUUVEQkpOMFAzaFVreFg3ZGNfWEx4OVFUbFFmREpXRXh3MndqYjFYVmM0SjdyeFZBNUNiNDVkbXM1bFpiNms0RTNKSEYyeGt0UVF1S2ZLZ1pIV2h5M1hHVDJjZUpJYVE?oc=5",
+      "summary": "Kenya outperforms US, UK and South Africa in fixed internet latency ranking Capital FM Africa",
+      "published_at": "2026-11-12T07:14:09Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "9c03d7c0d138717921405e2e",
+      "title": "Optimum internet outage reported across West Virginia, affecting parts of Ohio as well - WTAP",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMi1PU0JwSjkwMjNIblhBU0VRcHBuTVJsWnJGS2tUdVNXOG80Rk9PNUE3RENRTGVVdmhiY3RlaWNyZ21UeC1xVXVnT01kUThyMDJxSzBOV2hiN3lkejYxZy00Uzg5Qm5aR2t1NTRhZkdDN2VtQ3o5VmJiQVVFR3dXRWxZd3E1eU02azJuUEpXVXdtTmNQR1lzYjBSU1FXWXBFb1ppTW5kUHBYMkt0WkRBdEpR0gHGAUFVX3lxTE0ybWJXM2tLUUNRWjM2YVNwcHE3NDl2U0Y3V2lTUmh4c2E0RERja3JPU215S3dFZnRVQzJhSjVYeVRHR0RZN1lOWGIxUncxWnIyTVp5ZWMtc0l1cFRRSmJDQm00ZFNNVzg0ckVCQjdoVGRwdGlVZkhzZmtyQTBlbGZjTHpoR05aanJHeGxlRWdScVcxcEQwU2ZhcElMa2ZoSUpRMEZXWGdZbTFNcGNVZE9HRnFiaDk1QW45X0R5bVQ2d2dQamw4Zw?oc=5",
+      "summary": "Optimum internet outage reported across West Virginia, affecting parts of Ohio as well WTAP",
+      "published_at": "2026-11-12T01:51:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "b577e104c42a661876eb5f73",
       "title": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」（読売テレビ） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZVR3ME1TUWZGb1FDSFdqbFlNZDRtOUpxZzQxVXFHSDA4NUotWEl5RUlLc3hjRlNydG1CWTBRa2xPU2ttX1B2emloN0RyZUxpSHp4Q2tGeEpZRU0xZHNxMmlqVUhrZWV6SXdvZXo4eDNIS0EtODl4clFDUS1ZT1E?oc=5",
       "summary": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」（読売テレビ） Yahoo!ニュース",
       "published_at": "2026-11-11T14:08:01Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "b900d2a0903050b04b124f43",
-      "title": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYTBBYjliNFREMGFLVXdjNWp2M0tYWTFLa3FjbWFUSHFzeVJRMWc1WFJ5a21MQXlTVmExUlM2cUE0SHNyRTNwc05tYm1sVjI5WjRRc1lTSEFrbkwxdUVKMEd0RmJnY3dmYkZiVHlFS0pIa3dYbjFRSndtdUw5Rlk?oc=5",
-      "summary": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） Yahoo!ニュース",
-      "published_at": "2026-11-11T02:26:35Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -40,6 +62,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "b900d2a0903050b04b124f43",
+      "title": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYTBBYjliNFREMGFLVXdjNWp2M0tYWTFLa3FjbWFUSHFzeVJRMWc1WFJ5a21MQXlTVmExUlM2cUE0SHNyRTNwc05tYm1sVjI5WjRRc1lTSEFrbkwxdUVKMEd0RmJnY3dmYkZiVHlFS0pIa3dYbjFRSndtdUw5Rlk?oc=5",
+      "summary": "ドコモで再び通信障害が発生 5G SAに原因ありと判明【更新】（ITmedia Mobile） Yahoo!ニュース",
+      "published_at": "2026-11-11T02:26:35Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 7
     }
   ]
 }

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:59:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:16:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 - Excite エキサイト</title>
@@ -22,15 +22,15 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」（INTERNET Watch） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRTZTNDM0U0FuRVp4RHVpY1JvQVlzSHhBeUZZSWZwcnNYdXZrVE5LT2t2VUltTVlGajNTeGhubFBqb1dNN1lTcGVoUE1iTEJ2al95b1VnekIwUGZSUENyUHJ0UDB3UVVYd3B5TW52MnBuODhyZ0xlUFBTWTF2THM?oc=5</link>
-      <guid isPermaLink="false">907c8a6e5da148baae4284bc</guid>
+      <title>[セキュリティ] サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【編集部コラム】 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE00M0c1R0Fma1RWQzFhNHhoSFptVGJwSVAxYnJINUlxM1FLc1dtV0hZaE5QVjU2QnVkemtvcTB5bXU4T3hwNGk3VEFyUTlkMWZTMV9ZdTdyVWZ2WGVoM3NIdUJ6X1luSjFERlFzQnU1djlaa1VxMUp6dw?oc=5</link>
+      <guid isPermaLink="false">547675c22e073a83bb95076b</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-11-12 08:50
-サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」（INTERNET Watch） Yahoo!ニュース</description>
-      <pubDate>Thu, 12 Nov 2026 00:59:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T00:59:15.083421Z</sqm:firstSeenDate>
+サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【編集部コラム】 INTERNET Watch</description>
+      <pubDate>Thu, 12 Nov 2026 08:16:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-12T08:16:27.909316Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T23:50:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
@@ -106,16 +106,30 @@ Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentic
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 10Gbps回線でも速度を落とさない？ ヤマハが中小企業向けルーターに新セキュリティ - キーマンズネット</title>
-      <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE03LWk0a2ZmZldtUG9MMzFHek8wZXVCV19VNWN6NmRzN0xHREYtRlY1V25RdXlrNUZTZmtDbjlMNFhPT2owcU9ndldTUDlPTjVZNU0zTFhlZGExa3ltLTlMdWxhU09wZw?oc=5</link>
-      <guid isPermaLink="false">933f340f3d89d28ac7fea804</guid>
+      <title>[セキュリティ] ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 - Excite エキサイト</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE13VnI0Rk5CMnR1cG5XTVhxZkE1T3U5RHZHeFhwTG5rMm0ydzdyc1NKQnNEbXRmY3FHSlpFWXoycllkTzVMX0pwMzl0ck5RRV9UdTd4bUFNeFhtNGlOM2hUS0VJMzZhaXhuMV9kZERkRmRuSzJITDlsVkJkeGZ3dw?oc=5</link>
+      <guid isPermaLink="false">ef13a7da7687e907e2c249d0</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-11-12 06:00
-10Gbps回線でも速度を落とさない？ ヤマハが中小企業向けルーターに新セキュリティ キーマンズネット</description>
-      <pubDate>Thu, 12 Nov 2026 00:59:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T00:59:15.083421Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-11T21:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-12 15:08
+ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 Excite エキサイト</description>
+      <pubDate>Thu, 12 Nov 2026 08:16:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-12T08:16:27.909316Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-12T06:08:43Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 - INTERNET Watch</title>
+      <link>https://news.google.com/rss/articles/CBMia0FVX3lxTE8wamFteEZNb1FkalFValU4Q21wUGxiQXVOSzQyRmpTcGxiSE82eWRNa2tCUTBnU2NWQzE2ajVTTWpsdmZuVlptWEE1YlFWTWIxWXlGREt5X3RRY3FkcDR4SUdfRnE1OG1BZnZJ?oc=5</link>
+      <guid isPermaLink="false">77371e2a05b3fee02b5a51f9</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-12 14:21
+ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 INTERNET Watch</description>
+      <pubDate>Thu, 12 Nov 2026 08:16:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-12T08:16:27.909316Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-12T05:21:21Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -131,20 +145,6 @@ Piolink、第3四半期営業利益26億ウォン…日本のセキュリティ�
       <sqm:firstSeenDate>2026-11-11T10:49:44.847746Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T04:25:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection - GBHackers News</title>
-      <link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ0RyUmFKdlpWb0hsbEh2amI1TmtNbjhtRVR3bjV3UkJtOUNhQ0p6ei1va090ZHJwMHRTV0lqOFFhcWVPRGdiRWdhNGZvYjlyZ245MUNUTnhITE0td1h1eFdMakJ3RzB2RmtJV2pCdzc4R0JtZ2JLQ0xsZWZjOWFyNmVjRkJXQzFSRnfSAY8BQVVfeXFMT0pRcTk2bTI4R2tQUEdkel9PMjBaQ0lkRTZsV1B5WmYyeXZrNTF6LTZXcjJuY0F1dm9uR2Fubnh3TXo4NXNkRU4wMUxMRDJZX2JqbXV5Z0FoMkNQd1d2WnhhbXZsekdXOTdQOGMtLXdyVEs4WHp1cUxhSzZ2eF9YbmZ4NmRNYnRpU1ZZRjhDLTA?oc=5</link>
-      <guid isPermaLink="false">7d184e7aa3b2734c4d59ee99</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-11-09 16:18
-SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection GBHackers News</description>
-      <pubDate>Mon, 09 Nov 2026 20:05:55 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-09T20:05:55.675623Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-09T07:18:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
   </channel>
