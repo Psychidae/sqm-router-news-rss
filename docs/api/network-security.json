@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-11T18:39:19.707638Z",
+  "generated_at": "2026-11-12T00:59:15.084091Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 8,
+  "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "c01f4b639a35b76ec047a1bb",
+      "title": "サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0VWRZWVVEWWNRUkV5WDRINFA3VTcwNkFMOUZCN2xRQ3JZSUt5MV9fbld3bTFVTS0zVXlxR05IZmV1ektoN0x0d3lfZGc5TTFzbmhfZmEyNVVJSmQwMTc5dTRySjlWSXJoTThfS3YtcWJ5SHg5Z3doYk9ZUHE?oc=5",
+      "summary": "サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 Excite エキサイト",
+      "published_at": "2026-11-12T00:43:44Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "907c8a6e5da148baae4284bc",
+      "title": "サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yRTZTNDM0U0FuRVp4RHVpY1JvQVlzSHhBeUZZSWZwcnNYdXZrVE5LT2t2VUltTVlGajNTeGhubFBqb1dNN1lTcGVoUE1iTEJ2al95b1VnekIwUGZSUENyUHJ0UDB3UVVYd3B5TW52MnBuODhyZ0xlUFBTWTF2THM?oc=5",
+      "summary": "サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-11-11T23:50:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "1abbb32045b2f93a88d9b9fa",
       "title": "家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - 千葉テレビ放送株式会社",
@@ -17,7 +39,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "72f885205e688f441e463ef6",
@@ -28,7 +50,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "0d169244a278436a11381a1c",
@@ -39,7 +61,7 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "6d35c772894085cfe762ba89",
@@ -64,6 +86,17 @@
       "score": 12
     },
     {
+      "id": "933f340f3d89d28ac7fea804",
+      "title": "10Gbps回線でも速度を落とさない？ ヤマハが中小企業向けルーターに新セキュリティ - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03LWk0a2ZmZldtUG9MMzFHek8wZXVCV19VNWN6NmRzN0xHREYtRlY1V25RdXlrNUZTZmtDbjlMNFhPT2owcU9ndldTUDlPTjVZNU0zTFhlZGExa3ltLTlMdWxhU09wZw?oc=5",
+      "summary": "10Gbps回線でも速度を落とさない？ ヤマハが中小企業向けルーターに新セキュリティ キーマンズネット",
+      "published_at": "2026-11-11T21:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
+    },
+    {
       "id": "ab4510bce239f1d78a9c9fae",
       "title": "Piolink、第3四半期営業利益26億ウォン…日本のセキュリティスイッチ・HCI置換需要が牽引 - BigGo ファイナンス",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uNmt4LUg2M0VqYWUzb2RpT0NaR1ZZUUdxbmRpNzQ2Z1g5TzhSNEJfU0phWEcwTXpRdjd6aTJPcG5HU1cyVjN6ZFpKTnpuUXZjbHppNHhmYnFpVU9ZTTd3Z1FVODMtbWhhdkthd1k3UU9JT0JV?oc=5",
@@ -84,17 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
       "score": 8
-    },
-    {
-      "id": "68f98b83c9b1f817490215ac",
-      "title": "ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売 中小企業・SOHOのセキュリティ強化を支援 - クラウド Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GMDlldHJxWk9DalZtMTFySl8yQmhCUmU2Rkw1ODNJUEN0akxwOWFxaWg3eHpnVFhDY2wzTjNOMEtIR3N2R3V0a250T0VyMzAxZjFMcmlHc1VCQzhMbkMxR2ltUFRXNzQ?oc=5",
-      "summary": "ヤマハ、ルーターにDNSセキュリティ機能を追加する拡張ライセンスを発売 中小企業・SOHOのセキュリティ強化を支援 クラウド Watch",
-      "published_at": "2026-11-06T04:56:49Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 6
     }
   ]
 }
