@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-13T10:53:13.055229Z",
+  "generated_at": "2026-11-13T18:29:40.327449Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -20,6 +20,17 @@
       "score": 16
     },
     {
+      "id": "c795a3dbc2c96f137777e3c3",
+      "title": "Early Black Friday Router Deals: Save Up to $100 on a TP-Link Wi-Fi 7 Mesh System - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFZkQ003QTRvb1J6VFZDMUVGdVF2NU12cTJtNUJiTWpWNzExdjJ1OTdkT0JIblNEVldtdWkwNlVTaFdFQWhYd2V2djlQMW1MdlJBbHVzRGxUdXExOWQ2ME5pWVZZVEluNkg3VlIzLXRlQmsyNDBUczJMZTVPNS1jMGlKdXQtQ0F2OTdWYUloRWJNUQ?oc=5",
+      "summary": "Early Black Friday Router Deals: Save Up to $100 on a TP-Link Wi-Fi 7 Mesh System PCMag",
+      "published_at": "2026-11-13T13:49:07Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "a90e98e432b37c9a0add9a87",
       "title": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWY2dlRSZ0J1UXVIdTctZ0lDcnREb2ZQeEdQSERqd053YVRFOGtoNm1rOGlwWGwtMGxycHZxYllmcG9IOTdTNUw1bGMzeThqMV9oZjJrTnR6OHVOekJwZHFtckVJLUctMHpsVkZnOW1GYXdJbE13UkxkYkt6NElDalY2VUhwaHlvdkNoNm1Jdnl1aUtRaDc3MzV4b3g1S0JU?oc=5",
@@ -31,17 +42,6 @@
       "score": 13
     },
     {
-      "id": "d5e640547d2d6fd75dbb1023",
-      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
-      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
-      "published_at": "2026-11-10T17:06:36Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "2c3843c27e1afe06533cddd0",
       "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
@@ -51,6 +51,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 12
+    },
+    {
+      "id": "d5e640547d2d6fd75dbb1023",
+      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
+      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
+      "published_at": "2026-11-10T17:06:36Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
     },
     {
       "id": "dae37a542b059bc44e58b884",
@@ -69,17 +80,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
       "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
       "published_at": "2026-11-05T14:07:11Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
-      "id": "928e14417478323c76c99209",
-      "title": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price - Android Authority",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2pVMUVQV3p1ME8tNWxDWnE0Tm5LQ1FVQUNqSkhSWTIxMzRRVk5MYWpvSi1ZSHpqLVBVMVVHUENSSmwyTmtqcEYySUFCNnR4VEVvSTJON2lQSzREb2JJT09JT1dZTC1XNVAyNGZqZHM5eGNVVlR5MlFRSnFkOTFHeExUb25oNGtkZXV2bVd6cw?oc=5",
-      "summary": "This TP-Link Tri-Band Wi-Fi 7 router just returned to its lowest-ever price Android Authority",
-      "published_at": "2026-11-03T08:00:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

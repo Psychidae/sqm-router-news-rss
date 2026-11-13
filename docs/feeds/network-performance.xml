@@ -5,19 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:29:41 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] Simulated Fog-Cloud Framework Improves Latency and Security in IoT Task Offloading - Bioengineer.org</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnplZmtoOHJDaFhMcTduMkRKRFN3Rnpldkpjb2NuZ2NZQXVHNlpIMkdjaWtINWRJX1hWdlB6Qm9rbWZIZC0zV3VTWjZoZGxleG50VkRxQTd5MHU0M1BzaGtiWndfWURSNDVnVXpKQzI2RUdzUUwtUmxKYXp5VHZOZzQyYVYyLVlVRlJiRHNwLW13NXFtRXV6TnEzMUlwalNYTFVnV1M2MEpCNTA?oc=5</link>
-      <guid isPermaLink="false">6b6202fafbae0052a4ff1a50</guid>
+      <title>[性能・障害] Kenya Ranks Second Globally in Fixed Internet Latency - KenyanVibe</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUw1MlIzazlXMm41OG54eVVwOG5WOE1salJTTlZhanlNcWZZMHhrWGFpZWE5TzIydHJOWHhFVXBHTE9vWXU2cjgyRmd3QndwaEh4V3FScURPMmhDbk0ySTZXRlpHTlc5NXZtY0w0WFJ3NC1ndXN4Zk9TZFgteWc5elhzbXRlcW5G?oc=5</link>
+      <guid isPermaLink="false">ecf3042e103b96af6e0a31e2</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-11-12 16:38
-Simulated Fog-Cloud Framework Improves Latency and Security in IoT Task Offloading Bioengineer.org</description>
-      <pubDate>Thu, 12 Nov 2026 08:16:28 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T08:16:28.667366Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-12T07:38:11Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-13 16:38
+Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe</description>
+      <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T18:29:41.853150Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-13T07:38:40Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -50,15 +50,15 @@ Optimum internet outage reported across West Virginia, affecting parts of Ohio a
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」（読売テレビ） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZVR3ME1TUWZGb1FDSFdqbFlNZDRtOUpxZzQxVXFHSDA4NUotWEl5RUlLc3hjRlNydG1CWTBRa2xPU2ttX1B2emloN0RyZUxpSHp4Q2tGeEpZRU0xZHNxMmlqVUhrZWV6SXdvZXo4eDNIS0EtODl4clFDUS1ZT1E?oc=5</link>
-      <guid isPermaLink="false">b577e104c42a661876eb5f73</guid>
+      <title>[性能・障害] NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 - 日テレNEWS NNN</title>
+      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5</link>
+      <guid isPermaLink="false">8ab4fe909ffce6d67f325b01</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-11-11 23:08
-NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」（読売テレビ） Yahoo!ニュース</description>
-      <pubDate>Thu, 12 Nov 2026 22:42:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T22:42:25.087305Z</sqm:firstSeenDate>
+NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 日テレNEWS NNN</description>
+      <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T18:29:41.853150Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T14:08:01Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
