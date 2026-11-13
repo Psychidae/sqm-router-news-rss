@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:53:13 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - Excite エキサイト</title>
@@ -78,20 +78,6 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFB0VWRZWVVEWWNRUkV5WDRINFA3VTcwNkFMOUZCN2xRQ3JZSUt5MV9fbld3bTFVTS0zVXlxR05IZmV1ektoN0x0d3lfZGc5TTFzbmhfZmEyNVVJSmQwMTc5dTRySjlWSXJoTThfS3YtcWJ5SHg5Z3doYk9ZUHE?oc=5</link>
-      <guid isPermaLink="false">c01f4b639a35b76ec047a1bb</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-12 09:43
-サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【INTERNET Watch編集部コラム】 Excite エキサイト</description>
-      <pubDate>Thu, 12 Nov 2026 00:59:15 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T00:59:15.083421Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-12T00:43:44Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] サイバーセキュリティは一蓮托生。情報漏えいが続発する中での「Wi-Fiルーター見直しの日」 【編集部コラム】 - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMieEFVX3lxTE00M0c1R0Fma1RWQzFhNHhoSFptVGJwSVAxYnJINUlxM1FLc1dtV0hZaE5QVjU2QnVkemtvcTB5bXU4T3hwNGk3VEFyUTlkMWZTMV9ZdTdyVWZ2WGVoM3NIdUJ6X1luSjFERlFzQnU1djlaa1VxMUp6dw?oc=5</link>
       <guid isPermaLink="false">547675c22e073a83bb95076b</guid>
@@ -106,34 +92,6 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - 千葉テレビ放送株式会社</title>
-      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnVlMUV0UFVYYjdnN05wSW1adWVjUXZjWDIwam5aU3EyVFZwMTdoNmxNX2g1aXNDTlFFLTdXT0tCSTlUbmQyRlFDWjdzV3BxNEhsZFpqczlLYmtjelJF?oc=5</link>
-      <guid isPermaLink="false">1abbb32045b2f93a88d9b9fa</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-11 07:56
-家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 千葉テレビ放送株式会社</description>
-      <pubDate>Wed, 11 Nov 2026 02:59:44 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-11T02:59:44.743680Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T22:56:23Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - Excite エキサイト</title>
-      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTFAtUzhseXJLZU1fN3lxcUN6aDhMLVNqamh2WVBPV1NPN3B5MWxpVzljbUtmcGNkY09iTWVlaXRucFRyRUZaRmhhcGJEWGNzWlJoOFdIWGZyOEFXMElydmh5YXFGRkp4SGluTXQ3MXJhSVhlUkxhX3doSkVhNnI?oc=5</link>
-      <guid isPermaLink="false">72f885205e688f441e463ef6</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-11 06:28
-家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 Excite エキサイト</description>
-      <pubDate>Tue, 10 Nov 2026 23:20:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-10T23:20:43.323642Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T21:28:27Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
       <title>[セキュリティ] 家のWi-Fiルーター、年に一度はセキュリティのため“見直し”を！ 11月11日は「Wi-Fiルーター見直しの日」 - INTERNET Watch</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE04RDFfY0w3aG5IdFhBOWE5ZGdxU0wtUDUwWGFoNVotMU5sbWFUMVBvX18zdFo0QmxVak5NQ0N3NVptWGNNMTJVVlFjQUdjb3duaVBrZkxMM05YNDN6OHBTYlp5VXdLTEQwajNySzVDSQ?oc=5</link>
       <guid isPermaLink="false">0d169244a278436a11381a1c</guid>
@@ -144,6 +102,48 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <pubDate>Tue, 10 Nov 2026 23:20:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-10T23:20:43.323642Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-10T21:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5JcWY3SUwzLTM2b29BSGVpbHVQUk9jU2J5ZHlpUFdIY0hndTRRNW5GNEFCb253dFVLZ09PdHFWemlqSE1qZFQzVFJFRHFERGZsN0hWc3hma2VKZ01UdGFvRXR4d19nWmQtRWMzU1RZbERXZw?oc=5</link>
+      <guid isPermaLink="false">ac376e8a262b929a94ff6864</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-10 17:00
+「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 ITmedia</description>
+      <pubDate>Fri, 13 Nov 2026 10:53:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T10:53:13.693049Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-10T08:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] 『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 - PR TIMES</title>
+      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE5xR0h1aTIxV3JQNGktZURCaTZYT0dJcTB1Z0tWWjBsQmRBQW53RHR2ZUE1TUpXQ09jNFV1d2JpRF8zUmtXSEdFOEtoVmdWbXlicE5iVTdVUm54clB5MTRRTElUMUo3RXRaTmc?oc=5</link>
+      <guid isPermaLink="false">6d35c772894085cfe762ba89</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-10 09:00
+『【再放送】＜AIが脆弱性を見つける時代＞VPNとは違う、外部公開を減らすリモートアクセス』というテーマのウェビナーを開催 PR TIMES</description>
+      <pubDate>Fri, 13 Nov 2026 10:53:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T10:53:13.693049Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-10T00:00:02Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>[セキュリティ] ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 - Excite エキサイト</title>
+      <link>https://news.google.com/rss/articles/CBMifEFVX3lxTE4yQTRaUTZkRU1OeFB6ZUNZYjRsaHNNN0QzSWxocDU1T1lRR2VxVTJfN1FYalBNX2RPaTFlelRtZloyS3NLS2I5RjU0ZkxjYmJlTkt1d1FQUHVCYkhpam5wcTQ0WDlNRXlHMFkyOGRkVkg1a0VTNHRycUd6XzE?oc=5</link>
+      <guid isPermaLink="false">e06241d9dff681d2afbdbdb5</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-12 15:08
+ソフトバンクのホームルーター「Airターミナル6」にOSコマンドインジェクションの脆弱性 修正済みファームウェアへの自動アップデートで対策可能 Excite エキサイト</description>
+      <pubDate>Fri, 13 Nov 2026 10:53:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T10:53:13.693049Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-12T06:08:43Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
