@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-12T22:42:23.231855Z",
+  "generated_at": "2026-11-13T02:53:48.208929Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,22 +9,22 @@
   "errors": [],
   "items": [
     {
+      "id": "d73e4ad2b1eebb035bf44b2f",
+      "title": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkZnMV9IV212MXFBQTJ1ZXVnTWxjcF9fTVYycHRfRFg2R25keE4zQ3hVeUxBcGtUQmQ3OGx1VTNyaFVYa0xPNG9aRmVwamhUUzBRYTh5cEc3cVA5R0dNT3c5ZjlFeTVIeGpxUUlocmEtcTNLMmlUaktBZU9QSVNibjhsZUZLS3lQSlg4bks4dG9oZ01VWk9J?oc=5",
+      "summary": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals HotHardware",
+      "published_at": "2026-11-08T12:14:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 16
+    },
+    {
       "id": "a90e98e432b37c9a0add9a87",
       "title": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWY2dlRSZ0J1UXVIdTctZ0lDcnREb2ZQeEdQSERqd053YVRFOGtoNm1rOGlwWGwtMGxycHZxYllmcG9IOTdTNUw1bGMzeThqMV9oZjJrTnR6OHVOekJwZHFtckVJLUctMHpsVkZnOW1GYXdJbE13UkxkYkt6NElDalY2VUhwaHlvdkNoNm1Jdnl1aUtRaDc3MzV4b3g1S0JU?oc=5",
       "summary": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN XiaomiToday",
       "published_at": "2026-11-11T15:47:40Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "70204a562e1b63b25afe8fae",
-      "title": "iPhone 18 Pro can Wi-Fi 7. Router on installments until 2031 can Wi-Fi from the time of the iPhone 11 - Jablíčkář.cz",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHFFb21MYktTNTNIZmNKZ052NHh6Tno1dzQ4cjEyVWRYTGZaY3prQXh5dW9Ma1RfdGxaNWhWemRKWXVFcVZpNHI5ckhxRlYwNDYtSnNLTnJWNWxBcFVZTGhVMHU2RDk4V0QtQ0FJMmthMGVyLWZkTElYRWl6cDU5X3lqTUZXbVJIRDR6VkpMLTFiRTVuQnJnQlhGTG5KLUYwODBBV3Z2N240M2hQ?oc=5",
-      "summary": "iPhone 18 Pro can Wi-Fi 7. Router on installments until 2031 can Wi-Fi from the time of the iPhone 11 Jablíčkář.cz",
-      "published_at": "2026-11-10T15:18:23Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -60,6 +60,17 @@
       "published_at": "2026-11-07T14:31:17Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "bac119499e3ada6e2c78d6f1",
+      "title": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
+      "summary": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal Lifehacker",
+      "published_at": "2026-11-05T14:07:11Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5",
       "summary": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys",
       "published_at": "2026-11-11T19:07:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "d04416480d9693d35d937c7f",
-      "title": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever - Kotaku",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZqNGRDSE9zVnhQRVoyZEZ0cjY5Y0dZTUN2c1FUS0dUbGR0ZjdNSHRnOFVMeVREcDNOQk04TG41SFZLZjgzeGVnREpEaENKUW4wQXhDdHBWOHpoZThNRTlFMUtYdjFJYk1SVkFQbTRqVEE2eHg1bnVyeGhLSEctY1hfeHBiTFpDZlVYd2l3WlZFbFluNFl0SXlDU2F3c1ZQdVNDUmZrbWIyLU1iQ29zYVNFRkdYUENHQXhIdy1pNzRHWDRpMkdBWlZ0OUZwUVh5bUh4dmtuc3M?oc=5",
-      "summary": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever Kotaku",
-      "published_at": "2026-11-11T15:45:11Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
