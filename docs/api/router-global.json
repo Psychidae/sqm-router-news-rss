@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-13T18:29:40.327449Z",
+  "generated_at": "2026-11-13T23:51:50.437780Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -31,28 +31,6 @@
       "score": 14
     },
     {
-      "id": "a90e98e432b37c9a0add9a87",
-      "title": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN - XiaomiToday",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWY2dlRSZ0J1UXVIdTctZ0lDcnREb2ZQeEdQSERqd053YVRFOGtoNm1rOGlwWGwtMGxycHZxYllmcG9IOTdTNUw1bGMzeThqMV9oZjJrTnR6OHVOekJwZHFtckVJLUctMHpsVkZnOW1GYXdJbE13UkxkYkt6NElDalY2VUhwaHlvdkNoNm1Jdnl1aUtRaDc3MzV4b3g1S0JU?oc=5",
-      "summary": "ELECOM Introduces WRC-BE64QS-B Wi-Fi 7 Router With EasyMesh and 2.5GbE WAN XiaomiToday",
-      "published_at": "2026-11-11T15:47:40Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "2c3843c27e1afe06533cddd0",
-      "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
-      "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag",
-      "published_at": "2026-11-06T21:42:20Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 12
-    },
-    {
       "id": "d5e640547d2d6fd75dbb1023",
       "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
@@ -71,6 +49,17 @@
       "published_at": "2026-11-07T14:31:17Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 11
+    },
+    {
+      "id": "2c3843c27e1afe06533cddd0",
+      "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
+      "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag",
+      "published_at": "2026-11-06T21:42:20Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 11
     },
@@ -97,22 +86,33 @@
       "score": 8
     },
     {
-      "id": "9e0f7e79b22cd99801814f7e",
-      "title": "Elecom Launches WRC BE64QS B Wi Fi 7 Router with 2.5GbE WAN - Technetbook",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2Ruenc5eFhPeTJrXzNmZFBJdENiVW5rNHpvNUktUC1YZUx6QVRMUVBXODE4N3Q3dW04bXI0cktyYnhjb0dDMEpzZTh1TlBwcDZEUTJRcXZMVlVMU1JNbFRRNXRSNDI0TkNSYnkyU3RyQUpNV3FyMlBMUjFyTTkwZHU5aU8?oc=5",
-      "summary": "Elecom Launches WRC BE64QS B Wi Fi 7 Router with 2.5GbE WAN Technetbook",
-      "published_at": "2026-11-12T03:01:00Z",
+      "id": "919f36904410f993492a34b3",
+      "title": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 - 9to5Toys",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5",
+      "summary": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys",
+      "published_at": "2026-11-11T19:07:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 8
     },
     {
-      "id": "919f36904410f993492a34b3",
-      "title": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 - 9to5Toys",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5",
-      "summary": "Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys",
-      "published_at": "2026-11-11T19:07:00Z",
+      "id": "d04416480d9693d35d937c7f",
+      "title": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever - Kotaku",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVZqNGRDSE9zVnhQRVoyZEZ0cjY5Y0dZTUN2c1FUS0dUbGR0ZjdNSHRnOFVMeVREcDNOQk04TG41SFZLZjgzeGVnREpEaENKUW4wQXhDdHBWOHpoZThNRTlFMUtYdjFJYk1SVkFQbTRqVEE2eHg1bnVyeGhLSEctY1hfeHBiTFpDZlVYd2l3WlZFbFluNFl0SXlDU2F3c1ZQdVNDUmZrbWIyLU1iQ29zYVNFRkdYUENHQXhIdy1pNzRHWDRpMkdBWlZ0OUZwUVh5bUh4dmtuc3M?oc=5",
+      "summary": "TP-Link Offloads Dual-Band WiFi 7 Router at a Steal, Making the Upgrade From WiFi 6 Easier and Cheaper Than Ever Kotaku",
+      "published_at": "2026-11-11T15:45:11Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "4cb1e676a692b753c9eaea94",
+      "title": "Best Wi-Fi 7 Routers 2026: 19 vs 27 Gbps Ranked - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0xpaTVkUFhoYzlUSExZZkpCZUMzWDBUZUNjakdSVUpzOUM4Z1E0RWxBNkg4SlJWR1E3bTBfN0ZidDQydGR6djhhMTVqdkpjYWZVZWxrcDFBVXVwMUlBN1FlMURuNEpZRTZWZHVwbkREMFowOXRNaXNfR0RqUV9WNjhKZHpSTklL?oc=5",
+      "summary": "Best Wi-Fi 7 Routers 2026: 19 vs 27 Gbps Ranked shattered.io",
+      "published_at": "2026-11-11T04:34:50Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

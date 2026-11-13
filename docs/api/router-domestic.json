@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-13T18:29:39.554583Z",
+  "generated_at": "2026-11-13T23:51:49.508001Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -9,10 +9,10 @@
   "errors": [],
   "items": [
     {
-      "id": "6b3412979928cc3304e06e44",
-      "title": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41cU53d2dJakEwLTA2bVd4OFVvcThib1AtV2ZrSEI0bmRzUVF6cXVhSUFicXFkdE1EUWF1WVlWTVJKbnA0VmNld2RMSkNKcENrSXRSaWMxb29uVkN2US0xU2FIRUllTTdiSlE?oc=5",
-      "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 BCN Retail",
+      "id": "745b7fc1013d18a6f69d9d9a",
+      "title": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTHB0bHF2dThYSm9HTkN3cW5sMGpPcWo5b2UwWFdYRnhhN0xUUVZ0QzZaVXFGR2kwOE5peUNydmZFZ190U0t3NFR5M3UtWEtuWXZQeVhjczBZbE1oQWF6Sm9LVkI4c2J5VENBbzhWMm1CSlF3bWpXTk1vVVdNMGM?oc=5",
+      "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載（BCN） Yahoo!ニュース",
       "published_at": "2026-11-12T07:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -46,7 +46,7 @@
       "title": "5GHz帯で最大5,764Mbps エレコム、Wi-Fi 7対応ルーター2機種を11月中旬発売 - ASCII.jp",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxWV9NOWhadXQ4VDJxUmx2ME9VQjBQYlNyOGV6VDF6bGZJZmpoMzlOZnFxVUdQOG5leWluZlpBbnRlVFRXWEdNUGtXR3RwVXE2Y2pkZQ?oc=5",
       "summary": "5GHz帯で最大5,764Mbps エレコム、Wi-Fi 7対応ルーター2機種を11月中旬発売 ASCII.jp",
-      "published_at": "2026-11-13T02:03:12Z",
+      "published_at": "2026-11-13T02:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -64,17 +64,6 @@
       "score": 12
     },
     {
-      "id": "a15fe32fb9c73176823488d0",
-      "title": "エレコム、Wi-Fi 7ルーター「WRC-BE64QSD-B」を発売・2.4GHz帯はWi-Fi 7非対応で前モデルよりも低速に - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jdVh0VWVUdnhkVEVRY3ZqdkVCZW81RlJyZndyZEp0NDFPY3BJdGZvbGtMcHVuWk5RemZhLUdjNUZlenFNY19tV09qb29nVGJrMXR5SzFYYw?oc=5",
-      "summary": "エレコム、Wi-Fi 7ルーター「WRC-BE64QSD-B」を発売・2.4GHz帯はWi-Fi 7非対応で前モデルよりも低速に 24Wireless",
-      "published_at": "2026-11-11T13:30:48Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
-    },
-    {
       "id": "fa7b9af61e3ec9191de35db2",
       "title": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで - 24Wireless",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcjBLUTc0aDA5VmVXcXMyQlZVeGJhOGZTeGRyX3ozbVBmQm52dTBrRWtCamoyZzJEZlZ6MC12SjBJNERCMWFUSGI4Wk1sUGNySG1DaHlCblJSOUowR2xMc01NQnN1MWZJV3p2dlF0cw?oc=5",
@@ -86,15 +75,26 @@
       "score": 12
     },
     {
-      "id": "346cf1aec2069e0d230497ac",
-      "title": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QNTJBVHhYUDZab3NuTVJFZXNrN3FfNzJvaWNObHVWMWhCcWJCM2tmYTVBMVVna0Z5RHRHRnVweWhIc1RQN3RQcmo4eWxEakpVY21kTEFhSFVaeFROWnY3ZHRzaTdyZw?oc=5",
-      "summary": "バッファロー、10GbE対応のUSB Type-C有線LANアダプターを発表 RBB TODAY",
-      "published_at": "2026-11-11T08:28:17Z",
+      "id": "e684688f60a83f3e07cf93a2",
+      "title": "バッファローが6モデルTOP10入り 無線LANルーター人気ランキングTOP10 2026/11/9（BCN） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3QTktaFpUWks5a0J6S0ZYRVNCX2lKRHhvUmtpemxvQ1VZM0lZZHB0NWJYSVFlR2tyWDduanFKdFpEV0p4SUUtVG4zWHM4eDh4U0RnZ192TkJoRndPVWNFMTlub3dRa2xaMDg1TzFKTzJtaVEtcm85aVd2aTkwZWs?oc=5",
+      "summary": "バッファローが6モデルTOP10入り 無線LANルーター人気ランキングTOP10 2026/11/9（BCN） Yahoo!ニュース",
+      "published_at": "2026-11-09T03:00:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 12
+      "score": 11
+    },
+    {
+      "id": "fa1e8c9bc67c9dabbe9d07de",
+      "title": "【実機レビュー】大人の部屋のWi-Fiルーター、これ一択です（Web LEON） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BcWZmWU5sTlgtUHZXM1lrRnRib01lX1VtT0N4djR1TGFITDVOWmxQWEo2Sk81WklreFdmVERrOElkMm53S1RIeEFOOGN5a0F1MWRpdUFTT1hKRjNJVHFKckVGamR2V2kyTzFCYU4xei04by1wQ1F1UHlQVUlVd2s?oc=5",
+      "summary": "【実機レビュー】大人の部屋のWi-Fiルーター、これ一択です（Web LEON） Yahoo!ニュース",
+      "published_at": "2026-11-04T22:03:26Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
     }
   ]
 }

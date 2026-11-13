@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:51:51 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - 窓の杜</title>
@@ -18,20 +18,6 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <pubDate>Thu, 12 Nov 2026 16:49:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-12T16:49:43.075304Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-12T09:34:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] インテル、月例で24件の脆弱性情報 Wi-FiとBluetoothは「HIGH」、第10～14世代Coreに影響 - BigGo ファイナンス</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTFBEc2ExWmRVa0NiQWJYSkFQbmNkLVY0UHctUDhYTURTMnZCSU1GUV9FRkYzWnI5eEJJaGxoUGVfM2hkZW9peV91Sko4QWF5WVZNTWF3cnpURFAtQVFpV3AyN01GYXRHUjYtZDUxd28wT0ZmTGhu?oc=5</link>
-      <guid isPermaLink="false">20c12184c4118b0486ce3fa3</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-13 01:35
-インテル、月例で24件の脆弱性情報 Wi-FiとBluetoothは「HIGH」、第10～14世代Coreに影響 BigGo ファイナンス</description>
-      <pubDate>Thu, 12 Nov 2026 16:49:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T16:49:43.075304Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-12T16:35:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
@@ -74,20 +60,6 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <pubDate>Tue, 10 Nov 2026 23:20:43 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-10T23:20:43.323642Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-10T21:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] 「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMickFVX3lxTE5JcWY3SUwzLTM2b29BSGVpbHVQUk9jU2J5ZHlpUFdIY0hndTRRNW5GNEFCb253dFVLZ09PdHFWemlqSE1qZFQzVFJFRHFERGZsN0hWc3hma2VKZ01UdGFvRXR4d19nWmQtRWMzU1RZbERXZw?oc=5</link>
-      <guid isPermaLink="false">ac376e8a262b929a94ff6864</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-10 17:00
-「90日間ログ保持」はもう古い VPNの脆弱性やActive Directoryを悪用するランサムウェアの実態と対策 ITmedia</description>
-      <pubDate>Fri, 13 Nov 2026 10:53:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-13T10:53:13.693049Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T08:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
