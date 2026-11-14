@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:50:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 22:57:07 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] After 4th internet outage this year, some northwest B.C. customers will get credits - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2E5TmNSaXNfaFE1WlNTQVhIVGRDMzFUd1JDVFZveUpqZ1NfR3R5cnBiaUdMU2VFVUxTNDEzSU81aDhzQzh2TWJvNUxwU0k5QVI0Q0xyc25vMFhkc2NsUTVhRUR4bXFXSDVuTHRzSkNENEg5cmlDOE1HWTNzTE96djN3TlhnbDNsY2l6eEJEVlY?oc=5</link>
+      <guid isPermaLink="false">2097c086e2281eeb45a4d798</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-14 22:00
+After 4th internet outage this year, some northwest B.C. customers will get credits CBC</description>
+      <pubDate>Sat, 14 Nov 2026 22:57:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T22:57:07.758530Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T13:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] Update: Microsoft offers explanation for day-long Internet outage - Macworld</title>
       <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5</link>
@@ -32,20 +46,6 @@ National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working d
       <pubDate>Sat, 14 Nov 2026 06:13:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-14T06:13:23.026398Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-13T23:50:49Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Markov-Switching Model Cuts Sensor Network Latency by 44.9% - Bioengineer.org</title>
-      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWRoVjFhMjkxTjNLbjFqZ0dfdmozSjJCV0ZITkEtd2t0R0hDdk5HTlJFX19mS21TLW5VbmZvNEVLbDNnbHpUdGxiX0NDa0Fwa0lPUkxSby1mMFpRcWMydEVuY3B6LVZoOUNyOGlsRGF4SmNJVUVsdEhrenlrVEFGcjgwdmR2WjRMYl9B?oc=5</link>
-      <guid isPermaLink="false">6b724af3f06d18f55aee7df2</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-14 07:37
-Markov-Switching Model Cuts Sensor Network Latency by 44.9% Bioengineer.org</description>
-      <pubDate>Fri, 13 Nov 2026 23:51:52 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-13T23:51:52.028244Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-13T22:37:35Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -92,6 +92,20 @@ Markov-Switching Model Cuts Sensor Network Latency by 44.9% Bioengineer.org</des
       <category>性能・障害</category>
     </item>
     <item>
+      <title>[性能・障害] Markov-Switching Model Cuts Sensor Network Latency by 44.9% - Bioengineer.org</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdWRoVjFhMjkxTjNLbjFqZ0dfdmozSjJCV0ZITkEtd2t0R0hDdk5HTlJFX19mS21TLW5VbmZvNEVLbDNnbHpUdGxiX0NDa0Fwa0lPUkxSby1mMFpRcWMydEVuY3B6LVZoOUNyOGlsRGF4SmNJVUVsdEhrenlrVEFGcjgwdmR2WjRMYl9B?oc=5</link>
+      <guid isPermaLink="false">6b724af3f06d18f55aee7df2</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-14 07:37
+Markov-Switching Model Cuts Sensor Network Latency by 44.9% Bioengineer.org</description>
+      <pubDate>Fri, 13 Nov 2026 23:51:52 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T23:51:52.028244Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-13T22:37:35Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
       <title>[性能・障害] Optimum Internet Outage Ends in West Virginia After Network Damage - JournalArta</title>
       <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPb01tTnJOaGZWMGlleEctWlVoZHNWcHJMcGphTC05TlJsbERUYzU0dllhWTNZaVdLdEIzcEk2b3BvcHlxNFNYWFdXZnpyRDRIUUI0bFotNHVlTzRuWmU3YXRrc0k5MTluVFNNcV9KandnNzBXa2pTWmU4WEUyWWpCWVhOajJ6WU9hNkl2TUd3?oc=5</link>
       <guid isPermaLink="false">76effe63119cddd5f156693d</guid>
@@ -130,20 +144,6 @@ Optimum internet outage reported across West Virginia, affecting parts of Ohio a
       <pubDate>Fri, 13 Nov 2026 02:53:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-13T02:53:50.102095Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T23:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] "Lasting resolution" promised following island’s internet outage - West Coast Today</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpBT1hHVHdyQ0RhMnRoMjNmUDUtVkxiTVN1empsaVcyZ1hJYWdabllyXzhieTByX3lpeDU2U0VEeFlJV3JaMUYweU9tN19tdmRzQkliWjlpZWxKdjZnUExHTktHcUVYZHVIX05Bekl6STktTlFKQlkwcFhaM2hRclBhOFExLWg1UE9wMl9KbnIxUnEwM0xuWXdBUTdjQld2?oc=5</link>
-      <guid isPermaLink="false">50c5bb0958628b91b0f2cd42</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-09 21:02
-"Lasting resolution" promised following island’s internet outage West Coast Today</description>
-      <pubDate>Sat, 14 Nov 2026 18:50:46 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-14T18:50:46.206019Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-09T12:02:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
