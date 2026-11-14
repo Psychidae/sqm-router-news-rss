@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-14T06:13:23.027905Z",
+  "generated_at": "2026-11-14T13:28:34.348042Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "dc5e0e1735164d315d53b5db",
+      "title": "Update: Microsoft offers explanation for day-long Internet outage - Macworld",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5",
+      "summary": "Update: Microsoft offers explanation for day-long Internet outage Macworld",
+      "published_at": "2026-11-14T07:48:50Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "728aba52eaf4e1fadcb23e3e",
       "title": "National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working - deeparrival.com",
@@ -31,15 +42,15 @@
       "score": 9
     },
     {
-      "id": "ecf3042e103b96af6e0a31e2",
-      "title": "Kenya Ranks Second Globally in Fixed Internet Latency - KenyanVibe",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUw1MlIzazlXMm41OG54eVVwOG5WOE1salJTTlZhanlNcWZZMHhrWGFpZWE5TzIydHJOWHhFVXBHTE9vWXU2cjgyRmd3QndwaEh4V3FScURPMmhDbk0ySTZXRlpHTlc5NXZtY0w0WFJ3NC1ndXN4Zk9TZFgteWc5elhzbXRlcW5G?oc=5",
-      "summary": "Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe",
-      "published_at": "2026-11-13T07:38:40Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "1ca42ac82864906200944ced",
+      "title": "【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） - enjoypclife.net",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaFZfQklBaUN5cHRxOVBuZWQtS1AwNVFZS1dCWnNkODFZZkx6MTlvaTVlWVlUYWwzVkdkZkxIM0V1MTJja1YwdFp6dkxQbW54VFRkWnRDS0F1emRFUzlZaTRWWTljTldEZFBRSTBkZnlDLVFaQ2c?oc=5",
+      "summary": "【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） enjoypclife.net",
+      "published_at": "2026-11-14T07:33:22Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "056750f82759cea9112380b1",
@@ -53,13 +64,24 @@
       "score": 8
     },
     {
-      "id": "bcb686d8d16468df438ea7d8",
-      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（要約） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQYw?oc=5",
-      "summary": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（要約） ITmedia",
+      "id": "a81fa4c9efa68981e53178e2",
+      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQY9IBaEFVX3lxTE5vdWdub0l2VUVKbVdla2VNWFM0RDRFMkp6aE9odmNmREhfSzFEREpqamJnTDFBbC1zS3lEaVVBcHVZaFRoc21xVmJud2ZfeVFQVVNzSTJPempxUXZXZXJSMTJLcVlFTl9S?oc=5",
+      "summary": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile ITmedia",
       "published_at": "2026-11-14T04:15:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "ecf3042e103b96af6e0a31e2",
+      "title": "Kenya Ranks Second Globally in Fixed Internet Latency - KenyanVibe",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUw1MlIzazlXMm41OG54eVVwOG5WOE1salJTTlZhanlNcWZZMHhrWGFpZWE5TzIydHJOWHhFVXBHTE9vWXU2cjgyRmd3QndwaEh4V3FScURPMmhDbk0ySTZXRlpHTlc5NXZtY0w0WFJ3NC1ndXN4Zk9TZFgteWc5elhzbXRlcW5G?oc=5",
+      "summary": "Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe",
+      "published_at": "2026-11-13T07:38:40Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
     },
@@ -95,28 +117,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "8ab4fe909ffce6d67f325b01",
-      "title": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 - 日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5",
-      "summary": "NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 日テレNEWS NNN",
-      "published_at": "2026-11-11T14:08:01Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "50c5bb0958628b91b0f2cd42",
-      "title": "\"Lasting resolution\" promised following island’s internet outage - West Coast Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpBT1hHVHdyQ0RhMnRoMjNmUDUtVkxiTVN1empsaVcyZ1hJYWdabllyXzhieTByX3lpeDU2U0VEeFlJV3JaMUYweU9tN19tdmRzQkliWjlpZWxKdjZnUExHTktHcUVYZHVIX05Bekl6STktTlFKQlkwcFhaM2hRclBhOFExLWg1UE9wMl9KbnIxUnEwM0xuWXdBUTdjQld2?oc=5",
-      "summary": "\"Lasting resolution\" promised following island’s internet outage West Coast Today",
-      "published_at": "2026-11-09T12:02:08Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     }
   ]
 }

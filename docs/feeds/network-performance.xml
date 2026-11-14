@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:28:34 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Update: Microsoft offers explanation for day-long Internet outage - Macworld</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5</link>
+      <guid isPermaLink="false">dc5e0e1735164d315d53b5db</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-14 16:48
+Update: Microsoft offers explanation for day-long Internet outage Macworld</description>
+      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T07:48:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working - deeparrival.com</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RSX09XazBJeEFaX0trRmVLUjB0d3RjQnpnVWIySkRfSkhDWDRaWkF4NnpwMmx3a01UZ1hqb1BzZ1BLNGQ1Nm5raGd2c01fYUFZRThRUll1RWJUMDAtaEpLM2tGQzJOTjJmV1UxV3JoMG9VMFZQNnFuQ2hHOHFOM3czaGlSUk52TmdpWUFjMmZVdlRIX3RaWVkweG5HYjhyLXc?oc=5</link>
@@ -36,17 +50,17 @@ Markov-Switching Model Cuts Sensor Network Latency by 44.9% Bioengineer.org</des
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Kenya Ranks Second Globally in Fixed Internet Latency - KenyanVibe</title>
-      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUw1MlIzazlXMm41OG54eVVwOG5WOE1salJTTlZhanlNcWZZMHhrWGFpZWE5TzIydHJOWHhFVXBHTE9vWXU2cjgyRmd3QndwaEh4V3FScURPMmhDbk0ySTZXRlpHTlc5NXZtY0w0WFJ3NC1ndXN4Zk9TZFgteWc5elhzbXRlcW5G?oc=5</link>
-      <guid isPermaLink="false">ecf3042e103b96af6e0a31e2</guid>
+      <title>[性能・障害] 【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） - enjoypclife.net</title>
+      <link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaFZfQklBaUN5cHRxOVBuZWQtS1AwNVFZS1dCWnNkODFZZkx6MTlvaTVlWVlUYWwzVkdkZkxIM0V1MTJja1YwdFp6dkxQbW54VFRkWnRDS0F1emRFUzlZaTRWWTljTldEZFBRSTBkZnlDLVFaQ2c?oc=5</link>
+      <guid isPermaLink="false">1ca42ac82864906200944ced</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-13 16:38
-Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe</description>
-      <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-13T18:29:41.853150Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-13T07:38:40Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-11-14 16:33
+【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） enjoypclife.net</description>
+      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T07:33:22Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -64,17 +78,31 @@ Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe</description>
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（要約） - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQYw?oc=5</link>
-      <guid isPermaLink="false">bcb686d8d16468df438ea7d8</guid>
+      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQY9IBaEFVX3lxTE5vdWdub0l2VUVKbVdla2VNWFM0RDRFMkp6aE9odmNmREhfSzFEREpqamJnTDFBbC1zS3lEaVVBcHVZaFRoc21xVmJud2ZfeVFQVVNzSTJPempxUXZXZXJSMTJLcVlFTl9S?oc=5</link>
+      <guid isPermaLink="false">a81fa4c9efa68981e53178e2</guid>
       <description>種別: 性能・障害
 ソース: Google News JP: network outage
 元記事日付: 2026-11-14 13:15
-ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（要約） ITmedia</description>
-      <pubDate>Sat, 14 Nov 2026 06:13:23 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-14T06:13:23.026398Z</sqm:firstSeenDate>
+ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile ITmedia</description>
+      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-14T04:15:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Kenya Ranks Second Globally in Fixed Internet Latency - KenyanVibe</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMUw1MlIzazlXMm41OG54eVVwOG5WOE1salJTTlZhanlNcWZZMHhrWGFpZWE5TzIydHJOWHhFVXBHTE9vWXU2cjgyRmd3QndwaEh4V3FScURPMmhDbk0ySTZXRlpHTlc5NXZtY0w0WFJ3NC1ndXN4Zk9TZFgteWc5elhzbXRlcW5G?oc=5</link>
+      <guid isPermaLink="false">ecf3042e103b96af6e0a31e2</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-13 16:38
+Kenya Ranks Second Globally in Fixed Internet Latency KenyanVibe</description>
+      <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-13T18:29:41.853150Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-13T07:38:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -116,34 +144,6 @@ Optimum internet outage reported across West Virginia, affecting parts of Ohio a
       <pubDate>Fri, 13 Nov 2026 02:53:50 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-13T02:53:50.102095Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T23:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 - 日テレNEWS NNN</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFk0ZG5aYjZQMzdYQzNNdGI2QmFWSDZQXzVHTFFnZ29NSHlDV3QtOGtJZ2hId28ycVBHMTBhdnhaeW83c3VDU2pPWGZkLWNZdWxPUURsdV9Vdy03d1RuU01rbkk3VmVUN1BRWXVtYzhJSDR5eVdCc01tUjlrejRMSy1tQ2FuOEE?oc=5</link>
-      <guid isPermaLink="false">8ab4fe909ffce6d67f325b01</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-11 23:08
-NTTドコモの通信障害が11日午後7時すぎに復旧 原因は通信回線の許容量を超える「輻輳（ふくそう）」 日テレNEWS NNN</description>
-      <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-13T18:29:41.853150Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-11T14:08:01Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] "Lasting resolution" promised following island’s internet outage - West Coast Today</title>
-      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpBT1hHVHdyQ0RhMnRoMjNmUDUtVkxiTVN1empsaVcyZ1hJYWdabllyXzhieTByX3lpeDU2U0VEeFlJV3JaMUYweU9tN19tdmRzQkliWjlpZWxKdjZnUExHTktHcUVYZHVIX05Bekl6STktTlFKQlkwcFhaM2hRclBhOFExLWg1UE9wMl9KbnIxUnEwM0xuWXdBUTdjQld2?oc=5</link>
-      <guid isPermaLink="false">50c5bb0958628b91b0f2cd42</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-09 21:02
-"Lasting resolution" promised following island’s internet outage West Coast Today</description>
-      <pubDate>Wed, 11 Nov 2026 02:59:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-11T02:59:45.543961Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-09T12:02:08Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

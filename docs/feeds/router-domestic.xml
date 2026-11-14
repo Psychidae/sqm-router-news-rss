@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:28:31 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 - BCN Retail</title>
@@ -78,20 +78,6 @@
       <category>国内ルーター市場</category>
     </item>
     <item>
-      <title>[国内ルーター市場] ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcjBLUTc0aDA5VmVXcXMyQlZVeGJhOGZTeGRyX3ozbVBmQm52dTBrRWtCamoyZzJEZlZ6MC12SjBJNERCMWFUSGI4Wk1sUGNySG1DaHlCblJSOUowR2xMc01NQnN1MWZJV3p2dlF0cw?oc=5</link>
-      <guid isPermaLink="false">fa7b9af61e3ec9191de35db2</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-11-11 18:47
-ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで 24Wireless</description>
-      <pubDate>Fri, 13 Nov 2026 10:53:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-13T10:53:12.304263Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-11T09:47:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
       <title>[国内ルーター市場] エレコム、Wi-Fi 7対応2.5Gbpsルーター2製品を発売 - RBB TODAY</title>
       <link>https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xV2xwbWhwVkNKYjRRVmpISjRELUVKOXUyUklhdExFVGpGRDVSQmtRMFBhQ2EwaklYcjhfMEExZlBXckpzTGpHUmdYQ0ROMmpiMkM0VGlCb1hQTm9HWmtZZ2YzZjVfdw?oc=5</link>
       <guid isPermaLink="false">6c34eb47ee78cc7e07d53f93</guid>
@@ -116,6 +102,20 @@ ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中
       <pubDate>Sat, 14 Nov 2026 06:13:20 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-14T06:13:20.847894Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T03:45:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] エレコム、Wi-Fi 7対応の2.5Gbpsルーター2製品を11月中旬に発売へ - Dellows News</title>
+      <link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE91UU13ZWlST2I3UjBIenh4N1ptOElKeEhMQ3hObUxaYWtNTFFYaFItbllOdXZJNWc0TklwbklmNjFUU1J3THhz?oc=5</link>
+      <guid isPermaLink="false">5c1f7a7a79587382bf6a54e3</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-11-11 12:40
+エレコム、Wi-Fi 7対応の2.5Gbpsルーター2製品を11月中旬に発売へ Dellows News</description>
+      <pubDate>Sat, 14 Nov 2026 13:28:31 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T13:28:31.952447Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-11T03:40:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>

@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 06:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:28:33 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱性を修正／Wi-Fiやブートローダーなどに深刻度HIGHの脆弱性 - 窓の杜</title>
@@ -83,11 +83,11 @@ Intel製品に24件のセキュリティアドバイザリ ～全103件の脆弱
       <guid isPermaLink="false">7d184e7aa3b2734c4d59ee99</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-11-09 16:18
+元記事日付: 2026-11-09 15:20
 SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection GBHackers News</description>
       <pubDate>Fri, 13 Nov 2026 18:29:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-13T18:29:41.034363Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-09T07:18:41Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-09T06:20:55Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
