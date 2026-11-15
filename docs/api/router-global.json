@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-15T09:54:22.654079Z",
+  "generated_at": "2026-11-15T17:03:49.287593Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -17,7 +17,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 16
+      "score": 15
     },
     {
       "id": "dfe8206f0a5844ee12c077c1",
@@ -53,11 +53,11 @@
       "score": 11
     },
     {
-      "id": "2c3843c27e1afe06533cddd0",
-      "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5",
-      "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag",
-      "published_at": "2026-11-06T08:00:00Z",
+      "id": "333f7c1768e514e9b1231772",
+      "title": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag Australia",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk84NXVtUXIxaHo4b04wNWpyTTlCaElCbnJoRDJJdGlEZ21zNHJVWVQtaXRieXozSVp5TjlwS2VyVmdiRVB6VkNhVGpRdVMtYTlpMXhWOThKWUhpcXhFZFNWX2xZX0lCaF9xX0JBOG5IWUlnQ1I3OV9VM3ZHRzE4anN0cUVid0xvUDh6S3JaTE9HMDY3MTlCUUZ1Smw5Qk9iR25sclF4ZDA1WDBKcHJubg?oc=5",
+      "summary": "Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag Australia",
+      "published_at": "2026-11-06T21:41:52Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

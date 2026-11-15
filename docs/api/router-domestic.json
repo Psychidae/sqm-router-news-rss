@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-15T09:54:21.841156Z",
+  "generated_at": "2026-11-15T17:03:48.403681Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oTHB0bHF2dThYSm9HTkN3cW5sMGpPcWo5b2UwWFdYRnhhN0xUUVZ0QzZaVXFGR2kwOE5peUNydmZFZ190U0t3NFR5M3UtWEtuWXZQeVhjczBZbE1oQWF6Sm9LVkI4c2J5VENBbzhWMm1CSlF3bWpXTk1vVVdNMGM?oc=5",
       "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載（BCN） Yahoo!ニュース",
       "published_at": "2026-11-12T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
-    },
-    {
-      "id": "eb64a5cd0f4957982e657344",
-      "title": "【本日みつけたお買い得品】バッファローの10GbE対応Wi-Fi 7ルーターがAmazonスマイルSale中！ - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9razBJQXVNZExUaDJ6cDM1d0IxYi1QQ0x1NnIwMmNGemVqZ1FpaVlvdUNSSGltT3JxWHVPNFI5b1FCNXdmVlh6aDV4WHlLS0liNVRrVURtdDZnbGRoc24waTREYzdZeWUyTUxKcTA3azBGMF8x?oc=5",
-      "summary": "【本日みつけたお買い得品】バッファローの10GbE対応Wi-Fi 7ルーターがAmazonスマイルSale中！ PC Watch",
-      "published_at": "2026-11-10T01:50:12Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -53,11 +42,11 @@
       "score": 11
     },
     {
-      "id": "fa7b9af61e3ec9191de35db2",
-      "title": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで - 24Wireless",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcjBLUTc0aDA5VmVXcXMyQlZVeGJhOGZTeGRyX3ozbVBmQm52dTBrRWtCamoyZzJEZlZ6MC12SjBJNERCMWFUSGI4Wk1sUGNySG1DaHlCblJSOUowR2xMc01NQnN1MWZJV3p2dlF0cw?oc=5",
-      "summary": "ASUSのクリエイター向けWi-Fi 7ルーターが約2.1万円でセール中、AmazonスマイルSaleで11/12まで 24Wireless",
-      "published_at": "2026-11-11T09:47:08Z",
+      "id": "e9b0237f04f336fc49b7ae71",
+      "title": "テレビやゲーム機もAIで保護 Wi-Fi 7対応ルーター2製品、11月中旬発売 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KWXpYVmY0V3pjcUtUcU4xNWlxbG16OTNyNWloY3Q1QWUxZUVrRGFtSzF6WElLOWN1YUVQbEN4aWY5aDQ5LVNnVTZWQWY2eXRUSnZLag?oc=5",
+      "summary": "テレビやゲーム機もAIで保護 Wi-Fi 7対応ルーター2製品、11月中旬発売 ASCII.jp",
+      "published_at": "2026-11-11T03:45:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
@@ -93,6 +82,17 @@
       "published_at": "2026-11-04T22:03:26Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 10
+    },
+    {
+      "id": "bcdd2c88a4980feb83391baf",
+      "title": "Wi-Fi 8はまだ完成していないのに…ASUSがルーターをフライング発売。日本でも買えます（ギズモード・ジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZjRNY1A1MjFMSnVGQllvQmdBRVI2Z25WVkw1Mk10THBxWTV6ZkRObUtQaHQ5enRFZ0tPTTI4YTlWVFA3WThTSWd6YmVwQklDajc0VjZsRmRmZnk0Y2l2WGloVTVUdVZ0cENDb04xMzNXSlJrUy1UcGEtOEY0YXc?oc=5",
+      "summary": "Wi-Fi 8はまだ完成していないのに…ASUSがルーターをフライング発売。日本でも買えます（ギズモード・ジャパン） Yahoo!ニュース",
+      "published_at": "2026-11-04T08:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 10
     }
