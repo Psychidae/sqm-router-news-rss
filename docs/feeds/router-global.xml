@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 17:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:44:32 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware</title>
@@ -64,16 +64,16 @@ We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times</de
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag Australia</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk84NXVtUXIxaHo4b04wNWpyTTlCaElCbnJoRDJJdGlEZ21zNHJVWVQtaXRieXozSVp5TjlwS2VyVmdiRVB6VkNhVGpRdVMtYTlpMXhWOThKWUhpcXhFZFNWX2xZX0lCaF9xX0JBOG5IWUlnQ1I3OV9VM3ZHRzE4anN0cUVid0xvUDh6S3JaTE9HMDY3MTlCUUZ1Smw5Qk9iR25sclF4ZDA1WDBKcHJubg?oc=5</link>
-      <guid isPermaLink="false">333f7c1768e514e9b1231772</guid>
+      <title>[海外ルーターニュース] Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhlWVNLbWs3bm1wQTFMcDZhRVREclpUZXJleGs2Y0JybHpRT3BveTFxMG5hZDk1WXUtcFRvLTFjcUhaZVBrLXpOdkxuQ244NTNqc0ZLNllSWVhHZlpzN21iYm42SGVEMXhTZlNzV3EzTEctWXlncEZCOFFCempqNjdoUW5XLTlTZlllRHBqdmRLOEZPVHdEVEdYalpJWWxx?oc=5</link>
+      <guid isPermaLink="false">2c3843c27e1afe06533cddd0</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-11-07 06:41
-Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag Australia</description>
-      <pubDate>Sun, 15 Nov 2026 17:03:49 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-15T17:03:49.286870Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T21:41:52Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-06 17:00
+Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag</description>
+      <pubDate>Sun, 15 Nov 2026 21:44:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-15T21:44:32.645877Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-06T08:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -106,6 +106,20 @@ TP-Link’s update deadline is the best reason yet to put OpenWrt on your router
       <category>海外ルーターニュース</category>
     </item>
     <item>
+      <title>[海外ルーターニュース] Do You Need A Fiber Internet Connection For Wi-Fi 7 To Matter? - BGR</title>
+      <link>https://news.google.com/rss/articles/CBMigwFBVV95cUxOMF9XNE8zdEZyWGM1ZEtpNE16TlpmR3N4UUhDUkNlOWRuaWZuRlVpNTNvQl9qQTY2TldweUJRcHIyVjdSemIzeEt3RzlrUUxuYTNfb0M2ekY0UFRNSjUxaDJranZ6UXRsd3hRSnhlVkFfNFVTZUltWlJsVGVsWTIwT01xYw?oc=5</link>
+      <guid isPermaLink="false">a5079a414ff262f1e84070d3</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-16 03:47
+Do You Need A Fiber Internet Connection For Wi-Fi 7 To Matter? BGR</description>
+      <pubDate>Sun, 15 Nov 2026 21:44:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-15T21:44:32.645877Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-15T18:47:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
       <title>[海外ルーターニュース] The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times</title>
       <link>https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5</link>
       <guid isPermaLink="false">929aceddb00e82be9fe69445</guid>
@@ -130,20 +144,6 @@ Amazon Eero WiFi 7 router gets best price in five months in early Black Friday d
       <pubDate>Thu, 12 Nov 2026 16:49:42 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-12T16:49:42.021391Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-12T09:30:23Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 - 9to5Toys</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxON2pkZjRtazJhVXBpZmk0aXVJUlRmUVdIVUp4bW4zVHBPNUpDY2NqZllsczZnVVA2bkowdkZHclBtbXEyVFlwMlBKMURwNXl2TkFaY29lcWxlejlVRWV3bDgza25vUkFsTFJWbHNaUlZfS05fcUZQcWtKQ0ktMWxsTG90aU9mU3p4Y011SFItZDBtaDJ6djhzTWdpZk40TVJDN19WaHBjbzZSb1E?oc=5</link>
-      <guid isPermaLink="false">919f36904410f993492a34b3</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-12 04:07
-Amazon’s entire eero Wi-Fi 7 mesh system range is discounted in early Black Friday deals: eero 7, Pro, Max, and more from $140 9to5Toys</description>
-      <pubDate>Thu, 12 Nov 2026 16:49:42 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-12T16:49:42.021391Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-11T19:07:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
