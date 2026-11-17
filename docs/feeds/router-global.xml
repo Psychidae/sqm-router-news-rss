@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 02:26:22 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware</title>
@@ -106,20 +106,6 @@ We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times</de
       <category>海外ルーターニュース</category>
     </item>
     <item>
-      <title>[海外ルーターニュース] Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups - PCMag Australia</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQVk84NXVtUXIxaHo4b04wNWpyTTlCaElCbnJoRDJJdGlEZ21zNHJVWVQtaXRieXozSVp5TjlwS2VyVmdiRVB6VkNhVGpRdVMtYTlpMXhWOThKWUhpcXhFZFNWX2xZX0lCaF9xX0JBOG5IWUlnQ1I3OV9VM3ZHRzE4anN0cUVid0xvUDh6S3JaTE9HMDY3MTlCUUZ1Smw5Qk9iR25sclF4ZDA1WDBKcHJubg?oc=5</link>
-      <guid isPermaLink="false">333f7c1768e514e9b1231772</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-07 06:41
-Starlink Now Offering Wi-Fi 7 'Router 4' for New Residential Plan Sign-Ups PCMag Australia</description>
-      <pubDate>Mon, 16 Nov 2026 18:54:12 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-16T18:54:12.177142Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-06T21:41:52Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
       <title>[海外ルーターニュース] This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker</title>
       <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5</link>
       <guid isPermaLink="false">bac119499e3ada6e2c78d6f1</guid>
@@ -145,6 +131,20 @@ TP-Link’s update deadline is the best reason yet to put OpenWrt on your router
       <sqm:firstSeenDate>2026-11-11T10:49:44.025301Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-07T14:31:17Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] ASUS Routers: Wi-Fi 7, Security, and Network Expansion - Root-Nation.com</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkpqby1FeWlzbllHdnAyVjVnTWtSTWs1eGdYRW1jUnkyRUgycTBWWEttVTNONjVGNVYzd3poM2ZabFF2WjAxcHlUTHlXRHdCZnhJZlNxaDNkZHFPWHA0dnN0QkVJT1F6OXlmRDh2TkxUVmlFOXJnRGdnb2FyNGlLYXlYMmwyaUh4RkUxdm1ZVFVIeldybzl1a0ZR?oc=5</link>
+      <guid isPermaLink="false">8037c074b669df77b3f010b9</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-16 20:47
+ASUS Routers: Wi-Fi 7, Security, and Network Expansion Root-Nation.com</description>
+      <pubDate>Tue, 17 Nov 2026 02:26:22 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T02:26:22.808163Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-16T11:47:57Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>

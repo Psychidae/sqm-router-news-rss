@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-16T18:54:13.746332Z",
+  "generated_at": "2026-11-17T02:26:25.268898Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -14,17 +14,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVEpzdmVYUkJ4ZWw5aURYbngzWEtYOWYwMGxndjNSNm5yUnBPVHB6VTNvX1NSOGkwdExoeldFZ0F0UHhJYlZtaDVkV0M4Z1EzMmJCLU9JdThPZTJzb1ZRMFVzZHRvUVlrVDMyek5GY9IBaEFVX3lxTE9JVzJ3TjhKT01FbUxDNGxpS28tZG9jOFNySjN6NmFBaUc1bWhrQjZBS2xJM0xUTjVXSVRmcG9xWmVNeWVEZ2MwVW9XR3RabWFScFNWa2dKVmpQZmNUc3didXREb3JRZTdS?oc=5",
       "summary": "ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile ITmedia",
       "published_at": "2026-11-16T08:45:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
-      "id": "d89bb7675f33dd3e44c907d4",
-      "title": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害 11月16日10時2分頃に発生【回復】 - ITmedia Mobile - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YWFSZ0txdkFvZDB1aW5RYWQxb2N4aFNEOFR4aUUxRi1TLW9jVUNaQ25sYUdLRnphaGFPQ3BWRUlQdXNSalNjOE8wZkZaZzd1eEpwekZtbHNKV0VYa08zTEwwQTlRSVVuQjF5YUFlZ9IBaEFVX3lxTE53NUptenphQkJ5dThvc0dqYmU4dHNaUkZGQjQyZlA2XzRJUHcyVFdvaW0zOHlWbTVUVkxjNW0wdy1hX25zNlZCU1FRemo1UU8tQ3BHY013aDdsZ2lJbmhLTzZnTklYNy15?oc=5",
-      "summary": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害 11月16日10時2分頃に発生【回復】 - ITmedia Mobile ITmedia",
-      "published_at": "2026-11-16T02:00:00Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
@@ -53,15 +42,15 @@
       "score": 8
     },
     {
-      "id": "728aba52eaf4e1fadcb23e3e",
-      "title": "National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working - deeparrival.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RSX09XazBJeEFaX0trRmVLUjB0d3RjQnpnVWIySkRfSkhDWDRaWkF4NnpwMmx3a01UZ1hqb1BzZ1BLNGQ1Nm5raGd2c01fYUFZRThRUll1RWJUMDAtaEpLM2tGQzJOTjJmV1UxV3JoMG9VMFZQNnFuQ2hHOHFOM3czaGlSUk52TmdpWUFjMmZVdlRIX3RaWVkweG5HYjhyLXc?oc=5",
-      "summary": "National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working deeparrival.com",
-      "published_at": "2026-11-13T23:50:49Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "d89bb7675f33dd3e44c907d4",
+      "title": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害 11月16日10時2分頃に発生【回復】 - ITmedia Mobile - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YWFSZ0txdkFvZDB1aW5RYWQxb2N4aFNEOFR4aUUxRi1TLW9jVUNaQ25sYUdLRnphaGFPQ3BWRUlQdXNSalNjOE8wZkZaZzd1eEpwekZtbHNKV0VYa08zTEwwQTlRSVVuQjF5YUFlZ9IBaEFVX3lxTE53NUptenphQkJ5dThvc0dqYmU4dHNaUkZGQjQyZlA2XzRJUHcyVFdvaW0zOHlWbTVUVkxjNW0wdy1hX25zNlZCU1FRemo1UU8tQ3BHY013aDdsZ2lJbmhLTzZnTklYNy15?oc=5",
+      "summary": "ドコモの「5G SA」携帯電話回線で全国規模の通信障害 11月16日10時2分頃に発生【回復】 - ITmedia Mobile ITmedia",
+      "published_at": "2026-11-16T02:00:00Z",
+      "source": "Google News JP: network outage",
+      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "e869b51e3e6b7649923d2e14",
@@ -75,21 +64,10 @@
       "score": 7
     },
     {
-      "id": "1ca42ac82864906200944ced",
-      "title": "【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） - enjoypclife.net",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxaFZfQklBaUN5cHRxOVBuZWQtS1AwNVFZS1dCWnNkODFZZkx6MTlvaTVlWVlUYWwzVkdkZkxIM0V1MTJja1YwdFp6dkxQbW54VFRkWnRDS0F1emRFUzlZaTRWWTljTldEZFBRSTBkZnlDLVFaQ2c?oc=5",
-      "summary": "【Microsoft 365】大規模通信障害が全面復旧、原因はネットワーク容量の増強に伴う問題（11月14日更新） enjoypclife.net",
-      "published_at": "2026-11-14T07:33:22Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "056750f82759cea9112380b1",
-      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5",
-      "summary": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） Yahoo!ニュース",
+      "id": "2d6530f1752d295bd1919b88",
+      "title": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzb2xJMEZnUC1Ick9wUzdJQktCeVd6eUUyVzRxMmxzckNxVXpwT3l5Z05veHZmTDkxRDRxY3JfT29Sd0g0Q3BZTHpxYVdhZkFSTzBVOHV3eEVGVGJyXzZuMWdkS2JDR2ZaSmQ3R1hWZznSAXZBVV95cUxPeUgzaFA5eFkwa2FWMnpFTGd0d0R6UjN2S3B0U3NTTk9wa2RQazgxLVhmMlUzY0gyRnJJWnN1Sm5xeHJHM0l0ellkLXdaWFpRZVJpNGJRM0I0Y2t0dUxMdFhsV2VsQkM3OXRNS3BSYlRDVk11NnZB?oc=5",
+      "summary": "ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？ Infoseek",
       "published_at": "2026-11-14T04:25:08Z",
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -108,11 +86,33 @@
       "score": 7
     },
     {
+      "id": "728aba52eaf4e1fadcb23e3e",
+      "title": "National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working - deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1RSX09XazBJeEFaX0trRmVLUjB0d3RjQnpnVWIySkRfSkhDWDRaWkF4NnpwMmx3a01UZ1hqb1BzZ1BLNGQ1Nm5raGd2c01fYUFZRThRUll1RWJUMDAtaEpLM2tGQzJOTjJmV1UxV3JoMG9VMFZQNnFuQ2hHOHFOM3czaGlSUk52TmdpWUFjMmZVdlRIX3RaWVkweG5HYjhyLXc?oc=5",
+      "summary": "National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working deeparrival.com",
+      "published_at": "2026-11-13T23:50:49Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
       "id": "76effe63119cddd5f156693d",
       "title": "Optimum Internet Outage Ends in West Virginia After Network Damage - JournalArta",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb01tTnJOaGZWMGlleEctWlVoZHNWcHJMcGphTC05TlJsbERUYzU0dllhWTNZaVdLdEIzcEk2b3BvcHlxNFNYWFdXZnpyRDRIUUI0bFotNHVlTzRuWmU3YXRrc0k5MTluVFNNcV9KandnNzBXa2pTWmU4WEUyWWpCWVhOajJ6WU9hNkl2TUd3?oc=5",
       "summary": "Optimum Internet Outage Ends in West Virginia After Network Damage JournalArta",
       "published_at": "2026-11-12T19:44:04Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "12299ac57811580061b31e29",
+      "title": "Kenya outperforms US, UK and South Africa in fixed internet latency ranking - Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkR6a1FCSW5tS1NFQjRMbVpVeDQxRmtZQ0xPRVNQSzBDN2hyd08tRkhUejVKZW1qYnhHWGZqOGhrT2hMUUVEQkpOMFAzaFVreFg3ZGNfWEx4OVFUbFFmREpXRXh3MndqYjFYVmM0SjdyeFZBNUNiNDVkbXM1bFpiNms0RTNKSEYyeGt0UVF1S2ZLZ1pIV2h5M1hHVDJjZUpJYVE?oc=5",
+      "summary": "Kenya outperforms US, UK and South Africa in fixed internet latency ranking Capital FM Africa",
+      "published_at": "2026-11-12T07:14:09Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",

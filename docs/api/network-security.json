@@ -1,12 +1,14 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-16T18:54:12.966355Z",
+  "generated_at": "2026-11-17T02:26:24.022890Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 4,
-  "errors": [],
+  "count": 5,
+  "errors": [
+    "Google News Global: router security: HTTP Error 429: Too Many Requests"
+  ],
   "items": [
     {
       "id": "6bf9c139d1599557bfd74b59",
@@ -40,6 +42,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
+    },
+    {
+      "id": "b333d5c4223b426fd7822979",
+      "title": "政府の「サイバーセキュリティ緊急対策パッケージ」についての記事などに注目が集まる【アクセスランキング】 - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44QVNKMXB1NjJzc2ZaUUtmV1F2YWxqUlc3eTNNQ0h1RkNVMVN4SWIyVmFjYkY2dXZmREJ5SERwRGRYY0dObW1razRITExFRHFzSnVfNTlBUXk1dkI4RmZKNFUxMGE2M2VKWkxWTm9tbHBIVkxVY2c?oc=5",
+      "summary": "政府の「サイバーセキュリティ緊急対策パッケージ」についての記事などに注目が集まる【アクセスランキング】 INTERNET Watch",
+      "published_at": "2026-11-16T21:55:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 8
     },
     {
       "id": "77371e2a05b3fee02b5a51f9",
