@@ -5,22 +5,8 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 02:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:07:40 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
-    <item>
-      <title>[性能・障害] ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVEpzdmVYUkJ4ZWw5aURYbngzWEtYOWYwMGxndjNSNm5yUnBPVHB6VTNvX1NSOGkwdExoeldFZ0F0UHhJYlZtaDVkV0M4Z1EzMmJCLU9JdThPZTJzb1ZRMFVzZHRvUVlrVDMyek5GY9IBaEFVX3lxTE9JVzJ3TjhKT01FbUxDNGxpS28tZG9jOFNySjN6NmFBaUc1bWhrQjZBS2xJM0xUTjVXSVRmcG9xWmVNeWVEZ2MwVW9XR3RabWFScFNWa2dKVmpQZmNUc3didXREb3JRZTdS?oc=5</link>
-      <guid isPermaLink="false">99c38f316e22d8135a40efb1</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-16 17:45
-ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile ITmedia</description>
-      <pubDate>Mon, 16 Nov 2026 18:54:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-16T18:54:13.745425Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-16T08:45:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
     <item>
       <title>[性能・障害] After 4th internet outage this year, some northwest B.C. customers will get credits - CBC</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2E5TmNSaXNfaFE1WlNTQVhIVGRDMzFUd1JDVFZveUpqZ1NfR3R5cnBiaUdMU2VFVUxTNDEzSU81aDhzQzh2TWJvNUxwU0k5QVI0Q0xyc25vMFhkc2NsUTVhRUR4bXFXSDVuTHRzSkNENEg5cmlDOE1HWTNzTE96djN3TlhnbDNsY2l6eEJEVlY?oc=5</link>
@@ -36,17 +22,17 @@ After 4th internet outage this year, some northwest B.C. customers will get cred
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Update: Microsoft offers explanation for day-long Internet outage - Macworld</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5</link>
-      <guid isPermaLink="false">dc5e0e1735164d315d53b5db</guid>
+      <title>[性能・障害] ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5MVEpzdmVYUkJ4ZWw5aURYbngzWEtYOWYwMGxndjNSNm5yUnBPVHB6VTNvX1NSOGkwdExoeldFZ0F0UHhJYlZtaDVkV0M4Z1EzMmJCLU9JdThPZTJzb1ZRMFVzZHRvUVlrVDMyek5GY9IBaEFVX3lxTE9JVzJ3TjhKT01FbUxDNGxpS28tZG9jOFNySjN6NmFBaUc1bWhrQjZBS2xJM0xUTjVXSVRmcG9xWmVNeWVEZ2MwVW9XR3RabWFScFNWa2dKVmpQZmNUc3didXREb3JRZTdS?oc=5</link>
+      <guid isPermaLink="false">99c38f316e22d8135a40efb1</guid>
       <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-14 16:48
-Update: Microsoft offers explanation for day-long Internet outage Macworld</description>
-      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T07:48:50Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+ソース: Google News JP: network outage
+元記事日付: 2026-11-16 17:45
+ドコモの「5G SA」通信障害は15時58分に回復 一時的に設定変更した人は元に戻したか確認を - ITmedia Mobile ITmedia</description>
+      <pubDate>Mon, 16 Nov 2026 18:54:13 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-16T18:54:13.745425Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-16T08:45:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -60,6 +46,20 @@ Update: Microsoft offers explanation for day-long Internet outage Macworld</desc
       <pubDate>Mon, 16 Nov 2026 18:54:13 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-16T18:54:13.745425Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-16T02:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] NTTドコモで全国通信障害、5G SAで今月3度目 復旧見通しは未定 - BigGo ファイナンス</title>
+      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE8zamwxYjZNaFpJX1o2UnZnMktoYXpwczEzN2Y1c1ktSnc0QUR1ZlB1anI2UmdEMXdTYVdObmROUC1CSmNHdW5FMjJ1ZzdiVlo5SnRVNTNTUUNQdjdPb0hhaFQ3dGtIcWVHV3ZBNDlvLWVmUldY?oc=5</link>
+      <guid isPermaLink="false">3c7b17ef86a4536e748c46a3</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-16 10:56
+NTTドコモで全国通信障害、5G SAで今月3度目 復旧見通しは未定 BigGo ファイナンス</description>
+      <pubDate>Tue, 17 Nov 2026 11:07:40 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T11:07:40.870057Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-16T01:56:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
@@ -78,31 +78,17 @@ Windows 11の初期セットアップがIPv6のみのネットワークで進め
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？ - Infoseek</title>
-      <link>https://news.google.com/rss/articles/CBMicEFVX3lxTFBzb2xJMEZnUC1Ick9wUzdJQktCeVd6eUUyVzRxMmxzckNxVXpwT3l5Z05veHZmTDkxRDRxY3JfT29Sd0g0Q3BZTHpxYVdhZkFSTzBVOHV3eEVGVGJyXzZuMWdkS2JDR2ZaSmQ3R1hWZznSAXZBVV95cUxPeUgzaFA5eFkwa2FWMnpFTGd0d0R6UjN2S3B0U3NTTk9wa2RQazgxLVhmMlUzY0gyRnJJWnN1Sm5xeHJHM0l0ellkLXdaWFpRZVJpNGJRM0I0Y2t0dUxMdFhsV2VsQkM3OXRNS3BSYlRDVk11NnZB?oc=5</link>
-      <guid isPermaLink="false">2d6530f1752d295bd1919b88</guid>
+      <title>[性能・障害] Update: Microsoft offers explanation for day-long Internet outage - Macworld</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5</link>
+      <guid isPermaLink="false">dc5e0e1735164d315d53b5db</guid>
       <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-14 13:25
-ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？ Infoseek</description>
-      <pubDate>Tue, 17 Nov 2026 02:26:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-17T02:26:25.268226Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T04:25:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile - ITmedia</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQY9IBaEFVX3lxTE5vdWdub0l2VUVKbVdla2VNWFM0RDRFMkp6aE9odmNmREhfSzFEREpqamJnTDFBbC1zS3lEaVVBcHVZaFRoc21xVmJud2ZfeVFQVVNzSTJPempxUXZXZXJSMTJLcVlFTl9S?oc=5</link>
-      <guid isPermaLink="false">a81fa4c9efa68981e53178e2</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-14 13:15
-ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile ITmedia</description>
+ソース: Google News Global: network performance
+元記事日付: 2026-11-14 16:48
+Update: Microsoft offers explanation for day-long Internet outage Macworld</description>
       <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T04:15:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <sqm:sourcePublishedDate>2026-11-14T07:48:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -120,20 +106,6 @@ National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working d
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Optimum Internet Outage Ends in West Virginia After Network Damage - JournalArta</title>
-      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPb01tTnJOaGZWMGlleEctWlVoZHNWcHJMcGphTC05TlJsbERUYzU0dllhWTNZaVdLdEIzcEk2b3BvcHlxNFNYWFdXZnpyRDRIUUI0bFotNHVlTzRuWmU3YXRrc0k5MTluVFNNcV9KandnNzBXa2pTWmU4WEUyWWpCWVhOajJ6WU9hNkl2TUd3?oc=5</link>
-      <guid isPermaLink="false">76effe63119cddd5f156693d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-13 04:44
-Optimum Internet Outage Ends in West Virginia After Network Damage JournalArta</description>
-      <pubDate>Mon, 16 Nov 2026 18:54:13 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-16T18:54:13.745425Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-12T19:44:04Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Kenya outperforms US, UK and South Africa in fixed internet latency ranking - Capital FM Africa</title>
       <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkR6a1FCSW5tS1NFQjRMbVpVeDQxRmtZQ0xPRVNQSzBDN2hyd08tRkhUejVKZW1qYnhHWGZqOGhrT2hMUUVEQkpOMFAzaFVreFg3ZGNfWEx4OVFUbFFmREpXRXh3MndqYjFYVmM0SjdyeFZBNUNiNDVkbXM1bFpiNms0RTNKSEYyeGt0UVF1S2ZLZ1pIV2h5M1hHVDJjZUpJYVE?oc=5</link>
       <guid isPermaLink="false">12299ac57811580061b31e29</guid>
@@ -145,6 +117,34 @@ Kenya outperforms US, UK and South Africa in fixed internet latency ranking Capi
       <sqm:firstSeenDate>2026-11-17T02:26:25.268226Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-12T07:14:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5</link>
+      <guid isPermaLink="false">056750f82759cea9112380b1</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-14 13:25
+ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） Yahoo!ニュース</description>
+      <pubDate>Tue, 17 Nov 2026 11:07:40 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T11:07:40.870057Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T04:25:08Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile - ITmedia</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRDdVNFFFa0cwamxIWjFrZGpuYWVaR0ZsV2wtOF9DM0hmZ0tCSGlmYnV4NTgxbGF0a0tCVWxEdURLaWpoMzNMZkJyUlJ4RE1XdmcwX3hVSkQ3dHNyYkd2VndaSGFwdEVuS2xydENQY9IBaEFVX3lxTE5vdWdub0l2VUVKbVdla2VNWFM0RDRFMkp6aE9odmNmREhfSzFEREpqamJnTDFBbC1zS3lEaVVBcHVZaFRoc21xVmJud2ZfeVFQVVNzSTJPempxUXZXZXJSMTJLcVlFTl9S?oc=5</link>
+      <guid isPermaLink="false">a81fa4c9efa68981e53178e2</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-14 13:15
+ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？：Mobile Weekly Top10 - ITmedia Mobile ITmedia</description>
+      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T04:15:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
