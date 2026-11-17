@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-17T11:07:39.258258Z",
+  "generated_at": "2026-11-17T19:48:48.441936Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -9,15 +9,26 @@
   "errors": [],
   "items": [
     {
-      "id": "d73e4ad2b1eebb035bf44b2f",
-      "title": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkZnMV9IV212MXFBQTJ1ZXVnTWxjcF9fTVYycHRfRFg2R25keE4zQ3hVeUxBcGtUQmQ3OGx1VTNyaFVYa0xPNG9aRmVwamhUUzBRYTh5cEc3cVA5R0dNT3c5ZjlFeTVIeGpxUUlocmEtcTNLMmlUaktBZU9QSVNibjhsZUZLS3lQSlg4bks4dG9oZ01VWk9J?oc=5",
-      "summary": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals HotHardware",
-      "published_at": "2026-11-08T12:14:00Z",
+      "id": "741f04cdf0886a26f9d048dc",
+      "title": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZDamdjbUZNUGlyc0dsSG9uTnE2UU5XelVzMnlHU2p4aDFZd0d6UkJqUzBUSDM0UTFRNmZXRllMcFVpWlRNdXBiSVpGNGhlWDl4YnhaVzhnQnBRQjJMOGVzWUZZVmcxSjgtTU5LbmpVU3NUT1E0SXdLRUtYbUNqVi0zSmRzZEtmSFpxTHNYdENxeTNFRWEzWExqMzIxWmM?oc=5",
+      "summary": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. The Verge",
+      "published_at": "2026-11-17T17:20:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "f2ea7a35dce513ce8c87f642",
+      "title": "Huawei built a Wi-Fi 7 router that hides on a bookshelf - The Gadgeteer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaktrbk9DeEJlMkRKbEpzSlZsbUFVV2hBTUN5anlJMHdtUFdWNGIyQlczTnJlTnpMVFpZWUJuSk9HXzdoeE9vNVBsaHJhSkdWdXc3ZFB1N3k1UDlrWHFpOFZuNDlyVmMtbTZPQmNLVF95SExvVzRzZUlha2ozUnhjeC1KYnhDaTlEejI5VzdWWWo0WFA4MGtVSw?oc=5",
+      "summary": "Huawei built a Wi-Fi 7 router that hides on a bookshelf The Gadgeteer",
+      "published_at": "2026-11-17T13:51:59Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
     },
     {
       "id": "5978939ccf38141b3b21107d",
@@ -86,17 +97,6 @@
       "score": 12
     },
     {
-      "id": "d5e640547d2d6fd75dbb1023",
-      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
-      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
-      "published_at": "2026-11-10T17:06:36Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 11
-    },
-    {
       "id": "bac119499e3ada6e2c78d6f1",
       "title": "This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal - Lifehacker",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjJJMWhCLXBDU0lDalZzNm5QYjZUZU82UnR5LXJBZmlneHR2OWp0WERWUHJUbGRBc1NMU09vN09RRm93ZS1aRGkwcldwY2FabVpNdE5zZ1dWN2Mwc0NyX0VpNklvcnJDa1BGY1RhdmpzOXBxVmhxa0JUcHBVTW1fVkVXWlU?oc=5",
@@ -108,11 +108,11 @@
       "score": 11
     },
     {
-      "id": "dae37a542b059bc44e58b884",
-      "title": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router - MakeUseOf",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0lrSzZBVFZpWS0tWHg1M0NkY0VWY281aUd0V1hralp2YVMzMlF6M0NUWldGT3A2Wk5uWVgyc0tIaUNMNVh3bXBQckNBM0lheEZMcVlja2NjbkdTSlFQTE13ckFRMzF6QkFldC1ReV84R1cxMmpCYkljRkN3ZS16UzVhb1JUMDJzOWV0elE3ZzRMSnJOdDBLM2FBTQ?oc=5",
-      "summary": "TP-Link’s update deadline is the best reason yet to put OpenWrt on your router MakeUseOf",
-      "published_at": "2026-11-07T14:31:17Z",
+      "id": "d5e640547d2d6fd75dbb1023",
+      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
+      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
+      "published_at": "2026-11-10T17:06:36Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

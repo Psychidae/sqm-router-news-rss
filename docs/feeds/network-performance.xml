@@ -5,19 +5,33 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:48:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] After 4th internet outage this year, some northwest B.C. customers will get credits - CBC</title>
-      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2E5TmNSaXNfaFE1WlNTQVhIVGRDMzFUd1JDVFZveUpqZ1NfR3R5cnBiaUdMU2VFVUxTNDEzSU81aDhzQzh2TWJvNUxwU0k5QVI0Q0xyc25vMFhkc2NsUTVhRUR4bXFXSDVuTHRzSkNENEg5cmlDOE1HWTNzTE96djN3TlhnbDNsY2l6eEJEVlY?oc=5</link>
-      <guid isPermaLink="false">2097c086e2281eeb45a4d798</guid>
+      <title>[性能・障害] What caused the internet outage in Russia? - Latest news from Azerbaijan</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1DTHNFUjhzUUN0VmpCSVdJQ0hGcFlPakFPZjdxMWw0bGlCbUNYaVlOZDZsQjcxaEtFY2ZJWF9aOE0xSEZ3bFJld3pyTXFDd3lsbmtJUlhBV29fUWtWSTh1WURValJYS1AzZmtJZm90VQ?oc=5</link>
+      <guid isPermaLink="false">ee383d8141ab504f89b9b292</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-11-14 22:00
-After 4th internet outage this year, some northwest B.C. customers will get credits CBC</description>
-      <pubDate>Sat, 14 Nov 2026 22:57:07 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-14T22:57:07.758530Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T13:00:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-17 22:20
+What caused the internet outage in Russia? Latest news from Azerbaijan</description>
+      <pubDate>Tue, 17 Nov 2026 19:48:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T19:48:50.308681Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-17T13:20:50Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Internet outage reported in Russia - Apa.az</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1XZTBVUTk0N2lxR3pSVmxGWFdOMURlU3NJNXJoU0Zpbzk2bU5xZ1BVcTJfaUtPNWRwcnBMWFpIbnE1dlc3SGZhU0ZMaFBvTzZzU3lDdVpidUR6SXh4dUtYaExDY2RMVmdwQnhRSWM2N24zTG41SU5qZkxoWXZTZw?oc=5</link>
+      <guid isPermaLink="false">d3c8d67dc8193f42f86bc0e3</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-17 20:47
+Internet outage reported in Russia Apa.az</description>
+      <pubDate>Tue, 17 Nov 2026 19:48:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T19:48:50.308681Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-17T11:47:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -78,16 +92,16 @@ Windows 11の初期セットアップがIPv6のみのネットワークで進め
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Update: Microsoft offers explanation for day-long Internet outage - Macworld</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3l5UDgyQVdJakN1MThJd0xNMk5mcUw1RHdHaWEzWkFiOWpJcGR0ZHZ3YjhWaVNOMlpnUGpldUpLekdvcjR6SExicTJJS0pIWFFxQ2kxWUJZTWdzcEhmQ010cDB3NUFBSzVDcHR1QW9oOS1kWnI0QU1kOUJjSEFMdm9paUJhd2lvVHFOS24zTXdkemxhNWhrc1FGSEJXbnJQTklv?oc=5</link>
-      <guid isPermaLink="false">dc5e0e1735164d315d53b5db</guid>
+      <title>[性能・障害] After 4th internet outage this year, some northwest B.C. customers will get credits - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2E5TmNSaXNfaFE1WlNTQVhIVGRDMzFUd1JDVFZveUpqZ1NfR3R5cnBiaUdMU2VFVUxTNDEzSU81aDhzQzh2TWJvNUxwU0k5QVI0Q0xyc25vMFhkc2NsUTVhRUR4bXFXSDVuTHRzSkNENEg5cmlDOE1HWTNzTE96djN3TlhnbDNsY2l6eEJEVlY?oc=5</link>
+      <guid isPermaLink="false">2097c086e2281eeb45a4d798</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-11-14 16:48
-Update: Microsoft offers explanation for day-long Internet outage Macworld</description>
-      <pubDate>Sat, 14 Nov 2026 13:28:34 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-14T13:28:34.313520Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T07:48:50Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-14 22:00
+After 4th internet outage this year, some northwest B.C. customers will get credits CBC</description>
+      <pubDate>Sat, 14 Nov 2026 22:57:07 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-14T22:57:07.758530Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-14T13:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -102,20 +116,6 @@ National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working d
       <pubDate>Sat, 14 Nov 2026 06:13:23 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-14T06:13:23.026398Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-13T23:50:49Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Kenya outperforms US, UK and South Africa in fixed internet latency ranking - Capital FM Africa</title>
-      <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxPQkR6a1FCSW5tS1NFQjRMbVpVeDQxRmtZQ0xPRVNQSzBDN2hyd08tRkhUejVKZW1qYnhHWGZqOGhrT2hMUUVEQkpOMFAzaFVreFg3ZGNfWEx4OVFUbFFmREpXRXh3MndqYjFYVmM0SjdyeFZBNUNiNDVkbXM1bFpiNms0RTNKSEYyeGt0UVF1S2ZLZ1pIV2h5M1hHVDJjZUpJYVE?oc=5</link>
-      <guid isPermaLink="false">12299ac57811580061b31e29</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-12 16:14
-Kenya outperforms US, UK and South Africa in fixed internet latency ranking Capital FM Africa</description>
-      <pubDate>Tue, 17 Nov 2026 02:26:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-17T02:26:25.268226Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-12T07:14:09Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
