@@ -1,122 +1,25 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-18T02:23:45.085627Z",
+  "generated_at": "2026-11-18T10:43:23.846170Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
-  "errors": [],
+  "count": 1,
+  "errors": [
+    "Google News JP: network security: HTTP Error 429: Too Many Requests"
+  ],
   "items": [
     {
-      "id": "9d653a93376b5e34d693a9fe",
-      "title": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - UQライフ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLURmUGZNMzZEMS1RWENfaG96TzdIWHEzSUdGQmI4Y1dWNFVKcUxsNFRmMlBGYWFCTzgzVXRJLUUwNGlrYkRXWkJlNlAyRE44UTBWaS04NVRYbm1mN2p5Z0pJWWJvWC1yWWpJUERUUVpsdGJUTUp3UkpYTXhRSWstTQ?oc=5",
-      "summary": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を UQライフ",
-      "published_at": "2026-11-17T10:33:58Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "02a939fe4a20e1011c054492",
+      "title": "Security Advisory: Active Exploitation of PHP2Shell and Local Privilege Escalation - Check Point Blog",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMVRSZV9wa3p6MG1sYmZOd3pKQWJSb2FMQlpiZXJKSXJxQy1LWGtOVGl6VmhrOFZqSURnMGJJb3VzeXV3UXlGY1AtTk1veDA5VllIRC1ORnh0WEdZejB1a3Q5LWNwWVdaZXBzeVNDV3NnZmExWVFPVVVBZmZ0R1htR3JaN3RZTXVDTV9VN1k4eTVWc3Jra3E2RExLN1E3bG5wWllJWGU0a3pRYk5fRzQwRUFwNVJzWjg2WVQ4?oc=5",
+      "summary": "Security Advisory: Active Exploitation of PHP2Shell and Local Privilege Escalation Check Point Blog",
+      "published_at": "2026-11-12T06:58:03Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "7a58fa2e1bb9bb5aa200a53d",
-      "title": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - CNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ySVhmUWJyaXJ1V3A1aU91UGZoWFZrYmN1QWVBNHVsVzAtLVA2Qlg3MldEclZfR0d4YzFtVnZlaVFEYURYZEFNckxhbzJKdUctUmc?oc=5",
-      "summary": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を CNET Japan",
-      "published_at": "2026-11-17T09:10:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "3fcb218a8f9bf26d4fafd432",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUnFVVkhGX2ctVXEzTWJyRF8td3VwWnVzSjA0Z2hWeDhyNHIzWEJuV29tcVhmTkZna01taW82aWFQOGxnN2tJeWMtYXctWXZfa0FHMXRqLU9Ga3JXdWhKNDNFZ3EyOHdXTDRpVkhKbmRHMkppUUdGRDViYmU?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 Excite エキサイト",
-      "published_at": "2026-11-17T08:08:27Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "71be1924e0995698cbcff0c5",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNy11ZXVmbXdfNVRzd3FCUngtdmRZeW1zczVacTVua241bjdIZ1NtcnRFRUxLeHZ6WlRscUhhOTAxOWlSLUxPR0NMN0NyX01qdjB6OV9tR0NrdGtCcjA0?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 千葉テレビ放送",
-      "published_at": "2026-11-17T07:41:37Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "81ac9eac0e6c8c29c4bf9d89",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zNnp1ZGJCX044S1J1RHV3QTZwQWwxZmNSMkxRSUJjNVhtSldzVWFCS0xXdDhPRndKa1Vrb0lGdzVXVkU3STlqZU9sOFhsTVF3TjNXNXRXVGxVZ09sRnB1X2NCNC1ZaW15TEZJ?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を INTERNET Watch",
-      "published_at": "2026-11-17T07:25:53Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "c7beb2c2ed1f6a8d280f9ce9",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUmhYX01wd2Y0bGw4eW5vZnU4TlZoV3lLeTVvVEZfUDJaRXFpdEhUNXczcGlEc2J6RTN1bDBBSXU1d1BZZlpTOXRfUnY4dGNQSU8weTczd1gxdmw1VmRCdHZzeF8ydmdo?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ニコニコニュース",
-      "published_at": "2026-11-17T06:42:11Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "342f97e3f687f17333795a7f",
-      "title": "エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWpPcS11QjJ3ajRpcFNlcVpNYVdTaTEtc3RjeVkxeWoxMVZTNmhYaXpYeUdXOG1RRUItM2JLdlVlUW9kR3ItSUV3Ykgybi14S29tZjU2UkJ3aG1WM2RUdHk4RDJmZXBON3N1NTZ6VlRSeVRP?oc=5",
-      "summary": "エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 BigGo ファイナンス",
-      "published_at": "2026-11-17T06:25:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "f7aa8da5560dd4d33004cdf6",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LNVZZcVlFaU5sZFplZkQ2NC1GcWdkVFNtNWRBMnZkSUVpNkVycEN6N0ZnQXM4QkpSTU1TaEJSbVBZM0R5ZE5qOFR1azByWDFwYkFUUDhjeXkxRXFpZFc5UVN3?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 Infoseek",
-      "published_at": "2026-11-17T06:20:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "a905fcf6cb7b4cae1b7744ed",
-      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN3pXMVZGSTliNmpwWGRfbFpWRHU1UmI0X21Wekd3ZUxYTnVBVDRRcU1mc2NLNHVUVno0VVNSNTlITHY0MXhZYXR3eE1ZS1VMeVVTblBSSkVHNDRCV1ZUZWlZcWd0VUYwLVFXTUtZZlpRemM?oc=5",
-      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ニコニコニュース",
-      "published_at": "2026-11-17T06:12:03Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
-    },
-    {
-      "id": "e4649f80c49dce26a89cf708",
-      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5VF9wZ3JWY1hFbHVFTDAxZTdtWkJMdUIzb2ZvRVJ2YTRZbTk2TjYyaTVFemZjdnN0aVlQQnJWUG14NU5McVZ2Z3JjdVQyazlYcldmTQ?oc=5",
-      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ASCII.jp",
-      "published_at": "2026-11-17T06:05:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 13
+      "score": 7
     }
   ]
 }

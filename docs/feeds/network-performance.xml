@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 02:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:43:24 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Should you change your password after an internet outage? - NBC Los Angeles</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0NYU1UyTjdUaTFzajQwNzJTbDFOLTdLNmEzbFFsV0NrOVRVNEtadWw3ZVlmOHZnQXRsbHhSclRHbHY5Slo0czZ6Qk1tOE9RaG1tenpfQlI5bHd2cHVmYmYta0JIZVQ0OGFZUXIxWWdDdXluRHo0Yjl0Q3BWOGstQXBUc291OFRVV3VNekhHakhqZlNFYmNveXVVandzanZOWE1PdEJfdjBDQW9FVmVB0gG3AUFVX3lxTE4yZ2I5OXc5ajNjaGlDcjdwOXE3cWJ2S29feDk1QmQxVDlyX041YzVvcHNKSzduUTJRd1NHU3ZEQVktQWVwVFktN3BvUmZIcVRRYjlTRW05M1hZNXN0ZzdLVkR1MEpBeTJ0ZFRWT1NhZXFVYV9PQTFpeldXSm5RaEVHS2xMQWZSQnR1QWJrNE9wa01FUTY3dlgxWFcyUmRrUVJyUjR6S1hMYlU5dVJDWDBFSGFHWm1rcw?oc=5</link>
+      <guid isPermaLink="false">f93f463f2b6da4fc7b6b962f</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-17 23:55
+Should you change your password after an internet outage? NBC Los Angeles</description>
+      <pubDate>Wed, 18 Nov 2026 10:43:24 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-18T10:43:24.647614Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-17T14:55:53Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] What caused the internet outage in Russia? - Latest news from Azerbaijan</title>
       <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE1DTHNFUjhzUUN0VmpCSVdJQ0hGcFlPakFPZjdxMWw0bGlCbUNYaVlOZDZsQjcxaEtFY2ZJWF9aOE0xSEZ3bFJld3pyTXFDd3lsbmtJUlhBV29fUWtWSTh1WURValJYS1AzZmtJZm90VQ?oc=5</link>
@@ -78,20 +92,6 @@ NTTドコモで全国通信障害、5G SAで今月3度目 復旧見通しは未�
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] Windows 11の初期セットアップがIPv6のみのネットワークで進めず。MicrosoftはIPv4必須と説明せず - GAZLOG</title>
-      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzTGs4dzl2OGNzbVJ1LWdNbGhBcWxZdk5WN2t3QkFkbjZiR3R6djg0M1hfZWN3QmY1eTBlZ1FiM2JOSkpYTXM1RmttbzQwSTVXTUM1RWxSNll0WDFfMG5CMg?oc=5</link>
-      <guid isPermaLink="false">e869b51e3e6b7649923d2e14</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-15 17:40
-Windows 11の初期セットアップがIPv6のみのネットワークで進めず。MicrosoftはIPv4必須と説明せず GAZLOG</description>
-      <pubDate>Sun, 15 Nov 2026 09:54:24 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-15T09:54:24.252715Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-15T08:40:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] After 4th internet outage this year, some northwest B.C. customers will get credits - CBC</title>
       <link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2E5TmNSaXNfaFE1WlNTQVhIVGRDMzFUd1JDVFZveUpqZ1NfR3R5cnBiaUdMU2VFVUxTNDEzSU81aDhzQzh2TWJvNUxwU0k5QVI0Q0xyc25vMFhkc2NsUTVhRUR4bXFXSDVuTHRzSkNENEg5cmlDOE1HWTNzTE96djN3TlhnbDNsY2l6eEJEVlY?oc=5</link>
       <guid isPermaLink="false">2097c086e2281eeb45a4d798</guid>
@@ -117,20 +117,6 @@ National Weather Service Hit by Internet Outage Nov. 13 as Radar Keeps Working d
       <sqm:firstSeenDate>2026-11-14T06:13:23.026398Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-13T23:50:49Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） - Yahoo!ニュース</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9PdGZpV29UQXA4RFpxbnJaa2s1MjBlOXBUQjVyRDhpUm0ydVpkT0JjSXFyZFlmdGtiM2xEUDRQZVlhZldlRVkxOHhadXZQdUFJUnFjcGM3UUpNRWVvcm90SHFOZy1PNi05YWNZcVk3Y3hmNDQ5SThtY0pxQTBhaVU?oc=5</link>
-      <guid isPermaLink="false">056750f82759cea9112380b1</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-14 13:25
-ドコモの通信障害で影響を受けた「5G SA」回線数は5Gユーザーの3～4％ 思ったよりも少ない？ 多い？（ITmedia Mobile） Yahoo!ニュース</description>
-      <pubDate>Tue, 17 Nov 2026 11:07:40 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-17T11:07:40.870057Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-14T04:25:08Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
   </channel>
