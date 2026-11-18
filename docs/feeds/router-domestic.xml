@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:23:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 - BCN Retail</title>
@@ -18,6 +18,20 @@
       <pubDate>Tue, 17 Nov 2026 19:48:47 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-17T19:48:47.310402Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-12T07:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail</title>
+      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbGM5dmZYUmstUzBrdWZ0THR1Nm9TR1hWem1YN3NhVU9rdWJpZm1hclVmRnFwcnJ0RllDcHZvb3R6THVlN2wxMkxzdV9BWXNUc1pLSDdOaDVmc1NXZldfblN0TkdSMG5HNzRmUERmXzJrT3VmX1dJakd3?oc=5</link>
+      <guid isPermaLink="false">917af4bcb33b6bbf8f2a5284</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-11-16 12:00
+バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail</description>
+      <pubDate>Tue, 17 Nov 2026 11:07:38 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-17T11:07:38.368812Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-16T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
@@ -37,14 +51,14 @@
     </item>
     <item>
       <title>[国内ルーター市場] バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail</title>
-      <link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbGM5dmZYUmstUzBrdWZ0THR1Nm9TR1hWem1YN3NhVU9rdWJpZm1hclVmRnFwcnJ0RllDcHZvb3R6THVlN2wxMkxzdV9BWXNUc1pLSDdOaDVmc1NXZldfblN0TkdSMG5HNzRmUERmXzJrT3VmX1dJakd3?oc=5</link>
-      <guid isPermaLink="false">917af4bcb33b6bbf8f2a5284</guid>
+      <link>https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmxpUG5NRGNhdDVMMGplRlE2LWY3OU1ON1RwNDFzbHRQSWpJMmtrUDBPM0hQa3ZyRWl1bWt3WE5PS0EteGs1cG9wSmFjRFphZ0ZkdXZOWGt3b2t4a3BiYTFoUmFyQmk0c211STd2UEdFX1JoSGwxTGU4N0t1bVg1ZTZjTnE?oc=5</link>
+      <guid isPermaLink="false">f57b0b937b0dc02094704fcd</guid>
       <description>種別: 国内ルーター市場
 ソース: Google News JP: router vendors
 元記事日付: 2026-11-16 12:00
 バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail</description>
-      <pubDate>Tue, 17 Nov 2026 11:07:38 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-17T11:07:38.368812Z</sqm:firstSeenDate>
+      <pubDate>Wed, 18 Nov 2026 02:23:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-18T02:23:43.150758Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-16T03:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
@@ -74,20 +88,6 @@
       <pubDate>Tue, 17 Nov 2026 11:07:38 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-17T11:07:38.368812Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-11T22:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] Wi-Fi 7対応で最大6,000Mbps超えの高速通信を実現！AIセキュリティ機能「SENSE」搭載モデルを含むWi-Fi 2.5ギガビットルーター 2製品を新発売 - PR TIMES</title>
-      <link>https://news.google.com/rss/articles/CBMiakFVX3lxTE9yTnVYenk0WHJmX2M0eWt4cWlUMmFrX0MzMUkwRWhEa3JNdEVkQldkcFl3VmdIbm5PQldiSmVoWlAxRWg5NlBxRlJwR3lQNzYyaldPTkUwVnplX09UdGwwZXFyYm85Yl9ELWc?oc=5</link>
-      <guid isPermaLink="false">a4fa97a70b1ef84341364ea8</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-11-11 11:00
-Wi-Fi 7対応で最大6,000Mbps超えの高速通信を実現！AIセキュリティ機能「SENSE」搭載モデルを含むWi-Fi 2.5ギガビットルーター 2製品を新発売 PR TIMES</description>
-      <pubDate>Tue, 17 Nov 2026 19:48:47 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-17T19:48:47.310402Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-11T02:00:02Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>

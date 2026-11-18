@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 19:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:23:44 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
+    <item>
+      <title>[海外ルーターニュース] Acer Ovia T520 review: a fast, reliable mesh system with Wi-Fi 7 at a competitive price - TechRadar</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBXeElpM2x1Wi1EcDhoUThROXJMY2pEVjRaSVZwRkRIUlJ1YXFIRmdhMVBfSWZSVDhhTE1namJjX0hXNkxGOUpDTnVjY1l4MGhLOWdKbFZhSjhZdWduTVFWUVJWU2RwZG5DRUIyODFySkRfTl9aay1IdGh0VUt1QQ?oc=5</link>
+      <guid isPermaLink="false">047566a79cc81e962c6ee6e1</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-18 10:00
+Acer Ovia T520 review: a fast, reliable mesh system with Wi-Fi 7 at a competitive price TechRadar</description>
+      <pubDate>Wed, 18 Nov 2026 02:23:44 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-18T02:23:44.085973Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-18T01:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
     <item>
       <title>[海外ルーターニュース] Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - The Verge</title>
       <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZDamdjbUZNUGlyc0dsSG9uTnE2UU5XelVzMnlHU2p4aDFZd0d6UkJqUzBUSDM0UTFRNmZXRllMcFVpWlRNdXBiSVpGNGhlWDl4YnhaVzhnQnBRQjJMOGVzWUZZVmcxSjgtTU5LbmpVU3NUT1E0SXdLRUtYbUNqVi0zSmRzZEtmSFpxTHNYdENxeTNFRWEzWExqMzIxWmM?oc=5</link>
@@ -131,20 +145,6 @@ This TP-Link Wi-Fi 7 Travel Router Is 27% Off for This Early Black Friday Deal L
       <sqm:firstSeenDate>2026-11-13T02:53:48.208089Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-05T14:07:11Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times</title>
-      <link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5</link>
-      <guid isPermaLink="false">d5e640547d2d6fd75dbb1023</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News US: router products
-元記事日付: 2026-11-11 02:06
-We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times</description>
-      <pubDate>Wed, 11 Nov 2026 02:59:43 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-11T02:59:43.972346Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-10T17:06:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>

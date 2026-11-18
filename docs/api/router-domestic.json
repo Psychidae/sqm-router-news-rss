@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-17T19:48:47.315281Z",
+  "generated_at": "2026-11-18T02:23:43.152163Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,6 +20,17 @@
       "score": 16
     },
     {
+      "id": "917af4bcb33b6bbf8f2a5284",
+      "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbGM5dmZYUmstUzBrdWZ0THR1Nm9TR1hWem1YN3NhVU9rdWJpZm1hclVmRnFwcnJ0RllDcHZvb3R6THVlN2wxMkxzdV9BWXNUc1pLSDdOaDVmc1NXZldfblN0TkdSMG5HNzRmUERmXzJrT3VmX1dJakd3?oc=5",
+      "summary": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail",
+      "published_at": "2026-11-16T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 12
+    },
+    {
       "id": "5d93294f8b98665892bb802b",
       "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16（BCN） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xeXBzMHllMzdVc1pRbDBWV0V4UkNVVjVIY1pkSGJqbklJMW9uZFFjdUQ1ZlVWaFJzZU5INFhCTnkzOXl2ZS1iUm1jaFc5NzRsYTdIWEpVZzFCb0lLT0N4SXo4djNkY3RGdVNzRmd2cG9vc3FRNXV5clgzVlcwUlE?oc=5",
@@ -31,9 +42,9 @@
       "score": 12
     },
     {
-      "id": "917af4bcb33b6bbf8f2a5284",
+      "id": "f57b0b937b0dc02094704fcd",
       "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbGM5dmZYUmstUzBrdWZ0THR1Nm9TR1hWem1YN3NhVU9rdWJpZm1hclVmRnFwcnJ0RllDcHZvb3R6THVlN2wxMkxzdV9BWXNUc1pLSDdOaDVmc1NXZldfblN0TkdSMG5HNzRmUERmXzJrT3VmX1dJakd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmxpUG5NRGNhdDVMMGplRlE2LWY3OU1ON1RwNDFzbHRQSWpJMmtrUDBPM0hQa3ZyRWl1bWt3WE5PS0EteGs1cG9wSmFjRFphZ0ZkdXZOWGt3b2t4a3BiYTFoUmFyQmk0c211STd2UEdFX1JoSGwxTGU4N0t1bVg1ZTZjTnE?oc=5",
       "summary": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail",
       "published_at": "2026-11-16T03:00:00Z",
       "source": "Google News JP: router vendors",
@@ -58,17 +69,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92QzN6TG5oWHlsRlVPNnZQczZ2b2kyVzFIUWwwZ2Rydy14NW1kcHZQN2VoY3d3bVJxVnFFVndVZjB3Wi14RVVMSkJ5cWNObEI1bF9ILXRibmFYM0Q4MjZGbHlmTTI3RlFoaUtN?oc=5",
       "summary": "エレコム、2.5Gbps対応のWi-Fi 7ルーター2製品を発売、AIセキュリティ機能「SENSE」搭載モデルも INTERNET Watch",
       "published_at": "2026-11-11T22:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "a4fa97a70b1ef84341364ea8",
-      "title": "Wi-Fi 7対応で最大6,000Mbps超えの高速通信を実現！AIセキュリティ機能「SENSE」搭載モデルを含むWi-Fi 2.5ギガビットルーター 2製品を新発売 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yTnVYenk0WHJmX2M0eWt4cWlUMmFrX0MzMUkwRWhEa3JNdEVkQldkcFl3VmdIbm5PQldiSmVoWlAxRWg5NlBxRlJwR3lQNzYyaldPTkUwVnplX09UdGwwZXFyYm85Yl9ELWc?oc=5",
-      "summary": "Wi-Fi 7対応で最大6,000Mbps超えの高速通信を実現！AIセキュリティ機能「SENSE」搭載モデルを含むWi-Fi 2.5ギガビットルーター 2製品を新発売 PR TIMES",
-      "published_at": "2026-11-11T02:00:02Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
