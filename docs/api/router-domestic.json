@@ -1,24 +1,13 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-19T08:44:27.991684Z",
+  "generated_at": "2026-11-19T17:39:27.343308Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
   "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "6b3412979928cc3304e06e44",
-      "title": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41cU53d2dJakEwLTA2bVd4OFVvcThib1AtV2ZrSEI0bmRzUVF6cXVhSUFicXFkdE1EUWF1WVlWTVJKbnA0VmNld2RMSkNKcENrSXRSaWMxb29uVkN2US0xU2FIRUllTTdiSlE?oc=5",
-      "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 BCN Retail",
-      "published_at": "2026-11-12T07:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 15
-    },
     {
       "id": "917af4bcb33b6bbf8f2a5284",
       "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail",
@@ -42,39 +31,6 @@
       "score": 11
     },
     {
-      "id": "f57b0b937b0dc02094704fcd",
-      "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmxpUG5NRGNhdDVMMGplRlE2LWY3OU1ON1RwNDFzbHRQSWpJMmtrUDBPM0hQa3ZyRWl1bWt3WE5PS0EteGs1cG9wSmFjRFphZ0ZkdXZOWGt3b2t4a3BiYTFoUmFyQmk0c211STd2UEdFX1JoSGwxTGU4N0t1bVg1ZTZjTnE?oc=5",
-      "summary": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail",
-      "published_at": "2026-11-16T03:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "1c0b0f80abe02fe2d6ff69e7",
-      "title": "5GHz帯で最大5,764Mbps エレコム、Wi-Fi 7対応ルーター2機種を11月中旬発売 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxWV9NOWhadXQ4VDJxUmx2ME9VQjBQYlNyOGV6VDF6bGZJZmpoMzlOZnFxVUdQOG5leWluZlpBbnRlVFRXWEdNUGtXR3RwVXE2Y2pkZQ?oc=5",
-      "summary": "5GHz帯で最大5,764Mbps エレコム、Wi-Fi 7対応ルーター2機種を11月中旬発売 ASCII.jp",
-      "published_at": "2026-11-13T02:00:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 11
-    },
-    {
-      "id": "28172781dc63365ba21511d4",
-      "title": "エレコム、2.5Gbps対応のWi-Fi 7ルーター2製品を発売、AIセキュリティ機能「SENSE」搭載モデルも - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92QzN6TG5oWHlsRlVPNnZQczZ2b2kyVzFIUWwwZ2Rydy14NW1kcHZQN2VoY3d3bVJxVnFFVndVZjB3Wi14RVVMSkJ5cWNObEI1bF9ILXRibmFYM0Q4MjZGbHlmTTI3RlFoaUtN?oc=5",
-      "summary": "エレコム、2.5Gbps対応のWi-Fi 7ルーター2製品を発売、AIセキュリティ機能「SENSE」搭載モデルも INTERNET Watch",
-      "published_at": "2026-11-11T22:30:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 10
-    },
-    {
       "id": "71be1924e0995698cbcff0c5",
       "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 - 千葉テレビ放送",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNy11ZXVmbXdfNVRzd3FCUngtdmRZeW1zczVacTVua241bjdIZ1NtcnRFRUxLeHZ6WlRscUhhOTAxOWlSLUxPR0NMN0NyX01qdjB6OV9tR0NrdGtCcjA0?oc=5",
@@ -91,6 +47,50 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zNnp1ZGJCX044S1J1RHV3QTZwQWwxZmNSMkxRSUJjNVhtSldzVWFCS0xXdDhPRndKa1Vrb0lGdzVXVkU3STlqZU9sOFhsTVF3TjNXNXRXVGxVZ09sRnB1X2NCNC1ZaW15TEZJ?oc=5",
       "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を INTERNET Watch",
       "published_at": "2026-11-17T07:25:53Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
+    },
+    {
+      "id": "c7beb2c2ed1f6a8d280f9ce9",
+      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUmhYX01wd2Y0bGw4eW5vZnU4TlZoV3lLeTVvVEZfUDJaRXFpdEhUNXczcGlEc2J6RTN1bDBBSXU1d1BZZlpTOXRfUnY4dGNQSU8weTczd1gxdmw1VmRCdHZzeF8ydmdo?oc=5",
+      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ニコニコニュース",
+      "published_at": "2026-11-17T06:42:11Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
+    },
+    {
+      "id": "e0fc93ff3a00ae03a2c09c75",
+      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMW1UaXN4LXhxbngzM2tFUTlBVTR4bW5YTVMza1NpOTdHX2IyQlk1MVFaR1czc3Q4ZkQ4SXhmS2NwdHYxcEtnclVxNll6RGVXZDRBLUo0ZjRoWG5NY3lBc0NaVVVqYXFHU3REaWFOYkN6Q2h0THVTRFRsMlVvZEE?oc=5",
+      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供（アスキー） Yahoo!ニュース",
+      "published_at": "2026-11-17T06:20:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
+    },
+    {
+      "id": "255e3e33413f852a97106cd0",
+      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJX3BmMjE3NWthdUc2aU1xYS1JV0VuSnBnQjNPREN2U1R2dW14OFBsbjJUS2tmSXJCQTR3LXFWZEs4SlJhMmdUYVd1MV9rd1hKV0NHelZZSkRLU0d5cVEtSg?oc=5",
+      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 Infoseek",
+      "published_at": "2026-11-17T06:20:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 7
+    },
+    {
+      "id": "a905fcf6cb7b4cae1b7744ed",
+      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN3pXMVZGSTliNmpwWGRfbFpWRHU1UmI0X21Wekd3ZUxYTnVBVDRRcU1mc2NLNHVUVno0VVNSNTlITHY0MXhZYXR3eE1ZS1VMeVVTblBSSkVHNDRCV1ZUZWlZcWd0VUYwLVFXTUtZZlpRemM?oc=5",
+      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ニコニコニュース",
+      "published_at": "2026-11-17T06:12:03Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",

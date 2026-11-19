@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:39:29 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] 『カフェ』のWi-Fiでやってはいけない『3つのNG行動』 世界的セキュリティ企業が教える『正しい使い方』 - TRILL</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TdUN6YjhFR01LR0x3THptclIxeWpGVlQzaWh6a2xlRnpkb2ZqMXNwTHJMR1Z2dG92a2s4UWlfQTdEN0dZUW1YSTJKQXBJYVU?oc=5</link>
+      <guid isPermaLink="false">02412d833483173dd8aa65dc</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-20 01:05
+『カフェ』のWi-Fiでやってはいけない『3つのNG行動』 世界的セキュリティ企業が教える『正しい使い方』 TRILL</description>
+      <pubDate>Thu, 19 Nov 2026 17:39:29 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-19T17:39:29.442139Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-19T16:05:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 CVE-2026-79614はCVSS 9.8、認証不要でコマンド実行のおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
       <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1FsTUprUjc5NmVYbmtZNnpqMHBhR01OMDMxLTJjMUxuNGgzLUY0SmVaZWJ3MnpkUllicGEtcHoyM1d5eDJVQURfWkRzVFY3SlcwLUQwVVB5eDZJSFNXMTJ5WFAzWW5odE1CeFM3WGZtZjh5VEVkemtXeEw5OTVNUF9TUVJOdml1WUlFc19jOF9uVjRIT3FnQ0tmaWRIMHNfMG1uOQ?oc=5</link>
@@ -130,20 +144,6 @@ Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 
       <pubDate>Thu, 19 Nov 2026 08:44:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-19T08:44:30.342220Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-17T06:20:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN3pXMVZGSTliNmpwWGRfbFpWRHU1UmI0X21Wekd3ZUxYTnVBVDRRcU1mc2NLNHVUVno0VVNSNTlITHY0MXhZYXR3eE1ZS1VMeVVTblBSSkVHNDRCV1ZUZWlZcWd0VUYwLVFXTUtZZlpRemM?oc=5</link>
-      <guid isPermaLink="false">a905fcf6cb7b4cae1b7744ed</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-17 15:12
-エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ニコニコニュース</description>
-      <pubDate>Wed, 18 Nov 2026 19:03:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-18T19:03:05.715677Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-17T06:12:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
