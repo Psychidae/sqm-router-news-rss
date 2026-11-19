@@ -1,19 +1,19 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-18T19:03:06.737858Z",
+  "generated_at": "2026-11-19T01:10:05.282410Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 7,
+  "count": 8,
   "errors": [],
   "items": [
     {
-      "id": "1d10e42eeda394248dce87b5",
-      "title": "Seaford schools close amid phone and internet outage - cedarnews.net",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV2RiWHhITWRnMWd4VTlUMW12dXRZbTRqU1ZGRV81NlFJcUNnbXRuWDFhckRuSjZrOWNrenFCczFEd19GWVd3OGR4OEJ6RGJnLUx1dnU2eDJvdnpkanZkWFBpcU0wWmhvVl9wNzlOaHBlaXJHTm9vaFo0cGtwaGlKbEh0aW1jSkJwMVhQdg?oc=5",
-      "summary": "Seaford schools close amid phone and internet outage cedarnews.net",
-      "published_at": "2026-11-18T12:49:13Z",
+      "id": "e2a2968857544f6ff20b9a67",
+      "title": "Systems restored at Greece school district after internet outage Wednesday morning - WHEC.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmFQakxMV3c0Qk15QkdLdm9CekhjWkp4QmhETFhtdlRCWDVua2pMS1VuVjhJSVhBcE9OZ1hSNGJ5Ul9KMloxb1hNbGk1d2RtZ1hnajhTSXZfMGNUWUJXaG1panE0R1I5dFFPcHZ2enRYdzM3bDBFQUdDaUdQS1g3MmRoYXM3ZExDSlE?oc=5",
+      "summary": "Systems restored at Greece school district after internet outage Wednesday morning WHEC.com",
+      "published_at": "2026-11-18T18:02:03Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 9
+    },
+    {
+      "id": "f93f463f2b6da4fc7b6b962f",
+      "title": "Should you change your password after an internet outage? - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0NYU1UyTjdUaTFzajQwNzJTbDFOLTdLNmEzbFFsV0NrOVRVNEtadWw3ZVlmOHZnQXRsbHhSclRHbHY5Slo0czZ6Qk1tOE9RaG1tenpfQlI5bHd2cHVmYmYta0JIZVQ0OGFZUXIxWWdDdXluRHo0Yjl0Q3BWOGstQXBUc291OFRVV3VNekhHakhqZlNFYmNveXVVandzanZOWE1PdEJfdjBDQW9FVmVB0gG3AUFVX3lxTE4yZ2I5OXc5ajNjaGlDcjdwOXE3cWJ2S29feDk1QmQxVDlyX041YzVvcHNKSzduUTJRd1NHU3ZEQVktQWVwVFktN3BvUmZIcVRRYjlTRW05M1hZNXN0ZzdLVkR1MEpBeTJ0ZFRWT1NhZXFVYV9PQTFpeldXSm5RaEVHS2xMQWZSQnR1QWJrNE9wa01FUTY3dlgxWFcyUmRrUVJyUjR6S1hMYlU5dVJDWDBFSGFHWm1rcw?oc=5",
+      "summary": "Should you change your password after an internet outage? NBC Los Angeles",
+      "published_at": "2026-11-17T14:55:53Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
     },
     {
       "id": "99c38f316e22d8135a40efb1",
