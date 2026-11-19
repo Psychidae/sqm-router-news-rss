@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-19T17:39:29.442827Z",
+  "generated_at": "2026-11-19T23:48:35.212124Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "5cddf0fbdb728b9cf1b9a3cc",
+      "title": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVTJDZVRCRVBsTmFKZV8teGFSSUJ1ZVFZcGhmOFQ4NVotdkUxcFA5RUlZTXpydmIzRjY1aERrWldtZXEzaVpuX0w3MlBsNkxNd1pMZTFBUHhxMzZhLUVvUk1hS0RZbnBucTlqcQ?oc=5",
+      "summary": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される 日経クロステック",
+      "published_at": "2026-11-19T20:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "02412d833483173dd8aa65dc",
       "title": "『カフェ』のWi-Fiでやってはいけない『3つのNG行動』 世界的セキュリティ企業が教える『正しい使い方』 - TRILL",
@@ -91,17 +102,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWpPcS11QjJ3ajRpcFNlcVpNYVdTaTEtc3RjeVkxeWoxMVZTNmhYaXpYeUdXOG1RRUItM2JLdlVlUW9kR3ItSUV3Ykgybi14S29tZjU2UkJ3aG1WM2RUdHk4RDJmZXBON3N1NTZ6VlRSeVRP?oc=5",
       "summary": "エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 BigGo ファイナンス",
       "published_at": "2026-11-17T06:25:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "255e3e33413f852a97106cd0",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJX3BmMjE3NWthdUc2aU1xYS1JV0VuSnBnQjNPREN2U1R2dW14OFBsbjJUS2tmSXJCQTR3LXFWZEs4SlJhMmdUYVd1MV9rd1hKV0NHelZZSkRLU0d5cVEtSg?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 Infoseek",
-      "published_at": "2026-11-17T06:20:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",

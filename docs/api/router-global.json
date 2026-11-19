@@ -1,13 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-19T17:39:28.408800Z",
+  "generated_at": "2026-11-19T23:48:34.457756Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "14389ee8f76b027496734c79",
+      "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price — BE9500 router is now just $89.99, a steep discount from the regular $199.99 price - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOLVlMX09RbThkSDlxQVRWSWw4eVVqR1V3bnF1RzhIOU9mc1dnYUM1LU1uNjdQeXo0R0ZRWDhVYkRxUGZrci1fZi1SOWdzS0Z5RGRtVmRLREpqV0h0RnZXbXFrejY5OWtUQzNvX0gyQ3FHNktwalpLcUcxaTliejV5OUpVYVFwM093TG9hTTRQNVNTd1BnNENsRmxCUV9GN0hyQUhlc0piakRfeXBiVndvOGIyOVRJYmpkeFJNc3lSLVYzZUhWbGNpUkxDcGNjRmRLcmg3Q3VuNTdQTTRTZ2R3TjI3akJmS0tDTlBndWxwTFZzZGdrcmNPaUswR2o3LWFibTljMUEyNWFBV1hvYnIyR1pUTHNYYUpPc0szVmUxN1BtdGo0VW5MM2NIckpmSXE0YlhOYmtoNy1GUjRpV2dDblk1OWk3YktKVjFFemducTQxb0VxQ3d3TXBQQ0VRcXVtMzFwNXhmbDJBM3dTTnRnS2J3?oc=5",
+      "summary": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price — BE9500 router is now just $89.99, a steep discount from the regular $199.99 pric...",
+      "published_at": "2026-11-19T23:20:25Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
     {
       "id": "ab5af27859ff25dd6d10164b",
       "title": "TP-Link BE3600 Dual-Band Wi-Fi 7 Router down to $79.99 in latest price cut - Technobezz",
@@ -36,17 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXeElpM2x1Wi1EcDhoUThROXJMY2pEVjRaSVZwRkRIUlJ1YXFIRmdhMVBfSWZSVDhhTE1namJjX0hXNkxGOUpDTnVjY1l4MGhLOWdKbFZhSjhZdWduTVFWUVJWU2RwZG5DRUIyODFySkRfTl9aay1IdGh0VUt1QQ?oc=5",
       "summary": "Acer Ovia T520 review: a fast, reliable mesh system with Wi-Fi 7 at a competitive price TechRadar",
       "published_at": "2026-11-18T01:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "741f04cdf0886a26f9d048dc",
-      "title": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZDamdjbUZNUGlyc0dsSG9uTnE2UU5XelVzMnlHU2p4aDFZd0d6UkJqUzBUSDM0UTFRNmZXRllMcFVpWlRNdXBiSVpGNGhlWDl4YnhaVzhnQnBRQjJMOGVzWUZZVmcxSjgtTU5LbmpVU3NUT1E0SXdLRUtYbUNqVi0zSmRzZEtmSFpxTHNYdENxeTNFRWEzWExqMzIxWmM?oc=5",
-      "summary": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. The Verge",
-      "published_at": "2026-11-17T17:20:47Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
