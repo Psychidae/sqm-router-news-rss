@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-20T16:05:22.679719Z",
+  "generated_at": "2026-11-20T22:39:03.325540Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 5,
+  "count": 6,
   "errors": [],
   "items": [
+    {
+      "id": "515e07b92b010325f476dc31",
+      "title": "Internet outage disrupts technology services at Menominee Indian School District - cedarnews.net",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTcyY0xsRFdwYmJsNkpINnNkQi1FdXdwUUtCaXFpeUlNVEJvYUFnQkl5WllSSUdNTEJhN3p0NHFXNXRiSW9QclZpbzE1OWRLaHl3ZUZMZ3pwelFReUt0VTdXQjZOcU5KSWZxTGhhMEtiNlhSNU13aGtJSnZRYkt3OU9lVkQ3LVV0YWVNOE0xTGJ6ODRoLVpkQmEzWURjVFJpeGhYcw?oc=5",
+      "summary": "Internet outage disrupts technology services at Menominee Indian School District cedarnews.net",
+      "published_at": "2026-11-20T15:33:16Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "e3312317ebbf396d5e4d8c1e",
       "title": "Vandalism to fiber lines caused brief Wilmington internet outage - Delawareonline.com",
@@ -17,7 +28,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "79e23ba855d42fad9542d510",
@@ -28,7 +39,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "02c438e8c0e62a903f776147",
@@ -39,7 +50,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
+      "score": 8
     },
     {
       "id": "f13f86d963b8713a7c5a2dd1",
