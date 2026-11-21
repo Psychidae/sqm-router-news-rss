@@ -1,7 +1,7 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-21T11:45:51.671071Z",
+  "generated_at": "2026-11-21T18:14:04.688902Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
@@ -53,17 +53,6 @@
       "score": 8
     },
     {
-      "id": "02c438e8c0e62a903f776147",
-      "title": "UPDATED: Monroe County Civil, Judicial office buildings closed due to internet outage - Indiana Daily Student",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUZHUjNMLWFOTUVRRzU1bUU5M2h0ZHRERENtTjdGS2hoVzQ1dEtESy1taE5tdGw2VzVCX051R2JrbFFzTGFfZi1OZnZhNGNoRWhQZnhFUmZvOU05UmlQV3B4eGwxRFQtQW9OQVBXakZXNTd0ZXJ0RENaazNBNnZwNWEwN253c0ZCcHlOaGp0aEN1bThzMXY5UE9zSUVraUxuam10SQ?oc=5",
-      "summary": "UPDATED: Monroe County Civil, Judicial office buildings closed due to internet outage Indiana Daily Student",
-      "published_at": "2026-11-19T18:57:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 8
-    },
-    {
       "id": "f13f86d963b8713a7c5a2dd1",
       "title": "Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPT2ZPLU1ocmJ2TXgyb1JzWE0wLVBKX0R5S1o2NmozQVdhaVRMWmdTdGJRNkVKcjhCRXhUMm9wSkZkRnU0MHJwTFJhdHVqVlZGVDFKa1lSRkJIeHR2Yng5SzZwLUpQTzhfN3lmS1g3RVh0c1NwZnkzTk1DM0pqUjU1WW9OU1FWU2hLS2w2c2NIbGk0ZUZZNTZCck0wYUw5RXJQZS1udWx1Nm5vdG9Nbnh6MUxrUmVIM2l6aUJsMWI4bldTaFUycUtsQmh2MlR2eWNfeEdHSzZzWS1DSFF0MXFYMXdQWkJKM0g1eFhPTndRc1M5cHNpdnZsbklxTnZCTE1ZZ0RHeFhWVGd0QUt3NG9qaXhsb3U0TlM1WlFwWllYbWM3dw?oc=5",
@@ -73,6 +62,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "f93f463f2b6da4fc7b6b962f",
+      "title": "Should you change your password after an internet outage? - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0NYU1UyTjdUaTFzajQwNzJTbDFOLTdLNmEzbFFsV0NrOVRVNEtadWw3ZVlmOHZnQXRsbHhSclRHbHY5Slo0czZ6Qk1tOE9RaG1tenpfQlI5bHd2cHVmYmYta0JIZVQ0OGFZUXIxWWdDdXluRHo0Yjl0Q3BWOGstQXBUc291OFRVV3VNekhHakhqZlNFYmNveXVVandzanZOWE1PdEJfdjBDQW9FVmVB0gG3AUFVX3lxTE4yZ2I5OXc5ajNjaGlDcjdwOXE3cWJ2S29feDk1QmQxVDlyX041YzVvcHNKSzduUTJRd1NHU3ZEQVktQWVwVFktN3BvUmZIcVRRYjlTRW05M1hZNXN0ZzdLVkR1MEpBeTJ0ZFRWT1NhZXFVYV9PQTFpeldXSm5RaEVHS2xMQWZSQnR1QWJrNE9wa01FUTY3dlgxWFcyUmRrUVJyUjR6S1hMYlU5dVJDWDBFSGFHWm1rcw?oc=5",
+      "summary": "Should you change your password after an internet outage? NBC Los Angeles",
+      "published_at": "2026-11-17T14:55:53Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
     }
   ]
 }

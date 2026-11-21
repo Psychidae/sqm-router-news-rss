@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-21T11:45:49.338025Z",
+  "generated_at": "2026-11-21T18:14:02.476042Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -42,17 +42,6 @@
       "score": 11
     },
     {
-      "id": "71be1924e0995698cbcff0c5",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 - 千葉テレビ放送",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNy11ZXVmbXdfNVRzd3FCUngtdmRZeW1zczVacTVua241bjdIZ1NtcnRFRUxLeHZ6WlRscUhhOTAxOWlSLUxPR0NMN0NyX01qdjB6OV9tR0NrdGtCcjA0?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を 「WRC-BE36QS-B」「WRC-BE36QSD-B」「WRC-W701-B」が対象 千葉テレビ放送",
-      "published_at": "2026-11-17T07:41:37Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 6
-    },
-    {
       "id": "81ac9eac0e6c8c29c4bf9d89",
       "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を - INTERNET Watch",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zNnp1ZGJCX044S1J1RHV3QTZwQWwxZmNSMkxRSUJjNVhtSldzVWFCS0xXdDhPRndKa1Vrb0lGdzVXVkU3STlqZU9sOFhsTVF3TjNXNXRXVGxVZ09sRnB1X2NCNC1ZaW15TEZJ?oc=5",
@@ -64,15 +53,26 @@
       "score": 6
     },
     {
-      "id": "e4649f80c49dce26a89cf708",
-      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5VF9wZ3JWY1hFbHVFTDAxZTdtWkJMdUIzb2ZvRVJ2YTRZbTk2TjYyaTVFemZjdnN0aVlQQnJWUG14NU5McVZ2Z3JjdVQyazlYcldmTQ?oc=5",
-      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ASCII.jp",
-      "published_at": "2026-11-17T06:05:00Z",
+      "id": "be34deb578b6319f744a4a39",
+      "title": "NTT西、「フレッツ 光クロス」向けWi-Fi 7対応HGW「XG-200SE」の取扱説明書等を公開 - 24Wireless",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xaWJDRzltSVc5bk5fdkotSk4wc1BsN0tJcVBFWnhwdWhWaHZXanpzYTlGZjZ3TlEzMUVpRVVRTWZTOHpIRktITTd5bFRjOFc3QXp3?oc=5",
+      "summary": "NTT西、「フレッツ 光クロス」向けWi-Fi 7対応HGW「XG-200SE」の取扱説明書等を公開 24Wireless",
+      "published_at": "2026-11-17T02:38:13Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 6
+    },
+    {
+      "id": "86bed29130399818f20abc46",
+      "title": "どこにお金をかける？ 2026-2027年版Wi-Fiルーター買い替えガイド（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRGZDX3FMOFRyQk5UVTR4S1VOQUF4QlV2bmJCV0N5Y19iQ3pqQnliTFJzR19IRHl3S2Jod09BdzdTT3hfckttOGhleF90U0Q3UnNMR2UwQ3BCTFN3MHFIb2xEQ2hXbUV1OHZnRS1FNU1tVzdGdXc5YWZzWWYwTXM?oc=5",
+      "summary": "どこにお金をかける？ 2026-2027年版Wi-Fiルーター買い替えガイド（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-11-12T08:00:00Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 5
     },
     {
       "id": "a1552aa6a318317a758c486f",

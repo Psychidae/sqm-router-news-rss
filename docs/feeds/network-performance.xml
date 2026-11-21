@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:14:04 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Infinity Link says cut fiber wires caused internet outage in Greene County - WITN</title>
@@ -64,20 +64,6 @@ Internet outage closes Monroe County government buildings Indiana Public Media</
       <category>性能・障害</category>
     </item>
     <item>
-      <title>[性能・障害] UPDATED: Monroe County Civil, Judicial office buildings closed due to internet outage - Indiana Daily Student</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUZHUjNMLWFOTUVRRzU1bUU5M2h0ZHRERENtTjdGS2hoVzQ1dEtESy1taE5tdGw2VzVCX051R2JrbFFzTGFfZi1OZnZhNGNoRWhQZnhFUmZvOU05UmlQV3B4eGwxRFQtQW9OQVBXakZXNTd0ZXJ0RENaazNBNnZwNWEwN253c0ZCcHlOaGp0aEN1bThzMXY5UE9zSUVraUxuam10SQ?oc=5</link>
-      <guid isPermaLink="false">02c438e8c0e62a903f776147</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-20 03:57
-UPDATED: Monroe County Civil, Judicial office buildings closed due to internet outage Indiana Daily Student</description>
-      <pubDate>Thu, 19 Nov 2026 23:48:35 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-19T23:48:35.980204Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T18:57:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
       <title>[性能・障害] Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region - Tom's Hardware</title>
       <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxPT2ZPLU1ocmJ2TXgyb1JzWE0wLVBKX0R5S1o2NmozQVdhaVRMWmdTdGJRNkVKcjhCRXhUMm9wSkZkRnU0MHJwTFJhdHVqVlZGVDFKa1lSRkJIeHR2Yng5SzZwLUpQTzhfN3lmS1g3RVh0c1NwZnkzTk1DM0pqUjU1WW9OU1FWU2hLS2w2c2NIbGk0ZUZZNTZCck0wYUw5RXJQZS1udWx1Nm5vdG9Nbnh6MUxrUmVIM2l6aUJsMWI4bldTaFUycUtsQmh2MlR2eWNfeEdHSzZzWS1DSFF0MXFYMXdQWkJKM0g1eFhPTndRc1M5cHNpdnZsbklxTnZCTE1ZZ0RHeFhWVGd0QUt3NG9qaXhsb3U0TlM1WlFwWllYbWM3dw?oc=5</link>
       <guid isPermaLink="false">f13f86d963b8713a7c5a2dd1</guid>
@@ -88,6 +74,20 @@ Pakistan undersea cable failure causes internet outage near Strait of Hormuz —
       <pubDate>Thu, 19 Nov 2026 17:39:30 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-19T17:39:30.412680Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-19T12:30:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Should you change your password after an internet outage? - NBC Los Angeles</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0NYU1UyTjdUaTFzajQwNzJTbDFOLTdLNmEzbFFsV0NrOVRVNEtadWw3ZVlmOHZnQXRsbHhSclRHbHY5Slo0czZ6Qk1tOE9RaG1tenpfQlI5bHd2cHVmYmYta0JIZVQ0OGFZUXIxWWdDdXluRHo0Yjl0Q3BWOGstQXBUc291OFRVV3VNekhHakhqZlNFYmNveXVVandzanZOWE1PdEJfdjBDQW9FVmVB0gG3AUFVX3lxTE4yZ2I5OXc5ajNjaGlDcjdwOXE3cWJ2S29feDk1QmQxVDlyX041YzVvcHNKSzduUTJRd1NHU3ZEQVktQWVwVFktN3BvUmZIcVRRYjlTRW05M1hZNXN0ZzdLVkR1MEpBeTJ0ZFRWT1NhZXFVYV9PQTFpeldXSm5RaEVHS2xMQWZSQnR1QWJrNE9wa01FUTY3dlgxWFcyUmRrUVJyUjR6S1hMYlU5dVJDWDBFSGFHWm1rcw?oc=5</link>
+      <guid isPermaLink="false">f93f463f2b6da4fc7b6b962f</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-17 23:55
+Should you change your password after an internet outage? NBC Los Angeles</description>
+      <pubDate>Sat, 21 Nov 2026 18:14:04 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-21T18:14:04.688276Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-17T14:55:53Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
