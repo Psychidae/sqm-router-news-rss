@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:14:15 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml</docs>
     <item>
       <title>[海外ルーターニュース] Asus ZenWiFi BN12 review: The world’s first Wi-Fi 8 mesh router is here - PCWorld</title>
@@ -55,11 +55,25 @@ TP-Link BE3600 Dual-Band Wi-Fi 7 Router down to $79.99 in latest price cut Techn
       <guid isPermaLink="false">047566a79cc81e962c6ee6e1</guid>
       <description>種別: 海外ルーターニュース
 ソース: Google News Global: home networking
-元記事日付: 2026-11-18 10:04
+元記事日付: 2026-11-18 10:00
 Acer Ovia T520 review: a fast, reliable mesh system with Wi-Fi 7 at a competitive price TechRadar</description>
       <pubDate>Wed, 18 Nov 2026 02:23:44 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-18T02:23:44.085973Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-18T01:04:23Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-18T01:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
+      <category>海外ルーターニュース</category>
+    </item>
+    <item>
+      <title>[海外ルーターニュース] Huawei built a Wi-Fi 7 router that hides on a bookshelf - The Gadgeteer</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOaktrbk9DeEJlMkRKbEpzSlZsbUFVV2hBTUN5anlJMHdtUFdWNGIyQlczTnJlTnpMVFpZWUJuSk9HXzdoeE9vNVBsaHJhSkdWdXc3ZFB1N3k1UDlrWHFpOFZuNDlyVmMtbTZPQmNLVF95SExvVzRzZUlha2ozUnhjeC1KYnhDaTlEejI5VzdWWWo0WFA4MGtVSw?oc=5</link>
+      <guid isPermaLink="false">f2ea7a35dce513ce8c87f642</guid>
+      <description>種別: 海外ルーターニュース
+ソース: Google News Global: home networking
+元記事日付: 2026-11-17 22:51
+Huawei built a Wi-Fi 7 router that hides on a bookshelf The Gadgeteer</description>
+      <pubDate>Sat, 21 Nov 2026 23:14:15 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-21T23:14:15.435550Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-17T13:51:59Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
@@ -131,20 +145,6 @@ We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times</de
       <sqm:firstSeenDate>2026-11-21T03:28:14.823103Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-10T08:00:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News US: router products</source>
-      <category>海外ルーターニュース</category>
-    </item>
-    <item>
-      <title>[海外ルーターニュース] Wi-Fi 7 won't fix your slow internet, but a $20 switch just might - XDA</title>
-      <link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXlCS182aExFd0M0bC11cjlLY0xxdi1NS1h3R0FLeEpINWo5UVpyQV81SWxsYUlOZUVHZHcwXzBtMl9FR2FyWWRmQVFjVzlqMVAxTWFPSkdXbUhMQklPeHg0VFFucmZadnVraFM4WnlJZVFvTnlJSE83dFM2Skg2WkhHQjV0OUFnTUJMeWpaVQ?oc=5</link>
-      <guid isPermaLink="false">3d8c34f202a8bfef3c612e6a</guid>
-      <description>種別: 海外ルーターニュース
-ソース: Google News Global: home networking
-元記事日付: 2026-11-22 03:01
-Wi-Fi 7 won't fix your slow internet, but a $20 switch just might XDA</description>
-      <pubDate>Sat, 21 Nov 2026 18:14:03 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-21T18:14:03.240090Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-21T18:01:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: home networking</source>
       <category>海外ルーターニュース</category>
     </item>
   </channel>
