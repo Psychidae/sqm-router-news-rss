@@ -1,13 +1,35 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-20T22:39:03.325540Z",
+  "generated_at": "2026-11-21T03:28:16.228805Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 6,
+  "count": 8,
   "errors": [],
   "items": [
+    {
+      "id": "bceb1c259e285ced3ccd4dee",
+      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThUbV9wRkNxS2NtYXItUTBzWm9PRGk1MjRyb0ZOWGgtMTJueUVUbTRNQ2lBdjY1UW5SQW4ydlFUcWNTaDFpSUZrc0RybTRpX285LTBnaV9MTTNXU2lIa3BwSXR1NlNmNGVRYUJscm90dTQyMFlhV3JtTHpMVmFHLVhqSlhZSW5nOXpaUGotakZ6MHJuUzJqUTE1MHdVMEJHSk55QTVEONIBuwFBVV95cUxNY0swSzNwMTgxQ1RaSmVBWHM1NHZPaUg5cVhUMC03ekR4VXBvUElIQWVwQWZEQmpGN0JSVk1OVldhVUlDNlBsVlpkTmE5OFo0Rm9hblZib1JRbTl0bjdTNFRYbXBSQS1CbXdxbjQwQnBfMmtlbGJkX3NPUVlwRHo4THZiR0l2TDN0UXU5ZmdOZnA2aXJRQlBmSV9PY2s4VjFCTnNrc252QkJYQWJDcUFhR0U0a1NXYUlIRXpJ?oc=5",
+      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
+      "published_at": "2026-11-21T01:31:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
+    {
+      "id": "9b1115802c48a29c47f0b6aa",
+      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWdTVE52Zk51cGUtZzJhMXRNc2loeE9tR3VrTlFKNTQ5Q3lhb0xhVGdrT2g2YXVPR2h5X1YzeWtnSUp4aFdKZ0U2aXFoWHNZdkpXbl9XTFk1aE93WUhzRjZwMnE0SDNwSmh2TEt5VzhrR3p6aGFRSm5hYnVsZHBMbnBZVW44aWJzS1diSDV6aTM0WXhNZnpHNDh0UmZYVkE4RFYzc3NrYi1BM2cxcHE0?oc=5",
+      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
+      "published_at": "2026-11-21T00:26:47Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "515e07b92b010325f476dc31",
       "title": "Internet outage disrupts technology services at Menominee Indian School District - cedarnews.net",
@@ -64,10 +86,10 @@
       "score": 8
     },
     {
-      "id": "c520882effa1a849862cc01f",
-      "title": "Should you change your password after an internet outage? - NBC 7 San Diego",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONW1CVWpZX3l6SlF6SlhKaENYWVFYNHp6dXZZODRxQXZJV2NobHJMaElMUjI4aTU1LTNqVGNVb2dmenZ5LUJHd2FrQVg1NXdSZEJwWHRITmdKUHp5Zm0td3luazd0UnN2QWFpSGFiLWdMSmxjcE93YWVocjhQY2F5TENjQ3kzbEdzRk5qYWwtZWYyQXRCZC1McWhrV19vRGQ5OHo5b0lxSDYzWHlV0gG0AUFVX3lxTE0zS193TDYxWFIySDRHLUlwTnIzQXlPUDZ1R3JKSVNTSTBtalVXbS1OTVlxWTVsWWozUUVEeVBqVUk0QlRUc0dyMkZOMWZqVHMzMDI0UUgxN1BUdkdlWmdBQTMzb0J0TWd4ZWdHaGxiLTVvRmJpN1YzM1hXZHd2VThaWTZEOURvZktGbXlXOVMtUGUwUzF0a3ByRmJKcWtLa3YydERad2R6SXdJOFlNQkVGdTNISw?oc=5",
-      "summary": "Should you change your password after an internet outage? NBC 7 San Diego",
+      "id": "f93f463f2b6da4fc7b6b962f",
+      "title": "Should you change your password after an internet outage? - NBC Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0NYU1UyTjdUaTFzajQwNzJTbDFOLTdLNmEzbFFsV0NrOVRVNEtadWw3ZVlmOHZnQXRsbHhSclRHbHY5Slo0czZ6Qk1tOE9RaG1tenpfQlI5bHd2cHVmYmYta0JIZVQ0OGFZUXIxWWdDdXluRHo0Yjl0Q3BWOGstQXBUc291OFRVV3VNekhHakhqZlNFYmNveXVVandzanZOWE1PdEJfdjBDQW9FVmVB0gG3AUFVX3lxTE4yZ2I5OXc5ajNjaGlDcjdwOXE3cWJ2S29feDk1QmQxVDlyX041YzVvcHNKSzduUTJRd1NHU3ZEQVktQWVwVFktN3BvUmZIcVRRYjlTRW05M1hZNXN0ZzdLVkR1MEpBeTJ0ZFRWT1NhZXFVYV9PQTFpeldXSm5RaEVHS2xMQWZSQnR1QWJrNE9wa01FUTY3dlgxWFcyUmRrUVJyUjR6S1hMYlU5dVJDWDBFSGFHWm1rcw?oc=5",
+      "summary": "Should you change your password after an internet outage? NBC Los Angeles",
       "published_at": "2026-11-17T14:55:53Z",
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
