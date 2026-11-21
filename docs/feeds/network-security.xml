@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:45:50 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] 株式会社AIdollargameが提供するサイト・メール・VPN機器のセキュリティ代行サービス「ホワイトハック」の魅力 - ニュースメディアVOIX</title>
@@ -64,43 +64,15 @@
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 CVE-2026-79614はCVSS 9.8、認証不要でコマンド実行のおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
-      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1FsTUprUjc5NmVYbmtZNnpqMHBhR01OMDMxLTJjMUxuNGgzLUY0SmVaZWJ3MnpkUllicGEtcHoyM1d5eDJVQURfWkRzVFY3SlcwLUQwVVB5eDZJSFNXMTJ5WFAzWW5odE1CeFM3WGZtZjh5VEVkemtXeEw5OTVNUF9TUVJOdml1WUlFc19jOF9uVjRIT3FnQ0tmaWRIMHNfMG1uOQ?oc=5</link>
-      <guid isPermaLink="false">5b649d34acab8dbfc65f2055</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-19 13:30
-Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 CVE-2026-79614はCVSS 9.8、認証不要でコマンド実行のおそれ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
-      <pubDate>Thu, 19 Nov 2026 08:44:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-19T08:44:30.342220Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T04:30:07Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - UQライフ</title>
-      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNLURmUGZNMzZEMS1RWENfaG96TzdIWHEzSUdGQmI4Y1dWNFVKcUxsNFRmMlBGYWFCTzgzVXRJLUUwNGlrYkRXWkJlNlAyRE44UTBWaS04NVRYbm1mN2p5Z0pJWWJvWC1yWWpJUERUUVpsdGJUTUp3UkpYTXhRSWstTQ?oc=5</link>
-      <guid isPermaLink="false">9d653a93376b5e34d693a9fe</guid>
-      <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-17 19:33
-エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を UQライフ</description>
-      <pubDate>Wed, 18 Nov 2026 19:03:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-18T19:03:05.715677Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-17T10:33:58Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - CNET Japan</title>
-      <link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ySVhmUWJyaXJ1V3A1aU91UGZoWFZrYmN1QWVBNHVsVzAtLVA2Qlg3MldEclZfR0d4YzFtVnZlaVFEYURYZEFNckxhbzJKdUctUmc?oc=5</link>
-      <guid isPermaLink="false">7a58fa2e1bb9bb5aa200a53d</guid>
+      <title>[セキュリティ] エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBUakRzMjFqWmpOTDlfeFZ0RWIzdkcyR1RzTzF6LVdpUmZKZFMxMkFuMFk2YUtLNmJHUkhzSXdXQzZmY2xsVVp4STdNTWR3SVA2NTRTeE5vdHdVOXRnY2xxWXEtc01mYmptZ3JWamE1NEZpS0RRSlhISE1PeVNOYWM?oc=5</link>
+      <guid isPermaLink="false">9fb619c4c1411ee59aeea116</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
 元記事日付: 2026-11-17 18:10
-エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を CNET Japan</description>
-      <pubDate>Wed, 18 Nov 2026 19:03:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-18T19:03:05.715677Z</sqm:firstSeenDate>
+エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を Yahoo!ニュース</description>
+      <pubDate>Sat, 21 Nov 2026 11:45:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-21T11:45:50.948408Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-17T09:10:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
@@ -120,30 +92,30 @@ Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ニコニコニュース</title>
-      <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUmhYX01wd2Y0bGw4eW5vZnU4TlZoV3lLeTVvVEZfUDJaRXFpdEhUNXczcGlEc2J6RTN1bDBBSXU1d1BZZlpTOXRfUnY4dGNQSU8weTczd1gxdmw1VmRCdHZzeF8ydmdo?oc=5</link>
-      <guid isPermaLink="false">c7beb2c2ed1f6a8d280f9ce9</guid>
+      <title>[セキュリティ] Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch - Cyber Kendra</title>
+      <link>https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTY0TlltMzFIXzEwOWp1TU1MYTFGdXZqU00yMENhUk9ZelhQZU1XeEVJWVJ6Ykd0aExWSWpfVDdOWWdGS2xfbi0xSjVzbElzREZUbUt5a1VURWJlNTFzcVJyTnNLZnhmNkVfR2tlT3R2eWZzdjNwdTlVUFZfdEVOd3VONjBDRHp3aXRV?oc=5</link>
+      <guid isPermaLink="false">956cf559947e0d0c9271ea29</guid>
       <description>種別: セキュリティ
-ソース: Google News JP: network security
-元記事日付: 2026-11-17 15:42
-エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ニコニコニュース</description>
-      <pubDate>Wed, 18 Nov 2026 19:03:05 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-18T19:03:05.715677Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-17T06:42:11Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+ソース: Google News Global: router security
+元記事日付: 2026-11-20 04:02
+Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch Cyber Kendra</description>
+      <pubDate>Sat, 21 Nov 2026 11:45:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-21T11:45:50.948408Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-19T19:02:40Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>[セキュリティ] エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 - BigGo ファイナンス</title>
-      <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWpPcS11QjJ3ajRpcFNlcVpNYVdTaTEtc3RjeVkxeWoxMVZTNmhYaXpYeUdXOG1RRUItM2JLdlVlUW9kR3ItSUV3Ykgybi14S29tZjU2UkJ3aG1WM2RUdHk4RDJmZXBON3N1NTZ6VlRSeVRP?oc=5</link>
-      <guid isPermaLink="false">342f97e3f687f17333795a7f</guid>
+      <title>[セキュリティ] ネットワークセキュリティ ファイアウォール市場分析レポート：売上拡大、価格変動、需要予測2026-2032 - Newscast.jp</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oNG0yTUVBckFBcm1BTUgxNndhWU5xSGVpTDlEeE8zNktJbGZMdHdSbndsRk9lMFR1eUxWcHdhWEJHcjZ4ZmRvY095LU9zLUE?oc=5</link>
+      <guid isPermaLink="false">56717abf598bbe81d2a52442</guid>
       <description>種別: セキュリティ
 ソース: Google News JP: network security
-元記事日付: 2026-11-17 15:25
-エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 BigGo ファイナンス</description>
-      <pubDate>Fri, 20 Nov 2026 22:39:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-20T22:39:02.436685Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-17T06:25:00Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-20 14:46
+ネットワークセキュリティ ファイアウォール市場分析レポート：売上拡大、価格変動、需要予測2026-2032 Newscast.jp</description>
+      <pubDate>Sat, 21 Nov 2026 11:45:50 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-21T11:45:50.948408Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-20T05:46:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>

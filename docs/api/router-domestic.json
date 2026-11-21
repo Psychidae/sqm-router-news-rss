@@ -1,11 +1,11 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-21T03:28:14.046296Z",
+  "generated_at": "2026-11-21T11:45:49.338025Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
-  "count": 8,
+  "count": 7,
   "errors": [],
   "items": [
     {
@@ -64,37 +64,26 @@
       "score": 6
     },
     {
-      "id": "c7beb2c2ed1f6a8d280f9ce9",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oUmhYX01wd2Y0bGw4eW5vZnU4TlZoV3lLeTVvVEZfUDJaRXFpdEhUNXczcGlEc2J6RTN1bDBBSXU1d1BZZlpTOXRfUnY4dGNQSU8weTczd1gxdmw1VmRCdHZzeF8ydmdo?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ニコニコニュース",
-      "published_at": "2026-11-17T06:42:11Z",
+      "id": "e4649f80c49dce26a89cf708",
+      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5VF9wZ3JWY1hFbHVFTDAxZTdtWkJMdUIzb2ZvRVJ2YTRZbTk2TjYyaTVFemZjdnN0aVlQQnJWUG14NU5McVZ2Z3JjdVQyazlYcldmTQ?oc=5",
+      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ASCII.jp",
+      "published_at": "2026-11-17T06:05:00Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 6
     },
     {
-      "id": "17613a023f4afbdba8b7c3c4",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nQlVQUHNaeVo0ZmIxQXZyTUdTVG9BYV9CNVNldWQzSjV3QXNUdlY1czF6a3M2MGdtd2hMOVY5UXFXZE92ZzNMWFpyMzB3MVJIakpJZw?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ASCII.jp",
-      "published_at": "2026-11-17T06:20:00Z",
+      "id": "a1552aa6a318317a758c486f",
+      "title": "10ギガ回線を生かす3つの確認ポイント ルーター・LANケーブル・端末のボトルネックを探る - RBB TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMUJ1VGFaZl91OGl5a25kT0xtcENpb1RIc01PYmJFSXpPX3dwc3hYSDdEQXJGNjBNRTRWekJUS2F1X2Y0V2ZtdFNBM0NxdnRlc09XZ1hueGxrVzl0SHg3SVYzanpUUQ?oc=5",
+      "summary": "10ギガ回線を生かす3つの確認ポイント ルーター・LANケーブル・端末のボトルネックを探る RBB TODAY",
+      "published_at": "2026-11-19T10:55:50Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
-      "score": 6
-    },
-    {
-      "id": "a905fcf6cb7b4cae1b7744ed",
-      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN3pXMVZGSTliNmpwWGRfbFpWRHU1UmI0X21Wekd3ZUxYTnVBVDRRcU1mc2NLNHVUVno0VVNSNTlITHY0MXhZYXR3eE1ZS1VMeVVTblBSSkVHNDRCV1ZUZWlZcWd0VUYwLVFXTUtZZlpRemM?oc=5",
-      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ニコニコニュース",
-      "published_at": "2026-11-17T06:12:03Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 6
+      "score": 2
     }
   ]
 }
