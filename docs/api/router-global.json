@@ -1,11 +1,11 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-22T03:09:16.016242Z",
+  "generated_at": "2026-11-22T11:13:53.857318Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 10,
+  "count": 8,
   "errors": [],
   "items": [
     {
@@ -18,50 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
       "score": 17
-    },
-    {
-      "id": "d73e4ad2b1eebb035bf44b2f",
-      "title": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMkZnMV9IV212MXFBQTJ1ZXVnTWxjcF9fTVYycHRfRFg2R25keE4zQ3hVeUxBcGtUQmQ3OGx1VTNyaFVYa0xPNG9aRmVwamhUUzBRYTh5cEc3cVA5R0dNT3c5ZjlFeTVIeGpxUUlocmEtcTNLMmlUaktBZU9QSVNibjhsZUZLS3lQSlg4bks4dG9oZ01VWk9J?oc=5",
-      "summary": "TP-Link Wi-Fi 7 Router Hits All-Time Low At Just $79.98 And More Home Networking Deals HotHardware",
-      "published_at": "2026-11-08T12:14:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 15
-    },
-    {
-      "id": "c795a3dbc2c96f137777e3c3",
-      "title": "Early Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFZkQ003QTRvb1J6VFZDMUVGdVF2NU12cTJtNUJiTWpWNzExdjJ1OTdkT0JIblNEVldtdWkwNlVTaFdFQWhYd2V2djlQMW1MdlJBbHVzRGxUdXExOWQ2ME5pWVZZVEluNkg3VlIzLXRlQmsyNDBUczJMZTVPNS1jMGlKdXQtQ0F2OTdWYUloRWJNUQ?oc=5",
-      "summary": "Early Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System PCMag",
-      "published_at": "2026-11-20T08:00:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "edce53cde0851693a30d30a4",
-      "title": "Huawei Launches Affordable Mesh Wi-Fi Router: A Two-Pack for Around ¥15,000 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcnFFNVBpTHJ2RTZmMXF4cjJ3eEZxTG54WlVsUUNTRWdaNzAxRnEtXzByTHh5NVh5dDVfMy1lWmFoNHQteVFRVU1qWDQ2TFBMOEVnVGpMTmk?oc=5",
-      "summary": "Huawei Launches Affordable Mesh Wi-Fi Router: A Two-Pack for Around ¥15,000 ASCII.jp",
-      "published_at": "2026-11-20T07:05:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "14389ee8f76b027496734c79",
-      "title": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price — BE9500 router is now just $89.99, a steep discount from the regular $199.99 price - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOLVlMX09RbThkSDlxQVRWSWw4eVVqR1V3bnF1RzhIOU9mc1dnYUM1LU1uNjdQeXo0R0ZRWDhVYkRxUGZrci1fZi1SOWdzS0Z5RGRtVmRLREpqV0h0RnZXbXFrejY5OWtUQzNvX0gyQ3FHNktwalpLcUcxaTliejV5OUpVYVFwM093TG9hTTRQNVNTd1BnNENsRmxCUV9GN0hyQUhlc0piakRfeXBiVndvOGIyOVRJYmpkeFJNc3lSLVYzZUhWbGNpUkxDcGNjRmRLcmg3Q3VuNTdQTTRTZ2R3TjI3akJmS0tDTlBndWxwTFZzZGdrcmNPaUswR2o3LWFibTljMUEyNWFBV1hvYnIyR1pUTHNYYUpPc0szVmUxN1BtdGo0VW5MM2NIckpmSXE0YlhOYmtoNy1GUjRpV2dDblk1OWk3YktKVjFFemducTQxb0VxQ3d3TXBQQ0VRcXVtMzFwNXhmbDJBM3dTTnRnS2J3?oc=5",
-      "summary": "Score TP-Link Archer with full Wi-Fi 7 support and 10 Gbps wired networking for incredible 55% off its regular price — BE9500 router is now just $89.99, a steep discount from the regular $199.99 pric...",
-      "published_at": "2026-11-19T23:20:25Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
     },
     {
       "id": "047566a79cc81e962c6ee6e1",
@@ -86,37 +42,59 @@
       "score": 12
     },
     {
-      "id": "5978939ccf38141b3b21107d",
-      "title": "I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router delivers plenty of bang for your buck - Tom's Guide",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WkV6akF6aUNRSE1QTXFEQlJ5TEtCS1hISVZ4Wm5VWTUzcnRZcnkyc29UMVlIbjhtQklNX3dIN1VRb1B6bS1SNlk1R3JDbHd0U2daOWpiLUtWeEprTk0ySzhOMVRGdU8wbFNSbnJJY3VyTW0tYmJYa3dtcW1nMkU?oc=5",
-      "summary": "I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router delivers plenty of bang for your buck Tom's Guide",
-      "published_at": "2026-11-17T10:30:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "d5e640547d2d6fd75dbb1023",
+      "title": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmVpYkR1OE1PdzZvS1dxRTdmR0RYUmNyQ2lCZW04R2pfZVFaQlBZZ2hXVzNDV3dhWHNteFpaTVVpcUdaQTVCR29yZjlGVGU5NmZKYXI1NUFmcXRRT2xaWXM3bE1pRlFpcjREajZSY29wd3dtSkpxcWNWa2lCVkxlTEUzRVNuR2M?oc=5",
+      "summary": "We Tested the Viral Minions Wi-Fi Router. Don’t Buy It. The New York Times",
+      "published_at": "2026-11-10T08:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 10
     },
     {
-      "id": "fc03c927ce4b3ddc819d188d",
-      "title": "TP-Link’s Archer BE770 Wi-Fi 7 router is $70 off with two 10Gbps ports - MIXED News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1oyMHROeWpLSFFTSS1sdTNiSjcwZXFRYl9adHgyNjBPSUtjZUtoMUFkUnQwdnh6MmtMazE0d3diZ0k0OWZNRG9BdWxXaXUxV05CRF9DS1dOcUhReXBkaEtDV1k5NEsxcDNpQ3pnWm1XVFdBZC04YnpHU2NLS2JLMA?oc=5",
-      "summary": "TP-Link’s Archer BE770 Wi-Fi 7 router is $70 off with two 10Gbps ports MIXED News",
-      "published_at": "2026-11-16T06:58:20Z",
+      "id": "3d8c34f202a8bfef3c612e6a",
+      "title": "Wi-Fi 7 won't fix your slow internet, but a $20 switch just might - XDA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXlCS182aExFd0M0bC11cjlLY0xxdi1NS1h3R0FLeEpINWo5UVpyQV81SWxsYUlOZUVHZHcwXzBtMl9FR2FyWWRmQVFjVzlqMVAxTWFPSkdXbUhMQklPeHg0VFFucmZadnVraFM4WnlJZVFvTnlJSE83dFM2Skg2WkhHQjV0OUFnTUJMeWpaVQ?oc=5",
+      "summary": "Wi-Fi 7 won't fix your slow internet, but a $20 switch just might XDA",
+      "published_at": "2026-11-21T18:01:21Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 9
     },
     {
-      "id": "bf356bf6210f7d8b8a93d7a6",
-      "title": "Tri-Band Wi-Fi 7 Router with dual 10GbE ports gets 19% price cut in early Black Friday deal - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWlpEZ1RiWnRKN2FtcHlFdm16aVlIRjJHb3hJazFhTS1uaHUzeVNGTUwxY3NTMTJWY1RJdzFmbUdLR3Fwc2tQZjM5RUItMHlrakNnTEx6YXdtNnZDenJhZnlNSWtSRjFuSU1sa21Gai13bXk3M255YXBvMkpqd0Voak1WeV9XRFpMSWx5Rm44U191TXVvRWpGU0U4azc2ZGF1RVFOZXRDdG1KdVdKSzM3UnhGczBtQmlacXI5R3Z3?oc=5",
-      "summary": "Tri-Band Wi-Fi 7 Router with dual 10GbE ports gets 19% price cut in early Black Friday deal PC Guide",
-      "published_at": "2026-11-16T03:51:33Z",
+      "id": "5eea3795f001d8a373c5cf2f",
+      "title": "The Best Wi-Fi Routers We've Tested for 2026 - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81UU9GdmlJZzUtbjl5VFhKWjlIWXJGTFNaUjREOElnZlpSYzEwWVdaVmQ2eGh3Y2RKMEl0QXNfQmhZTkpqNGVhZzN0WWdwNy1RTkJfNmw1NlZKM3ZXVUdKRk9VVQ?oc=5",
+      "summary": "The Best Wi-Fi Routers We've Tested for 2026 PCMag",
+      "published_at": "2026-11-20T08:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 8
+    },
+    {
+      "id": "a5079a414ff262f1e84070d3",
+      "title": "Do You Need A Fiber Internet Connection For Wi-Fi 7 To Matter? - BGR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMF9XNE8zdEZyWGM1ZEtpNE16TlpmR3N4UUhDUkNlOWRuaWZuRlVpNTNvQl9qQTY2TldweUJRcHIyVjdSemIzeEt3RzlrUUxuYTNfb0M2ekY0UFRNSjUxaDJranZ6UXRsd3hRSnhlVkFfNFVTZUltWlJsVGVsWTIwT01xYw?oc=5",
+      "summary": "Do You Need A Fiber Internet Connection For Wi-Fi 7 To Matter? BGR",
+      "published_at": "2026-11-15T18:47:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 12
+      "score": 7
+    },
+    {
+      "id": "929aceddb00e82be9fe69445",
+      "title": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5",
+      "summary": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times",
+      "published_at": "2026-11-12T08:00:00Z",
+      "source": "Google News US: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 6
     }
   ]
 }
