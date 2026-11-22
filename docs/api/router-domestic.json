@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-22T11:13:53.093686Z",
+  "generated_at": "2026-11-22T18:29:27.152898Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -29,6 +29,17 @@
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 12
+    },
+    {
+      "id": "917af4bcb33b6bbf8f2a5284",
+      "title": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PbGM5dmZYUmstUzBrdWZ0THR1Nm9TR1hWem1YN3NhVU9rdWJpZm1hclVmRnFwcnJ0RllDcHZvb3R6THVlN2wxMkxzdV9BWXNUc1pLSDdOaDVmc1NXZldfblN0TkdSMG5HNzRmUERmXzJrT3VmX1dJakd3?oc=5",
+      "summary": "バッファローのWi-Fi 6対応モデルが首位 無線LANルーター人気ランキングTOP10 2026/11/16 BCN Retail",
+      "published_at": "2026-11-16T03:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 11
     },
     {
       "id": "5d93294f8b98665892bb802b",
@@ -80,17 +91,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nQlVQUHNaeVo0ZmIxQXZyTUdTVG9BYV9CNVNldWQzSjV3QXNUdlY1czF6a3M2MGdtd2hMOVY5UXFXZE92ZzNMWFpyMzB3MVJIakpJZw?oc=5",
       "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ASCII.jp",
       "published_at": "2026-11-17T06:20:00Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 6
-    },
-    {
-      "id": "a905fcf6cb7b4cae1b7744ed",
-      "title": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EN3pXMVZGSTliNmpwWGRfbFpWRHU1UmI0X21Wekd3ZUxYTnVBVDRRcU1mc2NLNHVUVno0VVNSNTlITHY0MXhZYXR3eE1ZS1VMeVVTblBSSkVHNDRCV1ZUZWlZcWd0VUYwLVFXTUtZZlpRemM?oc=5",
-      "summary": "エレコム、Wi-Fiルーター「WRC-W701-B」などに脆弱性 最新ファームにアップデートを ニコニコニュース",
-      "published_at": "2026-11-17T06:12:03Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
