@@ -1,13 +1,24 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-22T18:29:29.353530Z",
+  "generated_at": "2026-11-22T23:49:35.995946Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 4,
+  "count": 5,
   "errors": [],
   "items": [
+    {
+      "id": "cbe54cffe40cdb3fa2915320",
+      "title": "Western Sierra County Phone and Internet Outage Update November 2026 - SierraDailyNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUdOZ0tFX3N4WWQ1OHpkSWhSWUtYYTJRaW54WmFqRUJITlppNU1yUEVsTTF0X0RrXy1VOHEyUEtNR0hSU1RDVUFGeDhUY3ZzMnlsWGJlRDlyamxFb0Q3ZllVX2tMRC14U2l2Wkl0V3VkWWhSalk5QmQzY18taFpFSDlyZ011WVllbVhub2N5V3hOcnc3S1loZGRmM3pvTW5QN1RhLU1Ta2NBbHM?oc=5",
+      "summary": "Western Sierra County Phone and Internet Outage Update November 2026 SierraDailyNews.com",
+      "published_at": "2026-11-22T22:48:41Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 9
+    },
     {
       "id": "ef0ce68d9eb2c8c3678a95e6",
       "title": "なぜドコモばかりで通信障害が相次ぐのか？5G SAで12日間に3度の全国通信障害、2回目以降の発端はなお不明のまま 【生成AI事件簿】初回は最大約158万7000回線に影響、暫定措置後も障害が相次いだ背景と公表資料に残る疑問 - JBpress",
@@ -17,7 +28,7 @@
       "source": "Google News JP: network outage",
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "e3312317ebbf396d5e4d8c1e",
@@ -28,7 +39,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "79e23ba855d42fad9542d510",
@@ -39,7 +50,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 8
+      "score": 7
     },
     {
       "id": "f13f86d963b8713a7c5a2dd1",

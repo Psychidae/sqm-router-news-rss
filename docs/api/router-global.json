@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-22T18:29:27.930085Z",
+  "generated_at": "2026-11-22T23:49:34.588548Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -28,7 +28,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 13
+      "score": 12
     },
     {
       "id": "ab5af27859ff25dd6d10164b",
@@ -53,11 +53,22 @@
       "score": 12
     },
     {
-      "id": "f2ea7a35dce513ce8c87f642",
-      "title": "Huawei built a Wi-Fi 7 router that hides on a bookshelf - The Gadgeteer",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaktrbk9DeEJlMkRKbEpzSlZsbUFVV2hBTUN5anlJMHdtUFdWNGIyQlczTnJlTnpMVFpZWUJuSk9HXzdoeE9vNVBsaHJhSkdWdXc3ZFB1N3k1UDlrWHFpOFZuNDlyVmMtbTZPQmNLVF95SExvVzRzZUlha2ozUnhjeC1KYnhDaTlEejI5VzdWWWo0WFA4MGtVSw?oc=5",
-      "summary": "Huawei built a Wi-Fi 7 router that hides on a bookshelf The Gadgeteer",
-      "published_at": "2026-11-17T13:51:59Z",
+      "id": "741f04cdf0886a26f9d048dc",
+      "title": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYlZDamdjbUZNUGlyc0dsSG9uTnE2UU5XelVzMnlHU2p4aDFZd0d6UkJqUzBUSDM0UTFRNmZXRllMcFVpWlRNdXBiSVpGNGhlWDl4YnhaVzhnQnBRQjJMOGVzWUZZVmcxSjgtTU5LbmpVU3NUT1E0SXdLRUtYbUNqVi0zSmRzZEtmSFpxTHNYdENxeTNFRWEzWExqMzIxWmM?oc=5",
+      "summary": "Huawei’s new Wi-Fi 7 router is camouflaged to look like a book on a shelf. The Verge",
+      "published_at": "2026-11-17T17:20:47Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 12
+    },
+    {
+      "id": "5978939ccf38141b3b21107d",
+      "title": "I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router delivers plenty of bang for your buck - Tom's Guide",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03WkV6akF6aUNRSE1QTXFEQlJ5TEtCS1hISVZ4Wm5VWTUzcnRZcnkyc29UMVlIbjhtQklNX3dIN1VRb1B6bS1SNlk1R3JDbHd0U2daOWpiLUtWeEprTk0ySzhOMVRGdU8wbFNSbnJJY3VyTW0tYmJYa3dtcW1nMkU?oc=5",
+      "summary": "I tested the Netgear Nighthawk RS150 and this affordable Wi-Fi 7 router delivers plenty of bang for your buck Tom's Guide",
+      "published_at": "2026-11-17T10:30:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yT2s0ak0yTjBfeWdyZUIza09uWGdmcG5ZSmZOUHh5RE5HOHVQZ0hJOW8xSG1uTmVBT095anduQWxhazhBbkQyYVI5TlljVWVVUFdlVEIwZDAza0RGZnFsSHc0THE?oc=5",
       "summary": "Best Wi-Fi Routers for 2026: We Rank the Fastest 5th, 6th, 6E and 7th Gen Models CNET",
       "published_at": "2026-11-20T15:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 8
-    },
-    {
-      "id": "5eea3795f001d8a373c5cf2f",
-      "title": "The Best Wi-Fi Routers We've Tested for 2026 - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81UU9GdmlJZzUtbjl5VFhKWjlIWXJGTFNaUjREOElnZlpSYzEwWVdaVmQ2eGh3Y2RKMEl0QXNfQmhZTkpqNGVhZzN0WWdwNy1RTkJfNmw1NlZKM3ZXVUdKRk9VVQ?oc=5",
-      "summary": "The Best Wi-Fi Routers We've Tested for 2026 PCMag",
-      "published_at": "2026-11-20T08:00:00Z",
       "source": "Google News US: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
