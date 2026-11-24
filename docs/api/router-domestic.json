@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-24T15:15:54.874558Z",
+  "generated_at": "2026-11-24T23:54:05.306774Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -13,6 +13,17 @@
       "title": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC - Impress Watch",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQVktZU40b3VIY1hSOEFqMFRZWU5ZUzVBUGVYajF0TWJJNTkxdTRmNi14SmlKTjQ1bExCZHpxaEFYVjNlQnNqbXdKRGREd0IzQWp0OUw5TUo1eFdJaEgxanR0MU8?oc=5",
       "summary": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC Impress Watch",
+      "published_at": "2026-11-24T05:12:15Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 18
+    },
+    {
+      "id": "cc8dc0ef1d8040396051fb6f",
+      "title": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTNpRUhfRkVWNUVLTnRuZ3lSaFN5Z3N1U0dZa2FQMWN3R1JGdy1zSHZzLWk3RjlfekpiaTNhZjJfc3ZxS3FCRXpiZ1FGQ0tOOE5WOFNZbGxQREtJWG91aWpFVHBHWXB1clBCQmdsT3d6X0xHYWJWLXFLOTFQVXpBU2dCR0JmSDRDaU1UZDFB?oc=5",
+      "summary": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) Yahoo!ニュース",
       "published_at": "2026-11-24T05:12:15Z",
       "source": "Google News JP: router vendors",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -42,59 +53,48 @@
       "score": 16
     },
     {
-      "id": "0c8ffe4e97ee62b8a8b24bba",
-      "title": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から（ITmedia Mobile） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hY1BDRVZJMVBPT3lmbUNHZWlGWm5EZUFOaE43V1BiRnNMVHREa04yR042cTI2RXY1R0lBQXBTZElwd1FnTmpzZGR6RGJMcTdWbTZRLWVfcExaTGNOaGdyRk1oT1hXVVUxMVR2VzFwNHBtb2Q1M0tveUhNWDVFbFk?oc=5",
-      "summary": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から（ITmedia Mobile） Yahoo!ニュース",
+      "id": "c83c1ba9d38d8ec9545f358c",
+      "title": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 (BCN) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2lFNlJuLXJDd0NsMWJPZTNHWlNDT1pZcjRwUGVGc3VuUmI4bm9veHlYUFlsaldtR295US05N3N4STktQS0xTnpMcGY5bEtHLXR0YXZhSWZpdExQM3ZqRVJRN09aUGJ6cXF6NUh3YU9Ib0RPSlJZRExNd2dMTUU4NVAtQUtIbFdCZ0JuZmh3?oc=5",
+      "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 (BCN) Yahoo!ニュース",
+      "published_at": "2026-11-12T08:26:22Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "6b3412979928cc3304e06e44",
+      "title": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 - BCN Retail",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41cU53d2dJakEwLTA2bVd4OFVvcThib1AtV2ZrSEI0bmRzUVF6cXVhSUFicXFkdE1EUWF1WVlWTVJKbnA0VmNld2RMSkNKcENrSXRSaWMxb29uVkN2US0xU2FIRUllTTdiSlE?oc=5",
+      "summary": "エレコム、Wi-Fi 7対応ルーター新製品を発売 最大6000Mbps超の高速通信とAIセキュリティー搭載 BCN Retail",
+      "published_at": "2026-11-12T07:00:00Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 15
+    },
+    {
+      "id": "91adab06b4ca0dc1e4d13d54",
+      "title": "UQ、ホームルーター「Speed Wi-Fi HOME 5G L14」とモバイルルーター「Speed Wi-Fi 5G X13」発売（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oNkdUQjBFVTFrRHhpNHVSUTk3czE1SC1TZXVtRnlmS3Fqb0JOLTE3MUZ2VVh3LTBIdzVHRDByU1hMbDVVY1E4MXNxZHZQbUVrNXBsRGlxbEdsRUNvbmFnMk9nZ2NKZmNZNDhhMUdjdUlKNUZsRl9jd2Qzek9PTjQ?oc=5",
+      "summary": "UQ、ホームルーター「Speed Wi-Fi HOME 5G L14」とモバイルルーター「Speed Wi-Fi 5G X13」発売（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-11-24T22:35:29Z",
+      "source": "Google News JP: router products",
+      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 13
+    },
+    {
+      "id": "49bdaf111409c4efeb297ab9",
+      "title": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4NHBtWE1ZcGw4RnBrN0gzSHhoRHdOZUMtU2tyb1dyMUdqaURFOXoybWtMZHhnaWpzVXFNQ2Zua0xLRFZlU2tiaGx1akJ0dGl6U0Zzb1lNY2JoSV9aQzVUNmY0NWc5TXRhS1VhWnNFZHFESzRKTlHSAXZBVV95cUxQeDRwbVhNWXBsOEZwazdIM0h4aER3TmVDLVNrcm9XcjFHamlERTl6Mm1rTGR4Z2lqc1VxTUNmbmtMS0RWZVNrYmhsdWpCdHRpelNGc29ZTWNiaElfWkM1VDZmNDVnOU10YUtVYVpzRWRxREs0Sk5R?oc=5",
+      "summary": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から Infoseek",
       "published_at": "2026-11-24T07:49:56Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 13
-    },
-    {
-      "id": "739bc93f87b60c8dee520c6b",
-      "title": "UQ、ホームルーター・モバイルルーターの新機種12月発売 双方とも5G SA対応 - ビジネスネットワーク",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55WHB1UHRDa2RBUXJsQ2ZGZU9Sd3o1cU1QUEpZanFWZlRteEJaT19KdWFDUzRfbk9EUWhVdGlObnhlTzZIN3c3c2FCYTZYWTBwNVFz?oc=5",
-      "summary": "UQ、ホームルーター・モバイルルーターの新機種12月発売 双方とも5G SA対応 ビジネスネットワーク",
-      "published_at": "2026-11-24T05:49:12Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "bf33cdf7ed55e36e82f3b59d",
-      "title": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から - ITmedia Mobile - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83dTBkV3RQRkJxU3E0NVZwTW1rQVBYSDlSeVVqbkdsS2MyYUhaWDdyWlV2dGlkeHh4elBoVzFHNTRwVWhKdFM5VGh4ZTA0YXJIS3pEa1pGUFF2akwyZ0dFTEQyRVVMY1Z10gFoQVVfeXFMTzd1MGRXdFBGQnFTcTQ1VnBNbWtBUFhIOVJ5VWpuR2xLYzJhSFpYN3JaVXZ0aWR4eHh6UGhXMUc1NHBVaEp0UzlUaHhlMDRhckhLekRrWkZQUXZqTDJnR0VMRDJFVUxjVnU?oc=5",
-      "summary": "UQ WiMAX、12月にホームルーターとモバイルルーターを発売 約2.5万円から - ITmedia Mobile ITmedia",
-      "published_at": "2026-11-24T05:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "a2ea8b980c3c1109efbb2716",
-      "title": "ホームルーター「Speed Wi-Fi HOME 5G L14」とモバイルルーター「Speed Wi-Fi 5G X13」を12月に発売 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HOWJxSXRNcVhLVENkUF9aNWhic3FQTzJSY0t4RWphc2VtUm9mOXRuRUZINi1jb0g0S19URVBUQUd3eDU0YlRFQk1Gd1lRZlMwRGF6WFI5emxWbFIxNU9vTlU3N0Zudk9PUV9QUmlRVWpqdw?oc=5",
-      "summary": "ホームルーター「Speed Wi-Fi HOME 5G L14」とモバイルルーター「Speed Wi-Fi 5G X13」を12月に発売 Infoseek",
-      "published_at": "2026-11-24T04:45:29Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 13
-    },
-    {
-      "id": "4d7f2f64e76deab089c4ff6b",
-      "title": "それが今回紹介する「バッファロー Wi-Fi 7 ルーター 2882+688Mbps デュアルバンド WSR3600BE4P/NBK」 やねん！ - note",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtb1l3b05IajFNbEdoeGtBRnQ0UHowLWljc2wwNmIwbm9mYmxVVHo5TmU0RnZmdkcyb0FwbUFEQ2Q4c3JOWndNOS1BMmJ5bUU?oc=5",
-      "summary": "それが今回紹介する「バッファロー Wi-Fi 7 ルーター 2882+688Mbps デュアルバンド WSR3600BE4P/NBK」 やねん！ note",
-      "published_at": "2026-11-23T05:08:02Z",
-      "source": "Google News JP: router vendors",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 12
     }
   ]
 }
