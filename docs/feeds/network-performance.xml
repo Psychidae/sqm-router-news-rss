@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 04:26:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:15:57 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
+    <item>
+      <title>[性能・障害] Internet outage foreces office meeting - The Korea Times</title>
+      <link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPaW1UTGlkd0ZsM1pzalo0NC1leDRfRnFfXzhDLWxtLUxCNXlHdnVqRXlsRkRDYVBNd2xyWlZBdHRKVi1xOEQxZnlVMnF0TGoxcnVzTkpqMFJ6TGl3OG44WkZoSkJyMVh6UGgwZ3dJdVY2bEZJaHBhaHo4Zl81MjZQN1RTdjFNTjRKV3BpZdIBkgFBVV95cUxOTXNqdm1Jc2doRnEyQTIxQWhqUHZuQ3BGN3FSV2gwVS1OblN0ekFLcS1lNHN6bjhzNHRra1RybVAxYkhmQnpXME9UTndnYmU3NklMX0xJM1BpVFc1QlZfYnNHMW5lbEVFVkdiSzB4MEtmZTlJcXpoMHBSM3F6LUxMWnp0UDhSNWpKY3hIWU91MVVhQQ?oc=5</link>
+      <guid isPermaLink="false">7ddc938a1e217b8c852dabf6</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-24 13:20
+Internet outage foreces office meeting The Korea Times</description>
+      <pubDate>Tue, 24 Nov 2026 15:15:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-24T15:15:57.957447Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-24T04:20:03Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
     <item>
       <title>[性能・障害] なぜドコモばかりで通信障害が相次ぐのか？5G SAで12日間に3度の全国通信障害、2回目以降の発端はなお不明のまま 【生成AI事件簿】初回は最大約158万7000回線に影響、暫定措置後も障害が相次いだ背景と公表資料に残る疑問 - JBpress</title>
       <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcEltN005eWI2dWpKazJjb3Z5WmVfVVBpUG5kRlZtTlo5RG5FV3FRMzF1cHBZejFyYWxTVHMwNTF1QVY5REVkSms5dDhIaExWdVVua3pB?oc=5</link>
@@ -46,6 +60,20 @@ Internet outage closes Monroe County government buildings Indiana Public Media</
       <pubDate>Fri, 20 Nov 2026 07:06:53 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-20T07:06:53.883805Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-19T19:02:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region - Tom's Hardware</title>
+      <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxPT2ZPLU1ocmJ2TXgyb1JzWE0wLVBKX0R5S1o2NmozQVdhaVRMWmdTdGJRNkVKcjhCRXhUMm9wSkZkRnU0MHJwTFJhdHVqVlZGVDFKa1lSRkJIeHR2Yng5SzZwLUpQTzhfN3lmS1g3RVh0c1NwZnkzTk1DM0pqUjU1WW9OU1FWU2hLS2w2c2NIbGk0ZUZZNTZCck0wYUw5RXJQZS1udWx1Nm5vdG9Nbnh6MUxrUmVIM2l6aUJsMWI4bldTaFUycUtsQmh2MlR2eWNfeEdHSzZzWS1DSFF0MXFYMXdQWkJKM0g1eFhPTndRc1M5cHNpdnZsbklxTnZCTE1ZZ0RHeFhWVGd0QUt3NG9qaXhsb3U0TlM1WlFwWllYbWM3dw?oc=5</link>
+      <guid isPermaLink="false">f13f86d963b8713a7c5a2dd1</guid>
+      <description>種別: 性能・障害
+ソース: Google News Global: network performance
+元記事日付: 2026-11-19 21:30
+Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region Tom's Hardware</description>
+      <pubDate>Tue, 24 Nov 2026 15:15:57 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-24T15:15:57.957447Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-19T12:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

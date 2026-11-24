@@ -1,13 +1,24 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-24T04:26:02.352410Z",
+  "generated_at": "2026-11-24T15:15:56.644504Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 10,
+  "count": 6,
   "errors": [],
   "items": [
+    {
+      "id": "60bf784a99b7605180bb0c59",
+      "title": "屋内用スマートセキュリティカメラの世界市場（2026年～2032年）、市場規模（Wi-Fiスマートセキュリティカメラ、有線スマートセキュリティカメラ、セルラースマートセキュリティカメラ）・分析レポートを発表 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaRGRZa3BrZFlITEI5SFRDbjlSV29PYUdwaTJHY1c5eC1KUUZmMDMyOVlUYlMzY1dvZmU2YjRUMEpUclRLbnR1U0gtamVBNUk?oc=5",
+      "summary": "屋内用スマートセキュリティカメラの世界市場（2026年～2032年）、市場規模（Wi-Fiスマートセキュリティカメラ、有線スマートセキュリティカメラ、セルラースマートセキュリティカメラ）・分析レポートを発表 アットプレス",
+      "published_at": "2026-11-24T08:30:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "c3c954e8bd6dee3e4d2c90d1",
       "title": "ランサムウェア集団がGlobalProtect VPNの脆弱性を悪用――確認すべき点 - eSecurity Planet",
@@ -53,70 +64,15 @@
       "score": 11
     },
     {
-      "id": "7a58fa2e1bb9bb5aa200a53d",
-      "title": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - CNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ySVhmUWJyaXJ1V3A1aU91UGZoWFZrYmN1QWVBNHVsVzAtLVA2Qlg3MldEclZfR0d4YzFtVnZlaVFEYURYZEFNckxhbzJKdUctUmc?oc=5",
-      "summary": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を CNET Japan",
-      "published_at": "2026-11-17T09:10:00Z",
+      "id": "aae9e40cafcf65f4c7bfcb4b",
+      "title": "グローバルネットワークセキュリティ ファイアウォール市場調査データ2026：販売量、平均価格、成長トレンド - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYURrb1BNYTljTjNsc2tVTUFiYXdKa3A4VC02cmhLUnBUZ1FGU0FzQXJQbGZsZG1EVk9fekFlNnFMem5kY29TbWRvZ00zM1U?oc=5",
+      "summary": "グローバルネットワークセキュリティ ファイアウォール市場調査データ2026：販売量、平均価格、成長トレンド Newscast.jp",
+      "published_at": "2026-11-23T06:30:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "dce3dc792bf3c742d1e94584",
-      "title": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFI1cXVJVHpubjJ0X3dkMXJOT2piNnEybEZPbDVHUTJiUGo5eUZYdEEwNkRqd0N0d0ZGNDFiTS1HcEN2a1B3RWJNY2JMa2lUbGpQWkMtMHNGdzJubHN1Qml1YzJRaUZ1OE9lSldLNURIMmhpVWhGdDZINW5hdlVHVjUwdmFPWlI3VU5sQkdR?oc=5",
-      "summary": "エレコムのWi-Fiルーター3機種に脆弱性 対策済みファームウェアへ更新を Yahoo!ニュース",
-      "published_at": "2026-11-17T09:10:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "81ac9eac0e6c8c29c4bf9d89",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zNnp1ZGJCX044S1J1RHV3QTZwQWwxZmNSMkxRSUJjNVhtSldzVWFCS0xXdDhPRndKa1Vrb0lGdzVXVkU3STlqZU9sOFhsTVF3TjNXNXRXVGxVZ09sRnB1X2NCNC1ZaW15TEZJ?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を INTERNET Watch",
-      "published_at": "2026-11-17T07:25:53Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "52cf07790d1a63be8034137e",
-      "title": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を (INTERNET Watch) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2o3eElvSjJscVFJemlHN2t2WmYyTGlKUjQ2MkY3bmRlX2IxSG5Zbk5aeHIwRVlKOVJ3emktNFRJZ3JyMmRFOWxJcEg3QXRzdzRxRjAtblc1NGtPTUNCcjk0eDVJV1YxUHZOWXZ1Ymt0UWpzZWpJRkhtT0phN2o1cWVPSU13SVU3dU1oZ19n?oc=5",
-      "summary": "エレコムのWi-Fi 7対応ルーター3製品にOSコマンドインジェクションの脆弱性、ファームウェアの更新を (INTERNET Watch) Yahoo!ニュース",
-      "published_at": "2026-11-17T07:25:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "342f97e3f687f17333795a7f",
-      "title": "エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUWpPcS11QjJ3ajRpcFNlcVpNYVdTaTEtc3RjeVkxeWoxMVZTNmhYaXpYeUdXOG1RRUItM2JLdlVlUW9kR3ItSUV3Ykgybi14S29tZjU2UkJ3aG1WM2RUdHk4RDJmZXBON3N1NTZ6VlRSeVRP?oc=5",
-      "summary": "エレコム製Wi-Fiルーター3機種にOSコマンドインジェクション脆弱性、JVNが注意喚起 BigGo ファイナンス",
-      "published_at": "2026-11-17T06:25:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "17613a023f4afbdba8b7c3c4",
-      "title": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nQlVQUHNaeVo0ZmIxQXZyTUdTVG9BYV9CNVNldWQzSjV3QXNUdlY1czF6a3M2MGdtd2hMOVY5UXFXZE92ZzNMWFpyMzB3MVJIakpJZw?oc=5",
-      "summary": "エレコム、Wi-Fiルーターの脆弱性で対象機種を追加 ファームウェアアップデート提供 ASCII.jp",
-      "published_at": "2026-11-17T06:20:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
+      "score": 7
     }
   ]
 }
