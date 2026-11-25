@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-25T08:24:01.108252Z",
+  "generated_at": "2026-11-25T18:49:40.296616Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -35,7 +35,7 @@
       "title": "NTT Docomo launches Wi-Fi 7 5G home router in Japan - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUhKN2ZmRTZnek5IZFB4U1ZGZVhEOXN1RjdTUWJwLTBaOVVKMUE4YWZQSXZYb1o0MEFNV3R6U3ZxOVJHM2NMbEg5RVk4NG01M19FNUY1TXRmR0NPaEtPQzhDM3g4dTdYaFdXMXkzU21LS0RRbklNVU8ycnRRUDczOU0wYzJFb0xfY1ZQZFBDTTFCVGRUaE1idU93?oc=5",
       "summary": "NTT Docomo launches Wi-Fi 7 5G home router in Japan Telecompaper",
-      "published_at": "2026-11-25T06:25:12Z",
+      "published_at": "2026-11-25T06:25:39Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -61,7 +61,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "1ac51f481cb28c6b1a8925d3",
@@ -72,7 +72,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "f8b60f670f9b3ebae6bdf351",
