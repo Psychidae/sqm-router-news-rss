@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-24T23:54:08.326960Z",
+  "generated_at": "2026-11-25T08:24:02.876331Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 9,
+  "count": 2,
   "errors": [],
   "items": [
     {
@@ -17,84 +17,7 @@
       "source": "Google News Global: network performance",
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
-      "score": 9
-    },
-    {
-      "id": "cbe54cffe40cdb3fa2915320",
-      "title": "Western Sierra County Phone and Internet Outage Update November 2026 - SierraDailyNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUdOZ0tFX3N4WWQ1OHpkSWhSWUtYYTJRaW54WmFqRUJITlppNU1yUEVsTTF0X0RrXy1VOHEyUEtNR0hSU1RDVUFGeDhUY3ZzMnlsWGJlRDlyamxFb0Q3ZllVX2tMRC14U2l2Wkl0V3VkWWhSalk5QmQzY18taFpFSDlyZ011WVllbVhub2N5V3hOcnc3S1loZGRmM3pvTW5QN1RhLU1Ta2NBbHM?oc=5",
-      "summary": "Western Sierra County Phone and Internet Outage Update November 2026 SierraDailyNews.com",
-      "published_at": "2026-11-22T22:48:41Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "bceb1c259e285ced3ccd4dee",
-      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThUbV9wRkNxS2NtYXItUTBzWm9PRGk1MjRyb0ZOWGgtMTJueUVUbTRNQ2lBdjY1UW5SQW4ydlFUcWNTaDFpSUZrc0RybTRpX285LTBnaV9MTTNXU2lIa3BwSXR1NlNmNGVRYUJscm90dTQyMFlhV3JtTHpMVmFHLVhqSlhZSW5nOXpaUGotakZ6MHJuUzJqUTE1MHdVMEJHSk55QTVEONIBuwFBVV95cUxNY0swSzNwMTgxQ1RaSmVBWHM1NHZPaUg5cVhUMC03ekR4VXBvUElIQWVwQWZEQmpGN0JSVk1OVldhVUlDNlBsVlpkTmE5OFo0Rm9hblZib1JRbTl0bjdTNFRYbXBSQS1CbXdxbjQwQnBfMmtlbGJkX3NPUVlwRHo4THZiR0l2TDN0UXU5ZmdOZnA2aXJRQlBmSV9PY2s4VjFCTnNrc252QkJYQWJDcUFhR0U0a1NXYUlIRXpJ?oc=5",
-      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
-      "published_at": "2026-11-21T01:31:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "9b1115802c48a29c47f0b6aa",
-      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWdTVE52Zk51cGUtZzJhMXRNc2loeE9tR3VrTlFKNTQ5Q3lhb0xhVGdrT2g2YXVPR2h5X1YzeWtnSUp4aFdKZ0U2aXFoWHNZdkpXbl9XTFk1aE93WUhzRjZwMnE0SDNwSmh2TEt5VzhrR3p6aGFRSm5hYnVsZHBMbnBZVW44aWJzS1diSDV6aTM0WXhNZnpHNDh0UmZYVkE4RFYzc3NrYi1BM2cxcHE0?oc=5",
-      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
-      "published_at": "2026-11-21T01:19:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "e3312317ebbf396d5e4d8c1e",
-      "title": "Vandalism to fiber lines caused brief Wilmington internet outage - Delawareonline.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUsxQzlBOXpoZXdlcGFfd2FBU1FRMmxUTGduOUg2WlRReHRYSGY0U2djVl9fc2hjMDBrX09ORHJZc1hqUmJqQW9uMmliYkItQUw3QmtEZlVlRTNtaUs0TnVhZVFPMDh4cklOcGEtQm1LZ2ZLU3FWcE9mYnROalhPbV94c3RMVC1CSkMzYzlzNTNqT181NGh1Vzk4OTNIMDVkNUZKeUNyN3MtNDNwTFREZ2w5dl90LXdjenQ5LWJRQk1pdDcwdmtCWjhNdzZWVDg?oc=5",
-      "summary": "Vandalism to fiber lines caused brief Wilmington internet outage Delawareonline.com",
-      "published_at": "2026-11-19T20:46:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "79e23ba855d42fad9542d510",
-      "title": "Internet outage closes Monroe County government buildings - Indiana Public Media",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHpaVXBHU2dqT0VjV1RjcjVISXhRRjVQQ2U1b1BseGFPbjRNamdveDJIWHptaFNwbFhac0tMTVVIZHVwWWEzTjFCenBnMEZaeGw4bWxXTXFpYm4xUllzZ19tdFR1ZzkycXk0TEVFVkktMVM4YU9oTGVMOHk2VklnMkNoQldaQUk4TC10YzI1UjFvbGVmZ3o3Qw?oc=5",
-      "summary": "Internet outage closes Monroe County government buildings Indiana Public Media",
-      "published_at": "2026-11-19T19:02:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "f13f86d963b8713a7c5a2dd1",
-      "title": "Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPT2ZPLU1ocmJ2TXgyb1JzWE0wLVBKX0R5S1o2NmozQVdhaVRMWmdTdGJRNkVKcjhCRXhUMm9wSkZkRnU0MHJwTFJhdHVqVlZGVDFKa1lSRkJIeHR2Yng5SzZwLUpQTzhfN3lmS1g3RVh0c1NwZnkzTk1DM0pqUjU1WW9OU1FWU2hLS2w2c2NIbGk0ZUZZNTZCck0wYUw5RXJQZS1udWx1Nm5vdG9Nbnh6MUxrUmVIM2l6aUJsMWI4bldTaFUycUtsQmh2MlR2eWNfeEdHSzZzWS1DSFF0MXFYMXdQWkJKM0g1eFhPTndRc1M5cHNpdnZsbklxTnZCTE1ZZ0RHeFhWVGd0QUt3NG9qaXhsb3U0TlM1WlFwWllYbWM3dw?oc=5",
-      "summary": "Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region Tom's Hardware",
-      "published_at": "2026-11-19T12:30:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "648261a0fa46615e60810b0d",
-      "title": "Seaford schools close amid phone and internet outage - CoastTV",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSDJDTXpzWkZqMlJSNHhQYkxGZzJiaWlQX0lfcUgxX1lPMkJSakp6a0VHM1E2TWxVLXZ2bGRDRXVEY29YV2pNd2VJOS1EQS15SzBnOGZqQVNlcXZDWlZfcG5pMTdJUWQtVmN2LXp5amh6UTE2MlREQnZpUzQ3UVBjclJ5NWVmc3NRa1dTdjFaQnJRWUxneGV1RVI4Z0xYM21aZG9ORVVzWWpWNUM4SDE5SHBNR2Z5VkhzZ1JlamU4akQ1V2ROcEtXajdPalJrVzQ?oc=5",
-      "summary": "Seaford schools close amid phone and internet outage CoastTV",
-      "published_at": "2026-11-18T12:40:00Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
     },
     {
       "id": "ef0ce68d9eb2c8c3678a95e6",

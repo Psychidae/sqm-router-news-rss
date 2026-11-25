@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:54:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:24:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
       <title>[性能・障害] Internet outage foreces office meeting - The Korea Times</title>
@@ -18,104 +18,6 @@ Internet outage foreces office meeting The Korea Times</description>
       <pubDate>Tue, 24 Nov 2026 15:15:57 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-24T15:15:57.957447Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-24T04:20:03Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Western Sierra County Phone and Internet Outage Update November 2026 - SierraDailyNews.com</title>
-      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUdOZ0tFX3N4WWQ1OHpkSWhSWUtYYTJRaW54WmFqRUJITlppNU1yUEVsTTF0X0RrXy1VOHEyUEtNR0hSU1RDVUFGeDhUY3ZzMnlsWGJlRDlyamxFb0Q3ZllVX2tMRC14U2l2Wkl0V3VkWWhSalk5QmQzY18taFpFSDlyZ011WVllbVhub2N5V3hOcnc3S1loZGRmM3pvTW5QN1RhLU1Ta2NBbHM?oc=5</link>
-      <guid isPermaLink="false">cbe54cffe40cdb3fa2915320</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-23 07:48
-Western Sierra County Phone and Internet Outage Update November 2026 SierraDailyNews.com</description>
-      <pubDate>Tue, 24 Nov 2026 23:54:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-24T23:54:08.326367Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-22T22:48:41Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Infinity Link says cut fiber wires caused internet outage in Greene County - WITN</title>
-      <link>https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThUbV9wRkNxS2NtYXItUTBzWm9PRGk1MjRyb0ZOWGgtMTJueUVUbTRNQ2lBdjY1UW5SQW4ydlFUcWNTaDFpSUZrc0RybTRpX285LTBnaV9MTTNXU2lIa3BwSXR1NlNmNGVRYUJscm90dTQyMFlhV3JtTHpMVmFHLVhqSlhZSW5nOXpaUGotakZ6MHJuUzJqUTE1MHdVMEJHSk55QTVEONIBuwFBVV95cUxNY0swSzNwMTgxQ1RaSmVBWHM1NHZPaUg5cVhUMC03ekR4VXBvUElIQWVwQWZEQmpGN0JSVk1OVldhVUlDNlBsVlpkTmE5OFo0Rm9hblZib1JRbTl0bjdTNFRYbXBSQS1CbXdxbjQwQnBfMmtlbGJkX3NPUVlwRHo4THZiR0l2TDN0UXU5ZmdOZnA2aXJRQlBmSV9PY2s4VjFCTnNrc252QkJYQWJDcUFhR0U0a1NXYUlIRXpJ?oc=5</link>
-      <guid isPermaLink="false">bceb1c259e285ced3ccd4dee</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-21 10:31
-Infinity Link says cut fiber wires caused internet outage in Greene County WITN</description>
-      <pubDate>Tue, 24 Nov 2026 23:54:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-24T23:54:08.326367Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-21T01:31:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Infinity Link says cut fiber wires caused internet outage in Greene County - WITN</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWdTVE52Zk51cGUtZzJhMXRNc2loeE9tR3VrTlFKNTQ5Q3lhb0xhVGdrT2g2YXVPR2h5X1YzeWtnSUp4aFdKZ0U2aXFoWHNZdkpXbl9XTFk1aE93WUhzRjZwMnE0SDNwSmh2TEt5VzhrR3p6aGFRSm5hYnVsZHBMbnBZVW44aWJzS1diSDV6aTM0WXhNZnpHNDh0UmZYVkE4RFYzc3NrYi1BM2cxcHE0?oc=5</link>
-      <guid isPermaLink="false">9b1115802c48a29c47f0b6aa</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-21 10:19
-Infinity Link says cut fiber wires caused internet outage in Greene County WITN</description>
-      <pubDate>Tue, 24 Nov 2026 23:54:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-24T23:54:08.326367Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-21T01:19:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Vandalism to fiber lines caused brief Wilmington internet outage - Delawareonline.com</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUsxQzlBOXpoZXdlcGFfd2FBU1FRMmxUTGduOUg2WlRReHRYSGY0U2djVl9fc2hjMDBrX09ORHJZc1hqUmJqQW9uMmliYkItQUw3QmtEZlVlRTNtaUs0TnVhZVFPMDh4cklOcGEtQm1LZ2ZLU3FWcE9mYnROalhPbV94c3RMVC1CSkMzYzlzNTNqT181NGh1Vzk4OTNIMDVkNUZKeUNyN3MtNDNwTFREZ2w5dl90LXdjenQ5LWJRQk1pdDcwdmtCWjhNdzZWVDg?oc=5</link>
-      <guid isPermaLink="false">e3312317ebbf396d5e4d8c1e</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-20 05:46
-Vandalism to fiber lines caused brief Wilmington internet outage Delawareonline.com</description>
-      <pubDate>Thu, 19 Nov 2026 17:39:30 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-19T17:39:30.412680Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T20:46:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Internet outage closes Monroe County government buildings - Indiana Public Media</title>
-      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxNaHpaVXBHU2dqT0VjV1RjcjVISXhRRjVQQ2U1b1BseGFPbjRNamdveDJIWHptaFNwbFhac0tMTVVIZHVwWWEzTjFCenBnMEZaeGw4bWxXTXFpYm4xUllzZ19tdFR1ZzkycXk0TEVFVkktMVM4YU9oTGVMOHk2VklnMkNoQldaQUk4TC10YzI1UjFvbGVmZ3o3Qw?oc=5</link>
-      <guid isPermaLink="false">79e23ba855d42fad9542d510</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-20 04:02
-Internet outage closes Monroe County government buildings Indiana Public Media</description>
-      <pubDate>Fri, 20 Nov 2026 07:06:53 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-20T07:06:53.883805Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T19:02:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region - Tom's Hardware</title>
-      <link>https://news.google.com/rss/articles/CBMiogJBVV95cUxPT2ZPLU1ocmJ2TXgyb1JzWE0wLVBKX0R5S1o2NmozQVdhaVRMWmdTdGJRNkVKcjhCRXhUMm9wSkZkRnU0MHJwTFJhdHVqVlZGVDFKa1lSRkJIeHR2Yng5SzZwLUpQTzhfN3lmS1g3RVh0c1NwZnkzTk1DM0pqUjU1WW9OU1FWU2hLS2w2c2NIbGk0ZUZZNTZCck0wYUw5RXJQZS1udWx1Nm5vdG9Nbnh6MUxrUmVIM2l6aUJsMWI4bldTaFUycUtsQmh2MlR2eWNfeEdHSzZzWS1DSFF0MXFYMXdQWkJKM0g1eFhPTndRc1M5cHNpdnZsbklxTnZCTE1ZZ0RHeFhWVGd0QUt3NG9qaXhsb3U0TlM1WlFwWllYbWM3dw?oc=5</link>
-      <guid isPermaLink="false">f13f86d963b8713a7c5a2dd1</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-19 21:30
-Pakistan undersea cable failure causes internet outage near Strait of Hormuz — fault detected offshore weeks after Iran threatened infrastructure in the region Tom's Hardware</description>
-      <pubDate>Tue, 24 Nov 2026 15:15:57 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-24T15:15:57.957447Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T12:30:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Seaford schools close amid phone and internet outage - CoastTV</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxPSDJDTXpzWkZqMlJSNHhQYkxGZzJiaWlQX0lfcUgxX1lPMkJSakp6a0VHM1E2TWxVLXZ2bGRDRXVEY29YV2pNd2VJOS1EQS15SzBnOGZqQVNlcXZDWlZfcG5pMTdJUWQtVmN2LXp5amh6UTE2MlREQnZpUzQ3UVBjclJ5NWVmc3NRa1dTdjFaQnJRWUxneGV1RVI4Z0xYM21aZG9ORVVzWWpWNUM4SDE5SHBNR2Z5VkhzZ1JlamU4akQ1V2ROcEtXajdPalJrVzQ?oc=5</link>
-      <guid isPermaLink="false">648261a0fa46615e60810b0d</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-18 21:40
-Seaford schools close amid phone and internet outage CoastTV</description>
-      <pubDate>Tue, 24 Nov 2026 23:54:08 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-24T23:54:08.326367Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-18T12:40:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

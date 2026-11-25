@@ -1,13 +1,57 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-24T23:54:07.396753Z",
+  "generated_at": "2026-11-25T08:24:01.860460Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
-  "count": 5,
+  "count": 7,
   "errors": [],
   "items": [
+    {
+      "id": "7ed0f9b07a320a270a3675cd",
+      "title": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nNVc3V0pPSzNLUTFiRTRVWlZXM1JIYzJ6bVJkekd5S3BnVWpzUDNvLURUV084VGdFNGlWX2l1RUJSVDl6TWtkWUxvME1iNHNhX1pfNzNzY1BnaUtFWXVwaw?oc=5",
+      "summary": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も Infoseek",
+      "published_at": "2026-11-25T06:37:53Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "5662d16ea6fd3b3f7d5c8a9f",
+      "title": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正／懐かしいクラシックテーマも追加 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvVElTLVZjaTItODMtblc0X3ZSYkRmTDlSZUJ0RGFtR2UyeFhYU09NTHV5RVFlUWJBd3ZSc2JKVVlvSHRfMjNBOGYwNHhUWWNHR3BqWVNfNzk3VndmZUJF?oc=5",
+      "summary": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正／懐かしいクラシックテーマも追加 千葉テレビ放送株式会社",
+      "published_at": "2026-11-25T01:56:19Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "931bee795a3bbfaf68186201",
+      "title": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正（窓の杜） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WazJNdDloelpfSGN0WUlHOXVndFdoNXdPSGo4Sm5QNlZqay1wTGFxaFEzUTlBQ3dsRHFtTHg5RTl2dzNXUU15dG1ldWFVSWNRVjdGdWJzSTJJalYxQVFoVU1la25IejZ0T0NSZ3lhZzFYWmpMRkJKNDJ1NVJnRTA?oc=5",
+      "summary": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正（窓の杜） Yahoo!ニュース",
+      "published_at": "2026-11-25T01:55:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
+    {
+      "id": "f00fb360ac13cbd0cb6389c4",
+      "title": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正／懐かしいクラシックテーマも追加 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPY3ZVVE5ELWJfampCMl9IWGlIWmhLVDNRWkhFeVZnd2tuNXZXcnR6S09hbXV2QzRJVEZ4eVVzbnBpOHZJR1RyWUlvSC1TRVJTUDVaSVczX0x1WWJqSzEta2h5NEhvSXZN?oc=5",
+      "summary": "Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正／懐かしいクラシックテーマも追加 窓の杜",
+      "published_at": "2026-11-25T01:35:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "60bf784a99b7605180bb0c59",
       "title": "屋内用スマートセキュリティカメラの世界市場（2026年～2032年）、市場規模（Wi-Fiスマートセキュリティカメラ、有線スマートセキュリティカメラ、セルラースマートセキュリティカメラ）・分析レポートを発表 - アットプレス",
@@ -20,6 +64,17 @@
       "score": 13
     },
     {
+      "id": "dcd1238933d8b96235b1eff7",
+      "title": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlpvVUV4RXdiUDloVzlDVEFWaTlSMnowbzB6YTZTOXFSTEVSU3JKdk1mQUxVY3JIUFNqZGRuRG1UZWlwMjhqWGo3dUlwQm04bDdlWFJfMWRaaWdfbldfZFJhVnhUTC1jbzBsMXhOamdxRWVSczN3RllzOC1uSW1rWVg1a3FudWpRUzNjTVpyd2I4UEpfaW1zdGlibGdkckRCSUdpcGtGODNUNkotTDhvMW04Mi1OYld2bDhoQ1ZpRFpNSmJWOVhZV0dod1JLUDNaMWFyZFNOTW5sMjJXNlhHZ0tzLU5mekRtZjJfZnR5Umh2cklZ?oc=5",
+      "summary": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 SOC Prime",
+      "published_at": "2026-11-20T08:00:00Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 11
+    },
+    {
       "id": "68ac282fb7e17e7c87b344d1",
       "title": "サイト・メール・VPN機器のセキュリティ担当を代行。実際の攻撃と同じ手順で穴を探し、見つけた穴は当社が直す「ホワイトハック」提供開始 | 株式会社AIdollargameのプレスリリース - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zLURFZDRtRVFTTmU3cThIc2hKMk9aaUZRV0NGUFdPdHE2YWw5a3VxV1RQam5UQkdiVjQtcm1CQmlhLU9nMm1PMnNuNU9OVFhEVk5BT3RnMXdrbm9Ga3k4aTBaVzNLLXJmZWc?oc=5",
@@ -29,39 +84,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 11
-    },
-    {
-      "id": "5cddf0fbdb728b9cf1b9a3cc",
-      "title": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVTJDZVRCRVBsTmFKZV8teGFSSUJ1ZVFZcGhmOFQ4NVotdkUxcFA5RUlZTXpydmIzRjY1aERrWldtZXEzaVpuX0w3MlBsNkxNd1pMZTFBUHhxMzZhLUVvUk1hS0RZbnBucTlqcQ?oc=5",
-      "summary": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される 日経クロステック",
-      "published_at": "2026-11-19T20:00:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "5b649d34acab8dbfc65f2055",
-      "title": "Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 CVE-2026-79614はCVSS 9.8、認証不要でコマンド実行のおそれ|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY1FsTUprUjc5NmVYbmtZNnpqMHBhR01OMDMxLTJjMUxuNGgzLUY0SmVaZWJ3MnpkUllicGEtcHoyM1d5eDJVQURfWkRzVFY3SlcwLUQwVVB5eDZJSFNXMTJ5WFAzWW5odE1CeFM3WGZtZjh5VEVkemtXeEw5OTVNUF9TUVJOdml1WUlFc19jOF9uVjRIT3FnQ0tmaWRIMHNfMG1uOQ?oc=5",
-      "summary": "Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 CVE-2026-79614はCVSS 9.8、認証不要でコマンド実行のおそれ|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ",
-      "published_at": "2026-11-19T04:30:07Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "aae9e40cafcf65f4c7bfcb4b",
-      "title": "グローバルネットワークセキュリティ ファイアウォール市場調査データ2026：販売量、平均価格、成長トレンド - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QYURrb1BNYTljTjNsc2tVTUFiYXdKa3A4VC02cmhLUnBUZ1FGU0FzQXJQbGZsZG1EVk9fekFlNnFMem5kY29TbWRvZ00zM1U?oc=5",
-      "summary": "グローバルネットワークセキュリティ ファイアウォール市場調査データ2026：販売量、平均価格、成長トレンド Newscast.jp",
-      "published_at": "2026-11-23T06:30:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 7
     }
   ]
 }
