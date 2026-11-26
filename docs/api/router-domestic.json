@@ -1,7 +1,7 @@
 {
   "title": "国内ルーター市場ニュース",
   "description": "日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。",
-  "generated_at": "2026-11-26T10:49:00.044571Z",
+  "generated_at": "2026-11-26T20:08:42.997518Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-domestic.json",
@@ -20,10 +20,21 @@
       "score": 22
     },
     {
-      "id": "159d015968ce373498978a34",
-      "title": "ドコモ、5G対応ホームルーター『home 5G HR03』発売 8本アンテナとWi-Fi 7に対応 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QMVBmc3BOTDlGZzFXdG9jUFhPR3FkSWJsU3Y4OU1QVC1WUU1CZEdYMlpsMXRhb2JRTy1QNmtLTUtES2VYTExDaEt3V2NOQUZ2TWhSR3Ezd0RnQXBmM0JJ?oc=5",
-      "summary": "ドコモ、5G対応ホームルーター『home 5G HR03』発売 8本アンテナとWi-Fi 7に対応 ライブドアニュース",
+      "id": "a906a2578f5efb462befe120",
+      "title": "Wi-Fiルーターを自身で購入・利用している割合は56.1％ うち、「バッファロー」がトップ、次いで「NEC」「エレコム」 総合満足度は「NEC」がトップ、次いで「バッファロー」「TP-Link」 - MMD研究所",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYUmM4TklsMHZjeldLN1ZxUENBX090UlBudWhDbnlYWG5sVDV0cmR0YUNsVXhIbGlBWW5BQVl6N0NkeFF4YlBnZFJta1dycEFHZENjZmRzRHZNdldBZEE?oc=5",
+      "summary": "Wi-Fiルーターを自身で購入・利用している割合は56.1％ うち、「バッファロー」がトップ、次いで「NEC」「エレコム」 総合満足度は「NEC」がトップ、次いで「バッファロー」「TP-Link」 MMD研究所",
+      "published_at": "2026-11-24T02:06:22Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "国内ルーター市場",
+      "score": 22
+    },
+    {
+      "id": "9db365156e86a7428cd89442",
+      "title": "ドコモ、5G対応ホームルーター『home 5G HR03』発売 8本アンテナとWi-Fi 7に対応 (2026年11月26日掲載) - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QaXcxZGZhOTFpUmFueVpuUkxhbl9kWjltQTl3Ui0xUDFqWFVOWXpOSDJVaXJCMnN2NTVreE5tWHNYSXFvbUEtdE1kOTgwc1hBN3E5NEJ1Tk1UY0hyRUE?oc=5",
+      "summary": "ドコモ、5G対応ホームルーター『home 5G HR03』発売 8本アンテナとWi-Fi 7に対応 (2026年11月26日掲載) ライブドアニュース",
       "published_at": "2026-11-26T09:22:08Z",
       "source": "Google News JP: router products",
       "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -75,26 +86,15 @@
       "score": 17
     },
     {
-      "id": "3be40ed57328de1df95e4788",
-      "title": "UQ WiMAXから「Speed Wi-Fi HOME 5G L14」「Speed Wi-Fi 5G X13」が12月に発売、ホームルーターはWi-Fi 7対応 - ケータイ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41WjYxQlFGSW95SjVpMFhsM2UwWTVudDN5T0NVcG8xVDRabjRFQmlDczJiMkxsOS1KdnVhdVVCUm04WW9NZ2taQ1FFY25ORmJreUFTTjFzaURjTHg5SWU3NGppZHc2ZDQ?oc=5",
-      "summary": "UQ WiMAXから「Speed Wi-Fi HOME 5G L14」「Speed Wi-Fi 5G X13」が12月に発売、ホームルーターはWi-Fi 7対応 ケータイ Watch",
-      "published_at": "2026-11-24T03:52:43Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "id": "cc8dc0ef1d8040396051fb6f",
+      "title": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTNpRUhfRkVWNUVLTnRuZ3lSaFN5Z3N1U0dZa2FQMWN3R1JGdy1zSHZzLWk3RjlfekpiaTNhZjJfc3ZxS3FCRXpiZ1FGQ0tOOE5WOFNZbGxQREtJWG91aWpFVHBHWXB1clBCQmdsT3d6X0xHYWJWLXFLOTFQVXpBU2dCR0JmSDRDaU1UZDFB?oc=5",
+      "summary": "Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) Yahoo!ニュース",
+      "published_at": "2026-11-24T05:12:15Z",
+      "source": "Google News JP: router vendors",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "国内ルーター市場",
       "score": 17
-    },
-    {
-      "id": "ae24ab2b2848f901095ce0cc",
-      "title": "田舎の実家のWi-Fiルーターに、リモート管理できて低価格なメッシュWi-Fiという選択。HUAWEI WiFi Mesh 3+なら広い実家もカバーできて親の見守りにも安心[Sponsored] - INTERNET Watch",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4cFhSTlNTRXlNczg2S3RvVnNpRWhRQ0FFajdXSXp5SjBfNS10azktb3lVY3ptOXRUdjcxOEZMWHplOWJheFRJYWZEUTNTSDVuclE1eDR0ZFlwYTBnMkYtb0I0bTlZaEJpZTlkaXJ6enptbU9IVmxz?oc=5",
-      "summary": "田舎の実家のWi-Fiルーターに、リモート管理できて低価格なメッシュWi-Fiという選択。HUAWEI WiFi Mesh 3+なら広い実家もカバーできて親の見守りにも安心[Sponsored] INTERNET Watch",
-      "published_at": "2026-11-20T02:00:00Z",
-      "source": "Google News JP: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "国内ルーター市場",
-      "score": 16
     }
   ]
 }

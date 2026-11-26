@@ -1,7 +1,7 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-26T10:49:02.005721Z",
+  "generated_at": "2026-11-26T20:08:44.529734Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
@@ -24,6 +24,17 @@
       "title": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZUhJc3oxZm1vX0g3WVVEZVRwdDB0d2lic2pPTm95YWhJS2YzN3hfVUJjWnd5WGI2U1g4VXZ2eUw1UGwwbUhqTV9nbjRraXF2eTRxV1p6SndWZm1I?oc=5",
       "summary": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も マイナビニュース",
+      "published_at": "2026-11-25T06:37:53Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 12
+    },
+    {
+      "id": "b533460b3100e5138fd76c03",
+      "title": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUS1h1RDNYR3AzcVFwamk3RVJtbVo2TGh6a09XTmZvdXNpaHg3Z095eDl5aFBvM1hSSGFlUlVodkJ4bWhqeDZpVGFOT2g3QW4yMC1DcXc2TlE0dktwVjZr?oc=5",
+      "summary": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も ライブドアニュース",
       "published_at": "2026-11-25T06:37:53Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -75,22 +86,11 @@
       "score": 12
     },
     {
-      "id": "68ac282fb7e17e7c87b344d1",
-      "title": "サイト・メール・VPN機器のセキュリティ担当を代行。実際の攻撃と同じ手順で穴を探し、見つけた穴は当社が直す「ホワイトハック」提供開始 | 株式会社AIdollargameのプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zLURFZDRtRVFTTmU3cThIc2hKMk9aaUZRV0NGUFdPdHE2YWw5a3VxV1RQam5UQkdiVjQtcm1CQmlhLU9nMm1PMnNuNU9OVFhEVk5BT3RnMXdrbm9Ga3k4aTBaVzNLLXJmZWc?oc=5",
-      "summary": "サイト・メール・VPN機器のセキュリティ担当を代行。実際の攻撃と同じ手順で穴を探し、見つけた穴は当社が直す「ホワイトハック」提供開始 | 株式会社AIdollargameのプレスリリース PR TIMES",
-      "published_at": "2026-11-20T06:00:02Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 11
-    },
-    {
-      "id": "5cddf0fbdb728b9cf1b9a3cc",
-      "title": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVTJDZVRCRVBsTmFKZV8teGFSSUJ1ZVFZcGhmOFQ4NVotdkUxcFA5RUlZTXpydmIzRjY1aERrWldtZXEzaVpuX0w3MlBsNkxNd1pMZTFBUHhxMzZhLUVvUk1hS0RZbnBucTlqcQ?oc=5",
-      "summary": "古いWi-Fiルーターは危険、ファームウエアの更新終了で脆弱性が放置される 日経クロステック",
-      "published_at": "2026-11-19T20:00:00Z",
+      "id": "dcd1238933d8b96235b1eff7",
+      "title": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSlpvVUV4RXdiUDloVzlDVEFWaTlSMnowbzB6YTZTOXFSTEVSU3JKdk1mQUxVY3JIUFNqZGRuRG1UZWlwMjhqWGo3dUlwQm04bDdlWFJfMWRaaWdfbldfZFJhVnhUTC1jbzBsMXhOamdxRWVSczN3RllzOC1uSW1rWVg1a3FudWpRUzNjTVpyd2I4UEpfaW1zdGlibGdkckRCSUdpcGtGODNUNkotTDhvMW04Mi1OYld2bDhoQ1ZpRFpNSmJWOVhZV0dod1JLUDNaMWFyZFNOTW5sMjJXNlhHZ0tzLU5mekRtZjJfZnR5Umh2cklZ?oc=5",
+      "summary": "CVE-2024-24919 検出：Check PointのVPNゲートウェイ製品に対する野生での攻撃に活発に悪用されているゼロデイ脆弱性 SOC Prime",
+      "published_at": "2026-11-20T08:00:00Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
@@ -105,7 +105,7 @@
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "セキュリティ",
-      "score": 8
+      "score": 7
     },
     {
       "id": "a023c16bee29d351d47a60f4",

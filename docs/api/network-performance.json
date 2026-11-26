@@ -1,24 +1,13 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-26T10:49:02.832149Z",
+  "generated_at": "2026-11-26T20:08:45.586135Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 3,
+  "count": 8,
   "errors": [],
   "items": [
-    {
-      "id": "a6bff38b11ada7e700b535e3",
-      "title": "UNILAG launches probe as internet outage hits academic, research, administrative services - Peoples Gazette Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1ITHdVV3FiVXJ6bUVQUWNqQUhDSFRFV0ZHSFJvSDI3T1czWDFLb3ptNkVoYTJibW41QzlIV3NXNGtUZk93OTdLQUF4SmhDeC1mSU9wdjVSenFoM2ZjcWtBWHd6ekNPb0pKRVRTNnhnSDloVE9LOHprV1M4NF96Z09MWXBiMkNUa3ZrUk84YnEyZXBsUi1Cem1jVF95OW9nYmIyYThqME9uZTRSRTlXMA?oc=5",
-      "summary": "UNILAG launches probe as internet outage hits academic, research, administrative services Peoples Gazette Nigeria",
-      "published_at": "2026-11-25T19:01:41Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 9
-    },
     {
       "id": "1baa9837fa78c4dfc5f04337",
       "title": "富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 - マイナビニュース",
@@ -29,6 +18,72 @@
       "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "性能・障害",
       "score": 8
+    },
+    {
+      "id": "a6bff38b11ada7e700b535e3",
+      "title": "UNILAG launches probe as internet outage hits academic, research, administrative services - Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1ITHdVV3FiVXJ6bUVQUWNqQUhDSFRFV0ZHSFJvSDI3T1czWDFLb3ptNkVoYTJibW41QzlIV3NXNGtUZk93OTdLQUF4SmhDeC1mSU9wdjVSenFoM2ZjcWtBWHd6ekNPb0pKRVRTNnhnSDloVE9LOHprV1M4NF96Z09MWXBiMkNUa3ZrUk84YnEyZXBsUi1Cem1jVF95OW9nYmIyYThqME9uZTRSRTlXMA?oc=5",
+      "summary": "UNILAG launches probe as internet outage hits academic, research, administrative services Peoples Gazette Nigeria",
+      "published_at": "2026-11-25T19:01:41Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "7ddc938a1e217b8c852dabf6",
+      "title": "Internet outage foreces office meeting - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaW1UTGlkd0ZsM1pzalo0NC1leDRfRnFfXzhDLWxtLUxCNXlHdnVqRXlsRkRDYVBNd2xyWlZBdHRKVi1xOEQxZnlVMnF0TGoxcnVzTkpqMFJ6TGl3OG44WkZoSkJyMVh6UGgwZ3dJdVY2bEZJaHBhaHo4Zl81MjZQN1RTdjFNTjRKV3BpZdIBkgFBVV95cUxOTXNqdm1Jc2doRnEyQTIxQWhqUHZuQ3BGN3FSV2gwVS1OblN0ekFLcS1lNHN6bjhzNHRra1RybVAxYkhmQnpXME9UTndnYmU3NklMX0xJM1BpVFc1QlZfYnNHMW5lbEVFVkdiSzB4MEtmZTlJcXpoMHBSM3F6LUxMWnp0UDhSNWpKY3hIWU91MVVhQQ?oc=5",
+      "summary": "Internet outage foreces office meeting The Korea Times",
+      "published_at": "2026-11-24T04:20:03Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 8
+    },
+    {
+      "id": "cbe54cffe40cdb3fa2915320",
+      "title": "Western Sierra County Phone and Internet Outage Update November 2026 - SierraDailyNews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUdOZ0tFX3N4WWQ1OHpkSWhSWUtYYTJRaW54WmFqRUJITlppNU1yUEVsTTF0X0RrXy1VOHEyUEtNR0hSU1RDVUFGeDhUY3ZzMnlsWGJlRDlyamxFb0Q3ZllVX2tMRC14U2l2Wkl0V3VkWWhSalk5QmQzY18taFpFSDlyZ011WVllbVhub2N5V3hOcnc3S1loZGRmM3pvTW5QN1RhLU1Ta2NBbHM?oc=5",
+      "summary": "Western Sierra County Phone and Internet Outage Update November 2026 SierraDailyNews.com",
+      "published_at": "2026-11-22T22:48:41Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "bceb1c259e285ced3ccd4dee",
+      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeThUbV9wRkNxS2NtYXItUTBzWm9PRGk1MjRyb0ZOWGgtMTJueUVUbTRNQ2lBdjY1UW5SQW4ydlFUcWNTaDFpSUZrc0RybTRpX285LTBnaV9MTTNXU2lIa3BwSXR1NlNmNGVRYUJscm90dTQyMFlhV3JtTHpMVmFHLVhqSlhZSW5nOXpaUGotakZ6MHJuUzJqUTE1MHdVMEJHSk55QTVEONIBuwFBVV95cUxNY0swSzNwMTgxQ1RaSmVBWHM1NHZPaUg5cVhUMC03ekR4VXBvUElIQWVwQWZEQmpGN0JSVk1OVldhVUlDNlBsVlpkTmE5OFo0Rm9hblZib1JRbTl0bjdTNFRYbXBSQS1CbXdxbjQwQnBfMmtlbGJkX3NPUVlwRHo4THZiR0l2TDN0UXU5ZmdOZnA2aXJRQlBmSV9PY2s4VjFCTnNrc252QkJYQWJDcUFhR0U0a1NXYUlIRXpJ?oc=5",
+      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
+      "published_at": "2026-11-21T01:31:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "9b1115802c48a29c47f0b6aa",
+      "title": "Infinity Link says cut fiber wires caused internet outage in Greene County - WITN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWdTVE52Zk51cGUtZzJhMXRNc2loeE9tR3VrTlFKNTQ5Q3lhb0xhVGdrT2g2YXVPR2h5X1YzeWtnSUp4aFdKZ0U2aXFoWHNZdkpXbl9XTFk1aE93WUhzRjZwMnE0SDNwSmh2TEt5VzhrR3p6aGFRSm5hYnVsZHBMbnBZVW44aWJzS1diSDV6aTM0WXhNZnpHNDh0UmZYVkE4RFYzc3NrYi1BM2cxcHE0?oc=5",
+      "summary": "Infinity Link says cut fiber wires caused internet outage in Greene County WITN",
+      "published_at": "2026-11-21T01:19:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
+    },
+    {
+      "id": "e3312317ebbf396d5e4d8c1e",
+      "title": "Vandalism to fiber lines caused brief Wilmington internet outage - Delawareonline.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUsxQzlBOXpoZXdlcGFfd2FBU1FRMmxUTGduOUg2WlRReHRYSGY0U2djVl9fc2hjMDBrX09ORHJZc1hqUmJqQW9uMmliYkItQUw3QmtEZlVlRTNtaUs0TnVhZVFPMDh4cklOcGEtQm1LZ2ZLU3FWcE9mYnROalhPbV94c3RMVC1CSkMzYzlzNTNqT181NGh1Vzk4OTNIMDVkNUZKeUNyN3MtNDNwTFREZ2w5dl90LXdjenQ5LWJRQk1pdDcwdmtCWjhNdzZWVDg?oc=5",
+      "summary": "Vandalism to fiber lines caused brief Wilmington internet outage Delawareonline.com",
+      "published_at": "2026-11-19T20:46:00Z",
+      "source": "Google News Global: network performance",
+      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "性能・障害",
+      "score": 7
     },
     {
       "id": "ef0ce68d9eb2c8c3678a95e6",
