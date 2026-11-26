@@ -1,15 +1,24 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-26T02:09:43.056647Z",
+  "generated_at": "2026-11-26T10:49:01.207998Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
-  "count": 4,
-  "errors": [
-    "Google News Global: home networking: HTTP Error 429: Too Many Requests"
-  ],
+  "count": 10,
+  "errors": [],
   "items": [
+    {
+      "id": "82b58cbdd71672b72585c362",
+      "title": "NTT Docomo to launch Wi-Fi 7 home router \"home 5G HR03\" in Japan on Nov. 26 for ¥95,040 - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vbEwzWVFfSVJ1VVdZaWNSUGgzNlRsNFdHNHYxbWZXWk5SdmpycWhSOWhkOUZaZ1lSVGdZQ1BVWmdPamZDV1g2dk9jREN0UC1WbHNIYW16YmM4UWRFeUM0X2JJNjhPMjBCV0h1d3o4WW9HVHc3TlE?oc=5",
+      "summary": "NTT Docomo to launch Wi-Fi 7 home router \"home 5G HR03\" in Japan on Nov. 26 for ¥95,040 BigGo Finance",
+      "published_at": "2026-11-25T03:35:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 18
+    },
     {
       "id": "86484c5048f2b961180f6da1",
       "title": "Asus ZenWiFi BN12 review: The world’s first Wi-Fi 8 mesh router is here - PCWorld",
@@ -22,37 +31,92 @@
       "score": 16
     },
     {
-      "id": "1e204216d005a49670bd9046",
-      "title": "Best Wi-Fi Routers for 2026: We Rank the Fastest 5th, 6th, 6E and 7th Gen Models - CNET",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yT2s0ak0yTjBfeWdyZUIza09uWGdmcG5ZSmZOUHh5RE5HOHVQZ0hJOW8xSG1uTmVBT095anduQWxhazhBbkQyYVI5TlljVWVVUFdlVEIwZDAza0RGZnFsSHc0THE?oc=5",
-      "summary": "Best Wi-Fi Routers for 2026: We Rank the Fastest 5th, 6th, 6E and 7th Gen Models CNET",
-      "published_at": "2026-11-20T15:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "1284e4eb7c52d13c8f46996b",
+      "title": "Upgrade to a Wi-Fi 7 router for cheaper with this Amazon eero Max 7 Black Friday deal - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOU0tWHYyUHY1cnFqazJ6NTJNcFNVcl9TU29CU29MZHVLMkxHdlVSME5XSlM1ZWZlTlcwa3dibi1oa0dnVWNvN0k5VVlvMHVuSFFpMjFUMVpORGdrTThEc2FJa0pXcVN2ZVE4d19jMU9ERVFIdXVMM216YndmVmpBUDV5RmZIYVVfa0dwN2JyVFNoU1JzUkpHZGNjblNoVmRtNU9BODJLSEJBS3M2VTZFMGE2U1VuMjQ?oc=5",
+      "summary": "Upgrade to a Wi-Fi 7 router for cheaper with this Amazon eero Max 7 Black Friday deal PC Guide",
+      "published_at": "2026-11-26T01:50:05Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 14
     },
     {
-      "id": "5eea3795f001d8a373c5cf2f",
-      "title": "The Best Wi-Fi Routers We've Tested for 2026 - PCMag",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81UU9GdmlJZzUtbjl5VFhKWjlIWXJGTFNaUjREOElnZlpSYzEwWVdaVmQ2eGh3Y2RKMEl0QXNfQmhZTkpqNGVhZzN0WWdwNy1RTkJfNmw1NlZKM3ZXVUdKRk9VVQ?oc=5",
-      "summary": "The Best Wi-Fi Routers We've Tested for 2026 PCMag",
-      "published_at": "2026-11-20T08:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "7754b3292870b6a3e34cb555",
+      "title": "D-Link makes Wi-Fi 7 more accessible with the $229.95 C36 BE3600 router - Digital Reviews Network",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX2ROZlRpQk90UDhRbGtsdWcwdzhFZXFWUk9JUEJHY3ZkQWEzcF8xUU9zanE0UlJBckdGVUtFLWYzU2w0MG80R0l3ekpkZENqclVRVlhBU2hMOXpXWnpmMGcwcExUS3BHeF9COVc1RUdVUmY2QnYxZ3J6R0dNRHRvZFB0b1M?oc=5",
+      "summary": "D-Link makes Wi-Fi 7 more accessible with the $229.95 C36 BE3600 router Digital Reviews Network",
+      "published_at": "2026-11-25T23:31:30Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 7
+      "score": 14
     },
     {
-      "id": "929aceddb00e82be9fe69445",
-      "title": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzN2NzREgyZjJTNjMwdEZWdkFYRlZrVmIwaFJtQUVpVW1nWWFfWm1Fdkp5MnVqMGFDZWxFVS1kV3lnNjE2b3Izc2pLcklmMjZoU25pd2pDS25YS280OTlTTFNhQ0NnbTluSm9pTmNR?oc=5",
-      "summary": "The 3 Best Wi-Fi Routers of 2026 | Reviews by Wirecutter The New York Times",
-      "published_at": "2026-11-12T08:00:00Z",
-      "source": "Google News US: router products",
-      "source_url": "https://news.google.com/rss/search?q=%28%22Wi-Fi+router%22+OR+%22mesh+router%22+OR+%22gaming+router%22+OR+%22OpenWrt%22+OR+%22router+firmware%22%29+%28launch+OR+release+OR+review+OR+security+OR+update%29&hl=en&gl=US&ceid=US%3Aen",
+      "id": "f867056e559212c5e1a0e4b6",
+      "title": "D-Link launches Wi-Fi 7 router for Australian homes - FutureFive Australia",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaTQwRW56V1VNdUhoSVQyU29GZ0hKYUJGWU9XeUZJZmN5Ml9LdV9HN05wenR1SDhudDhPYlBlZzlRU0ZlRlNPNURua21ibXpLT3UybjlMS09IUndETzVFMUc2MkNwZzgwcEhwNk9sa21sTkZJdkFmdDNNeFU1dUdncG9MNUlsWWs3TUg4?oc=5",
+      "summary": "D-Link launches Wi-Fi 7 router for Australian homes FutureFive Australia",
+      "published_at": "2026-11-25T23:08:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 6
+      "score": 14
+    },
+    {
+      "id": "b28cef2e76b6b6e125753e51",
+      "title": "These are the best Wi-Fi 7 mesh routers from Asus, TP-Link, Eero, Netgear, and MSI that I found on Black Friday - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcVFUT1NtbmVsU0llSC0ybzNBZnRvZU9ZS2xwTVRBYUNEaTRaTFRTZThybHVUNUNtaVY0Y2pDb3dsQl9Jb3JSY1dqcThvcU1hOS1Bei15MmNrVm1kbU8zLXhNbGozS0RhTjZVN0hNQWZEX2VfQzByRlF4NUIxZUtucmRNOW1JTTI5V2FGelEtOHNINEF0RnhDYjZjVS01d3FXYUpwajhYRmQxbXpXdFhIazRFdktsdnB3Y2hLTEpLRkhmMEx6bzZZLWlBSk91c1NqVU52NGVZZVFaa3ZYSkR1VTNZcWZGN1ZlYTIw?oc=5",
+      "summary": "These are the best Wi-Fi 7 mesh routers from Asus, TP-Link, Eero, Netgear, and MSI that I found on Black Friday Tom's Hardware",
+      "published_at": "2026-11-25T22:04:37Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "4135a1b92e51c3f1e07de6b4",
+      "title": "NTT Docomo launches Wi-Fi 7 5G home router in Japan - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUUhKN2ZmRTZnek5IZFB4U1ZGZVhEOXN1RjdTUWJwLTBaOVVKMUE4YWZQSXZYb1o0MEFNV3R6U3ZxOVJHM2NMbEg5RVk4NG01M19FNUY1TXRmR0NPaEtPQzhDM3g4dTdYaFdXMXkzU21LS0RRbklNVU8ycnRRUDczOU0wYzJFb0xfY1ZQZFBDTTFCVGRUaE1idU93?oc=5",
+      "summary": "NTT Docomo launches Wi-Fi 7 5G home router in Japan Telecompaper",
+      "published_at": "2026-11-25T06:25:39Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "2a2134b16db5e79bf060225e",
+      "title": "TP-Link's Archer BE770 tri-band Wi-Fi 7 router is $120 off — 10 Gbps LAN ports and blazing fast wireless speeds for $280 - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOclU0S2lnNXVvRlZJMWVoNVhJSlVBblg5Q0RNX0dFc09ya0tWM3htSThNcGxFaUl6c2NPTnA0cGtWLTBVcG1LQ0xfVmY5S1FnNXlpLWF5SlVqaFl1STJoUEZXbkhrY2lQQ1dJTmR6LUVJLXFnczJwLVNoOVZZWUJ6cGU5enl2YjNaeVJFOVhqV3k0Vy00YjBPMGRNQzliYWtwOHNaV1RNcWhTTHFyTUJpNl9wTS1OamJibk8tOGtnek9lTUUyVzdWTjRURmx5LVE4eFpER0NwZkxablNnOFN2X2FQYlhzSU9VdThuTGFvWWZrbENkVDJGNWVUT2pzUQ?oc=5",
+      "summary": "TP-Link's Archer BE770 tri-band Wi-Fi 7 router is $120 off — 10 Gbps LAN ports and blazing fast wireless speeds for $280 Tom's Hardware",
+      "published_at": "2026-11-24T20:10:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "eb6080f9b338de80a03dd57d",
+      "title": "ZTE Speed Wi-Fi launches a touchscreen Wi-Fi 7 router and portable 5G hotspot - Notebookcheck",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTk5PLTNkdk8tSjRHdGRsMWNxZU5ibXdabFE5X1FQcHlqZXQ3dDB2cGExLTY2dGRFTy1sLXFPVjFDSWtzTXJRTnNXNUFwX2xhZUUybDRPMHZiUm1Ianpsb3o1UnpxdlNIVjhJNEJ5TFl3ODI3UDVJR09XYTBqR2pKQks0UXQ1U0lXWC0wbkVYaGlrbzJIcHBvdVFVVkM4allvWnlmV1FYMXZEV0RhdG9NUjN1NUN1SENkS1Y0TDZZZw?oc=5",
+      "summary": "ZTE Speed Wi-Fi launches a touchscreen Wi-Fi 7 router and portable 5G hotspot Notebookcheck",
+      "published_at": "2026-11-24T16:19:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
+    },
+    {
+      "id": "1ac51f481cb28c6b1a8925d3",
+      "title": "4 Wi-Fi Router Brands With Better Ratings Than Linksys - SlashGear",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDFveHM5N2NHc19YZ0Y0aXluZGxWX0RpS2drYWh3WmdCeHBaeVptVUtYWmEyd193QTM1dUppTUt6ZFdtdDFicHE1Y0FUbFA5cUs4ZGE0Mmt5Q2hWQ0ZhT0U5SDZ4UnQ2UnlJbzdtNWVMN2F5SFBzX0RKbnE3TWFsXzhCUnplS2p5SGc?oc=5",
+      "summary": "4 Wi-Fi Router Brands With Better Ratings Than Linksys SlashGear",
+      "published_at": "2026-11-24T15:15:00Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 13
     }
   ]
 }
