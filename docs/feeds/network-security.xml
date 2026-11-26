@@ -5,20 +5,20 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:49:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:09:43 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
-      <title>[セキュリティ] Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks - Cyber Press</title>
-      <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE1oeHYwcHVVb2Vwandwc0JsdnJBOUdPYUJTR25vXzVoaFlvcXFNVTJWVFRKSXN4Wmx4R1RYdTBoTzFMZXNzWVg2X19CWlJRNlRHcVk5T0tMTEEzSHJnM1ZaRndndEU2b3N6WktYcUtOLUcxZ1XSAXNBVV95cUxNaHh2MHB1VW9lcGp3cHNCbHZyQTlHT2FCU0dub181aGhZb3FxTVUyVlRUSklzeFpseEdUWHUwaE8xTGVzc1lYNl9fQlpSUTZUR3FZOU9LTExBM0hyZzNWWkZ3Z3RFNm9zelpLWHFLTi1HMWdV?oc=5</link>
-      <guid isPermaLink="false">1917ebfb89d071eb75484b47</guid>
+      <title>[セキュリティ] Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQTnk0dEc5SGZCR1k1WnV3QjdLWWtHVXBibmRTQnF0bHZoeEJBeXNKc1kxN09Lcms4ejNVbWdqakJ6T2QwT3BBSm1TTldKVy1jR1JsMWhQWTB2R1ZHOG5MVTRSM1hXSzhBV3hFMV9TQ3QxTFg2RWhKTElGX1dPbGh5RHlqOVljM3EyRlYwSVQ4WHplaC0tb0hxV3FnRTV5Zw?oc=5</link>
+      <guid isPermaLink="false">c579154e4a4a612c63f2e276</guid>
       <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-11-25 17:47
-Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks Cyber Press</description>
-      <pubDate>Wed, 25 Nov 2026 18:49:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-25T18:49:41.320595Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-25T08:47:36Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
+ソース: Google News JP: network security
+元記事日付: 2026-11-26 08:45
+Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+      <pubDate>Thu, 26 Nov 2026 02:09:43 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-26T02:09:43.890321Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-25T23:45:32Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
       <category>セキュリティ</category>
     </item>
     <item>
@@ -139,11 +139,11 @@ Zyxel製ルーター・光回線終端装置など48機種に深刻な脆弱性 
       <guid isPermaLink="false">26aea2c9bd9ef42ad052a4b7</guid>
       <description>種別: セキュリティ
 ソース: Google News Global: router security
-元記事日付: 2026-11-26 03:28
+元記事日付: 2026-11-26 03:53
 CISA gives agencies until Nov. 28 to patch an exploited Juniper router flaw MLQ.ai</description>
       <pubDate>Wed, 25 Nov 2026 18:49:41 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-25T18:49:41.320595Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-25T18:28:56Z</sqm:sourcePublishedDate>
+      <sqm:sourcePublishedDate>2026-11-25T18:53:38Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
