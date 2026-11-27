@@ -5,33 +5,19 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:49:32 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml</docs>
     <item>
-      <title>[性能・障害] 富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 - マイナビニュース</title>
-      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTW11Y2cwTlNBMzdHaXdJakdnajJCb2xmSUdVVmJGRDQwXzk0dFNmRy1VMHVCZ05ndWFIcmF0TVpkaXJGdW5pWGN4X2Nna1pWZDVlRFFfY3JsSk1aZUl5ejk1a25lUkNnOWNvSUVrTQ?oc=5</link>
-      <guid isPermaLink="false">1baa9837fa78c4dfc5f04337</guid>
-      <description>種別: 性能・障害
-ソース: Google News JP: network outage
-元記事日付: 2026-11-26 11:00
-富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 マイナビニュース</description>
-      <pubDate>Thu, 26 Nov 2026 10:49:02 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-26T10:49:02.831624Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-26T02:00:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] UNILAG launches probe as internet outage hits academic, research, administrative services - Peoples Gazette Nigeria</title>
-      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxOWG1ITHdVV3FiVXJ6bUVQUWNqQUhDSFRFV0ZHSFJvSDI3T1czWDFLb3ptNkVoYTJibW41QzlIV3NXNGtUZk93OTdLQUF4SmhDeC1mSU9wdjVSenFoM2ZjcWtBWHd6ekNPb0pKRVRTNnhnSDloVE9LOHprV1M4NF96Z09MWXBiMkNUa3ZrUk84YnEyZXBsUi1Cem1jVF95OW9nYmIyYThqME9uZTRSRTlXMA?oc=5</link>
-      <guid isPermaLink="false">a6bff38b11ada7e700b535e3</guid>
+      <title>[性能・障害] 'No updates, no information': Bell customers air frustration over two-day internet outage - CBC</title>
+      <link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBxRDRXNVY5Qm1KRTU3aTFhR2FqZEdxVWc3cC1XaWQ4eXMxanBpYXBXbnp4Z0UzX3ZBWGVXRjZ6WmFmTTVTNHlpU0I0X0ZadUZaeEUwS3ZZSzlXNEdzNUxpMUREVHRGQXpiZTRqS1pidktTTHY2Qk1tX3VZRzJpZw?oc=5</link>
+      <guid isPermaLink="false">a6f1349c14db405b8bef7903</guid>
       <description>種別: 性能・障害
 ソース: Google News Global: network performance
-元記事日付: 2026-11-26 04:01
-UNILAG launches probe as internet outage hits academic, research, administrative services Peoples Gazette Nigeria</description>
-      <pubDate>Thu, 26 Nov 2026 02:09:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-26T02:09:45.003087Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-25T19:01:41Z</sqm:sourcePublishedDate>
+元記事日付: 2026-11-27 07:15
+'No updates, no information': Bell customers air frustration over two-day internet outage CBC</description>
+      <pubDate>Fri, 27 Nov 2026 02:49:32 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-27T02:49:32.778520Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-26T22:15:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>
@@ -47,6 +33,20 @@ Internet outage foreces office meeting The Korea Times</description>
       <sqm:firstSeenDate>2026-11-26T20:08:45.585461Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-24T04:20:03Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
+      <category>性能・障害</category>
+    </item>
+    <item>
+      <title>[性能・障害] 富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 - マイナビニュース</title>
+      <link>https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTW11Y2cwTlNBMzdHaXdJakdnajJCb2xmSUdVVmJGRDQwXzk0dFNmRy1VMHVCZ05ndWFIcmF0TVpkaXJGdW5pWGN4X2Nna1pWZDVlRFFfY3JsSk1aZUl5ejk1a25lUkNnOWNvSUVrTQ?oc=5</link>
+      <guid isPermaLink="false">1baa9837fa78c4dfc5f04337</guid>
+      <description>種別: 性能・障害
+ソース: Google News JP: network outage
+元記事日付: 2026-11-26 11:00
+富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 マイナビニュース</description>
+      <pubDate>Thu, 26 Nov 2026 10:49:02 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-26T10:49:02.831624Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-26T02:00:00Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network outage</source>
       <category>性能・障害</category>
     </item>
     <item>
@@ -88,20 +88,6 @@ Infinity Link says cut fiber wires caused internet outage in Greene County WITN<
       <pubDate>Thu, 26 Nov 2026 20:08:45 GMT</pubDate>
       <sqm:firstSeenDate>2026-11-26T20:08:45.585461Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-21T01:19:00Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
-      <category>性能・障害</category>
-    </item>
-    <item>
-      <title>[性能・障害] Vandalism to fiber lines caused brief Wilmington internet outage - Delawareonline.com</title>
-      <link>https://news.google.com/rss/articles/CBMizwFBVV95cUxQMUsxQzlBOXpoZXdlcGFfd2FBU1FRMmxUTGduOUg2WlRReHRYSGY0U2djVl9fc2hjMDBrX09ORHJZc1hqUmJqQW9uMmliYkItQUw3QmtEZlVlRTNtaUs0TnVhZVFPMDh4cklOcGEtQm1LZ2ZLU3FWcE9mYnROalhPbV94c3RMVC1CSkMzYzlzNTNqT181NGh1Vzk4OTNIMDVkNUZKeUNyN3MtNDNwTFREZ2w5dl90LXdjenQ5LWJRQk1pdDcwdmtCWjhNdzZWVDg?oc=5</link>
-      <guid isPermaLink="false">e3312317ebbf396d5e4d8c1e</guid>
-      <description>種別: 性能・障害
-ソース: Google News Global: network performance
-元記事日付: 2026-11-20 05:46
-Vandalism to fiber lines caused brief Wilmington internet outage Delawareonline.com</description>
-      <pubDate>Thu, 26 Nov 2026 20:08:45 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-26T20:08:45.585461Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-19T20:46:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: network performance</source>
       <category>性能・障害</category>
     </item>

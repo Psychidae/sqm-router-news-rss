@@ -1,13 +1,35 @@
 {
   "title": "ネットワークセキュリティニュース",
   "description": "ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。",
-  "generated_at": "2026-11-26T20:08:44.529734Z",
+  "generated_at": "2026-11-27T02:49:31.689987Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-security.json",
   "count": 10,
   "errors": [],
   "items": [
+    {
+      "id": "1917ebfb89d071eb75484b47",
+      "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks - Cyber Press",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oeHYwcHVVb2Vwandwc0JsdnJBOUdPYUJTR25vXzVoaFlvcXFNVTJWVFRKSXN4Wmx4R1RYdTBoTzFMZXNzWVg2X19CWlJRNlRHcVk5T0tMTEEzSHJnM1ZaRndndEU2b3N6WktYcUtOLUcxZ1XSAXNBVV95cUxNaHh2MHB1VW9lcGp3cHNCbHZyQTlHT2FCU0dub181aGhZb3FxTVUyVlRUSklzeFpseEdUWHUwaE8xTGVzc1lYNl9fQlpSUTZUR3FZOU9LTExBM0hyZzNWWkZ3Z3RFNm9zelpLWHFLTi1HMWdV?oc=5",
+      "summary": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks Cyber Press",
+      "published_at": "2026-11-25T08:47:36Z",
+      "source": "Google News Global: router security",
+      "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "セキュリティ",
+      "score": 18
+    },
+    {
+      "id": "1e5e83ec3f46cfe0981f42d8",
+      "title": "Wi-Fiが不安定な山奥の別荘。留守中の不安を減らしてくれた「4G LTE対応」のセキュリティカメラ - ROOMIE（ルーミー）",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nRlRJOUhIWFdlMmhQNUpEVVR1dTZPSG9xR3ZKV2o0SVRSNVcxaG04SUJHaW9TWjk4WlJHNUtseG4xTTlhenVOTWJKOUx2aUE?oc=5",
+      "summary": "Wi-Fiが不安定な山奥の別荘。留守中の不安を減らしてくれた「4G LTE対応」のセキュリティカメラ ROOMIE（ルーミー）",
+      "published_at": "2026-11-27T01:32:39Z",
+      "source": "Google News JP: network security",
+      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
+      "info_type": "セキュリティ",
+      "score": 13
+    },
     {
       "id": "c579154e4a4a612c63f2e276",
       "title": "Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ",
@@ -17,24 +39,13 @@
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e135f645db83afbc43d10cee",
       "title": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - マイナビニュース",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZUhJc3oxZm1vX0g3WVVEZVRwdDB0d2lic2pPTm95YWhJS2YzN3hfVUJjWnd5WGI2U1g4VXZ2eUw1UGwwbUhqTV9nbjRraXF2eTRxV1p6SndWZm1I?oc=5",
       "summary": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も マイナビニュース",
-      "published_at": "2026-11-25T06:37:53Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "セキュリティ",
-      "score": 12
-    },
-    {
-      "id": "b533460b3100e5138fd76c03",
-      "title": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUS1h1RDNYR3AzcVFwamk3RVJtbVo2TGh6a09XTmZvdXNpaHg3Z095eDl5aFBvM1hSSGFlUlVodkJ4bWhqeDZpVGFOT2g3QW4yMC1DcXc2TlE0dktwVjZr?oc=5",
-      "summary": "「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も ライブドアニュース",
       "published_at": "2026-11-25T06:37:53Z",
       "source": "Google News JP: network security",
       "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
@@ -104,17 +115,6 @@
       "published_at": "2026-11-25T18:53:38Z",
       "source": "Google News Global: router security",
       "source_url": "https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "セキュリティ",
-      "score": 7
-    },
-    {
-      "id": "a023c16bee29d351d47a60f4",
-      "title": "InfraTrust、ネットワーク機器に組み込まれたソフトウェアの脆弱性が悪用されていると警告 - Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT3ZOM2xURGx5VHNEeGFxUERpZFQ5UjBJYVFwb285SE4yTFNGYUM4Z1N6VThXdDBLanE4SDZEamh2TkNkcXpkZlQ4OTRzOUo1MUUzc3ZkYV8xanp2RkhRYnpOUE0tQkZzYnpVNjdSNmc1UllfVGNXZnpWdTl3alp6cFBzT1VGcE50dWZXVjA0VHAtQjN2WlhVZENQc2g?oc=5",
-      "summary": "InfraTrust、ネットワーク機器に組み込まれたソフトウェアの脆弱性が悪用されていると警告 Mezha.net",
-      "published_at": "2026-11-25T08:15:00Z",
-      "source": "Google News JP: network security",
-      "source_url": "https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&hl=ja&gl=JP&ceid=JP%3Aja",
       "info_type": "セキュリティ",
       "score": 7
     }
