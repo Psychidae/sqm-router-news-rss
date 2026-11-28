@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-27T21:10:49.923452Z",
+  "generated_at": "2026-11-28T03:16:26.942480Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -64,6 +64,17 @@
       "score": 15
     },
     {
+      "id": "62e9bd6474935864543f2406",
+      "title": "Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System - PCMag",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkQxcFdpQW9YS2xIckJGYkROSHBnM0FpQlpxc1RYcnEzc3FwZUU2dVhvQUx6cHAzNUJpRHBZU0U0RXRIcnB0amNwX2Q1NmFZd3dreHkwdmlDbXNvLW5idnBUZnM1U29BUVlOekhDQnNxaHd4bG9oMnVKRlU1c3BTX2NHR2VGMWtB?oc=5",
+      "summary": "Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System PCMag",
+      "published_at": "2026-11-28T02:38:25Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "c0c1faa0f3425397a4c84002",
       "title": "TP-Link’s Archer BE700 Wi-Fi 7 router with a 10Gbps port drops to $199.99 for Black Friday - PC Guide",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlczRm9BblUzY1kwUGxPVkJPcV9FY19ncl9uTlh4VHhwZmxiRFRJbTZsQ3BBOGg1QzZodUlxUXY1Und1VHp1WWsxVm1ydE52ekJDVE5oVjJEZWNjQWl1TzU5VWdMaDV1Y0d5bTUtWXNBck14UjNSdUhFQ3BEZS1PUG9aNWtEUGk1VXFTYUFwTEk4SFU?oc=5",
@@ -83,7 +94,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "350c5c5eb085c78bfef19aec",
@@ -94,7 +105,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
+      "score": 13
     },
     {
       "id": "c589cf5227c9e548d52f3a77",
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXJMbUJnc1JCR2loR2RtMjgxN1VhdzNLMjY0R0dfUGs2TmxXaTB4OUhPbmFiTVQ0d2lQX01nZDRaZGhENWJiVG5LalAwNG4zV3RnakFTODc1VmxXTzdyY3pvc1pMNkFDdVZycGxOUWs4UkZPZjN0cXc5aXBJczVmVlpJV0FLanJIUFJLMTJmWFQ4T2s?oc=5",
       "summary": "TP-Link's tri-band Archer BE550 Wi-Fi 7 router falls to $149.99 for Black Friday, with 2.5G on every port PC Guide",
       "published_at": "2026-11-26T19:02:00Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "0982a934aeafcaa63ff657b7",
-      "title": "D-Link launches C36 BE3600 Wi-Fi 7 router in Australia and New Zealand - Adventure Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXRMZWVWUWRJRUF1LUlLaGR1UFhlUXF4VTRZRkdHeGZnMUZ6bUhyWU1aYWFKYkRXM0xiN1JHQXpIamNHbVJOWjA2b1luOWRYODEyaklhWUtwVDF4ZjlBSndMTDdpYUJWeWJRRG5XR0VlTzJ5am1vbUxfdlFBSlBPOHJiNVpVSXlONTM1YVNJVzFrb2FXTWktNHAyRkFnVi0xa3JwVkdR?oc=5",
-      "summary": "D-Link launches C36 BE3600 Wi-Fi 7 router in Australia and New Zealand Adventure Magazine",
-      "published_at": "2026-11-26T17:48:12Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",

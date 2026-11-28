@@ -5,8 +5,22 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:16:27 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
+    <item>
+      <title>[セキュリティ] Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxQTnk0dEc5SGZCR1k1WnV3QjdLWWtHVXBibmRTQnF0bHZoeEJBeXNKc1kxN09Lcms4ejNVbWdqakJ6T2QwT3BBSm1TTldKVy1jR1JsMWhQWTB2R1ZHOG5MVTRSM1hXSzhBV3hFMV9TQ3QxTFg2RWhKTElGX1dPbGh5RHlqOVljM3EyRlYwSVQ4WHplaC0tb0hxV3FnRTV5Zw?oc=5</link>
+      <guid isPermaLink="false">c579154e4a4a612c63f2e276</guid>
+      <description>種別: セキュリティ
+ソース: Google News JP: network security
+元記事日付: 2026-11-26 08:45
+Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab 合同会社ロケットボーイズ</description>
+      <pubDate>Sat, 28 Nov 2026 03:16:27 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-28T03:16:27.964128Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-25T23:45:32Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
+      <category>セキュリティ</category>
+    </item>
     <item>
       <title>[セキュリティ] 「Firefox 161」を試す - キーボードショートカットやVPNなどで新機能を追加、セキュリティ修正は合計110件も - マイナビニュース</title>
       <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE44ZUhJc3oxZm1vX0g3WVVEZVRwdDB0d2lic2pPTm95YWhJS2YzN3hfVUJjWnd5WGI2U1g4VXZ2eUw1UGwwbUhqTV9nbjRraXF2eTRxV1p6SndWZm1I?oc=5</link>
