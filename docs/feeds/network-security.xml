@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>ルーター、Wi-Fi、VPN、Firewall、ネットワーク機器の脆弱性・CVE・セキュリティアドバイザリを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:50:02 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/network-security.xml</docs>
     <item>
       <title>[セキュリティ] Palo Alto Networks、ファイアウォール「PAN-OS」のサイバー攻撃に悪用済み脆弱性 Fragnesia（CVE-2026-46300）を修正-PHP2Shellとの連鎖攻撃に注意|セキュリティニュースのセキュリティ対策Lab - 合同会社ロケットボーイズ</title>
@@ -89,20 +89,6 @@ Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく�
       <sqm:firstSeenDate>2026-11-24T15:15:56.643916Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-24T08:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+VPN+OR+%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB+OR+%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A9%9F%E5%99%A8%29+%28%E8%84%86%E5%BC%B1%E6%80%A7+OR+CVE+OR+%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+OR+%E3%82%BC%E3%83%AD%E3%83%87%E3%82%A4+OR+%E6%94%BB%E6%92%83%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: network security</source>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>[セキュリティ] CISA gives agencies until Nov. 28 to patch an exploited Juniper router flaw - MLQ.ai</title>
-      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGxwWm5rTFFBcUJGR1BMVHRPWWdpSEswVkh5b1ZUUGRFaVJkWFB6N1NyV2dyTW1XdnhrRWZBQ3VaczYxVGRKVGd1VlFGSlVSWi1hWjd2aS1fR1hXTUhLeXFfeVdlMFY0U0JiS2ZySmNBRnFqakE2R1VOTG1RMDVXbDFvMXBJVURtcUlkLWI5TzJPdFRyLXVCYmc4WQ?oc=5</link>
-      <guid isPermaLink="false">26aea2c9bd9ef42ad052a4b7</guid>
-      <description>種別: セキュリティ
-ソース: Google News Global: router security
-元記事日付: 2026-11-26 03:53
-CISA gives agencies until Nov. 28 to patch an exploited Juniper router flaw MLQ.ai</description>
-      <pubDate>Wed, 25 Nov 2026 18:49:41 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-25T18:49:41.320595Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-25T18:53:38Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%22router+vulnerability%22+OR+%22router+flaw%22+OR+%22Wi-Fi+vulnerability%22+OR+%22firmware+vulnerability%22+OR+%22VPN+vulnerability%22+OR+%22firewall+vulnerability%22+OR+%22CVE%22%29+%28router+OR+Wi-Fi+OR+VPN+OR+firewall+OR+gateway%29&amp;hl=en&amp;gl=US&amp;ceid=US%3Aen">Google News Global: router security</source>
       <category>セキュリティ</category>
     </item>
     <item>

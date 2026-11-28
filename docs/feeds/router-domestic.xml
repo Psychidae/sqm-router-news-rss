@@ -5,7 +5,7 @@
     <link>https://psychidae.github.io/sqm-router-news-rss/</link>
     <description>日本国内向けに、Wi-Fiルーター、ホームルーター、メッシュWi-Fi、ゲーミングルーター、ルーター製品・レビュー・価格関連ニュースを集約します。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 28 Nov 2026 03:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:50:00 GMT</lastBuildDate>
     <docs>https://psychidae.github.io/sqm-router-news-rss/feeds/router-domestic.xml</docs>
     <item>
       <title>[国内ルーター市場] 5G SA/Wi-Fi 7/10GbE対応ホームルーター「home 5G HR03」がドコモから9万円台で発売 - 24Wireless</title>
@@ -33,20 +33,6 @@ NEC「Aterm」のWi-Fiルーターが安い！Amazonブラックフライデー 
       <sqm:firstSeenDate>2026-11-27T02:49:29.862250Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-27T02:30:00Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
-      <category>国内ルーター市場</category>
-    </item>
-    <item>
-      <title>[国内ルーター市場] TP-Link、Wi-Fi 7/2.5GbE対応トラベルルーター「TL-WR3602BE」を国内で発売 - 24Wireless</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBVXMyME1CZnYyVkNweW5WUS0xY1BZUnVwekFnWk10X0VMb2J4T1BYdGx5SzVac0JwRTNMem0taks3R1U1NGNsOWZJcHlObnpiVHJKZmZR?oc=5</link>
-      <guid isPermaLink="false">9054b08246dc0ba399093860</guid>
-      <description>種別: 国内ルーター市場
-ソース: Google News JP: router vendors
-元記事日付: 2026-11-26 21:40
-TP-Link、Wi-Fi 7/2.5GbE対応トラベルルーター「TL-WR3602BE」を国内で発売 24Wireless</description>
-      <pubDate>Sat, 28 Nov 2026 03:16:25 GMT</pubDate>
-      <sqm:firstSeenDate>2026-11-28T03:16:25.739892Z</sqm:firstSeenDate>
-      <sqm:sourcePublishedDate>2026-11-26T12:40:21Z</sqm:sourcePublishedDate>
-      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
     <item>
@@ -103,6 +89,20 @@ TP-Link、Wi-Fi 7/2.5GbE対応トラベルルーター「TL-WR3602BE」を国内
       <sqm:firstSeenDate>2026-11-25T08:23:59.783753Z</sqm:firstSeenDate>
       <sqm:sourcePublishedDate>2026-11-25T02:59:31Z</sqm:sourcePublishedDate>
       <source url="https://news.google.com/rss/search?q=%28%22Wi-Fi%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22Wi-Fi+%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%82%B2%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%22+OR+%22%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi%22%29+%28%E7%99%BA%E5%A3%B2+OR+%E7%99%BA%E8%A1%A8+OR+%E6%96%B0%E8%A3%BD%E5%93%81+OR+%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC+OR+%E4%BE%A1%E6%A0%BC+OR+%E5%9B%BD%E5%86%85+OR+%E6%97%A5%E6%9C%AC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router products</source>
+      <category>国内ルーター市場</category>
+    </item>
+    <item>
+      <title>[国内ルーター市場] Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTNpRUhfRkVWNUVLTnRuZ3lSaFN5Z3N1U0dZa2FQMWN3R1JGdy1zSHZzLWk3RjlfekpiaTNhZjJfc3ZxS3FCRXpiZ1FGQ0tOOE5WOFNZbGxQREtJWG91aWpFVHBHWXB1clBCQmdsT3d6X0xHYWJWLXFLOTFQVXpBU2dCR0JmSDRDaU1UZDFB?oc=5</link>
+      <guid isPermaLink="false">cc8dc0ef1d8040396051fb6f</guid>
+      <description>種別: 国内ルーター市場
+ソース: Google News JP: router vendors
+元記事日付: 2026-11-24 14:12
+Wi-Fiルーター、自身で購入が56.1% シェアはバッファロー、満足度はNEC (Impress Watch) Yahoo!ニュース</description>
+      <pubDate>Sat, 28 Nov 2026 11:50:00 GMT</pubDate>
+      <sqm:firstSeenDate>2026-11-28T11:50:00.479384Z</sqm:firstSeenDate>
+      <sqm:sourcePublishedDate>2026-11-24T05:12:15Z</sqm:sourcePublishedDate>
+      <source url="https://news.google.com/rss/search?q=%28%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC+OR+NEC+OR+ASUS+OR+TP-Link+OR+NETGEAR+OR+%E3%82%A8%E3%83%AC%E3%82%B3%E3%83%A0%29+%28%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC+OR+Wi-Fi+OR+%E7%84%A1%E7%B7%9ALAN+OR+%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5Wi-Fi+OR+%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC%29&amp;hl=ja&amp;gl=JP&amp;ceid=JP%3Aja">Google News JP: router vendors</source>
       <category>国内ルーター市場</category>
     </item>
     <item>

@@ -1,11 +1,11 @@
 {
   "title": "ネットワーク性能・障害ニュース",
   "description": "遅延、パケットロス、DNS、BGP、CDN、IPv6、経路制御、通信障害などネットワーク性能・障害関連ニュースを集約します。",
-  "generated_at": "2026-11-28T03:16:29.036744Z",
+  "generated_at": "2026-11-28T11:50:03.044784Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/network-performance.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/network-performance.json",
-  "count": 5,
+  "count": 1,
   "errors": [],
   "items": [
     {
@@ -18,50 +18,6 @@
       "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "性能・障害",
       "score": 8
-    },
-    {
-      "id": "1baa9837fa78c4dfc5f04337",
-      "title": "富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BTW11Y2cwTlNBMzdHaXdJakdnajJCb2xmSUdVVmJGRDQwXzk0dFNmRy1VMHVCZ05ndWFIcmF0TVpkaXJGdW5pWGN4X2Nna1pWZDVlRFFfY3JsSk1aZUl5ejk1a25lUkNnOWNvSUVrTQ?oc=5",
-      "summary": "富士通傘下の1Finityが光NICを開発、「100k離れても低遅延」がAIに必要な理由 マイナビニュース",
-      "published_at": "2026-11-26T02:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "7ddc938a1e217b8c852dabf6",
-      "title": "Internet outage foreces office meeting - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaW1UTGlkd0ZsM1pzalo0NC1leDRfRnFfXzhDLWxtLUxCNXlHdnVqRXlsRkRDYVBNd2xyWlZBdHRKVi1xOEQxZnlVMnF0TGoxcnVzTkpqMFJ6TGl3OG44WkZoSkJyMVh6UGgwZ3dJdVY2bEZJaHBhaHo4Zl81MjZQN1RTdjFNTjRKV3BpZdIBkgFBVV95cUxOTXNqdm1Jc2doRnEyQTIxQWhqUHZuQ3BGN3FSV2gwVS1OblN0ekFLcS1lNHN6bjhzNHRra1RybVAxYkhmQnpXME9UTndnYmU3NklMX0xJM1BpVFc1QlZfYnNHMW5lbEVFVkdiSzB4MEtmZTlJcXpoMHBSM3F6LUxMWnp0UDhSNWpKY3hIWU91MVVhQQ?oc=5",
-      "summary": "Internet outage foreces office meeting The Korea Times",
-      "published_at": "2026-11-24T04:20:03Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "cbe54cffe40cdb3fa2915320",
-      "title": "Western Sierra County Phone and Internet Outage Update November 2026 - SierraDailyNews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUdOZ0tFX3N4WWQ1OHpkSWhSWUtYYTJRaW54WmFqRUJITlppNU1yUEVsTTF0X0RrXy1VOHEyUEtNR0hSU1RDVUFGeDhUY3ZzMnlsWGJlRDlyamxFb0Q3ZllVX2tMRC14U2l2Wkl0V3VkWWhSalk5QmQzY18taFpFSDlyZ011WVllbVhub2N5V3hOcnc3S1loZGRmM3pvTW5QN1RhLU1Ta2NBbHM?oc=5",
-      "summary": "Western Sierra County Phone and Internet Outage Update November 2026 SierraDailyNews.com",
-      "published_at": "2026-11-22T22:48:41Z",
-      "source": "Google News Global: network performance",
-      "source_url": "https://news.google.com/rss/search?q=%28latency+OR+%22packet+loss%22+OR+%22DNS+outage%22+OR+%22BGP+outage%22+OR+%22BGP+routing%22+OR+%22CDN+outage%22+OR+%22internet+outage%22+OR+%22network+congestion%22+OR+%22routing+incident%22+OR+%22IPv6+outage%22%29+%28network+OR+internet+OR+ISP+OR+routing%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "性能・障害",
-      "score": 7
-    },
-    {
-      "id": "ef0ce68d9eb2c8c3678a95e6",
-      "title": "なぜドコモばかりで通信障害が相次ぐのか？5G SAで12日間に3度の全国通信障害、2回目以降の発端はなお不明のまま 【生成AI事件簿】初回は最大約158万7000回線に影響、暫定措置後も障害が相次いだ背景と公表資料に残る疑問 - JBpress",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOcEltN005eWI2dWpKazJjb3Z5WmVfVVBpUG5kRlZtTlo5RG5FV3FRMzF1cHBZejFyYWxTVHMwNTF1QVY5REVkSms5dDhIaExWdVVua3pB?oc=5",
-      "summary": "なぜドコモばかりで通信障害が相次ぐのか？5G SAで12日間に3度の全国通信障害、2回目以降の発端はなお不明のまま 【生成AI事件簿】初回は最大約158万7000回線に影響、暫定措置後も障害が相次いだ背景と公表資料に残る疑問 JBpress",
-      "published_at": "2026-11-21T21:00:00Z",
-      "source": "Google News JP: network outage",
-      "source_url": "https://news.google.com/rss/search?q=%28%E9%80%9A%E4%BF%A1%E9%9A%9C%E5%AE%B3+OR+%E9%81%85%E5%BB%B6+OR+%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E3%83%AD%E3%82%B9+OR+DNS%E9%9A%9C%E5%AE%B3+OR+CDN%E9%9A%9C%E5%AE%B3+OR+BGP+OR+IPv6+OR+%E7%B5%8C%E8%B7%AF%E9%9A%9C%E5%AE%B3%29+%28%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF+OR+%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88+OR+%E5%9B%9E%E7%B7%9A+OR+ISP%29&hl=ja&gl=JP&ceid=JP%3Aja",
-      "info_type": "性能・障害",
-      "score": 6
     }
   ]
 }

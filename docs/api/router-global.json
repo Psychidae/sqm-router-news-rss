@@ -1,7 +1,7 @@
 {
   "title": "海外ルーターニュース",
   "description": "海外のWi-Fi router、mesh router、gaming router、OpenWrt、ルーターファームウェア・製品ニュースを集約します。",
-  "generated_at": "2026-11-28T03:16:26.942480Z",
+  "generated_at": "2026-11-28T11:50:01.466625Z",
   "site_url": "https://psychidae.github.io/sqm-router-news-rss/",
   "feed_url": "https://psychidae.github.io/sqm-router-news-rss/feeds/router-global.xml",
   "api_url": "https://psychidae.github.io/sqm-router-news-rss/api/router-global.json",
@@ -50,7 +50,7 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 18
+      "score": 17
     },
     {
       "id": "86484c5048f2b961180f6da1",
@@ -64,11 +64,33 @@
       "score": 15
     },
     {
+      "id": "8456f18bee27f210d97b72ba",
+      "title": "Last chance Black Friday deal on tri-band Wi-Fi 7 router from TP-Link Archer drops price to just $310 - PC Guide",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcTRCRkgwVlNKa1pvYWhaVklEUUFhaWZOZWlKV2d6T2lsMHlTWjRjOE15d1BGczRLbDU2RDhLVGk5YnJCN0J3Q1dtOHpObGJLdjYxX2J6bDJrcnBXcnJKNVhZMHJtbkFqUE9yMEpfV05FLV91dlRYNWZTTnRQaENFMkowUkxwMmZVYUN2bjZmbGwtdWhxZUhBeUI3MFNKNmZSQjRDcjVNN1ZaVVhSakhqUmhIZ3B0UDlMVGFsSGZ0Q2Mzc0dlS1JYTmJ2SQ?oc=5",
+      "summary": "Last chance Black Friday deal on tri-band Wi-Fi 7 router from TP-Link Archer drops price to just $310 PC Guide",
+      "published_at": "2026-11-28T03:31:01Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
+      "id": "a2fad4351427df67ed696717",
+      "title": "Docomo New Wi-Fi 7 Home Router Works With Both 5G and Fibre - TelecomTalk",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xOFFwRHJ5NVozam9vUlRsa2RBWVIxN0hmWjdmTnpRTFVKeWxxUW9TUjN0ZEpaMHRxU2dIeVFvSXFEMmdDUzlwVU1fYUpCVGs2WHBLbHcyOUJvbkFhQVg1YUFaclRRX0IzdnNJWEtaLUVRVGlLZHlnQzR3ZzBkRms?oc=5",
+      "summary": "Docomo New Wi-Fi 7 Home Router Works With Both 5G and Fibre TelecomTalk",
+      "published_at": "2026-11-28T02:38:59Z",
+      "source": "Google News Global: home networking",
+      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
+      "info_type": "海外ルーターニュース",
+      "score": 14
+    },
+    {
       "id": "62e9bd6474935864543f2406",
       "title": "Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System - PCMag",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkQxcFdpQW9YS2xIckJGYkROSHBnM0FpQlpxc1RYcnEzc3FwZUU2dVhvQUx6cHAzNUJpRHBZU0U0RXRIcnB0amNwX2Q1NmFZd3dreHkwdmlDbXNvLW5idnBUZnM1U29BUVlOekhDQnNxaHd4bG9oMnVKRlU1c3BTX2NHR2VGMWtB?oc=5",
       "summary": "Black Friday Router Deals: Save Up to $200 on an eero Wi-Fi 7 Mesh System PCMag",
-      "published_at": "2026-11-28T02:38:25Z",
+      "published_at": "2026-11-27T23:38:25Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
@@ -83,17 +105,6 @@
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
-      "score": 14
-    },
-    {
-      "id": "a2ef950667738f4fb55de2bf",
-      "title": "D-Link launches affordable Wi-Fi 7 Router (C36 BE3600) below A$250 - Craving Tech",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREQzSEZNdUJqRWpHT2VPQS1VLS1tYmtXRnE0Qm1KTi1hZ0c3RDV1NFRPcWZLZFk1VDNZUGhETE0xbkZyMmJJVVpvUUVWcjhZd0c0N2xZbDRod1pnTDYzZUJONUdlMlgtUTdHazlzMk1LZWEyaDBrdjRlbWc2U1YyYmMtU29XYmhwSXVfQWc2S3V3ekFWbFlyajlyaXM?oc=5",
-      "summary": "D-Link launches affordable Wi-Fi 7 Router (C36 BE3600) below A$250 Craving Tech",
-      "published_at": "2026-11-27T02:23:43Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
       "score": 13
     },
     {
@@ -102,17 +113,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYTRZV1pZazUwb2lrSTcyejhrWnVSNW5mc2g0NFRsSnRlSGFmbFl2UGZoSjVuNmZSSC1lSU9GU29jdUJhdmlEMVVrNEpTMXpaSVQxelBxdlhDU3pNRnFFM1J0ejQxSnJLb0pLbHFrdnlUbXJaWnZrRVdqWkEzdjFxaGNiT0o5Ql95WXJCYUpvbw?oc=5",
       "summary": "TP-Link’s tri-band Wi-Fi 7 router is $100 off at Amazon, with four 2.5GbE LAN ports MIXED News",
       "published_at": "2026-11-26T21:53:24Z",
-      "source": "Google News Global: home networking",
-      "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
-      "info_type": "海外ルーターニュース",
-      "score": 13
-    },
-    {
-      "id": "c589cf5227c9e548d52f3a77",
-      "title": "TP-Link's tri-band Archer BE550 Wi-Fi 7 router falls to $149.99 for Black Friday, with 2.5G on every port - PC Guide",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYXJMbUJnc1JCR2loR2RtMjgxN1VhdzNLMjY0R0dfUGs2TmxXaTB4OUhPbmFiTVQ0d2lQX01nZDRaZGhENWJiVG5LalAwNG4zV3RnakFTODc1VmxXTzdyY3pvc1pMNkFDdVZycGxOUWs4UkZPZjN0cXc5aXBJczVmVlpJV0FLanJIUFJLMTJmWFQ4T2s?oc=5",
-      "summary": "TP-Link's tri-band Archer BE550 Wi-Fi 7 router falls to $149.99 for Black Friday, with 2.5G on every port PC Guide",
-      "published_at": "2026-11-26T19:02:00Z",
       "source": "Google News Global: home networking",
       "source_url": "https://news.google.com/rss/search?q=%28%22home+networking%22+OR+%22Wi-Fi+7%22+OR+%22mesh+Wi-Fi%22%29+%28router+OR+gateway+OR+firmware+OR+review%29&hl=en&gl=US&ceid=US%3Aen",
       "info_type": "海外ルーターニュース",
